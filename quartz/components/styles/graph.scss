@@ -68,6 +68,24 @@
       @media all and not ($desktop) {
         width: 90%;
       }
+      /* Styles for graph node labels */
+	.graph-container text,
+	.global-graph-container text {
+	  font-size: 0.85rem; // or try 14px or 1rem for larger
+	  fill: var(--dark); // for light themes; switch to var(--light) if using dark backgrounds
+	  font-family: Inter, sans-serif;
+	  pointer-events: none;
+
+	  /* Optional enhancements */
+	  paint-order: stroke;
+	  stroke: #fff;
+	  stroke-width: 2px;
+	  text-shadow: 0 0 4px rgba(0, 0, 0, 0.6);
+	}
+      
+      
+      
+      
     }
   }
 }

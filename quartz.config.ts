@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "M.I. Journal",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,9 +16,9 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "journal.matuteiglesias.link",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -54,44 +54,58 @@ const config: QuartzConfig = {
     },
   },
   plugins: {
-    transformers: [
-      Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
-      }),
-      Plugin.SyntaxHighlighting({
-        theme: {
-          light: "github-light",
-          dark: "github-dark",
-        },
-        keepBackground: false,
-      }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
-      Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
-      Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
-    ],
-    filters: [Plugin.RemoveDrafts()],
-    emitters: [
-      Plugin.AliasRedirects(),
-      Plugin.ComponentResources(),
-      Plugin.ContentPage(),
-      Plugin.FolderPage(),
-      Plugin.TagPage(),
-      Plugin.ContentIndex({
-        enableSiteMap: true,
-        enableRSS: true,
-      }),
-      Plugin.Assets(),
-      Plugin.Static(),
-      Plugin.Favicon(),
-      Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
-    ],
-  },
-}
+	  transformers: [
+	    Plugin.FrontMatter(),
+	    Plugin.CreatedModifiedDate({
+	      priority: ["frontmatter", "git", "filesystem"],
+	    }),
+	    Plugin.SyntaxHighlighting({
+	      theme: {
+		light: "github-light",
+		dark: "github-dark",
+	      },
+	      keepBackground: false,
+	    }),
+	    
+	    Plugin.CrawlLinks({
+	      markdownLinkResolution: "absolute",  // safest if your filenames are unique
+	      prettyLinks: true,
+	      openLinksInNewTab: true,
+	      lazyLoad: true,
+	      externalLinkIcon: true,
+	    }),
+	    
+	    
+	    Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+	    Plugin.GitHubFlavoredMarkdown(),
+	    Plugin.TableOfContents(),
+	    Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+	    Plugin.Description(),
+	    Plugin.Latex({ renderEngine: "katex" }),
+	  ],
+	  filters: [
+	    Plugin.ExplicitPublish(),
+	    Plugin.RemoveDrafts(),
+	  ],
+	  emitters: [
+	    Plugin.AliasRedirects(),
+	    Plugin.ComponentResources(),
+	    Plugin.ContentPage(),
+	    Plugin.FolderPage(),
+	    Plugin.TagPage(),
+	    Plugin.ContentIndex({
+	      enableSiteMap: true,
+	      enableRSS: true,
+	    }),
+	    Plugin.Assets(),
+	    Plugin.Static(),
+	    Plugin.Favicon(),
+	    Plugin.NotFoundPage(),
+	    // Plugin.CustomOgImages(), // Comment out if you want faster builds
+
+	  ],
+	},
+
+	}
 
 export default config

@@ -520,7 +520,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       })
     }
   }
-
+  const baseNodeScale = 2  // constant multiplier
   if (enableZoom) {
     select<HTMLCanvasElement, NodeData>(app.canvas).call(
       zoom<HTMLCanvasElement, NodeData>()
@@ -530,12 +530,23 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         ])
         .scaleExtent([0.25, 4])
         .on("zoom", ({ transform }) => {
+          //currentTransform = transform
+          //stage.scale.set(transform.k, transform.k)
+          
           currentTransform = transform
-          stage.scale.set(transform.k, transform.k)
+
+          const dampenedK = 0.3 + 0.6 * transform.k
+          const scaledK = baseNodeScale * dampenedK
+
+          stage.scale.set(scaledK, scaledK)
           stage.position.set(transform.x, transform.y)
+        
+	  //stage.scale.set(dampenedK, dampenedK)
+          //stage.position.set(transform.x, transform.y)
 
           // zoom adjusts opacity of labels too
           const scale = transform.k * opacityScale
+          
           let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
           const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
 

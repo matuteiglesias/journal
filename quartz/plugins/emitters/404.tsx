@@ -31,8 +31,25 @@ export const NotFoundPage: QuartzEmitterPlugin = () => {
       const cfg = ctx.cfg.configuration
       const slug = "404" as FullSlug
 
-      const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
-      const path = url.pathname as FullSlug
+      // const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
+      // const path = url.pathname as FullSlug
+
+      let path: FullSlug
+
+      try {
+        // Treat baseUrl as a path (not a hostname)
+        const rawPath = cfg.baseUrl ?? "/"
+        const normalized = rawPath.startsWith("/") ? rawPath : `/${rawPath}`
+        const url = new URL(normalized, "https://example.com") // dummy base
+        path = url.pathname as FullSlug
+      } catch (err) {
+        console.warn("⚠️ Failed to resolve baseUrl path. Falling back to '/'")
+        path = "/" as FullSlug
+      }
+      
+
+
+
       const notFound = i18n(cfg.locale).pages.error.title
       const [tree, vfile] = defaultProcessedContent({
         slug,

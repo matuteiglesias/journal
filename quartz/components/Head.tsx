@@ -22,20 +22,27 @@ export default (() => {
 
     const { css, js, additionalHead } = externalResources
 
-    const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
-    const path = url.pathname as FullSlug
-    const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
+    // Get domain and base path from config
+    const domain = "https://journal.matuteiglesias.link" // ✅ include scheme
+    const basePath = cfg.baseUrl?.startsWith("/") ? cfg.baseUrl : `/${cfg.baseUrl ?? ""}`
+    
+    // Resolved path of this page (e.g., "/", "/slug", etc.)
+    const pagePath = fileData.slug === "404" ? basePath : joinSegments(basePath, fileData.slug!)
+    const canonical = new URL(pagePath, domain) // full canonical URL: domain + path
+    
+    // Needed for relative paths to static resources
+    const baseDir = fileData.slug === "404" ? basePath : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
-
-    // Url of current page
-    const socialUrl =
-      fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
-
+    
+    // Full social sharing URL
+    const socialUrl = canonical.toString()
+    
+    // OG image fallback
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
     )
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
-
+    const ogImageDefaultPath = new URL("static/og-image.png", canonical).toString()
+      
     return (
       <head>
         <title>{title}</title>

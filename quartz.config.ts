@@ -1,3 +1,4 @@
+import { truncate } from "node:fs/promises"
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
@@ -6,17 +7,19 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
+
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "M.I. Journal",
     pageTitleSuffix: "",
-    enableSPA: false,
+    enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "journal.matuteiglesias.link",
+    // baseUrl: "journal.matuteiglesias.link",
+	baseUrl: "/", // or "/subpath" if on a subdomain or subfolder
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -53,6 +56,8 @@ const config: QuartzConfig = {
       },
     },
   },
+
+
   plugins: {
 	  transformers: [
 	    Plugin.FrontMatter(),

@@ -19,7 +19,7 @@ The session aimed to explore [[AI]] system prompt engineering and health protoco
 ### Key Activities
 - **[[AI]] System Prompt Engineering**: Analyzed voice response bias and system prompts, exploring strategies to override built-in prompts for desired [[AI]] behavior.
 - **Health Protocols**: Developed health management strategies including rinitis alérgica management, biohacking with melatonin, and skin irritation care.
-- **Meal Prep and [[Cooking]]**: Executed a comprehensive meal prep workflow, including modular meal prep systems, cooking timelines, and sauce preparation.
+- **Meal Prep and Cooking**: Executed a comprehensive meal prep workflow, including modular meal prep systems, cooking timelines, and sauce preparation.
 
 ### Achievements
 - Identified systemic biases in [[AI]] voice responses and proposed effective prompt engineering strategies.

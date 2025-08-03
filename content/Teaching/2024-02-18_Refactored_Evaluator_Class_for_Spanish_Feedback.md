@@ -19,7 +19,7 @@ The session aimed to enhance the `Evaluator` class to support Spanish feedback f
 ### Key Activities
 - Modified the `Evaluator` class and [[Flask]] routes to incorporate exercise content and provide feedback in Spanish.
 - Developed an improved [[AI]] feedback prompt for computer science evaluations, focusing on pedagogically sound feedback.
-- Created a Spanish HTML template for a feedback page using Bootstrap.
+- Created a Spanish [[HTML]] template for a feedback page using Bootstrap.
 - Planned features for an educational tool to support autonomous learning, including a query interface and tips system.
 - Outlined steps for software product distribution, emphasizing documentation, code quality, and security.
 - Structured user and technical documentation for an educational platform.
@@ -29,7 +29,7 @@ The session aimed to enhance the `Evaluator` class to support Spanish feedback f
 ### Achievements
 - Successfully integrated Spanish feedback into the `Evaluator` class.
 - Enhanced the feedback prompt for [[AI]] evaluators in computer science.
-- Developed a responsive HTML template for feedback pages.
+- Developed a responsive [[HTML]] template for feedback pages.
 - Established a structured approach to software distribution and documentation.
 
 ### Pending Tasks

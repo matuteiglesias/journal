@@ -19,9 +19,9 @@ The session aimed to enhance various data processing workflows, focusing on erro
 ### Key Activities
 - **Resolved 'module tmap has no attribute LSHForest' Error:** Addressed package conflicts and provided integration instructions with LlamaIndex.
 - **Explored Dendrogram-Style Structures:** Evaluated methods for dendrogram-style clustering using HDBSCAN and SciPy.
-- **Developed JSONL to Document Conversion [[Pipeline]]:** Created a streamlined process for converting JSONL files to Markdown and organizing them based on cosine distance.
+- **Developed JSONL to Document Conversion Pipeline:** Created a streamlined process for converting JSONL files to Markdown and organizing them based on cosine distance.
 - **Analyzed Hierarchical Linkage:** Discussed strategies for improving dendrogram clarity through filtering and clustering.
-- **Managed Oversized Nodes in Embedding [[Pipeline]]:** Implemented techniques to handle nodes exceeding token limits.
+- **Managed Oversized Nodes in Embedding Pipeline:** Implemented techniques to handle nodes exceeding token limits.
 - **Generated Markdown Files for Clustering:** Developed methods for concatenating notes and creating clustered reports.
 - **Optimized Text Embedding with Caching:** Introduced caching and hashing to optimize embedding processes.
 - **Debugged Filename Matching with glob():** Provided solutions for handling non-ASCII characters in filenames.

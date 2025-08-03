@@ -37,7 +37,7 @@ The session aimed to explore various aspects of [[AI]] development frameworks an
 ### Pending Tasks
 - Further exploration of DSL design for [[AI]] workflows.
 - Implementation of LangChain's [[JSON]] schema in ongoing projects.
-- [[Development]] of [[AI]]-native product creation tools.
+- Development of [[AI]]-native product creation tools.
 
 ### Labels
-- [[AI]] [[Development]], MVP, Prompt Engineering, DSL, LangChain
+- [[AI]] Development, MVP, Prompt Engineering, DSL, LangChain

@@ -2,7 +2,7 @@
 title: "Developed Strategies for Business and Marketing Automation"
 tags: ['Business Strategy', 'Automation', 'Marketing', 'Linkedin', 'Cold Email']
 created: 2025-05-05
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-05 — Session: Developed Strategies for Business and Marketing Automation

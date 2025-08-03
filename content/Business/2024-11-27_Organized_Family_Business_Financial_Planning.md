@@ -2,7 +2,7 @@
 title: "Organized Family Business Financial Planning"
 tags: ['Financial Planning', 'Family Business', 'Inheritance', 'Property Management', 'Legal Procedures']
 created: 2024-11-27
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-27 — Session: Organized Family Business Financial Planning

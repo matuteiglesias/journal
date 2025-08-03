@@ -2,7 +2,7 @@
 title: "Strategic Communication and Leadership Planning for LCD"
 tags: ['Communication', 'Leadership', 'Strategy', 'LCD', 'Community', 'Transparency']
 created: 2024-11-03
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-03 — Session: Strategic Communication and Leadership Planning for LCD
@@ -25,7 +25,7 @@ The session aimed to develop comprehensive strategies for communication and lead
 - **Campaign [[Strategy]] Analysis for LCD:** Detailed strategies for electoral campaigns emphasizing collaboration and transparency.
 - **Proposal for Collaborative Management in [[Data Science]] Degree:** Suggested a more inclusive and transparent management model.
 - **Informative Material Structure for LCD Voters:** Proposed a detailed guide for voter education on LCD commission roles.
-- **[[Leadership]] Vision for LCD:** Presented a comprehensive leadership vision focusing on adaptability and community participation.
+- **Leadership Vision for LCD:** Presented a comprehensive leadership vision focusing on adaptability and community participation.
 - **Institutional Improvement Plan:** Diagnosed key areas for improvement in collaboration and transparency.
 
 ### Achievements

@@ -17,7 +17,7 @@ publish: true
 The primary goal of this session was to outline and begin the development of a minimal viable product (MVP) named 'Ask Your Doc'. This application is designed to allow users to upload documents and ask questions about their content using various services and APIs.
 
 ### Key Activities
-- **[[Development]] Plan**: Created a comprehensive development plan for 'Ask Your Doc', including backend [[API]] endpoints and frontend components using FastAPI and React.
+- **Development Plan**: Created a comprehensive development plan for 'Ask Your Doc', including backend [[API]] endpoints and frontend components using FastAPI and React.
 - **Project Structure**: Designed the project structure, detailing file management and component plans for both frontend and backend.
 - **React Hooks**: Reviewed the use of `useState` and `useEffect` in React to enhance the interactivity of components.
 - **LangChain Prompt Engine**: Outlined a LangChain-compatible prompt engine for integration into the MVP, focusing on modularity and interoperability.

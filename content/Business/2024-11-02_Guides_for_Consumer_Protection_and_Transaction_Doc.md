@@ -2,7 +2,7 @@
 title: "Guides for Consumer Protection and Transaction Documentation"
 tags: ['Consumer Protection', 'Transaction Documentation', 'Legal Compliance', 'Mercado Pago', 'COELSA']
 created: 2024-11-02
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-02 — Session: Guides for Consumer Protection and Transaction Documentation

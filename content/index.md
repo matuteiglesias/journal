@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Journal"
+title: "Welcome"
 tags: []
 created: 2025-01-01
 publish: true

@@ -2,7 +2,7 @@
 title: "Explored UI Factory and Indie Development Strategies"
 tags: ['Ui Design', 'Automation', 'Indie Development', 'Ai Tools', 'Monetization']
 created: 2025-04-15
-publish: false
+publish: true
 ---
 
 ## 📅 2025-04-15 — Session: Explored UI Factory and Indie Development Strategies

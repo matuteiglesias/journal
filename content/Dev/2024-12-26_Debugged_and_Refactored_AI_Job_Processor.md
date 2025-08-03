@@ -22,7 +22,7 @@ The primary goal of this session was to debug and refactor the [[AI]] Job Proces
 - Summarized strategies for enhancing portfolio management systems and project curation.
 - Developed a structured prompt for evaluating GitHub repositories as potential portfolio projects.
 - Created a framework for comprehensive analysis of GitHub repositories, focusing on technical relevance and portfolio alignment.
-- Provided a guide for listing Git repository URLs using Unix-like shell commands.
+- Provided a guide for listing [[Git]] repository URLs using Unix-like shell commands.
 - Conducted a detailed analysis of the `xtream-ai-assignment-engineer` repository and documented findings in a markdown file.
 - Finalized the process for creating markdown files, ensuring consistent file naming.
 

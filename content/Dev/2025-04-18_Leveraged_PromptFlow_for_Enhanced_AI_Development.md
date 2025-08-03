@@ -36,4 +36,4 @@ The session aimed to explore and leverage PromptFlow's existing infrastructure f
 **Pending Tasks:**
 - Further exploration of FlowExecutor's operational insights and extension ideas.
 - Implementation of the new authoring paradigm in practical scenarios.
-- [[Development]] of open-source flow packs and composable agents for FlowPower.
+- Development of open-source flow packs and composable agents for FlowPower.

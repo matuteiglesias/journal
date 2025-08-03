@@ -17,8 +17,8 @@ publish: false
 The session aimed to refine personal skincare routines and analyze technical algorithm solutions, focusing on error resolution and optimization techniques.
 
 ### Key Activities
-- **Skincare Routine [[Development]]**: Reviewed and structured a daily skincare routine with specific product recommendations, emphasizing the importance of sun protection and product sensitivity.
-- **Error Analysis in Software [[Development]]**: Analyzed error messages related to libraries such as Qt, D-Bus, GTK+, and libvpx, providing recommendations for resolution.
+- **Skincare Routine Development**: Reviewed and structured a daily skincare routine with specific product recommendations, emphasizing the importance of sun protection and product sensitivity.
+- **Error Analysis in Software Development**: Analyzed error messages related to libraries such as Qt, D-Bus, GTK+, and libvpx, providing recommendations for resolution.
 - **Algorithm Analysis and [[Optimization]]**: Evaluated recursive functions for calculating minimum resistance in aviation contexts, identifying indexing errors and recommending corrections. Discussed the importance of memoization in dynamic programming to optimize algorithm efficiency.
 
 ### Achievements

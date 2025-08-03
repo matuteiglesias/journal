@@ -2,7 +2,7 @@
 title: "Analysis and Strategic Planning for Data Science Committees"
 tags: ['Data Science', 'Institutional Change', 'Governance', 'Strategic Planning', 'NLP']
 created: 2024-06-29
-publish: false
+publish: true
 ---
 
 ## 📅 2024-06-29 — Session: Analysis and Strategic Planning for Data Science Committees
@@ -29,7 +29,7 @@ The session aimed to analyze the dynamics and challenges faced within [[Data Sci
 
 ### Achievements
 - Comprehensive analysis of institutional dynamics and challenges in [[Data Science]] committees.
-- [[Development]] of strategic plans and communication frameworks to address challenges and enhance engagement.
+- Development of strategic plans and communication frameworks to address challenges and enhance engagement.
 
 ### Pending Tasks
 - Implementation of the proposed communication plans and strategic recommendations.

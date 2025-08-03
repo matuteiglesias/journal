@@ -2,7 +2,7 @@
 title: "Preparation for Argentine Poverty Atlas Presentation"
 tags: ['Mapbox', 'Presentation', 'Data Visualization', 'Webinar', 'Argentine Poverty Atlas']
 created: 2024-10-24
-publish: false
+publish: true
 ---
 
 ## 📅 2024-10-24 — Session: Preparation for Argentine Poverty Atlas Presentation

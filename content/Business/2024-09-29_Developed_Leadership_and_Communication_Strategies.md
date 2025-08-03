@@ -2,7 +2,7 @@
 title: "Developed Leadership and Communication Strategies"
 tags: ['Leadership', 'Communication', 'Strategy', 'Political', 'Perception']
 created: 2024-09-29
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-29 — Session: Developed Leadership and Communication Strategies
@@ -20,8 +20,8 @@ The session focused on developing strategies for leadership perception and commu
 - **Reflection on Political Dynamics**: Analyzed the political dynamics within Exactas, focusing on polarization and electoral strategies.
 - **Strategic Opportunity Planning**: Discussed how to transform discreditation attempts into strategic opportunities to enhance influence.
 - **Criticism Response Strategies**: Outlined strategies for constructive criticism response, emphasizing leadership and unity.
-- **[[Leadership]] Perception [[Strategy]]**: Reflected on positioning and communication strategies to enhance leadership perception.
-- **[[Leadership]] Projection**: Considered the impact of leaving La Cámpora on leadership trajectory and personal branding.
+- **Leadership Perception [[Strategy]]**: Reflected on positioning and communication strategies to enhance leadership perception.
+- **Leadership Projection**: Considered the impact of leaving La Cámpora on leadership trajectory and personal branding.
 
 ### Achievements
 - Developed comprehensive strategies for managing political narratives and enhancing leadership perception.

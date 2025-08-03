@@ -2,7 +2,7 @@
 title: "Analyzed and Structured Economic Volatility Concepts"
 tags: ['Volatility', 'Sales Dynamics', 'Economic Analysis', 'Mathematics', 'Statistics']
 created: 2023-10-19
-publish: false
+publish: true
 ---
 
 ## 📅 2023-10-19 — Session: Analyzed and Structured Economic Volatility Concepts

@@ -2,7 +2,7 @@
 title: "Strategic Business Planning and Analysis Session"
 tags: ['Strategic Planning', 'Business Analysis', 'Mvp Development', 'Branding', 'Revenue Planning']
 created: 2025-07-03
-publish: false
+publish: true
 ---
 
 ## 📅 2025-07-03 — Session: Strategic Business Planning and Analysis Session

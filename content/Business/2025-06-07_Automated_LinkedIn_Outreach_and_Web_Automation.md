@@ -2,7 +2,7 @@
 title: "Automated LinkedIn Outreach and Web Automation"
 tags: ['Linkedin', 'Automation', 'Selenium', 'Katalon', 'Web Automation', 'Outreach']
 created: 2025-06-07
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-07 — Session: Automated LinkedIn Outreach and Web Automation

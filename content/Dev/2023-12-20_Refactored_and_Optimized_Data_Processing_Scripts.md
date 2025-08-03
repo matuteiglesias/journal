@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance the efficiency and maintainability of data processing scripts and Jupyter notebooks used in economic network analysis.
+The session aimed to enhance the efficiency and maintainability of data processing scripts and [[Jupyter]] notebooks used in economic network analysis.
 
 ### Key Activities
-- Revised a prompt for Jupyter Notebook analysis focusing on code functionality and integration.
+- Revised a prompt for [[Jupyter]] Notebook analysis focusing on code functionality and integration.
 - Proposed a restructuring plan for economic network analysis notebooks to improve modularity and coherence.
 - Refactored [[Python]] code for data processing using Dask and [[Pandas]], improving readability and maintainability.
 - Streamlined degree distribution plots notebook using [[Pandas]] and [[Matplotlib]] for clarity and efficiency.

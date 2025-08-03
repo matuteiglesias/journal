@@ -19,8 +19,8 @@ The session aimed to conduct a weekly retrospective on focus areas and plan for 
 ### Key Activities
 - Conducted a **Weekly Retrospective** for the period of April 24–30, 2025, focusing on time management and strategic insights.
 - Developed an **Energy-Conscious [[Task Management]] Framework** to balance productivity and self-care.
-- Outlined a **Personal [[AI]] Ops [[Pipeline]]** for task and energy management, detailing stages from session logging to automation.
-- Created a **Human-to-Flow Weekly Work Tracker [[Pipeline]]** to transform retrospectives into structured actions and enhance productivity.
+- Outlined a **Personal [[AI]] Ops Pipeline** for task and energy management, detailing stages from session logging to automation.
+- Created a **Human-to-Flow Weekly Work Tracker Pipeline** to transform retrospectives into structured actions and enhance productivity.
 - Explored methods for **Streamlining Chat Export for [[AI]] Ops** to integrate chat data into workflows efficiently.
 
 ### Achievements

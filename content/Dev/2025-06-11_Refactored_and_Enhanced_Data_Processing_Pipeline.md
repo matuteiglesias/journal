@@ -20,7 +20,7 @@ The primary objective of this session was to improve and refactor the data proce
 - **Mapping Article IDs to Index IDs:** Implemented a strategy to reconcile natural article IDs with index IDs for LLM integration.
 - **[[Error Handling]]:** Addressed issues with [[CSV]] concatenation and JSONL file management, including troubleshooting steps for missing files and syntax errors in [[Python]].
 - **Digest Generation:** Automated the generation of digests in Markdown and JSONL formats, ensuring robust error handling and UID propagation.
-- **[[Pipeline]] Analysis:** Conducted a critical analysis of the digest grouping and JSONL generator, proposing fixes for correctness and reliability.
+- **Pipeline Analysis:** Conducted a critical analysis of the digest grouping and JSONL generator, proposing fixes for correctness and reliability.
 - **Design Review:** Reviewed the `update_master_index_from_directory` function to enhance modularity and idempotence.
 - **Script Enhancements:** Improved the UID-based scraping script and refactored the news fetching logic to include deduplication.
 

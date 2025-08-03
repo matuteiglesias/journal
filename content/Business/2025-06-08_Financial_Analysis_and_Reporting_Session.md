@@ -2,7 +2,7 @@
 title: "Financial Analysis and Reporting Session"
 tags: ['Financial Analysis', 'Data Visualization', 'Reporting', 'Python', 'Pandas']
 created: 2025-06-08
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-08 — Session: Financial Analysis and Reporting Session

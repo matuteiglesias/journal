@@ -2,7 +2,7 @@
 title: "Professional Branding and Script Optimization"
 tags: ['Professional Branding', 'Resume', 'Linkedin', 'Python', 'Script Optimization', 'Google Sheets']
 created: 2025-01-24
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-24 — Session: Professional Branding and Script Optimization

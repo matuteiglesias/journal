@@ -2,7 +2,7 @@
 title: "Enhanced Job Analysis and AI Integration"
 tags: ['Job Analysis', 'Ai Integration', 'Data Processing', 'Python Scripting']
 created: 2024-12-06
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-06 — Session: Enhanced Job Analysis and AI Integration

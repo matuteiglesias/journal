@@ -2,7 +2,7 @@
 title: "Monthly Systemic Agency Evolution Analysis"
 tags: ['Evolución', 'Estrategia', 'Automatización', 'Monetización', 'Desarrollo Personal']
 created: 2025-05-26
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-26 — Session: Monthly Systemic Agency Evolution Analysis

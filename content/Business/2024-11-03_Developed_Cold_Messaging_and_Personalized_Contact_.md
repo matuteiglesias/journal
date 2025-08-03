@@ -2,7 +2,7 @@
 title: "Developed Cold Messaging and Personalized Contact Strategies"
 tags: ['Cold Messaging', 'Personalized Contact', 'Optimization', 'Data Processing', 'Education']
 created: 2024-11-03
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-03 — Session: Developed Cold Messaging and Personalized Contact Strategies

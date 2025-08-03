@@ -24,7 +24,7 @@ The primary goal of this session was to resolve various [[Python]] errors and im
 - **Addressed Critical Path Mismatch**: Diagnosed and fixed issues with the `meta.json` file not being read correctly in the RunManager, leading to pipeline execution errors.
 - **Resolved Timestamp Mismatch**: Provided fixes for timestamp mismatch issues in the data pipeline, ensuring consistent metadata handling.
 - **Compared Query Handling Versions**: Analyzed differences between old and new query handling methods, identifying reliance on metadata as a potential failure point.
-- **Aligned Modular [[Pipeline]] with Monolithic Script**: Corrected and aligned the modular pipeline code with the monolithic script, focusing on I/O paths and metadata propagation.
+- **Aligned Modular Pipeline with Monolithic Script**: Corrected and aligned the modular pipeline code with the monolithic script, focusing on I/O paths and metadata propagation.
 - **Fixed File Handling in [[Python]] Script**: Addressed errors related to file handling by implementing defensive programming techniques.
 - **Debugged File Download Link Function**: Identified and proposed fixes for errors in the `file_download_link` function related to incorrect file handling.
 

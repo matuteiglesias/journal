@@ -18,7 +18,7 @@ The session aimed to advance the development of a Retrieval-Augmented Generation
 
 ### Key Activities
 - **LSFA 2025 Contribution Planning**: Explored potential contributions to the LSFA 2025 conference, focusing on Matías' expertise in semantic pipelines and formal logic.
-- **RAG Mini-Suite [[Development]]**: Outlined a roadmap for the RAG mini-suite, including MVP completion and productization steps.
+- **RAG Mini-Suite Development**: Outlined a roadmap for the RAG mini-suite, including MVP completion and productization steps.
 - **Gradio UI Module Implementation**: Developed a `rag_ui.py` module for Gradio, integrating context retrieval and LLM-based question answering.
 - **[[Python]] UI Fixes**: Resolved tab configuration issues and implemented the missing `get_ui()` function in the RAG UI.
 - **OpenAI [[API]] [[Integration]]**: Updated the `run_llm()` function for OpenAI [[API]] version 1.0.0 and optimized retrieval strategies using the Assistants [[API]].

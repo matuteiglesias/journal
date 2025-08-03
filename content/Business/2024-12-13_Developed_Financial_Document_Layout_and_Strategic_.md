@@ -2,7 +2,7 @@
 title: "Developed Financial Document Layout and Strategic Plan"
 tags: ['Financial Planning', 'Document Design', 'Cash Flow', 'Liabilities', 'Strategic Planning']
 created: 2024-12-13
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-13 — Session: Developed Financial Document Layout and Strategic Plan

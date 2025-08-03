@@ -2,7 +2,7 @@
 title: "Strategic Planning for AI Automation and Product Development"
 tags: ['Ai Automation', 'Product Development', 'Strategic Planning', 'MVP', 'Partnerships']
 created: 2025-02-13
-publish: false
+publish: true
 ---
 
 ## 📅 2025-02-13 — Session: Strategic Planning for AI Automation and Product Development

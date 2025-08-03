@@ -2,7 +2,7 @@
 title: "Daily and Financial Task Management"
 tags: ['Checklist', 'Productivity', 'Finance', 'Strategy', 'Q3', 'Ritual']
 created: 2025-07-04
-publish: false
+publish: true
 ---
 
 ## 📅 2025-07-04 — Session: Daily and Financial Task Management

@@ -23,7 +23,7 @@ The primary goal of this session was to set up and successfully launch the Stabl
 - Set up the Automatic1111 UI on RunPod, addressing various deployment and troubleshooting issues, including resolving missing [[Python]] dependencies and fixing a corrupted virtual environment.
 - Successfully rebuilt the virtual environment, installed necessary dependencies, and launched the UI with `launch.py`, despite a non-blocking warning regarding `jsonmerge`.
 - Provided a workaround for a known bug in setuptools affecting `jsonmerge` installation.
-- Guided on authenticating Jupyter Server and setting up ComfyUI workflow for image generation with Stable Diffusion.
+- Guided on authenticating [[Jupyter]] Server and setting up ComfyUI workflow for image generation with Stable Diffusion.
 - Confirmed the successful installation and running of the Stable Diffusion Web UI locally.
 
 **Achievements:**

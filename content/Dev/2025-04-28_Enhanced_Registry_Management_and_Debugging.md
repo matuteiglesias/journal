@@ -19,7 +19,7 @@ The primary goal of this session was to enhance the automation and management of
 ### Key Activities
 - Developed a **master crawler** in [[Python]] to scan directories and generate a `registry_manifest.json`.
 - Planned and proposed an **enrichment layer** for the registry to improve navigation and usability.
-- Designed a **clean architecture proposal** for automation systems involving Enricher and [[Docusaurus]] Generator Agents.
+- Designed a **clean architecture proposal** for automation systems involving Enricher and Docusaurus Generator Agents.
 - Implemented a **Jinja2 template** for enriching metadata of software artifacts.
 - Corrected and refactored the **registry enrichment process**, including debugging [[Python]] import and file handling errors.
 - Debugged **server response issues** and **tool registration problems** in FastAPI, as well as **LLM orchestration null response handling**.

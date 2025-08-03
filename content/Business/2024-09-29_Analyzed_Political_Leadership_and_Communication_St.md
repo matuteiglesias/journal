@@ -2,7 +2,7 @@
 title: "Analyzed Political Leadership and Communication Strategies"
 tags: ['Political Strategy', 'Leadership', 'Communication', 'Exclusion', 'Cristina Kirchner']
 created: 2024-09-29
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-29 — Session: Analyzed Political Leadership and Communication Strategies

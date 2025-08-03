@@ -2,7 +2,7 @@
 title: "Crafted Launch Strategy for OSS Projects"
 tags: ['OSS', 'Strategy', 'Launch', 'Developer Engagement', 'Branding', 'Content Marketing']
 created: 2025-04-19
-publish: false
+publish: true
 ---
 
 ## 📅 2025-04-19 — Session: Crafted Launch Strategy for OSS Projects

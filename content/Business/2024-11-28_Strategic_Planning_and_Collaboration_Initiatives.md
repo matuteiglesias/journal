@@ -2,7 +2,7 @@
 title: "Strategic Planning and Collaboration Initiatives"
 tags: ['Strategic Planning', 'Collaboration', 'Public Safety', 'Technology', 'Relationship Management']
 created: 2024-11-28
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-28 — Session: Strategic Planning and Collaboration Initiatives

@@ -2,7 +2,7 @@
 title: "Explored Value Investing and Data-Driven Strategies"
 tags: ['Value Investing', 'Data Processing', 'Investment Strategies', 'Algorithmic Trading', 'Data Scraping']
 created: 2024-08-28
-publish: false
+publish: true
 ---
 
 ## 📅 2024-08-28 — Session: Explored Value Investing and Data-Driven Strategies

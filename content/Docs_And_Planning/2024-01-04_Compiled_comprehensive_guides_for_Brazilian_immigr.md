@@ -2,7 +2,7 @@
 title: "Compiled comprehensive guides for Brazilian immigrants"
 tags: ['DNI', 'Residency', 'Nursing', 'Brazilian', 'Argentina']
 created: 2024-01-04
-publish: true
+publish: false
 ---
 
 ## 📅 2024-01-04 — Session: Compiled comprehensive guides for Brazilian immigrants

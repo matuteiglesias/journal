@@ -2,7 +2,7 @@
 title: "Feedback and Refinement on Leadership and Group Dynamics"
 tags: ['Leadership', 'Feedback', 'Group Dynamics', 'Political Communication', 'Strategy']
 created: 2024-08-11
-publish: false
+publish: true
 ---
 
 ## 📅 2024-08-11 — Session: Feedback and Refinement on Leadership and Group Dynamics

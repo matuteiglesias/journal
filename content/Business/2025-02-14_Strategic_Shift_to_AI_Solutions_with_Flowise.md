@@ -2,7 +2,7 @@
 title: "Strategic Shift to AI Solutions with Flowise"
 tags: ['Ai Solutions', 'Flowise', 'Business Strategy', 'Node.Js', 'Installation']
 created: 2025-02-14
-publish: false
+publish: true
 ---
 
 ## 📅 2025-02-14 — Session: Strategic Shift to AI Solutions with Flowise

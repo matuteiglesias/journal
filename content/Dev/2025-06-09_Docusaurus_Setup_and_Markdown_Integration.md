@@ -14,21 +14,21 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to set up and enhance a [[Docusaurus]] project for integrating and transforming Markdown content, including handling LaTeX and JavaScript configurations.
+The primary goal of this session was to set up and enhance a Docusaurus project for integrating and transforming Markdown content, including handling LaTeX and JavaScript configurations.
 
 ### Key Activities
 - Developed a [[Python]] script to convert Markdown files to JSONL format and vice versa.
 - Refactored a helper function for LLM to streamline plain text responses.
-- Conducted a critical analysis of thesis transformation outputs for [[Docusaurus]].
+- Conducted a critical analysis of thesis transformation outputs for Docusaurus.
 - Enhanced readability and [[SEO]] in text transformations.
-- Set up [[Docusaurus]] for Markdown integration, including sidebar awareness and local development workflow.
-- Addressed LaTeX math rendering issues and JavaScript config errors in [[Docusaurus]].
+- Set up Docusaurus for Markdown integration, including sidebar awareness and local development workflow.
+- Addressed LaTeX math rendering issues and JavaScript config errors in Docusaurus.
 
 ### Achievements
-- Successfully set up [[Docusaurus]] with integrated Markdown pages.
+- Successfully set up Docusaurus with integrated Markdown pages.
 - Improved the handling of LaTeX and MDX parsing errors.
 - Enhanced the readability and [[SEO]] of transformed content.
 
 ### Pending Tasks
 - Further refinement of Markdown conversion scripts for better efficiency.
-- Continuous improvement of [[Docusaurus]] configuration for optimal performance.
+- Continuous improvement of Docusaurus configuration for optimal performance.

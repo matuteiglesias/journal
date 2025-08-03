@@ -17,7 +17,7 @@ publish: true
 The session aimed to develop a comprehensive [[AI]] Habitat framework and manage [[Python]] environments effectively.
 
 ### Key Activities
-- **[[AI]] Habitat [[Development]]**: Explored and planned the [[AI]] Habitat as a semantic city, detailing its structure and organizational principles.
+- **[[AI]] Habitat Development**: Explored and planned the [[AI]] Habitat as a semantic city, detailing its structure and organizational principles.
 - **[[Python]] Environment Management**: Addressed [[Python]] environment issues, focusing on troubleshooting, dependency management, and disk cleanup.
 - **Cerebrum Module Installation**: Installed the `cerebrum` module, ensuring a stable [[Python]] environment setup.
 

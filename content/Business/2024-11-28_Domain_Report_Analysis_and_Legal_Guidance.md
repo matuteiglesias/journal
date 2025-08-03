@@ -2,7 +2,7 @@
 title: "Domain Report Analysis and Legal Guidance"
 tags: ['Domain Report', 'Property Analysis', 'Legal Guidance', 'OCR', 'Inheritance']
 created: 2024-11-28
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-28 — Session: Domain Report Analysis and Legal Guidance

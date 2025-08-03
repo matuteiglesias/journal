@@ -22,12 +22,12 @@ The session focused on implementing and enhancing [[AI]]-driven workflows using 
 - Implemented advanced LangChain queries for [[AI]]-powered workflow automation, including book transformation and article drafting.
 - Enhanced [[Python]] code for robust [[JSON]] handling and error management in LangGraph workflows.
 - Built automation flows for career development to assist in job search and application processes.
-- Created a unified labor market workbench strategy using Jupyter notebooks for job search automation.
+- Created a unified labor market workbench strategy using [[Jupyter]] notebooks for job search automation.
 
 ### Achievements
 - Successfully implemented LangGraph workflows for various applications, including competitor analysis and [[AI]]-driven product development.
 - Enhanced error handling and logging in [[Python]] code for more robust workflow execution.
-- Developed a strategy for job search automation using [[Python]] scripts and Jupyter notebooks.
+- Developed a strategy for job search automation using [[Python]] scripts and [[Jupyter]] notebooks.
 
 ### Pending Tasks
 - Further integration of LangGraph workflows with TextManager and TextProcessor for enhanced data retrieval and processing.

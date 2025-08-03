@@ -22,13 +22,13 @@ The session aimed to troubleshoot and resolve various issues related to the inte
 - **Model Retrieval Update:** Modified the `get_models()` function and updated JavaScript code to dynamically populate dropdown menus with model filenames.
 - **Model Metadata Management:** Improved the handling of model metadata in both JavaScript and [[Python]].
 - **Prediction Logic [[Integration]]:** Integrated data preprocessing and model prediction within the [[Flask]] `/predict` endpoint.
-- **Git Commit Organization:** Structured Git commits for clarity and logical grouping.
+- **[[Git]] Commit Organization:** Structured [[Git]] commits for clarity and logical grouping.
 
 ### Achievements
 - Successfully resolved `404` errors and improved [[API]] endpoint accessibility.
 - Enhanced the model selection and prediction logic in the web application.
 - Improved the management and retrieval of model metadata.
-- Organized Git commits to reflect best practices in version control.
+- Organized [[Git]] commits to reflect best practices in version control.
 
 ### Pending Tasks
 - Further testing of the `/retrain` endpoint to ensure no additional `404` errors occur.

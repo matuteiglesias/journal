@@ -18,7 +18,7 @@ The primary goal of this session was to revive and upgrade an existing map appli
 
 ### Key Activities
 - **Strategic Purchase Analysis for Sealants**: Conducted a detailed analysis of sealants, focusing on general-purpose and specialized categories, highlighting the best options, pricing, and value propositions.
-- **Market Analysis for Latex and Acrylic Paint**: Provided a comprehensive overview of the market, categorizing products by price range and use cases, with brand recommendations.
+- **Market Analysis for [[Latex]] and Acrylic Paint**: Provided a comprehensive overview of the market, categorizing products by price range and use cases, with brand recommendations.
 - **Map App Revitalization**: Created a checklist for updating libraries, verifying [[API]] usage, and ensuring geolocation and UI component functionality.
 - **Project Structure Upgrade**: Transitioned from Google Sheets to [[CSV]] data for better modularity and maintainability.
 - **Bash Scripting for Directory Setup**: Used bash commands to create a structured project directory.

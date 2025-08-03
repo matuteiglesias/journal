@@ -2,7 +2,7 @@
 title: "Developed IT Management Transition Framework for Public Security"
 tags: ['It Management', 'Digital Transformation', 'Public Security', 'Innovation', 'Change Management']
 created: 2024-02-13
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-13 — Session: Developed IT Management Transition Framework for Public Security

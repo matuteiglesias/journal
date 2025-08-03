@@ -2,7 +2,7 @@
 title: "Analyzed Organizational Communication and Leadership Dynamics"
 tags: ['Organizational Communication', 'Leadership', 'Conflict Resolution', 'Economic Policy', 'Ethics']
 created: 2024-03-12
-publish: false
+publish: true
 ---
 
 ## 📅 2024-03-12 — Session: Analyzed Organizational Communication and Leadership Dynamics
@@ -19,7 +19,7 @@ The session aimed to explore and reflect on organizational communication, politi
 ### Key Activities
 - **Resolución de Conflictos en Contextos Organizacionales**: Analyzed communication strategies for conflict resolution and relationship improvement in organizational settings, focusing on openness, intention clarification, and dialogue commitment.
 - **Improving [[Communication]] and Political Dynamics**: Discussed challenges in communication and political dynamics, emphasizing the need for addressing both to enhance collaboration and conflict resolution.
-- **Transforming [[Leadership]] Dynamics**: Examined strategies for shifting from centralized to democratic leadership models, highlighting adaptive leadership and coalition-building.
+- **Transforming Leadership Dynamics**: Examined strategies for shifting from centralized to democratic leadership models, highlighting adaptive leadership and coalition-building.
 - **Ethics and Economic Policy Guidance**: Reflected on ethical conduct in public service and economic policies promoting inclusive growth.
 
 ### Achievements
@@ -28,4 +28,4 @@ The session aimed to explore and reflect on organizational communication, politi
 
 ### Pending Tasks
 - Further exploration of adaptive leadership strategies in diverse organizational contexts.
-- [[Development]] of actionable plans for implementing communication improvements in specific organizational scenarios.
+- Development of actionable plans for implementing communication improvements in specific organizational scenarios.

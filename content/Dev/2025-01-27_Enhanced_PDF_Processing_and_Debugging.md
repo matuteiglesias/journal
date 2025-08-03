@@ -21,7 +21,7 @@ The session aimed to enhance the PDF processing pipeline by implementing modular
 - Updated the script to automatically name output folders based on the PDF file's name, improving organization.
 - Outlined a modular workflow for PDF and text chunk processing, including context loading and vector store building.
 - Created a structured plan for incremental improvements in a RAG app, focusing on modular design and error handling.
-- Provided a comprehensive debugging guide for vectorstore initialization and HTML interaction with the `/query` endpoint.
+- Provided a comprehensive debugging guide for vectorstore initialization and [[HTML]] interaction with the `/query` endpoint.
 - Debugged issues related to PDF chunking and fallback processing, ensuring correct execution of processing functions.
 
 ### Achievements

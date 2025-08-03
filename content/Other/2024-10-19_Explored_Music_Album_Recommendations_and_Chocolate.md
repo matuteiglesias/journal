@@ -18,7 +18,7 @@ The session aimed to explore music album recommendations and delve into the prep
 
 ### Key Activities
 - **Music Exploration**: Matías showed interest in finding music albums similar to 'Clásicos Ligeros' and considered a playlist for 'Tomo 2', focusing on accessible and relaxing classical pieces.
-- **[[Cooking]] Exploration**: Detailed instructions for preparing a chocolate marquise were reviewed, including ingredients, preparation steps, and cooking techniques.
+- **Cooking Exploration**: Detailed instructions for preparing a chocolate marquise were reviewed, including ingredients, preparation steps, and cooking techniques.
 - **Culinary Planning**: Matías planned to explore classic pastry recipes, setting a goal to learn one new recipe each day.
 
 ### Achievements

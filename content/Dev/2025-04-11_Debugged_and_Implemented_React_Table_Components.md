@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to debug and implement custom React table components using the ShadCN pattern and ensure proper HTML validation.
+The goal of this session was to debug and implement custom React table components using the ShadCN pattern and ensure proper [[HTML]] validation.
 
 ### Key Activities
 - **[[Debugging]] Custom TableHead Component**: Identified and corrected improper nesting of `<tr>` elements inside `<th>` in a React application's `TableHead` component.
@@ -24,7 +24,7 @@ The goal of this session was to debug and implement custom React table component
 
 ### Achievements
 - Successfully debugged and implemented table components using the ShadCN pattern.
-- Ensured proper HTML structure and validation.
+- Ensured proper [[HTML]] structure and validation.
 
 ### Pending Tasks
 No pending tasks identified.

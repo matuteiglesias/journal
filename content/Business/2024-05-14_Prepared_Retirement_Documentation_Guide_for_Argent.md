@@ -2,7 +2,7 @@
 title: "Prepared Retirement Documentation Guide for Argentina"
 tags: ['Retirement', 'Argentina', 'ANSES', 'Monotributo', 'Fiscal Management', 'Social Security']
 created: 2024-05-14
-publish: false
+publish: true
 ---
 
 ## 📅 2024-05-14 — Session: Prepared Retirement Documentation Guide for Argentina

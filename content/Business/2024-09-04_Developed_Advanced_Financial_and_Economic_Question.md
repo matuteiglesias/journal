@@ -2,7 +2,7 @@
 title: "Developed Advanced Financial and Economic Questions"
 tags: ['Finance', 'Economics', 'Quantitative Easing', 'Geometric Brownian Motion', 'Keynesian Economics']
 created: 2024-09-04
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-04 — Session: Developed Advanced Financial and Economic Questions

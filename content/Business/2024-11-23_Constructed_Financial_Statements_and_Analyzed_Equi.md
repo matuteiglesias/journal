@@ -2,7 +2,7 @@
 title: "Constructed Financial Statements and Analyzed Equity"
 tags: ['Financial Statements', 'Equity Analysis', 'Python', 'Property Management', 'Family Finance']
 created: 2024-11-23
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-23 — Session: Constructed Financial Statements and Analyzed Equity

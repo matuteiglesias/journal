@@ -14,14 +14,14 @@ publish: true
 
 
 ### Session Goal
-The session aimed to develop a prototype for a student-specific reporting system using [[Python]] and Jupyter, focusing on generating individual student reports.
+The session aimed to develop a prototype for a student-specific reporting system using [[Python]] and [[Jupyter]], focusing on generating individual student reports.
 
 ### Key Activities
 - **Student-Specific Reporting System Prototype:** Developed a structured plan to generate individual student reports using a DataFrame in [[Python]].
-- **Custom Student Report Template:** Created a custom Jupyter report template for student performance reports, formatted in HTML.
+- **Custom Student Report Template:** Created a custom [[Jupyter]] report template for student performance reports, formatted in [[HTML]].
 - **Improved Loop for DataFrame Indexing:** Enhanced a [[Python]] loop for processing a DataFrame using its index.
 - **Exporting Student Reports to PDF:** Implemented a guide for exporting student reports as PDFs using WeasyPrint.
-- **CSS and HTML Improvements:** Made CSS refinements and HTML adjustments to improve report aesthetics and functionality.
+- **CSS and [[HTML]] Improvements:** Made CSS refinements and [[HTML]] adjustments to improve report aesthetics and functionality.
 - **Merging PDFs with PyPDF2:** Provided a script for merging multiple PDFs into a single document.
 
 ### Achievements

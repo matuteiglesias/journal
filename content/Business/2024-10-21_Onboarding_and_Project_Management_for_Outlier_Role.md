@@ -2,7 +2,7 @@
 title: "Onboarding and Project Management for Outlier Role"
 tags: ['Onboarding', 'Project Management', 'Task Creation', 'Communication', 'Outlier']
 created: 2024-10-21
-publish: false
+publish: true
 ---
 
 ## 📅 2024-10-21 — Session: Onboarding and Project Management for Outlier Role

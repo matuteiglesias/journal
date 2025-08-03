@@ -14,18 +14,18 @@ publish: true
 
 
 **Session Goal:**
-The session focused on developing scripts and HTML structures to manage data uploads to [[Google Cloud]] Storage and organize statistical data for easy access.
+The session focused on developing scripts and [[HTML]] structures to manage data uploads to [[Google Cloud]] Storage and organize statistical data for easy access.
 
 **Key Activities:**
 - Created a script to upload files to [[Google Cloud]] Storage using `gsutil`, ensuring no overwrites by checking file existence first.
 - Introduced datasets of descriptive statistics in Argentina, emphasizing their importance for research and policy-making.
-- Developed HTML table structures for organizing statistical data downloads, including demographic datasets.
-- Provided a troubleshooting guide for bold text issues in HTML due to CSS.
-- Updated an HTML menu to include a new 'Descargas' section for statistical data.
+- Developed [[HTML]] table structures for organizing statistical data downloads, including demographic datasets.
+- Provided a troubleshooting guide for bold text issues in [[HTML]] due to CSS.
+- Updated an [[HTML]] menu to include a new 'Descargas' section for statistical data.
 
 **Achievements:**
 - Successfully implemented a [[Python]] script for automated file uploads to [[Google Cloud]] Storage.
-- Established a clear HTML structure for data download tables, improving user navigation and usability.
+- Established a clear [[HTML]] structure for data download tables, improving user navigation and usability.
 
 **Pending Tasks:**
-- Replace placeholder URLs in HTML tables with actual download links.
+- Replace placeholder URLs in [[HTML]] tables with actual download links.

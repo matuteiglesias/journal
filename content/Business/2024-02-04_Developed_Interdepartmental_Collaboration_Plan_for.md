@@ -2,7 +2,7 @@
 title: "Developed Interdepartmental Collaboration Plan for IT and Logistics"
 tags: ['Colaboración', 'Gestión De Flotas', 'Seguridad Informática', 'Mantenimiento', 'Estrategias']
 created: 2024-02-04
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-04 — Session: Developed Interdepartmental Collaboration Plan for IT and Logistics

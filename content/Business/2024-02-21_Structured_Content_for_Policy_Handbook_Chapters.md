@@ -2,7 +2,7 @@
 title: "Structured Content for Policy Handbook Chapters"
 tags: ['Policy Implementation', 'Leadership', 'Adaptive Implementation', 'Team Dynamics', 'Ethics']
 created: 2024-02-21
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-21 — Session: Structured Content for Policy Handbook Chapters

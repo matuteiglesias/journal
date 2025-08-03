@@ -2,7 +2,7 @@
 title: "Developed Digital Transformation Strategy for Ministry"
 tags: ['Digital Transformation', 'GEDO', 'GDEBA', 'Document Management', 'It Governance']
 created: 2024-02-15
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-15 — Session: Developed Digital Transformation Strategy for Ministry

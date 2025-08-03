@@ -2,7 +2,7 @@
 title: "Developed Six Sigma Implementation Strategy for IT"
 tags: ['Six Sigma', 'It Management', 'Process Improvement', 'Training', 'Quality Management']
 created: 2024-02-08
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-08 — Session: Developed Six Sigma Implementation Strategy for IT

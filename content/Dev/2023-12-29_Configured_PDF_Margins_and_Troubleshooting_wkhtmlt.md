@@ -14,16 +14,16 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to configure and troubleshoot the conversion of HTML documents to PDF with specific styling requirements using CSS and the `wkhtmltopdf` tool.
+The primary goal of this session was to configure and troubleshoot the conversion of [[HTML]] documents to PDF with specific styling requirements using CSS and the `wkhtmltopdf` tool.
 
 ### Key Activities
-- **Margin [[Configuration]]**: Adjusted margins in HTML documents for PDF conversion using CSS styles, ensuring the correct application of styles in the final PDF output.
+- **Margin [[Configuration]]**: Adjusted margins in [[HTML]] documents for PDF conversion using CSS styles, ensuring the correct application of styles in the final PDF output.
 - **wkhtmltopdf Command [[Configuration]]**: Explored setting page margins directly via the `wkhtmltopdf` command-line options to bypass CSS alterations.
 - **[[Troubleshooting]] Errors**: Addressed the `ProtocolUnknownError` in `wkhtmltopdf`, focusing on local file access issues and resource loading paths.
-- **Styling Adjustments**: Implemented specific styling such as line spacing and text indentation in HTML/CSS for better PDF presentation.
+- **Styling Adjustments**: Implemented specific styling such as line spacing and text indentation in [[HTML]]/CSS for better PDF presentation.
 
 ### Achievements
-- Successfully configured margins and other styling elements for HTML to PDF conversion.
+- Successfully configured margins and other styling elements for [[HTML]] to PDF conversion.
 - Resolved common `wkhtmltopdf` errors related to network and protocol issues.
 
 ### Pending Tasks

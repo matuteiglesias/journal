@@ -18,7 +18,7 @@ The aim of this session was to develop and organize a modular structure for clus
 
 ### Key Activities
 - Identified potential sources for clustering scripts and related information.
-- Developed Bash and Unix commands to locate and manage Jupyter notebooks.
+- Developed Bash and Unix commands to locate and manage [[Jupyter]] notebooks.
 - Proposed and outlined a modular structure for data processing and clustering using ChromaDB.
 - Created a notebook for data extraction and preprocessing, connecting to ChromaDB and exporting data to [[CSV]].
 - Discussed efficient file formats for saving embeddings.

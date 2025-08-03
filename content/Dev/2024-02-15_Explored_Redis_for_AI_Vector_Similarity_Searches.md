@@ -13,16 +13,16 @@ publish: true
 **⭐ Priority**: MEDIUM  
 
 
-**Session Goal**: The session aimed to explore the use of Redis for vector similarity searches within [[AI]] applications, focusing on setup and integration with Docker, Jupyter, and Streamlit.
+**Session Goal**: The session aimed to explore the use of Redis for vector similarity searches within [[AI]] applications, focusing on setup and integration with Docker, [[Jupyter]], and Streamlit.
 
 **Key Activities**: 
 - Reviewed a tutorial on using Redis for vector similarity searches.
-- Discussed the setup process involving Docker, Jupyter, and Streamlit.
+- Discussed the setup process involving Docker, [[Jupyter]], and Streamlit.
 - Explored applications in [[AI]] agents for context-aware interactions.
 
 **Achievements**: 
 - Gained insights into the practical setup of Redis for vector similarity searches.
-- Clarified the integration process with Docker, Jupyter, and Streamlit.
+- Clarified the integration process with Docker, [[Jupyter]], and Streamlit.
 
 **Pending Tasks**: 
 - Further exploration of Redis applications in real-world [[AI]] scenarios.

@@ -35,5 +35,5 @@ The session aimed to develop and refine an ETL pipeline for financial data proce
 - Enhanced data visualization through automated plot regeneration strategies.
 
 ### Pending Tasks
-- Further enhancements to ETL pipeline with Makefile, scheduler, or Jupyter Notebook version.
+- Further enhancements to ETL pipeline with Makefile, scheduler, or [[Jupyter]] Notebook version.
 - Continue refining data processing scripts for improved efficiency and accuracy.

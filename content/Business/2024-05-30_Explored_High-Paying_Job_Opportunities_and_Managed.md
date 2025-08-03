@@ -2,7 +2,7 @@
 title: "Explored High-Paying Job Opportunities and Managed Insurance Claims"
 tags: ['Job Search', 'Career', 'Insurance Claims', 'Data Science', 'AI']
 created: 2024-05-30
-publish: false
+publish: true
 ---
 
 ## 📅 2024-05-30 — Session: Explored High-Paying Job Opportunities and Managed Insurance Claims

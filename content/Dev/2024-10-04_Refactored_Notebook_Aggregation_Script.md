@@ -14,17 +14,17 @@ publish: true
 
 
 ### Session Goal
-The primary aim of this session was to update and refine the [[Python]] script used for aggregating Jupyter notebooks by consigna, ensuring efficient processing without duplication and enhancing the debugging process.
+The primary aim of this session was to update and refine the [[Python]] script used for aggregating [[Jupyter]] notebooks by consigna, ensuring efficient processing without duplication and enhancing the debugging process.
 
 ### Key Activities
 - Updated the [[Python]] script to aggregate responses from multiple groups into single notebooks for each consigna, removing the previous memory cap logic.
 - Troubleshot duplication issues in the notebook processing script, ensuring proper segmentation by 'Consigna' markers.
 - Added verbose logging to the `aggregate_and_save_consignas` function for better debugging.
-- Outlined a plan for processing Jupyter notebooks, focusing on handling `_nout` versions to avoid duplication and capturing outputs.
+- Outlined a plan for processing [[Jupyter]] notebooks, focusing on handling `_nout` versions to avoid duplication and capturing outputs.
 - Refined the consigna splitting logic to improve boundary detection and metadata handling.
 - Addressed a client-side exception error in the Diffchecker application related to '_nout.ipynb' files.
 - Fixed notebook segmentation issues between Consigna 2 and 3.
-- Created a new directory structure for group consignas, saving each as a separate Jupyter notebook file.
+- Created a new directory structure for group consignas, saving each as a separate [[Jupyter]] notebook file.
 
 ### Achievements
 - Successfully updated the notebook aggregation script to handle consignas more effectively.

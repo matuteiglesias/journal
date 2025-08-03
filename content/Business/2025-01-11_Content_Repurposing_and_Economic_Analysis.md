@@ -2,7 +2,7 @@
 title: "Content Repurposing and Economic Analysis"
 tags: ['Content Repurposing', 'Economic Analysis', 'Technical Communication', 'Macroeconomics', 'Variance Aggregation']
 created: 2025-01-11
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-11 — Session: Content Repurposing and Economic Analysis

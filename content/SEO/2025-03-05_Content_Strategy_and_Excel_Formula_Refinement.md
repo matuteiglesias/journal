@@ -18,7 +18,7 @@ The session aimed to refine Excel formula usage and develop a comprehensive cont
 
 ### Key Activities
 - **Excel Formula Correction:** Addressed common issues with VLOOKUP in Excel, providing insights into adjusting column indexes and suggesting the use of INDEX-MATCH for improved reliability.
-- **Content [[Strategy]] [[Development]]:** Outlined methods for organizing and automating blog post creation, including idea evaluation, prioritization, and modular content strategy.
+- **Content [[Strategy]] Development:** Outlined methods for organizing and automating blog post creation, including idea evaluation, prioritization, and modular content strategy.
 - **Knowledge Web Structuring:** Initiated the structuring of a network of articles and refined knowledge clusters for web scraping and [[AI]] applications.
 
 ### Achievements

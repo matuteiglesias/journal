@@ -2,7 +2,7 @@
 title: "Developed AI-Driven Project Management System Plan"
 tags: ['Project Management', 'AI', 'Team Structure', 'Transition', 'Automation']
 created: 2024-02-13
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-13 — Session: Developed AI-Driven Project Management System Plan

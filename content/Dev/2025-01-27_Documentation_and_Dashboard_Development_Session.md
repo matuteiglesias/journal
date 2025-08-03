@@ -17,9 +17,9 @@ publish: true
 The primary goal of this session was to enhance project documentation using tools like Sphinx, MkDocs, and pdoc, and to explore dashboard development for monitoring purposes.
 
 ### Key Activities
-- **[[Documentation]] Generation:** Instructions were followed for verifying and rebuilding project documentation using Sphinx and MkDocs. This included configuring search functionality and updating pdoc commands for HTML generation.
-- **File Management:** Developed [[Python]] scripts to combine HTML text files and extract plain text from HTML files using BeautifulSoup, improving documentation readability.
-- **Dashboard [[Development]]:** Explored the creation of a custom lightweight UI using Streamlit or Dash for monitoring message processing and RabbitMQ queue management.
+- **[[Documentation]] Generation:** Instructions were followed for verifying and rebuilding project documentation using Sphinx and MkDocs. This included configuring search functionality and updating pdoc commands for [[HTML]] generation.
+- **File Management:** Developed [[Python]] scripts to combine [[HTML]] text files and extract plain text from [[HTML]] files using BeautifulSoup, improving documentation readability.
+- **Dashboard Development:** Explored the creation of a custom lightweight UI using Streamlit or Dash for monitoring message processing and RabbitMQ queue management.
 
 ### Achievements
 - Successfully updated and verified project documentation using multiple tools.

@@ -2,7 +2,7 @@
 title: "Developed Econ Cognition System Framework"
 tags: ['Econ Cognition', 'Yahoo Finance', 'Strategic Planning', 'Github', 'Data Repository']
 created: 2025-05-28
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-28 — Session: Developed Econ Cognition System Framework

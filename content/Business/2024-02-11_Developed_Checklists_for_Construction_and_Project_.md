@@ -2,7 +2,7 @@
 title: "Developed Checklists for Construction and Project Management"
 tags: ['Checklist', 'Project Management', 'Trello', 'Construction', 'Organization']
 created: 2024-02-11
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-11 — Session: Developed Checklists for Construction and Project Management

@@ -17,7 +17,7 @@ publish: true
 The session aimed to enhance email automation capabilities and improve scheduling accuracy using [[Python]] scripts.
 
 ### Key Activities
-- Developed a [[Python]] script to send emails with Markdown content by converting it to HTML, ensuring proper rendering in email clients.
+- Developed a [[Python]] script to send emails with Markdown content by converting it to [[HTML]], ensuring proper rendering in email clients.
 - Explored model upgrade options for a staff manager agent, comparing GPT-3.5 Turbo, GPT-4 Turbo, and GPT-4o in terms of pricing, performance, and task suitability.
 - Scheduled briefing scripts using a [[Python]] scheduler, detailing the setup for morning and evening briefings.
 - Debugged cron job scheduling errors due to incorrect hour and minute values, providing corrected code examples.

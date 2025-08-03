@@ -2,7 +2,7 @@
 title: "Developed Family Financial Management Course"
 tags: ['Financial Management', 'Family Governance', 'Education', 'Digital Tools', 'Course Development']
 created: 2025-06-02
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-02 — Session: Developed Family Financial Management Course

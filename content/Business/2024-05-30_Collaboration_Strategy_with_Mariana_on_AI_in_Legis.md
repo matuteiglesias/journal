@@ -2,7 +2,7 @@
 title: "Collaboration Strategy with Mariana on AI in Legislative Context"
 tags: ['Collaboration', 'AI', 'Legislation', 'Brainstorming', 'Coaching']
 created: 2024-05-30
-publish: false
+publish: true
 ---
 
 ## 📅 2024-05-30 — Session: Collaboration Strategy with Mariana on AI in Legislative Context

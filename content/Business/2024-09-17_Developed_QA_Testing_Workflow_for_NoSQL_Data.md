@@ -2,7 +2,7 @@
 title: "Developed QA Testing Workflow for NoSQL Data"
 tags: ['QA', 'Nosql', 'Python', 'Data Validation', 'Automation']
 created: 2024-09-17
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-17 — Session: Developed QA Testing Workflow for NoSQL Data
@@ -19,7 +19,7 @@ The goal of this session was to develop and refine a QA testing workflow for NoS
 ### Key Activities
 - Prepared memos for the development team to finalize key points and provide feedback.
 - Summarized progress on schema parsing and data processing, outlining challenges and next steps.
-- Developed a Jupyter notebook structure for QA testing of NoSQL data.
+- Developed a [[Jupyter]] notebook structure for QA testing of NoSQL data.
 - Outlined a QA testing workflow using [[Python]] for processing NoSQL data.
 - Created a [[Python]] function to compare parsed data fields with original text.
 - Developed a dynamic function for comprehensive QA comparison of parsed data.

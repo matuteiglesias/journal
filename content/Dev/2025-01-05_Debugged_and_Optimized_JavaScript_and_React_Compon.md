@@ -21,7 +21,7 @@ The goal of this session was to debug and optimize JavaScript and React componen
 - **[[Debugging]] `localeCompare` Error**: Diagnosed and resolved an error in sorting logic using `localeCompare` by addressing undefined `date` properties.
 - **[[Debugging]] the `AppSolution` Component**: Analyzed and tested the `AppSolution` React component, offering a simplified version for debugging.
 - **Handling the `AppSolution` Component**: Developed strategies for managing the component's visibility and conditional rendering in React.
-- **Creating a Minimal Hello World Page in Next.js**: Implemented a minimal HTML 'Hello, World!' placeholder in a Next.js page.
+- **Creating a Minimal Hello World Page in Next.js**: Implemented a minimal [[HTML]] 'Hello, World!' placeholder in a Next.js page.
 - **Resolving Conflicting Layouts in MDX Files**: Provided solutions for handling conflicting layouts in MDX files, focusing on layout testing and explicit definition.
 
 ### Achievements

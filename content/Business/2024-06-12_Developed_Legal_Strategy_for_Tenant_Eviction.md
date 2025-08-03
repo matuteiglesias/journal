@@ -2,7 +2,7 @@
 title: "Developed Legal Strategy for Tenant Eviction"
 tags: ['Desalojo', 'Legal Strategy', 'Negotiation', 'Buenos Aires', 'Communication']
 created: 2024-06-12
-publish: false
+publish: true
 ---
 
 ## 📅 2024-06-12 — Session: Developed Legal Strategy for Tenant Eviction
@@ -19,7 +19,7 @@ The session aimed to develop a comprehensive legal strategy to address the issue
 ### Key Activities
 - **Problem Identification:** Matías identified the problem of an illegal occupant who has been residing in the property for 8 years.
 - **Resource Compilation:** A guide was created detailing the legal resources available for eviction in Buenos Aires, including judicial processes and negotiation tactics.
-- **[[Strategy]] [[Development]]:** Various strategies were explored to persuade the occupant to sign an eviction agreement, utilizing psychological and communication tactics.
+- **[[Strategy]] Development:** Various strategies were explored to persuade the occupant to sign an eviction agreement, utilizing psychological and communication tactics.
 - **Legal Framework:** Detailed steps for legal actions such as rent collection and asset seizure were outlined, including the legal implications of illegal electricity use.
 
 ### Achievements

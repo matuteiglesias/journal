@@ -2,7 +2,7 @@
 title: "Optimized Rental Ad Strategies in Argentina"
 tags: ['Rental Ads', 'Argentina', 'Marketing', 'Real Estate', 'Strategy']
 created: 2025-06-27
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-27 — Session: Optimized Rental Ad Strategies in Argentina

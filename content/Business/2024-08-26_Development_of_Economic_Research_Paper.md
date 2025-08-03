@@ -2,7 +2,7 @@
 title: "Development of Economic Research Paper"
 tags: ['Economic Models', 'Leontieff Model', 'SEO', 'Academic Writing', 'Network Structures']
 created: 2024-08-26
-publish: false
+publish: true
 ---
 
 ## 📅 2024-08-26 — Session: Development of Economic Research Paper

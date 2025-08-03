@@ -2,7 +2,7 @@
 title: "Developed Job Search Tools and Strategies"
 tags: ['Job Search', 'Productization', 'Strategy', 'Community Engagement', 'Clinical Documentation']
 created: 2025-07-14
-publish: false
+publish: true
 ---
 
 ## 📅 2025-07-14 — Session: Developed Job Search Tools and Strategies

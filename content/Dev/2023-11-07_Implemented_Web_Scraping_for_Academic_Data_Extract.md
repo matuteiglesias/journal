@@ -20,13 +20,13 @@ The session aimed to implement and troubleshoot web scraping methods for extract
 - Installed a .deb package on Debian-based systems and resolved dependencies.
 - Troubleshot JabRef command recognition issues and set up executable paths.
 - Explored various tools for gathering citation data, including Google Scholar, Web of Science, and Zotero.
-- Developed [[Python]] scripts for web scraping, focusing on HTML parsing using BeautifulSoup and handling pagination.
+- Developed [[Python]] scripts for web scraping, focusing on [[HTML]] parsing using BeautifulSoup and handling pagination.
 - Addressed legal considerations and technical challenges in scraping Google Scholar.
 - Troubleshot Selenium WebDriver issues, including ChromeDriver version mismatches and WebDriver options errors.
 
 ### Achievements
 - Successfully installed and configured JabRef on a Linux system.
-- Developed and refined [[Python]] scripts for extracting and structuring data from HTML content.
+- Developed and refined [[Python]] scripts for extracting and structuring data from [[HTML]] content.
 - Addressed common web scraping challenges, including dynamic content loading and version mismatches in automation tools.
 
 ### Pending Tasks

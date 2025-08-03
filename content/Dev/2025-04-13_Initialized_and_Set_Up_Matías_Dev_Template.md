@@ -22,7 +22,7 @@ The goal of this session was to initialize and set up the file structure and rep
 - Provided guidance on the correct usage of quotes in Bash scripts to ensure proper command execution.
 - Conducted a script review, offering feedback and suggestions for code improvements.
 - Introduced `appgun`, a fullstack project generator for rapid iteration with Next.js and FastAPI.
-- Converted the `matias-dev-template` folder into a Git repository, including initialization, adding a .gitignore, committing changes, and pushing to GitHub.
+- Converted the `matias-dev-template` folder into a [[Git]] repository, including initialization, adding a .gitignore, committing changes, and pushing to GitHub.
 - Set up the repository for version control and sharing on GitHub, including branch renaming and initial commit instructions.
 - Optimized license generation using `npx` and provided workarounds for potential performance issues.
 - Addressed GitHub's Push Protection feature to handle exposed [[API]] keys and secure future commits.

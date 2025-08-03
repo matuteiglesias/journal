@@ -19,11 +19,11 @@ The goal of this session was to enhance the job search automation pipeline by se
 ### Key Activities
 - **Project Directory Setup**: Created a structured project directory for job search automation using terminal commands.
 - **Project Evolution Analysis**: Analyzed project evolution for ATS and ATS2 directories to understand workspace organization and data analysis.
-- **Updated Job Search [[Pipeline]]**: Outlined an updated structure and functionality for a job search pipeline, focusing on portability and ease of use.
+- **Updated Job Search Pipeline**: Outlined an updated structure and functionality for a job search pipeline, focusing on portability and ease of use.
 - **Numbered Script Convention**: Adopted a numbered script convention to enhance clarity and modularity.
 - **Refactor Plan**: Developed a plan to refactor legacy notebooks into a modular script-based architecture.
 - **Module Mapping**: Updated module mapping for legacy notebooks to improve modularization.
-- **Notebook Overview**: Outlined the functionality of a Jupyter notebook for job posting integration.
+- **Notebook Overview**: Outlined the functionality of a [[Jupyter]] notebook for job posting integration.
 - **Modular Merge Script Design**: Designed a modular merge script for job postings.
 - **PromptFlow System Design**: Implemented a modular PromptFlow system to enhance automation.
 - **[[Python]] Wrapper for PromptFlow**: Created a [[Python]] wrapper for PromptFlow to manage job application processes programmatically.

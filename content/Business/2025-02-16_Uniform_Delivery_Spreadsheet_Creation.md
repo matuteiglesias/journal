@@ -2,7 +2,7 @@
 title: "Uniform Delivery Spreadsheet Creation"
 tags: ['Uniforms', 'Spreadsheet', 'Delivery', 'Tracking']
 created: 2025-02-16
-publish: false
+publish: true
 ---
 
 ## 📅 2025-02-16 — Session: Uniform Delivery Spreadsheet Creation

@@ -2,7 +2,7 @@
 title: "Monthly Project Management Sessions Overview"
 tags: ['Project Management', 'Ai Automation', 'Debugging', 'Prompt Engineering']
 created: 2025-05-01
-publish: true
+publish: false
 ---
 
 ## 📅 2025-05-01 — Session: Monthly Project Management Sessions Overview

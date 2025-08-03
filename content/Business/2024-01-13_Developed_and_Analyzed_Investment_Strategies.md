@@ -2,7 +2,7 @@
 title: "Developed and Analyzed Investment Strategies"
 tags: ['Investment', 'Data Analysis', 'Backtesting', 'Risk Management', 'Python']
 created: 2024-01-13
-publish: false
+publish: true
 ---
 
 ## 📅 2024-01-13 — Session: Developed and Analyzed Investment Strategies
@@ -18,7 +18,7 @@ The aim of the session was to develop a comprehensive plan for investment strate
 
 ### Key Activities
 - Outlined a detailed investment strategy development plan, focusing on data analysis, strategy formulation, backtesting, and risk management.
-- Created a daily plan for setting up a backtesting environment using [[Python]] and Jupyter Notebook.
+- Created a daily plan for setting up a backtesting environment using [[Python]] and [[Jupyter]] Notebook.
 - Developed a financial ledger in Google Sheets for budgeting and financial tracking.
 - Analyzed 5-year historical stock data for Apple Inc. (AAPL) using [[Python]], including data fetching, visualization, and exponential model fitting.
 - Implemented stock analysis using the `yfinance` library in [[Python]].

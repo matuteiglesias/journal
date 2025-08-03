@@ -24,7 +24,7 @@ The session aimed to improve schema key resolutions, enhance text processing for
 - Troubleshot file download issues, suggesting saving data as a [[CSV]] and offering alternative solutions for file integration.
 - Explored OpenAI [[API]] documentation for agent functionality, focusing on [[API]] syntax and function calling.
 - Set up OpenAI [[API]] for functions and fine-tuning, including defining functions and enforcing schema constraints.
-- Integrated [[AI]] agents with NoSQL schema using [[Python]] in a Jupyter Notebook.
+- Integrated [[AI]] agents with NoSQL schema using [[Python]] in a [[Jupyter]] Notebook.
 - Migrated to OpenAI [[Python]] [[API]] v1.0.0, providing guidance on automated migration tools and manual adjustments.
 - Fixed TypeError in OpenAI [[API]] usage, correcting parameters for chat and text completions.
 - Accessed responses in OpenAI [[API]], detailing differences between chat models and text completion models.

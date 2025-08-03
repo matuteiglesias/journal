@@ -2,7 +2,7 @@
 title: "Consultancy and Data Visualization Tasks"
 tags: ['Consultancy', 'Data Visualization', 'Procurement', 'Project Management', 'Email Communication']
 created: 2024-10-21
-publish: false
+publish: true
 ---
 
 ## 📅 2024-10-21 — Session: Consultancy and Data Visualization Tasks

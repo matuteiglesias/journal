@@ -2,7 +2,7 @@
 title: "Managed Rental Property Visit and PDF Generation"
 tags: ['Rental Property', 'Pdf Generation', 'Lead Tracking', 'Automation', 'Task Management']
 created: 2025-07-04
-publish: false
+publish: true
 ---
 
 ## 📅 2025-07-04 — Session: Managed Rental Property Visit and PDF Generation

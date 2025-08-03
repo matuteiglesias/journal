@@ -20,8 +20,8 @@ The main objective of this session was to explore and enhance the PromptFlow sch
 - **FlowBlock SDK Design Blueprint**: Developed a modular system for LLM workflows, including project structure and testing tools.
 - **YAML Header Analysis**: Synthesized data model standards for flow-level YAML headers in PromptFlow and AzureML.
 - **Schema Overview and Refinement**: Provided a detailed overview and refinement of the PromptFlow YAML header schema using Pydantic.
-- **Tooling [[Development]]**: Discussed structured tooling development leveraging PromptFlow's schema for enhanced developer UX.
-- **Script [[Development]]**: Outlined a script for aggregating YAML header information.
+- **Tooling Development**: Discussed structured tooling development leveraging PromptFlow's schema for enhanced developer UX.
+- **Script Development**: Outlined a script for aggregating YAML header information.
 - **Design Archetypes and Actionable Steps**: Classified PromptFlow designs into archetypes and suggested actionable steps.
 - **Advanced Input [[Configuration]]**: Analyzed input configuration patterns for [[Python]] tools.
 - **System Insights**: Provided insights into the `chat_with_pdf` system architecture and deployment strategies.

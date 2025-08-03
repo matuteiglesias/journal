@@ -2,7 +2,7 @@
 title: "Strategic Planning for ISO 9001 Compliance in Police IT"
 tags: ['QMS', 'ISO 9001', 'Strategic Planning', 'Police It', 'Swot Analysis']
 created: 2024-02-08
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-08 — Session: Strategic Planning for ISO 9001 Compliance in Police IT

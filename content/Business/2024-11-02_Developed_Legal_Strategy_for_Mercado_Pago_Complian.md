@@ -2,7 +2,7 @@
 title: "Developed Legal Strategy for Mercado Pago Compliance"
 tags: ['Mercado Pago', 'Consumer Rights', 'Legal Compliance', 'Transaction Receipts', 'Law Of Consumer Defense']
 created: 2024-11-02
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-02 — Session: Developed Legal Strategy for Mercado Pago Compliance

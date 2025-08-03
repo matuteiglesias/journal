@@ -2,7 +2,7 @@
 title: "Developed Research Paper Ideas on Economic Volatility"
 tags: ['Economic Volatility', 'Research Papers', 'Firm Dynamics', 'Aggregate Variance', 'Academic Publishing']
 created: 2023-10-19
-publish: false
+publish: true
 ---
 
 ## 📅 2023-10-19 — Session: Developed Research Paper Ideas on Economic Volatility
@@ -19,7 +19,7 @@ The session aimed to develop structured outlines and proposals for research pape
 ### Key Activities
 - Structured organization of Chapter 2 for understanding firm-level sales fluctuations and their economic implications.
 - [[Integration]] of firm-level fluctuations into broader economic models, focusing on predictive insights.
-- [[Development]] of research paper ideas critiquing the diversification doctrine in aggregate volatility, incorporating insights from economists like Gabaix, Dosi, and Roventini.
+- Development of research paper ideas critiquing the diversification doctrine in aggregate volatility, incorporating insights from economists like Gabaix, Dosi, and Roventini.
 - Proposal of collaborative research paper ideas with Bottazzi on firm dynamics and aggregate variance.
 - Compilation of recommended journals for publishing research in macroeconomics, emphasizing collaboration and journal focus.
 - Drafting LaTeX project components for a paper submission to Econometrica, including structured outlines and content distribution.

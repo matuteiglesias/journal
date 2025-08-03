@@ -19,10 +19,10 @@ The goal of this session was to address and resolve issues related to Hugo site 
 ### Key Activities
 - Commented in Hugo's `config.toml` to manage configuration settings effectively.
 - Checked the status of the `gh-pages` branch on GitHub Pages to ensure proper deployment status.
-- Troubleshot the missing `gh-pages` branch in Git, creating it if necessary.
+- Troubleshot the missing `gh-pages` branch in [[Git]], creating it if necessary.
 - Restored the `gh-pages` branch on GitHub after the `public/` folder was removed.
-- Managed uncommitted changes in Git to prepare for branch switching.
-- Fixed Git tracking for the `public/` directory to ensure proper deployment of static files.
+- Managed uncommitted changes in [[Git]] to prepare for branch switching.
+- Fixed [[Git]] tracking for the `public/` directory to ensure proper deployment of static files.
 - Troubleshot issues with Hugo's `baseURL` configuration and general configuration file issues to ensure the site builds correctly.
 
 ### Achievements

@@ -19,7 +19,7 @@ The session aimed to address health and culinary interests. Matías explored str
 ### Key Activities
 - **Eye Care:** Reviewed guidelines for recovering from actinic keratitis, focusing on eye protection and treatment.
 - **Kitchen Design:** Explored ideas for reorganizing the kitchen to optimize workspace and storage.
-- **[[Cooking]] Recipes:**
+- **Cooking Recipes:**
   - Developed a slow-cooked chicken recipe with whipped herb butter.
   - Adapted the chicken recipe for quicker cooking while maintaining flavor.
   - Calculated rice quantities for a creamy broth-based recipe.

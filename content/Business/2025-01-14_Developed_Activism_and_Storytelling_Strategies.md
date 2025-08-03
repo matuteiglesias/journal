@@ -2,7 +2,7 @@
 title: "Developed Activism and Storytelling Strategies"
 tags: ['Activism', 'Storytelling', 'Community Engagement', 'Political Theory', 'Organizational Culture']
 created: 2025-01-14
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-14 — Session: Developed Activism and Storytelling Strategies

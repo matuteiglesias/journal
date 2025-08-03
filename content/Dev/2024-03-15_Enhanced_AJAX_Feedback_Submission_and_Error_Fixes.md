@@ -18,7 +18,7 @@ The primary goal of this session was to enhance the feedback submission process 
 
 ### Key Activities
 - Modified feedback submission behavior to prevent redirection and fixed a KeyError in the teacher time submission process.
-- Integrated AJAX into the HTML feedback form using jQuery to enable seamless user experience without page reloads.
+- Integrated AJAX into the [[HTML]] feedback form using jQuery to enable seamless user experience without page reloads.
 - Corrected URL endpoint mismatches in [[Flask]], ensuring proper routing and template existence.
 - Diagnosed and resolved Firestore submission issues by checking permissions, validating data fields, and enhancing error handling.
 - Troubleshot feedback submission issues in [[Flask]], focusing on form field names, AJAX, server-side logging, and Firestore operations.

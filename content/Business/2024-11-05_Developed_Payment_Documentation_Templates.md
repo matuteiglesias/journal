@@ -2,7 +2,7 @@
 title: "Developed Payment Documentation Templates"
 tags: ['Argentina', 'Inquilinos', 'Documentación', 'Recibos', 'Pago']
 created: 2024-11-05
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-05 — Session: Developed Payment Documentation Templates

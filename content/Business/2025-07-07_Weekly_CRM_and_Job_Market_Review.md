@@ -2,7 +2,7 @@
 title: "Weekly CRM and Job Market Review"
 tags: ['CRM', 'Job Market', 'ATS', 'Productivity', 'Task Management']
 created: 2025-07-07
-publish: false
+publish: true
 ---
 
 ## 📅 2025-07-07 — Session: Weekly CRM and Job Market Review

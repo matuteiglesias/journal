@@ -2,7 +2,7 @@
 title: "Explored Smart Scheduling Algorithms"
 tags: ['Scheduling', 'Task Management', 'Algorithms', 'Productivity', 'Python']
 created: 2024-10-26
-publish: false
+publish: true
 ---
 
 ## 📅 2024-10-26 — Session: Explored Smart Scheduling Algorithms

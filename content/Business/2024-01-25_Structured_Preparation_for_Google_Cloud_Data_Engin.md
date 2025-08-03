@@ -2,7 +2,7 @@
 title: "Structured Preparation for Google Cloud Data Engineer Exam"
 tags: ['Google Cloud', 'Data Engineering', 'Certification', 'Exam Preparation', 'Study Plan']
 created: 2024-01-25
-publish: false
+publish: true
 ---
 
 ## 📅 2024-01-25 — Session: Structured Preparation for Google Cloud Data Engineer Exam

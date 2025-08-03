@@ -23,12 +23,12 @@ The goal of this session was to draft and organize foundational files and docume
 - Finalized the dependency list for `setup.py`, including important technical details and notes on deprecated practices.
 - Configured a professional-grade `pyproject.toml` for the Terra project, detailing dependencies and installation instructions.
 - Included non-code folders in [[Python]] packaging using a `MANIFEST.in` file.
-- Organized project documentation, planning to move it from a [[Python]] SDK project to a [[Docusaurus]] frontend.
-- Created a [[Docusaurus]] setup checklist to ensure successful migration and setup.
+- Organized project documentation, planning to move it from a [[Python]] SDK project to a Docusaurus frontend.
+- Created a Docusaurus setup checklist to ensure successful migration and setup.
 
 ### Achievements
 - Successfully drafted and organized foundational files and documentation for the Terra OSS repository.
 - Ensured all necessary files and folders are included in the [[Python]] package.
 
 ### Pending Tasks
-- Finalize the [[Docusaurus]] setup and ensure the documentation is correctly displayed and organized.
+- Finalize the Docusaurus setup and ensure the documentation is correctly displayed and organized.

@@ -2,7 +2,7 @@
 title: "Session on Process Management and Google Drive Automation"
 tags: ['Process Management', 'Google Drive', 'Automation', 'CRM', 'Workflow']
 created: 2025-03-03
-publish: false
+publish: true
 ---
 
 ## 📅 2025-03-03 — Session: Session on Process Management and Google Drive Automation
@@ -23,7 +23,7 @@ The session aimed to explore various aspects of process management and Google Dr
 4. **[[Troubleshooting]] and [[Configuration]]**: Offered guidance on configuring and troubleshooting `rclone` and `gdrive` for Google Drive access.
 5. **Knowledge Management**: Mapped process areas and knowledge structures to enhance workflow efficiency.
 6. **[[Workflow]] Reflection**: Reflected on Matias’s workflow structures, highlighting strengths and identifying challenges.
-7. **Political CRM [[Development]]**: Planned the design of a political CRM for effective network management.
+7. **Political CRM Development**: Planned the design of a political CRM for effective network management.
 8. **Script Update**: Updated a script for Google Drive file sharing to improve logging and prevent [[API]] rate limits.
 
 ### Achievements

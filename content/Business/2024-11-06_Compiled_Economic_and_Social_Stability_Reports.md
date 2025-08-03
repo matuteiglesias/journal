@@ -2,7 +2,7 @@
 title: "Compiled Economic and Social Stability Reports"
 tags: ['Economic Stability', 'Social Stability', 'Data Analysis', 'Governance', 'Afrobarometer', 'DHS']
 created: 2024-11-06
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-06 — Session: Compiled Economic and Social Stability Reports

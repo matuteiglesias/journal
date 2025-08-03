@@ -2,7 +2,7 @@
 title: "Developed Python Pipelines for Wise Transactions"
 tags: ['Python', 'Data Transformation', 'Wise Transactions', 'Financial Analysis', 'Ledger Management']
 created: 2025-07-05
-publish: false
+publish: true
 ---
 
 ## 📅 2025-07-05 — Session: Developed Python Pipelines for Wise Transactions

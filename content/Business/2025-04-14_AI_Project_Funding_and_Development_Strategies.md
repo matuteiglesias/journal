@@ -2,7 +2,7 @@
 title: "AI Project Funding and Development Strategies"
 tags: ['AI', 'Funding', 'Development', 'Automation', 'Grant Applications']
 created: 2025-04-14
-publish: false
+publish: true
 ---
 
 ## 📅 2025-04-14 — Session: AI Project Funding and Development Strategies

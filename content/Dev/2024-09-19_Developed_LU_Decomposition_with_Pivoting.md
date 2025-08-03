@@ -19,7 +19,7 @@ The goal of this session was to implement and refine LU decomposition algorithms
 ### Key Activities
 - Developed a non-destructive version of Gaussian Elimination using [[Python]] and NumPy.
 - Implemented LU decomposition steps, including matrix inversion and solving systems of equations.
-- Refactored code for execution in Jupyter notebooks.
+- Refactored code for execution in [[Jupyter]] notebooks.
 - Enhanced LU decomposition with partial and full pivoting to improve numerical stability.
 - Addressed common errors such as 'singular matrix' and `UFuncTypeError` by improving error handling and type casting.
 

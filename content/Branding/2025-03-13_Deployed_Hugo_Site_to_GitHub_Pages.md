@@ -19,8 +19,8 @@ The primary goal of this session was to deploy a Hugo site to GitHub Pages, ensu
 ### Key Activities
 - Sorted notebooks in the 'Otros Notebooks' section using various parameters such as `Params.order`, filenames, or dates.
 - Followed a comprehensive guide to finalize and deploy a Hugo site to GitHub Pages, including committing changes, building the site, pushing to the repository, and creating a `gh-pages` branch.
-- Executed steps to fetch and check out the `gh-pages` branch from a remote Git repository and handle local changes before switching branches.
-- Resolved directory removal issues and preserved custom edits in Git submodules.
+- Executed steps to fetch and check out the `gh-pages` branch from a remote [[Git]] repository and handle local changes before switching branches.
+- Resolved directory removal issues and preserved custom edits in [[Git]] submodules.
 - Diagnosed and fixed issues related to Hugo page generation and deployment paths, ensuring proper site generation and link resolution.
 
 ### Achievements

@@ -24,7 +24,7 @@ The primary goal of this session was to enhance a [[Flask]] application by integ
 - **Verbose Logging Enhancements:** Added detailed logging to improve debugging and tracking of processes in the [[Flask]] app.
 - **[[Debugging]] Vectorstore Initialization:** Systematically troubleshot and fixed initialization issues within the application.
 - **OpenAI [[API]] Key Fixes:** Resolved invalid [[API]] key issues and refactored code for better error handling.
-- **Vectorstore Management Delegation:** Integrated vectorstore management within the Raptor [[Pipeline]] for enhanced embedding and summarization capabilities.
+- **Vectorstore Management Delegation:** Integrated vectorstore management within the Raptor Pipeline for enhanced embedding and summarization capabilities.
 - **[[Refactoring]] for Vectorstore Independence:** Planned a strategy to make vectorstore optional, allowing fallback processing of documents.
 
 ### Achievements

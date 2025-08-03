@@ -19,7 +19,7 @@ The goal of this session was to develop and debug a PDF processing application u
 ### Key Activities
 - Created a rapid development plan for a PDF processing app.
 - Implemented a [[Flask]] application for PDF ingestion and query processing.
-- Integrated the Raptor [[Pipeline]] with the [[Flask]] app for enhanced document processing.
+- Integrated the Raptor Pipeline with the [[Flask]] app for enhanced document processing.
 - Resolved installation errors for the `langchain_chroma` module.
 - Compared different PDF processing implementations for future improvements.
 - Fixed issues related to Conda environment initialization and module import errors.

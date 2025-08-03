@@ -2,7 +2,7 @@
 title: "Structured IT and Data Security Planning Session"
 tags: ['It Structure', 'Data Security', 'Vpn Access', 'Cdo Role', 'Administrative Procedures']
 created: 2023-12-12
-publish: false
+publish: true
 ---
 
 ## 📅 2023-12-12 — Session: Structured IT and Data Security Planning Session

@@ -2,7 +2,7 @@
 title: "Developed Financial Data Processing Pipelines"
 tags: ['Wise', 'Transactions', 'Python', 'Data Pipeline', 'Financial Analysis']
 created: 2025-07-06
-publish: false
+publish: true
 ---
 
 ## 📅 2025-07-06 — Session: Developed Financial Data Processing Pipelines

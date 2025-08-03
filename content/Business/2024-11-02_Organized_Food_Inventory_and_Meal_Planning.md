@@ -2,7 +2,7 @@
 title: "Organized Food Inventory and Meal Planning"
 tags: ['Inventory', 'Meal Planning', 'Data Management', 'Cooking', 'Recipe']
 created: 2024-11-02
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-02 — Session: Organized Food Inventory and Meal Planning

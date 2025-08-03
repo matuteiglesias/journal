@@ -17,8 +17,8 @@ publish: true
 The session aimed to explore various web scraping techniques using [[Python]] libraries, with a focus on handling dynamic content and common errors.
 
 ### Key Activities
-- **HTML Structure for [[Data Extraction]]**: Discussed organizing HTML elements for effective data extraction using BeautifulSoup.
-- **Basic [[Web Scraping]]**: Demonstrated using `requests` and `BeautifulSoup` to fetch and parse HTML content, highlighting limitations with dynamic pages.
+- **[[HTML]] Structure for [[Data Extraction]]**: Discussed organizing [[HTML]] elements for effective data extraction using BeautifulSoup.
+- **Basic [[Web Scraping]]**: Demonstrated using `requests` and `BeautifulSoup` to fetch and parse [[HTML]] content, highlighting limitations with dynamic pages.
 - **[[Error Handling]]**: Provided solutions for handling `KeyError` in BeautifulSoup and corrected f-string usage.
 - **[[CSV]] Encoding Issues**: Addressed common encoding problems when saving [[CSV]] files and suggested solutions.
 - **Dynamic Page Scraping**: Explained challenges with AngularJS-rendered pages and recommended tools like Selenium and Puppeteer.

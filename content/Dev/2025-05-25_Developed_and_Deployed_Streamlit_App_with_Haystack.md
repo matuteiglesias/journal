@@ -22,7 +22,7 @@ The session aimed to design and deploy a Streamlit application integrated with H
 - Reviewed Haystack as a question-answering framework, focusing on its components and applications.
 - Developed and customized a Haystack + Streamlit app, comparing it with Gradio and planning deployment on Hugging Face Spaces.
 - Addressed deployment requirements and error handling for Streamlit apps in restricted environments.
-- Updated and deployed the Streamlit app, resolving Git clone storage errors and removing Docker dependencies.
+- Updated and deployed the Streamlit app, resolving [[Git]] clone storage errors and removing Docker dependencies.
 - Outlined strategies for documentation harvesting from GitHub repositories and web scraping for documentation ingestion.
 
 ### Achievements

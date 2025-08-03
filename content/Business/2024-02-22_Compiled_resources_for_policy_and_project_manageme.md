@@ -2,7 +2,7 @@
 title: "Compiled resources for policy and project management"
 tags: ['Policy Implementation', 'Project Management', 'PRINCE2', 'Public Policy']
 created: 2024-02-22
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-22 — Session: Compiled resources for policy and project management

@@ -2,7 +2,7 @@
 title: "Economic Networks and Volatility Analysis"
 tags: ['Economic Networks', 'Volatility', 'Academic Writing', 'Course Development']
 created: 2024-08-26
-publish: false
+publish: true
 ---
 
 ## 📅 2024-08-26 — Session: Economic Networks and Volatility Analysis
@@ -18,11 +18,11 @@ The session focused on exploring the intricacies of economic networks and their 
 
 ### Key Activities
 1. **Variance Calculations and Network Structures**: Reflected on the importance of variance calculations and network structures in understanding economic volatility, emphasizing dominant terms and error propagation.
-2. **Academic Paper [[Development]]**: Structured notes for developing a coherent academic paper, focusing on methodology and literature review.
+2. **Academic Paper Development**: Structured notes for developing a coherent academic paper, focusing on methodology and literature review.
 3. **Revisiting Aggregate Volatility**: Critiqued Acemoglu et al.'s assumptions on aggregate volatility, proposing a nuanced input-output model.
 4. **Abstract Revision**: Revised an abstract on economic shock propagation in network structures, highlighting model limitations.
 5. **Modeling Shock Propagation**: Discussed network structures' impact on aggregate volatility, critiquing existing models and proposing refinements.
-6. **Course [[Development]]**: Drafted notes and outlined a course on economic networks, covering the Leontieff Input-Output model and shock propagation.
+6. **Course Development**: Drafted notes and outlined a course on economic networks, covering the Leontieff Input-Output model and shock propagation.
 
 ### Achievements
 - Developed insights into variance calculations and network structures.

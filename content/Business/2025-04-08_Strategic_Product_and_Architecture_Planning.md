@@ -2,7 +2,7 @@
 title: "Strategic Product and Architecture Planning"
 tags: ['Architecture', 'MVP', 'AI', 'Product Development', 'Strategy']
 created: 2025-04-08
-publish: false
+publish: true
 ---
 
 ## 📅 2025-04-08 — Session: Strategic Product and Architecture Planning

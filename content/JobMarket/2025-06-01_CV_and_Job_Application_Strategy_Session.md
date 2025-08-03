@@ -17,7 +17,7 @@ publish: false
 The primary aim of this session was to refine Matías Nehuen Iglesias' CV and job application strategy to better align with current market demands and improve job search outcomes.
 
 ### Key Activities
-- Added a Call-to-Action link in [[Docusaurus]], focusing on semantic HTML and [[SEO]].
+- Added a Call-to-Action link in Docusaurus, focusing on semantic [[HTML]] and [[SEO]].
 - Developed a CV alignment strategy for [[AI]] and automation roles, emphasizing quantifiable achievements and relevant skills.
 - Revised 'About Me' and 'Skills' sections for an [[AI]] Systems Developer role.
 - Refined the professional profile structure using LaTeX for better organization and presentation.

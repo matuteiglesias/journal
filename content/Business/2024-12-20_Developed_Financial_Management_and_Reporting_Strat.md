@@ -2,7 +2,7 @@
 title: "Developed Financial Management and Reporting Strategies"
 tags: ['Financial Management', 'Automation', 'Accounting', 'Balance Sheet', 'Financial Reporting']
 created: 2024-12-20
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-20 — Session: Developed Financial Management and Reporting Strategies

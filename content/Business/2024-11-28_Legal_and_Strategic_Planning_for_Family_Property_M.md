@@ -2,7 +2,7 @@
 title: "Legal and Strategic Planning for Family Property Management"
 tags: ['Legal', 'Family Management', 'Property', 'Strategy', 'Agreement']
 created: 2024-11-28
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-28 — Session: Legal and Strategic Planning for Family Property Management

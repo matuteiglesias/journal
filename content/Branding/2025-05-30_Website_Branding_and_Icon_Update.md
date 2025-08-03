@@ -20,14 +20,14 @@ The session aimed to update the website's branding and iconography to align with
 - Analyzed uploaded site configuration files to identify outdated Sapphire branding references.
 - Developed a step-by-step guide for obtaining brand-ready icons and replacing existing ones for consistency.
 - Harmonized icon sets to ensure compatibility across platforms.
-- Resolved configuration errors in [[Docusaurus]], including favicon issues and alias resolution.
-- Updated [[Docusaurus]] sidebar and navbar configurations to improve navigation.
+- Resolved configuration errors in Docusaurus, including favicon issues and alias resolution.
+- Updated Docusaurus sidebar and navbar configurations to improve navigation.
 
 ### Achievements
 - Identified and proposed updates for outdated branding references.
 - Created a structured approach for icon replacement and harmonization.
-- Resolved multiple configuration and alias issues in [[Docusaurus]].
+- Resolved multiple configuration and alias issues in Docusaurus.
 
 ### Pending Tasks
 - Complete the integration of new icons across all web pages.
-- Finalize updates to [[Docusaurus]] configurations for seamless navigation.
+- Finalize updates to Docusaurus configurations for seamless navigation.

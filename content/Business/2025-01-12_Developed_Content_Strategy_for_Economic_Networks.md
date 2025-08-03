@@ -2,7 +2,7 @@
 title: "Developed Content Strategy for Economic Networks"
 tags: ['Content Strategy', 'Economic Networks', 'Book Development', 'Blog Series']
 created: 2025-01-12
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-12 — Session: Developed Content Strategy for Economic Networks

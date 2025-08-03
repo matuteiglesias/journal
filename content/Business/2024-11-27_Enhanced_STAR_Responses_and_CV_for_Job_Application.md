@@ -2,7 +2,7 @@
 title: "Enhanced STAR Responses and CV for Job Applications"
 tags: ['STAR', 'Job Application', 'Interview Preparation', 'Cv Enhancement', 'Professional Development']
 created: 2024-11-27
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-27 — Session: Enhanced STAR Responses and CV for Job Applications

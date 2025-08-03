@@ -2,7 +2,7 @@
 title: "Developed Real Estate SERP and Marketing Strategies"
 tags: ['SEO', 'Real Estate', 'Marketing', 'Data Structure', 'Commercial Property', 'SERP']
 created: 2025-06-27
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-27 — Session: Developed Real Estate SERP and Marketing Strategies

@@ -2,7 +2,7 @@
 title: "Job Applications and Visa Strategy"
 tags: ['Job Applications', 'Visa Strategy', 'Networking', 'Cover Letters', 'Data Science']
 created: 2025-06-09
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-09 — Session: Job Applications and Visa Strategy

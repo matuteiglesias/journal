@@ -24,7 +24,7 @@ The session focused on evaluating and planning improvements for email automation
 - **[[Strategic Planning]] for Early Experiments:** Outlined strategies for validating business ideas through early experiments.
 - **Strategic and Ethical Considerations of Preselling Unbuilt Products:** Explored the ethics and strategies of preselling products.
 - **Strategic Economic Analysis for [[AI]] [[Deployment]]:** Analyzed economic opportunities for [[AI]] deployment.
-- **Building a Low-Cost Company Target Intelligence [[Pipeline]]:** Developed a systematic approach for data extraction on companies.
+- **Building a Low-Cost Company Target Intelligence Pipeline:** Developed a systematic approach for data extraction on companies.
 - **Designing a Resilient Email Processing System:** Planned a strategy for redesigning email processing agents for resilience and efficiency.
 - **Redesign Plan for EmailWatcherAgent v2 and EmailTriagerAgent v2:** Detailed plan for redesigning email agents focusing on modularity and resilience.
 - **Setup for EmailWatcherAgent v2:** Initiated the setup for modular components of EmailWatcherAgent v2.

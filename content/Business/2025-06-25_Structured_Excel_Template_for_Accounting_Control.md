@@ -2,7 +2,7 @@
 title: "Structured Excel Template for Accounting Control"
 tags: ['Excel', 'Contabilidad', 'Automatización', 'Data Integration', 'Python']
 created: 2025-06-25
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-25 — Session: Structured Excel Template for Accounting Control

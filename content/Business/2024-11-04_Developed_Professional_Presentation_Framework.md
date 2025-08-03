@@ -2,7 +2,7 @@
 title: "Developed Professional Presentation Framework"
 tags: ['Presentation', 'Strategy', 'Analysis', 'Leadership', 'Education']
 created: 2024-11-04
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-04 — Session: Developed Professional Presentation Framework

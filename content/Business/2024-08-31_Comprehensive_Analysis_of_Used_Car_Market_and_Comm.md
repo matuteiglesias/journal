@@ -2,7 +2,7 @@
 title: "Comprehensive Analysis of Used Car Market and Communication Strategies"
 tags: ['Used Car Market', 'Communication Strategies', 'Data Processing', 'Investment', 'SVD', 'Travel Calculations']
 created: 2024-08-31
-publish: false
+publish: true
 ---
 
 ## 📅 2024-08-31 — Session: Comprehensive Analysis of Used Car Market and Communication Strategies
@@ -17,7 +17,7 @@ publish: false
 The primary aim of this session was to conduct a comprehensive analysis of the used car market and explore effective communication strategies in various contexts.
 
 ### Key Activities
-- **Dataframe Construction:** Built a comprehensive dataframe by merging car attributes from `attributes_df` and `products_df` for analysis.
+- **[[Dataframe]] Construction:** Built a comprehensive dataframe by merging car attributes from `attributes_df` and `products_df` for analysis.
 - **Travel Calculations:** Calculated travel time for 23 kilometers using different speeds.
 - **Price [[Data Processing]]:** Developed strategies for enhanced price data processing in investment decisions, focusing on data collection, analytics, and automation.
 - **SVD Understanding:** Explored Singular Value Decomposition (SVD) for kernel computation in data science and machine learning.

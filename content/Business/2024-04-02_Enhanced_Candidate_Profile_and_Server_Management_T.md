@@ -2,7 +2,7 @@
 title: "Enhanced Candidate Profile and Server Management Techniques"
 tags: ['AI', 'SSH', 'SCP', 'Latex', 'Resume', 'Server Management']
 created: 2024-04-02
-publish: false
+publish: true
 ---
 
 ## 📅 2024-04-02 — Session: Enhanced Candidate Profile and Server Management Techniques

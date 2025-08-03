@@ -2,7 +2,7 @@
 title: "Developed Legal Notification Templates for Tenant Debt"
 tags: ['Notificación', 'Deuda', 'Inquilino', 'Legal', 'Arrendamiento', 'Comunicación']
 created: 2024-05-05
-publish: false
+publish: true
 ---
 
 ## 📅 2024-05-05 — Session: Developed Legal Notification Templates for Tenant Debt

@@ -2,7 +2,7 @@
 title: "Developed AI-Powered Political Consultancy Framework"
 tags: ['AI', 'Political Consultancy', 'Business Model', 'Automation', 'Political Intelligence', 'Data Collection']
 created: 2025-02-04
-publish: false
+publish: true
 ---
 
 ## 📅 2025-02-04 — Session: Developed AI-Powered Political Consultancy Framework

@@ -2,7 +2,7 @@
 title: "Political Project Planning and Networking"
 tags: ['Political Strategy', 'Networking', 'Personal Development', 'Militancy', 'Strategy']
 created: 2024-06-04
-publish: false
+publish: true
 ---
 
 ## 📅 2024-06-04 — Session: Political Project Planning and Networking

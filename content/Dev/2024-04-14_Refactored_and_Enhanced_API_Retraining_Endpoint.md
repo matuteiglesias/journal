@@ -19,7 +19,7 @@ The session aimed to improve the `/api/retrain` endpoint structure for better cl
 ### Key Activities:
 - **Code [[Refactoring]]**: Reviewed the current structure of the `/api/retrain` endpoint and suggested refactoring into structured functions with enhanced documentation and error handling.
 - **File Management [[Strategy]]**: Planned a cleanup strategy for file management using automated scripts to manage stored files effectively.
-- **[[Pipeline]] [[Integration]]**: Integrated the model and preprocessor into a single pipeline to enhance consistency and simplify deployment.
+- **Pipeline [[Integration]]**: Integrated the model and preprocessor into a single pipeline to enhance consistency and simplify deployment.
 - **Code Inlining**: Discussed inlining code within a single function for the [[API]] retraining endpoint, weighing pros and cons.
 - **Logging Implementation**: Implemented detailed logging in the [[Flask]] [[API]] endpoint to improve transparency and debugging capabilities.
 

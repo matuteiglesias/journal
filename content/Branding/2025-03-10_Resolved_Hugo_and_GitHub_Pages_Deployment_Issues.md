@@ -14,16 +14,16 @@ publish: false
 
 
 ### Session Goal
-The goal of this session was to resolve various issues related to Hugo site deployment on GitHub Pages, including URL structure problems, Git errors, and deployment failures.
+The goal of this session was to resolve various issues related to Hugo site deployment on GitHub Pages, including URL structure problems, [[Git]] errors, and deployment failures.
 
 ### Key Activities
 - Fixed URL structure in Hugo notebooks by replacing underscores with hyphens in filenames to prevent broken links.
-- Addressed the Git error 'src refspec gh-pages does not match any' by ensuring the correct branch setup.
+- Addressed the [[Git]] error 'src refspec gh-pages does not match any' by ensuring the correct branch setup.
 - Cleaned up filenames and fixed links in the Hugo project to maintain consistency and functionality.
 - Debugged Hugo URL caching issues and ensured proper configurations.
-- Troubleshot issues with GitHub Pages not updating, ensuring successful deployment by fixing Git tracking problems and regenerating necessary files.
+- Troubleshot issues with GitHub Pages not updating, ensuring successful deployment by fixing [[Git]] tracking problems and regenerating necessary files.
 - Resolved build failures on GitHub Pages by disabling Jekyll and fixing Liquid syntax errors.
-- Set up a new Hugo TechDoc site and configured it for deployment with Jupyter notebooks on GitHub Pages.
+- Set up a new Hugo TechDoc site and configured it for deployment with [[Jupyter]] notebooks on GitHub Pages.
 - Reviewed and improved the directory structure for optimal Hugo site functionality.
 - Corrected path issues in notebooks and ensured Markdown code compatibility with Hugo.
 - Enabled and configured GitHub Pages for the repository, ensuring the correct deployment source and troubleshooting common issues.

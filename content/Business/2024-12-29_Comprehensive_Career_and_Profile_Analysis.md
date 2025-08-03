@@ -2,7 +2,7 @@
 title: "Comprehensive Career and Profile Analysis"
 tags: ['Career Analysis', 'Data Science', 'Portfolio', 'Professional Development', 'Github']
 created: 2024-12-29
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-29 — Session: Comprehensive Career and Profile Analysis

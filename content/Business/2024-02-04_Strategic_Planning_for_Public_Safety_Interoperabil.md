@@ -2,7 +2,7 @@
 title: "Strategic Planning for Public Safety Interoperability"
 tags: ['Interoperability', 'Public Safety', 'Cctv Integration', 'Digital Training', 'Regulatory Update']
 created: 2024-02-04
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-04 — Session: Strategic Planning for Public Safety Interoperability
@@ -23,7 +23,7 @@ The session focused on exploring strategic collaborations and technological inte
 - **Project Green Light Overview:** Reviewed the Project Green Light initiative in Detroit, focusing on its public-private-community partnership model for neighborhood safety.
 - **Digital Training Proposal:** Proposed digital training initiatives for security personnel in Buenos Aires, including e-learning platforms and mobile applications.
 - **SUAD Management:** Detailed actions for implementing and managing the SUAD, including system integration and information security.
-- **Mobile App [[Development]]:** Discussed the implementation of sworn statement functionalities in a mobile app, including team roles and responsibilities.
+- **Mobile App Development:** Discussed the implementation of sworn statement functionalities in a mobile app, including team roles and responsibilities.
 - **Regulatory Update Proposal:** Proposed updating 2007 regulations to incorporate digital tools and data security practices, emphasizing privacy and data interoperability.
 
 ### Achievements

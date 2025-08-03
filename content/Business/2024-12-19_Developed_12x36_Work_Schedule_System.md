@@ -2,7 +2,7 @@
 title: "Developed 12x36 Work Schedule System"
 tags: ['12X36', 'Work Schedule', 'Template', 'Team Management', 'Automation']
 created: 2024-12-19
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-19 — Session: Developed 12x36 Work Schedule System

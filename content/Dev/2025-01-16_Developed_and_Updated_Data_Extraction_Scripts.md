@@ -14,11 +14,11 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to develop and update [[Python]] scripts for extracting data from HTML files, specifically focusing on Instagram profile data and chat messages.
+The goal of this session was to develop and update [[Python]] scripts for extracting data from [[HTML]] files, specifically focusing on Instagram profile data and chat messages.
 
 ### Key Activities
-- Developed a [[Python]] script to parse HTML files and extract Instagram usernames and profile links, saving the data into a [[CSV]] file.
-- Created and updated a script to extract chat data from HTML files, structuring the data into [[JSON]] format. This included extracting sender names, message content, and timestamps.
+- Developed a [[Python]] script to parse [[HTML]] files and extract Instagram usernames and profile links, saving the data into a [[CSV]] file.
+- Created and updated a script to extract chat data from [[HTML]] files, structuring the data into [[JSON]] format. This included extracting sender names, message content, and timestamps.
 - Updated a script to parse `chats.html` and extract links to individual chat files, saving them in a [[JSON]] format for further processing.
 
 ### Achievements

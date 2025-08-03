@@ -2,7 +2,7 @@
 title: "Comprehensive Financial Analysis and Career Planning"
 tags: ['Financial Analysis', 'Income Statement', 'Cash Flow', 'Quantitative Finance', 'Career Planning']
 created: 2024-11-23
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-23 — Session: Comprehensive Financial Analysis and Career Planning

@@ -18,7 +18,7 @@ The primary objective of this session was to develop and refine [[Python]] scrip
 
 ### Key Activities
 - **File Upload Request**: The session began with a request to upload the missing `outline.txt` file necessary for processing.
-- **Script [[Development]]**: Multiple [[Python]] scripts were developed and revised to filter lines in a text file and identify lines matching the 'int.int' regex pattern.
+- **Script Development**: Multiple [[Python]] scripts were developed and revised to filter lines in a text file and identify lines matching the 'int.int' regex pattern.
 - **Regex Pattern Matching**: Enhanced the scripts to ensure flexibility in matching patterns with any preceding or following characters.
 - **[[Documentation]] Review**: Reviewed chapters from 'Mastering Data Engineering and [[Machine Learning]] on [[Google Cloud]] Platform' focusing on automation, job scheduling, and monitoring ML solutions.
 

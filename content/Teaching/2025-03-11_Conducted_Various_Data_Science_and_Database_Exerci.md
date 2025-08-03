@@ -17,7 +17,7 @@ publish: true
 The goal of this session was to execute a variety of practical exercises in data science and database modeling to enhance understanding and teaching capabilities.
 
 ### Key Activities
-- Conducted a comparison exercise between [[Pandas]] and SQL using Jupyter Notebook to illustrate syntax and performance differences.
+- Conducted a comparison exercise between [[Pandas]] and SQL using [[Jupyter]] Notebook to illustrate syntax and performance differences.
 - Executed a database modeling exercise with DBML, focusing on ER diagrams and SQL schema generation.
 - Normalized a geographic dataset from the 2010 Argentina Census in BigQuery, including analysis, design, and evaluation.
 - Compiled SQL and [[Python]] snippets for data transformation and visualization using [[Pandas]] and Seaborn.

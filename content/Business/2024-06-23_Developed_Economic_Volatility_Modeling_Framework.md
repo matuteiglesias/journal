@@ -2,7 +2,7 @@
 title: "Developed Economic Volatility Modeling Framework"
 tags: ['Economic Modeling', 'Simulation', 'Github', 'Manuscript', 'Economic Shocks']
 created: 2024-06-23
-publish: false
+publish: true
 ---
 
 ## 📅 2024-06-23 — Session: Developed Economic Volatility Modeling Framework

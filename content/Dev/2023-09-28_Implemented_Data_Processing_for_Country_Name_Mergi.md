@@ -20,7 +20,7 @@ The session aimed to implement a robust data processing workflow to handle count
 - **Opening .dta Files**: Explored various methods to open Stata data files (.dta) using [[Python]] with pandas, R with the haven package, and other statistical tools.
 - **Merging Datasets**: Developed and executed a [[Python]] script using pandas to merge multiple datasets, focusing on identifying and resolving discrepancies in country names.
 - **Data Cleaning**: Implemented a [[Python]] code snippet to fix duplicated country names in a DataFrame by splitting and retaining only the first part of the 'countryname' column.
-- **Dataframe Logic**: Created a script to merge dataframes on country names, sum money columns, and display results with merge indicators.
+- **[[Dataframe]] Logic**: Created a script to merge dataframes on country names, sum money columns, and display results with merge indicators.
 - **[[CSV]] Generation**: Generated a [[CSV]] file containing unique country names from datasets to facilitate manual matching.
 
 ### Achievements

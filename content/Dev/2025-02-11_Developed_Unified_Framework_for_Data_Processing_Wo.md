@@ -19,7 +19,7 @@ The primary goal of this session was to enhance the efficiency of knowledge mana
 ### Key Activities
 - **Knowledge Management Improvements**: Focused on improving knowledge indexing, vector storage, smart querying, and retrieval efficiency.
 - **Milestone Planning**: Planned enhancements for GitHub repository workflows, job market processes, and conceptual mapping.
-- **Framework [[Development]]**: Outlined a unified framework for processing diverse data types, emphasizing standardization, modularity, and smart querying.
+- **Framework Development**: Outlined a unified framework for processing diverse data types, emphasizing standardization, modularity, and smart querying.
 - **[[Workflow]] Orchestration**: Defined a common framework to unify and modularize workflows, detailing essential components such as data flow standardization and a workflow orchestrator.
 - **[[AI]] System Architecture**: Outlined the architecture focusing on knowledge processing and retrieval, using LangGraph for dynamic query routing.
 - **[[AI]] Reasoning Layer**: Developed a blueprint for the [[AI]] reasoning layer in version 2, detailing its components and expected outcomes.

@@ -2,7 +2,7 @@
 title: "Strategic Job and Visa Planning Session"
 tags: ['Job Search', 'Visa Options', 'Data Engineering', 'Digital Nomad', 'Czech Republic', 'Strategic Planning']
 created: 2025-06-18
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-18 — Session: Strategic Job and Visa Planning Session

@@ -2,7 +2,7 @@
 title: "Developed Decision-Making and Personal Growth Strategies"
 tags: ['Decision-Making', 'Risk Management', 'Personal Growth', 'Strategy', 'Planning']
 created: 2025-01-05
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-05 — Session: Developed Decision-Making and Personal Growth Strategies

@@ -23,7 +23,7 @@ The primary goal of this session was to resolve various [[Python]] packaging and
 - **Multi-Module Packaging**: Used setuptools to handle multiple top-level modules in a [[Python]] project.
 - **Local Testing of DemoAgent**: Conducted local tests and provided troubleshooting steps for DemoAgent.
 - **[[Python]] Pathing Issues**: Suggested solutions for fixing import path issues in [[Python]] scripts.
-- **Jupyter Notebook Setup**: Configured Jupyter Notebooks for proper module imports by adjusting `sys.path`.
+- **[[Jupyter]] Notebook Setup**: Configured [[Jupyter]] Notebooks for proper module imports by adjusting `sys.path`.
 - **ImportError Fixes**: Resolved ImportError issues for DemoAgent and other modules by correcting import paths.
 
 ### Achievements

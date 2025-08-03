@@ -2,7 +2,7 @@
 title: "Critical Assessment and Planning of Economic Theories"
 tags: ['Economic Theory', 'Macro Stability', 'Firm Dynamics', 'Content Strategy', 'Economic Models']
 created: 2025-01-13
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-13 — Session: Critical Assessment and Planning of Economic Theories

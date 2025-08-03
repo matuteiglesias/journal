@@ -25,7 +25,7 @@ The session aimed to enhance various [[Python]] scripts and CLI tools for improv
 - **[[Refactoring]] CLI for Enhanced Functionality**: Transitioned to a new CLI-based `main()` with dynamic configuration handling and new features.
 - **Dependency Map and Function [[Refactoring]]**: Outlined necessary functions and refactored `embed_all_logs(...)` for new CLI arguments.
 - **Cleaned-Up Imports and [[Configuration]] [[Refactoring]]**: Organized imports and transitioned configurations to use `argparse`.
-- **Review and Improvements for CLI [[Pipeline]] Methods**: Conducted a comprehensive review and suggested improvements for CLI pipeline methods.
+- **Review and Improvements for CLI Pipeline Methods**: Conducted a comprehensive review and suggested improvements for CLI pipeline methods.
 - **Creation of `run_all_daily.py` Orchestration Script**: Designed a script for orchestrating daily log processing.
 
 ### Achievements

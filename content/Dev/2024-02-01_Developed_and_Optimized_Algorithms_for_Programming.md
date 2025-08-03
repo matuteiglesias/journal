@@ -22,7 +22,7 @@ The session aimed to explore and develop solutions for various programming chall
 - **[[Optimization]] Problems**: Formulated optimization problems for LaTeX documentation, including dance pair problems and Mex function maximization.
 - **Dynamic Programming Exercises**: Discussed optimization problems involving activity selection and conflicts, leveraging dynamic programming and greedy methods.
 - **Air Trajectory [[Optimization]]**: Explored optimization of air trajectories to minimize air resistance, using graph theory and recursive formulation.
-- **Application [[Development]] Guidance**: Outlined questions to guide application development, covering user needs and project specifications.
+- **Application Development Guidance**: Outlined questions to guide application development, covering user needs and project specifications.
 - **[[Flask]] Platform [[Optimization]]**: Provided recommendations for enhancing a [[Flask]]-based educational platform, focusing on database integration and user authentication.
 - **Google Sheets and Cloud SQL [[Integration]]**: Detailed methods for integrating Google Sheets with [[Google Cloud]] SQL using [[Flask]] and Google Apps Script.
 - **Database Connection Setup**: Offered instructions for setting up database connections and correcting `gcloud` command errors for [[Google Cloud]] SQL.

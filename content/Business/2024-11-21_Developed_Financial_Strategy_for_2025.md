@@ -2,7 +2,7 @@
 title: "Developed Financial Strategy for 2025"
 tags: ['Financial Strategy', 'Budgeting', 'Family Business', 'Debt Management']
 created: 2024-11-21
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-21 — Session: Developed Financial Strategy for 2025

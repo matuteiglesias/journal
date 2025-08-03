@@ -22,7 +22,7 @@ The session aimed to develop comprehensive frameworks for course design and teac
 - Created a framework for class material development, emphasizing pedagogical strategies and industry best practices.
 - Outlined a structured workflow for transforming input documents into teaching materials, detailing six stages from context analysis to final curation.
 - Envisioned an integrated lecture material ecosystem utilizing interactive notebooks and automated workflows.
-- Refined a workflow for managing Jupyter notebooks and markdown lecture notes, integrating with Hugo for static site generation.
+- Refined a workflow for managing [[Jupyter]] notebooks and markdown lecture notes, integrating with Hugo for static site generation.
 
 ### Achievements
 - Established a robust framework for course design and material creation, aligning with educational standards and technological advancements.

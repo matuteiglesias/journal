@@ -2,7 +2,7 @@
 title: "Developed Course Content for Social Enterprises and Public Service"
 tags: ['Course Development', 'Social Enterprises', 'Public Service', 'Financial Management', 'Self-Management']
 created: 2024-02-16
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-16 — Session: Developed Course Content for Social Enterprises and Public Service

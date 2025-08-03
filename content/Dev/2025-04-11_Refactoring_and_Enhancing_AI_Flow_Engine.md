@@ -21,7 +21,7 @@ The primary objective of this session was to reflect on and improve the modular 
 - **Fixing [[JSON]] Load Errors**: Addressed [[JSON]] loading errors in [[Python]], ensuring correct file paths and valid [[JSON]] structure.
 - **Cleaning FastAPI Endpoints**: Improved [[API]] route organization by eliminating redundancy.
 - **MVP Completion Roadmap**: Created a roadmap for MVP completion of the [[AI]] flow engine, detailing backend and frontend enhancements.
-- **Designing Declarative [[AI]] [[Pipeline]]**: Planned the architecture for a flexible [[AI]] flow runner, focusing on dynamic [[API]] interactions.
+- **Designing Declarative [[AI]] Pipeline**: Planned the architecture for a flexible [[AI]] flow runner, focusing on dynamic [[API]] interactions.
 - **Fixing TypeScript Errors**: Resolved TypeScript errors in React components using the `useState` hook.
 - **Modular [[AI]] [[Workflow]] Engine Design**: Outlined the architecture for a modular [[AI]] workflow engine with detailed component descriptions.
 - **Enhancing [[AI]] Flow Engine**: Implemented dynamic features in the [[AI]] flow engine, including a dynamic flow discovery [[API]].

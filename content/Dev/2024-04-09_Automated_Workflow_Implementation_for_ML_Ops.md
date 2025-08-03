@@ -24,7 +24,7 @@ The goal of this session was to explore and implement automated workflows in the
 - Proposed improvements for ML Ops scripts, focusing on modularization, error handling, and model evaluation.
 - Created workflows in GitHub Actions for ML Ops projects, automating data preprocessing and model updates.
 - Explained the use of `__init__.py` in [[Python]] projects for better code structure and module imports.
-- Provided a step-by-step guide for reconciling Git changes and cleaning repositories with updated .gitignore files.
+- Provided a step-by-step guide for reconciling [[Git]] changes and cleaning repositories with updated .gitignore files.
 
 ### Achievements: 
 - Successfully outlined and partially implemented automated workflows for ML Ops using GitHub Actions.

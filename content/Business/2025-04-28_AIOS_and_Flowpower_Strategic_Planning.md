@@ -2,7 +2,7 @@
 title: "AIOS and Flowpower Strategic Planning"
 tags: ['Api Management', 'Open Source', 'Monetization', 'Documentation', 'Community Engagement', 'Strategy']
 created: 2025-04-28
-publish: false
+publish: true
 ---
 
 ## 📅 2025-04-28 — Session: AIOS and Flowpower Strategic Planning
@@ -23,7 +23,7 @@ The session aimed at exploring strategic directions for AIOS and Flowpower, focu
 - **Lead Generation**: Developed a lead farming strategy for open-source projects, focusing on community engagement.
 - **GitHub [[Optimization]]**: Provided a guide for optimizing the GitHub organization for Terra Foundation.
 - **Public Contributions**: Outlined strategies for encouraging public contributions to open-source projects.
-- **[[Documentation]]**: Discussed creating an 'Atlas of Blocks' for modular documentation and optimizing [[Docusaurus]] for project structuring.
+- **[[Documentation]]**: Discussed creating an 'Atlas of Blocks' for modular documentation and optimizing Docusaurus for project structuring.
 
 ### Achievements
 - Established a comprehensive strategic plan for AIOS and Flowpower, covering monetization, open-source strategies, and documentation.

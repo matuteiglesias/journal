@@ -2,7 +2,7 @@
 title: "Reviewed and Summarized Strategic Contacts"
 tags: ['Contactos', 'Estrategia', 'Networking', 'Colaboración', 'Relaciones']
 created: 2024-12-20
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-20 — Session: Reviewed and Summarized Strategic Contacts

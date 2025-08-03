@@ -2,7 +2,7 @@
 title: "Developed Financial and Legal Frameworks for Property Management"
 tags: ['Property Management', 'Financial Planning', 'Legal Framework', 'Argentina', 'Dividends']
 created: 2024-11-20
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-20 — Session: Developed Financial and Legal Frameworks for Property Management

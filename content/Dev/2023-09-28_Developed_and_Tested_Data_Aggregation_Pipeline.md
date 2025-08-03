@@ -19,7 +19,7 @@ The primary goal of this session was to develop and test a data aggregation pipe
 ### Key Activities
 - **Data Aggregation Plan**: Outlined a structured plan for aggregating datasets by characteristics and year, focusing on money-related columns.
 - **Key Columns Identification**: Identified key columns for datasets `df_wb`, `df_aiddata_china`, and `df_aiddata_wb` for further aggregation.
-- **[[Python]] Function [[Development]]**: Developed [[Python]] functions for data aggregation using pandas, resolving common DataFrame issues such as `SettingWithCopyWarning` and aggregation duplication.
+- **[[Python]] Function Development**: Developed [[Python]] functions for data aggregation using pandas, resolving common DataFrame issues such as `SettingWithCopyWarning` and aggregation duplication.
 - **Loop and Data Inspection**: Implemented a loop to print money column values for data inspection, and addressed execution in a local environment for better inspection.
 - **Data Cleaning**: Parsed numeric columns and handled duplicate entries in DataFrames, ensuring proper data formatting and aggregation.
 - **Datetime and [[CSV]] Export**: Ensured consistent datetime formatting and exported aggregated data to [[CSV]] files.

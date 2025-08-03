@@ -2,7 +2,7 @@
 title: "Explored Economic Variance and Nonlinear Dynamics"
 tags: ['Variance', 'Nonlinearities', 'Law Of Large Numbers', 'Economic Dynamics', 'Quantile Analysis']
 created: 2023-10-26
-publish: false
+publish: true
 ---
 
 ## 📅 2023-10-26 — Session: Explored Economic Variance and Nonlinear Dynamics

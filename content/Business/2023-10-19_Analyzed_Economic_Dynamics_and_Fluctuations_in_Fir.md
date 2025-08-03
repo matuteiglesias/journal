@@ -2,7 +2,7 @@
 title: "Analyzed Economic Dynamics and Fluctuations in Firm Sales"
 tags: ['Economic Dynamics', 'Firm Sales', 'Fluctuations', 'Aggregate Behavior', 'Content Review']
 created: 2023-10-19
-publish: false
+publish: true
 ---
 
 ## 📅 2023-10-19 — Session: Analyzed Economic Dynamics and Fluctuations in Firm Sales

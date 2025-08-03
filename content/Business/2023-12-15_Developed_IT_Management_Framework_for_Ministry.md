@@ -2,7 +2,7 @@
 title: "Developed IT Management Framework for Ministry"
 tags: ['It Management', 'Organizational Structure', 'Collaboration', 'Data Security', 'Strategic Planning']
 created: 2023-12-15
-publish: false
+publish: true
 ---
 
 ## 📅 2023-12-15 — Session: Developed IT Management Framework for Ministry

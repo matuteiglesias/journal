@@ -21,8 +21,8 @@ This session focused on conducting a thorough analysis of Javier Milei's omnibus
 - Provided a structured approach for naming and uploading the PDF file of the analysis to a web server using SCP.
 - Corrected an SCP command error for file transfer, ensuring the file name is included in the destination path.
 - Added headers and footers to the PDF using `wkhtmltopdf`, including page numbers for better navigation.
-- Incorporated headers and footers in the Markdown document using HTML tags, followed by conversion to PDF with `wkhtmltopdf`.
-- Designed a cover page in Markdown with HTML and CSS for the final PDF document.
+- Incorporated headers and footers in the Markdown document using [[HTML]] tags, followed by conversion to PDF with `wkhtmltopdf`.
+- Designed a cover page in Markdown with [[HTML]] and CSS for the final PDF document.
 
 ### Achievements
 - Completed the analysis of the omnibus bill and prepared the document for publication.

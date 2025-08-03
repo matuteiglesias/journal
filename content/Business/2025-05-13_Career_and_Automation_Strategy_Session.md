@@ -2,7 +2,7 @@
 title: "Career and Automation Strategy Session"
 tags: ['Automation', 'Career Planning', 'AI', 'Postdoctoral', 'Strategy']
 created: 2025-05-13
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-13 — Session: Career and Automation Strategy Session

@@ -2,7 +2,7 @@
 title: "Integrating Freudian Theories into Leadership Dynamics"
 tags: ['Freud', 'Leadership', 'Group Dynamics', 'Organizational Change', 'Communication']
 created: 2024-02-21
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-21 — Session: Integrating Freudian Theories into Leadership Dynamics

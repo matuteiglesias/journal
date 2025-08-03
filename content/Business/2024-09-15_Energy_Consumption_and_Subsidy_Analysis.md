@@ -2,7 +2,7 @@
 title: "Energy Consumption and Subsidy Analysis"
 tags: ['Energy Management', 'Subsidies', 'Cost Optimization', 'Efficiency', 'Household']
 created: 2024-09-15
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-15 — Session: Energy Consumption and Subsidy Analysis

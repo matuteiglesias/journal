@@ -17,15 +17,15 @@ publish: true
 The session aimed to enhance project documentation generation and file processing capabilities using various tools and scripts.
 
 ### Key Activities
-- **[[Documentation]] Generation**: Instructions for using Sphinx and MkDocs to verify and rebuild project documentation. This included command-line steps for generating updated HTML output.
+- **[[Documentation]] Generation**: Instructions for using Sphinx and MkDocs to verify and rebuild project documentation. This included command-line steps for generating updated [[HTML]] output.
 - **Search [[Configuration]]**: Detailed how to enable and customize search functionality in MkDocs and Sphinx, with configuration examples.
 - **[[Documentation]] Tools Overview**: Guidance on using tools like pdoc and Doxygen for documentation generation, including enabling search functionality.
-- **File Processing with [[Python]]**: Developed [[Python]] scripts for combining HTML text files and extracting plain text from HTML using BeautifulSoup. This included removing unwanted links and enhancing readability.
+- **File Processing with [[Python]]**: Developed [[Python]] scripts for combining [[HTML]] text files and extracting plain text from [[HTML]] using BeautifulSoup. This included removing unwanted links and enhancing readability.
 
 ### Achievements
 - Successfully documented the process for generating and updating project documentation using Sphinx, MkDocs, pdoc, and Doxygen.
-- Created [[Python]] scripts for efficient file handling and text extraction from HTML files.
+- Created [[Python]] scripts for efficient file handling and text extraction from [[HTML]] files.
 
 ### Pending Tasks
 - Further exploration of SmartMonitor project components for enhancing documentation and monitoring capabilities.
-- [[Development]] of a custom dashboard using Streamlit or Dash for monitoring message processing and RabbitMQ queue management.
+- Development of a custom dashboard using Streamlit or Dash for monitoring message processing and RabbitMQ queue management.

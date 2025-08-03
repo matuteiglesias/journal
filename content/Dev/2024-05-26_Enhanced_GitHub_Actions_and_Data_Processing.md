@@ -22,7 +22,7 @@ The session aimed to enhance automation workflows using GitHub Actions and impro
 - Explored various git branch merge strategies including merge, rebase, and fast-forward.
 - Enhanced logging in [[Python]] data processing scripts for better debugging and tracking.
 - Updated GitHub Actions workflows to manage [[Python]] script outputs and ensure data persistence.
-- Configured Git settings in GitHub Actions for accurate commit tracking.
+- Configured [[Git]] settings in GitHub Actions for accurate commit tracking.
 - Developed strategies for handling pooled urban areas in regression models and simulated city code `0` in datasets using [[Python]].
 - Implemented GitHub Actions workflows to check file sizes and automate data processing tasks.
 - Addressed error handling in model training scripts and automated model updates using GitHub Actions.

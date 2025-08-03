@@ -2,7 +2,7 @@
 title: "Data Manipulation and Legal Documentation Preparation"
 tags: ['Pandas', 'Data Manipulation', 'Legal Documentation', 'Traffic Infraction', 'Python']
 created: 2024-10-28
-publish: false
+publish: true
 ---
 
 ## 📅 2024-10-28 — Session: Data Manipulation and Legal Documentation Preparation

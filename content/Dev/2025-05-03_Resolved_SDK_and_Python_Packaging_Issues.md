@@ -23,7 +23,7 @@ The session aimed to resolve various installation and packaging issues related t
 - Solved multi-module packaging problems using setuptools with an explicit packages list.
 - Offered a local testing procedure for DemoAgent, including setup, execution, and troubleshooting.
 - Provided solutions for [[Python]] pathing issues affecting script imports.
-- Configured Jupyter Notebooks for module imports by adjusting the system path.
+- Configured [[Jupyter]] Notebooks for module imports by adjusting the system path.
 - Resolved ImportError for DemoAgent by correcting the import statement.
 
 ### Achievements

@@ -2,7 +2,7 @@
 title: "Developed Collaboration Framework between UBA and Security Ministry"
 tags: ['Collaboration', 'UBA', 'Security', 'Education', 'Policy']
 created: 2024-03-10
-publish: false
+publish: true
 ---
 
 ## 📅 2024-03-10 — Session: Developed Collaboration Framework between UBA and Security Ministry

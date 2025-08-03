@@ -2,7 +2,7 @@
 title: "Financial Management Automation and Grocery Data Processing"
 tags: ['Financial Management', 'Automation', 'Grocery', 'OCR', 'Inventory']
 created: 2025-01-24
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-24 — Session: Financial Management Automation and Grocery Data Processing
@@ -22,7 +22,7 @@ The session focused on automating financial management processes and processing 
 - **Inventory Management**: Completed a product table with categories and types to facilitate inventory management.
 - **Financial Management Planning**: Developed a comprehensive plan for automating financial management, including a dashboard and automated systems for expense tracking.
 - **Data Manipulation in [[Pandas]]**: Ensured DataFrame columns with NaN filling and handled `pd.NA` to avoid TypeErrors.
-- **Monthly Report Generation**: Generated monthly financial reports with HTML export for visualization.
+- **Monthly Report Generation**: Generated monthly financial reports with [[HTML]] export for visualization.
 
 ### Achievements
 - Successfully structured metadata for knowledge archiving.

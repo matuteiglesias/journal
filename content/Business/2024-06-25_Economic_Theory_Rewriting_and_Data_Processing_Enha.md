@@ -2,7 +2,7 @@
 title: "Economic Theory Rewriting and Data Processing Enhancements"
 tags: ['Teoría Económica', 'Optimalidad De Pareto', 'Python', 'Data Processing', 'Error Handling', 'Covariance']
 created: 2024-06-25
-publish: false
+publish: true
 ---
 
 ## 📅 2024-06-25 — Session: Economic Theory Rewriting and Data Processing Enhancements

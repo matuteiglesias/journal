@@ -2,7 +2,7 @@
 title: "Developed Leadership and Influence Strategies for La Cámpora"
 tags: ['Leadership', 'Organizational Dynamics', 'Communication', 'Strategic Planning', 'Inclusivity']
 created: 2024-06-29
-publish: false
+publish: true
 ---
 
 ## 📅 2024-06-29 — Session: Developed Leadership and Influence Strategies for La Cámpora

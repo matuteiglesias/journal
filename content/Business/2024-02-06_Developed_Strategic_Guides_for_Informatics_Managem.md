@@ -2,7 +2,7 @@
 title: "Developed Strategic Guides for Informatics Management"
 tags: ['Strategic Planning', 'Public Safety', 'Project Management', 'Google Workspace', 'Executive Management']
 created: 2024-02-06
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-06 — Session: Developed Strategic Guides for Informatics Management

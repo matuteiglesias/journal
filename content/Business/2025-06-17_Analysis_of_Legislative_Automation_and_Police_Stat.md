@@ -2,7 +2,7 @@
 title: "Analysis of Legislative Automation and Police Statute"
 tags: ['Automation', 'Legislative', 'Police Statute', 'AI', 'Analysis', 'Public Policy']
 created: 2025-06-17
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-17 — Session: Analysis of Legislative Automation and Police Statute

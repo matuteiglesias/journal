@@ -2,7 +2,7 @@
 title: "Inclusive Leadership and Conflict Resolution Strategies"
 tags: ['Conflict_Resolution', 'Inclusive_Leadership', 'Communication', 'Political_Values', 'Coaching']
 created: 2024-05-18
-publish: false
+publish: true
 ---
 
 ## 📅 2024-05-18 — Session: Inclusive Leadership and Conflict Resolution Strategies

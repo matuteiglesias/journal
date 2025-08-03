@@ -2,7 +2,7 @@
 title: "Developed Protocols for Project Management with AI"
 tags: ['Project Management', 'AI', 'Checklists', 'Digital Tools', 'Protocols']
 created: 2024-02-11
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-11 — Session: Developed Protocols for Project Management with AI

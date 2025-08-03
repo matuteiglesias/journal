@@ -2,7 +2,7 @@
 title: "Developed Strategies for Academic and Professional Dialogues"
 tags: ['Communication', 'Documentation', 'Transparency', 'Academic', 'Professional']
 created: 2024-03-12
-publish: false
+publish: true
 ---
 
 ## 📅 2024-03-12 — Session: Developed Strategies for Academic and Professional Dialogues

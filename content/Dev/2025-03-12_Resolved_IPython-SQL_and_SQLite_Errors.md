@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary aim of this session was to address and resolve several errors encountered while using IPython-SQL with SQLite databases in Jupyter Notebooks.
+The primary aim of this session was to address and resolve several errors encountered while using IPython-SQL with SQLite databases in [[Jupyter]] Notebooks.
 
 ### Key Activities
 - **Fixed 'No module named sql' Error**: Installed the `ipython-sql` package to resolve the module error.
@@ -25,7 +25,7 @@ The primary aim of this session was to address and resolve several errors encoun
 - **Fixed KeyError 'DEFAULT' in IPython-SQL**: Addressed the KeyError 'DEFAULT' by setting a valid PrettyTable style before executing SQL queries.
 
 ### Achievements
-Successfully resolved multiple errors related to IPython-SQL and SQLite, ensuring smoother database operations in Jupyter Notebooks.
+Successfully resolved multiple errors related to IPython-SQL and SQLite, ensuring smoother database operations in [[Jupyter]] Notebooks.
 
 ### Pending Tasks
 No pending tasks were identified during this session.

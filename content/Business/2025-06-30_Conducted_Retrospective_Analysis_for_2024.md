@@ -2,7 +2,7 @@
 title: "Conducted Retrospective Analysis for 2024"
 tags: ['Retrospective', 'Thematic Analysis', 'Strategic Planning', 'Ai Infrastructure', 'Onboarding']
 created: 2025-06-30
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-30 — Session: Conducted Retrospective Analysis for 2024

@@ -21,8 +21,8 @@ The primary objective of this session was to develop and refine [[Python]] scrip
 - **Inserting Assistant Messages:** Developed a function to insert only 'assistant' messages into the database, avoiding duplicates and skipping non-assistant messages.
 - **Filtering Messages:** Ensured that only assistant messages are stored by addressing potential issues with existing entries and providing solutions for filtering and resetting the database.
 - **Database Reset Script:** Created a [[Python]] script to reset the database by dropping the existing 'messages' table and creating a new one.
-- **Modular Ingestion [[Pipeline]]:** Proposed a structure for an ingestion pipeline with a controlled reset mechanism, message filters, and daily JSONL exports.
-- **[[Error Handling]] Improvements:** Fixed [[JSON]] vs JSONL parsing errors and addressed a Jupyter runtime file error.
+- **Modular Ingestion Pipeline:** Proposed a structure for an ingestion pipeline with a controlled reset mechanism, message filters, and daily JSONL exports.
+- **[[Error Handling]] Improvements:** Fixed [[JSON]] vs JSONL parsing errors and addressed a [[Jupyter]] runtime file error.
 - **Function Correction:** Provided a corrected version of the `extract_messages()` function for accurate message filtering.
 
 ### Achievements

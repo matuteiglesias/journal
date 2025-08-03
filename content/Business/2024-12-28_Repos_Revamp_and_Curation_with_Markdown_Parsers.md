@@ -2,7 +2,7 @@
 title: "Repos Revamp and Curation with Markdown Parsers"
 tags: ['Github', 'Portfolio', 'Data Science', 'Automation', 'Software Development']
 created: 2024-12-28
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-28 — Session: Repos Revamp and Curation with Markdown Parsers

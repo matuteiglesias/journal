@@ -20,7 +20,7 @@ The primary goal of this session was to enhance and develop a robust email manag
 - **Explored the use of Salbutamol**: Briefly reflected on the use of Salbutamol for coughs related to respiratory issues.
 - **Outlined a Modular Email Processing System**: Discussed the architecture and principles of a modular email processing system, emphasizing scalability and separation of concerns.
 - **Implemented Structured Logging**: Added structured logging to various components of the email management pipeline, including the `TriageStateManager` and email parsing methods.
-- **Developed Email [[Pipeline]] Demo Suite**: Planned a demo suite to showcase the email processing system's functionalities.
+- **Developed Email Pipeline Demo Suite**: Planned a demo suite to showcase the email processing system's functionalities.
 - **Implemented `load_all_emails()` Method**: Developed the `load_all_emails()` method in the `EmailStorageManager` class to handle email loading and error management.
 - **Bash Scripting**: Created a bash one-liner to list recently modified files within a directory.
 

@@ -2,7 +2,7 @@
 title: "Session on Architecture and Monetization Strategies"
 tags: ['AI', 'Monetization', 'Architecture', 'MVP', 'Startup']
 created: 2025-04-11
-publish: false
+publish: true
 ---
 
 ## 📅 2025-04-11 — Session: Session on Architecture and Monetization Strategies
@@ -23,7 +23,7 @@ The session aimed to explore various strategies related to project architecture 
 - **Building a Modular [[AI]] Product Studio**: Discussed company structure and roles for a modular [[AI]] product studio.
 - **Building Operational Discipline for Seed Companies**: Planned strategies for operational discipline in seed companies.
 - **Shipping Value in Startup Engineering**: Emphasized value delivery in MVP development.
-- **Balancing Quality and Speed in Product [[Development]]**: Reflected on maintaining quality while iterating quickly.
+- **Balancing Quality and Speed in Product Development**: Reflected on maintaining quality while iterating quickly.
 - **Monetizing [[AI]] Services**: Outlined a strategy for monetizing [[AI]] capabilities through productized services.
 - **Path to $10,000**: Provided a guide for monetizing a product to reach revenue goals.
 - **30-Day MVP Challenge**: Proposed a challenge for rapid MVP development to overcome perfectionism.

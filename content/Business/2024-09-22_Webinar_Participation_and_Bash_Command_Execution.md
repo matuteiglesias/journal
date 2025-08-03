@@ -2,7 +2,7 @@
 title: "Webinar Participation and Bash Command Execution"
 tags: ['Webinar', 'Bash', 'File Management', 'Communication', 'Automation']
 created: 2024-09-22
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-22 — Session: Webinar Participation and Bash Command Execution

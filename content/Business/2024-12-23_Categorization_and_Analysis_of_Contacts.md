@@ -2,7 +2,7 @@
 title: "Categorization and Analysis of Contacts"
 tags: ['Contact Management', 'CRM', 'Network Analysis', 'Strategic Planning']
 created: 2024-12-23
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-23 — Session: Categorization and Analysis of Contacts

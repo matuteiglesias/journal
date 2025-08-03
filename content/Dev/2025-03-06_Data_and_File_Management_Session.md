@@ -17,7 +17,7 @@ publish: true
 The primary objective of this session was to enhance data processing capabilities and manage file redundancies effectively.
 
 ### Key Activities
-- **Dataframe Segmentation**: Segmented text fields into 1000-character chunks for efficient text processing.
+- **[[Dataframe]] Segmentation**: Segmented text fields into 1000-character chunks for efficient text processing.
 - **Batch Encoding for Text Embeddings**: Implemented batch encoding to improve text embedding efficiency.
 - **Duplicate File Management**: Utilized command-line tools like `fdupes` for identifying and managing duplicate files.
 - **Mathematical Content Analysis**: Analyzed redundancy in mathematical formulas and file paths to suggest cleanup strategies.

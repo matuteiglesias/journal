@@ -2,7 +2,7 @@
 title: "Defined roles and responsibilities for government department"
 tags: ['Team Management', 'Government Roles', 'Strategic Planning', 'Communication', 'Efficiency']
 created: 2023-12-13
-publish: false
+publish: true
 ---
 
 ## 📅 2023-12-13 — Session: Defined roles and responsibilities for government department

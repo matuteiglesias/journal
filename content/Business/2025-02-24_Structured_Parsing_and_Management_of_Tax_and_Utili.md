@@ -2,7 +2,7 @@
 title: "Structured Parsing and Management of Tax and Utility Bills"
 tags: ['Tax', 'Parsing', 'Financial Documents', 'Data Management', 'Automation']
 created: 2025-02-24
-publish: false
+publish: true
 ---
 
 ## 📅 2025-02-24 — Session: Structured Parsing and Management of Tax and Utility Bills

@@ -2,7 +2,7 @@
 title: "Developed Directory Structure and AI Agent Strategies"
 tags: ['Documentation', 'Ai Agents', 'Google Workspace', 'Integration', 'Project Management']
 created: 2024-02-14
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-14 — Session: Developed Directory Structure and AI Agent Strategies

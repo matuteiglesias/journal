@@ -2,7 +2,7 @@
 title: "Analysis and Management of ABL Tax Tickets"
 tags: ['ABL', 'Tax Management', 'AGIP', 'Duplicate Payments', 'Financial Services']
 created: 2024-11-02
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-02 — Session: Analysis and Management of ABL Tax Tickets

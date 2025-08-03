@@ -2,7 +2,7 @@
 title: "Explored Higher Education as a Public Good"
 tags: ['Education Policy', 'Public Good', 'State Intervention', 'Higher Education', 'Argentina', 'United States']
 created: 2024-04-10
-publish: false
+publish: true
 ---
 
 ## 📅 2024-04-10 — Session: Explored Higher Education as a Public Good
@@ -32,4 +32,4 @@ The session aimed to explore the concept of higher education as a public good, e
 ### Pending Tasks
 - Further exploration of implementation strategies for fostering critical awareness in computer science education.
 - Continued analysis of the impact of budget adjustments on higher education quality and research capabilities.
-- [[Development]] of detailed plans for student mobilization and advocacy for public education.
+- Development of detailed plans for student mobilization and advocacy for public education.

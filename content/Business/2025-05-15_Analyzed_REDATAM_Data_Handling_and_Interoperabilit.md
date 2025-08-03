@@ -2,7 +2,7 @@
 title: "Analyzed REDATAM Data Handling and Interoperability"
 tags: ['REDATAM', 'Data Interoperability', 'Binary Files', 'Data Extraction', 'Reverse Engineering', 'Data Transformation']
 created: 2025-05-15
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-15 — Session: Analyzed REDATAM Data Handling and Interoperability

@@ -2,7 +2,7 @@
 title: "Structured Team and Documentation Planning for Data Projects"
 tags: ['Documentation', 'Team Structure', 'Data Analysis', 'Project Management', 'Python']
 created: 2023-10-14
-publish: false
+publish: true
 ---
 
 ## 📅 2023-10-14 — Session: Structured Team and Documentation Planning for Data Projects

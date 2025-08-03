@@ -2,7 +2,7 @@
 title: "Game Theory Setup and Profit Analysis for Competitive Pricing"
 tags: ['Game Theory', 'Competitive Pricing', 'Profit Analysis', 'Python', 'Economics']
 created: 2024-09-06
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-06 — Session: Game Theory Setup and Profit Analysis for Competitive Pricing

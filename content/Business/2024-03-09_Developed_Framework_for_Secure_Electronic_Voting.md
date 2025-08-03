@@ -2,7 +2,7 @@
 title: "Developed Framework for Secure Electronic Voting"
 tags: ['Electronic Voting', 'University Governance', 'Security', 'Implementation', 'Regulatory Compliance']
 created: 2024-03-09
-publish: false
+publish: true
 ---
 
 ## 📅 2024-03-09 — Session: Developed Framework for Secure Electronic Voting

@@ -2,7 +2,7 @@
 title: "Strategic Planning and Real Estate SEO Optimization"
 tags: ['Strategic Planning', 'Real Estate', 'SEO', 'Authority Consolidation', 'Project Management']
 created: 2025-07-01
-publish: false
+publish: true
 ---
 
 ## 📅 2025-07-01 — Session: Strategic Planning and Real Estate SEO Optimization

@@ -2,7 +2,7 @@
 title: "Analyzed Opposition Tactics and Construction Materials"
 tags: ['Opposition Tactics', 'Strategic Communication', 'Construction Materials', 'Data Visualization']
 created: 2024-08-31
-publish: false
+publish: true
 ---
 
 ## 📅 2024-08-31 — Session: Analyzed Opposition Tactics and Construction Materials

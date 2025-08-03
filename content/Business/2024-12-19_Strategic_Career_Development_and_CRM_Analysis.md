@@ -2,7 +2,7 @@
 title: "Strategic Career Development and CRM Analysis"
 tags: ['Career Development', 'CRM', 'AI', 'Data Science', 'Networking', 'Skills Development']
 created: 2024-12-19
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-19 — Session: Strategic Career Development and CRM Analysis

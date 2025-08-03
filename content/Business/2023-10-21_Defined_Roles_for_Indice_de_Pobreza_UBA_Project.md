@@ -2,7 +2,7 @@
 title: "Defined Roles for Indice de Pobreza UBA Project"
 tags: ['Recruitment', 'Team Structure', 'Project Management', 'Data Science', 'GIS']
 created: 2023-10-21
-publish: false
+publish: true
 ---
 
 ## 📅 2023-10-21 — Session: Defined Roles for Indice de Pobreza UBA Project

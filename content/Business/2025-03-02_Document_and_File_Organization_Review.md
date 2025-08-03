@@ -2,7 +2,7 @@
 title: "Document and File Organization Review"
 tags: ['Document Management', 'File Organization', 'Google Drive', 'Productivity', 'Career Development']
 created: 2025-03-02
-publish: false
+publish: true
 ---
 
 ## 📅 2025-03-02 — Session: Document and File Organization Review

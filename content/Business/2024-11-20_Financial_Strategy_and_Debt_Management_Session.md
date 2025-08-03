@@ -2,7 +2,7 @@
 title: "Financial Strategy and Debt Management Session"
 tags: ['Conflict Management', 'Financial Strategy', 'Debt Management', 'Accounting Systems', 'Wealth Management']
 created: 2024-11-20
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-20 — Session: Financial Strategy and Debt Management Session

@@ -17,16 +17,16 @@ publish: true
 The session aimed to enhance and optimize web scraping techniques using headless browsers, focusing on automation and efficiency.
 
 ### Key Activities
-- **Fixed Clipboard Issues**: Addressed `pyperclip.paste()` failures in headless Chrome by using Selenium for HTML extraction.
-- **Job [[Data Extraction]]**: Developed strategies for extracting job information using [[JSON]]-LD and HTML snippets.
+- **Fixed Clipboard Issues**: Addressed `pyperclip.paste()` failures in headless Chrome by using Selenium for [[HTML]] extraction.
+- **Job [[Data Extraction]]**: Developed strategies for extracting job information using [[JSON]]-LD and [[HTML]] snippets.
 - **Streamlit App Alternatives**: Explored alternatives for text extraction beyond Streamlit limitations.
 - **[[Automation]] Strategies**: Planned various approaches for automating web content extraction using browser extensions and desktop apps.
 - **Cloud-Based Scraping**: Outlined the setup for cloud services using headless browsers.
 - **Resource Usage Reflection**: Analyzed the resource demands of headless browsers for scaling.
 - **Scaling Strategies**: Planned scaling for real browsing simulation using headless browsers.
-- **[[API]] [[Development]]**: Set up a headless browser scraper [[API]] with FastAPI and Playwright.
+- **[[API]] Development**: Set up a headless browser scraper [[API]] with FastAPI and Playwright.
 - **Testing and [[Debugging]]**: Tested scrapers on JavaScript-heavy pages and resolved DNS errors.
-- **Microservice [[Development]]**: Built and Dockerized a headless scraping microservice.
+- **Microservice Development**: Built and Dockerized a headless scraping microservice.
 - **Cookie Consent Handling**: Implemented multilingual consent handling and refactored code for better management.
 - **Spider [[API]] Investigation**: Explored Spider [[API]] capabilities for handling dynamic content and anti-bot systems.
 

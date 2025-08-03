@@ -22,7 +22,7 @@ The session aimed to develop a comprehensive automation pipeline for job applica
 - Troubleshot Tampermonkey scripts for Upwork, focusing on script matching, console logs, and token validation.
 - Debugged authentication issues with Bearer tokens in Upwork's [[API]].
 - Utilized Upwork job data for automation and [[AI]]-driven job search strategies.
-- Outlined a blueprint for a Job Application [[Automation]] [[Pipeline]], detailing components like job source aggregation and proposal generation.
+- Outlined a blueprint for a Job Application [[Automation]] Pipeline, detailing components like job source aggregation and proposal generation.
 - Prepared a cleaned and deduplicated table of job listings for ETL processes.
 - Designed a modular workflow architecture for a Job Application Funnel.
 - Developed a thoughtful job funnel prioritizing meaningful opportunities.

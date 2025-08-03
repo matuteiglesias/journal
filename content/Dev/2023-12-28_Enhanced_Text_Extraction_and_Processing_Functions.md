@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to enhance and correct functions related to text extraction and processing from HTML and legal documents using [[Python]].
+The primary goal of this session was to enhance and correct functions related to text extraction and processing from [[HTML]] and legal documents using [[Python]].
 
 ### Key Activities
-- **Correction in HTML Text Construction**: Addressed issues in constructing text from HTML elements to ensure accurate text collection and concatenation.
+- **Correction in [[HTML]] Text Construction**: Addressed issues in constructing text from [[HTML]] elements to ensure accurate text collection and concatenation.
 - **Improved Text Extraction Function**: Modified `extraer_articulos_titulos_capitulos` to better handle articles, titles, and chapters, including conditions and exceptions.
 - **Function Adaptation for Grouping**: Adapted the `agrupar_articulos` function to work with list outputs, introducing `agrupar_elementos` for grouping elements up to 2500 words.
 - **Function Review and Adjustment**: Reviewed and adjusted the `extraer_articulos_titulos_capitulos` function for efficient detection and counting of document elements.

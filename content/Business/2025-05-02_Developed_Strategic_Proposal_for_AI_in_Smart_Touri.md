@@ -2,7 +2,7 @@
 title: "Developed Strategic Proposal for AI in Smart Tourism"
 tags: ['AI', 'Smart Tourism', 'Proposal', 'Development', 'Quotation']
 created: 2025-05-02
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-02 — Session: Developed Strategic Proposal for AI in Smart Tourism
@@ -32,4 +32,4 @@ The session aimed to develop a strategic proposal for implementing [[AI]] in sma
 - Further refinement and client feedback on proposals and quotations.
 
 ### Labels
-[[AI]], Smart Tourism, Proposal, [[Development]], Quotation
+[[AI]], Smart Tourism, Proposal, Development, Quotation

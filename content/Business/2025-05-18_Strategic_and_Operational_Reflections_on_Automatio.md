@@ -2,7 +2,7 @@
 title: "Strategic and Operational Reflections on Automation and Business"
 tags: ['Automation', 'AI', 'Business', 'Strategy', 'Client Communication']
 created: 2025-05-18
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-18 — Session: Strategic and Operational Reflections on Automation and Business

@@ -17,7 +17,7 @@ publish: true
 The session aimed to analyze and optimize the Retrieval-Augmented Generation (RAG) pipeline and retrieval systems for contact management and other automation tasks.
 
 ### Key Activities
-- **RAG [[Pipeline]] Failure Analysis**: Identified issues in the RAG pipeline related to automated workflows for contact management, focusing on answer generation, retrieval quality, and prompt structure.
+- **RAG Pipeline Failure Analysis**: Identified issues in the RAG pipeline related to automated workflows for contact management, focusing on answer generation, retrieval quality, and prompt structure.
 - **Query Crafting Strategies**: Developed strategies for crafting retriever-friendly queries and longer paragraphs to improve retrieval performance, especially for systems with suboptimal retrievers like BM25.
 - **Successful Retrieval Phase Analysis**: Analyzed a successful retrieval phase, highlighting strong lexical overlap and temporal grounding, and suggested improvements for query optimization.
 - **[[Automation]] and [[Integration]]**: Reviewed the current state of contact management automation, including data import, reminder automation, and integration with tools like HubSpot and [[Python]] scripts.

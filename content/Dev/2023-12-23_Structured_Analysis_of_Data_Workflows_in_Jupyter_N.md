@@ -14,18 +14,18 @@ publish: true
 
 
 ### Session Goal:
-The session aimed to analyze and enhance the understanding of data workflows within Jupyter notebooks, focusing on empirical analysis and file management.
+The session aimed to analyze and enhance the understanding of data workflows within [[Jupyter]] notebooks, focusing on empirical analysis and file management.
 
 ### Key Activities:
-- **Empirical [[Data Analysis]]**: Reviewed the use of 'empirical' in Jupyter notebooks to understand its significance in statistical analysis and visualization.
+- **Empirical [[Data Analysis]]**: Reviewed the use of 'empirical' in [[Jupyter]] notebooks to understand its significance in statistical analysis and visualization.
 - **Bash Command Utilization**: Explored the `ls -l` command for detailed file information and sorted files by modification time to analyze work patterns.
 - **File Modification Analysis**: Conducted an analysis of work eras based on file modification times, identifying shifts in research focus.
 - **Directory Structuring**: Proposed a structured directory organization for project files to enhance manageability.
-- **Jupyter Notebook [[Workflow]]**: Used `grep` commands to analyze data workflows, excluding checkpoint files for cleaner results.
+- **[[Jupyter]] Notebook [[Workflow]]**: Used `grep` commands to analyze data workflows, excluding checkpoint files for cleaner results.
 - **[[Data Processing]] [[Workflow]]**: Outlined high-level workflows for data processing in [[Python]] notebooks, including data import, analysis, and export.
-- **Data Export Methods**: Summarized common data export and plot saving methods in Jupyter notebooks.
+- **Data Export Methods**: Summarized common data export and plot saving methods in [[Jupyter]] notebooks.
 - **Proposed [[Workflow]] Structure**: Suggested a general workflow structure for data projects using Graphviz dot language.
-- **Notebook Management**: Developed efficient prompts for summarizing Jupyter notebook content.
+- **Notebook Management**: Developed efficient prompts for summarizing [[Jupyter]] notebook content.
 
 ### Achievements:
 - Enhanced understanding of empirical data workflows and file management practices.

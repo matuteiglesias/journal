@@ -2,7 +2,7 @@
 title: "Implemented Mercado Libre API Integration"
 tags: ['API', 'Mercado Libre', 'Oauth 2.0', 'Price Monitoring', 'Investment']
 created: 2024-08-29
-publish: false
+publish: true
 ---
 
 ## 📅 2024-08-29 — Session: Implemented Mercado Libre API Integration

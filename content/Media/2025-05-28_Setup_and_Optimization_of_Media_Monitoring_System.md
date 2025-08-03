@@ -18,8 +18,8 @@ The session aimed to set up automation tools and optimize the media monitoring s
 
 ### Key Activities
 - Configured a cron job to execute a [[Python]] script every 4 hours, ensuring automation in the media monitoring process.
-- Initialized a Git repository for the media monitor project, establishing a version control system with a structured directory and collaboration files.
-- Resolved common Git issues, including branch name mismatches and remote origin errors, enhancing the repository's stability.
+- Initialized a [[Git]] repository for the media monitor project, establishing a version control system with a structured directory and collaboration files.
+- Resolved common [[Git]] issues, including branch name mismatches and remote origin errors, enhancing the repository's stability.
 - Created a README for the media monitor project, detailing its purpose, status, structure, and future extensions.
 - Provided [[SEO]] optimization strategies for the GitHub repository to improve visibility and professionalism.
 

@@ -17,7 +17,7 @@ publish: true
 The main goal of this session was to enhance and troubleshoot various components of data processing and export scripts.
 
 ### Key Activities
-- **Local Testing for CI/CD [[Pipeline]]**: Conducted local testing of a data processing pipeline to ensure deterministic behavior before deployment in GitHub CI/CD.
+- **Local Testing for CI/CD Pipeline**: Conducted local testing of a data processing pipeline to ensure deterministic behavior before deployment in GitHub CI/CD.
 - **Disk Usage Analysis**: Utilized Bash commands to analyze disk usage for effective resource management.
 - **Script Modification**: Proposed and partially implemented modifications to a [[Python]] download script, incorporating logic to exclude certain file types and sizes.
 - **Onboarding Guide Creation**: Developed an onboarding guide for a public data ingestion pipeline, focusing on automation and reproducibility.

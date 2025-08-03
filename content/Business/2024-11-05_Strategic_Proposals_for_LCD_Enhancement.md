@@ -2,7 +2,7 @@
 title: "Strategic Proposals for LCD Enhancement"
 tags: ['Community Engagement', 'Transparency', 'Interdisciplinary Collaboration', 'Ethical Practice', 'Curriculum Development']
 created: 2024-11-05
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-05 — Session: Strategic Proposals for LCD Enhancement

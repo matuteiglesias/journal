@@ -2,7 +2,7 @@
 title: "Explored Interdisciplinary Organizational Strategies"
 tags: ['Organizational Dynamics', 'Workplace Harassment', 'Therapy', 'Cognitive-Behavioral', 'Personal Growth']
 created: 2023-12-08
-publish: false
+publish: true
 ---
 
 ## 📅 2023-12-08 — Session: Explored Interdisciplinary Organizational Strategies

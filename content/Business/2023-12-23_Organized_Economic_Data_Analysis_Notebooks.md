@@ -2,7 +2,7 @@
 title: "Organized Economic Data Analysis Notebooks"
 tags: ['Economic Analysis', 'Data Organization', 'Project Management', 'Facebook']
 created: 2023-12-23
-publish: false
+publish: true
 ---
 
 ## 📅 2023-12-23 — Session: Organized Economic Data Analysis Notebooks

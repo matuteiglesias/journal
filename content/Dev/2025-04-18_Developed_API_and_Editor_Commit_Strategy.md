@@ -14,11 +14,11 @@ publish: true
 
 
 ### Session Goal
-The session aimed to create a structured commit plan for [[API]] and editor components, resolve divergent Git branches, and explore SaaS development strategies.
+The session aimed to create a structured commit plan for [[API]] and editor components, resolve divergent [[Git]] branches, and explore SaaS development strategies.
 
 ### Key Activities
 - Developed a detailed commit plan for [[API]] routes and editor components to ensure a modular commit history.
-- Resolved divergent branches in Git using merge and rebase commands.
+- Resolved divergent branches in [[Git]] using merge and rebase commands.
 - Explored methods for embedding images in GitHub README files.
 - Outlined a strategic approach for leveraging [[AI]] in SaaS product development.
 - Planned a 1-week sprint for MVP development using rapid experimentation.

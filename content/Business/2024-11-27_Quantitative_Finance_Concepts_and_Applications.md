@@ -2,7 +2,7 @@
 title: "Quantitative Finance Concepts and Applications"
 tags: ['Quantitative Analysis', 'Risk Management', 'Trading Strategies', 'Python', 'Finance']
 created: 2024-11-27
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-27 — Session: Quantitative Finance Concepts and Applications

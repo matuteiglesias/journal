@@ -21,12 +21,12 @@ The primary aim of this session was to enhance the implementation of [[Python]] 
 - Updated the implementation of the `draft_exercise` function to handle list-based fields and missing values correctly.
 - Modified code to return a free-text message response from the [[AI]], maintaining the original syntax and structure.
 - Saved parsed exercises as Markdown files using exercise IDs as filenames.
-- Converted Markdown files to Jupyter Notebooks using various tools like `nbformat`, `pandoc`, and `notedown`.
+- Converted Markdown files to [[Jupyter]] Notebooks using various tools like `nbformat`, `pandoc`, and `notedown`.
 
 ### Achievements
 - Improved clarity and structure of generated problem statements.
 - Enhanced the management and editing of exercise files by storing them as Markdown.
-- Provided multiple methods for converting Markdown to Jupyter Notebooks, with detailed comparisons.
+- Provided multiple methods for converting Markdown to [[Jupyter]] Notebooks, with detailed comparisons.
 
 ### Pending Tasks
 - Further testing of the updated functions to ensure robustness across different datasets.

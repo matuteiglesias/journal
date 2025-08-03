@@ -2,7 +2,7 @@
 title: "Developed Social and Professional Relationship Strategy"
 tags: ['Relationship Management', 'CRM', 'Networking', 'Strategy', 'Professional Development']
 created: 2024-12-20
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-20 — Session: Developed Social and Professional Relationship Strategy

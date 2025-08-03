@@ -21,7 +21,7 @@ The session aimed to design and implement various components of the Terra [[AI]]
 - Architected the Terra [[AI]] system, focusing on the Global Memory Store and Mission-Centric Push Pack.
 - Drafted Terra documentation, including a vision statement and style guide.
 - Conceptualized a foundational info directory for Terra, brainstorming meaningful names.
-- Designed a living data registry integrated with [[Docusaurus]] for auto-documentation.
+- Designed a living data registry integrated with Docusaurus for auto-documentation.
 - Implemented a registry crawler script and switched agent registry storage to [[JSON]] for better compatibility.
 
 ### Achievements

@@ -2,7 +2,7 @@
 title: "Web Scraping LinkedIn and Economic Analysis"
 tags: ['Web Scraping', 'Linkedin', 'Economic Analysis', 'Data Science', 'Career Development']
 created: 2024-01-19
-publish: false
+publish: true
 ---
 
 ## 📅 2024-01-19 — Session: Web Scraping LinkedIn and Economic Analysis

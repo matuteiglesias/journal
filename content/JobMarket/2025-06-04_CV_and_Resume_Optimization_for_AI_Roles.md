@@ -18,7 +18,7 @@ The primary goal of this session was to optimize Matías's CV and resume for rol
 
 ### Key Activities
 - Developed a structured approach to represent a part-time consulting role on a CV, focusing on contributions and transparency.
-- Outlined a targeted skill set for roles in [[Data Science]], [[AI]], [[Machine Learning]], and Full-Stack [[Development]].
+- Outlined a targeted skill set for roles in [[Data Science]], [[AI]], [[Machine Learning]], and Full-Stack Development.
 - Compiled a comprehensive list of technologies and frameworks for CV optimization, suitable for ATS keyword filtering.
 - Customized Matías's experience list to highlight technical skills in data science, data engineering, and cloud technologies.
 - Updated the LaTeX CV structure to improve the flow and readability of technical skills.

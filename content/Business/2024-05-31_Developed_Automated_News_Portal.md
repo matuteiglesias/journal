@@ -2,7 +2,7 @@
 title: "Developed Automated News Portal"
 tags: ['News Automation', 'Python', 'Personal Branding', 'Data Extraction', 'Online Presence']
 created: 2024-05-31
-publish: false
+publish: true
 ---
 
 ## 📅 2024-05-31 — Session: Developed Automated News Portal
@@ -19,7 +19,7 @@ The goal of this session was to strategize and initiate the development of an au
 ### Key Activities
 - **Online Personalities [[Strategy]]**: Developed a strategy for establishing multiple online personas to communicate economic topics through data analysis and software applications.
 - **Automated News Portal**: Planned and organized the structure of an automated news portal with sections on Politics, Economy, and a creative section called 'Imaginario Colectivo'.
-- **[[Python]] Script [[Development]]**: Created a [[Python]] script for extracting news from RSS feeds using keywords, packaged it into a GitHub repository, and integrated it into a standardized project.
+- **[[Python]] Script Development**: Created a [[Python]] script for extracting news from RSS feeds using keywords, packaged it into a GitHub repository, and integrated it into a standardized project.
 - **Crontab [[Configuration]]**: Set up crontab for hourly execution of the news extraction script.
 - **[[Documentation]]**: Prepared a comprehensive README for the News Keyword Extractor project.
 

@@ -2,7 +2,7 @@
 title: "Institutional Governance and Planning at UBA"
 tags: ['Institutional Governance', 'UBA', 'Data Management', 'Academic Strategy', 'Automation']
 created: 2025-05-26
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-26 — Session: Institutional Governance and Planning at UBA

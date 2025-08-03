@@ -20,7 +20,7 @@ The main objective of this session was to enhance the email ingestion pipeline b
 - **Task Scheduling**: Scheduled `email_ingestor.py` using `scheduler.py`, enhancing task modularity and logging.
 - **MongoDB [[Troubleshooting]]**: Resolved connection issues, started MongoDB service, and installed `mongosh`.
 - **[[Data Management]]**: Verified email ingestion scheduler, managed subject fields, and implemented deduplication logic.
-- **Processing Layer [[Development]]**: Built a processing layer with Jupyter notebooks for email classification and management.
+- **Processing Layer Development**: Built a processing layer with [[Jupyter]] notebooks for email classification and management.
 - **Tool [[Integration]]**: Refactored `classifier.py` to use OpenAI's SDK for improved email classification.
 
 ### Achievements

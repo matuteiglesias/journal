@@ -2,7 +2,7 @@
 title: "Structured Research and Publication Planning"
 tags: ['Economics', 'Research', 'Publication', 'Strategy', 'International Trade', 'Empirical Analysis']
 created: 2024-06-07
-publish: false
+publish: true
 ---
 
 ## 📅 2024-06-07 — Session: Structured Research and Publication Planning

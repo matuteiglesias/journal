@@ -2,7 +2,7 @@
 title: "Structured Planning and Task Management Session"
 tags: ['Productivity', 'Task Management', 'Strategic Planning', 'Team Dynamics']
 created: 2024-10-28
-publish: false
+publish: true
 ---
 
 ## 📅 2024-10-28 — Session: Structured Planning and Task Management Session

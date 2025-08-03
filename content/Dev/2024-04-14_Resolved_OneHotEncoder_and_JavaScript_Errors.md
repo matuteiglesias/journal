@@ -18,7 +18,7 @@ The primary objective was to resolve several technical errors and improve data p
 
 ### Key Activities
 - **OneHotEncoder Category Mismatch**: Addressed a `ValueError` in OneHotEncoder by troubleshooting category mismatches during transformation.
-- **Preprocessor Inspection**: Utilized Jupyter Notebook and joblib to inspect a preprocessor, ensuring its components were correctly loaded and applied.
+- **Preprocessor Inspection**: Utilized [[Jupyter]] Notebook and joblib to inspect a preprocessor, ensuring its components were correctly loaded and applied.
 - **[[Debugging]] Preprocessing Issues**: Implemented enhanced logging to diagnose preprocessing failures in machine learning pipelines.
 - **Feature Mismatch Resolution**: Developed strategies to maintain consistent feature sets between training and prediction phases using OneHotEncoder.
 - **JavaScript and [[Flask]] [[Integration]]**: Updated JavaScript and [[Flask]] integration to handle model name changes effectively.

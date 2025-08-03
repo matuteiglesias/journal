@@ -18,7 +18,7 @@ The session aimed to evaluate [[AI]]-generated outputs for clustering news artic
 
 ### Key Activities
 1. **Markdown File Metadata Parser**: Implemented a [[Python]] script to parse markdown filenames into structured metadata and save as [[JSON]] lines.
-2. **[[Data Processing]] [[Pipeline]]**: Developed a pipeline using JSONL input with AzureML Flow schema and Jinja prompts for clustering news articles.
+2. **[[Data Processing]] Pipeline**: Developed a pipeline using JSONL input with AzureML Flow schema and Jinja prompts for clustering news articles.
 3. **[[AI]] Output Evaluation**: Conducted a critical analysis of [[AI]]-generated outputs related to article clustering on US tariffs, focusing on strengths and weaknesses.
 4. **Prompt Refinement**: Improved prompts for analyzing [[CSV]] news articles and processing news headlines, emphasizing clustering and deduplication.
 5. **Content [[Strategy]] and Analysis**: Generated seed ideas for articles and analyzed the automotive sector's growth in Argentina.

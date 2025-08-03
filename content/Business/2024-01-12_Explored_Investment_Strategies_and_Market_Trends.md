@@ -2,7 +2,7 @@
 title: "Explored Investment Strategies and Market Trends"
 tags: ['Investment', 'Bonds', 'Reits', 'Commodities', 'Technical Analysis']
 created: 2024-01-12
-publish: false
+publish: true
 ---
 
 ## 📅 2024-01-12 — Session: Explored Investment Strategies and Market Trends

@@ -2,7 +2,7 @@
 title: "Developed Algorithmic Trading Functions for Stock Analysis"
 tags: ['Algorithmic Trading', 'Stock Analysis', 'Python', 'Data Manipulation', 'Investment Strategies']
 created: 2024-01-15
-publish: false
+publish: true
 ---
 
 ## 📅 2024-01-15 — Session: Developed Algorithmic Trading Functions for Stock Analysis

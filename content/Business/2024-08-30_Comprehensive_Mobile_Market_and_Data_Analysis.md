@@ -2,7 +2,7 @@
 title: "Comprehensive Mobile Market and Data Analysis"
 tags: ['Data Manipulation', 'Market Analysis', 'Mobile Phones', 'Pricing', 'Financing']
 created: 2024-08-30
-publish: false
+publish: true
 ---
 
 ## 📅 2024-08-30 — Session: Comprehensive Mobile Market and Data Analysis

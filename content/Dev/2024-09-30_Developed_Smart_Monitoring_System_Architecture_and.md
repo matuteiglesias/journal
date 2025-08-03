@@ -18,11 +18,11 @@ The session aimed to develop a comprehensive plan for the architecture and MVP o
 
 ### Key Activities
 - **System Architecture Assessment**: Reviewed a whiteboard sketch of the system architecture, providing insights and suggestions for improvement.
-- **MVP [[Development]] Plan**: Outlined a structured approach for developing the MVP of a data processing system, including class definitions for data ingestion, processing, storage, and notification.
+- **MVP Development Plan**: Outlined a structured approach for developing the MVP of a data processing system, including class definitions for data ingestion, processing, storage, and notification.
 - **[[Python]] Project Structure**: Recommended a file structure for the [[Python]] project to ensure modularity and maintainability.
 - **ChatDev Project Request**: Created a bash script to manage project tasks for the smart monitoring system.
 - **Directory Structure Scripting**: Developed a bash script to set up the directory structure for the smart monitoring system.
-- **[[Development]] Overview**: Proposed an approach for developing the system, focusing on a dashboard interface and potential [[AI]] integration.
+- **Development Overview**: Proposed an approach for developing the system, focusing on a dashboard interface and potential [[AI]] integration.
 
 ### Achievements
 - Established a clear plan for the system's architecture and MVP development.

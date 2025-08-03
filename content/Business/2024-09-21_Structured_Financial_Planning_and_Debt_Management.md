@@ -2,7 +2,7 @@
 title: "Structured Financial Planning and Debt Management"
 tags: ['Financial Planning', 'Debt Management', 'Budgeting', 'Cash Flow', 'Savings']
 created: 2024-09-21
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-21 — Session: Structured Financial Planning and Debt Management

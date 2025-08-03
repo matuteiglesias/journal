@@ -18,7 +18,7 @@ The goal of this session was to enhance session management and error handling in
 
 ### Key Activities
 - Implemented error handling for the `/submit_answer` route, including session initialization and frontend adjustments.
-- Logged user session data using [[Python]]'s print function and provided a sample HTML template for user feedback.
+- Logged user session data using [[Python]]'s print function and provided a sample [[HTML]] template for user feedback.
 - Troubleshot user session issues, focusing on user ID retrieval during login and submission processes.
 - Explored session persistence with Google OAuth, detailing session cookies and best practices.
 - Developed a logout route to clear sessions and redirect users, ensuring re-authentication with Google OAuth.

@@ -34,5 +34,5 @@ The session aimed to develop a structured framework for organizing work into mod
 
 ### Pending Tasks
 - Further refinement of the modular work clusters framework and integration with existing systems.
-- Continued development of onboarding documentation using [[Docusaurus]].
+- Continued development of onboarding documentation using Docusaurus.
 - Exploration of [[AI]] archetypes and their roles in system integration.

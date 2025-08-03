@@ -2,7 +2,7 @@
 title: "Financial Data Analysis and Optimization"
 tags: ['Financial Analysis', 'Pandas', 'Data Management', 'Python', 'Cash Flow']
 created: 2024-12-14
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-14 — Session: Financial Data Analysis and Optimization

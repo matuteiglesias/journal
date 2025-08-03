@@ -2,7 +2,7 @@
 title: "Strategic Company and Outreach Analysis"
 tags: ['Strategic Analysis', 'Networking', 'Job Search', 'Ai Recommendations', 'Company Insights']
 created: 2025-06-07
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-07 — Session: Strategic Company and Outreach Analysis

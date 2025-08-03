@@ -2,7 +2,7 @@
 title: "Professional Role Reinvention Planning"
 tags: ['Professional Development', 'Career Planning', 'Productivity', 'Role Reinvention', 'Personal Growth']
 created: 2024-05-18
-publish: false
+publish: true
 ---
 
 ## 📅 2024-05-18 — Session: Professional Role Reinvention Planning

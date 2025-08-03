@@ -2,7 +2,7 @@
 title: "Legal and Real Estate Procedures in Argentina"
 tags: ['Usucapión', 'Real Estate', 'CABA', 'Legal', 'Property']
 created: 2024-09-03
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-03 — Session: Legal and Real Estate Procedures in Argentina

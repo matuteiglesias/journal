@@ -2,7 +2,7 @@
 title: "Analyzed Non-Linearities and Variance in Economic Systems"
 tags: ['Variance Aggregation', 'Non-Linearities', 'Economic Systems', 'Scaling Relations', 'Risk Management']
 created: 2025-01-11
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-11 — Session: Analyzed Non-Linearities and Variance in Economic Systems
@@ -20,7 +20,7 @@ The session aimed to explore the implications of non-linearities and variance ag
 - **Non-Linearities in Variance Aggregation**: Analyzed how non-linearities and comovements affect variance aggregation, challenging traditional assumptions and discussing policy implications.
 - **Variance Decomposition and Scaling Relations**: Explored the intersection of variance decomposition with statistical mechanics, including finite-size scaling and random matrix theory.
 - **Perturbation Expansions and Log-Sobolev Inequalities**: Investigated the relationship between perturbation expansions and log-Sobolev inequalities in economic modeling.
-- **Computational Experiment [[Pipeline]]**: Outlined a pipeline for analyzing variance and covariance matrices, focusing on methodological steps and potential applications.
+- **Computational Experiment Pipeline**: Outlined a pipeline for analyzing variance and covariance matrices, focusing on methodological steps and potential applications.
 - **Paper Conclusion Assessment**: Assessed a paper's conclusion, identifying strengths, gaps, and recommendations for risk management and policy design.
 
 ### Achievements

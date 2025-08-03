@@ -1,7 +1,7 @@
 ---
 title: "Communication"
 tags: []
-created: 2025-08-02
+created: 2025-08-03
 publish: true
 ---
 

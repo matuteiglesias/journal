@@ -18,7 +18,7 @@ The session aimed to explore advanced styling techniques for pandas DataFrames u
 
 ### Key Activities
 - Reviewed the `Styler` class features for DataFrame formatting, emphasizing customization and separation of display from data.
-- Explored the use of CSS for styling tables generated from pandas DataFrames, highlighting HTML integration capabilities.
+- Explored the use of CSS for styling tables generated from pandas DataFrames, highlighting [[HTML]] integration capabilities.
 - Demonstrated applying a background gradient using a custom colormap in pandas, with specific color scaling.
 - Provided code snippets for styling tables in household size analysis, enhancing readability through visual differentiation.
 - Illustrated wealth distribution analysis using data visualization techniques with custom color maps.

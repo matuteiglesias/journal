@@ -2,7 +2,7 @@
 title: "Enhancing Decision-Making Skills and Practices"
 tags: ['Decision-Making', 'Strategic Thinking', 'Leadership', 'Self-Improvement', 'Executive Effectiveness']
 created: 2024-02-10
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-10 — Session: Enhancing Decision-Making Skills and Practices

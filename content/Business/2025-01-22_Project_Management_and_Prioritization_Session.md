@@ -2,7 +2,7 @@
 title: "Project Management and Prioritization Session"
 tags: ['Project Management', 'Task Prioritization', 'Automation', 'Financial Management', 'Github']
 created: 2025-01-22
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-22 — Session: Project Management and Prioritization Session

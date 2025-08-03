@@ -2,7 +2,7 @@
 title: "Developed Legal and Political Participation Frameworks"
 tags: ['Legal Strategy', 'Political Participation', 'Collaboration', 'Eviction', 'Graduate Meeting']
 created: 2024-06-13
-publish: false
+publish: true
 ---
 
 ## 📅 2024-06-13 — Session: Developed Legal and Political Participation Frameworks

@@ -2,7 +2,7 @@
 title: "Data Processing and Machine Learning Enhancements"
 tags: ['Census', 'Data Processing', 'Machine Learning', 'Public Engagement', 'Content Strategy']
 created: 2025-07-15
-publish: false
+publish: true
 ---
 
 ## 📅 2025-07-15 — Session: Data Processing and Machine Learning Enhancements

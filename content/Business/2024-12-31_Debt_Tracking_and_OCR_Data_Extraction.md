@@ -2,7 +2,7 @@
 title: "Debt Tracking and OCR Data Extraction"
 tags: ['Debt Tracking', 'OCR', 'Financial Management', 'Data Extraction', 'Pandas', 'Google Sheets']
 created: 2024-12-31
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-31 — Session: Debt Tracking and OCR Data Extraction

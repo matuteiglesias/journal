@@ -24,7 +24,7 @@ The primary objective of this session was to troubleshoot and resolve issues rel
 
 ### Achievements
 - Successfully resolved theme issues and ensured that the Hugo site was correctly deployed to GitHub Pages.
-- Implemented a clean deployment strategy using Git worktrees.
+- Implemented a clean deployment strategy using [[Git]] worktrees.
 
 ### Pending Tasks
 - Monitor the deployment for any further issues that may arise and optimize the deployment process as needed.

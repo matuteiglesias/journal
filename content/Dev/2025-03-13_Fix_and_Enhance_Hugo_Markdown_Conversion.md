@@ -17,7 +17,7 @@ publish: true
 The goal of this session was to address and fix multiple issues related to Markdown conversion and Hugo site configuration, ensuring proper metadata extraction, YAML front matter formatting, and page sorting.
 
 ### Key Activities
-- **Title Extraction Fix**: Updated the script to extract titles from Jupyter notebook metadata instead of filenames.
+- **Title Extraction Fix**: Updated the script to extract titles from [[Jupyter]] notebook metadata instead of filenames.
 - **YAML Front Matter Error Fix**: Corrected YAML formatting for Hugo compatibility.
 - **Page Ordering and Pagination**: Modified Hugo templates to ensure proper page ordering and pagination using the `order` field.
 - **Global Menu Sorting**: Adjusted global menu sorting for natural numeric ordering based on titles.

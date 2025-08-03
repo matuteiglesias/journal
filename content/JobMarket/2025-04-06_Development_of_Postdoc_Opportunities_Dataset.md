@@ -18,9 +18,9 @@ The primary objective of this session was to develop a dataset of 20–30 promis
 
 ### Key Activities
 - **Building a Dataset for Postdoc Opportunities:** Initiated the compilation of a dataset focusing on research institutions.
-- **Institutional Navigation [[Pipeline]] Update:** Enhanced the institutional navigation pipeline to identify key elements on academic websites.
-- **Structured Dataset [[Development]]:** Planned the creation of a structured dataset by scraping data from target institutions' websites using an LLM for parsing.
-- **Structured Intelligence [[Pipeline]]:** Developed a detailed approach for a structured intelligence pipeline for postdoc targeting.
+- **Institutional Navigation Pipeline Update:** Enhanced the institutional navigation pipeline to identify key elements on academic websites.
+- **Structured Dataset Development:** Planned the creation of a structured dataset by scraping data from target institutions' websites using an LLM for parsing.
+- **Structured Intelligence Pipeline:** Developed a detailed approach for a structured intelligence pipeline for postdoc targeting.
 - **Multi-Stage Intelligence Architecture:** Outlined a multi-stage pipeline for discovering and filtering postdoc research opportunities.
 - **Setup and [[Automation]]:** Estimated setup and automation time for the data scraping pipeline.
 - **Directory Layout:** Designed a directory layout for parsing institution landing pages and generating leads.

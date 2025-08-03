@@ -2,7 +2,7 @@
 title: "Analysis of Javier Milei's Political Communication"
 tags: ['Political Communication', 'Javier Milei', 'Economic Discourse', 'Argentina', 'Narrative Strategy']
 created: 2023-11-25
-publish: false
+publish: true
 ---
 
 ## 📅 2023-11-25 — Session: Analysis of Javier Milei's Political Communication
@@ -28,4 +28,4 @@ The session aimed to analyze the political communication strategies of Javier Mi
 
 ### Pending Tasks
 - Further exploration of alternative narratives to effectively challenge Milei's rhetoric.
-- [[Development]] of a comprehensive plan for engaging with political narratives in Argentina.
+- Development of a comprehensive plan for engaging with political narratives in Argentina.

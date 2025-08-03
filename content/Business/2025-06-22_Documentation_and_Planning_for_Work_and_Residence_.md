@@ -2,7 +2,7 @@
 title: "Documentation and Planning for Work and Residence in Croatia"
 tags: ['Immigration', 'Work Permit', 'Croatia', 'Argentinian Citizens', 'Travel Planning']
 created: 2025-06-22
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-22 — Session: Documentation and Planning for Work and Residence in Croatia

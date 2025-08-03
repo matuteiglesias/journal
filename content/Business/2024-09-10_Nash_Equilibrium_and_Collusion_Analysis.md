@@ -2,7 +2,7 @@
 title: "Nash Equilibrium and Collusion Analysis"
 tags: ['Nash Equilibrium', 'Collusion', 'Game Theory', 'Economics', 'Profit Calculation']
 created: 2024-09-10
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-10 — Session: Nash Equilibrium and Collusion Analysis

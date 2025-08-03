@@ -18,7 +18,7 @@ The session aimed to execute practical exercises in data science education and e
 
 ### Key Activities
 1. **Scientific Figure Creation with [[Matplotlib]]**: Conducted an exercise to teach students how to create publication-quality scientific figures using [[Matplotlib]] and the law of Zipf.
-2. **Exploratory [[Data Analysis]] (EDA) Report**: Guided students through selecting an open dataset, documenting it, and performing an EDA using [[Python]] and Markdown, culminating in exporting the report to PDF and HTML.
+2. **Exploratory [[Data Analysis]] (EDA) Report**: Guided students through selecting an open dataset, documenting it, and performing an EDA using [[Python]] and Markdown, culminating in exporting the report to PDF and [[HTML]].
 3. **Data Narrative Exercise**: Focused on storytelling with data, where participants chose a relevant topic and developed a presentation combining data analysis and storytelling.
 4. **Course Evaluation in [[Data Science]]**: Analyzed the structure and content of a data science course, highlighting strengths and areas for improvement.
 5. **Probability and Statistics for [[Machine Learning]] Evaluation**: Reviewed a teaching segment on Probability and Statistics, including simulations and practical exercises, with suggestions for enhancement.

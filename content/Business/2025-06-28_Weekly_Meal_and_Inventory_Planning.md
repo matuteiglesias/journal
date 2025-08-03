@@ -2,7 +2,7 @@
 title: "Weekly Meal and Inventory Planning"
 tags: ['OCR', 'Inventory', 'Meal Planning', 'Efficiency', 'Data Processing']
 created: 2025-06-28
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-28 — Session: Weekly Meal and Inventory Planning

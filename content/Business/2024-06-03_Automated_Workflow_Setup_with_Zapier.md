@@ -2,7 +2,7 @@
 title: "Automated Workflow Setup with Zapier"
 tags: ['Zapier', 'Automation', 'Google Sheets', 'Trello', 'Time Management']
 created: 2024-06-03
-publish: false
+publish: true
 ---
 
 ## 📅 2024-06-03 — Session: Automated Workflow Setup with Zapier

@@ -17,7 +17,7 @@ publish: true
 The goal of this session was to address and resolve common errors encountered in JavaScript and AJAX during web development.
 
 ### Key Activities
-- **Error Resolution in JavaScript**: Addressed common issues such as DOM access errors, button ID mismatches, and code duplication in HTML. Solutions included ensuring correct ID usage and executing scripts after the DOM is fully loaded.
+- **Error Resolution in JavaScript**: Addressed common issues such as DOM access errors, button ID mismatches, and code duplication in [[HTML]]. Solutions included ensuring correct ID usage and executing scripts after the DOM is fully loaded.
 - **AJAX [[Configuration]]**: Provided instructions on configuring AJAX requests for effective frontend-backend communication, including handling CORS issues in Express servers.
 - **[[Debugging]] Techniques**: Offered practical debugging insights and code examples to resolve JavaScript and AJAX errors.
 

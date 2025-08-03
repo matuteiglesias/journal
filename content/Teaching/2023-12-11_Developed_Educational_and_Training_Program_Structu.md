@@ -34,4 +34,4 @@ The primary objective of this session was to develop and refine educational and 
 ### Pending Tasks
 - Further refinement of course structures and adaptation strategies.
 - Implementation of proposed strategies and evaluation frameworks.
-- [[Development]] of detailed curriculum content for proposed programs.
+- Development of detailed curriculum content for proposed programs.

@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to design and implement a lightweight dashboard for managing RabbitMQ and MongoDB using [[Flask]] for the backend and plain HTML/JavaScript for the frontend.
+The goal of this session was to design and implement a lightweight dashboard for managing RabbitMQ and MongoDB using [[Flask]] for the backend and plain [[HTML]]/JavaScript for the frontend.
 
 ### Key Activities
-- Designed a custom RabbitMQ dashboard with HTML and JavaScript.
+- Designed a custom RabbitMQ dashboard with [[HTML]] and JavaScript.
 - Fixed a `404 Not Found` error in [[Flask]] by defining a root route.
 - Developed a [[Flask]] application to display RabbitMQ queue counts and MongoDB collection counts.
 - Updated the `/stats` endpoint to integrate `MongoHandler` for MongoDB operations.

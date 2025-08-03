@@ -2,7 +2,7 @@
 title: "Optimized MDF and Glass Cutting Strategies"
 tags: ['MDF', 'Glass Cutting', 'Printing', 'A-Series Sizes', 'Layout Planning']
 created: 2024-03-30
-publish: false
+publish: true
 ---
 
 ## 📅 2024-03-30 — Session: Optimized MDF and Glass Cutting Strategies

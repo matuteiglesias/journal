@@ -20,7 +20,7 @@ The session aimed to develop a structured plan for generating and extracting con
 - **Planning**: Developed a plan to scan policy and code files for content ideas and design effective prompts.
 - **Error Resolution**: Identified and proposed solutions for file access errors in automation scripts.
 - **Implementation**: Implemented a script to automatically extract content ideas from text fragments.
-- **[[Strategy]] [[Development]]**: Outlined a strategy for creating [[SEO]] tutorials, including optimization techniques and platforms.
+- **[[Strategy]] Development**: Outlined a strategy for creating [[SEO]] tutorials, including optimization techniques and platforms.
 - **[[Automation]] Enhancement**: Proposed a three-step process to list recent code files and extract ideas, optimizing workflow.
 
 ### Achievements

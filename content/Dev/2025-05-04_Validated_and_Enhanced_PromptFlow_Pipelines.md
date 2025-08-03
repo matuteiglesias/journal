@@ -17,7 +17,7 @@ publish: true
 The primary goal of this session was to validate and enhance PromptFlow pipelines for semantic analysis of assistant chat logs, focusing on metadata tagging and automation.
 
 ### Key Activities
-- **Validation of PromptFlow [[Pipeline]]**: Conducted a validation process for a PromptFlow pipeline that semantically analyzes chat logs.
+- **Validation of PromptFlow Pipeline**: Conducted a validation process for a PromptFlow pipeline that semantically analyzes chat logs.
 - **Setup Guide Creation**: Developed a comprehensive guide for setting up new semantic pipelines, including folder structure, YAML configurations, and run commands.
 - **Periodic Processing [[Automation]]**: Transitioned from manual runs to a production-grade periodic processing loop using PromptFlow, with plans for centralized data aggregation.
 - **Daily Message Export Script**: Implemented a [[Python]] script to extract daily subsets of messages and save them as JSONL files.

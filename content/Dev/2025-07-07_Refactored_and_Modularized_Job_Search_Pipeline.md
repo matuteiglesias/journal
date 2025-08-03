@@ -19,9 +19,9 @@ The session aimed to refactor and modularize the job search pipeline for improve
 ### Key Activities
 - **Database Schema Design**: Outlined the database schema and relationships for the SERP scraper output, focusing on data extraction and job search.
 - **Weakness Identification**: Analyzed the modular product structure to identify weaknesses in data integrity and processing, suggesting actionable fixes.
-- **[[Pipeline]] Refinement**: Refined the job search automation pipeline by breaking it into logical stages and addressing weak points for better modularity.
+- **Pipeline Refinement**: Refined the job search automation pipeline by breaking it into logical stages and addressing weak points for better modularity.
 - **Architectural Planning**: Developed a plan to split monolithic logic into distinct scripts, detailing their responsibilities and interactions.
-- **Script [[Development]]**: Created and implemented [[Python]] scripts for fetching SERP data, labeling job domains, and converting [[CSV]] to JSONL formats.
+- **Script Development**: Created and implemented [[Python]] scripts for fetching SERP data, labeling job domains, and converting [[CSV]] to JSONL formats.
 - **Error Resolution**: Fixed a PromptFlow local path resolution error, enhancing local execution and error handling.
 
 ### Achievements

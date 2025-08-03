@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to enhance and refactor React components within a Next.js project, focusing on integrating HTML with global CSS, analyzing and improving wrapper components, and implementing repository data management.
+The primary goal of this session was to enhance and refactor React components within a Next.js project, focusing on integrating [[HTML]] with global CSS, analyzing and improving wrapper components, and implementing repository data management.
 
 ### Key Activities
-- **Integrating HTML with Next.js**: Replaced inline styles with a global CSS file and created a React component for a developer blog.
+- **Integrating [[HTML]] with Next.js**: Replaced inline styles with a global CSS file and created a React component for a developer blog.
 - **Wrapper Code Analysis**: Analyzed commented-out wrapper code, removed unnecessary sections, and suggested improvements for configurable behavior and simplification.
 - **RepoCards Component Plan**: Outlined the structure and styling for displaying GitHub repository cards, including testing and optimization steps.
 - **Placeholder [[JSON]] for Data Simulation**: Implemented a method to simulate GitHub data using [[JSON]] for React components.
@@ -26,7 +26,7 @@ The primary goal of this session was to enhance and refactor React components wi
 - **[[Refactoring]] Repository Management**: Improved modularity by moving repository selection logic to individual pages.
 
 ### Achievements
-- Successfully integrated HTML with Next.js using global CSS.
+- Successfully integrated [[HTML]] with Next.js using global CSS.
 - Enhanced wrapper components for better configurability and simplicity.
 - Developed a comprehensive plan for the RepoCards component.
 - Implemented placeholder data for testing React components.

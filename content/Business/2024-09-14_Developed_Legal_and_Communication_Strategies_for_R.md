@@ -2,7 +2,7 @@
 title: "Developed Legal and Communication Strategies for Real Estate Management"
 tags: ['Legal Strategy', 'Real Estate', 'Tax Collection', 'Tenant Communication', 'Contract Termination']
 created: 2024-09-14
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-14 — Session: Developed Legal and Communication Strategies for Real Estate Management

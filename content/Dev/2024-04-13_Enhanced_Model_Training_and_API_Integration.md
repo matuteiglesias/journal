@@ -22,7 +22,7 @@ The session aimed to enhance the model training pipeline, improve [[API]] integr
 - **Data Handling Enhancements**: Implemented methods for saving predictions to [[CSV]] for better data accessibility.
 - **[[API]] [[Integration]]**: Enhanced the `retrainModel` and `updatePlots` functions in a web application, focusing on backend communication and frontend updates.
 - **[[Troubleshooting]]**: Resolved issues related to undefined model names in [[API]] calls, float conversion errors, and handling unknown categories in data transformation.
-- **Preprocessing [[Pipeline]]**: Integrated preprocessing steps in model predictions and addressed challenges with `OneHotEncoder` and `ColumnTransformer` pipelines.
+- **Preprocessing Pipeline**: Integrated preprocessing steps in model predictions and addressed challenges with `OneHotEncoder` and `ColumnTransformer` pipelines.
 
 ### Achievements
 - Successfully implemented a comprehensive model training and evaluation pipeline.

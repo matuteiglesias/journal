@@ -18,7 +18,7 @@ The session aimed to enhance the architecture of the LeadScreenerAgent and devel
 
 ### Key Activities
 - **[[Refactoring]] LeadScreenerAgent**: The LeadScreenerAgent was refactored to align with a clean architecture, incorporating a modular design for better scalability and maintainability.
-- **[[Development]] of Dogfood Champion Methods**: Implemented and tested several methods for the Dogfood Champion class, focusing on flow management, usage analysis, and daily reporting.
+- **Development of Dogfood Champion Methods**: Implemented and tested several methods for the Dogfood Champion class, focusing on flow management, usage analysis, and daily reporting.
 - **Utility Functions**: Created utility functions for system management, including JSONL file handling and system run tracking.
 - **Designing Scheduler and Logging Conventions**: Proposed a scalable scheduler design and organized logging and filesystem conventions for Terra.
 

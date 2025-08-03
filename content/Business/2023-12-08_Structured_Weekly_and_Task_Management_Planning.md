@@ -2,7 +2,7 @@
 title: "Structured Weekly and Task Management Planning"
 tags: ['Weekly Planning', 'Task Management', 'Productivity', 'Time Management', 'Organization']
 created: 2023-12-08
-publish: false
+publish: true
 ---
 
 ## 📅 2023-12-08 — Session: Structured Weekly and Task Management Planning

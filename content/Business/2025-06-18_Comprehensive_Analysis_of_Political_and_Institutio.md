@@ -2,7 +2,7 @@
 title: "Comprehensive Analysis of Political and Institutional Dynamics"
 tags: ['Political Analysis', 'Strategic Communication', 'Corruption', 'Justice', 'Education Ethics']
 created: 2025-06-18
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-18 — Session: Comprehensive Analysis of Political and Institutional Dynamics
@@ -28,4 +28,4 @@ The session aimed to analyze various political and institutional dynamics, focus
 
 ### Pending Tasks
 - Further investigation into the ethical implications of educational marketing strategies.
-- [[Development]] of frameworks for enhancing justice equity in Argentina.
+- Development of frameworks for enhancing justice equity in Argentina.

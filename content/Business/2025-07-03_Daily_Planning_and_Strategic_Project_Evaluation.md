@@ -2,7 +2,7 @@
 title: "Daily Planning and Strategic Project Evaluation"
 tags: ['Productivity', 'Project Management', 'Strategic Planning', 'Task Prioritization', 'Ceo Roadmap']
 created: 2025-07-03
-publish: false
+publish: true
 ---
 
 ## 📅 2025-07-03 — Session: Daily Planning and Strategic Project Evaluation

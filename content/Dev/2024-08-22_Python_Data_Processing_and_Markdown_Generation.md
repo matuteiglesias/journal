@@ -18,7 +18,7 @@ The goal of this session was to develop and refine [[Python]] scripts for proces
 
 ### Key Activities
 - **Force Quit OpenOffice Calc**: Instructions were provided on using terminal commands like `killall`, `pkill`, `xkill`, and manual methods to force quit OpenOffice Calc.
-- **[[Python]] Script [[Development]]**: Created a [[Python]] script to read [[CSV]] files, group data by specific columns, and generate markdown outputs.
+- **[[Python]] Script Development**: Created a [[Python]] script to read [[CSV]] files, group data by specific columns, and generate markdown outputs.
 - **[[Error Handling]]**: Resolved a ValueError related to unpacking in [[Python]], ensuring correct markdown string concatenation.
 - **[[Data Analysis]]**: Implemented functions to calculate group percentages and sort groups by these percentages before generating markdown.
 

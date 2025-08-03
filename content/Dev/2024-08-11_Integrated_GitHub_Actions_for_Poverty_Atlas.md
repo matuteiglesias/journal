@@ -17,7 +17,7 @@ publish: true
 The primary goal of this session was to integrate updated machine learning models from the `encuestador-de-hogares` repository into the Poverty Atlas project, utilizing GitHub Actions for automation.
 
 ### Key Activities
-- Outlined the workflow for integrating machine learning models using Jupyter Notebooks and GitHub Actions.
+- Outlined the workflow for integrating machine learning models using [[Jupyter]] Notebooks and GitHub Actions.
 - Resolved a GitHub token permissions error by creating and configuring a Personal Access Token (PAT) with the necessary scopes.
 - Troubleshooted various GitHub errors, including 'Resource not accessible by integration' and 'Bad credentials', ensuring proper authentication and permissions.
 - Managed and securely stored GitHub secrets, ensuring sensitive information is handled appropriately.

@@ -2,7 +2,7 @@
 title: "Analyzed Legal Framework for Eviction in Buenos Aires"
 tags: ['Eviction', 'Buenos Aires', 'Legal Strategy', 'Judicial Process', 'Ethical Practices']
 created: 2024-01-19
-publish: false
+publish: true
 ---
 
 ## 📅 2024-01-19 — Session: Analyzed Legal Framework for Eviction in Buenos Aires
@@ -29,4 +29,4 @@ The session aimed to explore and analyze the legal framework and procedures rela
 
 ### Pending Tasks
 - Further exploration of specific case studies to apply the theoretical insights gained.
-- [[Development]] of templates for legal documentation and client communication.
+- Development of templates for legal documentation and client communication.

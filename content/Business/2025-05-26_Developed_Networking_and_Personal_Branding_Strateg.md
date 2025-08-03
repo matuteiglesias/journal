@@ -2,7 +2,7 @@
 title: "Developed Networking and Personal Branding Strategies"
 tags: ['Networking', 'Personal Branding', 'Strategic Communication', 'Frameworks', 'Cv Design']
 created: 2025-05-26
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-26 — Session: Developed Networking and Personal Branding Strategies

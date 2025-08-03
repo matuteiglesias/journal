@@ -24,7 +24,7 @@ The session aimed to enhance financial data analysis and reporting processes by 
 5. **Financial Monitoring for Rental Business:** Outlined strategies for visualizing key financial indicators in a rental business.
 6. **DataFrame Filtering:** Explained filtering techniques for DataFrames based on absolute sum criteria.
 7. **Monthly Ledger Report Enhancements:** Analyzed and suggested improvements for monthly financial ledger reports, including conditional formatting and PDF export.
-8. **Code Refactor for Reporting:** Refactored [[Python]] code to generate HTML-formatted monthly financial reports with transaction and summary tables.
+8. **Code Refactor for Reporting:** Refactored [[Python]] code to generate [[HTML]]-formatted monthly financial reports with transaction and summary tables.
 9. **CSS Styling Enhancements:** Improved CSS for monthly ledger reports, focusing on readability and aesthetics.
 10. **Monthly Totals Calculation:** Developed code to compute monthly financial totals for multiple actors.
 11. **Data Reshaping for Actor Grouping:** Implemented code for reshaping financial data by actors for better analysis.

@@ -2,7 +2,7 @@
 title: "Strategic Business Planning and Task Management"
 tags: ['Strategic Planning', 'Task Management', 'Business Growth', 'CRM', 'SEO', 'Project Evaluation']
 created: 2025-05-26
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-26 — Session: Strategic Business Planning and Task Management

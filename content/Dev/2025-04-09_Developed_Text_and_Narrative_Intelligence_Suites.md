@@ -18,7 +18,7 @@ The session aimed to advance the development of various [[AI]]-driven tools and 
 
 ### Key Activities
 - **Google Sheets Product Tag Matching**: Explored using Google Sheets and REGEXMATCH for product tag management.
-- **Text Intelligence Suite [[Development]]**: Planned a product suite for text intelligence, focusing on backend pipelines for clustering, summarization, and storytelling.
+- **Text Intelligence Suite Development**: Planned a product suite for text intelligence, focusing on backend pipelines for clustering, summarization, and storytelling.
 - **Narrative Builder Architecture**: Outlined the architecture of a Narrative Builder to transform unstructured text into coherent narratives.
 - **Efficiency in Narrative Builder**: Refined the Narrative Builder by reimagining backend scripts as configurable pipeline presets.
 - **Code Intelligence Toolkit**: Conceptualized a toolkit for developers to manage codebases and data workflows.

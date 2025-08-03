@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance a [[Python]] script for processing Jupyter Notebook files and implement a bin-packing algorithm for distributing consigna files.
+The session aimed to enhance a [[Python]] script for processing [[Jupyter]] Notebook files and implement a bin-packing algorithm for distributing consigna files.
 
 ### Key Activities
-- Enhanced the file filtering capabilities of a Jupyter Notebook processing script by excluding checkpoint directories and handling Unicode errors.
+- Enhanced the file filtering capabilities of a [[Jupyter]] Notebook processing script by excluding checkpoint directories and handling Unicode errors.
 - Developed a bin-packing algorithm using the First-Fit Decreasing (FFD) approach to distribute consignas efficiently without splitting them.
 - Modified the bin-packing algorithm to balance the size and number of consignas in each chunk.
 - Implemented a [[Python]] script to automate the retrieval and distribution of consigna notebooks into balanced chunks based on specified constraints.

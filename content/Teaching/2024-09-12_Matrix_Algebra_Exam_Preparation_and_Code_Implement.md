@@ -20,7 +20,7 @@ The session aimed to prepare exam exercises and implement code solutions for tea
 - **Exam Exercise Proposal:** Designed exercises to evaluate students on matrix inversion, base change, and solving systems of linear equations.
 - **Code Implementation:** Developed [[Python]] functions for matrix operations such as row echelon transformation, matrix inversion using back substitution, and Gaussian elimination.
 - **Numerical Precision Review:** Addressed numerical precision issues in matrix inversion calculations, suggesting improvements using `np.allclose`.
-- **GitHub Setup:** Organized student submissions via Git, including repository setup and instructions for exam submissions.
+- **GitHub Setup:** Organized student submissions via [[Git]], including repository setup and instructions for exam submissions.
 - **Algorithm Correction:** Corrected the Gaussian elimination algorithm to ensure proper storage of reduction factors in matrix L.
 
 ### Achievements

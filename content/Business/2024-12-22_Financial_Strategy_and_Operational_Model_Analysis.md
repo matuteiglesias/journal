@@ -2,7 +2,7 @@
 title: "Financial Strategy and Operational Model Analysis"
 tags: ['Financial Strategy', 'Operational Model', 'Stakeholder Communication', 'Accounting', 'Business Sustainability']
 created: 2024-12-22
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-22 — Session: Financial Strategy and Operational Model Analysis

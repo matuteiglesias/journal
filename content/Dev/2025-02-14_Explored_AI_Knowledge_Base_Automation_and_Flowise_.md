@@ -21,7 +21,7 @@ The session aimed to explore and compare different [[AI]]-driven platforms and p
 - **[[AI]] Knowledge Base Proposal:** Proposed a paradigm for an [[AI]]-driven knowledge base automating content generation through scalable workflows.
 - **Flowise Platform Overview:** Reviewed Flowise as a low-code platform for LLM applications and its potential for plugin development and monetization.
 - **Strategic Business Model:** Outlined a strategic approach for developing a scalable [[AI]] automation tool leveraging open-source solutions.
-- **Plugin [[Development]] Guide:** Discussed the advantages and steps for developing a Flowise plugin.
+- **Plugin Development Guide:** Discussed the advantages and steps for developing a Flowise plugin.
 
 ### Achievements
 - Developed a comprehensive understanding of Flowise's capabilities as a low-code platform for [[AI]] development.

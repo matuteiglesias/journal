@@ -21,7 +21,7 @@ The session aimed to design and implement a comprehensive educational pre-regist
 - **[[Automation]] Planning**: Modeled pre-registration and automatic assignment systems, including a simplified MVP design for activity assignment using [[Python]] and pandas.
 - **[[Data Management]]**: Created metadata schemas and relational database structures for educational datasets, and proposed denormalization strategies for activity management.
 - **Onboarding Design**: Developed a modular onboarding system for educational projects, ensuring quality and reusability.
-- **ETL [[Pipeline]] [[Development]]**: Designed an ETL pipeline to transform Google Sheets data into normalized [[CSV]] tables.
+- **ETL Pipeline Development**: Designed an ETL pipeline to transform Google Sheets data into normalized [[CSV]] tables.
 - **Error Resolution**: Addressed date format errors in pandas and improved data extraction functions using regex.
 - **Database Modeling**: Created DBML diagrams for a pre-registration system in Third Normal Form.
 

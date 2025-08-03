@@ -2,7 +2,7 @@
 title: "Project Management and Graph Theory Analysis"
 tags: ['Project Management', 'Graph Theory', 'Student Evaluation', 'BFS', 'Acyclic Graphs']
 created: 2024-06-04
-publish: false
+publish: true
 ---
 
 ## 📅 2024-06-04 — Session: Project Management and Graph Theory Analysis

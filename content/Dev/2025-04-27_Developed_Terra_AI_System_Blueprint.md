@@ -20,7 +20,7 @@ The goal of this session was to develop a comprehensive blueprint for the Terra 
 - Outlined high-level methods for the DogfoodChampion, emphasizing modular programming for city navigation and daily reporting.
 - Developed a template for documentation and ecosystem mapping, prioritizing automation and high-leverage updates.
 - Conceptualized the organic evolution of Terra through daily agent outputs, fostering natural selection and historical memory.
-- Proposed the 'Terra Git City' concept, where daily artifacts are committed to a Git repository to encourage creativity and evolution.
+- Proposed the 'Terra [[Git]] City' concept, where daily artifacts are committed to a [[Git]] repository to encourage creativity and evolution.
 - Discussed leveraging [[AI]] systems for growth, emphasizing dynamic, self-evolving capabilities.
 - Planned an intelligent evolutionary system for Terra, focusing on similarity-based component merging.
 - Explored narrative transformation by forking AIOS into Terra, creating a living [[AI]] ecosystem.

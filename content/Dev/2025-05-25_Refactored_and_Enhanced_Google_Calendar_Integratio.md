@@ -18,7 +18,7 @@ The session aimed to improve and enhance the integration of structured session l
 
 ### Key Activities
 - Provided an overview of AutoMQ and its relevance to current projects.
-- Troubleshooted Jupyter Notebook controller errors and pandas [[CSV]] export issues.
+- Troubleshooted [[Jupyter]] Notebook controller errors and pandas [[CSV]] export issues.
 - Explored schema enforcement in Microsoft PromptFlow and [[JSON]] schema compatibility for OpenAI function calls.
 - Refactored enum lists for clarity and scalability, and revised [[JSON]] schemas for minimal labels and role descriptions.
 - Conducted daily analysis of economic and social data, and workflow analysis for financial and relationship management.

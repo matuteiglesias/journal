@@ -2,7 +2,7 @@
 title: "Comprehensive Financial Analysis and Planning"
 tags: ['Financial Analysis', 'Property Management', 'Income Optimization', 'Accounting', 'Strategic Planning']
 created: 2024-12-14
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-14 — Session: Comprehensive Financial Analysis and Planning

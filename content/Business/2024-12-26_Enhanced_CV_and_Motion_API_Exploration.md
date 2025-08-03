@@ -2,7 +2,7 @@
 title: "Enhanced CV and Motion API Exploration"
 tags: ['Cv Enhancement', 'Motion Api', 'Career Development', 'Project Management', 'Task Management']
 created: 2024-12-26
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-26 — Session: Enhanced CV and Motion API Exploration
@@ -18,7 +18,7 @@ The session aimed to enhance CVs for specific data science roles and explore the
 
 ### Key Activities
 1. **Improving CVs**: Reviewed strategies to enhance CVs, focusing on tailoring them for roles such as Senior Data Scientist, [[AI]] Specialist, and Data Engineer. Key features, skills, and metrics were highlighted for each role.
-2. **Defining Career Roles**: Structured primary roles around Technical [[Leadership]], Strategic Innovation, and Academic [[Leadership]].
+2. **Defining Career Roles**: Structured primary roles around Technical Leadership, Strategic Innovation, and Academic Leadership.
 3. **[[Project Management]] in [[Automation]]**: Planned a project management branch within the Smart Monitor System, detailing core modules and implementation steps.
 4. **Testing Motion [[API]]**: Conducted [[API]] testing using [[Python]], including setup and response handling.
 5. **Motion [[API]] Schema Overview**: Reviewed project data structuring within the Motion [[API]].

@@ -2,7 +2,7 @@
 title: "Guidance and Documentation for PhD and Work in Brazil"
 tags: ['Phd', 'Brazil', 'Documentation', 'Diploma', 'Qr Code', 'Verification']
 created: 2025-01-12
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-12 — Session: Guidance and Documentation for PhD and Work in Brazil

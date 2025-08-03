@@ -2,7 +2,7 @@
 title: "Developed Comprehensive Personal and Project Management Checklists"
 tags: ['Checklists', 'Project Management', 'Personal Development', 'Organization', 'Strategic Planning']
 created: 2024-02-13
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-13 — Session: Developed Comprehensive Personal and Project Management Checklists

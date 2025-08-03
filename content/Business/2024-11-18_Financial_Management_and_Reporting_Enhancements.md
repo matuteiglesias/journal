@@ -2,7 +2,7 @@
 title: "Financial Management and Reporting Enhancements"
 tags: ['Financial Management', 'Property Management', 'Financial Reporting', 'Python', 'Data Processing']
 created: 2024-11-18
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-18 — Session: Financial Management and Reporting Enhancements

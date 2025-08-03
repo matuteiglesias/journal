@@ -14,17 +14,17 @@ publish: true
 
 
 ### Session Goal
-The objective of this session was to deploy a [[Docusaurus]]-based site to GitHub Pages, ensuring a smooth setup and deployment process.
+The objective of this session was to deploy a Docusaurus-based site to GitHub Pages, ensuring a smooth setup and deployment process.
 
 ### Key Activities
-- Followed a comprehensive guide for hosting a [[Docusaurus]] site on GitHub Pages.
+- Followed a comprehensive guide for hosting a Docusaurus site on GitHub Pages.
 - Utilized a deployment checklist to ensure all necessary steps were completed.
-- Configured and deployed the [[Docusaurus]] site using `npm run deploy`.
+- Configured and deployed the Docusaurus site using `npm run deploy`.
 - Set up a dual-branch deployment strategy for better version control.
 - Created and pushed the local repository to a remote GitHub repository.
 
 ### Achievements
-- Successfully deployed the [[Docusaurus]] site to GitHub Pages under the Terra Foundation organization.
+- Successfully deployed the Docusaurus site to GitHub Pages under the Terra Foundation organization.
 - Established a live documentation site to enhance project communication and scalability.
 
 ### Pending Tasks

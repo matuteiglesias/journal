@@ -2,7 +2,7 @@
 title: "Agile Project Management and Planning Techniques"
 tags: ['Agile', 'Project Management', 'Iteration Planning', 'Stakeholder Communication', 'User Stories']
 created: 2024-02-15
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-15 — Session: Agile Project Management and Planning Techniques

@@ -2,7 +2,7 @@
 title: "Document Management and Project Planning in IT"
 tags: ['Document Management', 'Project Planning', 'GEDO', 'GDEBA', 'Ministry Of Security']
 created: 2024-02-15
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-15 — Session: Document Management and Project Planning in IT

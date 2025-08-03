@@ -17,7 +17,7 @@ publish: true
 The session aimed to develop educational resources for teaching linear algebra, focusing on norms in vector spaces, condition number sensitivity, and Singular Value Decomposition (SVD).
 
 ### Key Activities
-- Created a detailed guide for structuring a repository of Jupyter notebooks to support linear algebra teaching.
+- Created a detailed guide for structuring a repository of [[Jupyter]] notebooks to support linear algebra teaching.
 - Developed a notebook plan covering norms in vector spaces, including definitions, properties, and exercises.
 - Conducted a pedagogical analysis of linear algebra teaching strategies, identifying areas for improvement and making recommendations.
 - Outlined learning objectives and curriculum for norms in vector spaces.

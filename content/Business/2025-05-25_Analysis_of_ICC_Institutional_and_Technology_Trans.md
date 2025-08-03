@@ -2,7 +2,7 @@
 title: "Analysis of ICC Institutional and Technology Transfer Pages"
 tags: ['ICC', 'Institutional', 'Technology Transfer', 'Research', 'Collaboration']
 created: 2025-05-25
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-25 — Session: Analysis of ICC Institutional and Technology Transfer Pages

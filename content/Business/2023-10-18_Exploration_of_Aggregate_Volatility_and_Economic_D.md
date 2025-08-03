@@ -2,7 +2,7 @@
 title: "Exploration of Aggregate Volatility and Economic Dynamics"
 tags: ['Aggregate Volatility', 'Economic Dynamics', 'Research Papers', 'Latex', 'Market Dynamics']
 created: 2023-10-18
-publish: false
+publish: true
 ---
 
 ## 📅 2023-10-18 — Session: Exploration of Aggregate Volatility and Economic Dynamics

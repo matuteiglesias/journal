@@ -2,7 +2,7 @@
 title: "Evaluated and Refined Trading Strategies"
 tags: ['Trading', 'Risk Management', 'Strategy', 'Evaluation']
 created: 2024-11-17
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-17 — Session: Evaluated and Refined Trading Strategies

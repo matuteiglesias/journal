@@ -2,7 +2,7 @@
 title: "Strategic and Operational Planning Session"
 tags: ['Strategic Planning', 'Project Management', 'Knowledge Management', 'Automation', 'Workflow Optimization']
 created: 2024-12-16
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-16 — Session: Strategic and Operational Planning Session

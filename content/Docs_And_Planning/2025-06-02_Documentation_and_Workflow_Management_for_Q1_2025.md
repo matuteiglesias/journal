@@ -2,7 +2,7 @@
 title: "Documentation and Workflow Management for Q1 2025"
 tags: ['Documentation', 'Workflow', 'Data Management', 'AI', 'Content Generation']
 created: 2025-06-02
-publish: true
+publish: false
 ---
 
 ## 📅 2025-06-02 — Session: Documentation and Workflow Management for Q1 2025

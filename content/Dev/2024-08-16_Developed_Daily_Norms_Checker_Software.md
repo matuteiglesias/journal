@@ -18,11 +18,11 @@ The primary goal of this session was to develop software to automatically check 
 
 ### Key Activities
 - **[[Python]] Script for URL [[Data Extraction]]:** Utilized Requests, BeautifulSoup, and [[Pandas]] to parse URLs and extract relevant data.
-- **HTML Structure Analysis:** Analyzed HTML structure to guide software architecture for data extraction.
+- **[[HTML]] Structure Analysis:** Analyzed [[HTML]] structure to guide software architecture for data extraction.
 - **Software Architecture Design:** Developed a framework for web scraping, including pagination handling and data storage.
 - **[[Web Scraping]] Implementation:** Created a [[Python]] script to scrape resolution data, handle pagination, and store data in a [[Pandas]] DataFrame.
 - **[[Error Handling]] in [[Python]]:** Modified scripts to handle missing elements safely.
-- **URL Function [[Development]]:** Designed a function to generate search URLs for Buenos Aires norms with specific parameters.
+- **URL Function Development:** Designed a function to generate search URLs for Buenos Aires norms with specific parameters.
 - **Daily Data Scraping Script:** Implemented a [[Python]] script for daily data scraping and [[CSV]] logging.
 
 ### Achievements

@@ -18,8 +18,8 @@ The goal of this session was to improve the efficiency and accuracy of scraping 
 
 ### Key Activities
 - Developed an improved [[Python]] script for scraping job postings from LinkedIn, focusing on precise CSS selectors and pagination handling.
-- Conducted HTML structure inspection to adjust CSS selectors for more accurate data extraction.
-- Implemented a refined [[Python]] script utilizing BeautifulSoup for scraping job postings, ensuring correct handling of HTML structure and pagination.
+- Conducted [[HTML]] structure inspection to adjust CSS selectors for more accurate data extraction.
+- Implemented a refined [[Python]] script utilizing BeautifulSoup for scraping job postings, ensuring correct handling of [[HTML]] structure and pagination.
 - Fixed issues related to `pubDate` in the job scraping script, ensuring timezone information is correctly parsed and errors during conversion are handled.
 - Explored strategies to avoid 403 Forbidden errors by understanding LinkedIn's anti-scraping policies and implementing code examples.
 
@@ -30,4 +30,4 @@ The goal of this session was to improve the efficiency and accuracy of scraping 
 
 ### Pending Tasks
 - Further testing and validation of the enhanced scraping script to ensure robustness against LinkedIn's anti-scraping measures.
-- Continuous monitoring of LinkedIn's HTML structure for any changes that may affect scraping.
+- Continuous monitoring of LinkedIn's [[HTML]] structure for any changes that may affect scraping.

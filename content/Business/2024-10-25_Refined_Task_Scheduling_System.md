@@ -2,7 +2,7 @@
 title: "Refined Task Scheduling System"
 tags: ['Task Management', 'Scheduling', 'Automation', 'Productivity']
 created: 2024-10-25
-publish: false
+publish: true
 ---
 
 ## 📅 2024-10-25 — Session: Refined Task Scheduling System

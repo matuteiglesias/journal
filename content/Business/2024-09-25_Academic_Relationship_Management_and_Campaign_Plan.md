@@ -2,7 +2,7 @@
 title: "Academic Relationship Management and Campaign Planning"
 tags: ['Academic Relationships', 'Campaign Planning', 'Latex', 'Contact Management', 'Elections']
 created: 2024-09-25
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-25 — Session: Academic Relationship Management and Campaign Planning

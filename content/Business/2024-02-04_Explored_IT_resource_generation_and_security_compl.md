@@ -2,7 +2,7 @@
 title: "Explored IT resource generation and security compliance"
 tags: ['It Resources', 'Public Sector', 'ISO/IEC 27001', 'Law Enforcement', 'LMS']
 created: 2024-02-04
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-04 — Session: Explored IT resource generation and security compliance

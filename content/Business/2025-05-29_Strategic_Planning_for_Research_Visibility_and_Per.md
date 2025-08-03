@@ -2,7 +2,7 @@
 title: "Strategic Planning for Research Visibility and Personal Branding"
 tags: ['Research Visibility', 'Github Optimization', 'Landing Page', 'SEO', 'Twitter Strategy']
 created: 2025-05-29
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-29 — Session: Strategic Planning for Research Visibility and Personal Branding
@@ -28,7 +28,7 @@ The session aimed to strategize and execute plans to enhance research visibility
 
 ### Pending Tasks
 - Implementation of the outlined strategies and plans for GitHub and Twitter.
-- [[Development]] of the proposed landing page.
+- Development of the proposed landing page.
 
 ### Notes
 The session included listing modified files, which did not yield additional information.

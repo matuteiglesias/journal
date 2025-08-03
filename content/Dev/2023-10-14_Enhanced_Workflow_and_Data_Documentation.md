@@ -20,7 +20,7 @@ The session aimed to update and enhance the data workflow, improve visualization
 - Divided the workflow into two separate notebooks: 'Cálculo de Pobreza' and 'Estadísticas Descriptivas'. Updated the Graphviz diagram to reflect these changes.
 - Enhanced the workflow diagram for dataset processing, including nodes for datasets and links between processes.
 - Updated graph visualization to represent initial datasets as individual gray nodes for improved clarity.
-- Reflected on dataset relationships in Jupyter notebooks, detailing input and output datasets for various processes.
+- Reflected on dataset relationships in [[Jupyter]] notebooks, detailing input and output datasets for various processes.
 - Reviewed geospatial data management and Mapbox integration notebooks, summarizing dataset relationships and outputs.
 - Specified datasets for a workflow in a directed graph format, outlining relationships between data sources and notebooks.
 - Outlined guidelines for minimal data documentation, emphasizing clarity, reproducibility, and maintainability.

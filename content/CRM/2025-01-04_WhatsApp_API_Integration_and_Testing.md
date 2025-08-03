@@ -34,4 +34,4 @@ The session aimed to integrate and test the WhatsApp [[API]] for enhanced messag
 
 ### Pending Tasks
 - Further testing of webhook fields and integration scenarios.
-- Review and transition from [[Development]] to Live mode in Meta Developer Dashboard.
+- Review and transition from Development to Live mode in Meta Developer Dashboard.

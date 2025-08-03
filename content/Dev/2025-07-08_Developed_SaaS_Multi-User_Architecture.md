@@ -20,8 +20,8 @@ The session aimed to explore and develop a multi-user architecture for a SaaS ap
 - **Analyzed Streamlit limitations**: Explored solutions for multi-user capabilities, focusing on authentication and data isolation.
 - **Transitioned CLI Tools**: Planned the transformation of a CLI toolkit into a multi-user SaaS product, detailing architecture options and implementation steps.
 - **Compared [[Deployment]] Strategies**: Evaluated Hugging Face Spaces vs. [[Google Cloud]] Platform for deploying FastAPI applications.
-- **SaaS [[Development]] Sprint Plan**: Outlined a structured sprint plan for developing a scalable SaaS application.
-- **Phase 1 Prototype [[Development]]**: Detailed steps for developing a local FastAPI application with HTMX.
+- **SaaS Development Sprint Plan**: Outlined a structured sprint plan for developing a scalable SaaS application.
+- **Phase 1 Prototype Development**: Detailed steps for developing a local FastAPI application with HTMX.
 - **Roadmap for Phase 2 [[Deployment]]**: Prepared a roadmap for deploying to Hugging Face Spaces.
 - **Guide for [[Google Cloud]] Run [[Deployment]]**: Provided a step-by-step guide for deploying FastAPI to [[Google Cloud]] Run.
 - **Integrated Firebase Authentication**: Implemented Firebase Authentication in FastAPI.

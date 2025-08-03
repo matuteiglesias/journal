@@ -17,7 +17,7 @@ publish: true
 The session aimed to develop and refine [[Python]] algorithms for extracting and processing legal articles from text documents.
 
 ### Key Activities
-- **Algorithm [[Development]]**: Created and enhanced [[Python]] algorithms to parse and extract legal articles, focusing on handling context variations and numerical sequencing using regular expressions.
+- **Algorithm Development**: Created and enhanced [[Python]] algorithms to parse and extract legal articles, focusing on handling context variations and numerical sequencing using regular expressions.
 - **Word Count Implementation**: Developed a function to count words in legal articles, ensuring the text is fully accessible.
 - **Article Grouping**: Implemented an algorithm to group articles into sections of up to 2500 words, modifying extraction and word count functions accordingly.
 - **Distinguishing Articles from Citations**: Developed strategies to differentiate between articles and citations in legal documents using sequence analysis and context evaluation.

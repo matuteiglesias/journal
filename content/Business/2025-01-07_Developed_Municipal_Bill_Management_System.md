@@ -2,7 +2,7 @@
 title: "Developed Municipal Bill Management System"
 tags: ['Bills', 'Automation', 'Financial Management', 'Backend', 'Python']
 created: 2025-01-07
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-07 — Session: Developed Municipal Bill Management System

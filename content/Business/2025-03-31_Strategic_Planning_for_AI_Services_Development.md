@@ -2,7 +2,7 @@
 title: "Strategic Planning for AI Services Development"
 tags: ['Ai Services', 'Strategic Planning', 'Automation', 'Consulting', 'Data Science']
 created: 2025-03-31
-publish: false
+publish: true
 ---
 
 ## 📅 2025-03-31 — Session: Strategic Planning for AI Services Development

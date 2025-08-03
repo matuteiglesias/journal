@@ -17,7 +17,7 @@ publish: true
 The session aimed to enhance a web-based application for predicting diamond prices using machine learning, focusing on improving model retraining, visualization, and [[API]] integration.
 
 **Key Activities:**
-- Organized Git commits to ensure clarity and maintainability, emphasizing best practices in version control.
+- Organized [[Git]] commits to ensure clarity and maintainability, emphasizing best practices in version control.
 - Provided a technical overview of the diamond price prediction application, detailing its architecture and technologies such as [[Flask]], [[Pandas]], and Scikit-Learn.
 - Prepared for development by reviewing current implementations and enhancing UI features, testing, and documentation.
 - Implemented strategies for optimizing dynamic model retraining and visualization, focusing on data management and real-time updates.

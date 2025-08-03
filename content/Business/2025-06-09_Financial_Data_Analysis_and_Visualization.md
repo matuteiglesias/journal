@@ -2,7 +2,7 @@
 title: "Financial Data Analysis and Visualization"
 tags: ['Python', 'Pandas', 'Data Visualization', 'Financial Analysis', 'Error Handling']
 created: 2025-06-09
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-09 — Session: Financial Data Analysis and Visualization
@@ -21,7 +21,7 @@ The goal of this session was to enhance the analysis and visualization of financ
 - Improved error handling for missing [[CSV]] files and optimized data visualization scripts for clarity and aesthetics.
 - Created visualizations using subplots and stacked bar charts to represent financial data effectively.
 - Addressed file path errors and provided solutions for missing data files.
-- Enhanced Jupyter Notebooks with narrative points for better educational commentary.
+- Enhanced [[Jupyter]] Notebooks with narrative points for better educational commentary.
 
 ### Achievements
 - Successfully generated detailed financial tables and visualizations.

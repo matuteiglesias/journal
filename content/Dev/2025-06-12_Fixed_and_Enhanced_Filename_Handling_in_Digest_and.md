@@ -22,7 +22,7 @@ The main objective was to fix and enhance the filename handling in both digest g
 - **Updated [[CSV]] Filename Logic:** Revised the `__main__` block in [[Python]] to ensure each output [[CSV]] file includes the window label in its filename for consistent downstream processing.
 - **Corrected Filename Handling in RSS [[Data Processing]]:** Made critical corrections to preserve window labels in filenames within the RSS data processing script.
 - **Fixed RSS Feed Processing Logic:** Restored the filename return from the `fetch_and_save_news` function to maintain compatibility with downstream operations.
-- **Tested RSS [[Pipeline]]:** Conducted testing of the RSS pipeline using [[Python]] commands, detailing expected output files and processes.
+- **Tested RSS Pipeline:** Conducted testing of the RSS pipeline using [[Python]] commands, detailing expected output files and processes.
 - **Enhanced [[Python]] Script with Argument Parsing:** Implemented command-line argument parsing using the argparse library for generating markdown and JSONL digests based on a given hour.
 
 ### Achievements

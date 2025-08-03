@@ -2,7 +2,7 @@
 title: "Comprehensive Analysis of Argentine Legislation"
 tags: ['Argentine Legislation', 'Pdf Processing', 'Legal Analysis', 'Legislative Impact']
 created: 2023-12-22
-publish: false
+publish: true
 ---
 
 ## 📅 2023-12-22 — Session: Comprehensive Analysis of Argentine Legislation

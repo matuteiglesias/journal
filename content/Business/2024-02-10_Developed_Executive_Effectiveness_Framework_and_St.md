@@ -2,7 +2,7 @@
 title: "Developed Executive Effectiveness Framework and Strategies"
 tags: ['Executive Effectiveness', 'Time Management', 'Leadership', 'Productivity', 'Strategic Focus']
 created: 2024-02-10
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-10 — Session: Developed Executive Effectiveness Framework and Strategies

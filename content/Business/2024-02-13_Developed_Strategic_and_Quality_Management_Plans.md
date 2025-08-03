@@ -2,7 +2,7 @@
 title: "Developed Strategic and Quality Management Plans"
 tags: ['Strategic Planning', 'Quality Management', 'Iso Standards', 'Public Security', 'Project Management']
 created: 2024-02-13
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-13 — Session: Developed Strategic and Quality Management Plans

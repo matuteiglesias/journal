@@ -2,7 +2,7 @@
 title: "Developed Strategic Business and Automation Plans"
 tags: ['Strategy', 'Automation', 'Lead Generation', 'Business', 'Marketing']
 created: 2025-04-25
-publish: false
+publish: true
 ---
 
 ## 📅 2025-04-25 — Session: Developed Strategic Business and Automation Plans

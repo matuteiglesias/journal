@@ -2,7 +2,7 @@
 title: "Completed Economic Networks Course and Publishing Strategy Planning"
 tags: ['Economic Networks', 'Leontief Model', 'Publishing', 'Arxiv', 'Course Notes']
 created: 2024-08-26
-publish: false
+publish: true
 ---
 
 ## 📅 2024-08-26 — Session: Completed Economic Networks Course and Publishing Strategy Planning

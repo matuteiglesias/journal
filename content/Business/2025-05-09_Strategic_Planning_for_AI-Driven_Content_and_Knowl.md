@@ -2,7 +2,7 @@
 title: "Strategic Planning for AI-Driven Content and Knowledge Management"
 tags: ['AI', 'Content Creation', 'Knowledge Management', 'SEO', 'Automation']
 created: 2025-05-09
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-09 — Session: Strategic Planning for AI-Driven Content and Knowledge Management

@@ -2,7 +2,7 @@
 title: "Managing Ownership and Negotiation Strategies"
 tags: ['Ownership', 'Negotiation', 'Business', 'Legal', 'Diplomacy']
 created: 2024-09-28
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-28 — Session: Managing Ownership and Negotiation Strategies

@@ -19,7 +19,7 @@ The session aimed to analyze and develop strategies for front-end design, portfo
 ### Key Activities
 - Analyzed front-end components for visual design, focusing on navigation, layout, and modularization.
 - Reviewed Alejandro Gómez's portfolio to understand technology stack and structure.
-- Created a setup and deployment guide for portfolio projects using Git, npm, and Vercel.
+- Created a setup and deployment guide for portfolio projects using [[Git]], npm, and Vercel.
 - Discussed strategies to manage `node_modules` size in JavaScript projects.
 - Explained the difference between development and deployment sizes in web projects.
 - Provided an overview of the `src` directory structure in Next.js 13.

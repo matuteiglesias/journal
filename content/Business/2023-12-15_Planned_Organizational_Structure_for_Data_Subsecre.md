@@ -2,7 +2,7 @@
 title: "Planned Organizational Structure for Data Subsecretariat"
 tags: ['Data Subsecretariat', 'Organizational Structure', 'CTO', 'CDO', 'Ministry Of Security']
 created: 2023-12-15
-publish: false
+publish: true
 ---
 
 ## 📅 2023-12-15 — Session: Planned Organizational Structure for Data Subsecretariat

@@ -20,7 +20,7 @@ The session aimed to critically evaluate student responses on graph cycles, prep
 1. **Student Evaluation**: Conducted a critical analysis of student responses on detecting cycles in directed graphs, focusing on clarity and precision.
 2. **Meeting Preparation**: Drafted a memo for an upcoming Algorithms 3 meeting, outlining agenda, action items, and objectives for teaching assistants.
 3. **Exam Preparation**: Prepared for an exam on data processing systems and machine learning solutions, covering design, ingestion, storage, analysis, and automation.
-4. **Textbook [[Development]]**: Initiated the design of a comprehensive textbook for data and machine learning engineering, including an overview of 'Mastering Data Engineering and [[Machine Learning]] on [[Google Cloud]] Platform'.
+4. **Textbook Development**: Initiated the design of a comprehensive textbook for data and machine learning engineering, including an overview of 'Mastering Data Engineering and [[Machine Learning]] on [[Google Cloud]] Platform'.
 5. **Course Outline**: Developed a course outline for a graduate-level course on data engineering and machine learning, detailing objectives and syllabus.
 6. **[[Data Management]] Planning**: Outlined strategies for data ingestion, processing, storage, and management on [[Google Cloud]] Platform, including data pipelines, storage solutions, and visualization techniques.
 7. **ML Solutions Architecture**: Planned the architecture of ML solutions, focusing on model training, scaling, and monitoring on [[Google Cloud]] Platform.

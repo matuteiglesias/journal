@@ -2,7 +2,7 @@
 title: "Developed Implementation Plan for 'Índice de Pobreza UBA'"
 tags: ['Project Planning', 'Data Analysis', 'Social Impact', 'Documentation', 'Twitter']
 created: 2024-06-05
-publish: false
+publish: true
 ---
 
 ## 📅 2024-06-05 — Session: Developed Implementation Plan for 'Índice de Pobreza UBA'

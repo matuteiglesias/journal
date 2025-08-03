@@ -24,8 +24,8 @@ The session aimed to integrate [[AI]] agents into Hugging Face Spaces and plan f
 - Building a modular content and onboarding ecosystem to fill existing gaps.
 - Designing a multi-persona table for tailored onboarding strategies.
 - Transitioning towards infrastructure-aware design to improve user experience.
-- Enhancing UX orchestration for [[AI]] flows using FastAPI and [[Docusaurus]].
-- Embedding a chat interface in [[Docusaurus]] for improved document interaction.
+- Enhancing UX orchestration for [[AI]] flows using FastAPI and Docusaurus.
+- Embedding a chat interface in Docusaurus for improved document interaction.
 - Leveraging Hugging Face Spaces for [[AI]] agent demos and visibility.
 - Packaging PromptFlow agents into distributable apps using Streamlit.
 - Outlining the engineering direction for AIOS team focusing on demos and monetization.

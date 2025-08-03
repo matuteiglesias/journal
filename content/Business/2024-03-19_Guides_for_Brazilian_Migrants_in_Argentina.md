@@ -2,7 +2,7 @@
 title: "Guides for Brazilian Migrants in Argentina"
 tags: ['CUIL', 'MERCOSUR', 'Migration', 'Banking', 'Legal']
 created: 2024-03-19
-publish: false
+publish: true
 ---
 
 ## 📅 2024-03-19 — Session: Guides for Brazilian Migrants in Argentina

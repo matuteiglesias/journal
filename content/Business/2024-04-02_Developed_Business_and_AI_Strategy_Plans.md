@@ -2,7 +2,7 @@
 title: "Developed Business and AI Strategy Plans"
 tags: ['Business Strategy', 'Ai Solutions', 'Consulting', 'Social Media Marketing', 'Career Development']
 created: 2024-04-02
-publish: false
+publish: true
 ---
 
 ## 📅 2024-04-02 — Session: Developed Business and AI Strategy Plans

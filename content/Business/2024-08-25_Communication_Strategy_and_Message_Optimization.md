@@ -2,7 +2,7 @@
 title: "Communication Strategy and Message Optimization"
 tags: ['Communication', 'Strategy', 'Optimization', 'Organizational Culture', 'Community']
 created: 2024-08-25
-publish: false
+publish: true
 ---
 
 ## 📅 2024-08-25 — Session: Communication Strategy and Message Optimization

@@ -2,7 +2,7 @@
 title: "Financial and Debt Model Refinement"
 tags: ['Financial Modeling', 'Debt Management', 'Data Analysis', 'Visualization', 'Automation']
 created: 2024-12-31
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-31 — Session: Financial and Debt Model Refinement

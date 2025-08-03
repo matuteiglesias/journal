@@ -21,13 +21,13 @@ The session aimed to enhance the [[AI]]-EduPlatform software by integrating it w
 - **[[AI]]-EduPlatform Analysis**: Conducted a comprehensive analysis of the [[AI]]-EduPlatform's technology stack, database management, [[AI]] integration, and front-end development to identify strengths and areas for enhancement.
 - **GCP [[Integration]] Planning**: Developed strategies for integrating the software with GCP, focusing on scalable hosting, [[AI]] integration, cloud storage, monitoring, and security.
 - **GCP [[Integration]] Execution**: Followed a detailed checklist to integrate GCP services, including database transition, deployment, and monitoring.
-- **Git Repository Management**: Executed steps to initialize and push a Git repository to GitHub, and troubleshoot common Git issues.
+- **[[Git]] Repository Management**: Executed steps to initialize and push a [[Git]] repository to GitHub, and troubleshoot common [[Git]] issues.
 - **Database Transition**: Transitioned the `Database` class from SQLite to [[Google Cloud]] SQL, choosing appropriate database engines and adjusting connection details.
 - **Cloud Resource Management**: Managed [[Google Cloud]] resources using the gcloud command-line tool, including project setup and Cloud SQL instance creation.
 
 ### Achievements
 - Successfully integrated various [[Google Cloud]] Platform services into the [[AI]]-EduPlatform, enhancing its scalability and database management.
-- Resolved Git repository issues and ensured smooth version control processes.
+- Resolved [[Git]] repository issues and ensured smooth version control processes.
 - Completed the transition from SQLite to [[Google Cloud]] SQL, improving database performance and integration.
 
 ### Pending Tasks

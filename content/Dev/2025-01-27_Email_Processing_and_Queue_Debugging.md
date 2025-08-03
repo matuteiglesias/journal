@@ -20,7 +20,7 @@ The primary goal of this session was to enhance the email processing workflow an
 - **Email Processing Flow Structure**: Refined the workflow for processing emails from ingestion to final integration.
 - **[[Debugging]] [[JSON]] Parsing**: Enhanced the function for debugging [[JSON]] parsing in RabbitMQ queues with additional logging.
 - **Fixing [[JSON]] Parsing Issues**: Implemented a solution for improperly formatted [[JSON]] messages from RabbitMQ, including preprocessing and normalization into a DataFrame.
-- **[[Debugging]] HTML Issues**: Addressed missing queue buttons in HTML with frontend and backend updates.
+- **[[Debugging]] [[HTML]] Issues**: Addressed missing queue buttons in [[HTML]] with frontend and backend updates.
 - **Queue Data Structures [[Debugging]]**: Developed a systematic approach for debugging queue data structures.
 - **Log Analysis**: Analyzed logs for task, knowledge, and job posting queues, identifying causes of parsing failures.
 - **Enqueue Message Function Improvements**: Enhanced the RabbitMQ message queuing function with better serialization and error handling.

@@ -2,7 +2,7 @@
 title: "Explored Logarithmic and Proportional Transformations"
 tags: ['Logarithmic Transformations', 'Proportional Effect', 'Economic Systems', 'Data Analysis', 'Convolution']
 created: 2023-10-19
-publish: false
+publish: true
 ---
 
 ## 📅 2023-10-19 — Session: Explored Logarithmic and Proportional Transformations

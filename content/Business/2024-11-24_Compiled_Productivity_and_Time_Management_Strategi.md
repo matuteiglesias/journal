@@ -2,7 +2,7 @@
 title: "Compiled Productivity and Time Management Strategies"
 tags: ['Productivity', 'Time Management', 'Task Management', 'Pomodoro', 'Personal Development']
 created: 2024-11-24
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-24 — Session: Compiled Productivity and Time Management Strategies

@@ -2,7 +2,7 @@
 title: "Developed Strategic Roadmap for Social Media"
 tags: ['Social Media', 'Strategy', 'Automation', 'Content', 'Roadmap']
 created: 2025-05-26
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-26 — Session: Developed Strategic Roadmap for Social Media

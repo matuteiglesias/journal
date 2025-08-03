@@ -19,10 +19,10 @@ The session aimed to explore the legal and strategic framework for reusing MIT-l
 ### Key Activities
 - **Legal [[Strategy]] Framework**: Discussed compliance with MIT licensing requirements and strategies for integrating core functionalities into proprietary software.
 - **License Implications**: Clarified that using MIT-licensed code does not necessitate open-sourcing the entire proprietary codebase and provided a structured approach for code organization.
-- **SDK [[Development]] [[Strategy]]**: Proposed building a wrapper SDK around Microsoft PromptFlow, focusing on execution and semantic interface differentiation.
+- **SDK Development [[Strategy]]**: Proposed building a wrapper SDK around Microsoft PromptFlow, focusing on execution and semantic interface differentiation.
 - **[[AI]] Function Registry**: Planned the creation of a dynamic [[AI]] function registry in [[Python]], leveraging prompt specifications for seamless integration.
 - **[[AI]] Blocks as [[Python]] Functions**: Outlined a guide for creating reusable [[AI]] functionalities in [[Python]], detailing necessary components and architecture.
-- **[[AI]] [[Development]] Architecture**: Defined a strategic plan for a lightweight development layer on PromptFlow, including components and implementation roadmap.
+- **[[AI]] Development Architecture**: Defined a strategic plan for a lightweight development layer on PromptFlow, including components and implementation roadmap.
 - **Callable Prompt Blocks Analysis**: Reflected on the design and performance tradeoffs of implementing callable prompt blocks as [[Python]] functions.
 
 ### Achievements

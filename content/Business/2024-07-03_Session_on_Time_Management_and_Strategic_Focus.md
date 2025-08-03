@@ -2,7 +2,7 @@
 title: "Session on Time Management and Strategic Focus"
 tags: ['Time Management', 'Strategic Planning', 'Productivity', 'Decision Fatigue']
 created: 2024-07-03
-publish: false
+publish: true
 ---
 
 ## 📅 2024-07-03 — Session: Session on Time Management and Strategic Focus

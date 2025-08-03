@@ -2,7 +2,7 @@
 title: "Exploration of AI Agents in Business and Personal Management"
 tags: ['Ai Agents', 'Business Efficiency', 'Task Management', 'Virtual Reality', 'Automation']
 created: 2024-11-30
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-30 — Session: Exploration of AI Agents in Business and Personal Management

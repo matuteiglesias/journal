@@ -23,7 +23,7 @@ The primary goal of this session was to develop and test functionalities for the
 - Fixed argument errors in the `fetch_emails()` method of the EmailBot class.
 - Updated the EmailBot class to improve email fetching logic and database integration.
 - Implemented a Telegram data ingestor bot using the Telethon library, with functionality for connecting to Telegram, fetching messages, and storing them in a SQLite database.
-- Addressed issues with testing asynchronous code in Jupyter notebooks and resolved ArgumentError in unittest.
+- Addressed issues with testing asynchronous code in [[Jupyter]] notebooks and resolved ArgumentError in unittest.
 - Developed a framework for RSS bot creation and successfully parsed RSS feeds for job postings.
 - Planned data storage solutions using MongoDB and Redis for efficient data retrieval.
 

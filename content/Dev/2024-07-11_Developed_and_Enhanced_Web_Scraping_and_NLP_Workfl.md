@@ -20,7 +20,7 @@ The primary goal of this session was to develop and enhance workflows for web sc
 - **[[Web Scraping]] [[Workflow]]**: Designed comprehensive workflows for scraping webpages, extracting key information, and recognizing entities using tools like BeautifulSoup, Scrapy, spaCy, and [[Pandas]].
 - **[[Data Processing]]**: Implemented structured workflows for processing URLs, extracting data, and storing it in structured formats using SQLite and [[Pandas]].
 - **[[Error Handling]]**: Enhanced the `scrape_page` function to handle SSL errors and other request exceptions, improving the robustness of the scraping process.
-- **HTML Cleaning**: Updated the `clean_html` function to remove multiple spaces, tabs, and newlines, ensuring clean text output.
+- **[[HTML]] Cleaning**: Updated the `clean_html` function to remove multiple spaces, tabs, and newlines, ensuring clean text output.
 - **Entity Recognition**: Improved entity recognition accuracy through preprocessing, custom model training, and post-processing techniques.
 - **Spanish [[NLP]]**: Utilized spaCy with pre-trained Spanish models for entity extraction tasks.
 

@@ -2,7 +2,7 @@
 title: "Developed Strategies for Data Science Graduate Meetings"
 tags: ['Data Science', 'Meetings', 'Professional Development', 'Community Engagement', 'Graduate Support']
 created: 2024-06-13
-publish: false
+publish: true
 ---
 
 ## 📅 2024-06-13 — Session: Developed Strategies for Data Science Graduate Meetings

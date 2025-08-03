@@ -2,7 +2,7 @@
 title: "Developed Political Communication Strategy"
 tags: ['Political Communication', 'Community Engagement', 'Leadership', 'Trust-Building', 'Strategic Framing']
 created: 2024-08-25
-publish: false
+publish: true
 ---
 
 ## 📅 2024-08-25 — Session: Developed Political Communication Strategy

@@ -22,7 +22,7 @@ The session aimed to troubleshoot and enhance various processes related to Promp
 - **Job Funnel Run Summary and Proposal Evaluation**: Evaluated a job funnel run, including a successful status and recommendations for job proposal submission.
 - **Generating Informative Post-Run Artifacts**: Planned the creation of post-run artifacts for observability and tracking, detailing inputs and outputs for reports.
 - **Structured Analysis of Job Funnel Input**: Analyzed job funnel input instances, outlining structural components and intelligence derived from each stage.
-- **Job Enrichment [[Pipeline]] and Markdown Generation**: Developed a pipeline for enriching job entries and generating Markdown reports using Jinja2 templates.
+- **Job Enrichment Pipeline and Markdown Generation**: Developed a pipeline for enriching job entries and generating Markdown reports using Jinja2 templates.
 - **Transforming [[JSON]] Array to JSONL Format**: Provided a [[Python]] script to convert [[JSON]] arrays to JSONL format for use in LLM pipelines.
 - **Demand Analysis for [[Automation]] and [[AI]] Roles**: Reflected on demand patterns in automation engineering and [[AI]] operations, providing strategic insights.
 

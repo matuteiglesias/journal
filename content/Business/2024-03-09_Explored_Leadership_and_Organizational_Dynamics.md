@@ -2,7 +2,7 @@
 title: "Explored Leadership and Organizational Dynamics"
 tags: ['Leadership', 'Organizational Behavior', 'Data Science', 'Academic Governance', 'Community Engagement']
 created: 2024-03-09
-publish: false
+publish: true
 ---
 
 ## 📅 2024-03-09 — Session: Explored Leadership and Organizational Dynamics
@@ -35,4 +35,4 @@ The session aimed to explore leadership challenges and organizational dynamics, 
 
 ### Pending Tasks
 - Further exploration of leadership strategies and their implementation in organizational contexts.
-- [[Development]] of detailed plans for the proposed strategic approaches in academic settings.
+- Development of detailed plans for the proposed strategic approaches in academic settings.

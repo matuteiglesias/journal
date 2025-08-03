@@ -2,7 +2,7 @@
 title: "Operational Strategies and AI Agent Development"
 tags: ['Ai Agents', 'Automation', 'Operational Efficiency', 'Sales Productivity', 'Event Bus']
 created: 2025-04-26
-publish: false
+publish: true
 ---
 
 ## 📅 2025-04-26 — Session: Operational Strategies and AI Agent Development

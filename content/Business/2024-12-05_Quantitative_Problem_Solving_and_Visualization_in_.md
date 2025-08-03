@@ -2,7 +2,7 @@
 title: "Quantitative Problem Solving and Visualization in Finance"
 tags: ['Capital_Management', 'Data_Visualization', 'Bayesian_Inference', 'Financial_Analysis', 'Python', 'Candlestick_Charts']
 created: 2024-12-05
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-05 — Session: Quantitative Problem Solving and Visualization in Finance

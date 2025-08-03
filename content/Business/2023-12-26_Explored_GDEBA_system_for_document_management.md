@@ -2,7 +2,7 @@
 title: "Explored GDEBA system for document management"
 tags: ['GDEBA', 'Document Management', 'Resolutions', 'Government', 'Guide']
 created: 2023-12-26
-publish: false
+publish: true
 ---
 
 ## 📅 2023-12-26 — Session: Explored GDEBA system for document management

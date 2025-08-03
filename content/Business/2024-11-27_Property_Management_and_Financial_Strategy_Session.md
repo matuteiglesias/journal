@@ -2,7 +2,7 @@
 title: "Property Management and Financial Strategy Session"
 tags: ['Property Management', 'Financial Strategy', 'Inheritance', 'Family Meeting', 'Savings']
 created: 2024-11-27
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-27 — Session: Property Management and Financial Strategy Session

@@ -19,8 +19,8 @@ The session aimed to enhance interactive graph visualizations using D3.js, focus
 ### Key Activities
 - Created a network graph visualization to show correlations between subjects using `networkx`.
 - Improved the graph layout with the Kamada-Kawai algorithm for better clarity.
-- Developed an interactive graph visualization using D3.js, including exporting data to [[JSON]] and setting up an HTML file.
-- Enhanced D3.js graphs in VS Code with Live Server and HTML Preview extensions.
+- Developed an interactive graph visualization using D3.js, including exporting data to [[JSON]] and setting up an [[HTML]] file.
+- Enhanced D3.js graphs in VS Code with Live Server and [[HTML]] Preview extensions.
 - Implemented key improvements for interactive graphs, such as responsive containers, zoom control, and CSS styling.
 - Added interactive tooltips to D3.js graphs for displaying full course names on hover and click.
 - Debugged [[JSON]] field issues affecting tooltip visualization and integrated labels in [[JSON]] nodes for improved accessibility.

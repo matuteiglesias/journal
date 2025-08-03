@@ -2,7 +2,7 @@
 title: "Strategic Job Market Analysis and Recommendations"
 tags: ['Job Market', 'Strategy', 'Analysis', 'Scam Detection', 'Email Communication', 'Cybersecurity']
 created: 2025-06-05
-publish: false
+publish: true
 ---
 
 ## 📅 2025-06-05 — Session: Strategic Job Market Analysis and Recommendations

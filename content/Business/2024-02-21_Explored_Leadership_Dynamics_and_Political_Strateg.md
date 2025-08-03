@@ -2,7 +2,7 @@
 title: "Explored Leadership Dynamics and Political Strategies"
 tags: ['Leadership', 'Political Strategy', 'Perón', 'Organizational Reform']
 created: 2024-02-21
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-21 — Session: Explored Leadership Dynamics and Political Strategies
@@ -28,4 +28,4 @@ publish: false
 
 **Pending Tasks:**
 - Further exploration of modern tools for political leadership.
-- [[Development]] of actionable plans for implementing discussed strategies.
+- Development of actionable plans for implementing discussed strategies.

@@ -2,7 +2,7 @@
 title: "Strategic Planning and Product Strategy Execution"
 tags: ['Strategic Planning', 'Product Strategy', 'Open Source', 'Knowledge Systems', 'Networking']
 created: 2025-05-12
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-12 — Session: Strategic Planning and Product Strategy Execution

@@ -19,8 +19,8 @@ The session aimed to develop strategies for enhancing data analysis notebooks an
 ### Key Activities
 - Proposed a structure for a guide on email communication, focusing on the migration to Google Groups, active mailing lists, and creating new lists.
 - Outlined strategies for reorganizing data analysis notebooks, particularly for French exports and imports, using the ChatGPT [[API]] for content audit and visualization.
-- Crafted a structured prompt for the ChatGPT [[API]] to analyze Jupyter notebooks, focusing on detailed summaries and improvement suggestions.
-- Set up the OpenAI [[API]] for Jupyter notebook analysis, including obtaining an [[API]] key and scripting in [[Python]].
+- Crafted a structured prompt for the ChatGPT [[API]] to analyze [[Jupyter]] notebooks, focusing on detailed summaries and improvement suggestions.
+- Set up the OpenAI [[API]] for [[Jupyter]] notebook analysis, including obtaining an [[API]] key and scripting in [[Python]].
 
 ### Achievements
 - Developed a comprehensive plan for email communication within the Department of Computation.

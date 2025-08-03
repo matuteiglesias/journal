@@ -2,7 +2,7 @@
 title: "Developed strategic plans for Buenos Aires public administration"
 tags: ['Public Administration', 'Cybersecurity', 'Information Systems', 'Interoperability', 'SINDMA']
 created: 2024-02-03
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-03 — Session: Developed strategic plans for Buenos Aires public administration

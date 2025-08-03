@@ -2,7 +2,7 @@
 title: "Developed Financial Management Templates"
 tags: ['Financial_Management', 'Rental_Properties', 'Templates', 'Stakeholder_Communication', 'Financial_Report']
 created: 2024-12-13
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-13 — Session: Developed Financial Management Templates

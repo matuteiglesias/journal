@@ -19,9 +19,9 @@ The primary goal of this session was to enhance and stabilize the asynchronous d
 ### Key Activities
 1. **Fixing Async [[AI]] Call for Document Parsing:** Implemented an asynchronous [[AI]] call to extract data from text snippets and save the results to a [[CSV]] file.
 2. **Improved File Parsing in [[Pandas]]:** Addressed issues with whitespace and unexpected characters in file listings using [[Pandas]] and Regex.
-3. **Integrating `get_recent_files()` into the File Processing [[Pipeline]]:** Added a reusable function for file retrieval and parsing into the existing pipeline.
+3. **Integrating `get_recent_files()` into the File Processing Pipeline:** Added a reusable function for file retrieval and parsing into the existing pipeline.
 4. **[[Error Handling]] in Asynchronous [[Data Extraction]]:** Corrected an error related to an undefined variable in a [[Python]] script, ensuring proper execution of asynchronous functions.
-5. **Optimizing Asynchronous [[Data Extraction]] [[Pipeline]]:** Structured and stabilized the data extraction process using OpenAI's [[API]].
+5. **Optimizing Asynchronous [[Data Extraction]] Pipeline:** Structured and stabilized the data extraction process using OpenAI's [[API]].
 
 ### Achievements
 - Successfully integrated asynchronous calls and improved file parsing mechanisms.

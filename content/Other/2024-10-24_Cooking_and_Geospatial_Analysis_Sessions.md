@@ -18,7 +18,7 @@ publish: false
 - To enhance geospatial data visualization skills using [[Python]] libraries.
 
 ### Key Activities:
-- **[[Cooking]]:**
+- **Cooking:**
   - Learned and executed recipes for black bean stew and bondiola stew using a pressure cooker.
   - Prepared different types of bread and vinaigrette, including focaccia with storage tips.
   - Explored seasoning techniques for a creamy lentils dish.

@@ -2,7 +2,7 @@
 title: "Portfolio Structuring and Character Design"
 tags: ['Portfolio', 'Character Design', 'Ui Design', 'Email Setup', 'CSS', 'Github']
 created: 2024-12-29
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-29 — Session: Portfolio Structuring and Character Design

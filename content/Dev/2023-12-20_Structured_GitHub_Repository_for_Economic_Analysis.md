@@ -18,9 +18,9 @@ The primary aim of this session was to organize and structure a GitHub repositor
 
 ### Key Activities
 - Reviewed and summarized the analysis conducted in the 'Count buyer-seller links.ipynb' notebook, focusing on datasets, methods, findings, and recommendations.
-- Developed technical prompts for summarizing Jupyter notebooks, emphasizing computational methods and [[Python]] libraries.
+- Developed technical prompts for summarizing [[Jupyter]] notebooks, emphasizing computational methods and [[Python]] libraries.
 - Created a [[Python]] script for processing notebooks with error handling using the OpenAI [[API]].
-- Designed a structured prompt for categorizing Jupyter notebooks by data pipeline stage and thematic area.
+- Designed a structured prompt for categorizing [[Jupyter]] notebooks by data pipeline stage and thematic area.
 - Proposed a GitHub repository structure, including directories for data preparation, economic network analysis, and trade analysis.
 - Suggested a renaming scheme for notebooks using a bash script.
 - Drafted a comprehensive README.md template for the GitHub repository.

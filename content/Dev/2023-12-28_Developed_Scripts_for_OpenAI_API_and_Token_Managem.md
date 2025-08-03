@@ -14,15 +14,15 @@ publish: true
 
 
 ### Session Goal
-The session aimed to develop and refine scripts for processing data using the OpenAI [[API]], focusing on Jupyter notebooks and legislative texts, while managing token limits effectively.
+The session aimed to develop and refine scripts for processing data using the OpenAI [[API]], focusing on [[Jupyter]] notebooks and legislative texts, while managing token limits effectively.
 
 ### Key Activities
-- **Script [[Development]]**: Created a script for processing Jupyter notebooks with the OpenAI [[API]], addressing notebook selection, prompt generation, [[API]] calls, error handling, and testing.
+- **Script Development**: Created a script for processing [[Jupyter]] notebooks with the OpenAI [[API]], addressing notebook selection, prompt generation, [[API]] calls, error handling, and testing.
 - **Legislative Text Processing**: Developed a [[Python]] script to process legislative texts using the OpenAI [[API]], including dynamic prompt integration for consistent output.
 - **Token Management**: Explored methods for calculating and managing token usage in [[API]] requests, including strategies for handling long text segments and understanding token limits.
 
 ### Achievements
-- Successfully developed scripts for both Jupyter notebook processing and legislative text analysis.
+- Successfully developed scripts for both [[Jupyter]] notebook processing and legislative text analysis.
 - Implemented dynamic prompt integration and error handling in scripts.
 - Gained insights into token calculation and management, ensuring compliance with [[API]] limits.
 

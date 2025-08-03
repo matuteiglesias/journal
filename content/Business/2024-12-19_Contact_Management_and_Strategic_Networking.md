@@ -2,7 +2,7 @@
 title: "Contact Management and Strategic Networking"
 tags: ['Contacts', 'Networking', 'Relationship Management', 'Strategic Planning', 'Data Management']
 created: 2024-12-19
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-19 — Session: Contact Management and Strategic Networking

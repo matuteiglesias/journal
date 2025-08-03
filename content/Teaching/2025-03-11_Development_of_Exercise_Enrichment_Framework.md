@@ -25,7 +25,7 @@ The session aimed to develop a comprehensive framework and processes for enrichi
 - **[[Optimization]] in [[Data Science]]**: Proposed workflows to optimize data science processes, focusing on maximizing insights and reducing redundancies.
 - **Exercise Enrichment Schema**: Created schemas for programming exercises to integrate scientific and pedagogical insights.
 - **Asynchronous Metadata Extraction**: Developed [[Python]] functions for extracting structured metadata using OpenAI's [[API]].
-- **Exercise Dataset Processing [[Pipeline]]**: Outlined a pipeline for [[AI]]-based metadata extraction and dataset enrichment.
+- **Exercise Dataset Processing Pipeline**: Outlined a pipeline for [[AI]]-based metadata extraction and dataset enrichment.
 - **Evaluation of [[AI]] Metadata Extraction**: Assessed [[AI]]'s performance in metadata extraction, identifying strengths and areas for improvement.
 
 ### Achievements

@@ -19,11 +19,11 @@ The session aimed to integrate dynamic LaTeX rendering into a [[Flask]]-based we
 ### Key Activities
 1. **Dynamic Exercise Display**: Implemented a workflow to dynamically display exercises using [[Flask]], incorporating LaTeX rendering with MathJax or KaTeX.
 2. **[[Flask]] Route Adjustments**: Updated links in `index.html` to correctly point to [[Flask]] routes serving exercise content, ensuring proper rendering in `exercise.html`.
-3. **LaTeX [[Integration]]**: Integrated LaTeX-rendered exercises into the platform using MathJax, with necessary HTML and [[Python]] code adjustments.
+3. **LaTeX [[Integration]]**: Integrated LaTeX-rendered exercises into the platform using MathJax, with necessary [[HTML]] and [[Python]] code adjustments.
 4. **Content Handling**: Developed a function to fetch exercise content from text files for MathJax processing.
 5. **[[Troubleshooting]]**: Addressed MathJax errors related to unsupported LaTeX environments by modifying content and extending configurations.
-6. **Rendering Issues**: Resolved LaTeX rendering issues by focusing on unsupported environments and dynamic embedding in HTML templates.
-7. **Inline LaTeX Rendering**: Configured MathJax to render inline LaTeX expressions in HTML, setting up delimiters and preprocessing content.
+6. **Rendering Issues**: Resolved LaTeX rendering issues by focusing on unsupported environments and dynamic embedding in [[HTML]] templates.
+7. **Inline LaTeX Rendering**: Configured MathJax to render inline LaTeX expressions in [[HTML]], setting up delimiters and preprocessing content.
 8. **CDN [[Integration]]**: Integrated MathJax via CDN, configuring options for both MathJax version 2 and 3.
 
 ### Achievements

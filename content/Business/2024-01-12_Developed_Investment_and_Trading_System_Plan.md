@@ -2,7 +2,7 @@
 title: "Developed Investment and Trading System Plan"
 tags: ['Investment', 'Trading', 'Algorithmic Trading', 'Financial Planning', 'Python']
 created: 2024-01-12
-publish: false
+publish: true
 ---
 
 ## 📅 2024-01-12 — Session: Developed Investment and Trading System Plan

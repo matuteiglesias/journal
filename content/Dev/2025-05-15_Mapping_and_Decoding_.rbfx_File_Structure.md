@@ -25,7 +25,7 @@ The primary objective of this session was to map and decode the structure of `.r
 - **Decoding 10-bit Integers:** Outlined the process for decoding 10-bit integers from `.rbfx` files, with steps for extraction and optional [[CSV]] saving.
 - **Categorical Variable Analysis:** Analyzed histograms of decoded values, interpreting them as categorical variables and proposing further decoding steps.
 - **Encoded Data Block Analysis:** Explored hypotheses about encoded values' structures, suggesting a bit-packed compound field hypothesis.
-- **Redatam [[Development]] Reflection:** Reflected on the development and application of Redatam for Argentina's 2022 National Census.
+- **Redatam Development Reflection:** Reflected on the development and application of Redatam for Argentina's 2022 National Census.
 - **Open Source Tools Discussion:** Discussed open-source tools for Redatam database interaction, highlighting projects like Open Redatam.
 - **[[API]] Interface Layer Analysis:** Analyzed an open-source C++ interface layer for Redatam, discussing its functionality and limitations.
 

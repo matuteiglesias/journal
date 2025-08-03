@@ -18,7 +18,7 @@ The primary objective of this session was to address and resolve various program
 
 ### Key Activities
 - **Path Resolution:** Fixed common path resolution issues in [[Python]] scripts by using absolute references with `Path(__file__).resolve()`.
-- **PromptBlock [[Development]]:** Created a forward-compatible `PromptBlock` to integrate `.prompty` templates, enhancing error handling and future-proofing.
+- **PromptBlock Development:** Created a forward-compatible `PromptBlock` to integrate `.prompty` templates, enhancing error handling and future-proofing.
 - **[[Promptflow]] Chat [[API]]:** Resolved role-related formatting errors in `.prompty` files by updating the prompt syntax.
 - **OpenAI [[API]] [[Troubleshooting]]:** Addressed connection issues by correcting the [[API]] URL and ensuring the model parameter is included in requests.
 - **YAML [[Configuration]]:** Fixed a BadRequestError in YAML configurations by properly placing parameters.

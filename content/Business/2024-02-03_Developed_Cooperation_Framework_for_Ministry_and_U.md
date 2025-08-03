@@ -2,7 +2,7 @@
 title: "Developed Cooperation Framework for Ministry and UBA"
 tags: ['Cooperation', 'Education', 'Security', 'Interoperability', 'GCP']
 created: 2024-02-03
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-03 — Session: Developed Cooperation Framework for Ministry and UBA
@@ -17,7 +17,7 @@ publish: false
 The session aimed to develop a comprehensive framework for cooperation agreements between the Ministry of Security of Buenos Aires and the University of Buenos Aires (UBA), focusing on technology development and educational training.
 
 ### Key Activities
-- **Framework [[Development]]**: Outlined steps and recommendations for establishing cooperation agreements, including identifying objectives, creating agreements, and approval procedures.
+- **Framework Development**: Outlined steps and recommendations for establishing cooperation agreements, including identifying objectives, creating agreements, and approval procedures.
 - **Cost Estimation**: Provided a detailed breakdown of monthly costs for a training scheme, totaling USD 20,100.
 - **Interoperability Strategies**: Proposed strategies for aligning the activities of the General Directorate of Informatics with interoperability goals.
 - **Legislative Context**: Reflected on the implications of Ley 12475 regarding access to administrative documents and its relation to interoperability and security.

@@ -31,4 +31,4 @@ The session aimed to develop and refine course frameworks and overviews for vari
 
 ### Pending Tasks
 - Further refinement of course materials and integration of additional readings and case studies for each course.
-- [[Development]] of detailed lesson plans and teaching aids for the courses outlined.
+- Development of detailed lesson plans and teaching aids for the courses outlined.

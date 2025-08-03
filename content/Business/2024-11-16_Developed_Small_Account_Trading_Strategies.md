@@ -2,7 +2,7 @@
 title: "Developed Small Account Trading Strategies"
 tags: ['Trading', 'Risk Management', 'Small Accounts', 'Strategy', 'Visualization']
 created: 2024-11-16
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-16 — Session: Developed Small Account Trading Strategies

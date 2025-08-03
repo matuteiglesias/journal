@@ -2,7 +2,7 @@
 title: "Contact Management and Strategy Session"
 tags: ['Contact Management', 'Networking', 'Automation', 'Strategy', 'CRM']
 created: 2024-12-18
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-18 — Session: Contact Management and Strategy Session

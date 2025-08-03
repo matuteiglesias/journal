@@ -40,4 +40,4 @@ The session aimed to review and analyze various clinical cases and healthcare pr
 
 ### Pending Tasks
 - Further investigation into the efficacy of current protocols in real-world scenarios.
-- [[Development]] of training materials based on session insights for healthcare professionals.
+- Development of training materials based on session insights for healthcare professionals.

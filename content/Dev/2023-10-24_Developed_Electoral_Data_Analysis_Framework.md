@@ -20,7 +20,7 @@ The goal of this session was to develop a comprehensive framework for analyzing 
 - **[[Data Analysis]] Planning**: Identified necessary datasets and proposed analyses for electoral results, including ecological inference and voter segmentation.
 - **Data Structuring**: Outlined the structure of datasets required for electoral analysis, covering voter participation and socioeconomic indicators.
 - **Notebook Proposals**: Developed ideas for notebooks to analyze electoral results, including geographic and candidate performance analysis.
-- **Collaborative Tools Exploration**: Reviewed tools for collaborative work on Jupyter Notebooks, such as VS Code Live Share, Google Colab, and JupyterHub.
+- **Collaborative Tools Exploration**: Reviewed tools for collaborative work on [[Jupyter]] Notebooks, such as VS Code Live Share, Google Colab, and JupyterHub.
 - **Google Colab Instructions**: Provided guides on managing files in Google Colab, including [[CSV]] handling and Google Drive integration.
 - **[[Pandas]] [[Optimization]]**: Reflected on code structure for electoral analysis using [[Pandas]], emphasizing optimization and documentation.
 

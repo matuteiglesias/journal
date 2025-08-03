@@ -2,7 +2,7 @@
 title: "Market Research on Painting Products"
 tags: ['Market Research', 'Painting Products', 'Data Analysis', 'Pricing', 'Pandas']
 created: 2024-09-13
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-13 — Session: Market Research on Painting Products

@@ -2,7 +2,7 @@
 title: "Developed Strategy for Electoral Process Modernization"
 tags: ['Electoral Process', 'Modernization', 'Digitalization', 'FCEN', 'Strategy']
 created: 2024-07-01
-publish: false
+publish: true
 ---
 
 ## 📅 2024-07-01 — Session: Developed Strategy for Electoral Process Modernization

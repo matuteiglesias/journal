@@ -20,7 +20,7 @@ The session aimed to improve error handling in [[API]] calls for legislative doc
 - **[[Error Handling]]:** Addressed a '502 Bad Gateway' error in OpenAI [[API]] calls by implementing a robust [[Python]] loop that ensures continued processing despite temporary file issues.
 - **[[API]] Response Management:** Improved the handling of [[API]] responses by resetting the `api_responses` variable at the start of each loop iteration to prevent accumulation in Markdown files.
 - **Markdown [[Automation]]:** Developed a [[Python]] script to consolidate multiple Markdown files into a single document, ensuring proper order and separation.
-- **[[Web Scraping]] Enhancements:** Utilized BeautifulSoup to extract titles and subtitles from HTML, focusing on `<h3>` tags and Roman numerals.
+- **[[Web Scraping]] Enhancements:** Utilized BeautifulSoup to extract titles and subtitles from [[HTML]], focusing on `<h3>` tags and Roman numerals.
 - **Legal Document [[Integration]]:** Proposed methods to integrate section headers into legal documents without disrupting logical order.
 
 ### Achievements
@@ -30,4 +30,4 @@ The session aimed to improve error handling in [[API]] calls for legislative doc
 
 ### Pending Tasks
 - Further testing of the Markdown consolidation script in diverse scenarios.
-- [[Optimization]] of the web scraping functions for different HTML structures.
+- [[Optimization]] of the web scraping functions for different [[HTML]] structures.

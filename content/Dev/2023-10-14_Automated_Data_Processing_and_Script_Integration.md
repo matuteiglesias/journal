@@ -22,12 +22,12 @@ The session aimed to automate data processing tasks by integrating [[Python]] sc
 - **Quarterly Date Generation**: Updated a function for generating quarterly dates and refactored the main code to use this function.
 - **Looping Through Years**: Demonstrated how to call an external script in a loop for each year within a specified range using the subprocess module.
 - **Directory Restoration**: Modified a [[Python]] script to ensure the working directory is restored after executing an external script.
-- **Code Structure Overview**: Provided an overview of structured code within Jupyter Notebook files for configuration and main data processing tasks.
-- **Descriptive Statistics Framework**: Outlined a structured framework for a Jupyter notebook focused on descriptive statistics.
+- **Code Structure Overview**: Provided an overview of structured code within [[Jupyter]] Notebook files for configuration and main data processing tasks.
+- **Descriptive Statistics Framework**: Outlined a structured framework for a [[Jupyter]] notebook focused on descriptive statistics.
 
 ### Achievements
 - Successfully integrated automation scripts for data processing and management.
-- Established a structured framework for descriptive statistics analysis in Jupyter notebooks.
+- Established a structured framework for descriptive statistics analysis in [[Jupyter]] notebooks.
 
 ### Pending Tasks
 - Further refinement of the data processing scripts to enhance efficiency and scalability.

@@ -2,7 +2,7 @@
 title: "Explored Agile Estimation Techniques for Project Management"
 tags: ['Agile', 'Project Management', 'Estimation', 'Story Points', 'Ideal Days']
 created: 2024-02-15
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-15 — Session: Explored Agile Estimation Techniques for Project Management

@@ -20,7 +20,7 @@ The session aimed to develop a structured plan for creating a Minimum Viable Pro
 - **Scope Definition**: Established the scope for the MVP, focusing on a 4-hour development session.
 - **Data Preprocessing**: Outlined steps for preparing the dataset for model training.
 - **Model Training**: Discussed the use of Random Forest for model evaluation.
-- **[[API]] [[Development]]**: Planned the [[API]] structure using [[Flask]].
+- **[[API]] Development**: Planned the [[API]] structure using [[Flask]].
 - **Containerization**: Considered Docker for deployment.
 - **Testing and [[Documentation]]**: Highlighted the importance of testing and documentation for the MVP.
 

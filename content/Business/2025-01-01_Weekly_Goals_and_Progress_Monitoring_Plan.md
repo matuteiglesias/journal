@@ -2,7 +2,7 @@
 title: "Weekly Goals and Progress Monitoring Plan"
 tags: ['Weekly Goals', 'Progress Monitoring', 'Task Organization', 'Automation', 'Health', 'Social Connections']
 created: 2025-01-01
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-01 — Session: Weekly Goals and Progress Monitoring Plan

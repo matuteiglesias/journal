@@ -14,20 +14,20 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to enhance a [[Flask]] application by addressing 404 errors, improving the welcome message, and integrating Git and Docker for better version control and deployment.
+The primary goal of this session was to enhance a [[Flask]] application by addressing 404 errors, improving the welcome message, and integrating [[Git]] and Docker for better version control and deployment.
 
 ### Key Activities
 - **Handling 404 Errors**: Implemented a root URL route to manage 404 Not Found errors in the [[Flask]] application.
-- **Enhancing Welcome Message**: Explored methods to improve the [[Flask]] application's landing page using HTML and [[API]] documentation.
+- **Enhancing Welcome Message**: Explored methods to improve the [[Flask]] application's landing page using [[HTML]] and [[API]] documentation.
 - **Commit Message Structuring**: Provided guidelines for creating structured commit messages during [[API]] setup.
-- **Git Version Control**: Discussed best practices for organizing Git commits, unstaging files, and understanding Git status outputs.
-- **Viewing Git History**: Explained the use of `git log` for viewing commit history and managing branches.
+- **[[Git]] Version Control**: Discussed best practices for organizing [[Git]] commits, unstaging files, and understanding [[Git]] status outputs.
+- **Viewing [[Git]] History**: Explained the use of `git log` for viewing commit history and managing branches.
 - **Docker Containerization**: Offered a guide on using Docker to containerize the [[Flask]] [[API]], including Dockerfile examples.
 
 ### Achievements
 - Successfully implemented a strategy for handling 404 errors in [[Flask]].
 - Enhanced the user experience of the [[Flask]] application with a more informative welcome message.
-- Established a clear structure for Git commit messages and version control practices.
+- Established a clear structure for [[Git]] commit messages and version control practices.
 - Containerized the [[Flask]] [[API]] using Docker, setting the stage for scalable deployment.
 
 ### Pending Tasks

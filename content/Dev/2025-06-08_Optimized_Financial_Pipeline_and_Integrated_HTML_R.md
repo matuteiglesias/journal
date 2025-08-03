@@ -21,13 +21,13 @@ The primary goal of this session was to analyze and optimize the financial pipel
 - Updated the general pipeline structure by integrating new functions for debt projection and calculation, improving the relationship between functions and modules.
 - Diagnosed and optimized the debt processing pipeline, identifying orchestration issues and recommending modularization.
 - Analyzed and reorganized the financial pipeline to enhance maintainability and code clarity.
-- Integrated a new module for generating interactive monthly HTML reports within the financial analysis pipeline.
+- Integrated a new module for generating interactive monthly [[HTML]] reports within the financial analysis pipeline.
 - Conducted a strategic diagnosis of the financial monitoring suite, highlighting strengths and weaknesses, and proposed a redesign for automation and scalability.
 
 ### Achievements
 - Successfully optimized the pipeline for better modularity and maintainability.
-- Integrated interactive HTML reports, enhancing the reporting capabilities of the financial pipeline.
+- Integrated interactive [[HTML]] reports, enhancing the reporting capabilities of the financial pipeline.
 
 ### Pending Tasks
-- Further testing and validation of the new pipeline structure and HTML report integration.
+- Further testing and validation of the new pipeline structure and [[HTML]] report integration.
 - Implementation of the proposed redesign for the financial monitoring suite.

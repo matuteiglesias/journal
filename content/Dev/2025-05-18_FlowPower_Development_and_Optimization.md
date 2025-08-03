@@ -20,7 +20,7 @@ The session aimed at advancing the development and optimization of the FlowPower
 - **Linux System [[Optimization]]**: Diagnosed and proposed optimizations for a Linux system.
 - **PromptFlow Analysis**: Developed a modular orchestration system for [[AI]] flows using PromptFlow.
 - **Technical Sprint Closure**: Concluded a technical sprint and planned strategically for FlowPower and PromptFlow.
-- **FlowPower Executor [[Development]]**: Designed, implemented, and refactored the `executor.py` module for better maintainability.
+- **FlowPower Executor Development**: Designed, implemented, and refactored the `executor.py` module for better maintainability.
 - **Observability Layer Implementation**: Implemented I/O and traceability layers for improved diagnostics.
 - **YAML Schema Analysis**: Analyzed YAML headers and designed introspective tools.
 - **Prompty Class [[Integration]]**: Integrated the `Prompty` class into the FlowPower execution engine.

@@ -2,7 +2,7 @@
 title: "Developed Excel-based Personal Finance System"
 tags: ['Excel', 'Finanzas', 'Contabilidad', 'Deudas', 'Gastos']
 created: 2023-12-25
-publish: false
+publish: true
 ---
 
 ## 📅 2023-12-25 — Session: Developed Excel-based Personal Finance System

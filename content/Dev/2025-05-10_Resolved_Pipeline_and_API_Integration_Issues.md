@@ -17,7 +17,7 @@ publish: true
 The session aimed to address and resolve multiple technical issues related to pipeline crashes and [[API]] integration errors.
 
 ## Key Activities
-- **[[Pipeline]] [[Error Handling]]**: Implemented a solution to prevent pipeline crashes due to missing files by normalizing the output of the `process_day()` function and handling unexpected statuses in the main loop.
+- **Pipeline [[Error Handling]]**: Implemented a solution to prevent pipeline crashes due to missing files by normalizing the output of the `process_day()` function and handling unexpected statuses in the main loop.
 - **OpenAI [[API]] Error Diagnosis**: Diagnosed an OpenAI [[API]] error in PromptFlow, providing actionable steps to resolve issues related to the 'parsed_message' function call.
 - **OpenAI SDK [[Troubleshooting]]**: Identified potential causes for function call failures in the OpenAI SDK and outlined debugging strategies.
 - **[[API]] [[Integration]] [[Debugging]]**: Addressed errors in [[API]] integration by ensuring the correct schema is loaded and debugging function call errors.

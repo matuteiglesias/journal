@@ -19,7 +19,7 @@ The primary objective of this session was to refactor and enhance the data proce
 ### Key Activities
 - **Fixed Hardcoded Output Directory**: Updated the `09_run_promptflow.py` script to generalize the output directory lookup, enabling dynamic glob pattern generation based on flow names.
 - **Parameterization of Legacy Paths**: Transitioned [[Python]] scripts to use parameterized paths instead of hardcoded values, enhancing directory management.
-- **Modular Update for [[Pipeline]] Orchestration**: Updated the `main()` function for better modularization and avoidance of hardcoded references.
+- **Modular Update for Pipeline Orchestration**: Updated the `main()` function for better modularization and avoidance of hardcoded references.
 - **Revised Directory Naming [[Strategy]]**: Implemented a structured directory naming strategy for better project organization.
 - **Directory Structure Setup for Selenium Scraping**: Defined new `Path` variables for consistent output directory organization for Selenium scraping and PromptFlow model scoring.
 - **QA Guide and Report**: Developed a QA guide for the JobAI pipeline datasets and evaluated the `00_csv_raw` dataset for quality assurance.

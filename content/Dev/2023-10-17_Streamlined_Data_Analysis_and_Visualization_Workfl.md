@@ -22,7 +22,7 @@ The session aimed to enhance data analysis and visualization workflows, focusing
 - A [[Python]] script was developed for loading [[CSV]] files, displaying column names, and generating basic statistics.
 - Steps for constructing histograms from datasets were clarified, including handling missing variables and visualization preferences.
 - Enhanced data visualization code was created to include text information and value counts.
-- A Jupyter Notebook script was designed for clear data analysis and visualization.
+- A [[Jupyter]] Notebook script was designed for clear data analysis and visualization.
 
 **Achievements:**
 - Developed a streamlined [[Python]] script for [[CSV]] processing and data visualization.

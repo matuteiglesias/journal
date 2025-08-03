@@ -2,7 +2,7 @@
 title: "Developed strategic frameworks for product and automation"
 tags: ['Strategy', 'Automation', 'Product Development', 'Integration', 'Appsumo']
 created: 2025-04-18
-publish: false
+publish: true
 ---
 
 ## 📅 2025-04-18 — Session: Developed strategic frameworks for product and automation

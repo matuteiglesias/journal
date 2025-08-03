@@ -25,7 +25,7 @@ The session aimed to conceptualize and plan a modular [[AI]] workflow framework 
 - Detailed the team structure needed for launching a market-competitive product, emphasizing project lead responsibilities and team roles.
 - Described a project for developing a modular [[AI]] workflow platform with configurable workflows and automation features.
 - Highlighted the strengths of Emiliano Spinella in product management and platform development.
-- Presented an improved HTML template for the RAG Mastery project using modern design principles.
+- Presented an improved [[HTML]] template for the RAG Mastery project using modern design principles.
 - Designed the architecture for a 'Box of Context' system for file uploads, detailing backend and frontend functionalities.
 - Implemented a [[Flask]] backend for the 'Box of Context' system, providing setup and code details.
 - Debugged file upload issues in [[Flask]] and JavaScript, providing a systematic troubleshooting approach.

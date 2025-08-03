@@ -2,7 +2,7 @@
 title: "Explored Lean Startup and AI Integration in Education"
 tags: ['Lean Startup', 'Ai Integration', 'Education', 'MVP', 'Student Engagement']
 created: 2024-02-16
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-16 — Session: Explored Lean Startup and AI Integration in Education

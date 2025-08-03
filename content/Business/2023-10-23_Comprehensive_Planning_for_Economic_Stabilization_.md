@@ -2,7 +2,7 @@
 title: "Comprehensive Planning for Economic Stabilization Projects"
 tags: ['Economic Planning', 'Documentation', 'Communication', 'Policy Development']
 created: 2023-10-23
-publish: false
+publish: true
 ---
 
 ## 📅 2023-10-23 — Session: Comprehensive Planning for Economic Stabilization Projects

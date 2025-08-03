@@ -22,7 +22,7 @@ The session aimed to refine and enhance the article scraping logic and process t
 3. **Adaptation of Article Scraper**: Adapted a script for scraping articles from a JSONL file, using 'index_id' as the primary key and avoiding recalculation of 'uid'.
 4. **Modification for Complete Processing**: Modified the `main()` method and CLI to process the entire file without date or time filters, using `index_id` to prevent duplicates.
 5. **Reinforcement of `index_id` Use**: Finalized the script to use `index_id` as the sole identifier, ensuring idempotency and consistency.
-6. **Review of Scraping [[Pipeline]]**: Conducted a review of the scraping pipeline, highlighting its current state and suggesting improvements for robustness and modularity.
+6. **Review of Scraping Pipeline**: Conducted a review of the scraping pipeline, highlighting its current state and suggesting improvements for robustness and modularity.
 7. **News Intelligence System Status**: Detailed the progress and components for developing a semi-autonomous content generation and curation system.
 8. **Content Generation [[Strategy]]**: Described a workflow for transforming seed ideas into strategic content and drafts using an automated system.
 

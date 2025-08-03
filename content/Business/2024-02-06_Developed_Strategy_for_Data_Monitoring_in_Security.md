@@ -2,7 +2,7 @@
 title: "Developed Strategy for Data Monitoring in Security Ministry"
 tags: ['Monitoreo', 'Análisis De Datos', 'Seguridad', 'Colaboración', 'Innovación']
 created: 2024-02-06
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-06 — Session: Developed Strategy for Data Monitoring in Security Ministry

@@ -2,7 +2,7 @@
 title: "Developed Communication Strategy for Public Speaking and Conflict Management"
 tags: ['Communication', 'Leadership', 'Conflict Management', 'Public Speaking', 'Strategy']
 created: 2024-09-29
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-29 — Session: Developed Communication Strategy for Public Speaking and Conflict Management

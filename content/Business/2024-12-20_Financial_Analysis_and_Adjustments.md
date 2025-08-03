@@ -2,7 +2,7 @@
 title: "Financial Analysis and Adjustments"
 tags: ['Income Statement', 'Financial Analysis', 'Balance Sheet', 'Liquidity', 'Profitability', 'Debt']
 created: 2024-12-20
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-20 — Session: Financial Analysis and Adjustments

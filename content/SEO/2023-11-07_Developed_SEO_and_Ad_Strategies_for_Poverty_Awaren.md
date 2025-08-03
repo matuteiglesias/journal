@@ -21,7 +21,7 @@ The session aimed to develop effective [[SEO]] and advertising strategies to enh
 - Discussed guidelines for crafting effective headlines and descriptions for advertisements.
 - Created and refined Google Ad campaign headlines and descriptions in Spanish, ensuring adherence to character limits and engagement.
 - Identified keyword themes for Google Ad campaigns targeting social issues, particularly poverty.
-- Provided instructions for integrating Google Analytics tracking code into HTML for data collection.
+- Provided instructions for integrating Google Analytics tracking code into [[HTML]] for data collection.
 
 **Achievements:**
 - Developed a comprehensive [[SEO]] strategy guide for poverty-related content.

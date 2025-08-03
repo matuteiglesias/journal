@@ -2,7 +2,7 @@
 title: "Compiled Career Development and Data Engineering Insights"
 tags: ['Career Development', 'Data Engineering', 'Job Market', 'Software Development', 'Learning Paths']
 created: 2024-01-23
-publish: false
+publish: true
 ---
 
 ## 📅 2024-01-23 — Session: Compiled Career Development and Data Engineering Insights

@@ -19,9 +19,9 @@ The session aimed to enhance a web application to support multiple courses, impr
 ### Key Activities
 - Developed a strategic plan for modifying the app to support multiple courses, including backend adjustments and frontend changes.
 - Proposed a dedicated course homepage with a course selector to enhance navigation.
-- Configured [[Flask]] routes to serve HTML templates and resolved an AssertionError due to duplicate route handler names.
+- Configured [[Flask]] routes to serve [[HTML]] templates and resolved an AssertionError due to duplicate route handler names.
 - Addressed issues related to [[Flask]] URL routing and static file access.
-- Proposed an improved homepage design using HTML and CSS for a community-focused interface.
+- Proposed an improved homepage design using [[HTML]] and CSS for a community-focused interface.
 - Outlined an onboarding strategy for collaborative project contributions, including a minimum viable documentation structure.
 - Drafted an initial README.md for an interactive query platform designed for educational collaboration.
 

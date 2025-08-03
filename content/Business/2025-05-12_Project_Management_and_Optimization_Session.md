@@ -2,7 +2,7 @@
 title: "Project Management and Optimization Session"
 tags: ['Project Management', 'Optimization', 'SEO', 'Client Outreach', 'Task Management']
 created: 2025-05-12
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-12 — Session: Project Management and Optimization Session

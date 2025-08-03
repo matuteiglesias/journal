@@ -2,7 +2,7 @@
 title: "Analyzed and Visualized Firm Profit Strategies"
 tags: ['Collusion', 'Profit Analysis', 'Game Theory', 'Nash Equilibrium', 'Python', 'Weibull Distribution']
 created: 2024-09-10
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-10 — Session: Analyzed and Visualized Firm Profit Strategies

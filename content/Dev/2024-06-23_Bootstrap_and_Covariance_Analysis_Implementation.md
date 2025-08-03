@@ -18,10 +18,10 @@ The session aimed to implement and refine statistical methods for data analysis,
 
 ### Key Activities
 - **Bootstrap Analysis and Covariance Computation**: Implemented bootstrap methods for variance analysis and computed covariance of components using [[Pandas]].
-- **Function [[Development]]**: Developed the `calculate_aggregates` function in [[Python]] to compute statistical aggregates related to sales data, including covariance and variance.
+- **Function Development**: Developed the `calculate_aggregates` function in [[Python]] to compute statistical aggregates related to sales data, including covariance and variance.
 - **Enhanced Covariance Function**: Improved the `covariance_and_save` function to support quantile and scale options, adding detailed comments for clarity.
 - **Unified Function Implementation**: Created a unified function `bootstrap_and_simulation` to integrate bootstrap sampling and simulation processes, enhancing data processing efficiency.
-- **Algorithm [[Development]]**: Designed algorithms for distribution analysis and macro moments independence experiments, ensuring robust data generation and result analysis.
+- **Algorithm Development**: Designed algorithms for distribution analysis and macro moments independence experiments, ensuring robust data generation and result analysis.
 
 ### Achievements
 - Successfully implemented and refined multiple [[Python]] functions for statistical analysis.

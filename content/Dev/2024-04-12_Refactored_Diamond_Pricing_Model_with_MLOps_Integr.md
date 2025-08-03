@@ -19,7 +19,7 @@ The session aimed to refactor the diamond pricing model by integrating MLOps pri
 ### Key Activities
 - Explored the use of Stochastic Gradient Descent (SGD) for predicting diamond prices, focusing on feature scaling, handling categorical features, and hyperparameter tuning.
 - Developed a comprehensive strategy for refactoring the machine learning project by integrating MLOps principles, including data management and model deployment.
-- Outlined a structured approach to organizing the project, emphasizing modular file architecture and effective use of Jupyter notebooks.
+- Outlined a structured approach to organizing the project, emphasizing modular file architecture and effective use of [[Jupyter]] notebooks.
 - Analyzed the current project structure and provided actionable recommendations for improvement.
 - Revised the project file architecture to integrate an [[API]] for model interaction, detailing the new [[API]] directory and its components.
 - Utilized Bash commands to search for path separators in project files and analyzed path dependencies among them.

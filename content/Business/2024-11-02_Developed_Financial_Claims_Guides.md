@@ -2,7 +2,7 @@
 title: "Developed Financial Claims Guides"
 tags: ['Financial Claims', 'Credit Card', 'Mercado Pago', 'Refunds', 'Legal Documentation']
 created: 2024-11-02
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-02 — Session: Developed Financial Claims Guides

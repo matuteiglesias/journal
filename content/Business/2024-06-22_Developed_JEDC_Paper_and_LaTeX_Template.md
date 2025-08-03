@@ -2,7 +2,7 @@
 title: "Developed JEDC Paper and LaTeX Template"
 tags: ['Economic Modeling', 'Latex', 'JEDC', 'Simulation Techniques', 'Bootstrap Methods']
 created: 2024-06-22
-publish: false
+publish: true
 ---
 
 ## 📅 2024-06-22 — Session: Developed JEDC Paper and LaTeX Template

@@ -31,4 +31,4 @@ The session aimed to analyze workplace interactions and group dynamics to identi
 
 **Pending Tasks:**
 - Further exploration of specific strategies for conflict resolution and professional counseling in organizational settings.
-- [[Development]] of detailed action plans based on the identified issues in workplace and group dynamics.
+- Development of detailed action plans based on the identified issues in workplace and group dynamics.

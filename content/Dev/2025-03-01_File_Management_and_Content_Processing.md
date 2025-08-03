@@ -17,7 +17,7 @@ publish: true
 The session aimed to enhance file management automation and content processing capabilities using [[Python]] and command-line tools.
 
 ### Key Activities
-- Developed and executed commands to list and find [[Python]] and Jupyter Notebook files created after January 2024 on Linux/macOS and Windows systems.
+- Developed and executed commands to list and find [[Python]] and [[Jupyter]] Notebook files created after January 2024 on Linux/macOS and Windows systems.
 - Estimated token counts for large text datasets to aid in data processing.
 - Summarized monthly work activities, highlighting trends and providing structured insights into work evolution from 2024 to 2025.
 - Troubleshot command execution issues in Bash and resolved file write permission problems in Linux environments.

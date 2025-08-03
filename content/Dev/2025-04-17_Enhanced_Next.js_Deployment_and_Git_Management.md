@@ -21,7 +21,7 @@ The session aimed to enhance the development and deployment processes for a Next
 2. **React Modules Overview:** Reviewed and categorized installed React modules in a Next.js project, focusing on UI & Styling, React + UI Components, and other utilities.
 3. **Prompt Modularization:** Discussed the modularization of prompts for [[AI]] systems using `.prompty` files to enhance user experience and system transparency.
 4. **[[Deployment]] Options for Next.js:** Outlined two primary deployment strategies for Next.js: static hosting and full app deployment with [[API]] support. Provided commands and best practices for each.
-5. **Git Management:** Developed a comprehensive `.gitignore` for a project with [[Python]] and Node.js components. Conducted a repository cleanup, applying the `.gitignore`, removing cached files, and committing changes.
+5. **[[Git]] Management:** Developed a comprehensive `.gitignore` for a project with [[Python]] and Node.js components. Conducted a repository cleanup, applying the `.gitignore`, removing cached files, and committing changes.
 
 **Achievements:**
 - Clarified methods for exposing local development servers.

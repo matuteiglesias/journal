@@ -2,7 +2,7 @@
 title: "Developed Strategic Networking and Visibility Plan"
 tags: ['Networking', 'Professional Development', 'Visibility', 'Mentorship', 'Collaboration']
 created: 2024-03-30
-publish: false
+publish: true
 ---
 
 ## 📅 2024-03-30 — Session: Developed Strategic Networking and Visibility Plan

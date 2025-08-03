@@ -2,7 +2,7 @@
 title: "Structured Financial Management for Family Business"
 tags: ['Financial Management', 'Budgeting', 'Accounting Systems', 'Household Expenses']
 created: 2024-11-17
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-17 — Session: Structured Financial Management for Family Business

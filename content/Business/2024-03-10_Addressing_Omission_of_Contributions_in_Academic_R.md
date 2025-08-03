@@ -2,7 +2,7 @@
 title: "Addressing Omission of Contributions in Academic Records"
 tags: ['Legal_Advice', 'Transparency', 'Academic_Regulations', 'Conflict_Resolution']
 created: 2024-03-10
-publish: false
+publish: true
 ---
 
 ## 📅 2024-03-10 — Session: Addressing Omission of Contributions in Academic Records

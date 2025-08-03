@@ -2,7 +2,7 @@
 title: "Automated Poverty Analysis Pipeline"
 tags: ['Poverty', 'Automation', 'Github Actions', 'Data Processing', 'Integration']
 created: 2024-08-11
-publish: false
+publish: true
 ---
 
 ## 📅 2024-08-11 — Session: Automated Poverty Analysis Pipeline

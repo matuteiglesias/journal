@@ -2,7 +2,7 @@
 title: "Automation Strategies and Data Manipulation"
 tags: ['AI', 'Automation', 'Pandas', 'Financial Adjustments', 'Data Manipulation']
 created: 2025-01-15
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-15 — Session: Automation Strategies and Data Manipulation

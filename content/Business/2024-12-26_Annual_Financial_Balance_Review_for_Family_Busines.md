@@ -2,7 +2,7 @@
 title: "Annual Financial Balance Review for Family Business"
 tags: ['Financial Analysis', 'Family Business', 'Annual Review', 'Profitability', 'Liquidity']
 created: 2024-12-26
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-26 — Session: Annual Financial Balance Review for Family Business

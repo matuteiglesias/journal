@@ -2,7 +2,7 @@
 title: "Analyzed Cash Flow and Liability Management"
 tags: ['Cash Flow', 'Financial Management', 'Liabilities', 'Family Business', 'Strategic Planning']
 created: 2024-12-14
-publish: false
+publish: true
 ---
 
 ## 📅 2024-12-14 — Session: Analyzed Cash Flow and Liability Management

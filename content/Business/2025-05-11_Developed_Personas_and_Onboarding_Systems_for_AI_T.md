@@ -2,7 +2,7 @@
 title: "Developed Personas and Onboarding Systems for AI Tools"
 tags: ['Personas', 'Ai Automation', 'Onboarding', 'Publishing']
 created: 2025-05-11
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-11 — Session: Developed Personas and Onboarding Systems for AI Tools

@@ -2,7 +2,7 @@
 title: "Developed Comprehensive Day Trading Plan"
 tags: ['Day Trading', 'Strategy Development', 'Risk Management', 'Performance Analysis', 'Scaling Strategies']
 created: 2024-11-16
-publish: false
+publish: true
 ---
 
 ## 📅 2024-11-16 — Session: Developed Comprehensive Day Trading Plan

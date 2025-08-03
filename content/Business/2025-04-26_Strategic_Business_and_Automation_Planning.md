@@ -2,7 +2,7 @@
 title: "Strategic Business and Automation Planning"
 tags: ['Strategy', 'Automation', 'Lead Generation', 'Business', 'Market Research']
 created: 2025-04-26
-publish: false
+publish: true
 ---
 
 ## 📅 2025-04-26 — Session: Strategic Business and Automation Planning

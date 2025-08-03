@@ -2,7 +2,7 @@
 title: "Financial Strategy for ABL and Property Tax Payments"
 tags: ['Finances', 'Taxes', 'Strategy', 'Debt', 'Inflation']
 created: 2024-04-21
-publish: false
+publish: true
 ---
 
 ## 📅 2024-04-21 — Session: Financial Strategy for ABL and Property Tax Payments

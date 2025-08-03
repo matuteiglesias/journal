@@ -2,7 +2,7 @@
 title: "Session on Emotional Design and Business Reflections"
 tags: ['Emotional Design', 'Business Reflection', 'CRM', 'Lead Generation', 'Automation']
 created: 2025-05-26
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-26 — Session: Session on Emotional Design and Business Reflections

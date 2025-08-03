@@ -24,7 +24,7 @@ The primary objective of this session was to enhance the [[AI]] processing pipel
 - **Understanding Abstraction Elevation**: Reflected on software design principles to improve productivity and modularity.
 - **Modularization [[Strategy]]**: Developed a strategy for modularizing the [[AI]] processing pipeline into distinct components.
 - **Refactored [[Python]] Script**: Organized the [[AI]] processing pipeline into well-defined modules for better maintainability.
-- **Modifying [[AI]] Processing [[Pipeline]]**: Adjusted the pipeline to include `query_text` for more relevant [[AI]] responses.
+- **Modifying [[AI]] Processing Pipeline**: Adjusted the pipeline to include `query_text` for more relevant [[AI]] responses.
 - **Streamlined [[AI]] Prompt for Academic Review**: Designed a refined prompt to improve [[AI]]-generated literature reviews.
 
 ### Achievements

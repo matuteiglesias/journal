@@ -2,7 +2,7 @@
 title: "Strategic Management and Collaboration in Six Sigma Projects"
 tags: ['Six Sigma', 'Project Management', 'Cross-Functional Collaboration', 'Synchronization', 'Benchmarking']
 created: 2024-02-15
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-15 — Session: Strategic Management and Collaboration in Six Sigma Projects

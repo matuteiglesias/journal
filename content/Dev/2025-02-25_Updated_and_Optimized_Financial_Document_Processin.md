@@ -22,7 +22,7 @@ The primary goal of this session was to update and optimize the financial docume
 - Fixed YAML pipeline access errors in [[Python]] by adjusting the access method from dictionary to list.
 - Implemented dynamic configuration access in YAML for better scalability.
 - Refactored two similar functions into a single asynchronous function for processing financial documents using OpenAI's [[API]].
-- Provided guidance on handling asynchronous functions in Jupyter Notebooks.
+- Provided guidance on handling asynchronous functions in [[Jupyter]] Notebooks.
 
 ### Achievements
 - Successfully updated and optimized the pipeline configuration.

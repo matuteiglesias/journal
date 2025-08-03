@@ -2,7 +2,7 @@
 title: "Exploration of Legal and Practical Methods for Abandoned Property Management"
 tags: ['Abandoned Properties', 'Legal Advice', 'Home Improvement', 'Safety', 'Usucapión']
 created: 2024-09-21
-publish: false
+publish: true
 ---
 
 ## 📅 2024-09-21 — Session: Exploration of Legal and Practical Methods for Abandoned Property Management

@@ -2,7 +2,7 @@
 title: "Structured Organizational and Data Access Planning"
 tags: ['Organizational Structure', 'Data Access', 'Strategic Planning', 'Communication', 'Team Management']
 created: 2023-12-13
-publish: false
+publish: true
 ---
 
 ## 📅 2023-12-13 — Session: Structured Organizational and Data Access Planning

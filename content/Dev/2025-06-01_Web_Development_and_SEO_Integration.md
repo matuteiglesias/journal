@@ -14,18 +14,18 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to integrate various web development and [[SEO]] enhancements into a [[Docusaurus]] project, ensuring improved performance, analytics, and search engine visibility.
+The primary goal of this session was to integrate various web development and [[SEO]] enhancements into a Docusaurus project, ensuring improved performance, analytics, and search engine visibility.
 
 ### Key Activities
-- Integrated Google Tag Manager into [[Docusaurus]], ensuring compliance with `<noscript>` tags.
+- Integrated Google Tag Manager into Docusaurus, ensuring compliance with `<noscript>` tags.
 - Implemented a performance and analytics checklist focusing on GA4, GTM, Lighthouse, and Google PageSpeed Insights.
 - Conducted [[SEO]] analysis and recommendations, including structured data and non-indexed page solutions.
 - Added [[JSON]]-LD BreadcrumbList for [[SEO]] enhancement.
-- Reviewed canonical and hreflang tags implementation in [[Docusaurus]].
+- Reviewed canonical and hreflang tags implementation in Docusaurus.
 - Cleaned and rebuilt node modules to ensure a consistent build environment.
 - Analyzed and resolved Yarn Workspaces issues.
 - Followed a step-by-step guide for building and committing changes with Yarn.
-- Resolved [[Docusaurus]] configuration errors related to future flags.
+- Resolved Docusaurus configuration errors related to future flags.
 - Completed a post-deployment QA checklist to ensure [[SEO]] compliance and performance.
 - Conducted web traffic analysis and provided recommendations for improved engagement.
 - Reviewed [[SEO]] and analytics status, outlining next steps for visibility.

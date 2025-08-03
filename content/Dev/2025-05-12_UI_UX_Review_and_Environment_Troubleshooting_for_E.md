@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session aimed to review the UI/UX of HTML files for an educational app and address various software development issues related to environment management and dependency handling.
+The session aimed to review the UI/UX of [[HTML]] files for an educational app and address various software development issues related to environment management and dependency handling.
 
 ### Key Activities
-- Conducted a detailed UI/UX review of HTML files, providing suggestions for improvement in design and code structure.
+- Conducted a detailed UI/UX review of [[HTML]] files, providing suggestions for improvement in design and code structure.
 - Outlined a refactor strategy for the application architecture focusing on modularization and [[API]] standardization.
 - Resolved a [[Python]] environment mismatch issue affecting [[Flask]] recognition.
 - Fixed an ImportError related to the `Session` object in `flask_session`.

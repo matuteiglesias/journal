@@ -2,7 +2,7 @@
 title: "Synthesized Economic Research Insights"
 tags: ['Economic Research', 'Micro-Macro Perspectives', 'Spatial Analysis', 'Economic Dynamics', 'Policy Relevance']
 created: 2025-01-12
-publish: false
+publish: true
 ---
 
 ## 📅 2025-01-12 — Session: Synthesized Economic Research Insights

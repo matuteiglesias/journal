@@ -2,7 +2,7 @@
 title: "Developed frameworks for financial and AI systems analysis"
 tags: ['Financial Analysis', 'Ai Systems', 'Metadata Management', 'Decision Making', 'Communication Strategies']
 created: 2025-05-11
-publish: false
+publish: true
 ---
 
 ## 📅 2025-05-11 — Session: Developed frameworks for financial and AI systems analysis

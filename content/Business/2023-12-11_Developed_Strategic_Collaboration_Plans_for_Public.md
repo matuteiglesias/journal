@@ -2,7 +2,7 @@
 title: "Developed Strategic Collaboration Plans for Public Safety"
 tags: ['Collaboration', 'Public Safety', 'Data Governance', 'Training', 'Education']
 created: 2023-12-11
-publish: false
+publish: true
 ---
 
 ## 📅 2023-12-11 — Session: Developed Strategic Collaboration Plans for Public Safety

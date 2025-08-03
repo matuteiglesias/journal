@@ -14,11 +14,11 @@ publish: true
 
 
 ### Session Goal
-The session aimed to automate the creation of micro-narratives from Argentine macroeconomic data and to manage Git branches effectively.
+The session aimed to automate the creation of micro-narratives from Argentine macroeconomic data and to manage [[Git]] branches effectively.
 
 ### Key Activities
 - Developed a structured approach for automating micro-narratives using Argentine macroeconomic datasets.
-- Outlined a safe method to move changes from the `gh-pages` branch to the `main` branch in Git, ensuring deployment content remains untouched.
+- Outlined a safe method to move changes from the `gh-pages` branch to the `main` branch in [[Git]], ensuring deployment content remains untouched.
 - Provided instructions for syncing `gh-pages` with `main`, including options for maintaining or overwriting history.
 - Created a Spanish README template for the `economia.gob.ar-datos` repository, detailing its purpose and structure.
 - Drafted a README for the `economia.gob.ar` repository, outlining the automated pipeline for processing public data.
@@ -27,7 +27,7 @@ The session aimed to automate the creation of micro-narratives from Argentine ma
 
 ### Achievements
 - Established a framework for automating narrative generation from macroeconomic data.
-- Successfully managed Git branch synchronization between `gh-pages` and `main`.
+- Successfully managed [[Git]] branch synchronization between `gh-pages` and `main`.
 - Enhanced documentation for public data repositories.
 
 ### Pending Tasks

@@ -2,7 +2,7 @@
 title: "Comprehensive Report and Leadership Strategy Development"
 tags: ['Report Writing', 'Leadership', 'Organizational Change', 'Inclusivity', 'Strategy']
 created: 2024-07-04
-publish: false
+publish: true
 ---
 
 ## 📅 2024-07-04 — Session: Comprehensive Report and Leadership Strategy Development

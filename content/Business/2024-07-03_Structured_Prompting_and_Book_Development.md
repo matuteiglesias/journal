@@ -2,7 +2,7 @@
 title: "Structured Prompting and Book Development"
 tags: ['Book Development', 'Ai Tools', 'Data Engineering', 'GCP', 'Google Sheets']
 created: 2024-07-03
-publish: false
+publish: true
 ---
 
 ## 📅 2024-07-03 — Session: Structured Prompting and Book Development
@@ -20,7 +20,7 @@ The session aimed to develop structured approaches for book content creation and
 1. **Legal Guidance**: Developed guides on the legal process of succession ab-intestato in Argentina and how to check the registration of a Declaratoria de Herederos.
 2. **[[AI]] Tools Evaluation**: Reviewed [[AI]] tools like GPT-3, Jasper, Manuscriptr, and AX Semantics for content generation.
 3. **Prompt Engineering**: Created a systematic approach for generating prompts for technical book writing using GPT-3.
-4. **Chapter [[Development]]**: Planned and outlined chapters for 'Mastering Data Engineering and [[Machine Learning]] on GCP', focusing on data processing systems and data ingestion pipelines.
+4. **Chapter Development**: Planned and outlined chapters for 'Mastering Data Engineering and [[Machine Learning]] on GCP', focusing on data processing systems and data ingestion pipelines.
 5. **[[AI]] Agents [[Workflow]]**: Designed a workflow for using [[AI]] agents in book creation, detailing roles in content generation and approval.
 6. **Google Sheets [[Automation]]**: Provided instructions for using formulas in Google Sheets, including checking empty cells and using the IFNA function.
 

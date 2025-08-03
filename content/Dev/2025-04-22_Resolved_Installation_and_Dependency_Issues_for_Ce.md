@@ -23,7 +23,7 @@ The session focused on resolving installation and dependency issues related to t
 - **Resolved Qt Backend Dependency for pyqtgraph**: Recommended installing `PyQt5` for compatibility.
 - **Fixed PyQt4 Import Issues in Cerebrum**: Suggested replacing `PyQt4` with `PyQt5` and other fixes for compatibility with [[Python]] 3.10+.
 - **Resolved Cerebrum Installation Conflicts**: Provided solutions for integrating a local version of Cerebrum.
-- **Set Up Local [[Development]] for Cerebrum in AIOS.Server**: Recommended creating a `setup.py` for package management.
+- **Set Up Local Development for Cerebrum in AIOS.Server**: Recommended creating a `setup.py` for package management.
 - **Fixed Import Errors in [[Python]] Package**: Diagnosed import failures and suggested directory adjustments or PYTHONPATH hacks.
 - **Conducted Surgical Recovery Operation for Cerebrum Module**: Provided a checklist for recovering a broken Cerebrum module installation.
 

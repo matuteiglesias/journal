@@ -2,7 +2,7 @@
 title: "Implemented Financial Data Visualizations and Corrections"
 tags: ['Financial Analysis', 'Data Visualization', 'Python', 'Matplotlib', 'Dataframe']
 created: 2024-01-07
-publish: false
+publish: true
 ---
 
 ## 📅 2024-01-07 — Session: Implemented Financial Data Visualizations and Corrections

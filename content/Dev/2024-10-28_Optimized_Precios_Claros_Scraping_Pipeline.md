@@ -17,7 +17,7 @@ publish: true
 The primary goal of this session was to enhance and optimize the Precios Claros scraping pipeline to improve efficiency in capturing and storing price data.
 
 ### Key Activities
-- **Refinement of Scraping [[Pipeline]]**: Enhanced the existing pipeline with structured directories and consolidation scripts to better manage datasets.
+- **Refinement of Scraping Pipeline**: Enhanced the existing pipeline with structured directories and consolidation scripts to better manage datasets.
 - **Command Filtering**: Utilized Unix `grep` commands to filter command history for scraping-related activities, focusing on `scrapy` and `shub`.
 - **[[Debugging]] Techniques**: Implemented a debug-friendly command using Scrapy for efficient data collection and debugging.
 - **Automated Scraper Setup**: Outlined a sustainable approach to automate web scraping using cloud infrastructure, error handling, and version control.

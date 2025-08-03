@@ -2,7 +2,7 @@
 title: "Developed Political and Network Strategies"
 tags: ['Political Strategy', 'Network Mapping', 'Contact Management', 'Trello', 'Interaction Strategies']
 created: 2024-05-24
-publish: false
+publish: true
 ---
 
 ## 📅 2024-05-24 — Session: Developed Political and Network Strategies

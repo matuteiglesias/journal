@@ -18,7 +18,7 @@ The session aimed to explore and execute various programming and algorithmic str
 
 ### Key Activities
 - **C++ Programming**: Installed a C++ compiler and executed a C++ program across different operating systems. Resolved the 'undefined reference to main' error by identifying common causes and applying troubleshooting steps.
-- **Algorithm [[Development]]**: Implemented a brute force algorithm in [[Python]] to minimize unhappiness by generating permutations. Conducted tests to compare discrepancies between greedy and brute force algorithms.
+- **Algorithm Development**: Implemented a brute force algorithm in [[Python]] to minimize unhappiness by generating permutations. Conducted tests to compare discrepancies between greedy and brute force algorithms.
 - **Algorithmic Strategies**: Discussed the trade-offs between brute force, greedy, and dynamic programming approaches, considering their efficiency and applicability.
 - **Code Translation**: Translated [[Python]] code into C++ and provided instructions for compilation and execution.
 - **Simulation**: Developed a [[Python]] script to simulate number sign influence on final sums, evaluating correctness against actual signs.

@@ -21,7 +21,7 @@ The session aimed to explore and develop algorithms using Depth-First Search (DF
 - **Bridge Identification in Graphs**: Explained the process of identifying critical edges or 'bridges' in a graph that, if removed, would increase the number of connected components. This was achieved by using a DFS-based approach, improving efficiency over executing multiple DFS runs.
 - **Complexity Analysis**: Provided a detailed breakdown of the algorithm's complexity, focusing on the use of discovery and low arrays to determine back cycles and bridge conditions.
 - **[[Optimization]] of `amigos_debajo` Function**: Discussed and implemented memoization to optimize the `amigos_debajo` function, reducing redundant calculations and improving performance.
-- **Pseudocode [[Development]]**: Developed pseudocode for calculating friends beneath a node in a DFS tree, utilizing set operations for efficient combination of child nodes' friends.
+- **Pseudocode Development**: Developed pseudocode for calculating friends beneath a node in a DFS tree, utilizing set operations for efficient combination of child nodes' friends.
 
 ### Achievements
 - Successfully implemented and analyzed DFS algorithms for network connectivity and bridge identification.

@@ -17,7 +17,7 @@ publish: false
 The session aimed to automate job application processes and enhance GIS job search strategies.
 
 ### Key Activities
-- Prepared [[CSV]] entries for job applications, suggesting further automation with HTML parsing.
+- Prepared [[CSV]] entries for job applications, suggesting further automation with [[HTML]] parsing.
 - Created a [[CSV]] for job offers, proposing an interface for management and LinkedIn data extraction.
 - Detailed professional profile reflecting on skills and strategic orientation.
 - Updated filtered job opportunities and employment lists, offering prioritization and dashboard options.
@@ -33,6 +33,6 @@ The session aimed to automate job application processes and enhance GIS job sear
 - Identified strategic career opportunities in GIS.
 
 ### Pending Tasks
-- Implement HTML parsing for job data automation.
+- Implement [[HTML]] parsing for job data automation.
 - Develop an interface for managing job offers and LinkedIn data extraction.
 - Further refine GIS job search criteria and analysis.

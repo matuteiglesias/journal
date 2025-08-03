@@ -21,7 +21,7 @@ The session aimed to analyze the OpenAI SDK migration process, troubleshoot enco
 - Reflected on potential reasons for slow migration processes and provided actionable steps for resolution.
 - Discussed complexities in migrating OpenAI [[Python]] SDK files and offered handling advice.
 - Provided guidance on securely setting up OpenAI [[API]] keys in [[Python]] using environment variables.
-- Outlined strategies for improving [[AI]]-generated analyses in Jupyter notebooks, focusing on model selection and prompt refinement.
+- Outlined strategies for improving [[AI]]-generated analyses in [[Jupyter]] notebooks, focusing on model selection and prompt refinement.
 - Addressed `InvalidRequestError` in GPT-4 [[API]] usage, suggesting code modifications for correct endpoint usage.
 - Demonstrated the use of OpenAI Codex for code generation, including script modifications.
 - Troubleshot `InvalidRequestError` for OpenAI Codex model, providing verification steps for model names and [[API]] access.

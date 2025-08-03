@@ -23,12 +23,12 @@ The session aimed to address translation challenges in legal documents, specific
 - **Solution Analysis:** Detailed analysis of the 'Malvinas' exercise solution, focusing on program structure, function implementation, and code efficiency.
 - **Code Feedback:** Provided feedback on source code from various groups, emphasizing coding style and best practices.
 - **C++ Code Analysis:** Analyzed C++ code files, confirming no critical issues, and proposed a minimal solution for the 'Ambulancia' problem.
-- **CSS Styling:** Offered a CSS template for converting Markdown to HTML, with a design similar to GitHub's.
+- **CSS Styling:** Offered a CSS template for converting Markdown to [[HTML]], with a design similar to GitHub's.
 
 ### Achievements
 - Completed the translation and simplification of legal contracts in Hokkien Min.
 - Conducted thorough analysis and provided feedback on programming tasks and solutions.
-- Developed a CSS template for Markdown to HTML conversion.
+- Developed a CSS template for Markdown to [[HTML]] conversion.
 
 ### Pending Tasks
 - Further refinement of translation templates with professional input.

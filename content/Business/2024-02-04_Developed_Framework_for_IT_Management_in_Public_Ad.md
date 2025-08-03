@@ -2,7 +2,7 @@
 title: "Developed Framework for IT Management in Public Administration"
 tags: ['It Management', 'Public Administration', 'Digital Governance', 'Legal Compliance', 'Transparency']
 created: 2024-02-04
-publish: false
+publish: true
 ---
 
 ## 📅 2024-02-04 — Session: Developed Framework for IT Management in Public Administration

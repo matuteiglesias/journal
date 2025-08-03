@@ -2,7 +2,7 @@
 title: "Developed Time Series Analysis Functions and Economic Insights"
 tags: ['Time Series', 'Monetary Policy', 'Economic Analysis', 'Function Development']
 created: 2023-10-24
-publish: false
+publish: true
 ---
 
 ## 📅 2023-10-24 — Session: Developed Time Series Analysis Functions and Economic Insights
@@ -17,7 +17,7 @@ publish: false
 The session aimed to develop functions for time series analysis and reflect on economic insights related to monetary policy.
 
 ### Key Activities
-- **Function [[Development]]**: Created a function to calculate the average percent change and slope of log-transformed time series data, facilitating better analysis of trends over time.
+- **Function Development**: Created a function to calculate the average percent change and slope of log-transformed time series data, facilitating better analysis of trends over time.
 - **Environment Management**: Addressed issues with code execution environment resets, ensuring continuity by re-importing necessary libraries and redefining functions.
 - **Function Usage**: Demonstrated the usage of the `analyze_time_series` function for monthly data analysis, enhancing understanding of its application.
 - **Economic Analysis**: Reflected on the imbalance between monetary aggregates and deposits versus the monetary base and circulation, discussing implications such as inflation and currency distrust.

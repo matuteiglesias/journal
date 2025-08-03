@@ -22,7 +22,7 @@ The session aimed to integrate and enhance various components of a URL classific
 - Implemented an [[AI]] agent using GPT-4 for dataset labeling to fine-tune a BERT model.
 - Developed a [[Python]]-based URL classification system using OpenAI [[API]], including class definition and example usage.
 - Addressed errors in the URLClassifier class, specifically fixing argument errors in the `construct_prompt` method and handling null values in input fields.
-- Enhanced HTML cleaning using BeautifulSoup to improve text extraction quality.
+- Enhanced [[HTML]] cleaning using BeautifulSoup to improve text extraction quality.
 - Implemented robust error handling in DataFrame classification using try-except blocks.
 - Improved entity recognition using spaCy by refining extraction processes and filtering irrelevant content.
 

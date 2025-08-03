@@ -1,6 +1,6 @@
 ---
 title: "Structured Scientific Background and CSS Enhancements"
-tags: ['education', 'CSS', 'scientific background', 'web design', 'PDF formatting']
+tags: ['Education', 'CSS', 'Scientific Background', 'Web Design', 'Pdf Formatting']
 created: 2024-03-22
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-03-22 — Session: Structured Scientific Background and CSS Enhancements
 
 **🕒 17:00–21:30**  
-**🏷️ Labels**: education, CSS, scientific background, web design, PDF formatting  
+**🏷️ Labels**: Education, CSS, Scientific Background, Web Design, Pdf Formatting  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Developed Cost-Effective DIY Notebook Storage Solutions"
-tags: ['storage', 'notebooks', 'humidity', 'DIY', 'vacuum-sealing']
+tags: ['Storage', 'Notebooks', 'Humidity', 'DIY', 'Vacuum-Sealing']
 created: 2024-09-19
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-09-19 — Session: Developed Cost-Effective DIY Notebook Storage Solutions
 
 **🕒 01:40–01:50**  
-**🏷️ Labels**: storage, notebooks, humidity, DIY, vacuum-sealing  
+**🏷️ Labels**: Storage, Notebooks, Humidity, DIY, Vacuum-Sealing  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

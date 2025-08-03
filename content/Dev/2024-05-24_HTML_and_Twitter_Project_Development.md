@@ -1,6 +1,6 @@
 ---
 title: "HTML and Twitter Project Development"
-tags: ['HTML', 'Web Scraping', 'Twitter', 'AI Content', 'Python']
+tags: ['HTML', 'Web Scraping', 'Twitter', 'Ai Content', 'Python']
 created: 2024-05-24
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-05-24 — Session: HTML and Twitter Project Development
 
 **🕒 01:00–02:40**  
-**🏷️ Labels**: HTML, Web Scraping, Twitter, AI Content, Python  
+**🏷️ Labels**: HTML, Web Scraping, Twitter, Ai Content, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -20,7 +20,7 @@ The session aimed to enhance the web scraping capabilities for HTML documents an
 - **HTML Structure Inference:** Explored strategies for inferring HTML structures to improve web scraping efficiency.
 - **[[Web Scraping]] Guide:** Reviewed a detailed guide on extracting news articles from HTML files using tools like BeautifulSoup and Scrapy.
 - **Information Extraction Techniques:** Discussed the use of XPath, CSS Selectors, and regular expressions for targeted data extraction from HTML documents.
-- **HTML Optimization:** Analyzed external resources in HTML files for performance [[optimization]].
+- **HTML [[Optimization]]:** Analyzed external resources in HTML files for performance optimization.
 - **[[Python]] Scripting:** Developed a script to extract relevant paragraphs from URLs and handled errors in file saving.
 - **[[AI]] Content and Twitter Personas:** Developed a project plan for generating [[AI]] content for a news portal and creating Twitter personas, including collaboration with experts.
 
@@ -30,4 +30,4 @@ The session aimed to enhance the web scraping capabilities for HTML documents an
 
 ### Pending Tasks
 - Collaborate with a developer and political scientists to further develop Twitter threads featuring historical figures.
-- Implement the structured integration of a news portal with Twitter for content [[strategy]] and monetization.
+- Implement the structured integration of a news portal with Twitter for content strategy and monetization.

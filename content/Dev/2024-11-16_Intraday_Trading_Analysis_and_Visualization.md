@@ -1,6 +1,6 @@
 ---
 title: "Intraday Trading Analysis and Visualization"
-tags: ['data analysis', 'intraday trading', 'visualization', 'Python', 'trading strategies']
+tags: ['Data Analysis', 'Intraday Trading', 'Visualization', 'Python', 'Trading Strategies']
 created: 2024-11-16
 publish: true
 ---
@@ -8,16 +8,16 @@ publish: true
 ## 📅 2024-11-16 — Session: Intraday Trading Analysis and Visualization
 
 **🕒 22:30–23:25**  
-**🏷️ Labels**: data analysis, intraday trading, visualization, Python, trading strategies  
+**🏷️ Labels**: Data Analysis, Intraday Trading, Visualization, Python, Trading Strategies  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to set up a local environment for [[data analysis]] and conduct a comprehensive analysis of intraday trading data using [[Python]].
+The session aimed to set up a local environment for data analysis and conduct a comprehensive analysis of intraday trading data using [[Python]].
 
 ### Key Activities
-- Installed necessary libraries for [[data analysis]], including yfinance, pandas, seaborn, and matplotlib.
+- Installed necessary libraries for data analysis, including yfinance, pandas, seaborn, and matplotlib.
 - Initiated a screening process for message organization and knowledge management.
 - Fetched and analyzed 1-minute intraday stock data using [[Python]], with a focus on visualization techniques.
 - Calculated pairwise close price ratios and visualized them using a heatmap.

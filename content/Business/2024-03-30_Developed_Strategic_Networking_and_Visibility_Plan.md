@@ -1,6 +1,6 @@
 ---
 title: "Developed Strategic Networking and Visibility Plan"
-tags: ['networking', 'professional development', 'visibility', 'mentorship', 'collaboration']
+tags: ['Networking', 'Professional Development', 'Visibility', 'Mentorship', 'Collaboration']
 created: 2024-03-30
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-03-30 — Session: Developed Strategic Networking and Visibility Plan
 
 **🕒 19:45–20:30**  
-**🏷️ Labels**: networking, professional development, visibility, mentorship, collaboration  
+**🏷️ Labels**: Networking, Professional Development, Visibility, Mentorship, Collaboration  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -22,7 +22,7 @@ The session aimed to establish a comprehensive plan for strategic networking and
 - Proposed a weekly structure to optimize networking activities, including planning, relationship strengthening, and visibility enhancement.
 
 ### Achievements
-- Developed a structured plan for strategic networking and professional growth, including actionable steps and a weekly [[strategy]] for effective networking.
+- Developed a structured plan for strategic networking and professional growth, including actionable steps and a weekly strategy for effective networking.
 
 ### Pending Tasks
 - Implementation of the strategic networking plan and monitoring its effectiveness over time.

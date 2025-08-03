@@ -1,6 +1,6 @@
 ---
 title: "Curated Art Selection for Staircase Enhancement"
-tags: ['art', 'interior design', 'staircase', 'home decor', 'aesthetics']
+tags: ['Art', 'Interior Design', 'Staircase', 'Home Decor', 'Aesthetics']
 created: 2024-03-31
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-03-31 — Session: Curated Art Selection for Staircase Enhancement
 
 **🕒 05:15–05:45**  
-**🏷️ Labels**: art, interior design, staircase, home decor, aesthetics  
+**🏷️ Labels**: Art, Interior Design, Staircase, Home Decor, Aesthetics  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

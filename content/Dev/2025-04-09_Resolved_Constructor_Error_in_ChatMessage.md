@@ -1,6 +1,6 @@
 ---
 title: "Resolved Constructor Error in ChatMessage"
-tags: ['error', 'solution', 'Python', 'ChatMessage']
+tags: ['Error', 'Solution', 'Python', 'Chatmessage']
 created: 2025-04-09
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-09 — Session: Resolved Constructor Error in ChatMessage
 
 **🕒 18:40–18:50**  
-**🏷️ Labels**: error, solution, Python, ChatMessage  
+**🏷️ Labels**: Error, Solution, Python, Chatmessage  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

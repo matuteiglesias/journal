@@ -28,7 +28,7 @@ The goal of this session was to explore and strategize the use of AWS services, 
 
 ### Achievements
 - Developed a comprehensive understanding of various tools and frameworks for [[SEO]] and web development.
-- Identified strategic approaches for building a content [[automation]] system.
+- Identified strategic approaches for building a content automation system.
 
 ### Pending Tasks
 - Implement the discussed strategies and tools in upcoming projects.

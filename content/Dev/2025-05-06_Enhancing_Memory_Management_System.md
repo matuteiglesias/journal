@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Memory Management System"
-tags: ['memory management', 'Python', 'embedding', 'pipeline', 'automation', 'ChromaDB']
+tags: ['Memory Management', 'Python', 'Embedding', 'Pipeline', 'Automation', 'Chromadb']
 created: 2025-05-06
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-06 — Session: Enhancing Memory Management System
 
 **🕒 19:10–20:15**  
-**🏷️ Labels**: memory management, Python, embedding, pipeline, automation, ChromaDB  
+**🏷️ Labels**: Memory Management, Python, Embedding, Pipeline, Automation, Chromadb  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -21,9 +21,9 @@ The primary aim of this session was to enhance the memory management system by a
 - **Directory Structure and Import Paths**: Addressed mismatches in directory structures and import paths to ensure proper module imports.
 - **Embedding and Storing Memory Notes**: Developed a script to process JSONL files and store MemoryNotes, ensuring no duplication of embedded entries.
 - **Observability for Embedding Verification**: Implemented an observability cell to validate the embedding process and check for missing metadata.
-- **Working Memory Pipeline**: Built a pipeline integrating log management, embedding, and retrieval functionalities.
+- **Working Memory [[Pipeline]]**: Built a pipeline integrating log management, embedding, and retrieval functionalities.
 - **High-Leverage Ideas for Memory Utilization**: Generated ideas for leveraging embedded memory in projects like auto-curated blogs and self-coaching [[AI]].
-- **Daily-Memory Ingestion Pipeline**: Outlined enhancements for a production-ready memory ingestion pipeline, focusing on code refactoring and robustness.
+- **Daily-Memory Ingestion [[Pipeline]]**: Outlined enhancements for a production-ready memory ingestion pipeline, focusing on code refactoring and robustness.
 - **Extending Memory Management Toolkit**: Enhanced the toolkit with functions for retrieving metadata and querying embeddings by date.
 - **Incremental Embedding with Persistent Access**: Planned and executed a memory ingestion pipeline with incremental embedding and persistent access.
 - **Designing a Persistent Memory Manager**: Designed a `PersistentMemoryManager` using `ChromaDB` for persistent storage and retrieval.

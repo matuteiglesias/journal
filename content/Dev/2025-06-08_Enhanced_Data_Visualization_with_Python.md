@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The main goal of this session was to enhance [[data visualization]] techniques using [[Python]], focusing on integrating various plots and ensuring consistency in presentation.
+The main goal of this session was to enhance data visualization techniques using [[Python]], focusing on integrating various plots and ensuring consistency in presentation.
 
 ### Key Activities
 - Integrated a custom line into an existing plot, ensuring alignment of date indices using [[Python]] and [[Matplotlib]].
@@ -24,7 +24,7 @@ The main goal of this session was to enhance [[data visualization]] techniques u
 - Standardized stacked barplots for contribution categories, emphasizing color coding and axis labeling.
 - Verified file paths for script execution to troubleshoot issues with [[CSV]] file locations.
 - Designed a quarterly financial plot for the 'gastos_FB' dataset, maintaining consistent styling.
-- Refined [[data visualization]] for multiple financial variables, ensuring consistency in color-coding and cumulative line representation.
+- Refined data visualization for multiple financial variables, ensuring consistency in color-coding and cumulative line representation.
 
 ### Achievements
 - Successfully integrated multiple visualization techniques into existing workflows.

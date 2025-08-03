@@ -1,6 +1,6 @@
 ---
 title: "Troubleshooting Google Cloud SQL Connections"
-tags: ['Google Cloud SQL', 'Troubleshooting', 'OAuth', 'Database Connection', 'Google Apps Script']
+tags: ['Google Cloud Sql', 'Troubleshooting', 'Oauth', 'Database Connection', 'Google Apps Script']
 created: 2024-02-02
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-02-02 — Session: Troubleshooting Google Cloud SQL Connections
 
 **🕒 18:40–20:55**  
-**🏷️ Labels**: Google Cloud SQL, Troubleshooting, OAuth, Database Connection, Google Apps Script  
+**🏷️ Labels**: Google Cloud Sql, Troubleshooting, Oauth, Database Connection, Google Apps Script  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -18,11 +18,11 @@ The primary goal of this session was to address and troubleshoot various issues 
 
 ### Key Activities
 - **SQL Exception Handling**: Explored methods to handle SQL exceptions within Google Apps Script, including logging error messages and stack traces.
-- **Database Schema Management**: Provided SQL queries for listing tables and columns in MySQL databases and robust table creation techniques using [[JavaScript]].
+- **Database Schema Management**: Provided SQL queries for listing tables and columns in MySQL databases and robust table creation techniques using JavaScript.
 - **Connection [[Troubleshooting]]**: Developed a comprehensive checklist and step-by-step guides for resolving database connection issues with [[Google Cloud]] SQL, focusing on IP allowlists, user credentials, and SSL requirements.
-- **OAuth Configuration**: Configured OAuth consent screens and added test users for [[Google Cloud]] apps to manage permissions and access.
+- **OAuth [[Configuration]]**: Configured OAuth consent screens and added test users for [[Google Cloud]] apps to manage permissions and access.
 - **Beginner-Friendly [[Integration]]**: Outlined simplified strategies for less experienced users to connect Google Sheets with Cloud SQL.
-- **Bash Configuration**: Set up Bash to record command timestamps to aid in [[debugging]] and command tracking.
+- **Bash [[Configuration]]**: Set up Bash to record command timestamps to aid in debugging and command tracking.
 
 ### Achievements
 - Successfully outlined troubleshooting steps for various connection issues between Google Apps Script and Cloud SQL.

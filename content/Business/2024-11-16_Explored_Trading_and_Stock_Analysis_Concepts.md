@@ -1,6 +1,6 @@
 ---
 title: "Explored Trading and Stock Analysis Concepts"
-tags: ['trading', 'stock analysis', 'finance', 'liquidity', 'corporate finance']
+tags: ['Trading', 'Stock Analysis', 'Finance', 'Liquidity', 'Corporate Finance']
 created: 2024-11-16
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-16 — Session: Explored Trading and Stock Analysis Concepts
 
 **🕒 21:45–22:05**  
-**🏷️ Labels**: trading, stock analysis, finance, liquidity, corporate finance  
+**🏷️ Labels**: Trading, Stock Analysis, Finance, Liquidity, Corporate Finance  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: false
 The session aimed to explore various concepts related to trading and stock analysis, focusing on entry-exit strategies, corporate finance, and stock liquidity.
 
 ### Key Activities
-- **Entry-Exit Analysis**: Examined the use of candlestick patterns in trading, discussing their applications and insights for [[strategy]] validation.
+- **Entry-Exit Analysis**: Examined the use of candlestick patterns in trading, discussing their applications and insights for strategy validation.
 - **Corporate Finance**: Reviewed the structure of shares in corporate finance, including IPOs and stock splits.
 - **Stocks vs. Shares**: Clarified the differences between stocks and shares to enhance understanding of ownership.
 - **Stock Float Analysis**: Discussed low, high, and mid-range float stocks, focusing on liquidity and volatility.

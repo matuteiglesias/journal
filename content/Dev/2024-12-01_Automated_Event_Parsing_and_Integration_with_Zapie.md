@@ -22,7 +22,7 @@ The goal of this session was to automate the parsing of events from emails and i
 - Configured a webhook trigger in Zapier for event parsing.
 - Set up a webhook URL in Zapier and verified the connection with test data.
 - Fixed data structure errors in the webhook integration by ensuring [[JSON]] format compliance.
-- Updated the Zapier [[automation]] [[workflow]] to finalize configuration and prepare for publishing.
+- Updated the Zapier automation workflow to finalize configuration and prepare for publishing.
 - Differentiated tasks and events in the Motion app, ensuring proper scheduling and syncing with Google Calendar.
 
 ### Achievements
@@ -31,4 +31,4 @@ The goal of this session was to automate the parsing of events from emails and i
 - Resolved technical issues related to webhook data structure.
 
 ### Pending Tasks
-- Finalize the configuration of the Zapier [[workflow]] and publish the Zap for full deployment.
+- Finalize the configuration of the Zapier workflow and publish the Zap for full deployment.

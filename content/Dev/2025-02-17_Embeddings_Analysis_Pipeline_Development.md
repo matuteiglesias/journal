@@ -1,6 +1,6 @@
 ---
 title: "Embeddings Analysis Pipeline Development"
-tags: ['embeddings', 'UMAP', 'data visualization', 'Python', 'clustering']
+tags: ['Embeddings', 'UMAP', 'Data Visualization', 'Python', 'Clustering']
 created: 2025-02-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-17 — Session: Embeddings Analysis Pipeline Development
 
 **🕒 21:20–22:20**  
-**🏷️ Labels**: embeddings, UMAP, data visualization, Python, clustering  
+**🏷️ Labels**: Embeddings, UMAP, Data Visualization, Python, Clustering  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -31,5 +31,5 @@ The session aimed to develop a comprehensive pipeline for analyzing datasets of 
 - Implemented code snippets for each stage of the process, facilitating reproducibility.
 
 ### Pending Tasks
-- Further [[optimization]] of the pipeline for larger datasets.
+- Further optimization of the pipeline for larger datasets.
 - Exploration of additional clustering techniques beyond K-Means.

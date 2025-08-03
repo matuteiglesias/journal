@@ -30,7 +30,7 @@ The session aimed to optimize file management processes and enhance [[API]] inte
 
 ### Achievements
 - Enhanced file processing workflows and stabilized Supabase file management.
-- Improved [[API]] integration with Supabase, ensuring efficient data uploads and [[error handling]].
+- Improved [[API]] integration with Supabase, ensuring efficient data uploads and error handling.
 
 ### Pending Tasks
 - Further testing of optimized metadata upload function to ensure stability across different datasets.

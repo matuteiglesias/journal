@@ -14,14 +14,14 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to review and organize the [[CRM]] card deck to ensure all contact tracking and outreach systems are up to date.
+The goal of this session was to review and organize the CRM card deck to ensure all contact tracking and outreach systems are up to date.
 
 ### Key Activities
-- Repeatedly accessed the [[CRM]] card deck to review and possibly update the information.
-- Ensured the [[CRM]] system is aligned with current outreach strategies.
+- Repeatedly accessed the CRM card deck to review and possibly update the information.
+- Ensured the CRM system is aligned with current outreach strategies.
 
 ### Achievements
-- Completed a thorough review of the [[CRM]] card deck.
+- Completed a thorough review of the CRM card deck.
 
 ### Pending Tasks
 - No pending tasks identified during this session.

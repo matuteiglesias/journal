@@ -22,12 +22,12 @@ The session aimed to enhance feedback and user interaction systems in educationa
 - Optimized the `<head>` section of login pages by integrating Google Analytics for performance improvement.
 - Customized AJAX notification messages in feedback forms to improve user interaction.
 - Enhanced [[Flask]] applications by personalizing confirmation pages and integrating ticket details in user sessions.
-- Addressed [[JavaScript]] syntax issues in [[Flask]] applications, ensuring seamless data handling between frontend and backend.
+- Addressed JavaScript syntax issues in [[Flask]] applications, ensuring seamless data handling between frontend and backend.
 
 ### Achievements
 - Successfully created streamlined and user-friendly HTML templates for login and feedback pages.
 - Improved backend processes in [[Flask]] applications for better data management and user experience.
-- Resolved syntax issues in [[JavaScript]], enhancing the robustness of web applications.
+- Resolved syntax issues in JavaScript, enhancing the robustness of web applications.
 
 ### Pending Tasks
 - Further testing of the integrated systems to ensure stability and user satisfaction.

@@ -1,6 +1,6 @@
 ---
 title: "Apache Server Diagnostics and Configuration"
-tags: ['Apache', 'server management', 'diagnostics', 'configuration', 'security']
+tags: ['Apache', 'Server Management', 'Diagnostics', 'Configuration', 'Security']
 created: 2025-05-23
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-23 — Session: Apache Server Diagnostics and Configuration
 
 **🕒 20:20–21:05**  
-**🏷️ Labels**: Apache, server management, diagnostics, configuration, security  
+**🏷️ Labels**: Apache, Server Management, Diagnostics, Configuration, Security  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

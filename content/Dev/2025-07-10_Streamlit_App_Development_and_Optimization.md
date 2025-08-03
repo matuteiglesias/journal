@@ -1,6 +1,6 @@
 ---
 title: "Streamlit App Development and Optimization"
-tags: ['Streamlit', 'Python', 'Data Visualization', 'Job Applications', 'JSON Editor']
+tags: ['Streamlit', 'Python', 'Data Visualization', 'Job Applications', 'Json Editor']
 created: 2025-07-10
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-07-10 — Session: Streamlit App Development and Optimization
 
 **🕒 00:00–23:55**  
-**🏷️ Labels**: Streamlit, Python, Data Visualization, Job Applications, JSON Editor  
+**🏷️ Labels**: Streamlit, Python, Data Visualization, Job Applications, Json Editor  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to enhance and optimize a Streamlit application for job search and [[data visualization]], including error resolution and feature integration.
+The session aimed to enhance and optimize a Streamlit application for job search and data visualization, including error resolution and feature integration.
 
 ### Key Activities
 - Implemented best practices for Streamlit logging to ensure visibility of print statements and subprocess logs.
@@ -31,10 +31,10 @@ The session aimed to enhance and optimize a Streamlit application for job search
 - Developed an implementation plan for a [[JSON]] schema editor in Streamlit.
 
 ### Achievements
-- Successfully refactored and optimized the Streamlit application, improving UX and [[data visualization]] capabilities.
+- Successfully refactored and optimized the Streamlit application, improving UX and data visualization capabilities.
 - Resolved key configuration and error issues, enhancing the app's stability and functionality.
 - Integrated advanced features like live template editing and [[JSON]] schema editing.
 
 ### Pending Tasks
 - Further enhancements to the [[JSON]] editor integration for better usability.
-- Continuous [[optimization]] of the job candidate feedback schema.
+- Continuous optimization of the job candidate feedback schema.

@@ -1,6 +1,6 @@
 ---
 title: "Conducted comprehensive analysis of student solutions"
-tags: ['analysis', 'feedback', 'recursive functions', 'education', 'student evaluations']
+tags: ['Analysis', 'Feedback', 'Recursive Functions', 'Education', 'Student Evaluations']
 created: 2023-10-05
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-10-05 — Session: Conducted comprehensive analysis of student solutions
 
 **🕒 15:30–23:55**  
-**🏷️ Labels**: analysis, feedback, recursive functions, education, student evaluations  
+**🏷️ Labels**: Analysis, Feedback, Recursive Functions, Education, Student Evaluations  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Implemented data management naming and documentation"
-tags: ['data_management', 'documentation', 'naming_pattern', 'CSV', 'Markdown']
+tags: ['Data_Management', 'Documentation', 'Naming_Pattern', 'CSV', 'Markdown']
 created: 2023-09-25
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-25 — Session: Implemented data management naming and documentation
 
 **🕒 16:55–17:15**  
-**🏷️ Labels**: data_management, documentation, naming_pattern, CSV, Markdown  
+**🏷️ Labels**: Data_Management, Documentation, Naming_Pattern, CSV, Markdown  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -25,7 +25,7 @@ The goal of this session was to implement a new naming pattern for files in the 
 ### Achievements
 - Successfully adapted and documented the naming pattern for the 'matches' directory.
 - Structured and documented data paths and outputs for violence and DHS data.
-- Created comprehensive Markdown [[documentation]] templates for datasets.
+- Created comprehensive Markdown documentation templates for datasets.
 
 ### Pending Tasks
-- Review and validate the implemented naming patterns and [[documentation]] templates to ensure consistency and accuracy.
+- Review and validate the implemented naming patterns and documentation templates to ensure consistency and accuracy.

@@ -24,7 +24,7 @@ The session aimed to create comprehensive templates for documenting tenant payme
 - Presented a comprehensive payment voucher format to avoid transaction confusion.
 
 ### Achievements
-- Developed clear and legally compliant templates for payment [[documentation]].
+- Developed clear and legally compliant templates for payment documentation.
 
 ### Pending Tasks
 - Further refinement of templates based on user feedback or legal updates.

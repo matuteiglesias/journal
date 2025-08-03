@@ -1,6 +1,6 @@
 ---
 title: "Prepared Application for Career Commission Representative"
-tags: ['application', 'candidacy', 'email', 'instructions', 'graduate', 'data science']
+tags: ['Application', 'Candidacy', 'Email', 'Instructions', 'Graduate', 'Data Science']
 created: 2024-11-01
 publish: false
 ---
@@ -8,13 +8,13 @@ publish: false
 ## 📅 2024-11-01 — Session: Prepared Application for Career Commission Representative
 
 **🕒 17:00–17:45**  
-**🏷️ Labels**: application, candidacy, email, instructions, graduate, data science  
+**🏷️ Labels**: Application, Candidacy, Email, Instructions, Graduate, Data Science  
 **📂 Project**: JobMarket  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to prepare the necessary documents and instructions for Matías Nehuen Iglesias's application as a candidate for the Career Commission Representative in the Data Science degree program.
+The session aimed to prepare the necessary documents and instructions for Matías Nehuen Iglesias's application as a candidate for the Career Commission Representative in the [[Data Science]] degree program.
 
 ### Key Activities
 - Drafted an email template for the application process, detailing the requirements for candidacy.
@@ -25,7 +25,7 @@ The session aimed to prepare the necessary documents and instructions for Matía
 - Offered guidelines for structuring the email subject line in graduate applications to ensure proper categorization.
 
 ### Achievements
-Successfully compiled all necessary [[documentation]] and instructions for the candidacy application process.
+Successfully compiled all necessary documentation and instructions for the candidacy application process.
 
 ### Pending Tasks
 None identified. The session's objectives were fully achieved.

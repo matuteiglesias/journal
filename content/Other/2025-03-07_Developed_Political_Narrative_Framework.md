@@ -1,6 +1,6 @@
 ---
 title: "Developed Political Narrative Framework"
-tags: ['political narrative', 'reflection', 'docuseries', 'manual']
+tags: ['Political Narrative', 'Reflection', 'Docuseries', 'Manual']
 created: 2025-03-07
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-03-07 — Session: Developed Political Narrative Framework
 
 **🕒 18:15–18:45**  
-**🏷️ Labels**: political narrative, reflection, docuseries, manual  
+**🏷️ Labels**: Political Narrative, Reflection, Docuseries, Manual  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

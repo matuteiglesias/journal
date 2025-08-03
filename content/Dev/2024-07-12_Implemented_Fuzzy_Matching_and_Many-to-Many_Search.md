@@ -1,6 +1,6 @@
 ---
 title: "Implemented Fuzzy Matching and Many-to-Many Search"
-tags: ['fuzzy matching', 'Elasticsearch', 'Python', 'data processing', 'entity recognition']
+tags: ['Fuzzy Matching', 'Elasticsearch', 'Python', 'Data Processing', 'Entity Recognition']
 created: 2024-07-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-07-12 — Session: Implemented Fuzzy Matching and Many-to-Many Search
 
 **🕒 03:05–03:55**  
-**🏷️ Labels**: fuzzy matching, Elasticsearch, Python, data processing, entity recognition  
+**🏷️ Labels**: Fuzzy Matching, Elasticsearch, Python, Data Processing, Entity Recognition  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -24,8 +24,8 @@ The goal of this session was to implement a many-to-many search mechanism linkin
 ### Achievements
 - Successfully implemented a many-to-many search mechanism using Elasticsearch.
 - Developed a robust fuzzy matching system for entity recognition between data frames.
-- Created reusable [[Python]] code for fuzzy matching and [[data processing]] tasks.
+- Created reusable [[Python]] code for fuzzy matching and data processing tasks.
 
 ### Pending Tasks
-- Further [[optimization]] of the fuzzy matching algorithm for larger datasets.
-- [[Integration]] of the current implementation into a larger [[data processing]] pipeline.
+- Further optimization of the fuzzy matching algorithm for larger datasets.
+- [[Integration]] of the current implementation into a larger data processing pipeline.

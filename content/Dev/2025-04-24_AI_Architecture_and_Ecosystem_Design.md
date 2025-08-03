@@ -1,6 +1,6 @@
 ---
 title: "AI Architecture and Ecosystem Design"
-tags: ['AI Architecture', 'Ecosystem Design', 'Orchestration', 'Personal Development', 'Professional Development']
+tags: ['Ai Architecture', 'Ecosystem Design', 'Orchestration', 'Personal Development', 'Professional Development']
 created: 2025-04-24
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-24 — Session: AI Architecture and Ecosystem Design
 
 **🕒 16:50–18:10**  
-**🏷️ Labels**: AI Architecture, Ecosystem Design, Orchestration, Personal Development, Professional Development  
+**🏷️ Labels**: Ai Architecture, Ecosystem Design, Orchestration, Personal Development, Professional Development  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

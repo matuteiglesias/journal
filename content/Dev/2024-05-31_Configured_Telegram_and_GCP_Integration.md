@@ -25,7 +25,7 @@ The session aimed to configure and integrate Telegram with [[Google Cloud]] Plat
 
 ### Achievements
 - Successfully integrated Telegram with GCP and Google Calendar.
-- Configured Gmail's IMAP server for email [[automation]].
+- Configured Gmail's IMAP server for email automation.
 - Resolved several common errors in application configuration and testing.
 
 ### Pending Tasks

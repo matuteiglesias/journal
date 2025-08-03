@@ -26,7 +26,7 @@ The session aimed to enhance understanding of key financial statements and explo
 - **Salary Negotiation**: Discussed salary expectations for remote quantitative analyst roles in Argentina.
 
 ### Achievements
-- Gained insights into financial statement analysis and its application in business [[strategy]].
+- Gained insights into financial statement analysis and its application in business strategy.
 - Developed strategies for career advancement in quantitative finance.
 
 ### Pending Tasks

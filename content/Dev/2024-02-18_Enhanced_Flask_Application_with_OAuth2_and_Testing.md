@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Flask Application with OAuth2 and Testing"
-tags: ['Flask', 'OAuth2', 'Testing', 'Python', 'Web Development']
+tags: ['Flask', 'Oauth2', 'Testing', 'Python', 'Web Development']
 created: 2024-02-18
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-02-18 — Session: Enhanced Flask Application with OAuth2 and Testing
 
 **🕒 22:20–23:40**  
-**🏷️ Labels**: Flask, OAuth2, Testing, Python, Web Development  
+**🏷️ Labels**: Flask, Oauth2, Testing, Python, Web Development  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

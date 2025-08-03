@@ -19,7 +19,7 @@ The session aimed to enhance and optimize a [[JSON]] export function in [[Python
 ### Key Activities
 - Modified a data update function to append new data points while avoiding unwanted columns.
 - Implemented nesting of data by 'observable' and 'sintetico' categories using [[Python]] and [[Pandas]].
-- Conducted a code review and [[optimization]] of the [[JSON]] export function to eliminate variable duplication and redundancy.
+- Conducted a code review and optimization of the [[JSON]] export function to eliminate variable duplication and redundancy.
 - Designed a hierarchical [[JSON]] export function to organize data by 'observable' and 'sintetico', ensuring proper nesting and updates to existing records.
 - Addressed a KeyError in the [[JSON]] export function by ensuring proper access to necessary columns before dropping them.
 - Modified the [[JSON]] export function to handle quarterly data, ensuring each record represents a dictionary of quarters and their associated values.
@@ -30,4 +30,4 @@ The session aimed to enhance and optimize a [[JSON]] export function in [[Python
 
 ### Pending Tasks
 - Further testing of the [[JSON]] export function with diverse datasets to ensure robustness and accuracy.
-- Consideration of additional data structures or formats that may benefit from similar [[optimization]] techniques.
+- Consideration of additional data structures or formats that may benefit from similar optimization techniques.

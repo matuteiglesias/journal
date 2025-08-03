@@ -1,6 +1,6 @@
 ---
 title: "Developed Family Financial Management Guides"
-tags: ['family finance', 'business model', 'investment', 'financial strategy', 'management', 'guides']
+tags: ['Family Finance', 'Business Model', 'Investment', 'Financial Strategy', 'Management', 'Guides']
 created: 2024-11-19
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-19 — Session: Developed Family Financial Management Guides
 
 **🕒 01:45–03:50**  
-**🏷️ Labels**: family finance, business model, investment, financial strategy, management, guides  
+**🏷️ Labels**: Family Finance, Business Model, Investment, Financial Strategy, Management, Guides  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

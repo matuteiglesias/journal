@@ -23,7 +23,7 @@ The session aimed to compile and organize financial data from 2021 to 2024 into 
 
 ### Achievements
 - Successfully gathered and reviewed [[CSV]] data for each year from 2021 to 2024.
-- Identified the need for a unified Excel file to streamline [[data analysis]] and reporting.
+- Identified the need for a unified Excel file to streamline data analysis and reporting.
 
 ### Pending Tasks
 - Consolidate the reviewed [[CSV]] data into a single Excel file for comprehensive analysis.

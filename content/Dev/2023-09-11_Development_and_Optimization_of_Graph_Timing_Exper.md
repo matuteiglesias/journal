@@ -1,6 +1,6 @@
 ---
 title: "Development and Optimization of Graph Timing Experiments"
-tags: ['graph theory', 'timing experiment', 'Python', 'error handling']
+tags: ['Graph Theory', 'Timing Experiment', 'Python', 'Error Handling']
 created: 2023-09-11
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-11 — Session: Development and Optimization of Graph Timing Experiments
 
 **🕒 17:30–18:50**  
-**🏷️ Labels**: graph theory, timing experiment, Python, error handling  
+**🏷️ Labels**: Graph Theory, Timing Experiment, Python, Error Handling  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -30,4 +30,4 @@ The primary goal of this session was to develop and optimize functions for gener
 
 ### Pending Tasks
 - Further optimize the `timing_experiment()` function to handle larger datasets efficiently.
-- Continue [[debugging]] and refining [[error handling]] in graph operations, particularly in edge removal and adjacency checks.
+- Continue debugging and refining error handling in graph operations, particularly in edge removal and adjacency checks.

@@ -30,7 +30,7 @@ The session aimed to explore and develop frameworks and business models for [[AI
 ### Achievements
 - Established a comprehensive framework for [[AI]]-powered political consultancy and intelligence.
 - Developed strategic business models and workflows for political consulting.
-- Enhanced organizational efficiency through directory and README [[automation]].
+- Enhanced organizational efficiency through directory and README automation.
 
 ### Pending Tasks
 - Implementation of the proposed business models and workflows.

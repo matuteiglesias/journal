@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Email Ingestion and Database Schema Update"
-tags: ['email ingestion', 'database schema', 'Python', 'automation', 'debugging']
+tags: ['Email Ingestion', 'Database Schema', 'Python', 'Automation', 'Debugging']
 created: 2024-12-01
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-01 — Session: Enhanced Email Ingestion and Database Schema Update
 
 **🕒 16:30–17:45**  
-**🏷️ Labels**: email ingestion, database schema, Python, automation, debugging  
+**🏷️ Labels**: Email Ingestion, Database Schema, Python, Automation, Debugging  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -21,10 +21,10 @@ The main goal of this session was to enhance the email ingestion process by inte
 - Modified the email ingestion script to include Gmail labels using the X-GM-LABELS extension.
 - Updated the database schema to store email labels and sizes in KB, with the necessary SQL commands and [[Python]] code.
 - Troubleshot access issues with the database file, verifying file path, existence, and permissions.
-- Developed a [[strategy]] for improved email parsing, focusing on extracting message IDs and labels.
+- Developed a strategy for improved email parsing, focusing on extracting message IDs and labels.
 - Debugged and corrected errors in the `mail.fetch` command and the `cursor.execute` method in [[Python]].
 - Enhanced the email parsing code to filter out unnecessary metadata and focus on relevant custom labels.
-- Provided a [[Python]] script for [[debugging]] email label extraction logic.
+- Provided a [[Python]] script for debugging email label extraction logic.
 - Outlined a framework for annotating emails to train a tailored agent.
 
 ### Achievements

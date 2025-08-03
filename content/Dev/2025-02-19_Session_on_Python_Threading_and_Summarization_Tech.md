@@ -1,6 +1,6 @@
 ---
 title: "Session on Python Threading and Summarization Techniques"
-tags: ['Python', 'Threading', 'Summarization', 'PDF Extraction', 'Cloud Provisioning', 'S3 Storage']
+tags: ['Python', 'Threading', 'Summarization', 'Pdf Extraction', 'Cloud Provisioning', 'S3 Storage']
 created: 2025-02-19
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-19 — Session: Session on Python Threading and Summarization Techniques
 
 **🕒 19:40–21:50**  
-**🏷️ Labels**: Python, Threading, Summarization, PDF Extraction, Cloud Provisioning, S3 Storage  
+**🏷️ Labels**: Python, Threading, Summarization, Pdf Extraction, Cloud Provisioning, S3 Storage  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -18,7 +18,7 @@ The session aimed to explore best practices in [[Python]] threading, PDF text ex
 
 ### Key Activities
 - Discussed thread safety in [[Python]], focusing on lock usage and data integrity.
-- Developed an efficient PDF text extraction function with [[error handling]].
+- Developed an efficient PDF text extraction function with error handling.
 - Analyzed a PDF text extraction interruption to identify failure points.
 - Explored cloud provisioning and SaaS design, covering scalability and security.
 - Created a customizable text summarizer using [[Python]], with command-line options for flexibility.
@@ -34,6 +34,6 @@ The session aimed to explore best practices in [[Python]] threading, PDF text ex
 - Conducted a critical analysis of summarization models.
 
 ### Pending Tasks
-- Further [[optimization]] of the PDF text extraction function.
+- Further optimization of the PDF text extraction function.
 - Implementation of recommendations from the summarization model analysis.
 - Exploration of additional backup strategies for S3 storage.

@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Task Scheduling with OR-Tools"
-tags: ['task scheduling', 'OR-Tools', 'Python', 'constraints', 'DataFrame']
+tags: ['Task Scheduling', 'Or-Tools', 'Python', 'Constraints', 'Dataframe']
 created: 2024-10-26
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-26 — Session: Enhanced Task Scheduling with OR-Tools
 
 **🕒 21:10–22:25**  
-**🏷️ Labels**: task scheduling, OR-Tools, Python, constraints, DataFrame  
+**🏷️ Labels**: Task Scheduling, Or-Tools, Python, Constraints, Dataframe  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: true
 The session aimed to enhance a task scheduling system using [[Python]] and Google OR-Tools, focusing on dynamic constraint management and multi-day task distribution.
 
 ### Key Activities
-- Developed a three-day task scheduling [[workflow]] using OR-Tools and [[Pandas]] for calendar visualization.
+- Developed a three-day task scheduling workflow using OR-Tools and [[Pandas]] for calendar visualization.
 - Implemented a scheduling model with [[CSV]] constraints, addressing data type conversion issues.
 - Enhanced dynamic constraint processing and troubleshooting infeasibility in scheduling models.
 - Fixed TypeErrors and indexing errors in task instance handling, ensuring accurate DataFrame population.
@@ -30,4 +30,4 @@ The session aimed to enhance a task scheduling system using [[Python]] and Googl
 
 ### Pending Tasks
 - Further testing and validation of the scheduling system under different scenarios.
-- Optimization of constraint processing to improve performance.
+- [[Optimization]] of constraint processing to improve performance.

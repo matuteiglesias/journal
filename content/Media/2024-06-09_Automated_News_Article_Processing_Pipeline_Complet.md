@@ -1,6 +1,6 @@
 ---
 title: "Automated News Article Processing Pipeline Completion"
-tags: ['news processing', 'automation', 'NLP', 'BERT', 'data extraction']
+tags: ['News Processing', 'Automation', 'NLP', 'BERT', 'Data Extraction']
 created: 2024-06-09
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-06-09 — Session: Automated News Article Processing Pipeline Completion
 
 **🕒 16:30–18:30**  
-**🏷️ Labels**: news processing, automation, NLP, BERT, data extraction  
+**🏷️ Labels**: News Processing, Automation, NLP, BERT, Data Extraction  
 **📂 Project**: Media  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: true
 The primary goal of this session was to finalize the development of an automated pipeline for processing news articles, including scraping, extraction, classification, and analysis.
 
 ### Key Activities
-- Reviewed techniques for information extraction and summarization, focusing on entity recognition and [[data processing]].
+- Reviewed techniques for information extraction and summarization, focusing on entity recognition and data processing.
 - Planned and executed workflows for web scraping using Newspaper3k and database setup for storing extracted data.
 - Implemented initial news scraping and extraction workflows in [[Python]], with future [[NLP]] tasks planned.
 - Analyzed article titles related to Argentine politics, categorizing them into key themes.

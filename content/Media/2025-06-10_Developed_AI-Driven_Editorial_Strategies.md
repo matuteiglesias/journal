@@ -1,6 +1,6 @@
 ---
 title: "Developed AI-Driven Editorial Strategies"
-tags: ['AI curation', 'editorial workflow', 'news strategy', 'content creation', 'economic analysis']
+tags: ['Ai Curation', 'Editorial Workflow', 'News Strategy', 'Content Creation', 'Economic Analysis']
 created: 2025-06-10
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-06-10 — Session: Developed AI-Driven Editorial Strategies
 
 **🕒 18:15–19:50**  
-**🏷️ Labels**: AI curation, editorial workflow, news strategy, content creation, economic analysis  
+**🏷️ Labels**: Ai Curation, Editorial Workflow, News Strategy, Content Creation, Economic Analysis  
 **📂 Project**: Media  
 **⭐ Priority**: MEDIUM  
 
@@ -21,7 +21,7 @@ The goal of this session was to evaluate and develop strategies for an [[AI]]-dr
 - Outlined strategies for building a sustainable [[AI]]-driven news outlet, addressing challenges like copyright and editorial integrity.
 - Brainstormed potential value propositions for a news outlet, focusing on curation and community engagement.
 - Designed an [[AI]]-augmented editorial pipeline, emphasizing human oversight and SOPs.
-- Analyzed the 'Article Stack' model for editorial operations, suggesting [[workflow]] improvements.
+- Analyzed the 'Article Stack' model for editorial operations, suggesting workflow improvements.
 - Developed a dashboard for organizing articles into editorial agendas, focusing on topic clustering and summarization.
 - Structured seed cards for article drafting, particularly on economic topics like Argentina's middle class and inflation.
 - Drafted articles and analyzed editorial drafts for quality and coherence.

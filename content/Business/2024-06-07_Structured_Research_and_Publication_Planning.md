@@ -1,6 +1,6 @@
 ---
 title: "Structured Research and Publication Planning"
-tags: ['economics', 'research', 'publication', 'strategy', 'international trade', 'empirical analysis']
+tags: ['Economics', 'Research', 'Publication', 'Strategy', 'International Trade', 'Empirical Analysis']
 created: 2024-06-07
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-06-07 — Session: Structured Research and Publication Planning
 
 **🕒 19:30–20:05**  
-**🏷️ Labels**: economics, research, publication, strategy, international trade, empirical analysis  
+**🏷️ Labels**: Economics, Research, Publication, Strategy, International Trade, Empirical Analysis  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -29,7 +29,7 @@ The session aimed to structure research work and develop a strategic publication
 
 ### Achievements
 - Completed the structuring of research outlines and frameworks for various economic topics.
-- Established a clear publication [[strategy]] for disseminating research findings.
+- Established a clear publication strategy for disseminating research findings.
 
 ### Pending Tasks
 - Finalize the drafts of the research papers and submit them to the identified journals.

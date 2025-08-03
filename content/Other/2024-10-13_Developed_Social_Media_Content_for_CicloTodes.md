@@ -1,6 +1,6 @@
 ---
 title: "Developed Social Media Content for CicloTodes"
-tags: ['CicloTodes', 'cycling', 'community', 'social media', 'motivation']
+tags: ['Ciclotodes', 'Cycling', 'Community', 'Social Media', 'Motivation']
 created: 2024-10-13
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-13 — Session: Developed Social Media Content for CicloTodes
 
 **🕒 15:10–15:35**  
-**🏷️ Labels**: CicloTodes, cycling, community, social media, motivation  
+**🏷️ Labels**: Ciclotodes, Cycling, Community, Social Media, Motivation  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

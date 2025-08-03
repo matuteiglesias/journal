@@ -24,7 +24,7 @@ The goal of this session was to set up a Selenium-based web scraping pipeline, a
 - **Handling File Operations**: Managed JSONL and [[CSV]] file operations in pandas, ensuring consistent naming and organization.
 - **[[CSV]] Structure Review**: Reviewed and suggested improvements for [[CSV]] structure, focusing on data integrity and encoding.
 - **Script Updates**: Updated scripts for processing SERP data, emphasizing HTML decoding and [[CSV]] output consistency.
-- **Refactoring Code**: Refactored batch processing logic to improve code quality and eliminate duplication.
+- **[[Refactoring]] Code**: Refactored batch processing logic to improve code quality and eliminate duplication.
 
 ### Achievements
 - Successfully set up and refined a Selenium-based web scraping pipeline.
@@ -32,5 +32,5 @@ The goal of this session was to set up a Selenium-based web scraping pipeline, a
 - Enhanced code quality through refactoring.
 
 ### Pending Tasks
-- Further [[optimization]] of the web scraping pipeline for efficiency.
+- Further optimization of the web scraping pipeline for efficiency.
 - Continued evaluation of data storage formats for scalability.

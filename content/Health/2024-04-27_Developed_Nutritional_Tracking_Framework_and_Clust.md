@@ -1,6 +1,6 @@
 ---
 title: "Developed Nutritional Tracking Framework and Clustering"
-tags: ['nutrition', 'diet', 'clustering', 'data_analysis', 'macronutrients']
+tags: ['Nutrition', 'Diet', 'Clustering', 'Data_Analysis', 'Macronutrients']
 created: 2024-04-27
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-04-27 — Session: Developed Nutritional Tracking Framework and Clustering
 
 **🕒 14:55–17:00**  
-**🏷️ Labels**: nutrition, diet, clustering, data_analysis, macronutrients  
+**🏷️ Labels**: Nutrition, Diet, Clustering, Data_Analysis, Macronutrients  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 
@@ -29,4 +29,4 @@ The session aimed to refine nutritional tracking methods and explore clustering 
 
 ### Pending Tasks
 - Further refine the clustering model to improve accuracy and interpretability.
-- Integrate findings into a broader nutritional management system for continuous dietary [[optimization]].
+- Integrate findings into a broader nutritional management system for continuous dietary optimization.

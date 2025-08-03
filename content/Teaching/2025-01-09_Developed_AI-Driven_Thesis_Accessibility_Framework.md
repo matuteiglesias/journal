@@ -21,12 +21,12 @@ The session aimed to develop a comprehensive framework for leveraging [[AI]] to 
 - Outlined a structured approach to enhance the accessibility of a thesis on micro agents and macroeconomic phenomena, with tailored content strategies for various audiences.
 - Developed a layered thesis summary structure with guiding questions and focus areas.
 - Designed prompts for different thesis slices to engage various audiences effectively.
-- Created a strategic [[communication]] framework for thesis dissemination, including social media, workshops, and visual content.
+- Created a strategic communication framework for thesis dissemination, including social media, workshops, and visual content.
 
 ### Achievements
-- Established a comprehensive [[AI]]-driven [[workflow]] for content generation and dissemination.
-- Developed strategies for audience targeting and engagement through various [[communication]] channels.
+- Established a comprehensive [[AI]]-driven workflow for content generation and dissemination.
+- Developed strategies for audience targeting and engagement through various communication channels.
 
 ### Pending Tasks
-- Implement the [[AI]]-driven [[workflow]] for thesis content generation.
-- Test and refine the [[communication]] strategies across different platforms.
+- Implement the [[AI]]-driven workflow for thesis content generation.
+- Test and refine the communication strategies across different platforms.

@@ -1,6 +1,6 @@
 ---
 title: "Integrated Gmail with n8n using OAuth2"
-tags: ['n8n', 'Gmail', 'OAuth2', 'Google Cloud', 'Automation']
+tags: ['N8N', 'Gmail', 'Oauth2', 'Google Cloud', 'Automation']
 created: 2024-12-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-12 — Session: Integrated Gmail with n8n using OAuth2
 
 **🕒 22:00–22:45**  
-**🏷️ Labels**: n8n, Gmail, OAuth2, Google Cloud, Automation  
+**🏷️ Labels**: N8N, Gmail, Oauth2, Google Cloud, Automation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -33,4 +33,4 @@ The goal of this session was to set up and integrate Gmail with n8n using OAuth2
 
 ### Pending Tasks
 - Further testing and validation of the integration to ensure stability and security.
-- Explore additional [[automation]] opportunities using the current setup.
+- Explore additional automation opportunities using the current setup.

@@ -1,6 +1,6 @@
 ---
 title: "Developed Strategic and Quality Management Plans"
-tags: ['strategic planning', 'quality management', 'ISO standards', 'public security', 'project management']
+tags: ['Strategic Planning', 'Quality Management', 'Iso Standards', 'Public Security', 'Project Management']
 created: 2024-02-13
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-02-13 — Session: Developed Strategic and Quality Management Plans
 
 **🕒 00:05–03:00**  
-**🏷️ Labels**: strategic planning, quality management, ISO standards, public security, project management  
+**🏷️ Labels**: Strategic Planning, Quality Management, Iso Standards, Public Security, Project Management  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -24,7 +24,7 @@ The session aimed to develop strategic and quality management plans for the Dire
 - Detailed the integration of quality management and information security systems, including a multidisciplinary team structure and implementation timeline.
 - Provided initial steps for implementing a Quality Management System (QMS), emphasizing scope definition, team formation, and initial analysis.
 - Created detailed checklists for the first three months of the QMS project, focusing on scope definition, team consolidation, and internal audits.
-- Detailed roles and responsibilities for [[documentation]] development in the QMS project.
+- Detailed roles and responsibilities for documentation development in the QMS project.
 
 ### Achievements
 - Established a comprehensive strategic plan for public security and a quality improvement framework for the Ministry's software development team.

@@ -1,6 +1,6 @@
 ---
 title: "Critical Assessment and Planning of Economic Theories"
-tags: ['economic theory', 'macro stability', 'firm dynamics', 'content strategy', 'economic models']
+tags: ['Economic Theory', 'Macro Stability', 'Firm Dynamics', 'Content Strategy', 'Economic Models']
 created: 2025-01-13
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-13 — Session: Critical Assessment and Planning of Economic Theories
 
 **🕒 16:45–19:40**  
-**🏷️ Labels**: economic theory, macro stability, firm dynamics, content strategy, economic models  
+**🏷️ Labels**: Economic Theory, Macro Stability, Firm Dynamics, Content Strategy, Economic Models  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -30,7 +30,7 @@ The session aimed to critically assess and plan various economic theories and fr
 
 ### Pending Tasks
 - Further development of the proposed blog post on economic volatility.
-- Implementation of the content [[strategy]] for economics writing.
+- Implementation of the content strategy for economics writing.
 - Continued exploration of the 'postponement' concept in economic aggregation.
 
 ### Session Summary

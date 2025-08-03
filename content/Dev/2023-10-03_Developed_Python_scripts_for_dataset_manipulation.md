@@ -1,6 +1,6 @@
 ---
 title: "Developed Python scripts for dataset manipulation"
-tags: ['Python', 'pandas', 'data manipulation', 'DataFrames', 'scripting']
+tags: ['Python', 'Pandas', 'Data Manipulation', 'Dataframes', 'Scripting']
 created: 2023-10-03
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-10-03 — Session: Developed Python scripts for dataset manipulation
 
 **🕒 16:10–16:35**  
-**🏷️ Labels**: Python, pandas, data manipulation, DataFrames, scripting  
+**🏷️ Labels**: Python, Pandas, Data Manipulation, Dataframes, Scripting  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

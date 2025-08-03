@@ -1,6 +1,6 @@
 ---
 title: "Collaboration Strategy with Mariana on AI in Legislative Context"
-tags: ['collaboration', 'AI', 'legislation', 'brainstorming', 'coaching']
+tags: ['Collaboration', 'AI', 'Legislation', 'Brainstorming', 'Coaching']
 created: 2024-05-30
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-05-30 — Session: Collaboration Strategy with Mariana on AI in Legislative Context
 
 **🕒 17:40–18:10**  
-**🏷️ Labels**: collaboration, AI, legislation, brainstorming, coaching  
+**🏷️ Labels**: Collaboration, AI, Legislation, Brainstorming, Coaching  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -20,7 +20,7 @@ The session aimed to enhance collaboration between Matías and Mariana, focusing
 - Managed professional relationship with Mariana.
 - Sent a PDF of diffcheck to Mariana for detecting changes in legislative texts.
 - Planned a brainstorming session on [[AI]] integration in legislative contexts.
-- Developed a coaching [[strategy]] to improve [[communication]] and collaboration.
+- Developed a coaching strategy to improve communication and collaboration.
 
 ### Achievements
 - Established a structured approach for collaboration.

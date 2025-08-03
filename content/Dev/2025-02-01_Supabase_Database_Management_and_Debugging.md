@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance the management and [[debugging]] of Supabase databases by implementing structured approaches for storing text chunks, fetching table information, and resolving various [[API]] and database-related errors.
+The session aimed to enhance the management and debugging of Supabase databases by implementing structured approaches for storing text chunks, fetching table information, and resolving various [[API]] and database-related errors.
 
 ### Key Activities
 - Developed a structured approach for storing and managing text chunks in Supabase, including database schema design and function implementation for data upload and retrieval.

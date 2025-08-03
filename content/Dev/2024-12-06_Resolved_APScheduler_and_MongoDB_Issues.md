@@ -1,6 +1,6 @@
 ---
 title: "Resolved APScheduler and MongoDB Issues"
-tags: ['APScheduler', 'MongoDB', 'RabbitMQ', 'Job Extraction', 'Error Resolution']
+tags: ['Apscheduler', 'Mongodb', 'Rabbitmq', 'Job Extraction', 'Error Resolution']
 created: 2024-12-06
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-06 — Session: Resolved APScheduler and MongoDB Issues
 
 **🕒 17:20–19:00**  
-**🏷️ Labels**: APScheduler, MongoDB, RabbitMQ, Job Extraction, Error Resolution  
+**🏷️ Labels**: Apscheduler, Mongodb, Rabbitmq, Job Extraction, Error Resolution  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

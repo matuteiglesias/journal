@@ -1,6 +1,6 @@
 ---
 title: "Property Management and Financial Strategy Session"
-tags: ['property management', 'financial strategy', 'inheritance', 'family meeting', 'savings']
+tags: ['Property Management', 'Financial Strategy', 'Inheritance', 'Family Meeting', 'Savings']
 created: 2024-11-27
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-27 — Session: Property Management and Financial Strategy Session
 
 **🕒 06:00–06:15**  
-**🏷️ Labels**: property management, financial strategy, inheritance, family meeting, savings  
+**🏷️ Labels**: Property Management, Financial Strategy, Inheritance, Family Meeting, Savings  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -19,7 +19,7 @@ The session aimed to reflect on property management strategies, particularly foc
 ### Key Activities
 - Discussed the responsibilities and legal considerations for property management when facing negative net cash flow.
 - Proposed restructuring of property management, including renegotiations and legal advice.
-- Provided strategic and diplomatic advice for handling inheritance situations, emphasizing [[communication]] and alliance-building.
+- Provided strategic and diplomatic advice for handling inheritance situations, emphasizing communication and alliance-building.
 - Outlined a strategic task plan for midweek, focusing on job interview preparation and family meeting coordination.
 - Developed a detailed plan for a family meeting, emphasizing flexibility and relationship building.
 - Proposed the establishment of a $1,000 reserve fund to enhance financial security and promote responsible saving habits.

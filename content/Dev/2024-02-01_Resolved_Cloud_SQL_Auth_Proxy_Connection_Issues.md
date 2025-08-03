@@ -1,6 +1,6 @@
 ---
 title: "Resolved Cloud SQL Auth Proxy Connection Issues"
-tags: ['Cloud SQL', 'Auth Proxy', 'Troubleshooting', 'Database Connection']
+tags: ['Cloud Sql', 'Auth Proxy', 'Troubleshooting', 'Database Connection']
 created: 2024-02-01
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-02-01 — Session: Resolved Cloud SQL Auth Proxy Connection Issues
 
 **🕒 17:50–18:59**  
-**🏷️ Labels**: Cloud SQL, Auth Proxy, Troubleshooting, Database Connection  
+**🏷️ Labels**: Cloud Sql, Auth Proxy, Troubleshooting, Database Connection  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -30,4 +30,4 @@ The session aimed to resolve connection issues with the Cloud SQL Auth Proxy and
 
 ### Pending Tasks
 - Further testing of the Cloud SQL Auth Proxy in different environments to ensure robustness.
-- Update [[documentation]] with the latest troubleshooting steps and best practices.
+- Update documentation with the latest troubleshooting steps and best practices.

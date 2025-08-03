@@ -1,6 +1,6 @@
 ---
 title: "Structured Content Planning and Editorial Framework Development"
-tags: ['content planning', 'editorial framework', 'AI-enhanced', 'session logs', 'content architecture']
+tags: ['Content Planning', 'Editorial Framework', 'Ai-Enhanced', 'Session Logs', 'Content Architecture']
 created: 2025-06-02
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-02 — Session: Structured Content Planning and Editorial Framework Development
 
 **🕒 18:30–19:35**  
-**🏷️ Labels**: content planning, editorial framework, AI-enhanced, session logs, content architecture  
+**🏷️ Labels**: Content Planning, Editorial Framework, Ai-Enhanced, Session Logs, Content Architecture  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -23,8 +23,8 @@ The session aimed to develop a comprehensive framework for content planning and 
 - Developed a systematic approach to content planning based on session logs, focusing on thematic analysis and prioritization.
 - Applied a framework for auditing content from November session logs with a focus on audience alignment.
 - Structured a content architecture for editorial planning, consolidating logs into a hierarchical framework.
-- Created an editorial plan for family and financial management, focusing on [[communication]] and operational models.
-- Developed a strategic retrieval plan for cross-cutting materials, focusing on educational and [[communication]] content.
+- Created an editorial plan for family and financial management, focusing on communication and operational models.
+- Developed a strategic retrieval plan for cross-cutting materials, focusing on educational and communication content.
 
 ### Achievements
 - Established a structured editorial and content planning framework integrating [[AI]] and session logs.

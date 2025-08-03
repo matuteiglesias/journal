@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Analysis and Decompression of .rbfx Files"
-tags: ['.rbfx', 'LZMA1', 'data analysis', 'Python', 'compression']
+tags: ['.Rbfx', 'LZMA1', 'Data Analysis', 'Python', 'Compression']
 created: 2025-05-15
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-15 — Session: Comprehensive Analysis and Decompression of .rbfx Files
 
 **🕒 01:15–02:10**  
-**🏷️ Labels**: .rbfx, LZMA1, data analysis, Python, compression  
+**🏷️ Labels**: .Rbfx, LZMA1, Data Analysis, Python, Compression  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -21,7 +21,7 @@ The primary goal of this session was to explore and implement methods for the an
 - Prepared scripts for brute force search in LZMA1 blocks.
 - Debugged file offset detection in [[Python]] for binary files.
 - Decoded LZMA1 headers in compressed data using [[Python]].
-- Reviewed and rewrote critical text to improve [[communication]].
+- Reviewed and rewrote critical text to improve communication.
 - Critiqued and suggested improvements for a system redesign report.
 - Analyzed errors in LZMA decompression and suggested parser corrections.
 - Developed a script for intelligent header scanning in binary files.

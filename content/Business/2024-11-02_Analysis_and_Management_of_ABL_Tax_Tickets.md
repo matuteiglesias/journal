@@ -1,6 +1,6 @@
 ---
 title: "Analysis and Management of ABL Tax Tickets"
-tags: ['ABL', 'tax management', 'AGIP', 'duplicate payments', 'financial services']
+tags: ['ABL', 'Tax Management', 'AGIP', 'Duplicate Payments', 'Financial Services']
 created: 2024-11-02
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-02 — Session: Analysis and Management of ABL Tax Tickets
 
 **🕒 16:50–18:10**  
-**🏷️ Labels**: ABL, tax management, AGIP, duplicate payments, financial services  
+**🏷️ Labels**: ABL, Tax Management, AGIP, Duplicate Payments, Financial Services  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -18,7 +18,7 @@ The session aimed to analyze and manage various issues related to the ABL proper
 
 ### Key Activities
 - Conducted a detailed review of ABL tax tickets, identifying data errors and process similarities.
-- Summarized responses from different tax-related processes, emphasizing the use of the TAD platform and necessary [[documentation]].
+- Summarized responses from different tax-related processes, emphasizing the use of the TAD platform and necessary documentation.
 - Analyzed discrepancies in 'Double Payment' tickets, providing suggestions for improvement.
 - Created a template for filing complaints with AGIP regarding duplicate charges.
 - Evaluated options for canceling double payments through banks and credit cards, including legal implications.

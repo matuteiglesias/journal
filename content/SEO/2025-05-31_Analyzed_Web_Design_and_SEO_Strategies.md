@@ -20,7 +20,7 @@ The goal of this session was to analyze and provide feedback on various aspects 
 - Provided feedback on a professional web layout, suggesting enhancements for user experience.
 - Analyzed tech stack profiler results, identifying strengths and weaknesses.
 - Outlined [[SEO]] strategies for [[Docusaurus]] sites, focusing on structured data and schema.org.
-- Reviewed [[Docusaurus]] [[documentation]] examples for [[SEO]] and analytics.
+- Reviewed [[Docusaurus]] documentation examples for [[SEO]] and analytics.
 - Conducted analysis of BuiltWith summaries for johnnyreilly.com and PostHog, focusing on [[SEO]], UX, and analytics.
 
 ### Achievements

@@ -1,6 +1,6 @@
 ---
 title: "Evaluation and Ranking of Mathematical and Numerical Methods"
-tags: ['evaluation', 'ranking', 'mathematics', 'numerical methods', 'education']
+tags: ['Evaluation', 'Ranking', 'Mathematics', 'Numerical Methods', 'Education']
 created: 2024-11-24
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-11-24 — Session: Evaluation and Ranking of Mathematical and Numerical Methods
 
 **🕒 00:25–01:50**  
-**🏷️ Labels**: evaluation, ranking, mathematics, numerical methods, education  
+**🏷️ Labels**: Evaluation, Ranking, Mathematics, Numerical Methods, Education  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

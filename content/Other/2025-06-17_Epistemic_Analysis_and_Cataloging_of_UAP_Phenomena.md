@@ -1,6 +1,6 @@
 ---
 title: "Epistemic Analysis and Cataloging of UAP Phenomena"
-tags: ['UAP', 'epistemology', 'anomalies', 'crop circles', 'cattle mutilation']
+tags: ['UAP', 'Epistemology', 'Anomalies', 'Crop Circles', 'Cattle Mutilation']
 created: 2025-06-17
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-17 — Session: Epistemic Analysis and Cataloging of UAP Phenomena
 
 **🕒 08:10–09:55**  
-**🏷️ Labels**: UAP, epistemology, anomalies, crop circles, cattle mutilation  
+**🏷️ Labels**: UAP, Epistemology, Anomalies, Crop Circles, Cattle Mutilation  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

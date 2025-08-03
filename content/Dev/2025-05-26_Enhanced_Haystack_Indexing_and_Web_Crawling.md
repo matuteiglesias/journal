@@ -23,13 +23,13 @@ The session aimed to enhance document indexing in Haystack and improve web crawl
 - Developed a function `index_saved_md_files()` to integrate Markdown files into the Haystack pipeline.
 - Provided instructions for running a Streamlit app and resolving [[Python]] errors related to `Path.glob()` and Git `fetch` function.
 - Implemented and debugged web crawling functions using the Spider [[API]].
-- Proposed a web exploration [[strategy]] for positioning in the academic ecosystem.
+- Proposed a web exploration strategy for positioning in the academic ecosystem.
 
 ### Achievements
 - Successfully aligned [[JSON]] structures for improved indexing.
 - Enhanced web crawling scripts to save outputs in a more organized format.
-- Developed a comprehensive [[strategy]] for web exploration and academic positioning.
+- Developed a comprehensive strategy for web exploration and academic positioning.
 
 ### Pending Tasks
 - Further testing and validation of the new indexing and web crawling functions.
-- Implementation of the proposed web exploration [[strategy]].
+- Implementation of the proposed web exploration strategy.

@@ -1,6 +1,6 @@
 ---
 title: "Explored Graph Theory Theorems and Algorithms"
-tags: ['graph theory', 'algorithms', 'demonstrations', 'CSS', 'LaTeX']
+tags: ['Graph Theory', 'Algorithms', 'Demonstrations', 'CSS', 'Latex']
 created: 2023-09-26
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-09-26 — Session: Explored Graph Theory Theorems and Algorithms
 
 **🕒 14:40–17:20**  
-**🏷️ Labels**: graph theory, algorithms, demonstrations, CSS, LaTeX  
+**🏷️ Labels**: Graph Theory, Algorithms, Demonstrations, CSS, Latex  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

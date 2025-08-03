@@ -1,6 +1,6 @@
 ---
 title: "Developed Curriculum for Greedy Algorithms and Graphs"
-tags: ['greedy algorithms', 'graphs', 'curriculum design', 'education', 'graph theory']
+tags: ['Greedy Algorithms', 'Graphs', 'Curriculum Design', 'Education', 'Graph Theory']
 created: 2024-02-25
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-02-25 — Session: Developed Curriculum for Greedy Algorithms and Graphs
 
 **🕒 17:55–18:50**  
-**🏷️ Labels**: greedy algorithms, graphs, curriculum design, education, graph theory  
+**🏷️ Labels**: Greedy Algorithms, Graphs, Curriculum Design, Education, Graph Theory  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
@@ -24,8 +24,8 @@ The session aimed to develop a comprehensive curriculum for teaching Unit 4, foc
 - Revised a LaTeX document to improve clarity and structure related to graphs and algorithms.
 - Thematically organized graph theory exercises for better coherence and progression.
 - Proposed a title for a unit focused on advanced graph challenges, algorithm design, and modeling problems.
-- Explored advanced strategies in graph algorithms and [[optimization]], including innovative solutions and practical applications.
-- Developed a guide on advanced algorithms and data structures, focusing on [[optimization]] techniques in graphs and digraphs, and the application of the Bellman-Ford algorithm.
+- Explored advanced strategies in graph algorithms and optimization, including innovative solutions and practical applications.
+- Developed a guide on advanced algorithms and data structures, focusing on optimization techniques in graphs and digraphs, and the application of the Bellman-Ford algorithm.
 
 **Achievements:**
 - Completed a comprehensive curriculum framework for Unit 4, integrating greedy algorithms and graph concepts.

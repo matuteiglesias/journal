@@ -1,6 +1,6 @@
 ---
 title: "Developed Data Ingestion and Triage Systems"
-tags: ['data ingestion', 'keyword extraction', 'classification', 'automation', 'SQLite']
+tags: ['Data Ingestion', 'Keyword Extraction', 'Classification', 'Automation', 'Sqlite']
 created: 2024-10-02
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-02 — Session: Developed Data Ingestion and Triage Systems
 
 **🕒 03:30–04:10**  
-**🏷️ Labels**: data ingestion, keyword extraction, classification, automation, SQLite  
+**🏷️ Labels**: Data Ingestion, Keyword Extraction, Classification, Automation, Sqlite  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

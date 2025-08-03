@@ -1,6 +1,6 @@
 ---
 title: "SQL and Data Pipeline Analysis"
-tags: ['SQL', 'data pipelines', 'pandas', 'feedback', 'CTEs']
+tags: ['SQL', 'Data Pipelines', 'Pandas', 'Feedback', 'Ctes']
 created: 2025-06-04
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-06-04 — Session: SQL and Data Pipeline Analysis
 
 **🕒 00:00–01:20**  
-**🏷️ Labels**: SQL, data pipelines, pandas, feedback, CTEs  
+**🏷️ Labels**: SQL, Data Pipelines, Pandas, Feedback, Ctes  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -29,5 +29,5 @@ The session aimed to critically evaluate the use of SQL and data pipelines, focu
 - Provided actionable recommendations to enhance maintainability, scalability, and efficiency.
 
 ### Pending Tasks
-- Further exploration of SQL [[optimization]] techniques and best practices.
+- Further exploration of SQL optimization techniques and best practices.
 - Continued evaluation of data pipeline modularity and efficiency improvements.

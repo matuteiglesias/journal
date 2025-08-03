@@ -1,6 +1,6 @@
 ---
 title: "Focused Session on Life Maintenance"
-tags: ['focus', 'life maintenance', 'productivity', 'routine']
+tags: ['Focus', 'Life Maintenance', 'Productivity', 'Routine']
 created: 2025-06-29
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-29 — Session: Focused Session on Life Maintenance
 
 **🕒 22:10–22:40**  
-**🏷️ Labels**: focus, life maintenance, productivity, routine  
+**🏷️ Labels**: Focus, Life Maintenance, Productivity, Routine  
 **📂 Project**: Health  
 **⭐ Priority**: LOW  
 

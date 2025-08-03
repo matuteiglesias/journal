@@ -20,10 +20,10 @@ The primary goal of this session was to resolve multiple errors and refactor par
 - Resolved an `AttributeError` in the `datetime` module by ensuring consistent imports and usage patterns.
 - Fixed an `IsADirectoryError` when handling files in [[Python]] by providing a root cause analysis and code correction.
 - Refactored the `save_metadata` method in the `RunManager` class to properly handle file paths and directories.
-- Updated pipeline directory structure and standardized filenames for better [[automation]].
+- Updated pipeline directory structure and standardized filenames for better automation.
 - Addressed a path type mismatch in a file download function, ensuring correct directory paths.
 - Fixed file download logic in a [[Python]] function, providing robust implementation options.
-- Organized job match results using Streamlit, focusing on [[error handling]] and [[data visualization]].
+- Organized job match results using Streamlit, focusing on error handling and data visualization.
 - Conducted a mid-prototype review of a job search pipeline, identifying key components and improvement areas.
 - Provided grammatical corrections and sentence reformulations for content creation.
 - Developed a refinement plan for `config_tab.py`, proposing a modular and type-safe approach.

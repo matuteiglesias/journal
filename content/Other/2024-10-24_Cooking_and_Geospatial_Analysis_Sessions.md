@@ -1,6 +1,6 @@
 ---
 title: "Cooking and Geospatial Analysis Sessions"
-tags: ['cooking', 'geospatial', 'Python', 'recipe', 'data visualization']
+tags: ['Cooking', 'Geospatial', 'Python', 'Recipe', 'Data Visualization']
 created: 2024-10-24
 publish: false
 ---
@@ -8,17 +8,17 @@ publish: false
 ## 📅 2024-10-24 — Session: Cooking and Geospatial Analysis Sessions
 
 **🕒 00:00–23:55**  
-**🏷️ Labels**: cooking, geospatial, Python, recipe, data visualization  
+**🏷️ Labels**: Cooking, Geospatial, Python, Recipe, Data Visualization  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 
 
 ### Session Goals:
 - To explore and execute various cooking techniques and recipes using a pressure cooker.
-- To enhance geospatial [[data visualization]] skills using [[Python]] libraries.
+- To enhance geospatial data visualization skills using [[Python]] libraries.
 
 ### Key Activities:
-- **Cooking:**
+- **[[Cooking]]:**
   - Learned and executed recipes for black bean stew and bondiola stew using a pressure cooker.
   - Prepared different types of bread and vinaigrette, including focaccia with storage tips.
   - Explored seasoning techniques for a creamy lentils dish.
@@ -29,8 +29,8 @@ publish: false
 
 ### Achievements:
 - Successfully prepared multiple recipes with detailed instructions, enhancing culinary skills.
-- Developed and refined geospatial mapping techniques, improving [[data visualization]] capabilities.
+- Developed and refined geospatial mapping techniques, improving data visualization capabilities.
 
 ### Pending Tasks:
 - Further exploration of advanced seasoning techniques for various dishes.
-- Continued refinement of geospatial [[data visualization]], focusing on other regions.
+- Continued refinement of geospatial data visualization, focusing on other regions.

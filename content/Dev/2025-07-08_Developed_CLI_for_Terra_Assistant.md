@@ -17,7 +17,7 @@ publish: true
 The session focused on developing a command-line interface (CLI) for the Terra Assistant, aiming to enhance productization and streamline user interaction through both CLI and web UI components.
 
 ### Key Activities
-- Outlined a productization [[strategy]] for Terra Assistant, including CLI and web onboarding, installation scripts, and packaging.
+- Outlined a productization strategy for Terra Assistant, including CLI and web onboarding, installation scripts, and packaging.
 - Proposed a CLI-first design approach, detailing the structure and its integration with UI actions.
 - Created a CLI scaffold named `terra_assistant_cli.py` with placeholders for commands such as `init`, `fetch_emails`, and `triage_emails`.
 - Implemented key commands for the Email Assistant CLI, including setup, configuration validation, and email fetching.

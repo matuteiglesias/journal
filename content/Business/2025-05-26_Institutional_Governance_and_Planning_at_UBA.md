@@ -1,6 +1,6 @@
 ---
 title: "Institutional Governance and Planning at UBA"
-tags: ['institutional governance', 'UBA', 'data management', 'academic strategy', 'automation']
+tags: ['Institutional Governance', 'UBA', 'Data Management', 'Academic Strategy', 'Automation']
 created: 2025-05-26
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-05-26 — Session: Institutional Governance and Planning at UBA
 
 **🕒 03:05–03:40**  
-**🏷️ Labels**: institutional governance, UBA, data management, academic strategy, automation  
+**🏷️ Labels**: Institutional Governance, UBA, Data Management, Academic Strategy, Automation  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -19,7 +19,7 @@ The session aimed to organize and plan various institutional governance and educ
 ### Key Activities
 - Reviewed and summarized the functions and recent resolutions of the Consejo Directivo of the Faculty of Exact Sciences and Natural Sciences (UBA).
 - Compiled insights and proposals for cultural workshops, event planning, and academic programs.
-- Developed strategies for data management, including indexing and [[automation]] systems for institutional documents and educational practices.
+- Developed strategies for data management, including indexing and automation systems for institutional documents and educational practices.
 - Analyzed strategic positioning for Matías Iglesias within the UBA/FCEN ecosystem.
 
 ### Achievements
@@ -28,5 +28,5 @@ The session aimed to organize and plan various institutional governance and educ
 - Developed a strategic positioning map for academic roles and institutional reform.
 
 ### Pending Tasks
-- Implement the proposed indexing and [[automation]] systems.
+- Implement the proposed indexing and automation systems.
 - Further develop the strategic positioning map into actionable steps for Matías Iglesias.

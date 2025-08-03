@@ -1,6 +1,6 @@
 ---
 title: "Domain Report Analysis and Legal Guidance"
-tags: ['domain report', 'property analysis', 'legal guidance', 'OCR', 'inheritance']
+tags: ['Domain Report', 'Property Analysis', 'Legal Guidance', 'OCR', 'Inheritance']
 created: 2024-11-28
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-28 — Session: Domain Report Analysis and Legal Guidance
 
 **🕒 00:00–00:10**  
-**🏷️ Labels**: domain report, property analysis, legal guidance, OCR, inheritance  
+**🏷️ Labels**: Domain Report, Property Analysis, Legal Guidance, OCR, Inheritance  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

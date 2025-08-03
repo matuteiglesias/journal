@@ -1,6 +1,6 @@
 ---
 title: "Enhanced File Filtering and Bin-Packing Implementation"
-tags: ['Python', 'bin-packing', 'file management', 'automation']
+tags: ['Python', 'Bin-Packing', 'File Management', 'Automation']
 created: 2024-10-04
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-04 — Session: Enhanced File Filtering and Bin-Packing Implementation
 
 **🕒 21:15–21:35**  
-**🏷️ Labels**: Python, bin-packing, file management, automation  
+**🏷️ Labels**: Python, Bin-Packing, File Management, Automation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -23,9 +23,9 @@ The session aimed to enhance a [[Python]] script for processing Jupyter Notebook
 - Implemented a [[Python]] script to automate the retrieval and distribution of consigna notebooks into balanced chunks based on specified constraints.
 
 ### Achievements
-- Successfully enhanced the file filtering process to improve [[error handling]] and file management.
+- Successfully enhanced the file filtering process to improve error handling and file management.
 - Completed the implementation of a bin-packing algorithm to optimize consigna distribution.
 
 ### Pending Tasks
 - Further testing and validation of the bin-packing algorithm under different scenarios.
-- Documentation of the enhanced script and algorithm for future reference.
+- [[Documentation]] of the enhanced script and algorithm for future reference.

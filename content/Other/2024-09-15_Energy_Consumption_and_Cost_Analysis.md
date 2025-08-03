@@ -1,6 +1,6 @@
 ---
 title: "Energy Consumption and Cost Analysis"
-tags: ['energy consumption', 'cost analysis', 'efficiency', 'appliances', 'lighting']
+tags: ['Energy Consumption', 'Cost Analysis', 'Efficiency', 'Appliances', 'Lighting']
 created: 2024-09-15
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-09-15 — Session: Energy Consumption and Cost Analysis
 
 **🕒 19:55–20:55**  
-**🏷️ Labels**: energy consumption, cost analysis, efficiency, appliances, lighting  
+**🏷️ Labels**: Energy Consumption, Cost Analysis, Efficiency, Appliances, Lighting  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

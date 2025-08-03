@@ -1,6 +1,6 @@
 ---
 title: "Web Fraud Detection and OCR Configuration"
-tags: ['web_security', 'OCR', 'fraud_detection', 'text_extraction']
+tags: ['Web_Security', 'OCR', 'Fraud_Detection', 'Text_Extraction']
 created: 2024-12-11
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-12-11 — Session: Web Fraud Detection and OCR Configuration
 
 **🕒 15:00–17:20**  
-**🏷️ Labels**: web_security, OCR, fraud_detection, text_extraction  
+**🏷️ Labels**: Web_Security, OCR, Fraud_Detection, Text_Extraction  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 
@@ -18,7 +18,7 @@ The session aimed to address two main topics: identifying fraudulent websites an
 
 ### Key Activities
 - **Web Fraud Detection**: Reviewed practical steps to identify fraudulent websites, including domain verification, design analysis, and security certificate checks.
-- **OCR Configuration**: Identified and attempted to resolve configuration issues with OCR in Spanish, suggesting alternative approaches and preprocessing for improved text extraction.
+- **OCR [[Configuration]]**: Identified and attempted to resolve configuration issues with OCR in Spanish, suggesting alternative approaches and preprocessing for improved text extraction.
 
 ### Achievements
 - Gained insights into web security practices for fraud detection.

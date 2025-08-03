@@ -1,6 +1,6 @@
 ---
 title: "Structured Analysis of Linear Algebra Sessions"
-tags: ['linear algebra', 'eigenvalues', 'teaching', 'diagonalization', 'differential equations']
+tags: ['Linear Algebra', 'Eigenvalues', 'Teaching', 'Diagonalization', 'Differential Equations']
 created: 2024-10-22
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-22 — Session: Structured Analysis of Linear Algebra Sessions
 
 **🕒 16:00–16:40**  
-**🏷️ Labels**: linear algebra, eigenvalues, teaching, diagonalization, differential equations  
+**🏷️ Labels**: Linear Algebra, Eigenvalues, Teaching, Diagonalization, Differential Equations  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

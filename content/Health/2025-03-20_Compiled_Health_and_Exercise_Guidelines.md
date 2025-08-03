@@ -1,6 +1,6 @@
 ---
 title: "Compiled Health and Exercise Guidelines"
-tags: ['health', 'exercise', 'music', 'wellness', 'fitness']
+tags: ['Health', 'Exercise', 'Music', 'Wellness', 'Fitness']
 created: 2025-03-20
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-03-20 — Session: Compiled Health and Exercise Guidelines
 
 **🕒 23:10–23:20**  
-**🏷️ Labels**: health, exercise, music, wellness, fitness  
+**🏷️ Labels**: Health, Exercise, Music, Wellness, Fitness  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

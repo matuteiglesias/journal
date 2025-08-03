@@ -1,6 +1,6 @@
 ---
 title: "Debugging and Enhancing TelegramBot with SQLite"
-tags: ['TelegramBot', 'SQLite', 'Asynchronous', 'Debugging', 'Python']
+tags: ['Telegrambot', 'Sqlite', 'Asynchronous', 'Debugging', 'Python']
 created: 2024-10-01
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-01 — Session: Debugging and Enhancing TelegramBot with SQLite
 
 **🕒 00:10–02:30**  
-**🏷️ Labels**: TelegramBot, SQLite, Asynchronous, Debugging, Python  
+**🏷️ Labels**: Telegrambot, Sqlite, Asynchronous, Debugging, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -24,7 +24,7 @@ The session aimed to debug and enhance the TelegramBot implementation by address
 - **[[Troubleshooting]] Asynchronous Execution**: Resolved event loop hangs and database table creation issues in the `fetch_last_day_messages()` function.
 
 ### Achievements
-- Successfully debugged and enhanced the TelegramBot's database integration and asynchronous operations, ensuring smooth execution and [[error handling]].
+- Successfully debugged and enhanced the TelegramBot's database integration and asynchronous operations, ensuring smooth execution and error handling.
 
 ### Pending Tasks
 - Further testing and validation of the implemented solutions to ensure robustness in various scenarios.

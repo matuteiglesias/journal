@@ -1,6 +1,6 @@
 ---
 title: "Structured Product and Dataset Analysis"
-tags: ['product analysis', 'dataset', 'cooking', 'Linux troubleshooting', 'Brazilian recipes']
+tags: ['Product Analysis', 'Dataset', 'Cooking', 'Linux Troubleshooting', 'Brazilian Recipes']
 created: 2025-01-22
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-22 — Session: Structured Product and Dataset Analysis
 
 **🕒 16:45–19:05**  
-**🏷️ Labels**: product analysis, dataset, cooking, Linux troubleshooting, Brazilian recipes  
+**🏷️ Labels**: Product Analysis, Dataset, Cooking, Linux Troubleshooting, Brazilian Recipes  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to execute and troubleshoot Redatam and RedX processes on Ubuntu/Linux systems, ensuring smooth [[data processing]] and software functionality.
+The goal of this session was to execute and troubleshoot Redatam and RedX processes on Ubuntu/Linux systems, ensuring smooth data processing and software functionality.
 
 ### Key Activities
 - Executed Redatam7 Process on Ubuntu/Linux using Wine, providing guidance on alternatives for working with Redatam files.
@@ -32,4 +32,4 @@ The goal of this session was to execute and troubleshoot Redatam and RedX proces
 
 ### Pending Tasks
 - Further testing of Redatam and RedX processes in different Linux environments to ensure robustness.
-- Exploration of additional exportation methods and [[data processing]] techniques.
+- Exploration of additional exportation methods and data processing techniques.

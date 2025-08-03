@@ -21,7 +21,7 @@ The session aimed to optimize data structures for educational systems and implem
 2. **Google Sheets Simulation**: Explained how to simulate the 'stack' function from pandas in Google Sheets using ARRAYFORMULA, FLATTEN, and FILTER.
 3. **PEI Data Structure Proposal**: Presented a proposal to improve the PEI data structure by adopting a 'long' format for enhanced efficiency.
 4. **Google Sheets [[Automation]]**: Developed methods to extract the latest date using Google Sheets formulas like FILTER, SORT, and INDEX.
-5. **Excel Formula Implementation**: Provided Excel formulas for retrieving the latest date based on criteria, with detailed breakdowns and [[error handling]] strategies.
+5. **Excel Formula Implementation**: Provided Excel formulas for retrieving the latest date based on criteria, with detailed breakdowns and error handling strategies.
 
 ### Achievements
 - Completed a comprehensive redesign proposal for database tables in educational systems.

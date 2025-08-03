@@ -1,6 +1,6 @@
 ---
 title: "Markdown to PDF Conversion and Troubleshooting"
-tags: ['Markdown', 'PDF Conversion', 'Pandoc', 'wkhtmltopdf', 'CSS']
+tags: ['Markdown', 'Pdf Conversion', 'Pandoc', 'Wkhtmltopdf', 'CSS']
 created: 2023-12-29
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-12-29 — Session: Markdown to PDF Conversion and Troubleshooting
 
 **🕒 00:00–03:00**  
-**🏷️ Labels**: Markdown, PDF Conversion, Pandoc, wkhtmltopdf, CSS  
+**🏷️ Labels**: Markdown, Pdf Conversion, Pandoc, Wkhtmltopdf, CSS  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -26,7 +26,7 @@ The session aimed to enhance the process of converting Markdown documents to PDF
 
 ### Achievements
 - Developed comprehensive guides and templates for Markdown to PDF conversion.
-- Identified and resolved common errors in PDF generation, improving [[workflow]] efficiency.
+- Identified and resolved common errors in PDF generation, improving workflow efficiency.
 
 ### Pending Tasks
 - Further testing of CSS styles in diverse Markdown documents to ensure consistent PDF output.

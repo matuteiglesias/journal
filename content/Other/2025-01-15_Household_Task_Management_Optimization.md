@@ -1,6 +1,6 @@
 ---
 title: "Household Task Management Optimization"
-tags: ['task management', 'checklist', 'household chores', 'organization']
+tags: ['Task Management', 'Checklist', 'Household Chores', 'Organization']
 created: 2025-01-15
 publish: false
 ---
@@ -8,13 +8,13 @@ publish: false
 ## 📅 2025-01-15 — Session: Household Task Management Optimization
 
 **🕒 04:00–05:10**  
-**🏷️ Labels**: task management, checklist, household chores, organization  
+**🏷️ Labels**: Task Management, Checklist, Household Chores, Organization  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to optimize household [[task management]] by analyzing task frequencies and creating detailed checklists for various household chores.
+The session aimed to optimize household task management by analyzing task frequencies and creating detailed checklists for various household chores.
 
 ### Key Activities
 - Conducted a frequency analysis of household tasks to identify potential over-scheduling.

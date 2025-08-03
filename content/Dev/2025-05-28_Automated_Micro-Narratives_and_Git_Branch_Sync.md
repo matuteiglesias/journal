@@ -1,6 +1,6 @@
 ---
 title: "Automated Micro-Narratives and Git Branch Sync"
-tags: ['automation', 'git', 'macroeconomics', 'documentation', 'news aggregator']
+tags: ['Automation', 'Git', 'Macroeconomics', 'Documentation', 'News Aggregator']
 created: 2025-05-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-28 — Session: Automated Micro-Narratives and Git Branch Sync
 
 **🕒 08:00–08:40**  
-**🏷️ Labels**: automation, git, macroeconomics, documentation, news aggregator  
+**🏷️ Labels**: Automation, Git, Macroeconomics, Documentation, News Aggregator  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -28,11 +28,11 @@ The session aimed to automate the creation of micro-narratives from Argentine ma
 ### Achievements
 - Established a framework for automating narrative generation from macroeconomic data.
 - Successfully managed Git branch synchronization between `gh-pages` and `main`.
-- Enhanced [[documentation]] for public data repositories.
+- Enhanced documentation for public data repositories.
 
 ### Pending Tasks
 - Finalize the backend-focused news aggregator report.
-- Implement the [[automation]] [[strategy]] for micro-narratives.
+- Implement the automation strategy for micro-narratives.
 
 ### Status
 Completed

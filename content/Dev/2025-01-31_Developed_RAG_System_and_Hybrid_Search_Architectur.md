@@ -1,6 +1,6 @@
 ---
 title: "Developed RAG System and Hybrid Search Architecture"
-tags: ['RAG', 'Hybrid Search', 'LangChain', 'Chroma', 'RAGFlow', 'Automation']
+tags: ['RAG', 'Hybrid Search', 'Langchain', 'Chroma', 'Ragflow', 'Automation']
 created: 2025-01-31
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-01-31 — Session: Developed RAG System and Hybrid Search Architecture
 
 **🕒 00:10–03:10**  
-**🏷️ Labels**: RAG, Hybrid Search, LangChain, Chroma, RAGFlow, Automation  
+**🏷️ Labels**: RAG, Hybrid Search, Langchain, Chroma, Ragflow, Automation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -17,11 +17,11 @@ publish: true
 The session aimed to develop a comprehensive understanding and plan for implementing a Retrieval-Augmented Generation (RAG) system and a hybrid search architecture.
 
 ### Key Activities
-- Created a structured study plan for LangChain, Chroma, [[OpenAI]], and LlamaIndex.
+- Created a structured study plan for LangChain, Chroma, OpenAI, and LlamaIndex.
 - Developed a guide for building a RAG system with automated workflows, including file ingestion, chunking, embedding, and UI design.
-- Explored various products and services for RAG pipelines, focusing on [[data processing]] and embedding.
+- Explored various products and services for RAG pipelines, focusing on data processing and embedding.
 - Analyzed the `rag/app` section of the RAGFlow repository, identifying strengths, weaknesses, and potential enhancements.
-- Evaluated RAGFlow guides for knowledge base management and file management [[automation]].
+- Evaluated RAGFlow guides for knowledge base management and file management automation.
 - Proposed an architecture for a hybrid search system using LangChain, RAGFlow, Elasticsearch, Chroma, and Pinecone.
 - Outlined a 3-day project plan for implementing a hybrid RAG system.
 

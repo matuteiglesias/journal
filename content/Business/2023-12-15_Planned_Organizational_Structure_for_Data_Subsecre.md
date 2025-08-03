@@ -1,6 +1,6 @@
 ---
 title: "Planned Organizational Structure for Data Subsecretariat"
-tags: ['Data Subsecretariat', 'Organizational Structure', 'CTO', 'CDO', 'Ministry of Security']
+tags: ['Data Subsecretariat', 'Organizational Structure', 'CTO', 'CDO', 'Ministry Of Security']
 created: 2023-12-15
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-12-15 — Session: Planned Organizational Structure for Data Subsecretariat
 
 **🕒 13:10–13:55**  
-**🏷️ Labels**: Data Subsecretariat, Organizational Structure, CTO, CDO, Ministry of Security  
+**🏷️ Labels**: Data Subsecretariat, Organizational Structure, CTO, CDO, Ministry Of Security  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -24,7 +24,7 @@ The session aimed to plan and document the organizational structure and distribu
 - Outlined the responsibilities and importance of key roles such as the Chief Data Officer, Director of [[Data Analysis]], Data Scientist, and Political Relations Coordinator.
 
 ### Achievements
-- Completed the planning and [[documentation]] of the organizational structure for the Data Subsecretariat, clarifying roles and responsibilities to align data initiatives with the Ministry's objectives.
+- Completed the planning and documentation of the organizational structure for the Data Subsecretariat, clarifying roles and responsibilities to align data initiatives with the Ministry's objectives.
 
 ### Pending Tasks
-- Further detail the integration plan with other Ministry areas and finalize the [[documentation]] for implementation.
+- Further detail the integration plan with other Ministry areas and finalize the documentation for implementation.

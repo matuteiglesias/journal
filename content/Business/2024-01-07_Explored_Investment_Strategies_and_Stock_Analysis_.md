@@ -1,6 +1,6 @@
 ---
 title: "Explored Investment Strategies and Stock Analysis for 2024"
-tags: ['investment', 'stock analysis', 'AI stocks', 'diversification', 'risk management']
+tags: ['Investment', 'Stock Analysis', 'Ai Stocks', 'Diversification', 'Risk Management']
 created: 2024-01-07
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-01-07 — Session: Explored Investment Strategies and Stock Analysis for 2024
 
 **🕒 05:00–06:00**  
-**🏷️ Labels**: investment, stock analysis, AI stocks, diversification, risk management  
+**🏷️ Labels**: Investment, Stock Analysis, Ai Stocks, Diversification, Risk Management  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

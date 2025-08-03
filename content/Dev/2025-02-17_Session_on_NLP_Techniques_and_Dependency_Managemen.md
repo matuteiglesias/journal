@@ -1,6 +1,6 @@
 ---
 title: "Session on NLP Techniques and Dependency Management"
-tags: ['NLP', 'Python', 'Dependency Management', 'AI Optimization', 'Graph Systems']
+tags: ['NLP', 'Python', 'Dependency Management', 'Ai Optimization', 'Graph Systems']
 created: 2025-02-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-17 — Session: Session on NLP Techniques and Dependency Management
 
 **🕒 18:00–18:40**  
-**🏷️ Labels**: NLP, Python, Dependency Management, AI Optimization, Graph Systems  
+**🏷️ Labels**: NLP, Python, Dependency Management, Ai Optimization, Graph Systems  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

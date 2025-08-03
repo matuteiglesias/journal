@@ -30,4 +30,4 @@ The session aimed to diagnose and resolve various gaming issues encountered when
 
 ### Pending Tasks
 - Continuous monitoring of game performance post-fixes to ensure stability.
-- Further exploration of Vulkan configuration for [[optimization]].
+- Further exploration of Vulkan configuration for optimization.

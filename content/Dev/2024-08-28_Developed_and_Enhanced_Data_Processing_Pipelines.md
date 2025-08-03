@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to develop and enhance [[data processing]] pipelines for managing and analyzing product data efficiently.
+The session aimed to develop and enhance data processing pipelines for managing and analyzing product data efficiently.
 
 ### Key Activities
 1. **Scripts for Merging Data Files**: Implemented [[Python]] scripts to merge price, product, and store data files, ensuring outputs are saved in the correct directories.
@@ -22,7 +22,7 @@ The session aimed to develop and enhance [[data processing]] pipelines for manag
 3. **[[Web Scraping]] Limits**: Applied limits on the number of stores per chain in the `PreciosClarosSpider` class to optimize web scraping.
 4. **Product Data Challenges**: Addressed challenges in managing product data using techniques like text normalization, fuzzy matching, and clustering.
 5. **Product Taxonomy and Feature Engineering**: Developed a product taxonomy and implemented KNN for product comparison, focusing on feature engineering and data preparation.
-6. **[[Data Processing]] and Analysis Pipeline**: Outlined a comprehensive plan for [[data processing]], including feature engineering, data preparation, and statistical analysis.
+6. **[[Data Processing]] and Analysis [[Pipeline]]**: Outlined a comprehensive plan for data processing, including feature engineering, data preparation, and statistical analysis.
 
 ### Achievements
 - Successfully merged data files and monitored disk usage.
@@ -31,4 +31,4 @@ The session aimed to develop and enhance [[data processing]] pipelines for manag
 
 ### Pending Tasks
 - Continue refining feature engineering techniques.
-- Further evaluate and test the [[data processing]] pipeline.
+- Further evaluate and test the data processing pipeline.

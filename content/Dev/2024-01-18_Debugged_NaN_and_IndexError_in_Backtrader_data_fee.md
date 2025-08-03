@@ -19,13 +19,13 @@ The primary objective of this session was to troubleshoot and resolve issues rel
 ### Key Activities
 - **Data Alignment and [[Debugging]]**: Steps were outlined to inspect and correct data alignment issues causing NaN values in residuals. This involved enhancing debug prints and checking data feed structures.
 - **Custom [[CSV]] Data Feed Creation**: Developed a custom [[CSV]] data feed by inheriting from `backtrader.CSVDataBase` to handle residuals data effectively.
-- **Error Diagnosis and Correction**: Addressed 'IndexError: list index out of range' and `ValueError` during datetime conversion by adding [[debugging]] information and enhancing [[error handling]].
+- **Error Diagnosis and Correction**: Addressed 'IndexError: list index out of range' and `ValueError` during datetime conversion by adding debugging information and enhancing error handling.
 - **Namespace Conflict Resolution**: Resolved a namespace conflict in [[Python]] imports related to the `datetime` module and Backtrader.
 
 ### Achievements
 - Successfully debugged and resolved NaN and IndexError issues in Backtrader data feeds.
 - Implemented a custom [[CSV]] data feed for residuals, enhancing data handling and integration.
-- Improved [[error handling]] and [[debugging]] techniques for better [[data processing]].
+- Improved error handling and debugging techniques for better data processing.
 
 ### Pending Tasks
 - Further testing of the custom [[CSV]] data feed with different datasets to ensure robustness.

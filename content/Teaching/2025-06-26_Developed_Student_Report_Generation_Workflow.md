@@ -1,6 +1,6 @@
 ---
 title: "Developed Student Report Generation Workflow"
-tags: ['student reports', 'data processing', 'Python', 'education', 'report design']
+tags: ['Student Reports', 'Data Processing', 'Python', 'Education', 'Report Design']
 created: 2025-06-26
 publish: true
 ---
@@ -8,16 +8,16 @@ publish: true
 ## 📅 2025-06-26 — Session: Developed Student Report Generation Workflow
 
 **🕒 03:05–04:25**  
-**🏷️ Labels**: student reports, data processing, Python, education, report design  
+**🏷️ Labels**: Student Reports, Data Processing, Python, Education, Report Design  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to develop a comprehensive [[workflow]] for generating individualized student reports from spreadsheet data.
+The session aimed to develop a comprehensive workflow for generating individualized student reports from spreadsheet data.
 
 ### Key Activities
-- Reflected on [[communication]] in relationships and emotional well-being.
+- Reflected on communication in relationships and emotional well-being.
 - Planned strategies for generating student reports, focusing on transparency, personalization, and privacy concerns.
 - Created a structured approach for report generation using [[Python]] libraries such as [[Pandas]], Jinja2, and WeasyPrint.
 - Executed data loading and preprocessing from Google Sheets into [[Pandas]] DataFrames, including data normalization and cleaning.
@@ -25,7 +25,7 @@ The session aimed to develop a comprehensive [[workflow]] for generating individ
 - Implemented a robust ingestion-cleaning model for student data, focusing on metadata and score separation.
 
 ### Achievements
-- Established a clear [[strategy]] and [[workflow]] for generating student reports from spreadsheet data.
+- Established a clear strategy and workflow for generating student reports from spreadsheet data.
 - Developed a robust method for loading and preprocessing data from Google Sheets using [[Pandas]].
 - Designed a comprehensive blueprint for student report sheets with clear pedagogical goals.
 

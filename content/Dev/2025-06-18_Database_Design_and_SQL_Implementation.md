@@ -24,7 +24,7 @@ The session focused on analyzing and improving database design, specifically thr
 
 ### Achievements
 - Successfully completed the mapping of ERDs to relational models and normalized the tables to improve database efficiency.
-- Developed SQL scripts that facilitate comprehensive [[data analysis]] for e-commerce and product metrics.
+- Developed SQL scripts that facilitate comprehensive data analysis for e-commerce and product metrics.
 
 ### Pending Tasks
 - Further refinement of the relational model and additional normalization steps may be required.

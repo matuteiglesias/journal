@@ -23,14 +23,14 @@ The goal of this session was to enhance the [[Flask]] application by refactoring
 - Refactored `submit_answer` function for cleaner logic and enhanced logging.
 - Refined boilerplate for the exercises module with organized imports.
 - Consolidated teacher time request logic for robustness and input validation.
-- Enhanced a [[Python]] script for [[CSV]] data import into MySQL with improved [[error handling]].
+- Enhanced a [[Python]] script for [[CSV]] data import into MySQL with improved error handling.
 - Resolved a circular import issue by using `current_app` instead of direct imports.
 
 ### Achievements
 - Achieved a clean and testable architecture for the [[Flask]] application.
 - Improved authentication and session management.
-- Enhanced [[error handling]] and logging across the application.
+- Enhanced error handling and logging across the application.
 
 ### Pending Tasks
 - Further testing of the refactored modules to ensure stability.
-- Documentation updates to reflect changes in the codebase.
+- [[Documentation]] updates to reflect changes in the codebase.

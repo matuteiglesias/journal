@@ -18,16 +18,16 @@ The session aimed to adapt and implement code for analyzing election data using 
 
 ### Key Activities
 - Adapted R code for analyzing election data structured in pivot tables, including creating necessary matrices and interpreting results.
-- Provided a step-by-step guide for converting [[Pandas]] DataFrames to NumPy matrices and implementing [[optimization]] functions in [[Python]].
+- Provided a step-by-step guide for converting [[Pandas]] DataFrames to NumPy matrices and implementing optimization functions in [[Python]].
 - Implemented the penalized least squares criterion using [[Python]], highlighting differences in indexing and matrix handling between R and [[Python]].
-- Utilized Scipy's `minimize` function for [[optimization]] and created a placeholder for the `call_difp` function.
+- Utilized Scipy's `minimize` function for optimization and created a placeholder for the `call_difp` function.
 - Debugged slicing errors and input issues in [[Python]] functions, adding debug print statements for troubleshooting.
 - Explained how to add new columns to data frames in both R and [[Python]], and how to normalize voting data using proportions.
 
 ### Achievements
-- Successfully adapted R code for election [[data analysis]] and implemented equivalent [[Python]] code for [[data processing]] and [[optimization]].
+- Successfully adapted R code for election data analysis and implemented equivalent [[Python]] code for data processing and optimization.
 - Debugged and improved [[Python]] functions for calculating penalized least squares and handling input errors.
 
 ### Pending Tasks
-- Further testing and validation of the adapted [[Python]] code to ensure accuracy and efficiency in [[data analysis]].
-- Exploration of additional [[optimization]] techniques and their impact on the analysis results.
+- Further testing and validation of the adapted [[Python]] code to ensure accuracy and efficiency in data analysis.
+- Exploration of additional optimization techniques and their impact on the analysis results.

@@ -1,6 +1,6 @@
 ---
 title: "Fashion and Style Planning for Data Scientist"
-tags: ['fashion', 'data scientist', 'outfit planning', 'professional style', 'cold weather']
+tags: ['Fashion', 'Data Scientist', 'Outfit Planning', 'Professional Style', 'Cold Weather']
 created: 2024-05-25
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-05-25 — Session: Fashion and Style Planning for Data Scientist
 
 **🕒 00:00–01:30**  
-**🏷️ Labels**: fashion, data scientist, outfit planning, professional style, cold weather  
+**🏷️ Labels**: Fashion, Data Scientist, Outfit Planning, Professional Style, Cold Weather  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Session with no actionable content or interaction"
-tags: ['AI Interaction', 'Logging', 'Review']
+tags: ['Ai Interaction', 'Logging', 'Review']
 created: 2025-06-29
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-29 — Session: Session with no actionable content or interaction
 
 **🕒 21:50–22:05**  
-**🏷️ Labels**: AI Interaction, Logging, Review  
+**🏷️ Labels**: Ai Interaction, Logging, Review  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

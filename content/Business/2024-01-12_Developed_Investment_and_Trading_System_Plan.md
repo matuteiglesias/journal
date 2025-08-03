@@ -1,6 +1,6 @@
 ---
 title: "Developed Investment and Trading System Plan"
-tags: ['investment', 'trading', 'algorithmic trading', 'financial planning', 'Python']
+tags: ['Investment', 'Trading', 'Algorithmic Trading', 'Financial Planning', 'Python']
 created: 2024-01-12
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-01-12 — Session: Developed Investment and Trading System Plan
 
 **🕒 18:10–19:30**  
-**🏷️ Labels**: investment, trading, algorithmic trading, financial planning, Python  
+**🏷️ Labels**: Investment, Trading, Algorithmic Trading, Financial Planning, Python  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -17,9 +17,9 @@ publish: false
 The session aimed to develop a comprehensive plan for setting up an investment and trading system with a focus on algorithmic trading and risk management.
 
 ### Key Activities
-- Outlined a structured five-day plan covering [[strategy]] development, market research, legal compliance, account setup, testing, and monitoring.
+- Outlined a structured five-day plan covering strategy development, market research, legal compliance, account setup, testing, and monitoring.
 - Detailed the user's investment goals, risk tolerance, and strategies of interest for Day 1 of the setup.
-- Created a comprehensive investment [[strategy]] plan for 2024, focusing on goal setting, risk assessment, and [[strategy]] development.
+- Created a comprehensive investment strategy plan for 2024, focusing on goal setting, risk assessment, and strategy development.
 - Provided insights into the 'Setting Foundations' phase, including financial position assessment and risk tolerance definition.
 - Calculated total investment capital for 2024, aligning strategies with risk tolerance.
 - Developed [[Python]] code for visualizing exponential and linear growth functions of investments.

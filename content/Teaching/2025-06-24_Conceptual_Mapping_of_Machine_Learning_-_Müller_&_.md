@@ -1,6 +1,6 @@
 ---
 title: "Conceptual Mapping of Machine Learning - Müller & Guido"
-tags: ['Machine Learning', 'Conceptual Mapping', 'Model Evaluation', 'Müller & Guido', 'Cross-validation']
+tags: ['Machine Learning', 'Conceptual Mapping', 'Model Evaluation', 'Müller & Guido', 'Cross-Validation']
 created: 2025-06-24
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-06-24 — Session: Conceptual Mapping of Machine Learning - Müller & Guido
 
 **🕒 16:25–16:35**  
-**🏷️ Labels**: Machine Learning, Conceptual Mapping, Model Evaluation, Müller & Guido, Cross-validation  
+**🏷️ Labels**: Machine Learning, Conceptual Mapping, Model Evaluation, Müller & Guido, Cross-Validation  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

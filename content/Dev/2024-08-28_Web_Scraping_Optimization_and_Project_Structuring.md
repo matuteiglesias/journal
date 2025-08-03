@@ -1,6 +1,6 @@
 ---
 title: "Web Scraping Optimization and Project Structuring"
-tags: ['web scraping', 'project structuring', 'Scrapy', 'PostgreSQL', 'debugging']
+tags: ['Web Scraping', 'Project Structuring', 'Scrapy', 'Postgresql', 'Debugging']
 created: 2024-08-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-08-28 — Session: Web Scraping Optimization and Project Structuring
 
 **🕒 20:15–20:50**  
-**🏷️ Labels**: web scraping, project structuring, Scrapy, PostgreSQL, debugging  
+**🏷️ Labels**: Web Scraping, Project Structuring, Scrapy, Postgresql, Debugging  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: true
 The goal of this session was to optimize the web scraping process for collecting time-series data and to plan the directory structure for a related project.
 
 ### Key Activities
-- Discussed strategies for optimizing web scraping focused on time-series data collection, including filtering and [[automation]].
+- Discussed strategies for optimizing web scraping focused on time-series data collection, including filtering and automation.
 - Planned a directory structure for the 'preciosclaros' project, integrating with time-series databases like TimescaleDB and InfluxDB.
 - Proposed a reorganized directory structure for a crawler project to enhance clarity and scalability.
 - Outlined SQL scripts for PostgreSQL database initialization and management.
@@ -32,4 +32,4 @@ The goal of this session was to optimize the web scraping process for collecting
 
 ### Pending Tasks
 - Further testing and implementation of the directory structure and database scripts.
-- Continuous monitoring and [[debugging]] of the web scraping process as needed.
+- Continuous monitoring and debugging of the web scraping process as needed.

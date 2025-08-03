@@ -1,6 +1,6 @@
 ---
 title: "Completed HTML and CSS tasks for web development"
-tags: ['HTML', 'CSS', 'Web Development', 'Debugging', 'UI Design']
+tags: ['HTML', 'CSS', 'Web Development', 'Debugging', 'Ui Design']
 created: 2023-11-07
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2023-11-07 — Session: Completed HTML and CSS tasks for web development
 
 **🕒 17:20–18:05**  
-**🏷️ Labels**: HTML, CSS, Web Development, Debugging, UI Design  
+**🏷️ Labels**: HTML, CSS, Web Development, Debugging, Ui Design  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to finalize various HTML and CSS tasks related to web development, including content creation, [[debugging]], and design improvements.
+The goal of this session was to finalize various HTML and CSS tasks related to web development, including content creation, debugging, and design improvements.
 
 ### Key Activities
 - Completed the HTML structure for the 'About' page, translating content into Spanish and detailing sections on downloads, community contributions, and contact information.

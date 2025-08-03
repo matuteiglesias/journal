@@ -1,6 +1,6 @@
 ---
 title: "Finalized Dataset for Model Fitting with Extrapolation"
-tags: ['data analysis', 'forecasting', 'time series', 'Python', 'pandas']
+tags: ['Data Analysis', 'Forecasting', 'Time Series', 'Python', 'Pandas']
 created: 2024-09-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-28 — Session: Finalized Dataset for Model Fitting with Extrapolation
 
 **🕒 16:05–16:45**  
-**🏷️ Labels**: data analysis, forecasting, time series, Python, pandas  
+**🏷️ Labels**: Data Analysis, Forecasting, Time Series, Python, Pandas  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

@@ -20,13 +20,15 @@ export interface Options {
   filterFn: (node: FileTrieNode) => boolean
   mapFn: (node: FileTrieNode) => void
   order: OrderEntries[]
-}
+  stateKey?: string  // ← add this!
+  }
 
 const defaultOptions: Options = {
   folderDefaultState: "collapsed",
   folderClickBehavior: "link",
   useSavedState: true,
   mapFn: (node) => {
+    node.displayName = `${node.displayName}`
     return node
   },
   sortFn: (a, b) => {
@@ -63,6 +65,7 @@ export default ((userOpts?: Partial<Options>) => {
     return (
       <div
         class={classNames(displayClass, "explorer")}
+        data-key={opts.stateKey ?? "explorer"}  // <-- Here’s how you give each instance unique memory
         data-behavior={opts.folderClickBehavior}
         data-collapsed={opts.folderDefaultState}
         data-savestate={opts.useSavedState}

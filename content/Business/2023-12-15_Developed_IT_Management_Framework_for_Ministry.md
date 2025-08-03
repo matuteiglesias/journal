@@ -1,6 +1,6 @@
 ---
 title: "Developed IT Management Framework for Ministry"
-tags: ['IT management', 'organizational structure', 'collaboration', 'data security', 'strategic planning']
+tags: ['It Management', 'Organizational Structure', 'Collaboration', 'Data Security', 'Strategic Planning']
 created: 2023-12-15
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-12-15 — Session: Developed IT Management Framework for Ministry
 
 **🕒 14:20–14:50**  
-**🏷️ Labels**: IT management, organizational structure, collaboration, data security, strategic planning  
+**🏷️ Labels**: It Management, Organizational Structure, Collaboration, Data Security, Strategic Planning  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -23,7 +23,7 @@ The session aimed to explore and develop a comprehensive framework for IT manage
 - Developed a collaborative integration plan between the Technology and Data Subsecretaries, focusing on teamwork, decision-making, and risk management.
 - Created an implementation plan for a new organizational structure, detailing candidate selection, induction programs, and transition strategies.
 - Compiled support documents for the Data Subsecretariat, including policies, procedures, and training materials.
-- Drafted a bilateral agenda for collaboration between the Data Subsecretariat and the Provincial Directorate of Strategic Planning.
+- Drafted a bilateral agenda for collaboration between the Data Subsecretariat and the Provincial Directorate of [[Strategic Planning]].
 
 ### Achievements
 - Established a detailed framework for IT management and collaboration within the Ministry.

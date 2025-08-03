@@ -1,6 +1,6 @@
 ---
 title: "Resolved Cloud SQL and Python Connection Issues"
-tags: ['Cloud SQL', 'Python', 'MySQL', 'Troubleshooting', 'Database Connection']
+tags: ['Cloud Sql', 'Python', 'Mysql', 'Troubleshooting', 'Database Connection']
 created: 2024-02-01
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-02-01 — Session: Resolved Cloud SQL and Python Connection Issues
 
 **🕒 17:00–17:40**  
-**🏷️ Labels**: Cloud SQL, Python, MySQL, Troubleshooting, Database Connection  
+**🏷️ Labels**: Cloud Sql, Python, Mysql, Troubleshooting, Database Connection  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -28,7 +28,7 @@ The session aimed to resolve various connection issues related to MySQL and [[Go
 
 ### Achievements
 - Successfully resolved MySQL and Cloud SQL connection issues.
-- Implemented solutions for [[Python]] `EOFError` and improved [[error handling]].
+- Implemented solutions for [[Python]] `EOFError` and improved error handling.
 - Established secure connections between local environments and Cloud SQL instances.
 
 ### Pending Tasks

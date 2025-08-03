@@ -28,4 +28,4 @@ The goal of this session was to enhance the generation and alignment of time per
 
 ### Pending Tasks
 - Further testing and validation of the functions with real-world data scenarios.
-- [[Integration]] of the developed functions into existing [[data processing]] pipelines.
+- [[Integration]] of the developed functions into existing data processing pipelines.

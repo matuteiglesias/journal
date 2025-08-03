@@ -17,7 +17,7 @@ publish: false
 The primary aim was to develop and refine [[Python]] pipelines for managing Wise transaction data, transforming it into a standardized ledger format, and ensuring accurate financial data aggregation.
 
 ### Key Activities
-- **Data Management**: Identified missing transactions from Wise activity and prepared a raw [[CSV]]-style table for further processing.
+- **[[Data Management]]**: Identified missing transactions from Wise activity and prepared a raw [[CSV]]-style table for further processing.
 - **Ledger Management**: Created structured Wise-style ledger entries and offered options for [[CSV]] download or integration.
 - **[[Python]] Data Transformation**: Developed a [[Python]] pipeline using [[Pandas]] to transform Wise transaction datasets into a standardized ledger format, including input and output specifications.
 - **Legacy Data Handling**: Outlined a canonical ledger pipeline for transforming legacy Wise datasets with parsing and processing functions.

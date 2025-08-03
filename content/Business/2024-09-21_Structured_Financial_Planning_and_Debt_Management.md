@@ -1,6 +1,6 @@
 ---
 title: "Structured Financial Planning and Debt Management"
-tags: ['financial planning', 'debt management', 'budgeting', 'cash flow', 'savings']
+tags: ['Financial Planning', 'Debt Management', 'Budgeting', 'Cash Flow', 'Savings']
 created: 2024-09-21
 publish: false
 ---
@@ -8,13 +8,13 @@ publish: false
 ## 📅 2024-09-21 — Session: Structured Financial Planning and Debt Management
 
 **🕒 04:35–05:15**  
-**🏷️ Labels**: financial planning, debt management, budgeting, cash flow, savings  
+**🏷️ Labels**: Financial Planning, Debt Management, Budgeting, Cash Flow, Savings  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to develop a comprehensive financial planning and debt management [[strategy]] to improve financial accountability and stability.
+The session aimed to develop a comprehensive financial planning and debt management strategy to improve financial accountability and stability.
 
 ### Key Activities
 - Categorized financial accounts for better tracking, suggesting categories such as family, rentals, and taxes.

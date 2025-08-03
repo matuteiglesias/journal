@@ -1,6 +1,6 @@
 ---
 title: "Developed Algorithmic Trading Functions for Stock Analysis"
-tags: ['algorithmic trading', 'stock analysis', 'Python', 'data manipulation', 'investment strategies']
+tags: ['Algorithmic Trading', 'Stock Analysis', 'Python', 'Data Manipulation', 'Investment Strategies']
 created: 2024-01-15
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-01-15 — Session: Developed Algorithmic Trading Functions for Stock Analysis
 
 **🕒 15:10–16:15**  
-**🏷️ Labels**: algorithmic trading, stock analysis, Python, data manipulation, investment strategies  
+**🏷️ Labels**: Algorithmic Trading, Stock Analysis, Python, Data Manipulation, Investment Strategies  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -25,9 +25,9 @@ The session aimed to develop and refine functions for algorithmic trading and st
 - Added new columns to datasets to analyze long-term price trends and calculate 3-year returns.
 
 ### Achievements
-- Successfully developed and refined functions for stock price analysis and investment [[strategy]] development.
+- Successfully developed and refined functions for stock price analysis and investment strategy development.
 - Enhanced data retrieval and manipulation techniques using [[Python]] and [[Pandas]].
-- Implemented new [[data analysis]] features to support investment decision-making.
+- Implemented new data analysis features to support investment decision-making.
 
 ### Pending Tasks
 - Further testing and validation of developed functions to ensure accuracy and reliability.

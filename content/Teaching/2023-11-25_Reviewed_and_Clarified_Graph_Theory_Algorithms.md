@@ -1,6 +1,6 @@
 ---
 title: "Reviewed and Clarified Graph Theory Algorithms"
-tags: ['graph theory', 'algorithms', 'education', 'student evaluation', 'NP-hard']
+tags: ['Graph Theory', 'Algorithms', 'Education', 'Student Evaluation', 'Np-Hard']
 created: 2023-11-25
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-11-25 — Session: Reviewed and Clarified Graph Theory Algorithms
 
 **🕒 00:15–01:20**  
-**🏷️ Labels**: graph theory, algorithms, education, student evaluation, NP-hard  
+**🏷️ Labels**: Graph Theory, Algorithms, Education, Student Evaluation, Np-Hard  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

@@ -25,7 +25,7 @@ The session focused on enhancing Mapbox styles by deleting outdated styles and i
 
 ### Achievements:
 - Successfully integrated [[API]] deletion functionality for Mapbox styles.
-- Enhanced color management through [[Python]] functions, improving [[data visualization]] capabilities.
+- Enhanced color management through [[Python]] functions, improving data visualization capabilities.
 
 ### Pending Tasks:
 - Redefine `cmap_name` and `n_stops` variables and re-run the function to ensure accurate testing.

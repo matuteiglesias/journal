@@ -1,6 +1,6 @@
 ---
 title: "Extended DataFrame for Future Projections with CPI"
-tags: ['data projection', 'dataframe', 'Python', 'CPI', 'mean calculation']
+tags: ['Data Projection', 'Dataframe', 'Python', 'CPI', 'Mean Calculation']
 created: 2023-09-23
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-23 — Session: Extended DataFrame for Future Projections with CPI
 
 **🕒 18:35–18:45**  
-**🏷️ Labels**: data projection, dataframe, Python, CPI, mean calculation  
+**🏷️ Labels**: Data Projection, Dataframe, Python, CPI, Mean Calculation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

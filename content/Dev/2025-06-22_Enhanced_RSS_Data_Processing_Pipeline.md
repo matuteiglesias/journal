@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance the RSS [[data processing]] pipeline by addressing various issues in data handling and script functionality.
+The session aimed to enhance the RSS data processing pipeline by addressing various issues in data handling and script functionality.
 
 ### Key Activities
 - Processed all available RSS data by bypassing the `trigger_time` logic and loading existing [[CSV]] dumps.
@@ -26,8 +26,8 @@ The session aimed to enhance the RSS [[data processing]] pipeline by addressing 
 ### Achievements
 - Successfully processed RSS data and enhanced the digest generation script.
 - Improved the structural integrity of [[Python]] scripts.
-- Provided solutions for [[error handling]] in date parsing and `article_id` issues.
+- Provided solutions for error handling in date parsing and `article_id` issues.
 
 ### Pending Tasks
-- Further verification of `article_id` corrections in [[data processing]].
+- Further verification of `article_id` corrections in data processing.
 - Continuous monitoring and testing of the enhanced scripts to ensure robustness.

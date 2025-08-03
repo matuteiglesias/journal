@@ -1,6 +1,6 @@
 ---
 title: "Resolved Linear Algebra Exercise and Corrected Gram-Schmidt Implementation"
-tags: ['linear algebra', 'Gram-Schmidt', 'Python', 'SymPy', 'orthogonal projection']
+tags: ['Linear Algebra', 'Gram-Schmidt', 'Python', 'Sympy', 'Orthogonal Projection']
 created: 2024-11-30
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-30 — Session: Resolved Linear Algebra Exercise and Corrected Gram-Schmidt Implementation
 
 **🕒 23:20–23:55**  
-**🏷️ Labels**: linear algebra, Gram-Schmidt, Python, SymPy, orthogonal projection  
+**🏷️ Labels**: Linear Algebra, Gram-Schmidt, Python, Sympy, Orthogonal Projection  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

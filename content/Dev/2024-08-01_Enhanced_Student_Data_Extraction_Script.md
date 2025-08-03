@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Student Data Extraction Script"
-tags: ['Python', 'Selenium', 'BeautifulSoup', 'Web Scraping', 'Data Extraction']
+tags: ['Python', 'Selenium', 'Beautifulsoup', 'Web Scraping', 'Data Extraction']
 created: 2024-08-01
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-08-01 — Session: Enhanced Student Data Extraction Script
 
 **🕒 22:30–23:55**  
-**🏷️ Labels**: Python, Selenium, BeautifulSoup, Web Scraping, Data Extraction  
+**🏷️ Labels**: Python, Selenium, Beautifulsoup, Web Scraping, Data Extraction  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -19,7 +19,7 @@ The primary aim of this session was to develop and enhance a [[Python]] script u
 ### Key Activities
 - Developed a [[Python]] script utilizing Selenium and BeautifulSoup to extract student information from web pages.
 - Ensured data was stored in [[Pandas]] DataFrames and exported to [[CSV]] files, avoiding duplicates by checking URL IDs.
-- Modified the Selenium script to manage browser sessions and tabs effectively, improving [[error handling]] and robustness.
+- Modified the Selenium script to manage browser sessions and tabs effectively, improving error handling and robustness.
 - Addressed deprecation warnings and index errors in the data extraction script.
 - Updated the script to replace the `append` method with `pd.concat` in [[Pandas]] for better performance.
 - Implemented checks for handling empty tables during data extraction.

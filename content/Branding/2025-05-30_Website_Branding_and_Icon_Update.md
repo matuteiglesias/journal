@@ -1,6 +1,6 @@
 ---
 title: "Website Branding and Icon Update"
-tags: ['branding', 'icons', 'Docusaurus', 'web development', 'configuration']
+tags: ['Branding', 'Icons', 'Docusaurus', 'Web Development', 'Configuration']
 created: 2025-05-30
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-05-30 — Session: Website Branding and Icon Update
 
 **🕒 21:00–23:00**  
-**🏷️ Labels**: branding, icons, Docusaurus, web development, configuration  
+**🏷️ Labels**: Branding, Icons, Docusaurus, Web Development, Configuration  
 **📂 Project**: Branding  
 **⭐ Priority**: MEDIUM  
 

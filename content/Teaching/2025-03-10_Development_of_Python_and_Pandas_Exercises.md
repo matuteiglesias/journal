@@ -21,9 +21,9 @@ The session aimed to develop and enhance a series of exercises for teaching [[Py
 - **Enhanced [[Python]] Fundamentals:** Developed exercises teaching [[Python]] fundamentals, including data structures, control flow, and string manipulation.
 - **Geringoso Translator Exercise:** Designed an exercise to create a Geringoso translator in [[Python]], introducing functions and classes.
 - **Exercise Evaluation:** Improved existing [[Python]] exercises, focusing on arithmetic operations and simulations for advanced learners.
-- **Progressive Exercise Strategy:** Planned a coherent [[strategy]] for progressive [[Python]] exercises, teaching functions, classes, and executable scripts.
+- **Progressive Exercise [[Strategy]]:** Planned a coherent strategy for progressive [[Python]] exercises, teaching functions, classes, and executable scripts.
 - **Common [[Python]] Errors:** Compiled a guide and workshop on common beginner errors in [[Python]], providing solutions and examples.
-- **[[Debugging]] Exercise:** Created a dynamic [[debugging]] exercise for identifying and correcting common code errors.
+- **[[Debugging]] Exercise:** Created a dynamic debugging exercise for identifying and correcting common code errors.
 - **[[Pandas]] Exercises:** Proposed a new structure for teaching [[Pandas]] with clear objectives and tasks, including exercises on data I/O and manipulation.
 
 ### Achievements

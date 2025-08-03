@@ -1,6 +1,6 @@
 ---
 title: "Chickpea-Centered Meal Prep and Cooking Techniques"
-tags: ['meal prep', 'chickpeas', 'recipes', 'cooking', 'healthy eating']
+tags: ['Meal Prep', 'Chickpeas', 'Recipes', 'Cooking', 'Healthy Eating']
 created: 2024-09-15
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-09-15 — Session: Chickpea-Centered Meal Prep and Cooking Techniques
 
 **🕒 01:00–23:50**  
-**🏷️ Labels**: meal prep, chickpeas, recipes, cooking, healthy eating  
+**🏷️ Labels**: Meal Prep, Chickpeas, Recipes, Cooking, Healthy Eating  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

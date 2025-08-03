@@ -1,6 +1,6 @@
 ---
 title: "Developed AI Agent Ecosystem and NoSQL Schema"
-tags: ['AI agents', 'NoSQL', 'processing pipeline', 'automation', 'classification']
+tags: ['Ai Agents', 'Nosql', 'Processing Pipeline', 'Automation', 'Classification']
 created: 2024-12-02
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-02 — Session: Developed AI Agent Ecosystem and NoSQL Schema
 
 **🕒 01:40–02:50**  
-**🏷️ Labels**: AI agents, NoSQL, processing pipeline, automation, classification  
+**🏷️ Labels**: Ai Agents, Nosql, Processing Pipeline, Automation, Classification  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -19,7 +19,7 @@ The session aimed to design and implement components of a smart [[AI]] agent eco
 ### Key Activities
 - Outlined a multi-layered processing pipeline for a classification agent, detailing each layer's purpose and integration examples.
 - Planned a smart ecosystem of [[AI]] agents, emphasizing the Smart First Agent's classification and routing capabilities.
-- Implemented a NoSQL-based schema extraction layer with [[OpenAI]] [[API]] and MongoDB integration.
+- Implemented a NoSQL-based schema extraction layer with OpenAI [[API]] and MongoDB integration.
 - Designed the Smart Gatekeeper Agent for message filtering, classification, and routing.
 - Enhanced the Gatekeeper Agent's message schema to include structured metadata fields.
 - Implemented [[Python]]-based email message processing using the EmailClassifierAgent with MongoDB integration.

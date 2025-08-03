@@ -20,7 +20,7 @@ The primary goal of this session was to refactor the project directory structure
 - Proposed a reorganization of the `services` directory, suggesting which files to keep, move, or delete.
 - Updated the `.gitignore` file to align with the new project structure, ensuring essential configurations are retained.
 - Outlined best practices for making semantic commits post-refactoring.
-- Developed a commit [[strategy]] for thematic organization of significant project changes.
+- Developed a commit strategy for thematic organization of significant project changes.
 - Provided detailed instructions for resolving Git merge and rebase conflicts, including specific file conflicts like `evaluator.py` and `requirements.txt`.
 - Executed a Git rebase to align local and remote branches, resolving all conflicts.
 - Used BFG Repo-Cleaner to remove sensitive files from Git history and ensured the repository was clean and secure.

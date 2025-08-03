@@ -1,6 +1,6 @@
 ---
 title: "Developed strategic plans for Buenos Aires public administration"
-tags: ['public administration', 'cybersecurity', 'information systems', 'interoperability', 'SINDMA']
+tags: ['Public Administration', 'Cybersecurity', 'Information Systems', 'Interoperability', 'SINDMA']
 created: 2024-02-03
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-02-03 — Session: Developed strategic plans for Buenos Aires public administration
 
 **🕒 23:05–00:05**  
-**🏷️ Labels**: public administration, cybersecurity, information systems, interoperability, SINDMA  
+**🏷️ Labels**: Public Administration, Cybersecurity, Information Systems, Interoperability, SINDMA  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -29,5 +29,5 @@ The session aimed to develop strategic plans for enhancing information systems, 
 - Identified key areas for collaboration and integration to improve efficiency and security.
 
 ### Pending Tasks
-- Further evaluation of [[documentation]] and training for SINDMA implementation.
+- Further evaluation of documentation and training for SINDMA implementation.
 - Continued development of interoperability frameworks and data standardization strategies.

@@ -1,6 +1,6 @@
 ---
 title: "Development of Complex Multiple-Choice Questions"
-tags: ['multiple-choice', 'STEM', 'Economics', 'Education', 'Question Design']
+tags: ['Multiple-Choice', 'STEM', 'Economics', 'Education', 'Question Design']
 created: 2024-09-04
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2024-09-04 — Session: Development of Complex Multiple-Choice Questions
 
 **🕒 01:50–02:50**  
-**🏷️ Labels**: multiple-choice, STEM, Economics, Education, Question Design  
+**🏷️ Labels**: Multiple-Choice, STEM, Economics, Education, Question Design  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to develop guidelines and templates for creating complex multiple-choice questions in various domains, including STEM [[education]] and economics, with a focus on reasoning, clarity, and originality.
+The goal of this session was to develop guidelines and templates for creating complex multiple-choice questions in various domains, including STEM education and economics, with a focus on reasoning, clarity, and originality.
 
 ### Key Activities
 - Reviewed guidelines for creating and reviewing tasks in remote job settings.

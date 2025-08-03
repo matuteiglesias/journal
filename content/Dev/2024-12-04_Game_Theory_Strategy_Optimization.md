@@ -1,6 +1,6 @@
 ---
 title: "Game Theory Strategy Optimization"
-tags: ['game theory', 'strategy', 'expected payoff', 'optimization', 'numerical methods']
+tags: ['Game Theory', 'Strategy', 'Expected Payoff', 'Optimization', 'Numerical Methods']
 created: 2024-12-04
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-04 — Session: Game Theory Strategy Optimization
 
 **🕒 19:55–20:20**  
-**🏷️ Labels**: game theory, strategy, expected payoff, optimization, numerical methods  
+**🏷️ Labels**: Game Theory, Strategy, Expected Payoff, Optimization, Numerical Methods  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -30,4 +30,4 @@ The session aimed to optimize strategies in game theory, focusing on maximizing 
 
 ### Pending Tasks
 - Further refinement of strategies based on additional opponent data.
-- Continued development of [[automation]] processes for knowledge management.
+- Continued development of automation processes for knowledge management.

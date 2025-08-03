@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal:
-The session aimed to develop and refine [[Python]] functions for text cleaning, [[data processing]], and semantic analysis, focusing on error correction, formatting, and data manipulation.
+The session aimed to develop and refine [[Python]] functions for text cleaning, data processing, and semantic analysis, focusing on error correction, formatting, and data manipulation.
 
 ### Key Activities:
 - Implemented a [[Python]] function to merge invalid sections of text into previous valid sections, enhancing data integrity.
@@ -28,7 +28,7 @@ The session aimed to develop and refine [[Python]] functions for text cleaning, 
 
 ### Achievements:
 - Successfully implemented and tested multiple text processing and cleaning functions.
-- Enhanced [[data processing]] workflows by integrating semantic analysis and data manipulation techniques.
+- Enhanced data processing workflows by integrating semantic analysis and data manipulation techniques.
 - Converted processed text into structured DataFrames, facilitating further analysis.
 
 ### Pending Tasks:

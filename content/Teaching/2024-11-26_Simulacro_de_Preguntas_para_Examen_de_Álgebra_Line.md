@@ -1,6 +1,6 @@
 ---
 title: "Simulacro de Preguntas para Examen de Álgebra Lineal"
-tags: ['simulacro', 'examen', 'diagonalización', 'matrices', 'educación']
+tags: ['Simulacro', 'Examen', 'Diagonalización', 'Matrices', 'Educación']
 created: 2024-11-26
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-11-26 — Session: Simulacro de Preguntas para Examen de Álgebra Lineal
 
 **🕒 19:05–19:20**  
-**🏷️ Labels**: simulacro, examen, diagonalización, matrices, educación  
+**🏷️ Labels**: Simulacro, Examen, Diagonalización, Matrices, Educación  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

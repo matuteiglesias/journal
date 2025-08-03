@@ -1,6 +1,6 @@
 ---
 title: "Web Scraping and Price Analysis"
-tags: ['web scraping', 'price tracking', 'data analysis', 'Scrapy', 'Python']
+tags: ['Web Scraping', 'Price Tracking', 'Data Analysis', 'Scrapy', 'Python']
 created: 2024-08-29
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-08-29 — Session: Web Scraping and Price Analysis
 
 **🕒 00:00–00:45**  
-**🏷️ Labels**: web scraping, price tracking, data analysis, Scrapy, Python  
+**🏷️ Labels**: Web Scraping, Price Tracking, Data Analysis, Scrapy, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -30,7 +30,7 @@ The primary goal of this session was to enhance web scraping capabilities and se
 
 ### Pending Tasks
 - Implement the automated price tracking system.
-- Continue refining [[data analysis]] techniques for better insights.
+- Continue refining data analysis techniques for better insights.
 
 ### Labels
-`web scraping`, `price tracking`, `[[data analysis]]`, `Scrapy`, `[[Python]]`
+`web scraping`, `price tracking`, `data analysis`, `Scrapy`, `[[Python]]`

@@ -1,6 +1,6 @@
 ---
 title: "Optimized Store Placement Algorithm and VS Code Customization"
-tags: ['VS Code', 'CSS', 'Algorithm Optimization', 'Programming']
+tags: ['Vs Code', 'CSS', 'Algorithm Optimization', 'Programming']
 created: 2023-09-20
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-20 — Session: Optimized Store Placement Algorithm and VS Code Customization
 
 **🕒 16:30–17:15**  
-**🏷️ Labels**: VS Code, CSS, Algorithm Optimization, Programming  
+**🏷️ Labels**: Vs Code, CSS, Algorithm Optimization, Programming  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: true
 The session aimed to optimize a store placement algorithm for minimizing distance and to customize Markdown styling in Visual Studio Code using CSS.
 
 ### Key Activities
-- **Algorithm Optimization**: Analyzed code to minimize accumulated distance when placing stores at specific positions, exploring mathematical equivalences and memoization techniques.
+- **Algorithm [[Optimization]]**: Analyzed code to minimize accumulated distance when placing stores at specific positions, exploring mathematical equivalences and memoization techniques.
 - **Function Naming**: Suggested improvements for function names to enhance code readability.
 - **VS Code Customization**: Customized Markdown cell styles in Visual Studio Code by integrating Primer CSS, extracting CSS styles from various sources, and troubleshooting SCSS compilation issues.
 - **Administrative Privileges**: Provided guidance on running Visual Studio Code with administrative privileges across different operating systems.

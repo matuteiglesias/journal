@@ -1,6 +1,6 @@
 ---
 title: "Developed Advanced Econometric Questions"
-tags: ['econometrics', 'nested logit', 'education', 'graduate questions', 'transportation']
+tags: ['Econometrics', 'Nested Logit', 'Education', 'Graduate Questions', 'Transportation']
 created: 2024-09-06
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-06 — Session: Developed Advanced Econometric Questions
 
 **🕒 15:35–16:20**  
-**🏷️ Labels**: econometrics, nested logit, education, graduate questions, transportation  
+**🏷️ Labels**: Econometrics, Nested Logit, Education, Graduate Questions, Transportation  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

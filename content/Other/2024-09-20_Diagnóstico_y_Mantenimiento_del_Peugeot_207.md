@@ -1,6 +1,6 @@
 ---
 title: "Diagnóstico y Mantenimiento del Peugeot 207"
-tags: ['Peugeot 207', 'mantenimiento', 'transmisión', 'diagnóstico', 'automotriz']
+tags: ['Peugeot 207', 'Mantenimiento', 'Transmisión', 'Diagnóstico', 'Automotriz']
 created: 2024-09-20
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-09-20 — Session: Diagnóstico y Mantenimiento del Peugeot 207
 
 **🕒 03:00–04:10**  
-**🏷️ Labels**: Peugeot 207, mantenimiento, transmisión, diagnóstico, automotriz  
+**🏷️ Labels**: Peugeot 207, Mantenimiento, Transmisión, Diagnóstico, Automotriz  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

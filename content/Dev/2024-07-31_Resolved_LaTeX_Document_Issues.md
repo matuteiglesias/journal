@@ -1,6 +1,6 @@
 ---
 title: "Resolved LaTeX Document Issues"
-tags: ['LaTeX', 'Troubleshooting', 'TikZ', 'Code Review']
+tags: ['Latex', 'Troubleshooting', 'Tikz', 'Code Review']
 created: 2024-07-31
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-07-31 — Session: Resolved LaTeX Document Issues
 
 **🕒 04:40–05:15**  
-**🏷️ Labels**: LaTeX, Troubleshooting, TikZ, Code Review  
+**🏷️ Labels**: Latex, Troubleshooting, Tikz, Code Review  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

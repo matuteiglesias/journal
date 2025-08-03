@@ -1,6 +1,6 @@
 ---
 title: "Automated File Processing and Supabase Sync System Design"
-tags: ['automation', 'Supabase', 'file processing', 'Python', 'error handling']
+tags: ['Automation', 'Supabase', 'File Processing', 'Python', 'Error Handling']
 created: 2025-02-01
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-01 — Session: Automated File Processing and Supabase Sync System Design
 
 **🕒 10:35–11:30**  
-**🏷️ Labels**: automation, Supabase, file processing, Python, error handling  
+**🏷️ Labels**: Automation, Supabase, File Processing, Python, Error Handling  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -27,7 +27,7 @@ The goal of this session was to design and implement an automated system for fil
 - Successfully outlined the design of an automated file processing system.
 - Implemented a multithreaded [[Python]] script for file processing.
 - Integrated Supabase sync with a file system watcher.
-- Resolved library issues and improved [[error handling]] in Supabase file management.
+- Resolved library issues and improved error handling in Supabase file management.
 
 ### Pending Tasks
-- Further testing and [[optimization]] of the file processing and synchronization system.
+- Further testing and optimization of the file processing and synchronization system.

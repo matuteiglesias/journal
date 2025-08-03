@@ -1,6 +1,6 @@
 ---
 title: "Addressed Security and Subscription Issues"
-tags: ['security', 'Microsoft', 'Outlook', 'Xbox', 'billing']
+tags: ['Security', 'Microsoft', 'Outlook', 'Xbox', 'Billing']
 created: 2025-04-28
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-04-28 — Session: Addressed Security and Subscription Issues
 
 **🕒 16:20–17:05**  
-**🏷️ Labels**: security, Microsoft, Outlook, Xbox, billing  
+**🏷️ Labels**: Security, Microsoft, Outlook, Xbox, Billing  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

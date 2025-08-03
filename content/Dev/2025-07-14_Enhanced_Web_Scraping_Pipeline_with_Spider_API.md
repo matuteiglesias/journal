@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Web Scraping Pipeline with Spider API"
-tags: ['Spider API', 'Web Scraping', 'Automation', 'Python', 'Data Extraction']
+tags: ['Spider Api', 'Web Scraping', 'Automation', 'Python', 'Data Extraction']
 created: 2025-07-14
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-07-14 — Session: Enhanced Web Scraping Pipeline with Spider API
 
 **🕒 03:00–03:20**  
-**🏷️ Labels**: Spider API, Web Scraping, Automation, Python, Data Extraction  
+**🏷️ Labels**: Spider Api, Web Scraping, Automation, Python, Data Extraction  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

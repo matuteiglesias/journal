@@ -1,6 +1,6 @@
 ---
 title: "Gram-Schmidt Process and Projection Matrix Calculation"
-tags: ['Gram-Schmidt', 'projection matrix', 'linear algebra', 'orthonormal vectors', 'vector spaces']
+tags: ['Gram-Schmidt', 'Projection Matrix', 'Linear Algebra', 'Orthonormal Vectors', 'Vector Spaces']
 created: 2024-12-01
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-01 — Session: Gram-Schmidt Process and Projection Matrix Calculation
 
 **🕒 00:15–01:30**  
-**🏷️ Labels**: Gram-Schmidt, projection matrix, linear algebra, orthonormal vectors, vector spaces  
+**🏷️ Labels**: Gram-Schmidt, Projection Matrix, Linear Algebra, Orthonormal Vectors, Vector Spaces  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

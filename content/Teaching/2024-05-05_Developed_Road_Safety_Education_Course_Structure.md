@@ -1,6 +1,6 @@
 ---
 title: "Developed Road Safety Education Course Structure"
-tags: ['educación vial', 'seguridad', 'Argentina', 'curso', 'tráfico', 'primeros auxilios']
+tags: ['Educación Vial', 'Seguridad', 'Argentina', 'Curso', 'Tráfico', 'Primeros Auxilios']
 created: 2024-05-05
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-05-05 — Session: Developed Road Safety Education Course Structure
 
 **🕒 19:00–19:30**  
-**🏷️ Labels**: educación vial, seguridad, Argentina, curso, tráfico, primeros auxilios  
+**🏷️ Labels**: Educación Vial, Seguridad, Argentina, Curso, Tráfico, Primeros Auxilios  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

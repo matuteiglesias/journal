@@ -1,6 +1,6 @@
 ---
 title: "Developed Annotation Schema Proposals and Notion Integration"
-tags: ['annotation', 'Notion', 'monetization', 'automation', 'cognitive modeling']
+tags: ['Annotation', 'Notion', 'Monetization', 'Automation', 'Cognitive Modeling']
 created: 2025-05-05
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-05-05 — Session: Developed Annotation Schema Proposals and Notion Integration
 
 **🕒 02:10–03:25**  
-**🏷️ Labels**: annotation, Notion, monetization, automation, cognitive modeling  
+**🏷️ Labels**: Annotation, Notion, Monetization, Automation, Cognitive Modeling  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to develop proposals for enhanced annotation schemas and integrate these with Notion for improved [[productivity]] and monetization.
+The session aimed to develop proposals for enhanced annotation schemas and integrate these with Notion for improved productivity and monetization.
 
 ### Key Activities
 - **Brainstormed** a proposal for improving annotations using assistant logs as a blueprint.
@@ -27,7 +27,7 @@ The session aimed to develop proposals for enhanced annotation schemas and integ
 
 ### Achievements
 - Developed multiple annotation schema proposals with a focus on cognitive modeling and revenue outcomes.
-- Successfully integrated annotation systems with Notion, enhancing [[productivity]] and monetization capabilities.
+- Successfully integrated annotation systems with Notion, enhancing productivity and monetization capabilities.
 
 ### Pending Tasks
 - Further testing and validation of the proposed annotation schemas.

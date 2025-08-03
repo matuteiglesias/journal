@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to debug and enhance a trading [[strategy]] using Backtrader, focusing on the `OLSResiduals` indicator and data fetching methods.
+The primary goal of this session was to debug and enhance a trading strategy using Backtrader, focusing on the `OLSResiduals` indicator and data fetching methods.
 
 ### Key Activities
 - **[[Debugging]] OLSResiduals Indicator**: Addressed an issue with an unpopulated `prices` array in the `next` method by checking data feed loading and refining data fetching methods.
@@ -22,14 +22,14 @@ The primary goal of this session was to debug and enhance a trading [[strategy]]
 - **Handling Data Feed Issues**: Explored solutions for empty data feeds in the `ResidualsStrategy` class, emphasizing data loading timing and method usage.
 - **Adjusting Historical Data Access**: Modified the Backtrader code to use the `get` method for historical data access and adjusted the `next` method for the `OLSResiduals` indicator.
 - **[[Error Handling]] in Price [[Data Processing]]**: Calculated OLS residuals from price data, handling non-positive values and ensuring error management during logarithm calculations.
-- **Manual Construction of Prices Array**: Constructed a prices array from historical close prices in the [[strategy]], ensuring proper [[error handling]].
+- **Manual Construction of Prices Array**: Constructed a prices array from historical close prices in the strategy, ensuring proper error handling.
 - **Advanced Plotting Techniques**: Implemented advanced plotting techniques in Backtrader, including plotting multiple data feeds and customizing observers.
 
 ### Achievements
 - Successfully debugged the `OLSResiduals` indicator and improved data fetching methods.
-- Enhanced [[error handling]] in price [[data processing]].
+- Enhanced error handling in price data processing.
 - Developed advanced plotting capabilities for Backtrader simulations.
 
 ### Pending Tasks
-- Further testing of the updated trading [[strategy]] to ensure robustness.
+- Further testing of the updated trading strategy to ensure robustness.
 - [[Integration]] of additional financial data sources for comprehensive analysis.

@@ -1,6 +1,6 @@
 ---
 title: "Health and Dermatology Consultation"
-tags: ['health', 'dermatology', 'urology', 'self-care', 'treatment']
+tags: ['Health', 'Dermatology', 'Urology', 'Self-Care', 'Treatment']
 created: 2025-02-22
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-02-22 — Session: Health and Dermatology Consultation
 
 **🕒 10:20–11:55**  
-**🏷️ Labels**: health, dermatology, urology, self-care, treatment  
+**🏷️ Labels**: Health, Dermatology, Urology, Self-Care, Treatment  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

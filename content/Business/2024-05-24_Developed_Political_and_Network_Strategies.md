@@ -1,6 +1,6 @@
 ---
 title: "Developed Political and Network Strategies"
-tags: ['political strategy', 'network mapping', 'contact management', 'Trello', 'interaction strategies']
+tags: ['Political Strategy', 'Network Mapping', 'Contact Management', 'Trello', 'Interaction Strategies']
 created: 2024-05-24
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-05-24 — Session: Developed Political and Network Strategies
 
 **🕒 14:55–15:40**  
-**🏷️ Labels**: political strategy, network mapping, contact management, Trello, interaction strategies  
+**🏷️ Labels**: Political Strategy, Network Mapping, Contact Management, Trello, Interaction Strategies  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -25,11 +25,11 @@ The session aimed to develop strategies for political positioning and network ma
 6. **Categorías y Etiquetas para la Clasificación de Contactos**: Defined categories and tags for effective contact classification.
 
 ### Achievements
-- Created a comprehensive [[strategy]] for political positioning by identifying key personas and crafting tailored interaction strategies.
-- Developed a network mapping [[strategy]] to maximize interaction impact.
-- Established a [[workflow]] for managing contacts and collaborations using Trello.
+- Created a comprehensive strategy for political positioning by identifying key personas and crafting tailored interaction strategies.
+- Developed a network mapping strategy to maximize interaction impact.
+- Established a workflow for managing contacts and collaborations using Trello.
 
 ### Pending Tasks
 - Implement the defined interaction strategies for political positioning.
-- Execute the network mapping [[strategy]] in practical scenarios.
-- Set up Trello boards and lists as per the outlined [[workflow]] for contact management.
+- Execute the network mapping strategy in practical scenarios.
+- Set up Trello boards and lists as per the outlined workflow for contact management.

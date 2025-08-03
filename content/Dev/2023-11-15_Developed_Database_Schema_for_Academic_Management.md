@@ -1,6 +1,6 @@
 ---
 title: "Developed Database Schema for Academic Management"
-tags: ['database design', 'academic management', 'schema', 'DBML', 'ER diagram']
+tags: ['Database Design', 'Academic Management', 'Schema', 'DBML', 'Er Diagram']
 created: 2023-11-15
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-11-15 — Session: Developed Database Schema for Academic Management
 
 **🕒 14:15–17:56**  
-**🏷️ Labels**: database design, academic management, schema, DBML, ER diagram  
+**🏷️ Labels**: Database Design, Academic Management, Schema, DBML, Er Diagram  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -30,4 +30,4 @@ The goal of this session was to design and refine a database schema for academic
 - Further validation of the database schema with real-world data scenarios to ensure robustness and adaptability.
 
 ### Additional Context
-This session also involved planning and [[documentation]] for data management, including developing a data management plan and establishing protocols for deadline extensions.
+This session also involved planning and documentation for data management, including developing a data management plan and establishing protocols for deadline extensions.

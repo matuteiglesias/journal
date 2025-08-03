@@ -1,6 +1,6 @@
 ---
 title: "Automotive Maintenance and Repair Insights"
-tags: ['Peugeot 207', 'automotive', 'maintenance', 'repair', 'insurance']
+tags: ['Peugeot 207', 'Automotive', 'Maintenance', 'Repair', 'Insurance']
 created: 2024-09-20
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-09-20 — Session: Automotive Maintenance and Repair Insights
 
 **🕒 16:40–19:45**  
-**🏷️ Labels**: Peugeot 207, automotive, maintenance, repair, insurance  
+**🏷️ Labels**: Peugeot 207, Automotive, Maintenance, Repair, Insurance  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

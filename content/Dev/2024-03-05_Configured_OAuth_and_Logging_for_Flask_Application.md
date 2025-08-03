@@ -1,6 +1,6 @@
 ---
 title: "Configured OAuth and Logging for Flask Applications"
-tags: ['Flask', 'OAuth2', 'Google Cloud', 'Logging', 'Evaluar-App']
+tags: ['Flask', 'Oauth2', 'Google Cloud', 'Logging', 'Evaluar-App']
 created: 2024-03-05
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-03-05 — Session: Configured OAuth and Logging for Flask Applications
 
 **🕒 20:55–21:40**  
-**🏷️ Labels**: Flask, OAuth2, Google Cloud, Logging, Evaluar-App  
+**🏷️ Labels**: Flask, Oauth2, Google Cloud, Logging, Evaluar-App  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

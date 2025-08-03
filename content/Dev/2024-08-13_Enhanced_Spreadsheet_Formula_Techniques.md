@@ -21,7 +21,7 @@ The goal of this session was to enhance proficiency in using spreadsheet formula
 - Provided a troubleshooting guide for formula syntax and cell references in spreadsheets, focusing on the `EXACT` function.
 - Developed a formula in Google Sheets for date calculation using `IF`, `SEARCH`, and `DATE` functions.
 - Explained Excel formulas for calculating age differences using `DATEDIF` and `TODAY()` functions.
-- Demonstrated the use of `IFERROR` with `SEARCH` in Excel for [[error handling]].
+- Demonstrated the use of `IFERROR` with `SEARCH` in Excel for error handling.
 - Combined `IF` and `IFERROR` functions in Excel to calculate age while handling errors.
 - Created a formula in Google Sheets to calculate the average of non-null values using `ARRAYFORMULA`, `FILTER`, and `AVERAGE` functions.
 

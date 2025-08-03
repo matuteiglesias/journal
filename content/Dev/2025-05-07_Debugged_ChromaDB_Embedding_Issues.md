@@ -1,6 +1,6 @@
 ---
 title: "Debugged ChromaDB Embedding Issues"
-tags: ['ChromaDB', 'debugging', 'embedding', 'troubleshooting']
+tags: ['Chromadb', 'Debugging', 'Embedding', 'Troubleshooting']
 created: 2025-05-07
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-07 — Session: Debugged ChromaDB Embedding Issues
 
 **🕒 00:00–00:35**  
-**🏷️ Labels**: ChromaDB, debugging, embedding, troubleshooting  
+**🏷️ Labels**: Chromadb, Debugging, Embedding, Troubleshooting  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

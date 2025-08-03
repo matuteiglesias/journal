@@ -19,7 +19,7 @@ The session aimed to explore the adaptation of [[AI]] to human complexity, focus
 ### Key Activities
 - Discussed [[AI]]'s adaptation to human complexity and societal narratives.
 - Reflected on the emotional connection with technology, particularly in automotive settings.
-- Explored ideas for engaging with intelligent cars, including navigation, [[productivity]], and emergency assistance.
+- Explored ideas for engaging with intelligent cars, including navigation, productivity, and emergency assistance.
 - Considered the concept of smart cars as personal assistants for enhanced user control.
 - Addressed the limitations of current technology integrations and suggested practical workflows.
 
@@ -30,4 +30,4 @@ The session aimed to explore the adaptation of [[AI]] to human complexity, focus
 
 ### Pending Tasks
 - Further exploration of intelligent car functionalities and user experience enhancements.
-- Investigation into more seamless integration of [[AI]] tools with personal [[productivity]] systems.
+- Investigation into more seamless integration of [[AI]] tools with personal productivity systems.

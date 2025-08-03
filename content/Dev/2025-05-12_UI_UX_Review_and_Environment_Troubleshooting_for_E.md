@@ -18,7 +18,7 @@ The session aimed to review the UI/UX of HTML files for an educational app and a
 
 ### Key Activities
 - Conducted a detailed UI/UX review of HTML files, providing suggestions for improvement in design and code structure.
-- Outlined a refactor [[strategy]] for the application architecture focusing on modularization and [[API]] standardization.
+- Outlined a refactor strategy for the application architecture focusing on modularization and [[API]] standardization.
 - Resolved a [[Python]] environment mismatch issue affecting [[Flask]] recognition.
 - Fixed an ImportError related to the `Session` object in `flask_session`.
 - Addressed version incompatibility in `protobuf`/`google-cloud-firestore` dependencies.
@@ -27,7 +27,7 @@ The session aimed to review the UI/UX of HTML files for an educational app and a
 
 ### Achievements
 - Improved understanding of UI/UX strengths and weaknesses in the educational app.
-- Enhanced application architecture with a clear refactor [[strategy]].
+- Enhanced application architecture with a clear refactor strategy.
 - Resolved critical environment and dependency issues ensuring smooth application functionality.
 
 ### Pending Tasks

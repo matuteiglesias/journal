@@ -1,6 +1,6 @@
 ---
 title: "Compiled Culinary Recipes"
-tags: ['recipes', 'cooking', 'salsas', 'pickles', 'flatbread']
+tags: ['Recipes', 'Cooking', 'Salsas', 'Pickles', 'Flatbread']
 created: 2025-04-08
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-04-08 — Session: Compiled Culinary Recipes
 
 **🕒 01:10–02:10**  
-**🏷️ Labels**: recipes, cooking, salsas, pickles, flatbread  
+**🏷️ Labels**: Recipes, Cooking, Salsas, Pickles, Flatbread  
 **📂 Project**: Health  
 **⭐ Priority**: LOW  
 

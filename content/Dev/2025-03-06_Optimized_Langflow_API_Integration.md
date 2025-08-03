@@ -31,5 +31,5 @@ The session focused on optimizing [[JSON]] payloads for Langflow [[API]] integra
 - Further refine [[JSON]] payloads based on insights from Langflow [[API]] output and execution.
 
 ### Insights
-- Gained insights into state management, caching, and performance [[optimization]] from Langflow [[API]] outputs.
+- Gained insights into state management, caching, and performance optimization from Langflow [[API]] outputs.
 - Identified best practices for structuring payloads in Langflow [[API]] requests.

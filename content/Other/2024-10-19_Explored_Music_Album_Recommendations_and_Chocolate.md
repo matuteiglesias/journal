@@ -1,6 +1,6 @@
 ---
 title: "Explored Music Album Recommendations and Chocolate Marquise Recipe"
-tags: ['music', 'cooking', 'recipes', 'relaxation', 'learning']
+tags: ['Music', 'Cooking', 'Recipes', 'Relaxation', 'Learning']
 created: 2024-10-19
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-19 — Session: Explored Music Album Recommendations and Chocolate Marquise Recipe
 
 **🕒 02:10–02:50**  
-**🏷️ Labels**: music, cooking, recipes, relaxation, learning  
+**🏷️ Labels**: Music, Cooking, Recipes, Relaxation, Learning  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 
@@ -18,7 +18,7 @@ The session aimed to explore music album recommendations and delve into the prep
 
 ### Key Activities
 - **Music Exploration**: Matías showed interest in finding music albums similar to 'Clásicos Ligeros' and considered a playlist for 'Tomo 2', focusing on accessible and relaxing classical pieces.
-- **Cooking Exploration**: Detailed instructions for preparing a chocolate marquise were reviewed, including ingredients, preparation steps, and cooking techniques.
+- **[[Cooking]] Exploration**: Detailed instructions for preparing a chocolate marquise were reviewed, including ingredients, preparation steps, and cooking techniques.
 - **Culinary Planning**: Matías planned to explore classic pastry recipes, setting a goal to learn one new recipe each day.
 
 ### Achievements

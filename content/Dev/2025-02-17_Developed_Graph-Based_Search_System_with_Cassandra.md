@@ -1,6 +1,6 @@
 ---
 title: "Developed Graph-Based Search System with Cassandra"
-tags: ['graph search', 'Cassandra', 'NLP', 'text classification', 'embeddings', 'clustering']
+tags: ['Graph Search', 'Cassandra', 'NLP', 'Text Classification', 'Embeddings', 'Clustering']
 created: 2025-02-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-17 — Session: Developed Graph-Based Search System with Cassandra
 
 **🕒 17:10–18:00**  
-**🏷️ Labels**: graph search, Cassandra, NLP, text classification, embeddings, clustering  
+**🏷️ Labels**: Graph Search, Cassandra, NLP, Text Classification, Embeddings, Clustering  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

@@ -18,14 +18,14 @@ The session aimed to explore strategic management and collaboration techniques f
 
 ### Key Activities:
 - Discussed strategic approaches for selecting and managing Six Sigma projects, emphasizing customer competitiveness and stakeholder analysis.
-- Explored [[project management]] strategies, including critical chain [[project management]] and management support to overcome roadblocks.
-- Highlighted strategies for cross-functional collaboration in hierarchical organizations, focusing on [[communication]] and team performance.
+- Explored project management strategies, including critical chain project management and management support to overcome roadblocks.
+- Highlighted strategies for cross-functional collaboration in hierarchical organizations, focusing on communication and team performance.
 - Introduced the concept of synchronization resources in project planning to improve coordination and execution.
 - Detailed a strategic approach for integrating benchmarking principles into a 14-week framework, focusing on planning, analysis, and KPI establishment.
 - Proposed KPIs for evaluating IT management performance, focusing on areas like system audits and infrastructure.
 
 ### Achievements:
-- Clarified strategic approaches for Six Sigma [[project management]] and stakeholder engagement.
+- Clarified strategic approaches for Six Sigma project management and stakeholder engagement.
 - Identified critical strategies for enhancing cross-functional collaboration.
 - Developed a framework for integrating synchronization resources and benchmarking in project planning.
 

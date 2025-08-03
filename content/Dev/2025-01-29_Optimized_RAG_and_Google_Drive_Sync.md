@@ -1,6 +1,6 @@
 ---
 title: "Optimized RAG and Google Drive Sync"
-tags: ['RAG', 'rclone', 'Google Drive', 'folder structure', 'automation']
+tags: ['RAG', 'Rclone', 'Google Drive', 'Folder Structure', 'Automation']
 created: 2025-01-29
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-01-29 — Session: Optimized RAG and Google Drive Sync
 
 **🕒 21:30–22:25**  
-**🏷️ Labels**: RAG, rclone, Google Drive, folder structure, automation  
+**🏷️ Labels**: RAG, Rclone, Google Drive, Folder Structure, Automation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -28,5 +28,5 @@ The session aimed to optimize data management and synchronization processes usin
 - Created a scalable and organized folder structure for diverse workflows.
 
 ### Pending Tasks
-- Further [[automation]] of the RAG pipeline and synchronization processes.
+- Further automation of the RAG pipeline and synchronization processes.
 - Implementation of suggested improvements for the teaching directory structure.

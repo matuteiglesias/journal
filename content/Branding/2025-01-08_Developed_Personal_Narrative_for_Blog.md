@@ -1,6 +1,6 @@
 ---
 title: "Developed Personal Narrative for Blog"
-tags: ['narrative', 'blog', 'storytelling', 'personal development', 'politics']
+tags: ['Narrative', 'Blog', 'Storytelling', 'Personal Development', 'Politics']
 created: 2025-01-08
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-08 — Session: Developed Personal Narrative for Blog
 
 **🕒 04:55–05:05**  
-**🏷️ Labels**: narrative, blog, storytelling, personal development, politics  
+**🏷️ Labels**: Narrative, Blog, Storytelling, Personal Development, Politics  
 **📂 Project**: Branding  
 **⭐ Priority**: MEDIUM  
 

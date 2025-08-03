@@ -1,6 +1,6 @@
 ---
 title: "Developed SVD Image Compression Notebook"
-tags: ['SVD', 'image compression', 'teaching', 'data analysis', 'Python']
+tags: ['SVD', 'Image Compression', 'Teaching', 'Data Analysis', 'Python']
 created: 2024-10-31
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-31 — Session: Developed SVD Image Compression Notebook
 
 **🕒 18:30–19:10**  
-**🏷️ Labels**: SVD, image compression, teaching, data analysis, Python  
+**🏷️ Labels**: SVD, Image Compression, Teaching, Data Analysis, Python  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

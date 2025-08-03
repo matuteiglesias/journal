@@ -1,6 +1,6 @@
 ---
 title: "Optimized Memory Management and Embedding in ChromaDB"
-tags: ['ChromaDB', 'Memory Management', 'Python', 'Embedding', 'Vector Store']
+tags: ['Chromadb', 'Memory Management', 'Python', 'Embedding', 'Vector Store']
 created: 2025-05-07
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-07 — Session: Optimized Memory Management and Embedding in ChromaDB
 
 **🕒 02:30–03:10**  
-**🏷️ Labels**: ChromaDB, Memory Management, Python, Embedding, Vector Store  
+**🏷️ Labels**: Chromadb, Memory Management, Python, Embedding, Vector Store  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

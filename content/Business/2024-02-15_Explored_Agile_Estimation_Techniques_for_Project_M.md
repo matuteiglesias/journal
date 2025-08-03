@@ -1,6 +1,6 @@
 ---
 title: "Explored Agile Estimation Techniques for Project Management"
-tags: ['agile', 'project management', 'estimation', 'story points', 'ideal days']
+tags: ['Agile', 'Project Management', 'Estimation', 'Story Points', 'Ideal Days']
 created: 2024-02-15
 publish: false
 ---
@@ -8,13 +8,13 @@ publish: false
 ## 📅 2024-02-15 — Session: Explored Agile Estimation Techniques for Project Management
 
 **🕒 18:15–18:45**  
-**🏷️ Labels**: agile, project management, estimation, story points, ideal days  
+**🏷️ Labels**: Agile, Project Management, Estimation, Story Points, Ideal Days  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to explore various estimation techniques in agile [[project management]], focusing on improving planning accuracy and efficiency.
+The session aimed to explore various estimation techniques in agile project management, focusing on improving planning accuracy and efficiency.
 
 ### Key Activities
 - Analyzed common pitfalls in traditional project planning and suggested a value-centric approach.
@@ -25,7 +25,7 @@ The session aimed to explore various estimation techniques in agile [[project ma
 - Compared story points and ideal days, recommending gradual adoption of story points for teams struggling with abstract estimations.
 
 ### Achievements
-- Gained insights into agile methodologies and their application in [[project management]].
+- Gained insights into agile methodologies and their application in project management.
 - Clarified the distinction between size and duration estimations in agile projects.
 - Identified effective estimation techniques and their benefits in agile environments.
 

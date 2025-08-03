@@ -1,6 +1,6 @@
 ---
 title: "Developed Modular Processing Pipeline"
-tags: ['modular design', 'document processing', 'AI engineering', 'chunk enrichment', 'Python']
+tags: ['Modular Design', 'Document Processing', 'Ai Engineering', 'Chunk Enrichment', 'Python']
 created: 2025-02-06
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-06 — Session: Developed Modular Processing Pipeline
 
 **🕒 22:15–23:25**  
-**🏷️ Labels**: modular design, document processing, AI engineering, chunk enrichment, Python  
+**🏷️ Labels**: Modular Design, Document Processing, Ai Engineering, Chunk Enrichment, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -23,7 +23,7 @@ The goal of this session was to design and implement a modular processing pipeli
 - Developed a modular chunk processing system with components like ChunkManager, ChunkProcessor, and ChunkEnricher.
 - Implemented one-liner tests for `ChunkManager` methods to ensure functionality.
 - Managed temporary test files in [[Python]] to improve testing processes.
-- Fixed dynamic text passing in `ChunkEnricher` to ensure proper [[OpenAI]] [[API]] integration.
+- Fixed dynamic text passing in `ChunkEnricher` to ensure proper OpenAI [[API]] integration.
 
 ### Achievements
 - Successfully designed a comprehensive modular processing pipeline architecture.
@@ -32,4 +32,4 @@ The goal of this session was to design and implement a modular processing pipeli
 
 ### Pending Tasks
 - Further testing and validation of the entire pipeline.
-- Optimization of [[AI]] workflows for chunk enrichment.
+- [[Optimization]] of [[AI]] workflows for chunk enrichment.

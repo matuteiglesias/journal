@@ -18,7 +18,7 @@ The session aimed to deploy a [[Docusaurus]] site on Vercel with proper DNS conf
 
 ### Key Activities
 - Followed a deployment guide for [[Docusaurus]] on Vercel with AWS Route 53.
-- Executed a plan to connect a [[GitHub]] repository with Vercel for CI/CD.
+- Executed a plan to connect a GitHub repository with Vercel for CI/CD.
 - Analyzed the use of the subdomain `main.matuteiglesias.link` for [[SEO]] and DNS purposes.
 - Planned deployment of multiple apps on Vercel with [[SEO]] considerations.
 - Resolved Yarn installation errors and peer dependency issues in Vercel builds.

@@ -1,6 +1,6 @@
 ---
 title: "Developed Family Financial Management Framework"
-tags: ['family finance', 'property management', 'legal strategy', 'financial planning', 'conflict resolution']
+tags: ['Family Finance', 'Property Management', 'Legal Strategy', 'Financial Planning', 'Conflict Resolution']
 created: 2024-11-19
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-19 — Session: Developed Family Financial Management Framework
 
 **🕒 05:30–08:30**  
-**🏷️ Labels**: family finance, property management, legal strategy, financial planning, conflict resolution  
+**🏷️ Labels**: Family Finance, Property Management, Legal Strategy, Financial Planning, Conflict Resolution  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -21,14 +21,14 @@ The session aimed to develop comprehensive strategies for family financial manag
 - **Property Management Framework:** Developed a framework outlining roles, financial guidelines, and a dividend distribution plan.
 - **Legal Agreements:** Drafted legal agreements for property management and dividend distribution, aligned with Argentine law.
 - **Financial Journey Planning:** Created a phased financial journey plan focusing on recovery, growth, and self-sufficiency.
-- **Leadership Transition in Property Management:** Provided a guide for transitioning to [[leadership]] roles in managing family or investment properties.
+- **[[Leadership]] Transition in Property Management:** Provided a guide for transitioning to leadership roles in managing family or investment properties.
 - **Legal Strategies for Usufruct Management:** Outlined legal strategies for managing usufruct rights and addressing mismanagement.
 - **Intergenerational Wealth Management:** Proposed solutions for managing intergenerational wealth, including accountability frameworks.
 
 ### Achievements
 - Developed a detailed framework for managing family financial dynamics and property management.
 - Created legal and financial templates for property management agreements.
-- Established strategies for transitioning to [[leadership]] roles in property management.
+- Established strategies for transitioning to leadership roles in property management.
 
 ### Pending Tasks
 - Further refinement of legal agreements and financial strategies.

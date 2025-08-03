@@ -25,7 +25,7 @@ The objective of this session was to process OCR-extracted data and structure it
 
 ### Achievements
 - Successfully cleaned and structured OCR output data into two separate [[CSV]] files.
-- Made [[CSV]] files available for download, facilitating further [[data analysis]] and management.
+- Made [[CSV]] files available for download, facilitating further data analysis and management.
 - Resolved date format recognition issues in Google Sheets, ensuring consistency across data entries.
 
 ### Pending Tasks

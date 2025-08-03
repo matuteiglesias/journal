@@ -1,6 +1,6 @@
 ---
 title: "Diagnosed and Managed Disk Space in Backup Directories"
-tags: ['backup', 'Linux', 'file management', 'disk cleanup', 'automation', 'system maintenance']
+tags: ['Backup', 'Linux', 'File Management', 'Disk Cleanup', 'Automation', 'System Maintenance']
 created: 2025-02-27
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-27 — Session: Diagnosed and Managed Disk Space in Backup Directories
 
 **🕒 17:00–17:15**  
-**🏷️ Labels**: backup, Linux, file management, disk cleanup, automation, system maintenance  
+**🏷️ Labels**: Backup, Linux, File Management, Disk Cleanup, Automation, System Maintenance  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -30,4 +30,4 @@ The session aimed to diagnose and manage disk space discrepancies in backup dire
 - Further analysis may be required to ensure no critical files are removed inadvertently.
 
 ### Tags
-- backup, Linux, file management, disk cleanup, [[automation]], system maintenance
+- backup, Linux, file management, disk cleanup, automation, system maintenance

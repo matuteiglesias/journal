@@ -18,7 +18,7 @@ The session aimed to design and refine a database schema for managing Individual
 
 ### Key Activities
 - Analyzed and designed a data schema for PEIs, outlining necessary tables and relationships.
-- Created technical [[documentation]] detailing requirements, models, specifications, and procedures for implementing the schema.
+- Created technical documentation detailing requirements, models, specifications, and procedures for implementing the schema.
 - Developed a DBML schema for managing PEIs, including tables for students, tutors, and subjects.
 - Addressed duplication issues in DBML relationships and proposed solutions with code examples.
 - Emphasized the use of technical and descriptive names in database systems for better accessibility.

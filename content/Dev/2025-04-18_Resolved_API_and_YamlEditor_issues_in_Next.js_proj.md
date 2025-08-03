@@ -1,6 +1,6 @@
 ---
 title: "Resolved API and YamlEditor issues in Next.js project"
-tags: ['Next.js', 'API', 'React', 'YamlEditor', 'Debugging']
+tags: ['Next.Js', 'API', 'React', 'Yamleditor', 'Debugging']
 created: 2025-04-18
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-18 — Session: Resolved API and YamlEditor issues in Next.js project
 
 **🕒 00:05–00:45**  
-**🏷️ Labels**: Next.js, API, React, YamlEditor, Debugging  
+**🏷️ Labels**: Next.Js, API, React, Yamleditor, Debugging  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -25,7 +25,7 @@ The goal of this session was to debug and fix various issues related to [[API]] 
 - **[[API]] Response [[Debugging]]**: Diagnosed and fixed an undefined [[API]] response issue for YAML file fetching, adjusting the App Router and response structure.
 - **Editor Synchronization**: Ensured the [[API]] endpoint returns the correct format and synchronized the editor component with its props, including code verification.
 - **YamlEditor Component Fix**: Revised the YamlEditor implementation to reflect external value changes without using internal state.
-- **Refactoring YamlEditor**: Refactored the component for controlled and dirty state management, enhancing functionality with code snippets.
+- **[[Refactoring]] YamlEditor**: Refactored the component for controlled and dirty state management, enhancing functionality with code snippets.
 
 ### Achievements
 - Successfully resolved [[API]] fetch and route issues in the Next.js application.

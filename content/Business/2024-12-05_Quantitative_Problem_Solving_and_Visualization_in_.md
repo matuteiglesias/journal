@@ -1,6 +1,6 @@
 ---
 title: "Quantitative Problem Solving and Visualization in Finance"
-tags: ['capital_management', 'data_visualization', 'Bayesian_inference', 'financial_analysis', 'Python', 'candlestick_charts']
+tags: ['Capital_Management', 'Data_Visualization', 'Bayesian_Inference', 'Financial_Analysis', 'Python', 'Candlestick_Charts']
 created: 2024-12-05
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-12-05 — Session: Quantitative Problem Solving and Visualization in Finance
 
 **🕒 13:05–14:05**  
-**🏷️ Labels**: capital_management, data_visualization, Bayesian_inference, financial_analysis, Python, candlestick_charts  
+**🏷️ Labels**: Capital_Management, Data_Visualization, Bayesian_Inference, Financial_Analysis, Python, Candlestick_Charts  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -26,7 +26,7 @@ The session aimed to explore quantitative problem-solving approaches in capital 
 
 ### Achievements
 - Successfully introduced and outlined frameworks for quantitative problem-solving in capital management.
-- Implemented and customized candlestick charts for financial [[data visualization]], enhancing analysis capabilities.
+- Implemented and customized candlestick charts for financial data visualization, enhancing analysis capabilities.
 
 ### Pending Tasks
 - Further exploration of Bayesian inference applications in financial decision-making.

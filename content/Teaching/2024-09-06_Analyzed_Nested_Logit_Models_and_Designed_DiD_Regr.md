@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Nested Logit Models and Designed DiD Regression Problems"
-tags: ['nested logit', 'DiD', 'regression', 'investment', 'game theory']
+tags: ['Nested Logit', 'Did', 'Regression', 'Investment', 'Game Theory']
 created: 2024-09-06
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-06 — Session: Analyzed Nested Logit Models and Designed DiD Regression Problems
 
 **🕒 00:50–02:10**  
-**🏷️ Labels**: nested logit, DiD, regression, investment, game theory  
+**🏷️ Labels**: Nested Logit, Did, Regression, Investment, Game Theory  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

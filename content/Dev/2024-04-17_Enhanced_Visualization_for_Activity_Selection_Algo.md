@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Visualization for Activity Selection Algorithms"
-tags: ['visualization', 'dynamic programming', 'activity selection', 'matplotlib', 'algorithm']
+tags: ['Visualization', 'Dynamic Programming', 'Activity Selection', 'Matplotlib', 'Algorithm']
 created: 2024-04-17
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2024-04-17 — Session: Enhanced Visualization for Activity Selection Algorithms
 
 **🕒 03:00–05:30**  
-**🏷️ Labels**: visualization, dynamic programming, activity selection, matplotlib, algorithm  
+**🏷️ Labels**: Visualization, Dynamic Programming, Activity Selection, Matplotlib, Algorithm  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to enhance the visualization capabilities of various activity selection algorithms to improve understanding and [[debugging]].
+The session aimed to enhance the visualization capabilities of various activity selection algorithms to improve understanding and debugging.
 
 ### Key Activities
 - Modified the `visualizar` method to display selected and unselected activities separately, adjusting the y-axis and using colors for differentiation.

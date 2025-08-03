@@ -1,6 +1,6 @@
 ---
 title: "Advanced Econometrics and Statistical Analysis Session"
-tags: ['econometrics', 'covariance', 'volatility', 'statistical analysis', 'Python']
+tags: ['Econometrics', 'Covariance', 'Volatility', 'Statistical Analysis', 'Python']
 created: 2024-06-25
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-06-25 — Session: Advanced Econometrics and Statistical Analysis Session
 
 **🕒 01:10–01:50**  
-**🏷️ Labels**: econometrics, covariance, volatility, statistical analysis, Python  
+**🏷️ Labels**: Econometrics, Covariance, Volatility, Statistical Analysis, Python  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

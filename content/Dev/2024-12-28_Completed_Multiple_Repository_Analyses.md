@@ -23,7 +23,7 @@ The session aimed to finalize and document analyses for various data repositorie
 - Completed the analysis for the Compute-Corr-Structures and Computational-Abe repositories.
 
 ### Achievements
-- All analyses were completed and made available for download in markdown format, ensuring structured [[documentation]] of insights.
+- All analyses were completed and made available for download in markdown format, ensuring structured documentation of insights.
 
 ### Pending Tasks
 - No pending tasks were identified during this session.

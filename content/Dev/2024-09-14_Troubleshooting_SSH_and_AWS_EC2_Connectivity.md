@@ -1,6 +1,6 @@
 ---
 title: "Troubleshooting SSH and AWS EC2 Connectivity"
-tags: ['SSH', 'AWS', 'troubleshooting', 'cloud computing', 'networking']
+tags: ['SSH', 'AWS', 'Troubleshooting', 'Cloud Computing', 'Networking']
 created: 2024-09-14
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-14 — Session: Troubleshooting SSH and AWS EC2 Connectivity
 
 **🕒 18:50–19:10**  
-**🏷️ Labels**: SSH, AWS, troubleshooting, cloud computing, networking  
+**🏷️ Labels**: SSH, AWS, Troubleshooting, Cloud Computing, Networking  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

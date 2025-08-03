@@ -1,6 +1,6 @@
 ---
 title: "Explored Economic Volatility and Sectoral Comovements"
-tags: ['economic volatility', 'sectoral sales', 'comovements', 'macroeconomic analysis', 'policy implications']
+tags: ['Economic Volatility', 'Sectoral Sales', 'Comovements', 'Macroeconomic Analysis', 'Policy Implications']
 created: 2023-10-21
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-10-21 — Session: Explored Economic Volatility and Sectoral Comovements
 
 **🕒 00:10–02:30**  
-**🏷️ Labels**: economic volatility, sectoral sales, comovements, macroeconomic analysis, policy implications  
+**🏷️ Labels**: Economic Volatility, Sectoral Sales, Comovements, Macroeconomic Analysis, Policy Implications  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

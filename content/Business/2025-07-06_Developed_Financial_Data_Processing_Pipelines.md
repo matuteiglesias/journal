@@ -1,6 +1,6 @@
 ---
 title: "Developed Financial Data Processing Pipelines"
-tags: ['Wise', 'transactions', 'Python', 'data pipeline', 'financial analysis']
+tags: ['Wise', 'Transactions', 'Python', 'Data Pipeline', 'Financial Analysis']
 created: 2025-07-06
 publish: false
 ---
@@ -8,13 +8,13 @@ publish: false
 ## 📅 2025-07-06 — Session: Developed Financial Data Processing Pipelines
 
 **🕒 00:30–00:50**  
-**🏷️ Labels**: Wise, transactions, Python, data pipeline, financial analysis  
+**🏷️ Labels**: Wise, Transactions, Python, Data Pipeline, Financial Analysis  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to develop and refine [[data processing]] pipelines for handling Wise transactions and financial data aggregation.
+The goal of this session was to develop and refine data processing pipelines for handling Wise transactions and financial data aggregation.
 
 ### Key Activities
 - Identified missing transactions in Wise activity and prepared a [[CSV]]-style table for data management.

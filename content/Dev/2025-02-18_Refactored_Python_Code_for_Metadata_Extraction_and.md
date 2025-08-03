@@ -18,7 +18,7 @@ The session aimed to enhance [[Python]] scripts for metadata extraction and text
 
 ### Key Activities
 - Corrected file extension checks in [[Python]] code to ensure proper handling of file types.
-- Explored fast text classification techniques, including traditional [[machine learning]] models and transformer-based models.
+- Explored fast text classification techniques, including traditional machine learning models and transformer-based models.
 - Developed a systematic approach to text classification, including dataset selection and model training.
 - Compiled a list of recommended datasets for text categorization and web data classification.
 - Investigated perception layers in deep learning models for feature extraction.

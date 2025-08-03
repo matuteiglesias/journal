@@ -1,6 +1,6 @@
 ---
 title: "Automated Data Scraping and ETL Setup"
-tags: ['cron jobs', 'automation', 'ETL', 'data pipeline', 'scraping']
+tags: ['Cron Jobs', 'Automation', 'ETL', 'Data Pipeline', 'Scraping']
 created: 2024-10-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-28 — Session: Automated Data Scraping and ETL Setup
 
 **🕒 18:00–18:30**  
-**🏷️ Labels**: cron jobs, automation, ETL, data pipeline, scraping  
+**🏷️ Labels**: Cron Jobs, Automation, ETL, Data Pipeline, Scraping  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -19,8 +19,8 @@ The session aimed to set up and finalize cron jobs for automating data scraping 
 ### Key Activities
 - Configured cron jobs to automate data scraping and ETL scripts.
 - Finalized setup for automated web scraping and ETL processing with specific commands and scheduling.
-- Developed a roadmap for enhancing the scraping and ETL pipeline, focusing on [[optimization]] and future readiness.
-- Scheduled data [[workflow]] tasks related to [[optimization]], processing logic, and systematic [[automation]].
+- Developed a roadmap for enhancing the scraping and ETL pipeline, focusing on optimization and future readiness.
+- Scheduled data workflow tasks related to optimization, processing logic, and systematic automation.
 - Provided a step-by-step guide for setting up cron jobs to run scraping commands twice daily.
 
 ### Achievements

@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Visualized Firm Profit Strategies"
-tags: ['collusion', 'profit analysis', 'game theory', 'Nash equilibrium', 'Python', 'Weibull distribution']
+tags: ['Collusion', 'Profit Analysis', 'Game Theory', 'Nash Equilibrium', 'Python', 'Weibull Distribution']
 created: 2024-09-10
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-09-10 — Session: Analyzed and Visualized Firm Profit Strategies
 
 **🕒 00:25–00:45**  
-**🏷️ Labels**: collusion, profit analysis, game theory, Nash equilibrium, Python, Weibull distribution  
+**🏷️ Labels**: Collusion, Profit Analysis, Game Theory, Nash Equilibrium, Python, Weibull Distribution  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -30,4 +30,4 @@ To analyze and visualize firm profit strategies under different economic scenari
 
 ### Pending Tasks
 - Further refine the model assumptions for collusion conditions to prevent negative profits.
-- Explore additional economic scenarios for firm [[strategy]] visualization.
+- Explore additional economic scenarios for firm strategy visualization.

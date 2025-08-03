@@ -1,6 +1,6 @@
 ---
 title: "Developed Presentation Structures for Algorithm Education"
-tags: ['backtracking', 'algorithms', 'education', 'presentation', 'AI integration']
+tags: ['Backtracking', 'Algorithms', 'Education', 'Presentation', 'Ai Integration']
 created: 2024-03-19
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-03-19 — Session: Developed Presentation Structures for Algorithm Education
 
 **🕒 19:05–19:55**  
-**🏷️ Labels**: backtracking, algorithms, education, presentation, AI integration  
+**🏷️ Labels**: Backtracking, Algorithms, Education, Presentation, Ai Integration  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

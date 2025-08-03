@@ -1,6 +1,6 @@
 ---
 title: "Developed and Validated Section Number Continuation Function"
-tags: ['function', 'validation', 'programming', 'section numbers', 'text processing']
+tags: ['Function', 'Validation', 'Programming', 'Section Numbers', 'Text Processing']
 created: 2023-11-11
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-11-11 — Session: Developed and Validated Section Number Continuation Function
 
 **🕒 02:20–02:30**  
-**🏷️ Labels**: function, validation, programming, section numbers, text processing  
+**🏷️ Labels**: Function, Validation, Programming, Section Numbers, Text Processing  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to design and implement enhancements for knowledge management using Obsidian and [[AI]] tools, focusing on Markdown processing, semantic routing, and [[automation]].
+The session aimed to design and implement enhancements for knowledge management using Obsidian and [[AI]] tools, focusing on Markdown processing, semantic routing, and automation.
 
 ### Key Activities
 - Designed a modular Markdown patch engine to integrate [[AI]]-generated content into existing Markdown files without duplication.
@@ -29,15 +29,15 @@ The session aimed to design and implement enhancements for knowledge management 
 - Proposed a unified [[JSON]] schema for organizing [[AI]]-generated responses in Obsidian.
 - Executed a plan for creating Obsidian-ready Markdown files from [[JSON]] responses.
 - Improved AIflow for GPT chat review by chaining schema calls.
-- Provided developer onboarding for [[automation]] scripts like `ingest.py` and `batch_promptflow_runner.py`.
-- Explored options for modular [[PromptFlow]] structures and extended DAGs for dual schema support.
+- Provided developer onboarding for automation scripts like `ingest.py` and `batch_promptflow_runner.py`.
+- Explored options for modular PromptFlow structures and extended DAGs for dual schema support.
 - Implemented a dynamic LLM wrapper using Pydantic for schema validation.
 
 ### Achievements
 - Established a comprehensive framework for integrating [[AI]] with Obsidian for knowledge management.
-- Developed guides and templates for setting up and optimizing Obsidian and associated [[automation]] scripts.
-- Enhanced the flexibility and modularity of [[PromptFlow]] and LLM wrappers.
+- Developed guides and templates for setting up and optimizing Obsidian and associated automation scripts.
+- Enhanced the flexibility and modularity of PromptFlow and LLM wrappers.
 
 ### Pending Tasks
 - Further testing and refinement of the proposed systems and scripts.
-- Continued development of modular and dynamic schema support in [[PromptFlow]].
+- Continued development of modular and dynamic schema support in PromptFlow.

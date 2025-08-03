@@ -1,6 +1,6 @@
 ---
 title: "BigQuery Public Access and Email Search Setup"
-tags: ['BigQuery', 'Public Access', 'MBOX', 'Elasticsearch', 'Troubleshooting']
+tags: ['Bigquery', 'Public Access', 'MBOX', 'Elasticsearch', 'Troubleshooting']
 created: 2025-02-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-28 — Session: BigQuery Public Access and Email Search Setup
 
 **🕒 00:20–02:05**  
-**🏷️ Labels**: BigQuery, Public Access, MBOX, Elasticsearch, Troubleshooting  
+**🏷️ Labels**: Bigquery, Public Access, MBOX, Elasticsearch, Troubleshooting  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

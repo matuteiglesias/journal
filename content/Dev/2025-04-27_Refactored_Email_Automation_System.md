@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to improve the EmailWatcherAgent class and overall email [[automation]] system.
+The primary goal of this session was to improve the EmailWatcherAgent class and overall email automation system.
 
 ### Key Activities
 - **Code Improvements:** Upgraded the EmailWatcherAgent class to accept `triager_agent` and `routing_rules` as parameters, resolving a TypeError and enhancing modularity.
@@ -23,8 +23,8 @@ The primary goal of this session was to improve the EmailWatcherAgent class and 
 
 ### Achievements
 - Successfully refactored the EmailWatcherAgent class, improving its initialization and functionality.
-- Enhanced the modularity and robustness of the email [[automation]] system.
+- Enhanced the modularity and robustness of the email automation system.
 
 ### Pending Tasks
 - Further testing of the upgraded system to ensure stability and performance.
-- Implement additional modularization strategies for other components of the email [[automation]] system.
+- Implement additional modularization strategies for other components of the email automation system.

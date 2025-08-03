@@ -1,6 +1,6 @@
 ---
 title: "Developed robust web scraping and data handling scripts"
-tags: ['web scraping', 'Python', 'BeautifulSoup', 'data handling', 'error management']
+tags: ['Web Scraping', 'Python', 'Beautifulsoup', 'Data Handling', 'Error Management']
 created: 2023-10-22
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-10-22 — Session: Developed robust web scraping and data handling scripts
 
 **🕒 01:30–02:35**  
-**🏷️ Labels**: web scraping, Python, BeautifulSoup, data handling, error management  
+**🏷️ Labels**: Web Scraping, Python, Beautifulsoup, Data Handling, Error Management  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -20,7 +20,7 @@ The session aimed to enhance and refine web scraping techniques for extracting p
 - Implemented [[Python]] scripts using BeautifulSoup and requests to extract product details such as title, description, image URL, product URL, and price from webpages.
 - Developed methods to extract Open Graph and Twitter meta tag descriptions using BeautifulSoup.
 - Created a [[Python]] implementation for scraping product details from multiple URLs and storing results in a pandas DataFrame.
-- Enhanced [[error handling]] in web scraping scripts to manage invalid URLs and None values.
+- Enhanced error handling in web scraping scripts to manage invalid URLs and None values.
 - Resolved AttributeError issues in DataFrame creation by filtering out None values.
 - Implemented a `parse_price` function to extract currency and value from price strings using regular expressions.
 - Adjusted regular expressions to fix currency parsing issues in price strings.

@@ -1,6 +1,6 @@
 ---
 title: "Design Concepts for Unity and Diversity"
-tags: ['flag design', 'logo design', 'unity', 'diversity', 'graphic design']
+tags: ['Flag Design', 'Logo Design', 'Unity', 'Diversity', 'Graphic Design']
 created: 2024-08-08
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-08-08 — Session: Design Concepts for Unity and Diversity
 
 **🕒 20:30–20:40**  
-**🏷️ Labels**: flag design, logo design, unity, diversity, graphic design  
+**🏷️ Labels**: Flag Design, Logo Design, Unity, Diversity, Graphic Design  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

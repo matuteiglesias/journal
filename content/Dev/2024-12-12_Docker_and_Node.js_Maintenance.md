@@ -1,6 +1,6 @@
 ---
 title: "Docker and Node.js Maintenance"
-tags: ['Docker', 'Node.js', 'n8n', 'System Maintenance', 'DevOps']
+tags: ['Docker', 'Node.Js', 'N8N', 'System Maintenance', 'Devops']
 created: 2024-12-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-12 — Session: Docker and Node.js Maintenance
 
 **🕒 15:15–15:30**  
-**🏷️ Labels**: Docker, Node.js, n8n, System Maintenance, DevOps  
+**🏷️ Labels**: Docker, Node.Js, N8N, System Maintenance, Devops  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Enhanced STAR Responses and CV for Job Applications"
-tags: ['STAR', 'job application', 'interview preparation', 'CV enhancement', 'professional development']
+tags: ['STAR', 'Job Application', 'Interview Preparation', 'Cv Enhancement', 'Professional Development']
 created: 2024-11-27
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-27 — Session: Enhanced STAR Responses and CV for Job Applications
 
 **🕒 01:20–03:10**  
-**🏷️ Labels**: STAR, job application, interview preparation, CV enhancement, professional development  
+**🏷️ Labels**: STAR, Job Application, Interview Preparation, Cv Enhancement, Professional Development  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

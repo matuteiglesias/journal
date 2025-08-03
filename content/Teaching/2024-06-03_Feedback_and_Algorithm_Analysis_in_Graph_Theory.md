@@ -1,6 +1,6 @@
 ---
 title: "Feedback and Algorithm Analysis in Graph Theory"
-tags: ['graph theory', 'feedback', 'DAG', 'algorithm', 'DFS']
+tags: ['Graph Theory', 'Feedback', 'DAG', 'Algorithm', 'DFS']
 created: 2024-06-03
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-06-03 — Session: Feedback and Algorithm Analysis in Graph Theory
 
 **🕒 00:10–02:15**  
-**🏷️ Labels**: graph theory, feedback, DAG, algorithm, DFS  
+**🏷️ Labels**: Graph Theory, Feedback, DAG, Algorithm, DFS  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

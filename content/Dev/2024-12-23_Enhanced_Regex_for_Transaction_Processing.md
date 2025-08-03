@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Regex for Transaction Processing"
-tags: ['regex', 'transaction parsing', 'Python', 'data processing']
+tags: ['Regex', 'Transaction Parsing', 'Python', 'Data Processing']
 created: 2024-12-23
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-23 — Session: Enhanced Regex for Transaction Processing
 
 **🕒 00:00–01:00**  
-**🏷️ Labels**: regex, transaction parsing, Python, data processing  
+**🏷️ Labels**: Regex, Transaction Parsing, Python, Data Processing  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

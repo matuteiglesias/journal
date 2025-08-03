@@ -1,6 +1,6 @@
 ---
 title: "PDF Invoice Generation and Styling Enhancements"
-tags: ['PDF Generation', 'CSS Styling', 'Python', 'Invoices', 'HTML']
+tags: ['Pdf Generation', 'Css Styling', 'Python', 'Invoices', 'HTML']
 created: 2025-01-07
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-01-07 — Session: PDF Invoice Generation and Styling Enhancements
 
 **🕒 19:55–20:20**  
-**🏷️ Labels**: PDF Generation, CSS Styling, Python, Invoices, HTML  
+**🏷️ Labels**: Pdf Generation, Css Styling, Python, Invoices, HTML  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

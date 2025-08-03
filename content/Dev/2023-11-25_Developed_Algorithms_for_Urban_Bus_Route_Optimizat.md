@@ -1,6 +1,6 @@
 ---
 title: "Developed Algorithms for Urban Bus Route Optimization"
-tags: ['algorithms', 'transportation', 'optimization', 'Dijkstra', 'Python']
+tags: ['Algorithms', 'Transportation', 'Optimization', 'Dijkstra', 'Python']
 created: 2023-11-25
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-11-25 — Session: Developed Algorithms for Urban Bus Route Optimization
 
 **🕒 07:40–08:15**  
-**🏷️ Labels**: algorithms, transportation, optimization, Dijkstra, Python  
+**🏷️ Labels**: Algorithms, Transportation, Optimization, Dijkstra, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -29,4 +29,4 @@ The session aimed to develop and refine algorithms for optimizing urban bus rout
 
 ### Pending Tasks
 - Further testing and refinement of the developed algorithms in practical scenarios.
-- Exploration of additional [[optimization]] techniques to enhance route efficiency.
+- Exploration of additional optimization techniques to enhance route efficiency.

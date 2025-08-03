@@ -1,6 +1,6 @@
 ---
 title: "Enhanced UI for Trace Viewer and YAML Editor"
-tags: ['React', 'UI', 'Next.js', 'Tailwind', 'Layout']
+tags: ['React', 'UI', 'Next.Js', 'Tailwind', 'Layout']
 created: 2025-04-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-17 — Session: Enhanced UI for Trace Viewer and YAML Editor
 
 **🕒 03:50–04:01**  
-**🏷️ Labels**: React, UI, Next.js, Tailwind, Layout  
+**🏷️ Labels**: React, UI, Next.Js, Tailwind, Layout  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

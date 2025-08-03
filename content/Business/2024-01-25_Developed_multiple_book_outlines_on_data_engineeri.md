@@ -1,6 +1,6 @@
 ---
 title: "Developed multiple book outlines on data engineering topics"
-tags: ['book outline', 'data engineering', 'cloud computing', 'management']
+tags: ['Book Outline', 'Data Engineering', 'Cloud Computing', 'Management']
 created: 2024-01-25
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-01-25 — Session: Developed multiple book outlines on data engineering topics
 
 **🕒 02:05–02:57**  
-**🏷️ Labels**: book outline, data engineering, cloud computing, management  
+**🏷️ Labels**: Book Outline, Data Engineering, Cloud Computing, Management  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

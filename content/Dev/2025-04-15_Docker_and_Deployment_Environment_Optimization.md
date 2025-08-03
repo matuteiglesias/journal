@@ -20,7 +20,7 @@ The session aimed to improve Docker configurations for development and productio
 - Improved Docker setup by cleaning up configurations and revising the Dockerfile for both development and production.
 - Troubleshot and resolved integration issues between Gunicorn and Uvicorn, ensuring they are installed in the same [[Python]] environment.
 - Optimized [[Python]] dependency management by exporting requirements and using tools like pipreqs.
-- Cleaned up [[Python]] requirements for a [[FastAPI]] application to ensure readiness for Docker and production use.
+- Cleaned up [[Python]] requirements for a FastAPI application to ensure readiness for Docker and production use.
 
 ### Achievements
 - Successfully revised Docker configurations and resolved Gunicorn-Uvicorn integration issues.

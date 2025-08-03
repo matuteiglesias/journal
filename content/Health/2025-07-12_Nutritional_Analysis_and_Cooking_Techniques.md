@@ -1,6 +1,6 @@
 ---
 title: "Nutritional Analysis and Cooking Techniques"
-tags: ['nutrition', 'cooking', 'health', 'recipe', 'technique']
+tags: ['Nutrition', 'Cooking', 'Health', 'Recipe', 'Technique']
 created: 2025-07-12
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-07-12 — Session: Nutritional Analysis and Cooking Techniques
 
 **🕒 18:50–19:10**  
-**🏷️ Labels**: nutrition, cooking, health, recipe, technique  
+**🏷️ Labels**: Nutrition, Cooking, Health, Recipe, Technique  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Organizational Structure Planning for Buenos Aires Security Ministry"
-tags: ['organizational structure', 'security', 'technology management', 'Buenos Aires', 'Ministry of Security']
+tags: ['Organizational Structure', 'Security', 'Technology Management', 'Buenos Aires', 'Ministry Of Security']
 created: 2023-12-12
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-12-12 — Session: Organizational Structure Planning for Buenos Aires Security Ministry
 
 **🕒 02:20–03:00**  
-**🏷️ Labels**: organizational structure, security, technology management, Buenos Aires, Ministry of Security  
+**🏷️ Labels**: Organizational Structure, Security, Technology Management, Buenos Aires, Ministry Of Security  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

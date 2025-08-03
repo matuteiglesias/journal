@@ -1,6 +1,6 @@
 ---
 title: "Explored Node.js + TypeScript Compatibility with Poe App-Creator"
-tags: ['Node.js', 'TypeScript', 'Poe App-Creator', 'Docker', 'RAG']
+tags: ['Node.Js', 'Typescript', 'Poe App-Creator', 'Docker', 'RAG']
 created: 2025-05-03
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-03 — Session: Explored Node.js + TypeScript Compatibility with Poe App-Creator
 
 **🕒 22:30–23:55**  
-**🏷️ Labels**: Node.js, TypeScript, Poe App-Creator, Docker, RAG  
+**🏷️ Labels**: Node.Js, Typescript, Poe App-Creator, Docker, RAG  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -21,7 +21,7 @@ The session aimed to explore the compatibility of deploying a Node.js + TypeScri
 - Explored transitioning strategies to adapt existing Node.js applications to Poe Canvas apps.
 - Outlined next steps for integrating RAG chat applications, focusing on modularization and platform adaptation.
 - Demonstrated a client-side RAG chat UI with potential modular variants.
-- Designed a crash course for deploying RAG-powered agents using [[FastAPI]].
+- Designed a crash course for deploying RAG-powered agents using FastAPI.
 - Discussed effective summarization techniques for YouTube videos.
 - Analyzed the README for E2-F5-TTS models, focusing on usability and structure.
 - Reviewed a deployment script for F5-TTS using Triton Inference Server.

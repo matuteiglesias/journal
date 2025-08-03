@@ -1,6 +1,6 @@
 ---
 title: "Configured Gmail API for Media Monitor Tool"
-tags: ['Gmail API', 'n8n', 'OAuth2', 'Google Cloud', 'Media Monitor']
+tags: ['Gmail Api', 'N8N', 'Oauth2', 'Google Cloud', 'Media Monitor']
 created: 2024-12-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-12 — Session: Configured Gmail API for Media Monitor Tool
 
 **🕒 17:20–18:10**  
-**🏷️ Labels**: Gmail API, n8n, OAuth2, Google Cloud, Media Monitor  
+**🏷️ Labels**: Gmail Api, N8N, Oauth2, Google Cloud, Media Monitor  
 **📂 Project**: Media  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Debt Tracking and OCR Data Extraction"
-tags: ['debt tracking', 'OCR', 'financial management', 'data extraction', 'Pandas', 'Google Sheets']
+tags: ['Debt Tracking', 'OCR', 'Financial Management', 'Data Extraction', 'Pandas', 'Google Sheets']
 created: 2024-12-31
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-12-31 — Session: Debt Tracking and OCR Data Extraction
 
 **🕒 01:00–03:45**  
-**🏷️ Labels**: debt tracking, OCR, financial management, data extraction, Pandas, Google Sheets  
+**🏷️ Labels**: Debt Tracking, OCR, Financial Management, Data Extraction, Pandas, Google Sheets  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -22,7 +22,7 @@ The session aimed to develop and refine systems for debt tracking and financial 
 - **Reverse Engineering Penalty Rules**: Outlined methods for reverse engineering penalty rules using observed data.
 - **Analysis of Rate Changes Using Scatter Plot**: Discussed potential models for analyzing rate changes.
 - **Municipal Debt Statement OCR Processing**: Executed OCR processes to extract data from municipal debt statements.
-- **OCR Data Extraction Summaries**: Compiled summaries of OCR data extraction for Tigre Municipality and TASA reports.
+- **OCR [[Data Extraction]] Summaries**: Compiled summaries of OCR data extraction for Tigre Municipality and TASA reports.
 
 ### Achievements
 - Developed a comprehensive plan for a debt tracking system integrating Google Sheets and [[Pandas]].

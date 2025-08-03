@@ -1,6 +1,6 @@
 ---
 title: "Physics Concept Tutoring and Problem Solving"
-tags: ['physics', 'education', 'guidance', 'ethics', 'problem solving']
+tags: ['Physics', 'Education', 'Guidance', 'Ethics', 'Problem Solving']
 created: 2025-03-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-28 — Session: Physics Concept Tutoring and Problem Solving
 
 **🕒 19:00–19:30**  
-**🏷️ Labels**: physics, education, guidance, ethics, problem solving  
+**🏷️ Labels**: Physics, Education, Guidance, Ethics, Problem Solving  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
@@ -19,7 +19,7 @@ The session aimed to provide guidance and support in understanding and solving p
 ### Key Activities
 - The assistant acted as a study buddy, guiding through physics concepts without providing direct answers.
 - Clarified the role in assessment support, emphasizing ethical guidelines.
-- Reflected on [[communication]] and ethical boundaries in user support.
+- Reflected on communication and ethical boundaries in user support.
 - Initiated a physics assessment (Thale's Tales) and provided a step-by-step solution for an electron transmission problem using the Beer-Lambert law.
 - Verified and corrected electron transmission and scattering results through [[Python]]-based calculations.
 - Reviewed an optical interference problem involving Fresnel equations and thin films.

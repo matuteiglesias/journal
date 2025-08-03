@@ -1,6 +1,6 @@
 ---
 title: "Evaluated student responses on graph theory algorithms"
-tags: ['DFS', 'graph theory', 'student evaluation', 'algorithms']
+tags: ['DFS', 'Graph Theory', 'Student Evaluation', 'Algorithms']
 created: 2023-10-09
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-10-09 — Session: Evaluated student responses on graph theory algorithms
 
 **🕒 16:40–20:45**  
-**🏷️ Labels**: DFS, graph theory, student evaluation, algorithms  
+**🏷️ Labels**: DFS, Graph Theory, Student Evaluation, Algorithms  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

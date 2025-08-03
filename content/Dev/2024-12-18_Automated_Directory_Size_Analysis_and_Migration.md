@@ -1,6 +1,6 @@
 ---
 title: "Automated Directory Size Analysis and Migration"
-tags: ['bash', 'automation', 'data migration', 'directory analysis', 'file integrity']
+tags: ['Bash', 'Automation', 'Data Migration', 'Directory Analysis', 'File Integrity']
 created: 2024-12-18
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-18 — Session: Automated Directory Size Analysis and Migration
 
 **🕒 22:05–22:25**  
-**🏷️ Labels**: bash, automation, data migration, directory analysis, file integrity  
+**🏷️ Labels**: Bash, Automation, Data Migration, Directory Analysis, File Integrity  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -24,7 +24,7 @@ The primary goal of this session was to automate the analysis of directory sizes
 5. **Verification with `diff -r`**: Used the `diff -r` command to verify directory copies, ensuring identical content post-migration.
 
 ### Achievements
-- Successfully automated the directory size analysis and planned a comprehensive migration [[strategy]].
+- Successfully automated the directory size analysis and planned a comprehensive migration strategy.
 - Developed scripts and checklists to facilitate efficient data management and migration processes.
 
 ### Pending Tasks

@@ -1,6 +1,6 @@
 ---
 title: "Resolved Python Module and Dependency Issues"
-tags: ['Python', 'pytest', 'dependencies', 'requirements', 'debugging']
+tags: ['Python', 'Pytest', 'Dependencies', 'Requirements', 'Debugging']
 created: 2025-04-14
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-14 — Session: Resolved Python Module and Dependency Issues
 
 **🕒 05:05–05:35**  
-**🏷️ Labels**: Python, pytest, dependencies, requirements, debugging  
+**🏷️ Labels**: Python, Pytest, Dependencies, Requirements, Debugging  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

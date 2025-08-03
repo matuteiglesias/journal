@@ -1,6 +1,6 @@
 ---
 title: "Session on Economics Publishing and SEO Strategies"
-tags: ['economics', 'SEO', 'content creation', 'AI', 'personal branding']
+tags: ['Economics', 'SEO', 'Content Creation', 'AI', 'Personal Branding']
 created: 2025-06-01
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-06-01 — Session: Session on Economics Publishing and SEO Strategies
 
 **🕒 05:40–08:40**  
-**🏷️ Labels**: economics, SEO, content creation, AI, personal branding  
+**🏷️ Labels**: Economics, SEO, Content Creation, AI, Personal Branding  
 **📂 Project**: Media  
 **⭐ Priority**: MEDIUM  
 
@@ -21,10 +21,10 @@ The session aimed to explore the landscape of economics journals and publishing,
 - **Using IDEAS/RePEc:** Explored tools for finding economics papers and discussed limitations and alternatives.
 - **Trends in Economics Research:** Analyzed recent highly cited papers, focusing on causal inference, ESG, and interdisciplinary influences.
 - **Meta-Level Insights:** Reflected on key themes in economics research, including ESG and digital transformation.
-- **Link Building Strategy:** Developed a [[strategy]] for enhancing personal website visibility through strategic backlinking.
-- **Content Strategy for Data Science:** Identified suitable outlets for [[data science]] articles and developed a strategic [[SEO]] and link-building approach.
+- **Link Building [[Strategy]]:** Developed a strategy for enhancing personal website visibility through strategic backlinking.
+- **Content [[Strategy]] for [[Data Science]]:** Identified suitable outlets for data science articles and developed a strategic [[SEO]] and link-building approach.
 - **Profile Listing and 'About Me' Section:** Enhanced professional visibility through directory listings and crafted a compelling 'About Me' section.
-- **[[AI]]-Powered Content Creation Pipeline:** Designed a pipeline for content creation using [[AI]], focusing on ethics and audience targeting.
+- **[[AI]]-Powered Content Creation [[Pipeline]]:** Designed a pipeline for content creation using [[AI]], focusing on ethics and audience targeting.
 
 ### Achievements
 - Developed a comprehensive understanding of the economics publishing landscape.

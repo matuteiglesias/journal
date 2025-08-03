@@ -1,6 +1,6 @@
 ---
 title: "Developed NLP Scripts for 'Docentes' Analysis"
-tags: ['NLP', 'Python', 'Text Analysis', 'docentes', 'spaCy', 'NLTK']
+tags: ['NLP', 'Python', 'Text Analysis', 'Docentes', 'Spacy', 'NLTK']
 created: 2023-11-19
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-11-19 — Session: Developed NLP Scripts for 'Docentes' Analysis
 
 **🕒 21:20–22:25**  
-**🏷️ Labels**: NLP, Python, Text Analysis, docentes, spaCy, NLTK  
+**🏷️ Labels**: NLP, Python, Text Analysis, Docentes, Spacy, NLTK  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

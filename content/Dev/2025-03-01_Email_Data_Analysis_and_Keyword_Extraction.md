@@ -18,10 +18,10 @@ The session aimed to analyze email data and enhance keyword extraction technique
 
 ### Key Activities
 - **DataFrame Filtering:** Implemented a [[Python]] function to filter email data based on sender and receiver addresses.
-- **Email Data Insights:** Generated insights from email exchanges, focusing on collaboration patterns and [[communication]] themes.
+- **Email Data Insights:** Generated insights from email exchanges, focusing on collaboration patterns and communication themes.
 - **LDA Keyword Extraction:** Applied LDA for keyword extraction, involving text preprocessing and topic visualization.
 - **LDA Output Analysis:** Evaluated LDA results and suggested improvements for better topic separation.
-- **RAKE Optimization:** Improved RAKE keyword extraction by addressing issues with irrelevant metadata and generic words.
+- **RAKE [[Optimization]]:** Improved RAKE keyword extraction by addressing issues with irrelevant metadata and generic words.
 - **RAKE Evaluation:** Assessed RAKE output quality and proposed enhancements using Named Entity Recognition and LDA.
 
 ### Achievements

@@ -1,6 +1,6 @@
 ---
 title: "Ciclo Todos and Ciclotodes Branding and Business Planning"
-tags: ['branding', 'business planning', 'logo design', 'Ciclo Todos', 'Ciclotodes', 'bicycle repair']
+tags: ['Branding', 'Business Planning', 'Logo Design', 'Ciclo Todos', 'Ciclotodes', 'Bicycle Repair']
 created: 2024-08-28
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-08-28 — Session: Ciclo Todos and Ciclotodes Branding and Business Planning
 
 **🕒 09:30–13:30**  
-**🏷️ Labels**: branding, business planning, logo design, Ciclo Todos, Ciclotodes, bicycle repair  
+**🏷️ Labels**: Branding, Business Planning, Logo Design, Ciclo Todos, Ciclotodes, Bicycle Repair  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

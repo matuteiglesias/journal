@@ -1,6 +1,6 @@
 ---
 title: "Weibull Duration Model Analysis and Educational Problem Design"
-tags: ['Weibull model', 'maximum likelihood estimation', 'job tenure', 'PhD education', 'statistical modeling']
+tags: ['Weibull Model', 'Maximum Likelihood Estimation', 'Job Tenure', 'Phd Education', 'Statistical Modeling']
 created: 2024-09-10
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-10 — Session: Weibull Duration Model Analysis and Educational Problem Design
 
 **🕒 01:50–03:00**  
-**🏷️ Labels**: Weibull model, maximum likelihood estimation, job tenure, PhD education, statistical modeling  
+**🏷️ Labels**: Weibull Model, Maximum Likelihood Estimation, Job Tenure, Phd Education, Statistical Modeling  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
@@ -21,7 +21,7 @@ The session aimed to explore and implement Weibull duration models for job tenur
 - Implemented [[Python]] code for Weibull model estimation and interpretation of job tenure coefficients.
 - Designed challenging questions for PhD students on duration models with unobserved heterogeneity.
 - Analyzed vulnerabilities in statistical exercises and proposed solutions to enhance complexity.
-- Addressed issues in Weibull model fitting, including parameter coherence and [[debugging]] log-likelihood estimation.
+- Addressed issues in Weibull model fitting, including parameter coherence and debugging log-likelihood estimation.
 - Created a PhD-level problem involving multivariate data generation and econometrics assessment.
 - Transformed statistical problems into engaging educational puzzles to promote critical thinking.
 
@@ -30,5 +30,5 @@ The session aimed to explore and implement Weibull duration models for job tenur
 - Developed educational content and exercises for advanced statistical modeling.
 
 ### Pending Tasks
-- Further review and interpretation of Weibull model results based on covariates such as [[education]], sector, and gender.
+- Further review and interpretation of Weibull model results based on covariates such as education, sector, and gender.
 - Continue refining educational problems to enhance student engagement and understanding.

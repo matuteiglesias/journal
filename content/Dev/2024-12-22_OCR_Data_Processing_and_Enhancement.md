@@ -19,7 +19,7 @@ The primary goal of this session was to enhance the Optical Character Recognitio
 ### Key Activities
 - **Data Cleaning and Structuring:** The OCR output data was cleaned and structured into a [[CSV]] format, and a DataFrame was created for better organization and usability.
 - **Refinement of OCR Process:** Identified issues with OCR output quality and proposed adjustments to enhance text extraction for meaningful transaction data.
-- **Improvement of OCR Data Extraction:** Addressed challenges of noise and formatting issues in refined OCR data and applied advanced text-cleaning techniques for improved accuracy.
+- **Improvement of OCR [[Data Extraction]]:** Addressed challenges of noise and formatting issues in refined OCR data and applied advanced text-cleaning techniques for improved accuracy.
 - **Enhancement of OCR Results:** Strategies were developed to enhance OCR results, including improving image quality, manual parsing support, and utilizing specialized OCR tools.
 - **Transaction Details Extraction:** Processed PDF content to extract relevant transaction details and created a structured dataset.
 - **Successful Extraction and Processing:** Transactions were successfully extracted from PDFs into a structured table, and micro-transactions were consolidated into a single DataFrame.

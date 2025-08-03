@@ -1,6 +1,6 @@
 ---
 title: "AI Model Prompt Engineering and Contract Review"
-tags: ['AI Models', 'Prompt Engineering', 'Contract Review', 'Legal Analysis', 'AI Training', 'Complex Prompts']
+tags: ['Ai Models', 'Prompt Engineering', 'Contract Review', 'Legal Analysis', 'Ai Training', 'Complex Prompts']
 created: 2025-03-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-28 — Session: AI Model Prompt Engineering and Contract Review
 
 **🕒 15:50–17:30**  
-**🏷️ Labels**: AI Models, Prompt Engineering, Contract Review, Legal Analysis, AI Training, Complex Prompts  
+**🏷️ Labels**: Ai Models, Prompt Engineering, Contract Review, Legal Analysis, Ai Training, Complex Prompts  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -23,7 +23,7 @@ The session focused on two main objectives: enhancing [[AI]] model prompt engine
    - Designed prompts to induce intelligent failure in [[AI]] models, aiding in training.
    - Conducted critical analysis of prompts for the Thale's Tales project.
    - Outlined question designs in advanced physics to challenge [[AI]] models.
-   - Provided a [[workflow]] for developing complex MCQs.
+   - Provided a workflow for developing complex MCQs.
    - Optimized prompt design with a checklist for clarity and complexity.
    - Utilized the GTFA Predictor for evaluating prompt complexity.
    - Finalized precision in model evaluation with CoT annotations.

@@ -1,6 +1,6 @@
 ---
 title: "Resolución de Errores en Pruebas de Base de Datos y Correo Electrónico"
-tags: ['errores', 'pruebas unitarias', 'base de datos', 'correo electrónico', 'asincronía']
+tags: ['Errores', 'Pruebas Unitarias', 'Base De Datos', 'Correo Electrónico', 'Asincronía']
 created: 2024-05-31
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-05-31 — Session: Resolución de Errores en Pruebas de Base de Datos y Correo Electrónico
 
 **🕒 16:25–16:45**  
-**🏷️ Labels**: errores, pruebas unitarias, base de datos, correo electrónico, asincronía  
+**🏷️ Labels**: Errores, Pruebas Unitarias, Base De Datos, Correo Electrónico, Asincronía  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

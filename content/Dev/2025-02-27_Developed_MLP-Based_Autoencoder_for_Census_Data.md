@@ -1,6 +1,6 @@
 ---
 title: "Developed MLP-Based Autoencoder for Census Data"
-tags: ['autoencoder', 'MLP', 'thesis', 'census data', 'deep learning']
+tags: ['Autoencoder', 'MLP', 'Thesis', 'Census Data', 'Deep Learning']
 created: 2025-02-27
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-27 — Session: Developed MLP-Based Autoencoder for Census Data
 
 **🕒 00:15–01:15**  
-**🏷️ Labels**: autoencoder, MLP, thesis, census data, deep learning  
+**🏷️ Labels**: Autoencoder, MLP, Thesis, Census Data, Deep Learning  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -19,7 +19,7 @@ The session aimed to advance the development of a Multilayer Perceptron (MLP) ba
 ### Key Activities
 - Outlined key architectural decisions for implementing an MLP-based autoencoder, emphasizing batch normalization and mean squared error as the loss function.
 - Discussed embedding dimension selection for socioeconomic data, considering intrinsic dimensionality and computational constraints.
-- Reflected on the use of autoencoders for population [[data visualization]] and the challenges in data encoding and representation.
+- Reflected on the use of autoencoders for population data visualization and the challenges in data encoding and representation.
 - Developed a structured thesis proposal, including core research questions and objectives for optimizing the autoencoder.
 - Expanded on the baseline MLP autoencoder section of the thesis, detailing model selection and training strategies.
 - Reviewed a timeline of key developments in autoencoders and neural networks.

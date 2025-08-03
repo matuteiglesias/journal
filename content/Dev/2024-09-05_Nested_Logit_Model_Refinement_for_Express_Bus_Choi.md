@@ -1,6 +1,6 @@
 ---
 title: "Nested Logit Model Refinement for Express Bus Choice"
-tags: ['nested logit model', 'probability', 'transportation', 'data analysis', 'model refinement']
+tags: ['Nested Logit Model', 'Probability', 'Transportation', 'Data Analysis', 'Model Refinement']
 created: 2024-09-05
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-05 — Session: Nested Logit Model Refinement for Express Bus Choice
 
 **🕒 22:20–23:05**  
-**🏷️ Labels**: nested logit model, probability, transportation, data analysis, model refinement  
+**🏷️ Labels**: Nested Logit Model, Probability, Transportation, Data Analysis, Model Refinement  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

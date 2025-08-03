@@ -1,6 +1,6 @@
 ---
 title: "Explored Economic Variance and Nonlinear Dynamics"
-tags: ['variance', 'nonlinearities', 'Law of Large Numbers', 'economic dynamics', 'quantile analysis']
+tags: ['Variance', 'Nonlinearities', 'Law Of Large Numbers', 'Economic Dynamics', 'Quantile Analysis']
 created: 2023-10-26
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-10-26 — Session: Explored Economic Variance and Nonlinear Dynamics
 
 **🕒 03:45–06:55**  
-**🏷️ Labels**: variance, nonlinearities, Law of Large Numbers, economic dynamics, quantile analysis  
+**🏷️ Labels**: Variance, Nonlinearities, Law Of Large Numbers, Economic Dynamics, Quantile Analysis  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -23,7 +23,7 @@ The session aimed to explore and analyze the concepts of variance in economic an
 - Analyzed variances in economic and financial systems, emphasizing micro and macro-level behaviors and challenging conventional wisdom.
 - Explored the impact of nonlinearities and micro shocks on aggregate behavior and system dynamics.
 - Conducted time series analysis focusing on quantile parts and their implications on variance and the LLN.
-- Refined LaTeX code for Econometrica submission, ensuring clarity in [[data visualization]].
+- Refined LaTeX code for Econometrica submission, ensuring clarity in data visualization.
 
 ### Achievements
 - Developed a structured framework for discussing economic variance and volatility.

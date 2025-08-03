@@ -1,6 +1,6 @@
 ---
 title: "File and Data Recovery Techniques"
-tags: ['file recovery', 'LibreOffice', 'Pandas', 'encoding', 'data corruption']
+tags: ['File Recovery', 'Libreoffice', 'Pandas', 'Encoding', 'Data Corruption']
 created: 2025-03-07
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-07 — Session: File and Data Recovery Techniques
 
 **🕒 00:00–01:45**  
-**🏷️ Labels**: file recovery, LibreOffice, Pandas, encoding, data corruption  
+**🏷️ Labels**: File Recovery, Libreoffice, Pandas, Encoding, Data Corruption  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

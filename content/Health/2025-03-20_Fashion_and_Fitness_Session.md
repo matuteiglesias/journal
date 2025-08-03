@@ -1,6 +1,6 @@
 ---
 title: "Fashion and Fitness Session"
-tags: ['fashion', 'fitness', 'well-being', 'personal development']
+tags: ['Fashion', 'Fitness', 'Well-Being', 'Personal Development']
 created: 2025-03-20
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-03-20 — Session: Fashion and Fitness Session
 
 **🕒 22:55–23:05**  
-**🏷️ Labels**: fashion, fitness, well-being, personal development  
+**🏷️ Labels**: Fashion, Fitness, Well-Being, Personal Development  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

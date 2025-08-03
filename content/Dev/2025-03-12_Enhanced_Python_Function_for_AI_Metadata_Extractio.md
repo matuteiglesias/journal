@@ -30,4 +30,4 @@ The primary aim of this session was to enhance the implementation of [[Python]] 
 
 ### Pending Tasks
 - Further testing of the updated functions to ensure robustness across different datasets.
-- Explore additional [[optimization]] techniques for the conversion process.
+- Explore additional optimization techniques for the conversion process.

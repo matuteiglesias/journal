@@ -1,6 +1,6 @@
 ---
 title: "Standardized and Merged Financial Datasets by Country"
-tags: ['data merging', 'Python', 'pandas', 'data aggregation', 'financial analysis']
+tags: ['Data Merging', 'Python', 'Pandas', 'Data Aggregation', 'Financial Analysis']
 created: 2023-09-29
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-29 — Session: Standardized and Merged Financial Datasets by Country
 
 **🕒 11:40–13:25**  
-**🏷️ Labels**: data merging, Python, pandas, data aggregation, financial analysis  
+**🏷️ Labels**: Data Merging, Python, Pandas, Data Aggregation, Financial Analysis  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -28,5 +28,5 @@ The primary goal of this session was to standardize country names across multipl
 - Aggregated data by specified categories and years, ensuring data integrity and consistency.
 
 **Pending Tasks:**
-- Further [[debugging]] and validation of the merged dataset to ensure accuracy.
+- Further debugging and validation of the merged dataset to ensure accuracy.
 - Explore additional data sources for potential inclusion in the dataset.

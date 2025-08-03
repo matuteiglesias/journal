@@ -1,6 +1,6 @@
 ---
 title: "Integrated LaTeX rendering in Flask web app"
-tags: ['Flask', 'LaTeX', 'MathJax', 'Web Development', 'Education']
+tags: ['Flask', 'Latex', 'Mathjax', 'Web Development', 'Education']
 created: 2024-02-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-02-17 — Session: Integrated LaTeX rendering in Flask web app
 
 **🕒 17:20–18:15**  
-**🏷️ Labels**: Flask, LaTeX, MathJax, Web Development, Education  
+**🏷️ Labels**: Flask, Latex, Mathjax, Web Development, Education  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: true
 The session aimed to integrate dynamic LaTeX rendering into a [[Flask]]-based web application using MathJax, enhancing the educational platform's capability to display mathematical exercises.
 
 ### Key Activities
-1. **Dynamic Exercise Display**: Implemented a [[workflow]] to dynamically display exercises using [[Flask]], incorporating LaTeX rendering with MathJax or KaTeX.
+1. **Dynamic Exercise Display**: Implemented a workflow to dynamically display exercises using [[Flask]], incorporating LaTeX rendering with MathJax or KaTeX.
 2. **[[Flask]] Route Adjustments**: Updated links in `index.html` to correctly point to [[Flask]] routes serving exercise content, ensuring proper rendering in `exercise.html`.
 3. **LaTeX [[Integration]]**: Integrated LaTeX-rendered exercises into the platform using MathJax, with necessary HTML and [[Python]] code adjustments.
 4. **Content Handling**: Developed a function to fetch exercise content from text files for MathJax processing.
@@ -32,5 +32,5 @@ The session aimed to integrate dynamic LaTeX rendering into a [[Flask]]-based we
 - Resolved rendering issues and optimized configurations for better performance.
 
 ### Pending Tasks
-- Further testing and [[optimization]] of LaTeX rendering configurations.
+- Further testing and optimization of LaTeX rendering configurations.
 - Explore additional MathJax features for enhanced rendering capabilities.

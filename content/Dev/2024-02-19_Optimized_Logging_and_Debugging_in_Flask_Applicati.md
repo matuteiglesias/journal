@@ -17,12 +17,12 @@ publish: true
 The primary aim of this session was to enhance logging practices and debug issues in [[Flask]] applications deployed on [[Google Cloud]] Platform, with a focus on improving performance and reliability.
 
 ### Key Activities
-- **Differentiated Backtracking and Recursive Call Trees**: Explored the distinct purposes and applications of these data structures in algorithm [[optimization]].
+- **Differentiated Backtracking and Recursive Call Trees**: Explored the distinct purposes and applications of these data structures in algorithm optimization.
 - **App Authorization Guidelines**: Reviewed instructions for completing app authorization forms, emphasizing clarity and security.
 - **[[Debugging]] Worker Timeouts**: Analyzed application logs to identify causes of worker timeouts in the `/submit_answer` endpoint, suggesting potential solutions.
 - **[[Flask]] Logging Implementation**: Detailed how to implement [[Python]]'s logging module in [[Flask]] applications, integrating with GCP for enhanced log management.
 - **Diagnosing [[Flask]] Errors**: Investigated `UnboundLocalError` and `KeyError: 'ENV'` in [[Flask]], providing troubleshooting steps and solutions.
-- **Gunicorn Configuration**: Provided instructions for configuring Gunicorn on Google App Engine, including timeout adjustments and environment setup.
+- **Gunicorn [[Configuration]]**: Provided instructions for configuring Gunicorn on Google App Engine, including timeout adjustments and environment setup.
 - **Best Practices for Sensitive Information**: Emphasized caution in handling sensitive information in code sharing.
 
 ### Achievements

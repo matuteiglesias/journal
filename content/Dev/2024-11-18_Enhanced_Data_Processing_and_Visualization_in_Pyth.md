@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary objective of this session was to enhance [[data processing]] and visualization techniques in [[Python]], focusing on [[error handling]], time index management, ETL processes, and styling for reports.
+The primary objective of this session was to enhance data processing and visualization techniques in [[Python]], focusing on error handling, time index management, ETL processes, and styling for reports.
 
 ### Key Activities
 - **Fixing Summation Error**: Addressed errors in summing DataFrame columns with non-numeric types by filtering numeric columns.
@@ -26,7 +26,7 @@ The primary objective of this session was to enhance [[data processing]] and vis
 - **Compatibility Updates**: Updated styling code for compatibility with newer [[Pandas]] versions.
 
 ### Achievements
-- Resolved [[data processing]] errors and improved the robustness of ETL processes.
+- Resolved data processing errors and improved the robustness of ETL processes.
 - Enhanced visualization techniques for better data presentation.
 
 ### Pending Tasks

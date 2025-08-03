@@ -1,6 +1,6 @@
 ---
 title: "Developed Job Data Pipeline with Remotive API"
-tags: ['Remotive API', 'job data pipeline', 'Python', 'CSV', 'automation']
+tags: ['Remotive Api', 'Job Data Pipeline', 'Python', 'CSV', 'Automation']
 created: 2025-07-09
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-07-09 — Session: Developed Job Data Pipeline with Remotive API
 
 **🕒 20:00–23:50**  
-**🏷️ Labels**: Remotive API, job data pipeline, Python, CSV, automation  
+**🏷️ Labels**: Remotive Api, Job Data Pipeline, Python, CSV, Automation  
 **📂 Project**: JobMarket  
 **⭐ Priority**: MEDIUM  
 
@@ -20,9 +20,9 @@ The session aimed to develop a job data pipeline using the Remotive [[API]] to f
 - Planned a query-to-[[CSV]] generator for job listings.
 - Executed [[Python]] scripts to integrate Remotive [[API]] for fetching job data.
 - Compared data output with pipeline requirements and made necessary adjustments.
-- Developed a systematic approach for [[API]] and scraping [[strategy]] for job aggregators.
+- Developed a systematic approach for [[API]] and scraping strategy for job aggregators.
 - Evaluated and refined the MVP pipeline for job matching.
-- Implemented [[Python]] functions to enhance [[data processing]] and filtering.
+- Implemented [[Python]] functions to enhance data processing and filtering.
 - Outlined a roadmap for UI control and cloud deployment.
 - Conducted a code quality and UX audit for the query page.
 

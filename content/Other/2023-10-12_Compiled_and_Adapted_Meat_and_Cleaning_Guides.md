@@ -1,6 +1,6 @@
 ---
 title: "Compiled and Adapted Meat and Cleaning Guides"
-tags: ['cooking', 'cleaning', 'recipes', 'guides', 'household']
+tags: ['Cooking', 'Cleaning', 'Recipes', 'Guides', 'Household']
 created: 2023-10-12
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-10-12 — Session: Compiled and Adapted Meat and Cleaning Guides
 
 **🕒 02:15–22:10**  
-**🏷️ Labels**: cooking, cleaning, recipes, guides, household  
+**🏷️ Labels**: Cooking, Cleaning, Recipes, Guides, Household  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

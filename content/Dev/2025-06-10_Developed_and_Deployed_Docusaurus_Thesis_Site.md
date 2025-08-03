@@ -17,12 +17,12 @@ publish: true
 The primary goal of this session was to configure, develop, and deploy a [[Docusaurus]]-based landing page for a thesis project, ensuring it is well-integrated with professional branding and audience engagement strategies.
 
 ### Key Activities
-- **[[Docusaurus]] Configuration:** Updated the configuration for the thesis landing page, focusing on layout and strategic presentation.
-- **Feature List Creation:** Developed a [[JavaScript]] object for audience engagement, targeting authority-building and messaging.
+- **[[Docusaurus]] [[Configuration]]:** Updated the configuration for the thesis landing page, focusing on layout and strategic presentation.
+- **Feature List Creation:** Developed a JavaScript object for audience engagement, targeting authority-building and messaging.
 - **[[Deployment]] Plan:** Created a detailed step-by-step deployment plan for hosting the [[Docusaurus]] site on Vercel, including build checks and domain setup.
-- **README Update:** Incorporated a thesis link into the README to maintain [[documentation]] consistency.
+- **README Update:** Incorporated a thesis link into the README to maintain documentation consistency.
 - **Portfolio Structuring:** Planned the layout and content for a personal portfolio landing page.
-- **Showcase Page:** Designed a [[Docusaurus]] showcase page template for deployments in [[AI]] and [[data science]].
+- **Showcase Page:** Designed a [[Docusaurus]] showcase page template for deployments in [[AI]] and data science.
 - **Professional Branding:** Integrated the PhD thesis into a professional profile to enhance [[SEO]] and educational impact.
 - **Error Diagnosis:** Diagnosed and planned for resolving a server-side rendering error in [[Docusaurus]].
 

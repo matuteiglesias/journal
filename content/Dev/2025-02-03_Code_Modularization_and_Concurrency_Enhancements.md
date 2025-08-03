@@ -1,6 +1,6 @@
 ---
 title: "Code Modularization and Concurrency Enhancements"
-tags: ['code modularization', 'thread safety', 'Python', 'file handling', 'lock handling']
+tags: ['Code Modularization', 'Thread Safety', 'Python', 'File Handling', 'Lock Handling']
 created: 2025-02-03
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-03 — Session: Code Modularization and Concurrency Enhancements
 
 **🕒 11:35–13:35**  
-**🏷️ Labels**: code modularization, thread safety, Python, file handling, lock handling  
+**🏷️ Labels**: Code Modularization, Thread Safety, Python, File Handling, Lock Handling  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -20,10 +20,10 @@ The primary objective of this session was to enhance the modularity and concurre
 - **Code Modularization and Restructuring:** Proposed a refactored directory structure and modular approach to improve maintainability and integration with RAG pipelines.
 - **Debounce Processing:** Provided options for defining the `debounce_processing` function in a file event handler class.
 - **Lock Handling Improvements:** Analyzed and proposed improvements for lock handling in a multi-threaded environment.
-- **Comprehensive Lock Handling Overview:** Explored lock handling in [[Python]], covering threading, multiprocessing, asyncio, and performance [[optimization]].
+- **Comprehensive Lock Handling Overview:** Explored lock handling in [[Python]], covering threading, multiprocessing, asyncio, and performance optimization.
 - **FileEventHandler Initialization Fix:** Corrected the implementation of the `FileEventHandler` class.
 - **File Processing Lock Usage Assessment:** Assessed and recommended improvements for lock usage in file processing workflows.
-- **Refactoring for Modularity:** Refactored the `__main__` block to enhance modularity.
+- **[[Refactoring]] for Modularity:** Refactored the `__main__` block to enhance modularity.
 - **Supabase Sync Code Assessment:** Evaluated the Supabase sync code for robustness and performance improvements.
 - **Directory Initialization for Processing Script:** Ensured robust directory management in the processing script.
 

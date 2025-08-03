@@ -1,6 +1,6 @@
 ---
 title: "Debugged and Enhanced Article Processing Pipeline"
-tags: ['debugging', 'data_processing', 'Python', 'PromptFlow', 'media_monitoring']
+tags: ['Debugging', 'Data_Processing', 'Python', 'Promptflow', 'Media_Monitoring']
 created: 2025-06-21
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-06-21 — Session: Debugged and Enhanced Article Processing Pipeline
 
 **🕒 23:05–23:25**  
-**🏷️ Labels**: debugging, data_processing, Python, PromptFlow, media_monitoring  
+**🏷️ Labels**: Debugging, Data_Processing, Python, Promptflow, Media_Monitoring  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -18,10 +18,10 @@ The session aimed to address and resolve multiple issues within the article proc
 
 ### Key Activities
 - Diagnosed and proposed solutions for a data format issue preventing the retrieval of new articles.
-- Addressed format coexistence issues in [[PromptFlow]], ensuring compatibility with nested and flat formats.
+- Addressed format coexistence issues in PromptFlow, ensuring compatibility with nested and flat formats.
 - Corrected the article enrichment process to maintain idempotency and avoid inconsistencies.
 - Provided instructions for manually executing the updated explosion and enrichment pipeline, including code modifications.
-- Resolved TypeErrors and KeyErrors in [[Pandas]] DataFrame operations, enhancing [[error handling]] and data manipulation.
+- Resolved TypeErrors and KeyErrors in [[Pandas]] DataFrame operations, enhancing error handling and data manipulation.
 - Integrated a scraping script into the media monitoring pipeline, focusing on unique ID propagation and article filtering.
 
 ### Achievements

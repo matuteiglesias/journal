@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Email Automation and Scheduling"
-tags: ['email automation', 'scheduling', 'Python', 'APScheduler', 'cron jobs']
+tags: ['Email Automation', 'Scheduling', 'Python', 'Apscheduler', 'Cron Jobs']
 created: 2024-12-17
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2024-12-17 — Session: Enhanced Email Automation and Scheduling
 
 **🕒 21:40–22:20**  
-**🏷️ Labels**: email automation, scheduling, Python, APScheduler, cron jobs  
+**🏷️ Labels**: Email Automation, Scheduling, Python, Apscheduler, Cron Jobs  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to enhance email [[automation]] capabilities and improve scheduling accuracy using [[Python]] scripts.
+The session aimed to enhance email automation capabilities and improve scheduling accuracy using [[Python]] scripts.
 
 ### Key Activities
 - Developed a [[Python]] script to send emails with Markdown content by converting it to HTML, ensuring proper rendering in email clients.
@@ -24,7 +24,7 @@ The session aimed to enhance email [[automation]] capabilities and improve sched
 - Resolved APScheduler errors, including ValueError and timezone mismatches, by providing code snippets for validating timezone configurations and setting the timezone explicitly in job definitions.
 
 ### Achievements
-- Successfully implemented email [[automation]] with Markdown support.
+- Successfully implemented email automation with Markdown support.
 - Improved the accuracy of scheduled tasks by resolving cron job and APScheduler errors.
 
 ### Pending Tasks

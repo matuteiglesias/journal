@@ -1,6 +1,6 @@
 ---
 title: "Refined Chapter Structures and Overlap Analysis"
-tags: ['chapter analysis', 'academic writing', 'structure refinement', 'spatial economics', 'economic networks']
+tags: ['Chapter Analysis', 'Academic Writing', 'Structure Refinement', 'Spatial Economics', 'Economic Networks']
 created: 2025-01-13
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-13 — Session: Refined Chapter Structures and Overlap Analysis
 
 **🕒 00:00–01:35**  
-**🏷️ Labels**: chapter analysis, academic writing, structure refinement, spatial economics, economic networks  
+**🏷️ Labels**: Chapter Analysis, Academic Writing, Structure Refinement, Spatial Economics, Economic Networks  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

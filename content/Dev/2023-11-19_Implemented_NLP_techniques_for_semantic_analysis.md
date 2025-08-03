@@ -1,6 +1,6 @@
 ---
 title: "Implemented NLP techniques for semantic analysis"
-tags: ['NLP', 'Python', 'Text Processing', 'Semantic Analysis', 'spaCy']
+tags: ['NLP', 'Python', 'Text Processing', 'Semantic Analysis', 'Spacy']
 created: 2023-11-19
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-11-19 — Session: Implemented NLP techniques for semantic analysis
 
 **🕒 17:15–19:30**  
-**🏷️ Labels**: NLP, Python, Text Processing, Semantic Analysis, spaCy  
+**🏷️ Labels**: NLP, Python, Text Processing, Semantic Analysis, Spacy  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -23,7 +23,7 @@ The session aimed to implement and explore various Natural Language Processing (
 - **Semantic Analysis Framework**: Developed a framework for semantic understanding using part-of-speech tagging and contextual word relationships.
 - **Text File Preparation**: Created a text file 'docentes_context.txt' for semantic analysis.
 - **[[Python]] Script Execution**: Implemented a script to extract sentences containing 'docentes' for context analysis.
-- **POS Tagging Strategy**: Planned a [[strategy]] for POS tagging using spaCy for analyzing 'docentes' contexts.
+- **POS Tagging [[Strategy]]**: Planned a strategy for POS tagging using spaCy for analyzing 'docentes' contexts.
 - **Spanish Language Model Installation**: Installed the `es_core_news_sm` Spanish language model for spaCy to facilitate [[NLP]] tasks in Spanish.
 
 ### Achievements:
@@ -32,5 +32,5 @@ The session aimed to implement and explore various Natural Language Processing (
 - Prepared necessary text files and scripts for detailed analysis of 'docentes'.
 
 ### Pending Tasks:
-- Implement the POS tagging [[strategy]] using spaCy on the 'docentes' contexts.
+- Implement the POS tagging strategy using spaCy on the 'docentes' contexts.
 - Conduct detailed semantic analysis using the installed Spanish language model in spaCy.

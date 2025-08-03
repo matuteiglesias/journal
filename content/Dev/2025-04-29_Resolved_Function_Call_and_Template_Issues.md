@@ -1,6 +1,6 @@
 ---
 title: "Resolved Function Call and Template Issues"
-tags: ['function_call', 'error_fix', 'template_rendering', 'Python', 'AIOS']
+tags: ['Function_Call', 'Error_Fix', 'Template_Rendering', 'Python', 'AIOS']
 created: 2025-04-29
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-29 — Session: Resolved Function Call and Template Issues
 
 **🕒 02:35–03:40**  
-**🏷️ Labels**: function_call, error_fix, template_rendering, Python, AIOS  
+**🏷️ Labels**: Function_Call, Error_Fix, Template_Rendering, Python, AIOS  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -23,7 +23,7 @@ The primary aim of this session was to diagnose and fix various function call an
 - Corrected function call syntax for LLM queries, emphasizing the inclusion of empty arguments.
 - Addressed [[API]] request errors by ensuring the 'arguments' field was present in function calls.
 - Corrected [[JSON]] structure for function calls, ensuring proper nesting of 'arguments'.
-- Adapted new data schema for DemoAgent, updating [[documentation]] templates.
+- Adapted new data schema for DemoAgent, updating documentation templates.
 - Fixed template rendering issues in [[Python]] loops by correctly extracting parameters.
 - Provided a solution for flattening nested lists in [[Python]] using list comprehension.
 

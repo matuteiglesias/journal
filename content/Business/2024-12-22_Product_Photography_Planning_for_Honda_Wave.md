@@ -1,6 +1,6 @@
 ---
 title: "Product Photography Planning for Honda Wave"
-tags: ['photography', 'Honda Wave', 'product display', 'motorcycle', 'sales']
+tags: ['Photography', 'Honda Wave', 'Product Display', 'Motorcycle', 'Sales']
 created: 2024-12-22
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-12-22 — Session: Product Photography Planning for Honda Wave
 
 **🕒 18:40–18:50**  
-**🏷️ Labels**: photography, Honda Wave, product display, motorcycle, sales  
+**🏷️ Labels**: Photography, Honda Wave, Product Display, Motorcycle, Sales  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

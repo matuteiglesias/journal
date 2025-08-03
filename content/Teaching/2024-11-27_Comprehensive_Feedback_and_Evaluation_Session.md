@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Feedback and Evaluation Session"
-tags: ['feedback', 'mathematics', 'evaluation', 'linear algebra', 'data visualization']
+tags: ['Feedback', 'Mathematics', 'Evaluation', 'Linear Algebra', 'Data Visualization']
 created: 2024-11-27
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2024-11-27 — Session: Comprehensive Feedback and Evaluation Session
 
 **🕒 20:40–22:15**  
-**🏷️ Labels**: feedback, mathematics, evaluation, linear algebra, data visualization  
+**🏷️ Labels**: Feedback, Mathematics, Evaluation, Linear Algebra, Data Visualization  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The primary goal of this session was to provide detailed feedback and evaluation on various exercises and projects related to mathematics, linear algebra, and [[data visualization]].
+The primary goal of this session was to provide detailed feedback and evaluation on various exercises and projects related to mathematics, linear algebra, and data visualization.
 
 ### Key Activities
 - Analyzed and provided feedback on Consigna 6, focusing on improving clarity and comprehension of mathematical concepts.

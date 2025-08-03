@@ -1,6 +1,6 @@
 ---
 title: "Algorithm Evaluation and Topological Sort Implementation"
-tags: ['algorithms', 'evaluation', 'education', 'graphs', 'pseudocode']
+tags: ['Algorithms', 'Evaluation', 'Education', 'Graphs', 'Pseudocode']
 created: 2024-05-25
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-05-25 — Session: Algorithm Evaluation and Topological Sort Implementation
 
 **🕒 17:30–18:30**  
-**🏷️ Labels**: algorithms, evaluation, education, graphs, pseudocode  
+**🏷️ Labels**: Algorithms, Evaluation, Education, Graphs, Pseudocode  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

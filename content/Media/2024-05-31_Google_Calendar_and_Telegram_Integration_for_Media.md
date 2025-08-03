@@ -1,6 +1,6 @@
 ---
 title: "Google Calendar and Telegram Integration for Media Monitoring"
-tags: ['Google Calendar', 'Telegram', 'API Integration', 'Media Monitoring', 'Automation']
+tags: ['Google Calendar', 'Telegram', 'Api Integration', 'Media Monitoring', 'Automation']
 created: 2024-05-31
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-05-31 — Session: Google Calendar and Telegram Integration for Media Monitoring
 
 **🕒 12:40–13:10**  
-**🏷️ Labels**: Google Calendar, Telegram, API Integration, Media Monitoring, Automation  
+**🏷️ Labels**: Google Calendar, Telegram, Api Integration, Media Monitoring, Automation  
 **📂 Project**: Media  
 **⭐ Priority**: MEDIUM  
 
@@ -22,7 +22,7 @@ The goal of this session was to set up and integrate Google Calendar [[API]] wit
 - Created and configured a Telegram bot, setting up the development environment and implementing basic scripting.
 - Planned and executed the processing of Telegram messages, including accessing multiple groups and storing messages in a database.
 - Developed a [[Python]] script using the Telethon library to monitor Telegram messages.
-- Designed a comprehensive monitoring system integrating Telegram, email, Google Calendar, and [[data analysis]] to keep track of updates in various domains.
+- Designed a comprehensive monitoring system integrating Telegram, email, Google Calendar, and data analysis to keep track of updates in various domains.
 - Outlined a modular project structure for software development that includes monitoring and processing messages from Telegram, emails, and calendar events.
 
 ### Achievements
@@ -32,5 +32,5 @@ The goal of this session was to set up and integrate Google Calendar [[API]] wit
 
 ### Pending Tasks
 - Further development and testing of the integrated system to ensure seamless operation.
-- Implementation of advanced functionalities and [[data analysis]] features.
+- Implementation of advanced functionalities and data analysis features.
 - Continuous monitoring and updates to the system as needed.

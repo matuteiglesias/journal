@@ -1,6 +1,6 @@
 ---
 title: "Cuidado y Recuperación de Ojos y Cocina Creativa"
-tags: ['eye care', 'cooking', 'kitchen design', 'recipe development']
+tags: ['Eye Care', 'Cooking', 'Kitchen Design', 'Recipe Development']
 created: 2024-10-19
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-19 — Session: Cuidado y Recuperación de Ojos y Cocina Creativa
 
 **🕒 13:00–22:30**  
-**🏷️ Labels**: eye care, cooking, kitchen design, recipe development  
+**🏷️ Labels**: Eye Care, Cooking, Kitchen Design, Recipe Development  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 
@@ -19,7 +19,7 @@ The session aimed to address health and culinary interests. Matías explored str
 ### Key Activities
 - **Eye Care:** Reviewed guidelines for recovering from actinic keratitis, focusing on eye protection and treatment.
 - **Kitchen Design:** Explored ideas for reorganizing the kitchen to optimize workspace and storage.
-- **Cooking Recipes:**
+- **[[Cooking]] Recipes:**
   - Developed a slow-cooked chicken recipe with whipped herb butter.
   - Adapted the chicken recipe for quicker cooking while maintaining flavor.
   - Calculated rice quantities for a creamy broth-based recipe.

@@ -21,7 +21,7 @@ The goal of this session was to enhance web scraping capabilities by integrating
 - Analyzed and utilized cookies for authenticated requests.
 - Addressed technical obstacles related to cookies and web traffic, focusing on session management and data privacy.
 - Improved web scraping scripts by incorporating proxy settings, handling SSL verification errors, and implementing proxy rotation.
-- Optimized download scripts with enhanced [[error handling]] and timeout settings.
+- Optimized download scripts with enhanced error handling and timeout settings.
 
 ### Achievements
 - Successfully created and tested [[Python]] scripts for web scraping with proxy and cookie management.

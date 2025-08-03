@@ -1,6 +1,6 @@
 ---
 title: "Financial and Debt Model Refinement"
-tags: ['financial modeling', 'debt management', 'data analysis', 'visualization', 'automation']
+tags: ['Financial Modeling', 'Debt Management', 'Data Analysis', 'Visualization', 'Automation']
 created: 2024-12-31
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-12-31 — Session: Financial and Debt Model Refinement
 
 **🕒 19:00–23:55**  
-**🏷️ Labels**: financial modeling, debt management, data analysis, visualization, automation  
+**🏷️ Labels**: Financial Modeling, Debt Management, Data Analysis, Visualization, Automation  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -27,7 +27,7 @@ The session aimed to refine financial models, particularly focusing on debt mana
 ### Achievements
 - Achieved a structured approach to financial modeling and debt management.
 - Enhanced visualization techniques for better data representation.
-- Developed a comprehensive plan for future [[automation]] and model refinement.
+- Developed a comprehensive plan for future automation and model refinement.
 
 ### Pending Tasks
 - Further feedback and adjustments on the updated plots.

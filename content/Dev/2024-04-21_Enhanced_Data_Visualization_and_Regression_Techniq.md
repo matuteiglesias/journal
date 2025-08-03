@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Data Visualization and Regression Techniques"
-tags: ['data visualization', 'regression', 'Python', 'matplotlib', 'health']
+tags: ['Data Visualization', 'Regression', 'Python', 'Matplotlib', 'Health']
 created: 2024-04-21
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2024-04-21 — Session: Enhanced Data Visualization and Regression Techniques
 
 **🕒 04:30–05:20**  
-**🏷️ Labels**: data visualization, regression, Python, matplotlib, health  
+**🏷️ Labels**: Data Visualization, Regression, Python, Matplotlib, Health  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal:
-The session aimed to improve [[data visualization]] techniques and explore regression methods for predicting body measurements and weight.
+The session aimed to improve data visualization techniques and explore regression methods for predicting body measurements and weight.
 
 ### Key Activities:
 - **Color Customization for Line Charts**: Adjusted line chart colors for better visibility and accessibility using [[Python]]'s matplotlib.

@@ -1,6 +1,6 @@
 ---
 title: "Refined Data Parsing for Installment Details"
-tags: ['data parsing', 'function update', 'Cuota', 'transaction accuracy']
+tags: ['Data Parsing', 'Function Update', 'Cuota', 'Transaction Accuracy']
 created: 2024-12-22
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-22 — Session: Refined Data Parsing for Installment Details
 
 **🕒 22:00–22:15**  
-**🏷️ Labels**: data parsing, function update, Cuota, transaction accuracy  
+**🏷️ Labels**: Data Parsing, Function Update, Cuota, Transaction Accuracy  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

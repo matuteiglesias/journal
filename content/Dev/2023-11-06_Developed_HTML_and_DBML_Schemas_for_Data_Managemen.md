@@ -18,7 +18,7 @@ The session aimed to develop structured HTML tables for dataset links and refine
 
 ### Key Activities
 - **HTML Table Design**: Created structured HTML tables to display download links for datasets categorized by individual income and household poverty for specific years.
-- **DBML Schema Development**: Designed DBML schemas for household datasets, focusing on resolving reference conflicts and ensuring unique identifiers.
+- **DBML Schema [[Development]]**: Designed DBML schemas for household datasets, focusing on resolving reference conflicts and ensuring unique identifiers.
 - **Schema Correction**: Addressed issues in schema design, including the use of composite primary keys and one-to-one relationships between tables.
 - **Responsive Design**: Provided guidance on responsive image insertion and CSS styling for web development.
 

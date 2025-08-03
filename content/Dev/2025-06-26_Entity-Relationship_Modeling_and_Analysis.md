@@ -1,6 +1,6 @@
 ---
 title: "Entity-Relationship Modeling and Analysis"
-tags: ['ERD', 'database design', 'entity modeling', 'normalization', 'weak entity', 'ternary relationship']
+tags: ['ERD', 'Database Design', 'Entity Modeling', 'Normalization', 'Weak Entity', 'Ternary Relationship']
 created: 2025-06-26
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-06-26 — Session: Entity-Relationship Modeling and Analysis
 
 **🕒 00:00–01:45**  
-**🏷️ Labels**: ERD, database design, entity modeling, normalization, weak entity, ternary relationship  
+**🏷️ Labels**: ERD, Database Design, Entity Modeling, Normalization, Weak Entity, Ternary Relationship  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

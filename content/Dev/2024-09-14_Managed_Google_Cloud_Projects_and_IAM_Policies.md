@@ -26,7 +26,7 @@ The session aimed to manage and enhance [[Google Cloud]] projects, focusing on h
 
 ### Achievements
 - Successfully deployed a website on [[Google Cloud]] App Engine.
-- Improved [[project management]] and security visibility through enhanced scripting and reporting.
+- Improved project management and security visibility through enhanced scripting and reporting.
 
 ### Pending Tasks
 - Further refinement of IAM policy scripts to automate regular security checks.

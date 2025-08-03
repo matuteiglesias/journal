@@ -1,6 +1,6 @@
 ---
 title: "Diagnosed and Planned Vehicle Repairs"
-tags: ['vehicle maintenance', 'diagnosis', 'repair', 'safety', 'Peugeot 207']
+tags: ['Vehicle Maintenance', 'Diagnosis', 'Repair', 'Safety', 'Peugeot 207']
 created: 2023-11-15
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-11-15 — Session: Diagnosed and Planned Vehicle Repairs
 
 **🕒 01:40–02:20**  
-**🏷️ Labels**: vehicle maintenance, diagnosis, repair, safety, Peugeot 207  
+**🏷️ Labels**: Vehicle Maintenance, Diagnosis, Repair, Safety, Peugeot 207  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

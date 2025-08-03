@@ -1,6 +1,6 @@
 ---
 title: "Compiled Cooking Recipes and Tips"
-tags: ['cooking', 'recipe', 'meal planning', 'diet', 'culinary']
+tags: ['Cooking', 'Recipe', 'Meal Planning', 'Diet', 'Culinary']
 created: 2024-11-01
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-01 — Session: Compiled Cooking Recipes and Tips
 
 **🕒 20:30–23:30**  
-**🏷️ Labels**: cooking, recipe, meal planning, diet, culinary  
+**🏷️ Labels**: Cooking, Recipe, Meal Planning, Diet, Culinary  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

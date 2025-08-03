@@ -18,7 +18,7 @@ The session aimed to develop structured study plans for the Google Professional 
 
 ### Key Activities:
 - Developed a 7-day introductory study plan for beginners focusing on GCP basics, including Kubernetes and data management.
-- Created detailed plans for Weeks 2 and 3, emphasizing security, compliance, reliability, and [[data processing]].
+- Created detailed plans for Weeks 2 and 3, emphasizing security, compliance, reliability, and data processing.
 - Outlined Week 4's plan on 'Designing for Reliability and Fidelity' with a focus on data preparation and disaster recovery.
 - Designed Week 5's curriculum to cover advanced data architecture flexibility and migration concepts.
 - Formulated a two-week study plan for data pipeline construction, involving ETL and CI/CD processes.

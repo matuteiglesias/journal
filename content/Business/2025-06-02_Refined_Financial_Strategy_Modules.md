@@ -1,6 +1,6 @@
 ---
 title: "Refined Financial Strategy Modules"
-tags: ['finanzas', 'estrategias', 'gestión familiar', 'planificación financiera']
+tags: ['Finanzas', 'Estrategias', 'Gestión Familiar', 'Planificación Financiera']
 created: 2025-06-02
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-02 — Session: Refined Financial Strategy Modules
 
 **🕒 22:40–23:05**  
-**🏷️ Labels**: finanzas, estrategias, gestión familiar, planificación financiera  
+**🏷️ Labels**: Finanzas, Estrategias, Gestión Familiar, Planificación Financiera  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

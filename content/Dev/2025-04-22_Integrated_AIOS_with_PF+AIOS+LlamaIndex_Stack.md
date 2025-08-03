@@ -1,6 +1,6 @@
 ---
 title: "Integrated AIOS with PF+AIOS+LlamaIndex Stack"
-tags: ['AIOS', 'YAML', 'Integration', 'Workflow', 'AI Agents']
+tags: ['AIOS', 'YAML', 'Integration', 'Workflow', 'Ai Agents']
 created: 2025-04-22
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-22 — Session: Integrated AIOS with PF+AIOS+LlamaIndex Stack
 
 **🕒 19:20–20:50**  
-**🏷️ Labels**: AIOS, YAML, Integration, Workflow, AI Agents  
+**🏷️ Labels**: AIOS, YAML, Integration, Workflow, Ai Agents  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -29,7 +29,7 @@ The session aimed to integrate various [[AI]] agent systems and optimize workflo
 - Booted AIOS.Server locally and transitioned to declarative agent expressions.
 
 ### Achievements
-- Successfully integrated AIOS with PF+AIOS+LlamaIndex stack for enhanced agent management and [[workflow]] [[optimization]].
+- Successfully integrated AIOS with PF+AIOS+LlamaIndex stack for enhanced agent management and workflow optimization.
 - Established a scalable and modular local [[AI]] development environment.
 
 ### Pending Tasks

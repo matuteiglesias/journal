@@ -1,6 +1,6 @@
 ---
 title: "Reddit and Design Insights Session"
-tags: ['Reddit', 'design', 'futuristic', 'creativity', 'personal insights']
+tags: ['Reddit', 'Design', 'Futuristic', 'Creativity', 'Personal Insights']
 created: 2025-01-19
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-19 — Session: Reddit and Design Insights Session
 
 **🕒 17:35–18:10**  
-**🏷️ Labels**: Reddit, design, futuristic, creativity, personal insights  
+**🏷️ Labels**: Reddit, Design, Futuristic, Creativity, Personal Insights  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

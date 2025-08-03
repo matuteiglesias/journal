@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Hugging Face and AgentLab Integration"
-tags: ['Hugging Face', 'Python', 'AgentLab', 'Deployment', 'Script', 'Troubleshooting']
+tags: ['Hugging Face', 'Python', 'Agentlab', 'Deployment', 'Script', 'Troubleshooting']
 created: 2025-05-03
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-03 — Session: Enhanced Hugging Face and AgentLab Integration
 
 **🕒 08:50–09:30**  
-**🏷️ Labels**: Hugging Face, Python, AgentLab, Deployment, Script, Troubleshooting  
+**🏷️ Labels**: Hugging Face, Python, Agentlab, Deployment, Script, Troubleshooting  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

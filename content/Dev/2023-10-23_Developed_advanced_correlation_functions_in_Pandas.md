@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal:
-The goal of this session was to enhance [[data analysis]] capabilities by developing advanced correlation functions using [[Python]]'s [[Pandas]] library.
+The goal of this session was to enhance data analysis capabilities by developing advanced correlation functions using [[Python]]'s [[Pandas]] library.
 
 ### Key Activities:
 - Implemented a function to compute correlations of a specified column with all other columns in a [[Pandas]] DataFrame.

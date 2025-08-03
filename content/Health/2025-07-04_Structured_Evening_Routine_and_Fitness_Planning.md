@@ -1,6 +1,6 @@
 ---
 title: "Structured Evening Routine and Fitness Planning"
-tags: ['evening routine', 'task management', 'fitness planning', 'exercise analysis', 'workout structure']
+tags: ['Evening Routine', 'Task Management', 'Fitness Planning', 'Exercise Analysis', 'Workout Structure']
 created: 2025-07-04
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-07-04 — Session: Structured Evening Routine and Fitness Planning
 
 **🕒 22:35–22:50**  
-**🏷️ Labels**: evening routine, task management, fitness planning, exercise analysis, workout structure  
+**🏷️ Labels**: Evening Routine, Task Management, Fitness Planning, Exercise Analysis, Workout Structure  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: false
 The session focused on planning a structured evening routine and fitness regimen, emphasizing pre-gym preparations, post-gym activities, and avoiding new projects for a restful night.
 
 ### Key Activities
-- Outlined a structured evening routine for effective [[task management]].
+- Outlined a structured evening routine for effective task management.
 - Detailed a 50-minute workout structure, including warm-up, strength circuits, and cool-down.
 - Conducted a comparative analysis of chin-up holds and face-pulls to enhance shoulder health and posture.
 - Analyzed the biomechanics of the 'Empujar el suelo boca arriba' exercise, suggesting more effective alternatives.

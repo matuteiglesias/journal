@@ -1,6 +1,6 @@
 ---
 title: "Resolved Permissions Error and Configured OAuth for n8n"
-tags: ['Google Cloud', 'OAuth', 'n8n', 'Gmail', 'App Engine']
+tags: ['Google Cloud', 'Oauth', 'N8N', 'Gmail', 'App Engine']
 created: 2024-12-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-12 — Session: Resolved Permissions Error and Configured OAuth for n8n
 
 **🕒 22:50–23:20**  
-**🏷️ Labels**: Google Cloud, OAuth, n8n, Gmail, App Engine  
+**🏷️ Labels**: Google Cloud, Oauth, N8N, Gmail, App Engine  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

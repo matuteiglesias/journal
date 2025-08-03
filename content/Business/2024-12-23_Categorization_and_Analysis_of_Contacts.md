@@ -1,6 +1,6 @@
 ---
 title: "Categorization and Analysis of Contacts"
-tags: ['contact management', 'CRM', 'network analysis', 'strategic planning']
+tags: ['Contact Management', 'CRM', 'Network Analysis', 'Strategic Planning']
 created: 2024-12-23
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-12-23 — Session: Categorization and Analysis of Contacts
 
 **🕒 17:40–18:25**  
-**🏷️ Labels**: contact management, CRM, network analysis, strategic planning  
+**🏷️ Labels**: Contact Management, CRM, Network Analysis, Strategic Planning  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -18,13 +18,13 @@ The goal of this session was to categorize and analyze contacts for better relat
 
 ### Key Activities
 - Categorized contacts into various categories, detailing their names, categories, link statuses, and priorities.
-- Conducted [[CRM]] dataset analysis to understand the network composition and relationship states.
+- Conducted CRM dataset analysis to understand the network composition and relationship states.
 - Analyzed political contacts network, categorizing relationships into Active, Latent, and Conflictive.
 - Mapped political networks to strategize engagement and enhance political influence.
 
 ### Achievements
 - Developed a detailed categorization of contacts for strategic, academic, and personal relationship management.
-- Provided actionable insights and strategic recommendations for optimizing engagement and prioritization in [[CRM]].
+- Provided actionable insights and strategic recommendations for optimizing engagement and prioritization in CRM.
 - Identified key characteristics and clusters in political networks for strategic collaboration.
 
 ### Pending Tasks

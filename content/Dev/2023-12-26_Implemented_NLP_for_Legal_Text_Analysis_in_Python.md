@@ -1,6 +1,6 @@
 ---
 title: "Implemented NLP for Legal Text Analysis in Python"
-tags: ['Python', 'NLP', 'spaCy', 'data extraction', 'legal text']
+tags: ['Python', 'NLP', 'Spacy', 'Data Extraction', 'Legal Text']
 created: 2023-12-26
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-12-26 — Session: Implemented NLP for Legal Text Analysis in Python
 
 **🕒 21:00–21:45**  
-**🏷️ Labels**: Python, NLP, spaCy, data extraction, legal text  
+**🏷️ Labels**: Python, NLP, Spacy, Data Extraction, Legal Text  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

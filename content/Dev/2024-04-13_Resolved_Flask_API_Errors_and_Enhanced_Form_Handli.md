@@ -17,12 +17,12 @@ publish: true
 The session aimed to resolve 404 errors in a [[Flask]] [[API]], improve [[Python]] package structure for better imports, and enhance HTML form handling for web applications.
 
 ### Key Activities
-- **Fixing 404 Errors in [[Flask]] [[API]] Routes:** Followed a comprehensive guide to ensure proper route setup, data handling, and [[JavaScript]] integration to resolve 404 errors in a [[Flask]] application.
+- **Fixing 404 Errors in [[Flask]] [[API]] Routes:** Followed a comprehensive guide to ensure proper route setup, data handling, and JavaScript integration to resolve 404 errors in a [[Flask]] application.
 - **Importing Functions in [[Flask]] Applications:** Addressed issues related to importing functions by emphasizing proper structuring and import practices.
 - **Setting Up [[Python]] Package Structure:** Outlined steps to structure a [[Python]] project by ensuring all functions in `.py` files within the `src` directory are accessible.
 - **Setting Up [[Python]] Project as a Package:** Converted a [[Python]] project into a package by adding `__init__.py` files and configuring the [[Python]] path.
 - **Resolving [[Flask]] Application Path Issues:** Diagnosed and corrected file path issues in a [[Flask]] application for loading model files using absolute and relative paths.
-- **Resolving Missing Features in Model Input:** Provided solutions for addressing KeyErrors caused by missing features in model input, including form and [[JavaScript]] updates.
+- **Resolving Missing Features in Model Input:** Provided solutions for addressing KeyErrors caused by missing features in model input, including form and JavaScript updates.
 - **Setting Default Values in HTML Forms:** Enhanced user experience by setting default values in HTML forms for diamond attributes.
 
 ### Achievements

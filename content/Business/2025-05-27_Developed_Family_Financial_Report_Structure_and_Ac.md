@@ -1,6 +1,6 @@
 ---
 title: "Developed Family Financial Report Structure and Actor Map"
-tags: ['financial report', 'family wealth', 'role mapping', 'conflict analysis']
+tags: ['Financial Report', 'Family Wealth', 'Role Mapping', 'Conflict Analysis']
 created: 2025-05-27
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-05-27 — Session: Developed Family Financial Report Structure and Actor Map
 
 **🕒 05:30–06:00**  
-**🏷️ Labels**: financial report, family wealth, role mapping, conflict analysis  
+**🏷️ Labels**: Financial Report, Family Wealth, Role Mapping, Conflict Analysis  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

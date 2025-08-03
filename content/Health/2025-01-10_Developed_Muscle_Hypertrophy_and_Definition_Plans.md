@@ -1,6 +1,6 @@
 ---
 title: "Developed Muscle Hypertrophy and Definition Plans"
-tags: ['fitness', 'muscle hypertrophy', 'training plan', 'exercise', 'health']
+tags: ['Fitness', 'Muscle Hypertrophy', 'Training Plan', 'Exercise', 'Health']
 created: 2025-01-10
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-10 — Session: Developed Muscle Hypertrophy and Definition Plans
 
 **🕒 22:30–23:00**  
-**🏷️ Labels**: fitness, muscle hypertrophy, training plan, exercise, health  
+**🏷️ Labels**: Fitness, Muscle Hypertrophy, Training Plan, Exercise, Health  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

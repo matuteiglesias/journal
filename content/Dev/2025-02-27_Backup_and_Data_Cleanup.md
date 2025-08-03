@@ -1,6 +1,6 @@
 ---
 title: "Backup and Data Cleanup"
-tags: ['backup', 'data management', 'file organization', 'rsync', 'optimization']
+tags: ['Backup', 'Data Management', 'File Organization', 'Rsync', 'Optimization']
 created: 2025-02-27
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-27 — Session: Backup and Data Cleanup
 
 **🕒 16:40–16:55**  
-**🏷️ Labels**: backup, data management, file organization, rsync, optimization  
+**🏷️ Labels**: Backup, Data Management, File Organization, Rsync, Optimization  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -28,5 +28,5 @@ The goal of this session was to manage and optimize backup data by merging old b
 - Enhanced project organization by revamping outdated repositories and documenting processed files.
 
 ### Pending Tasks
-- Further [[optimization]] of backup directory analysis and cleanup.
+- Further optimization of backup directory analysis and cleanup.
 - Continuous monitoring and updating of backup strategies to prevent data redundancy.

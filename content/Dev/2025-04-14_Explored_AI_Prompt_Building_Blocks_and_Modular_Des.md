@@ -1,6 +1,6 @@
 ---
 title: "Explored AI Prompt Building Blocks and Modular Design"
-tags: ['AI', 'Prompt Engineering', 'Modular Design', 'UX Design', 'Composable Systems']
+tags: ['AI', 'Prompt Engineering', 'Modular Design', 'Ux Design', 'Composable Systems']
 created: 2025-04-14
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-14 — Session: Explored AI Prompt Building Blocks and Modular Design
 
 **🕒 08:00–08:40**  
-**🏷️ Labels**: AI, Prompt Engineering, Modular Design, UX Design, Composable Systems  
+**🏷️ Labels**: AI, Prompt Engineering, Modular Design, Ux Design, Composable Systems  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

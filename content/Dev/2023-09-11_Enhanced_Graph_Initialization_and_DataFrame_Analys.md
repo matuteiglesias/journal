@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Graph Initialization and DataFrame Analysis"
-tags: ['Python', 'Graph Theory', 'DataFrame', 'Seaborn', 'Performance Optimization']
+tags: ['Python', 'Graph Theory', 'Dataframe', 'Seaborn', 'Performance Optimization']
 created: 2023-09-11
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-11 — Session: Enhanced Graph Initialization and DataFrame Analysis
 
 **🕒 21:30–23:15**  
-**🏷️ Labels**: Python, Graph Theory, DataFrame, Seaborn, Performance Optimization  
+**🏷️ Labels**: Python, Graph Theory, Dataframe, Seaborn, Performance Optimization  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -26,7 +26,7 @@ The session aimed to implement and optimize graph initialization methods in [[Py
 
 **Achievements:**
 - Successfully implemented default parameter handling for graph operations.
-- Enhanced [[data analysis]] through optimized DataFrame operations and visualization techniques.
+- Enhanced data analysis through optimized DataFrame operations and visualization techniques.
 
 **Pending Tasks:**
 - Further refine the graph initialization methods for additional performance gains.

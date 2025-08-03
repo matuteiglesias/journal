@@ -23,10 +23,10 @@ The session aimed to optimize the execution of a Scrapy spider for web scraping 
 - Resolved a `FileNotFoundError` in the MultiCSVItemPipeline by adjusting the filename format and ensuring directory existence.
 
 **Achievements:**
-- Successfully summarized Scrapy spider execution results and outlined next steps for data review and [[optimization]].
+- Successfully summarized Scrapy spider execution results and outlined next steps for data review and optimization.
 - Provided clear guidelines for using the `CategoriasSpider` class, ensuring ethical scraping practices.
 - Executed the `CategoriasSpider` with detailed instructions for successful data extraction.
 - Fixed the file naming issue in the MultiCSVItemPipeline, preventing future errors.
 
 **Pending Tasks:**
-- Further review and [[optimization]] of the scraped data are needed to enhance [[data processing]] efficiency.
+- Further review and optimization of the scraped data are needed to enhance data processing efficiency.

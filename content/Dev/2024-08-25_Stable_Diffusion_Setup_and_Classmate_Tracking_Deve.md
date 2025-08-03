@@ -19,7 +19,7 @@ The primary aim of this session was to troubleshoot and set up the Stable Diffus
 ### Key Activities
 - **[[Troubleshooting]] Stable Diffusion Setup**: Addressed issues with UI ports not initializing on Runpod using Kohya, ComfyUI, and InvokeAI. This included managing SSH connections and service statuses.
 - **Image Generation for Logo Design**: Utilized Stable Diffusion for creating logos using prompt engineering and inpainting techniques.
-- **Classmate Tracking System Development**: Planned and executed a database structure to track classmates across courses. Implemented [[Python]] scripts for data retrieval and processing, including grouping and summarizing classmates by course enrollment.
+- **Classmate Tracking System [[Development]]**: Planned and executed a database structure to track classmates across courses. Implemented [[Python]] scripts for data retrieval and processing, including grouping and summarizing classmates by course enrollment.
 
 ### Achievements
 - Successfully managed and restarted services on Runpod for Stable Diffusion setup.
@@ -27,5 +27,5 @@ The primary aim of this session was to troubleshoot and set up the Stable Diffus
 - Designed a database schema and implemented [[Python]] solutions for efficient classmate tracking.
 
 ### Pending Tasks
-- Further [[optimization]] of the classmate tracking system for scalability.
+- Further optimization of the classmate tracking system for scalability.
 - Continued refinement of image generation techniques using Stable Diffusion.

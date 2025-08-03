@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Data Visualization for Power Law Analysis"
-tags: ['data visualization', 'power law', 'Python', 'code improvement']
+tags: ['Data Visualization', 'Power Law', 'Python', 'Code Improvement']
 created: 2023-12-23
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2023-12-23 — Session: Enhanced Data Visualization for Power Law Analysis
 
 **🕒 00:00–00:10**  
-**🏷️ Labels**: data visualization, power law, Python, code improvement  
+**🏷️ Labels**: Data Visualization, Power Law, Python, Code Improvement  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to enhance [[data visualization]] techniques to better highlight power law properties in economic datasets, focusing on improving the clarity and performance of plots.
+The goal of this session was to enhance data visualization techniques to better highlight power law properties in economic datasets, focusing on improving the clarity and performance of plots.
 
 ### Key Activities
 - Adjusted plotting functions to emphasize power law properties, handling special cases like zeros and applying logarithmic transformations.

@@ -20,7 +20,7 @@ The goal of this session was to customize the appearance of Seaborn boxplots to 
 - Customized boxplot appearance using Seaborn by adjusting box face transparency and edge colors.
 - Addressed Seaborn version compatibility issues by manually setting facecolors due to the unrecognized `fill` parameter.
 - Resolved `SettingWithCopyWarning` in DataFrame and prepared data for visualization.
-- Debugged `IndexError` in color assignment by checking list lengths and implementing [[error handling]].
+- Debugged `IndexError` in color assignment by checking list lengths and implementing error handling.
 - Adapted code to dynamically calculate components per group and ensure proper color indexing.
 - Modified boxplot code to reflect party differences without separating by election type.
 - Applied specific colors to error bars to match box edges for visual consistency.
@@ -28,7 +28,7 @@ The goal of this session was to customize the appearance of Seaborn boxplots to 
 ### Achievements
 - Successfully customized boxplots with transparent faces and colored edges.
 - Ensured compatibility with different Seaborn versions.
-- Improved [[error handling]] and data preparation for visualization.
+- Improved error handling and data preparation for visualization.
 
 ### Pending Tasks
 - Further refine the visualization to enhance clarity and insight into voting patterns.

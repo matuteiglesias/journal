@@ -1,6 +1,6 @@
 ---
 title: "Integrated n8n with OAuth and Ngrok"
-tags: ['n8n', 'OAuth', 'Ngrok', 'Email Setup', 'Automation']
+tags: ['N8N', 'Oauth', 'Ngrok', 'Email Setup', 'Automation']
 created: 2024-12-13
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-13 — Session: Integrated n8n with OAuth and Ngrok
 
 **🕒 00:00–02:45**  
-**🏷️ Labels**: n8n, OAuth, Ngrok, Email Setup, Automation  
+**🏷️ Labels**: N8N, Oauth, Ngrok, Email Setup, Automation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

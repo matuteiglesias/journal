@@ -1,6 +1,6 @@
 ---
 title: "Implemented Web Scraping for Academic Data Extraction"
-tags: ['web scraping', 'Python', 'BeautifulSoup', 'Selenium', 'Google Scholar']
+tags: ['Web Scraping', 'Python', 'Beautifulsoup', 'Selenium', 'Google Scholar']
 created: 2023-11-07
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-11-07 — Session: Implemented Web Scraping for Academic Data Extraction
 
 **🕒 22:05–23:40**  
-**🏷️ Labels**: web scraping, Python, BeautifulSoup, Selenium, Google Scholar  
+**🏷️ Labels**: Web Scraping, Python, Beautifulsoup, Selenium, Google Scholar  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -27,7 +27,7 @@ The session aimed to implement and troubleshoot web scraping methods for extract
 ### Achievements
 - Successfully installed and configured JabRef on a Linux system.
 - Developed and refined [[Python]] scripts for extracting and structuring data from HTML content.
-- Addressed common web scraping challenges, including dynamic content loading and version mismatches in [[automation]] tools.
+- Addressed common web scraping challenges, including dynamic content loading and version mismatches in automation tools.
 
 ### Pending Tasks
 - Further refine regex patterns and parsing logic for more accurate data extraction.

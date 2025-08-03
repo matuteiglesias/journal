@@ -1,6 +1,6 @@
 ---
 title: "Weekly Meal and Inventory Planning"
-tags: ['OCR', 'inventory', 'meal planning', 'efficiency', 'data processing']
+tags: ['OCR', 'Inventory', 'Meal Planning', 'Efficiency', 'Data Processing']
 created: 2025-06-28
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-28 — Session: Weekly Meal and Inventory Planning
 
 **🕒 00:30–00:45**  
-**🏷️ Labels**: OCR, inventory, meal planning, efficiency, data processing  
+**🏷️ Labels**: OCR, Inventory, Meal Planning, Efficiency, Data Processing  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: false
 The session aimed to optimize meal planning and inventory management using OCR and visual assessments to reduce waste and improve efficiency.
 
 ### Key Activities
-- **OCR Data Extraction**: Processed three receipts using OCR to extract detailed purchase information including quantities, prices, and discounts.
+- **OCR [[Data Extraction]]**: Processed three receipts using OCR to extract detailed purchase information including quantities, prices, and discounts.
 - **Inventory Assessment**: Conducted a visual inventory assessment of grocery items, consolidating data into a detailed table for better organization.
 - **Weekly Meal Planning**: Designed a 14-meal weekly menu focusing on efficient use of available ingredients and minimizing waste.
 - **Meal Prep Planning**: Developed a comprehensive guide for base preparations and accompaniments to streamline cooking processes throughout the week.

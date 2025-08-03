@@ -24,7 +24,7 @@ The goal of this session was to explore and implement methods for automating web
 - Described a [[Python]] function for generating Indeed job search URLs based on specified roles and locations, with examples for Buenos Aires and Florianópolis.
 
 ### Achievements
-- Successfully created scripts for automating job search tasks using [[Python]], including web search [[automation]], domain extraction, and DataFrame creation.
+- Successfully created scripts for automating job search tasks using [[Python]], including web search automation, domain extraction, and DataFrame creation.
 
 ### Pending Tasks
 - Further testing and refinement of the scripts to ensure robustness and compliance with ethical web scraping practices.

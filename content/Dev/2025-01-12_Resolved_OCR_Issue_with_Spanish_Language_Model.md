@@ -21,11 +21,11 @@ The primary goal of this session was to resolve issues with the Spanish language
 - Attempted text extraction using the default language model.
 - Extracted text from a legal document regarding a comodato agreement.
 - Reviewed a loan agreement contract, detailing terms and conditions.
-- Discussed dynamic attributes in contract templates for [[automation]] purposes.
+- Discussed dynamic attributes in contract templates for automation purposes.
 
 ### Achievements
 - Successfully extracted text from legal documents using alternative methods.
-- Gained insights into improving OCR processes and contract [[automation]].
+- Gained insights into improving OCR processes and contract automation.
 
 ### Pending Tasks
 - Further testing and validation of the OCR process with different language models.

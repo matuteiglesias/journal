@@ -1,6 +1,6 @@
 ---
 title: "Strategic Global Career Planning and Postdoc Opportunities"
-tags: ['career planning', 'postdoc opportunities', 'Asia strategy', 'data automation', 'AI research']
+tags: ['Career Planning', 'Postdoc Opportunities', 'Asia Strategy', 'Data Automation', 'Ai Research']
 created: 2025-04-06
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-04-06 — Session: Strategic Global Career Planning and Postdoc Opportunities
 
 **🕒 15:00–16:50**  
-**🏷️ Labels**: career planning, postdoc opportunities, Asia strategy, data automation, AI research  
+**🏷️ Labels**: Career Planning, Postdoc Opportunities, Asia Strategy, Data Automation, Ai Research  
 **📂 Project**: JobMarket  
 **⭐ Priority**: MEDIUM  
 
@@ -31,9 +31,9 @@ The session aimed to explore and strategize global career opportunities, with a 
 - Corrected [[CSV]] formats for data management.
 
 ### Achievements
-- Developed a comprehensive [[strategy]] for global career planning and postdoc opportunities.
+- Developed a comprehensive strategy for global career planning and postdoc opportunities.
 - Created structured datasets and pipelines for efficient data collection and analysis.
 
 ### Pending Tasks
-- Finalize and implement the strategic career planning and postdoc opportunities [[strategy]].
+- Finalize and implement the strategic career planning and postdoc opportunities strategy.
 - Continue updating and refining datasets and criteria for research institutions.

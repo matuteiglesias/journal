@@ -1,6 +1,6 @@
 ---
 title: "Prepared Maintenance and Diagnostic Plan for Peugeot 207"
-tags: ['Peugeot 207', 'vehicle maintenance', 'diagnostic plan', 'electrical systems', 'checklist']
+tags: ['Peugeot 207', 'Vehicle Maintenance', 'Diagnostic Plan', 'Electrical Systems', 'Checklist']
 created: 2025-07-02
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-07-02 — Session: Prepared Maintenance and Diagnostic Plan for Peugeot 207
 
 **🕒 03:50–04:30**  
-**🏷️ Labels**: Peugeot 207, vehicle maintenance, diagnostic plan, electrical systems, checklist  
+**🏷️ Labels**: Peugeot 207, Vehicle Maintenance, Diagnostic Plan, Electrical Systems, Checklist  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

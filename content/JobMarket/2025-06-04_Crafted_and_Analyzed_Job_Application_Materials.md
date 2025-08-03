@@ -1,6 +1,6 @@
 ---
 title: "Crafted and Analyzed Job Application Materials"
-tags: ['cover letters', 'job applications', 'screening', 'AI', 'machine learning', 'career development']
+tags: ['Cover Letters', 'Job Applications', 'Screening', 'AI', 'Machine Learning', 'Career Development']
 created: 2025-06-04
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-04 — Session: Crafted and Analyzed Job Application Materials
 
 **🕒 19:30–20:50**  
-**🏷️ Labels**: cover letters, job applications, screening, AI, machine learning, career development  
+**🏷️ Labels**: Cover Letters, Job Applications, Screening, AI, Machine Learning, Career Development  
 **📂 Project**: JobMarket  
 **⭐ Priority**: MEDIUM  
 
@@ -27,5 +27,5 @@ The session aimed to craft and analyze job application materials, focusing on co
 - Provided detailed screening analyses and recommendations for various job opportunities, aiding in informed decision-making.
 
 ### Pending Tasks
-- Further refine the job application [[strategy]] based on feedback from screening analyses and assessments.
+- Further refine the job application strategy based on feedback from screening analyses and assessments.
 - Continue to monitor job market trends and update application materials accordingly.

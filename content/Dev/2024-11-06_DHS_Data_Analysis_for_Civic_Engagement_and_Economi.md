@@ -1,6 +1,6 @@
 ---
 title: "DHS Data Analysis for Civic Engagement and Economic Stability"
-tags: ['DHS', 'civic engagement', 'economic stability', 'data analysis', 'Python']
+tags: ['DHS', 'Civic Engagement', 'Economic Stability', 'Data Analysis', 'Python']
 created: 2024-11-06
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-11-06 — Session: DHS Data Analysis for Civic Engagement and Economic Stability
 
 **🕒 16:30–17:05**  
-**🏷️ Labels**: DHS, civic engagement, economic stability, data analysis, Python  
+**🏷️ Labels**: DHS, Civic Engagement, Economic Stability, Data Analysis, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -30,5 +30,5 @@ The session aimed to explore DHS survey data to gain insights into civic engagem
 - Developed code snippets for demographic and wealth index analysis.
 
 ### Pending Tasks
-- Further refinement of [[data processing]] steps and analysis code for comprehensive reporting.
-- Visualization of analysis outcomes for stakeholder presentations.
+- Further refinement of data processing steps and analysis code for comprehensive reporting.
+- [[Visualization]] of analysis outcomes for stakeholder presentations.

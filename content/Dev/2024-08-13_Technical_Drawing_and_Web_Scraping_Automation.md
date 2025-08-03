@@ -1,6 +1,6 @@
 ---
 title: "Technical Drawing and Web Scraping Automation"
-tags: ['technical drawing', 'web scraping', 'automation', 'Python', 'proxies']
+tags: ['Technical Drawing', 'Web Scraping', 'Automation', 'Python', 'Proxies']
 created: 2024-08-13
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-08-13 — Session: Technical Drawing and Web Scraping Automation
 
 **🕒 11:55–21:10**  
-**🏷️ Labels**: technical drawing, web scraping, automation, Python, proxies  
+**🏷️ Labels**: Technical Drawing, Web Scraping, Automation, Python, Proxies  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -23,7 +23,7 @@ The session aimed to create a detailed technical drawing of a mountain bike with
 - Discussed voter segmentation for engagement strategies.
 - Implemented methods to prevent unintended merges with NaN values in [[Pandas]].
 - Created Google search URLs in a [[Pandas]] DataFrame.
-- Developed [[automation]] for Google search result parsing using ThreadPoolExecutor.
+- Developed automation for Google search result parsing using ThreadPoolExecutor.
 - Addressed Google CAPTCHA and 429 errors with proxy strategies.
 
 ### Achievements
@@ -31,4 +31,4 @@ The session aimed to create a detailed technical drawing of a mountain bike with
 - Automated the extraction of social media profiles from Google search results using concurrent processing.
 
 ### Pending Tasks
-- Further testing and refinement of the proxy management and [[error handling]] strategies in web scraping.
+- Further testing and refinement of the proxy management and error handling strategies in web scraping.

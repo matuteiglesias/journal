@@ -1,6 +1,6 @@
 ---
 title: "Political Project Planning and Networking"
-tags: ['political strategy', 'networking', 'personal development', 'militancy', 'strategy']
+tags: ['Political Strategy', 'Networking', 'Personal Development', 'Militancy', 'Strategy']
 created: 2024-06-04
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-06-04 — Session: Political Project Planning and Networking
 
 **🕒 22:20–22:40**  
-**🏷️ Labels**: political strategy, networking, personal development, militancy, strategy  
+**🏷️ Labels**: Political Strategy, Networking, Personal Development, Militancy, Strategy  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -20,7 +20,7 @@ The session aimed to develop strategies for political engagement, personal narra
 - Outlined strategies for political engagement and personal narrative development.
 - Developed a plan of action focusing on personal coherence, political positioning, internal challenges, and interactions with key contacts.
 - Structured approach to defining political objectives, personal branding, and networking strategies.
-- Coordinated project support for end-of-year elections and development in [[data science]] and [[AI]].
+- Coordinated project support for end-of-year elections and development in data science and [[AI]].
 - Highlighted interdisciplinary perspectives on political issues involving professionals from various disciplines.
 
 ### Achievements

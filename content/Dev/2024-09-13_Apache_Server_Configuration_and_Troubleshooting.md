@@ -30,4 +30,4 @@ The goal of this session was to address and resolve various configuration and ac
 
 ### Pending Tasks
 - Continuous monitoring of Apache server performance and accessibility.
-- Further [[optimization]] of DNS and network settings for enhanced server response times.
+- Further optimization of DNS and network settings for enhanced server response times.

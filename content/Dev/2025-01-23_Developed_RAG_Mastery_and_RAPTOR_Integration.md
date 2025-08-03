@@ -18,7 +18,7 @@ The session aimed to plan and execute the development of a Retrieval-Augmented G
 
 ### Key Activities
 - Implemented a structured approach to mastering and implementing RAG systems, detailing core concepts and design steps.
-- Explored cost-effective strategies for RAG application development, focusing on efficient [[data processing]] and cloud services.
+- Explored cost-effective strategies for RAG application development, focusing on efficient data processing and cloud services.
 - Developed a customizable RAG-based application for document interaction, outlining technical approaches and next steps.
 - Built a private RAG app using the RAPTOR model, detailing core functionalities and challenges.
 - Created a roadmap for the RAG Mastery project, outlining objectives for short-term, mid-term, and long-term development.
@@ -30,9 +30,9 @@ The session aimed to plan and execute the development of a Retrieval-Augmented G
 
 ### Achievements
 - Successfully integrated RAPTOR principles into the RAG Mastery project, focusing on embedding, clustering, summarization, and retrieval processes.
-- Developed a comprehensive [[workflow]] for content generation and retrieval using a modular approach.
+- Developed a comprehensive workflow for content generation and retrieval using a modular approach.
 
 ### Pending Tasks
 - Continue refining and scaling the RAG system.
 - Complete the three-day project plan for RAG pipeline integration and modularization.
-- Implement enhancements and future [[automation]] goals for the content generation pipeline.
+- Implement enhancements and future automation goals for the content generation pipeline.

@@ -17,9 +17,9 @@ publish: false
 The session aimed to create and enhance a professional CV for Gabriel R. Duarte using Markdown and HTML/CSS.
 
 **Key Activities:**
-- Developed a structured Markdown CV template for Gabriel R. Duarte, detailing personal information, professional summary, [[education]], work experience, and skills.
+- Developed a structured Markdown CV template for Gabriel R. Duarte, detailing personal information, professional summary, education, work experience, and skills.
 - Improved the CV focusing on Duarte's experience and skills in healthcare and patient care, ensuring a clear and structured format.
-- Created an HTML template with CSS styles and [[JavaScript]] to convert Markdown content into a visually appealing resume layout.
+- Created an HTML template with CSS styles and JavaScript to convert Markdown content into a visually appealing resume layout.
 - Integrated comprehensive CSS styles for web design, ensuring proper display and addressing previous oversights.
 - Refined the CV structure, highlighting Duarte's professional profile, academic background, and work experience in nursing and healthcare.
 

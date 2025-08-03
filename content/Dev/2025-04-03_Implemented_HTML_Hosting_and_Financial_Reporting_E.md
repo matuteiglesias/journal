@@ -17,7 +17,7 @@ publish: true
 The session aimed to explore methods for hosting local HTML files and improving the accessibility of financial reports.
 
 ### Key Activities
-- Explored four methods to host a local HTML file, including using a simple [[Python]] server, [[GitHub]] Pages, Netlify, and ngrok.
+- Explored four methods to host a local HTML file, including using a simple [[Python]] server, GitHub Pages, Netlify, and ngrok.
 - Set up Ngrok for tunneling a local web server to allow external access.
 - Reviewed guidelines for sharing links via WhatsApp.
 - Proposed improvements to the presentation of financial data tables to make them accessible to non-financial users.

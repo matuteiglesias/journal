@@ -1,6 +1,6 @@
 ---
 title: "Google Sheets Integration and Financial Data Analysis"
-tags: ['Google Sheets', 'Python', 'Data Analysis', 'Financial Management', 'API Integration']
+tags: ['Google Sheets', 'Python', 'Data Analysis', 'Financial Management', 'Api Integration']
 created: 2024-11-18
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-11-18 — Session: Google Sheets Integration and Financial Data Analysis
 
 **🕒 00:05–02:15**  
-**🏷️ Labels**: Google Sheets, Python, Data Analysis, Financial Management, API Integration  
+**🏷️ Labels**: Google Sheets, Python, Data Analysis, Financial Management, Api Integration  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -32,5 +32,5 @@ The primary goal of this session was to integrate Google Sheets with [[Python]] 
 - Established a clear methodology for analyzing financial data and managing property management fund transactions.
 
 ### Pending Tasks
-- Further exploration of alternative [[data analysis]] approaches for quarterly totals.
-- Continuous monitoring and [[optimization]] of Google Sheets [[API]] performance.
+- Further exploration of alternative data analysis approaches for quarterly totals.
+- Continuous monitoring and optimization of Google Sheets [[API]] performance.

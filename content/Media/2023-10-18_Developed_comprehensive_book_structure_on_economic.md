@@ -1,6 +1,6 @@
 ---
 title: "Developed comprehensive book structure on economic dynamics"
-tags: ['economic dynamics', 'book structure', 'aggregate volatility', 'firm size distributions', 'log-normal distribution']
+tags: ['Economic Dynamics', 'Book Structure', 'Aggregate Volatility', 'Firm Size Distributions', 'Log-Normal Distribution']
 created: 2023-10-18
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-10-18 — Session: Developed comprehensive book structure on economic dynamics
 
 **🕒 07:05–09:00**  
-**🏷️ Labels**: economic dynamics, book structure, aggregate volatility, firm size distributions, log-normal distribution  
+**🏷️ Labels**: Economic Dynamics, Book Structure, Aggregate Volatility, Firm Size Distributions, Log-Normal Distribution  
 **📂 Project**: Media  
 **⭐ Priority**: MEDIUM  
 

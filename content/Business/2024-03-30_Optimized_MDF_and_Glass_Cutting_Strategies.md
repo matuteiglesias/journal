@@ -17,7 +17,7 @@ publish: false
 The session aimed to explore strategies for optimizing cuts from MDF plaques and glass using standard A-series paper sizes, alongside planning for high-quality printing.
 
 ### Key Activities
-- Developed a [[workflow]] for maximizing cuts from MDF and glass based on A-series paper sizes, focusing on layout planning and waste minimization.
+- Developed a workflow for maximizing cuts from MDF and glass based on A-series paper sizes, focusing on layout planning and waste minimization.
 - Reflected on the number of various sheet sizes that can fit into a specified MDF board size, emphasizing mixed sizes for optimal material usage.
 - Planned the most efficient arrangement for accommodating A2 sheets on an MDF plaque, suggesting a landscape orientation.
 - Discussed recommendations for high-quality digital printing for artwork and photography, including selecting appropriate paper types and resolutions.
@@ -27,7 +27,7 @@ The session aimed to explore strategies for optimizing cuts from MDF plaques and
 - Visualized a cozy living room setup with framed artworks, highlighting the interaction of different paper types with lighting.
 
 ### Achievements
-- Established a comprehensive [[strategy]] for MDF and glass cutting using A-series sizes.
+- Established a comprehensive strategy for MDF and glass cutting using A-series sizes.
 - Clarified best practices for high-quality printing in various formats and settings.
 
 ### Pending Tasks

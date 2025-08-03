@@ -1,6 +1,6 @@
 ---
 title: "Resolved Python Path and Import Errors"
-tags: ['Python', 'pathlib', 'error handling', 'environment setup', 'logging']
+tags: ['Python', 'Pathlib', 'Error Handling', 'Environment Setup', 'Logging']
 created: 2024-12-18
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-18 — Session: Resolved Python Path and Import Errors
 
 **🕒 20:35–21:50**  
-**🏷️ Labels**: Python, pathlib, error handling, environment setup, logging  
+**🏷️ Labels**: Python, Pathlib, Error Handling, Environment Setup, Logging  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

@@ -26,7 +26,7 @@ The session aimed to resolve deployment issues encountered when deploying a [[Fl
 
 ### Achievements
 - Successfully identified and resolved configuration and deployment issues related to the [[Flask]] application on Google App Engine.
-- Implemented logging to aid in future [[debugging]] efforts.
+- Implemented logging to aid in future debugging efforts.
 
 ### Pending Tasks
 - Further testing of the deployment in a production-like environment to ensure stability and performance.

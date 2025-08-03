@@ -1,6 +1,6 @@
 ---
 title: "Resolved Python Testing and Import Errors"
-tags: ['Python', 'Testing', 'Error Handling', 'PromptBlock', 'PromptFlowRunner']
+tags: ['Python', 'Testing', 'Error Handling', 'Promptblock', 'Promptflowrunner']
 created: 2025-04-15
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-15 — Session: Resolved Python Testing and Import Errors
 
 **🕒 16:30–17:10**  
-**🏷️ Labels**: Python, Testing, Error Handling, PromptBlock, PromptFlowRunner  
+**🏷️ Labels**: Python, Testing, Error Handling, Promptblock, Promptflowrunner  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -27,7 +27,7 @@ The primary goal of this session was to address and resolve various [[Python]] t
 ### Achievements
 - Successfully resolved multiple import and testing errors in [[Python]] scripts.
 - Improved the reliability of test suites for `PromptBlock` and `PromptFlowRunner`.
-- Enhanced understanding of [[Python]] testing frameworks and [[error handling]].
+- Enhanced understanding of [[Python]] testing frameworks and error handling.
 
 ### Pending Tasks
 - Further refactoring of test suites to optimize performance and coverage.

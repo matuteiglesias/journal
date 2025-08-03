@@ -1,6 +1,6 @@
 ---
 title: "Git Repository Management and Reset"
-tags: ['git', 'version control', 'repository management', 'branch reset']
+tags: ['Git', 'Version Control', 'Repository Management', 'Branch Reset']
 created: 2025-03-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-12 — Session: Git Repository Management and Reset
 
 **🕒 20:25–20:45**  
-**🏷️ Labels**: git, version control, repository management, branch reset  
+**🏷️ Labels**: Git, Version Control, Repository Management, Branch Reset  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -19,7 +19,7 @@ The goal of this session was to manage and reset Git branches, particularly focu
 ### Key Activities
 - Viewed today's Git commits and pushes to understand the current state of the repository.
 - Restored a Git repository to a previous commit to recover from potential issues.
-- Managed [[GitHub]] branches, diagnosing issues between `main` and `gh-pages` and providing recovery options.
+- Managed GitHub branches, diagnosing issues between `main` and `gh-pages` and providing recovery options.
 - Reverted the `main` branch to its initial commit using reset and force push techniques.
 - Addressed untracked files in the `main` branch to prevent overwriting during reset.
 - Reset the `gh-pages` branch to its initial commit, ensuring a clean state.

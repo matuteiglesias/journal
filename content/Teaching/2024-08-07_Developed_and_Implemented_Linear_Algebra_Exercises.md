@@ -1,6 +1,6 @@
 ---
 title: "Developed and Implemented Linear Algebra Exercises"
-tags: ['linear algebra', 'Python', 'education', 'exercise development', 'file management']
+tags: ['Linear Algebra', 'Python', 'Education', 'Exercise Development', 'File Management']
 created: 2024-08-07
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-08-07 — Session: Developed and Implemented Linear Algebra Exercises
 
 **🕒 15:30–18:00**  
-**🏷️ Labels**: linear algebra, Python, education, exercise development, file management  
+**🏷️ Labels**: Linear Algebra, Python, Education, Exercise Development, File Management  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

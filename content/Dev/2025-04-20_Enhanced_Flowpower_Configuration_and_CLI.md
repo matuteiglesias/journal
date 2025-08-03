@@ -17,7 +17,7 @@ publish: true
 The primary objective of this session was to enhance the configuration management and CLI setup for the Flowpower project.
 
 ### Key Activities
-- Analyzed [[PromptFlow]]'s `_configuration.py` to identify reusable features for Flowpower's `config.py`.
+- Analyzed PromptFlow's `_configuration.py` to identify reusable features for Flowpower's `config.py`.
 - Planned a production-grade configuration system in [[Python]] with flexibility and minimal dependencies.
 - Optimized `__init__.py` files for project-wide imports and CLI integration.
 - Diagnosed and resolved Pylance import errors and [[Python]] package issues.

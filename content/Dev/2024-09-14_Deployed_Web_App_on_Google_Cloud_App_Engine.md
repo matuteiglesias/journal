@@ -26,7 +26,7 @@ The goal of this session was to deploy a web application on [[Google Cloud]] App
 - Fixed permissions errors for the service account accessing a Cloud Storage bucket.
 - Resolved access issues for the App Engine service account related to Cloud Storage bucket permissions.
 - Used the `gcloud app browse` command to open the deployed App Engine app in a web browser.
-- Fixed MIME type errors in [[JavaScript]] file deployment by modifying the `app.yaml` configuration.
+- Fixed MIME type errors in JavaScript file deployment by modifying the `app.yaml` configuration.
 
 ### Achievements
 - Successfully deployed the web application on [[Google Cloud]] App Engine.

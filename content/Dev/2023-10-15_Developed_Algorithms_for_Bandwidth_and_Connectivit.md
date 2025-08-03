@@ -1,6 +1,6 @@
 ---
 title: "Developed Algorithms for Bandwidth and Connectivity in Graphs"
-tags: ['bandwidth', 'graph theory', 'algorithms', 'networking', 'BFS', 'DFS']
+tags: ['Bandwidth', 'Graph Theory', 'Algorithms', 'Networking', 'BFS', 'DFS']
 created: 2023-10-15
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-10-15 — Session: Developed Algorithms for Bandwidth and Connectivity in Graphs
 
 **🕒 17:30–18:20**  
-**🏷️ Labels**: bandwidth, graph theory, algorithms, networking, BFS, DFS  
+**🏷️ Labels**: Bandwidth, Graph Theory, Algorithms, Networking, BFS, DFS  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -25,7 +25,7 @@ The session aimed to explore and develop algorithms related to bandwidth calcula
 - **BFS for Connection Distance:** Implemented BFS to solve connection distance problems in computer networks.
 
 ### Achievements
-- Successfully formulated and refined algorithms for bandwidth [[optimization]] and bridge detection.
+- Successfully formulated and refined algorithms for bandwidth optimization and bridge detection.
 - Gained insights into the critical role of specific edges in maintaining network connectivity.
 
 ### Pending Tasks

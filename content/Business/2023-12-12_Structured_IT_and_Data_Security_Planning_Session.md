@@ -1,6 +1,6 @@
 ---
 title: "Structured IT and Data Security Planning Session"
-tags: ['IT structure', 'Data Security', 'VPN Access', 'CDO role', 'Administrative Procedures']
+tags: ['It Structure', 'Data Security', 'Vpn Access', 'Cdo Role', 'Administrative Procedures']
 created: 2023-12-12
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-12-12 — Session: Structured IT and Data Security Planning Session
 
 **🕒 03:00–05:30**  
-**🏷️ Labels**: IT structure, Data Security, VPN Access, CDO role, Administrative Procedures  
+**🏷️ Labels**: It Structure, Data Security, Vpn Access, Cdo Role, Administrative Procedures  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -19,8 +19,8 @@ The session aimed to explore and plan the structure and roles within IT teams, f
 ### Key Activities
 - Proposed a 20-person IT team structure for a state office in Argentina, defining roles in technologies like .NET and PHP.
 - Reflected on essential skills for Data [[Integration]] Specialists, covering ETL, middleware, and [[API]] security.
-- Described the role of the Chief Data Officer (CDO) in optimizing security operations through [[data analysis]].
-- Outlined the structure of the CDO team with a focus on [[data visualization]] and [[communication]].
+- Described the role of the Chief Data Officer (CDO) in optimizing security operations through data analysis.
+- Outlined the structure of the CDO team with a focus on data visualization and communication.
 - Detailed legal and technical steps for VPN access as an advisor in Criminal Intelligence.
 - Provided a guide for secure data handling within the ministry, emphasizing compliance with data norms.
 - Reflected on data transfer regulation violations and mitigation strategies.
@@ -31,7 +31,7 @@ The session aimed to explore and plan the structure and roles within IT teams, f
 
 ### Achievements
 - Developed comprehensive frameworks for IT team structures and roles.
-- Clarified the role of CDO in security [[optimization]].
+- Clarified the role of CDO in security optimization.
 - Established guidelines for secure data handling and remote work environments.
 - Provided detailed procedures for legal compliance in data access requests.
 

@@ -1,6 +1,6 @@
 ---
 title: "Financial Data Analysis and Visualization"
-tags: ['data_analysis', 'financial_data', 'Python', 'Pandas', 'visualization']
+tags: ['Data_Analysis', 'Financial_Data', 'Python', 'Pandas', 'Visualization']
 created: 2025-07-06
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-07-06 — Session: Financial Data Analysis and Visualization
 
 **🕒 00:55–01:15**  
-**🏷️ Labels**: data_analysis, financial_data, Python, Pandas, visualization  
+**🏷️ Labels**: Data_Analysis, Financial_Data, Python, Pandas, Visualization  
 **📂 Project**: Accounting  
 **⭐ Priority**: MEDIUM  
 

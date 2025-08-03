@@ -1,6 +1,6 @@
 ---
 title: "Defined Roles for Indice de Pobreza UBA Project"
-tags: ['recruitment', 'team structure', 'project management', 'data science', 'GIS']
+tags: ['Recruitment', 'Team Structure', 'Project Management', 'Data Science', 'GIS']
 created: 2023-10-21
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-10-21 — Session: Defined Roles for Indice de Pobreza UBA Project
 
 **🕒 05:45–06:10**  
-**🏷️ Labels**: recruitment, team structure, project management, data science, GIS  
+**🏷️ Labels**: Recruitment, Team Structure, Project Management, Data Science, GIS  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -21,7 +21,7 @@ The primary goal of this session was to define and refine the roles and team str
 - **Team Structure**: Proposed a lean team structure, combining roles to optimize efficiency and resource allocation.
 - **Volunteer Roles**: Provided a simplified overview of combined volunteer roles in Spanish, targeting younger demographics.
 - **Invitation to Join**: Developed a README section inviting diverse individuals to join the project, emphasizing gender diversity.
-- **Job Descriptions**: Created casual and engaging job descriptions tailored for the Argentine context, focusing on roles in [[data science]], GIS, data engineering, and front-end development.
+- **Job Descriptions**: Created casual and engaging job descriptions tailored for the Argentine context, focusing on roles in data science, GIS, data engineering, and front-end development.
 
 ### Achievements
 - Successfully defined a comprehensive team structure and role descriptions for the project.

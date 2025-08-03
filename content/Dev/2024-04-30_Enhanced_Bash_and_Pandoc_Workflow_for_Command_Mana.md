@@ -21,7 +21,7 @@ The session aimed to enhance command management in Bash and improve document con
 - **Expanding Bash History**: Configured Bash to expand command history capacity with `HISTSIZE` and `HISTFILESIZE`.
 - **Document Conversion**: Developed commands for converting Markdown to HTML and PDF, focusing on style and margin parameters.
 - **Pandoc [[Troubleshooting]]**: Addressed common issues in Pandoc's Markdown to HTML conversion, including syntax errors and CSS interference.
-- **Optimization Recommendations**: Provided detailed recommendations for optimizing Pandoc commands for better HTML handling.
+- **[[Optimization]] Recommendations**: Provided detailed recommendations for optimizing Pandoc commands for better HTML handling.
 
 ### Achievements
 - Successfully configured Bash for enhanced command management and expanded history.

@@ -1,6 +1,6 @@
 ---
 title: "Class Preparation on Computational Linear Algebra: Power Method and PCA"
-tags: ['Power Method', 'PCA', 'class preparation', 'computational linear algebra', 'teaching']
+tags: ['Power Method', 'PCA', 'Class Preparation', 'Computational Linear Algebra', 'Teaching']
 created: 2024-10-24
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-24 — Session: Class Preparation on Computational Linear Algebra: Power Method and PCA
 
 **🕒 15:20–16:00**  
-**🏷️ Labels**: Power Method, PCA, class preparation, computational linear algebra, teaching  
+**🏷️ Labels**: Power Method, PCA, Class Preparation, Computational Linear Algebra, Teaching  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

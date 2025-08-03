@@ -1,6 +1,6 @@
 ---
 title: "Analysis of Routine Procedures for Ministry of Security"
-tags: ['análisis', 'Ministerio de Seguridad', 'procedimientos rutinarios', 'errores', 'Python']
+tags: ['Análisis', 'Ministerio De Seguridad', 'Procedimientos Rutinarios', 'Errores', 'Python']
 created: 2024-02-04
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-02-04 — Session: Analysis of Routine Procedures for Ministry of Security
 
 **🕒 06:35–06:45**  
-**🏷️ Labels**: análisis, Ministerio de Seguridad, procedimientos rutinarios, errores, Python  
+**🏷️ Labels**: Análisis, Ministerio De Seguridad, Procedimientos Rutinarios, Errores, Python  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

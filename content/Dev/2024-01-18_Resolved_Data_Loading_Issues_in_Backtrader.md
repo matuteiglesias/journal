@@ -25,7 +25,7 @@ The primary goal of this session was to troubleshoot and resolve data loading is
 
 ### Achievements:
 - Successfully resolved data loading and initialization errors in the `ResidualsCSVData` and `PandasData` classes.
-- Improved the data handling [[strategy]] in Backtrader, allowing for more robust time series [[data processing]].
+- Improved the data handling strategy in Backtrader, allowing for more robust time series data processing.
 
 ### Pending Tasks:
 - Further testing is required to validate the changes across different datasets and scenarios in Backtrader to ensure robustness.

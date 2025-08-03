@@ -1,6 +1,6 @@
 ---
 title: "Elections Data Analysis for FCEN UBA"
-tags: ['elections', 'data analysis', 'voter behavior', 'FCEN UBA', '2024 elections']
+tags: ['Elections', 'Data Analysis', 'Voter Behavior', 'FCEN UBA', '2024 Elections']
 created: 2024-09-22
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-22 — Session: Elections Data Analysis for FCEN UBA
 
 **🕒 05:35–06:00**  
-**🏷️ Labels**: elections, data analysis, voter behavior, FCEN UBA, 2024 elections  
+**🏷️ Labels**: Elections, Data Analysis, Voter Behavior, FCEN UBA, 2024 Elections  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Integration of ROC Curve and sklearn in Education"
-tags: ['ROC', 'sklearn', 'education', 'machine learning', 'AUC', 'classification']
+tags: ['ROC', 'Sklearn', 'Education', 'Machine Learning', 'AUC', 'Classification']
 created: 2025-06-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-06-17 — Session: Integration of ROC Curve and sklearn in Education
 
 **🕒 06:00–07:00**  
-**🏷️ Labels**: ROC, sklearn, education, machine learning, AUC, classification  
+**🏷️ Labels**: ROC, Sklearn, Education, Machine Learning, AUC, Classification  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

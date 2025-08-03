@@ -1,6 +1,6 @@
 ---
 title: "Finalized DBML Schema for Media Monitor System"
-tags: ['DBML', 'media monitoring', 'database design', 'schema', 'automation']
+tags: ['DBML', 'Media Monitoring', 'Database Design', 'Schema', 'Automation']
 created: 2025-06-22
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-06-22 — Session: Finalized DBML Schema for Media Monitor System
 
 **🕒 15:55–16:45**  
-**🏷️ Labels**: DBML, media monitoring, database design, schema, automation  
+**🏷️ Labels**: DBML, Media Monitoring, Database Design, Schema, Automation  
 **📂 Project**: Media  
 **⭐ Priority**: MEDIUM  
 

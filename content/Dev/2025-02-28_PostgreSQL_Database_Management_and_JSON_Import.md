@@ -1,6 +1,6 @@
 ---
 title: "PostgreSQL Database Management and JSON Import"
-tags: ['PostgreSQL', 'Database Management', 'JSON Import', 'Python', 'SQL']
+tags: ['Postgresql', 'Database Management', 'Json Import', 'Python', 'SQL']
 created: 2025-02-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-28 — Session: PostgreSQL Database Management and JSON Import
 
 **🕒 20:35–21:15**  
-**🏷️ Labels**: PostgreSQL, Database Management, JSON Import, Python, SQL  
+**🏷️ Labels**: Postgresql, Database Management, Json Import, Python, SQL  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -33,4 +33,4 @@ The primary goal of this session was to manage a PostgreSQL database efficiently
 
 ### Pending Tasks
 - Further testing and verification of email data import processes using the provided [[JSON]] structure.
-- Continuous monitoring and [[optimization]] of database operations.
+- Continuous monitoring and optimization of database operations.

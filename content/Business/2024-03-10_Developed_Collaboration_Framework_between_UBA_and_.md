@@ -1,6 +1,6 @@
 ---
 title: "Developed Collaboration Framework between UBA and Security Ministry"
-tags: ['collaboration', 'UBA', 'security', 'education', 'policy']
+tags: ['Collaboration', 'UBA', 'Security', 'Education', 'Policy']
 created: 2024-03-10
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-03-10 — Session: Developed Collaboration Framework between UBA and Security Ministry
 
 **🕒 20:10–23:10**  
-**🏷️ Labels**: collaboration, UBA, security, education, policy  
+**🏷️ Labels**: Collaboration, UBA, Security, Education, Policy  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -23,8 +23,8 @@ The session aimed to develop a comprehensive framework for collaboration between
 4. Suggested project reordering based on UBA's cooperation categories to streamline project presentation and implementation.
 5. Developed a structured plan for collaboration between the Ministry of Security and UBA, including initial meetings, proposal development, agreement signing, project implementation, evaluation, and expansion.
 6. Designed internship programs between the Ministry of Security and UBA, from needs identification to evaluation and dissemination of results.
-7. Outlined an agenda for the first commission meeting of the year, integrating Peronist perspectives on security, [[education]], and social justice.
-8. Proposed a subcommittee for data policy development in Data Science, aligning with the Educational Program Management Committee (CODEP) to enhance educational quality and curriculum management.
+7. Outlined an agenda for the first commission meeting of the year, integrating Peronist perspectives on security, education, and social justice.
+8. Proposed a subcommittee for data policy development in [[Data Science]], aligning with the Educational Program Management Committee (CODEP) to enhance educational quality and curriculum management.
 9. Analyzed the alignment of the data policy project with CODEP's functions, highlighting its impact on educational quality and the need for Academic Council approval.
 10. Evaluated a project for creating an online repository for educational resources, emphasizing its alignment with CODEP's functions and its contributions to educational policy and resource management.
 

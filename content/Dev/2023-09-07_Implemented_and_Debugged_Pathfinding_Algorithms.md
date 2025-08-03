@@ -1,6 +1,6 @@
 ---
 title: "Implemented and Debugged Pathfinding Algorithms"
-tags: ['DFS', 'pathfinding', 'Python', 'algorithm', 'debugging']
+tags: ['DFS', 'Pathfinding', 'Python', 'Algorithm', 'Debugging']
 created: 2023-09-07
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-07 — Session: Implemented and Debugged Pathfinding Algorithms
 
 **🕒 22:40–23:10**  
-**🏷️ Labels**: DFS, pathfinding, Python, algorithm, debugging  
+**🏷️ Labels**: DFS, Pathfinding, Python, Algorithm, Debugging  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -18,7 +18,7 @@ The session aimed to implement and debug various pathfinding algorithms, focusin
 
 ### Key Activities
 - Reviewed a practical work summary on algorithmic techniques, covering four exercises with specific problems.
-- Developed conceptual solutions for programming exercises, focusing on search techniques, [[optimization]], and balance adjustments.
+- Developed conceptual solutions for programming exercises, focusing on search techniques, optimization, and balance adjustments.
 - Implemented a DFS approach for the 'Sendero' problem, defining piece behaviors and movements.
 - Encountered and addressed an error in the environment, continuing with implementation and testing.
 - Corrected import statements in [[Python]] to fix an oversight with the `typing` module.
@@ -28,8 +28,8 @@ The session aimed to implement and debug various pathfinding algorithms, focusin
 
 ### Achievements
 - Successfully implemented and debugged the DFS algorithm for pathfinding, ensuring it handles piece rotations and path lengths correctly.
-- Provided visual representations of the solutions to enhance understanding and [[debugging]].
+- Provided visual representations of the solutions to enhance understanding and debugging.
 
 ### Pending Tasks
-- Further testing and [[optimization]] of the pathfinding algorithms to ensure robustness and efficiency.
+- Further testing and optimization of the pathfinding algorithms to ensure robustness and efficiency.
 - Explore additional pathfinding techniques for potential improvements.

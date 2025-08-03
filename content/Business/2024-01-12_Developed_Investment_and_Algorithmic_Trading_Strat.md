@@ -1,6 +1,6 @@
 ---
 title: "Developed Investment and Algorithmic Trading Strategies"
-tags: ['investment', 'algorithmic trading', 'financial data', 'risk management']
+tags: ['Investment', 'Algorithmic Trading', 'Financial Data', 'Risk Management']
 created: 2024-01-12
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-01-12 — Session: Developed Investment and Algorithmic Trading Strategies
 
 **🕒 20:40–21:25**  
-**🏷️ Labels**: investment, algorithmic trading, financial data, risk management  
+**🏷️ Labels**: Investment, Algorithmic Trading, Financial Data, Risk Management  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -17,10 +17,10 @@ publish: false
 The session aimed to assess and develop comprehensive investment strategies, including algorithmic trading, risk management, and financial data handling.
 
 ### Key Activities
-- **Investment Strategy Assessment:** Evaluated gradual investment strategies focusing on dollar-cost averaging, diversification, and risk management.
+- **Investment [[Strategy]] Assessment:** Evaluated gradual investment strategies focusing on dollar-cost averaging, diversification, and risk management.
 - **Portfolio Construction:** Created a diversified investment portfolio with a focus on various asset classes and risk management.
-- **Stocks and ETFs Strategy:** Developed strategies for investing in stocks and ETFs, utilizing algorithmic trading techniques.
-- **Algorithmic Trading Development:** Planned the selection and development of algorithmic trading software, including backtesting and risk management.
+- **Stocks and ETFs [[Strategy]]:** Developed strategies for investing in stocks and ETFs, utilizing algorithmic trading techniques.
+- **Algorithmic Trading [[Development]]:** Planned the selection and development of algorithmic trading software, including backtesting and risk management.
 - **Market Data Sources:** Identified and compared market data sources for algorithmic trading.
 - **Financial Tools Comparison:** Compared Yahoo Finance and Google Finance for investment analysis and algorithmic trading.
 - **Financial Management Suite Setup:** Outlined the setup of a financial management suite using Google Finance, Google Sheets, and [[Python]].

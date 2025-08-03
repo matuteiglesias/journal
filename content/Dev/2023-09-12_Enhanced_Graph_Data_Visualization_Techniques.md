@@ -18,7 +18,7 @@ The session aimed to enhance the visualization of graph data by employing variou
 
 ### Key Activities
 - **Displaying Winners Table**: Developed [[Python]] code using pandas to style and highlight winning methods in tables for sparse and dense graphs.
-- **Performance Visualization**: Created side-by-side plots using [[Matplotlib]] and Seaborn to compare graph method performances on different graph types.
+- **Performance [[Visualization]]**: Created side-by-side plots using [[Matplotlib]] and Seaborn to compare graph method performances on different graph types.
 - **Plot Modifications**: Modified plot characteristics in Seaborn, including plot size, grid style, and label translations.
 - **Time Complexity Analysis**: Conducted a theoretical and practical analysis of vertex removal time complexity in different graph data structures.
 - **LaTeX Formatting in Plots**: Implemented LaTeX-style formatting in [[Matplotlib]] for better handling of special characters.

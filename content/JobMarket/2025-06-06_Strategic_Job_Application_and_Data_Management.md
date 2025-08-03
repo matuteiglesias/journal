@@ -1,6 +1,6 @@
 ---
 title: "Strategic Job Application and Data Management"
-tags: ['job applications', 'job search', 'data management', 'CSV', 'automation', 'strategic planning']
+tags: ['Job Applications', 'Job Search', 'Data Management', 'CSV', 'Automation', 'Strategic Planning']
 created: 2025-06-06
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-06 — Session: Strategic Job Application and Data Management
 
 **🕒 13:45–14:50**  
-**🏷️ Labels**: job applications, job search, data management, CSV, automation, strategic planning  
+**🏷️ Labels**: Job Applications, Job Search, Data Management, CSV, Automation, Strategic Planning  
 **📂 Project**: JobMarket  
 **⭐ Priority**: MEDIUM  
 
@@ -18,7 +18,7 @@ The session aimed to enhance the strategic approach to job applications and mana
 
 ### Key Activities
 - Conducted a strategic analysis of job applications focusing on quality, ATS visibility, and actionable improvements.
-- Developed a role prioritization and engagement [[strategy]] to enhance job application effectiveness.
+- Developed a role prioritization and engagement strategy to enhance job application effectiveness.
 - Transitioned from basic job-hunting to building an automated job application pipeline using data-driven analysis.
 - Managed [[CSV]] data of recent job postings, ensuring proper formatting and filtering for relevance and consistency.
 

@@ -1,6 +1,6 @@
 ---
 title: "Automated YouTube Video Transcription Pipeline Development"
-tags: ['Python', 'YouTube', 'Automation', 'Google Cloud', 'Transcription']
+tags: ['Python', 'Youtube', 'Automation', 'Google Cloud', 'Transcription']
 created: 2024-04-26
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-04-26 — Session: Automated YouTube Video Transcription Pipeline Development
 
 **🕒 12:30–12:45**  
-**🏷️ Labels**: Python, YouTube, Automation, Google Cloud, Transcription  
+**🏷️ Labels**: Python, Youtube, Automation, Google Cloud, Transcription  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -31,4 +31,4 @@ The session aimed to develop an automated pipeline for downloading YouTube video
 
 ### Pending Tasks:
 - Further testing of the transcription accuracy and performance.
-- [[Integration]] of [[error handling]] mechanisms for robust pipeline execution.
+- [[Integration]] of error handling mechanisms for robust pipeline execution.

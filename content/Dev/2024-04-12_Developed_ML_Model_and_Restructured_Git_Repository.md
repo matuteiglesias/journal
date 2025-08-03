@@ -1,6 +1,6 @@
 ---
 title: "Developed ML Model and Restructured Git Repository"
-tags: ['machine learning', 'Git', 'model training', 'hyperparameter tuning', 'Python']
+tags: ['Machine Learning', 'Git', 'Model Training', 'Hyperparameter Tuning', 'Python']
 created: 2024-04-12
 publish: true
 ---
@@ -8,16 +8,16 @@ publish: true
 ## 📅 2024-04-12 — Session: Developed ML Model and Restructured Git Repository
 
 **🕒 19:25–20:10**  
-**🏷️ Labels**: machine learning, Git, model training, hyperparameter tuning, Python  
+**🏷️ Labels**: Machine Learning, Git, Model Training, Hyperparameter Tuning, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to develop a [[machine learning]] model using the diamonds dataset and restructure the Git repository for better [[project management]].
+The session aimed to develop a machine learning model using the diamonds dataset and restructure the Git repository for better project management.
 
 ### Key Activities
-- **Model Development Plan**: Outlined a structured plan for developing a [[machine learning]] model with sections on data preprocessing, incremental model training, evaluation, and production issues.
+- **Model [[Development]] Plan**: Outlined a structured plan for developing a machine learning model with sections on data preprocessing, incremental model training, evaluation, and production issues.
 - **Git Repository Restructure**: Followed a step-by-step guide to organize and update the Git repository, including adding and removing files, and managing commits and pushes.
 - **Git Error Resolution**: Troubleshot and resolved the Git error 'fatal: couldn't find remote ref localdev' by checking remote branches and handling merge conflicts.
 - **Branch [[Integration]]**: Integrated the local Git branch with remote repositories using options for pushing, merging, or rebasing changes.
@@ -28,8 +28,8 @@ The session aimed to develop a [[machine learning]] model using the diamonds dat
 - **Grid Search Setup and Analysis**: Set up GridSearchCV for hyperparameter tuning of SGDRegressor and analyzed results to draw insights on model performance.
 
 ### Achievements
-- Successfully developed a comprehensive plan for the [[machine learning]] model.
-- Restructured the Git repository for improved version control and [[project management]].
+- Successfully developed a comprehensive plan for the machine learning model.
+- Restructured the Git repository for improved version control and project management.
 - Resolved multiple Git errors and integrated branches effectively.
 - Revised model training code and set up hyperparameter tuning with GridSearchCV.
 

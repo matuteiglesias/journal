@@ -23,10 +23,10 @@ The objective of this session was to develop and refine [[Python]] scripts for v
 - Designed a bar plot for 'Debit PM_Cambio' data, including annotations and cumulative sum lines for better financial insights.
 - Constructed a stacked bar plot to visualize monthly outflows, with suggestions for customization.
 - Improved color distinction in stacked bar plots for better category differentiation in governance reporting.
-- Outlined a [[workflow]] for analyzing monthly net flux in financial data, including data loading, processing, and plotting.
+- Outlined a workflow for analyzing monthly net flux in financial data, including data loading, processing, and plotting.
 
 ### Achievements
-- Successfully created multiple [[Python]] scripts for different financial [[data visualization]] needs, improving the ability to analyze and report on financial data.
+- Successfully created multiple [[Python]] scripts for different financial data visualization needs, improving the ability to analyze and report on financial data.
 
 ### Pending Tasks
 - Further customization of visualization scripts to meet specific reporting requirements.

@@ -1,6 +1,6 @@
 ---
 title: "Afternoon Routine and Travel Preparation Planning"
-tags: ['routine', 'planning', 'productivity', 'travel', 'checklist']
+tags: ['Routine', 'Planning', 'Productivity', 'Travel', 'Checklist']
 created: 2025-01-19
 publish: false
 ---
@@ -8,13 +8,13 @@ publish: false
 ## 📅 2025-01-19 — Session: Afternoon Routine and Travel Preparation Planning
 
 **🕒 20:10–21:30**  
-**🏷️ Labels**: routine, planning, productivity, travel, checklist  
+**🏷️ Labels**: Routine, Planning, Productivity, Travel, Checklist  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to review and enhance personal [[productivity]] through structured planning and checklist [[optimization]], alongside preparing for an upcoming trip.
+The goal of this session was to review and enhance personal productivity through structured planning and checklist optimization, alongside preparing for an upcoming trip.
 
 ### Key Activities
 - Reviewed and evaluated the afternoon routine checklist to identify strengths and areas for improvement.

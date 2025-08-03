@@ -1,6 +1,6 @@
 ---
 title: "Debugged and Enhanced Chunk ID Management"
-tags: ['debugging', 'chunk ID', 'Python', 'error handling', 'process_chunks']
+tags: ['Debugging', 'Chunk Id', 'Python', 'Error Handling', 'Process_Chunks']
 created: 2025-02-08
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-08 — Session: Debugged and Enhanced Chunk ID Management
 
 **🕒 01:10–01:35**  
-**🏷️ Labels**: debugging, chunk ID, Python, error handling, process_chunks  
+**🏷️ Labels**: Debugging, Chunk Id, Python, Error Handling, Process_Chunks  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

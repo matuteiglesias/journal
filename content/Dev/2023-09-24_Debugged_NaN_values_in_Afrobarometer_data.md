@@ -1,6 +1,6 @@
 ---
 title: "Debugged NaN values in Afrobarometer data"
-tags: ['data_processing', 'Python', 'R', 'Afrobarometer', 'NaN', 'datetime']
+tags: ['Data_Processing', 'Python', 'R', 'Afrobarometer', 'Nan', 'Datetime']
 created: 2023-09-24
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2023-09-24 — Session: Debugged NaN values in Afrobarometer data
 
 **🕒 00:15–00:35**  
-**🏷️ Labels**: data_processing, Python, R, Afrobarometer, NaN, datetime  
+**🏷️ Labels**: Data_Processing, Python, R, Afrobarometer, Nan, Datetime  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The primary goal of this session was to identify and resolve NaN values in the datetime column of Afrobarometer datasets and ensure proper [[data processing]] using both R and [[Python]].
+The primary goal of this session was to identify and resolve NaN values in the datetime column of Afrobarometer datasets and ensure proper data processing using both R and [[Python]].
 
 ### Key Activities
 - **[[Debugging]] NaN Values**: A systematic approach was outlined to identify and resolve NaN values in the datetime column of Afrobarometer datasets. This involved loading data and creating a comprehensive covariate data frame.

@@ -1,6 +1,6 @@
 ---
 title: "Culinary Recipe and Technique Exploration"
-tags: ['cooking', 'recipes', 'baking', 'pasta', 'Red Velvet']
+tags: ['Cooking', 'Recipes', 'Baking', 'Pasta', 'Red Velvet']
 created: 2024-10-22
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-22 — Session: Culinary Recipe and Technique Exploration
 
 **🕒 01:20–02:50**  
-**🏷️ Labels**: cooking, recipes, baking, pasta, Red Velvet  
+**🏷️ Labels**: Cooking, Recipes, Baking, Pasta, Red Velvet  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

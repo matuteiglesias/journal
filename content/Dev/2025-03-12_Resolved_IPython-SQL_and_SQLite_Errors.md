@@ -1,6 +1,6 @@
 ---
 title: "Resolved IPython-SQL and SQLite Errors"
-tags: ['IPython-SQL', 'SQLite', 'Error Handling', 'Database Connections', 'Python']
+tags: ['Ipython-Sql', 'Sqlite', 'Error Handling', 'Database Connections', 'Python']
 created: 2025-03-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-12 — Session: Resolved IPython-SQL and SQLite Errors
 
 **🕒 23:45–00:05**  
-**🏷️ Labels**: IPython-SQL, SQLite, Error Handling, Database Connections, Python  
+**🏷️ Labels**: Ipython-Sql, Sqlite, Error Handling, Database Connections, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

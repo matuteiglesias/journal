@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Task Scheduling with Dynamic Constraints"
-tags: ['task scheduling', 'dynamic constraints', 'Python', 'automation']
+tags: ['Task Scheduling', 'Dynamic Constraints', 'Python', 'Automation']
 created: 2024-10-27
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-27 — Session: Enhanced Task Scheduling with Dynamic Constraints
 
 **🕒 17:40–18:40**  
-**🏷️ Labels**: task scheduling, dynamic constraints, Python, automation  
+**🏷️ Labels**: Task Scheduling, Dynamic Constraints, Python, Automation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

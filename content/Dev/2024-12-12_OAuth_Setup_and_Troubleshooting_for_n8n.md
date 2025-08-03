@@ -1,6 +1,6 @@
 ---
 title: "OAuth Setup and Troubleshooting for n8n"
-tags: ['OAuth', 'n8n', 'Google API', 'Troubleshooting', 'Flask']
+tags: ['Oauth', 'N8N', 'Google Api', 'Troubleshooting', 'Flask']
 created: 2024-12-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-12 — Session: OAuth Setup and Troubleshooting for n8n
 
 **🕒 23:30–00:00**  
-**🏷️ Labels**: OAuth, n8n, Google API, Troubleshooting, Flask  
+**🏷️ Labels**: Oauth, N8N, Google Api, Troubleshooting, Flask  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

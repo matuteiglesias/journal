@@ -1,6 +1,6 @@
 ---
 title: "Addressing Omission of Contributions in Academic Records"
-tags: ['legal_advice', 'transparency', 'academic_regulations', 'conflict_resolution']
+tags: ['Legal_Advice', 'Transparency', 'Academic_Regulations', 'Conflict_Resolution']
 created: 2024-03-10
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-03-10 — Session: Addressing Omission of Contributions in Academic Records
 
 **🕒 17:05–17:40**  
-**🏷️ Labels**: legal_advice, transparency, academic_regulations, conflict_resolution  
+**🏷️ Labels**: Legal_Advice, Transparency, Academic_Regulations, Conflict_Resolution  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -22,7 +22,7 @@ The session aimed to address the omission of contributions in meeting minutes an
 - Provided procedural guidance for resolving omissions in FCEN UBA records, referencing regulatory sections and formal procedures.
 - Detailed a step-by-step procedure for addressing omissions in academic records, including regulatory justifications.
 - Offered a guide for formal consultation with academic administration, focusing on report preparation and presentation.
-- Suggested strategies for constructive dialogue to address contribution omissions, emphasizing respectful [[communication]] and collaborative solutions.
+- Suggested strategies for constructive dialogue to address contribution omissions, emphasizing respectful communication and collaborative solutions.
 
 ### Achievements
 - Clarified the importance of transparency and ethical considerations in academic and institutional settings.

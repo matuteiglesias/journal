@@ -1,6 +1,6 @@
 ---
 title: "Iron T Profiles for Staircase Project"
-tags: ['perfiles T', 'hierro', 'escaleras', 'materiales de construcción']
+tags: ['Perfiles T', 'Hierro', 'Escaleras', 'Materiales De Construcción']
 created: 2024-08-22
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-08-22 — Session: Iron T Profiles for Staircase Project
 
 **🕒 00:50–01:10**  
-**🏷️ Labels**: perfiles T, hierro, escaleras, materiales de construcción  
+**🏷️ Labels**: Perfiles T, Hierro, Escaleras, Materiales De Construcción  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

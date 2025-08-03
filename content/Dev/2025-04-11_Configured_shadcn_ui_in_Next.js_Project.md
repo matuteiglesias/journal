@@ -1,6 +1,6 @@
 ---
 title: "Configured shadcn/ui in Next.js Project"
-tags: ['Next.js', 'TypeScript', 'TailwindCSS', 'shadcn-ui', 'Configuration']
+tags: ['Next.Js', 'Typescript', 'Tailwindcss', 'Shadcn-Ui', 'Configuration']
 created: 2025-04-11
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-11 — Session: Configured shadcn/ui in Next.js Project
 
 **🕒 22:20–22:45**  
-**🏷️ Labels**: Next.js, TypeScript, TailwindCSS, shadcn-ui, Configuration  
+**🏷️ Labels**: Next.Js, Typescript, Tailwindcss, Shadcn-Ui, Configuration  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

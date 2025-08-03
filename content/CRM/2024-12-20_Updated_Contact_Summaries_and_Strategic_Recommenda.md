@@ -1,6 +1,6 @@
 ---
 title: "Updated Contact Summaries and Strategic Recommendations"
-tags: ['contactos', 'networking', 'estrategia', 'relaciones']
+tags: ['Contactos', 'Networking', 'Estrategia', 'Relaciones']
 created: 2024-12-20
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-20 — Session: Updated Contact Summaries and Strategic Recommendations
 
 **🕒 00:40–01:20**  
-**🏷️ Labels**: contactos, networking, estrategia, relaciones  
+**🏷️ Labels**: Contactos, Networking, Estrategia, Relaciones  
 **📂 Project**: CRM  
 **⭐ Priority**: MEDIUM  
 

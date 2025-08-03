@@ -1,6 +1,6 @@
 ---
 title: "Crafted Launch Strategy for OSS Projects"
-tags: ['OSS', 'strategy', 'launch', 'developer engagement', 'branding', 'content marketing']
+tags: ['OSS', 'Strategy', 'Launch', 'Developer Engagement', 'Branding', 'Content Marketing']
 created: 2025-04-19
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-04-19 — Session: Crafted Launch Strategy for OSS Projects
 
 **🕒 04:10–04:30**  
-**🏷️ Labels**: OSS, strategy, launch, developer engagement, branding, content marketing  
+**🏷️ Labels**: OSS, Strategy, Launch, Developer Engagement, Branding, Content Marketing  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -33,5 +33,5 @@ The session aimed to develop a strategic framework for indie open-source softwar
 
 ### Pending Tasks
 - Implementation of the tracking dashboard for CLI/SDK installs.
-- Execution of the developer-lifestyle content engine [[strategy]].
+- Execution of the developer-lifestyle content engine strategy.
 - Further exploration of branding alternatives.

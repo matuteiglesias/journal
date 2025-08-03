@@ -1,6 +1,6 @@
 ---
 title: "Diagnosed and Corrected MySQL and OAuth Configurations"
-tags: ['MySQL', 'OAuth', 'Docker', 'Configuration', 'Debugging']
+tags: ['Mysql', 'Oauth', 'Docker', 'Configuration', 'Debugging']
 created: 2025-05-27
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-27 — Session: Diagnosed and Corrected MySQL and OAuth Configurations
 
 **🕒 23:00–23:40**  
-**🏷️ Labels**: MySQL, OAuth, Docker, Configuration, Debugging  
+**🏷️ Labels**: Mysql, Oauth, Docker, Configuration, Debugging  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

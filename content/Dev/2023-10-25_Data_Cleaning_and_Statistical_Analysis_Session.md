@@ -1,6 +1,6 @@
 ---
 title: "Data Cleaning and Statistical Analysis Session"
-tags: ['Python', 'Data Cleaning', 'Variance Analysis', 'Econometrics', 'LaTeX', 'Comovements']
+tags: ['Python', 'Data Cleaning', 'Variance Analysis', 'Econometrics', 'Latex', 'Comovements']
 created: 2023-10-25
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-10-25 — Session: Data Cleaning and Statistical Analysis Session
 
 **🕒 00:35–22:44**  
-**🏷️ Labels**: Python, Data Cleaning, Variance Analysis, Econometrics, LaTeX, Comovements  
+**🏷️ Labels**: Python, Data Cleaning, Variance Analysis, Econometrics, Latex, Comovements  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -22,7 +22,7 @@ The session aimed to address data cleaning in [[Python]] and explore statistical
 3. Conducted an analysis of variance in firm-level shocks transformation, exploring variance decomposition and implications for log-normal and log-Laplace distributions.
 4. Extended covariance analysis for shock transformations, focusing on relationships between variances and covariances.
 5. Analyzed the nonlinear impact on variance through micro shocks and explored the influence of comovements on variance in aggregated measures.
-6. Developed a LaTeX template for econometric papers and revised captions for [[data visualization]] plots.
+6. Developed a LaTeX template for econometric papers and revised captions for data visualization plots.
 
 **Achievements:**
 - Successfully cleaned and manipulated data in [[Python]] using [[Pandas]].

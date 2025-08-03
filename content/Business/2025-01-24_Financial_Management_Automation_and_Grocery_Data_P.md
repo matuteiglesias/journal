@@ -1,6 +1,6 @@
 ---
 title: "Financial Management Automation and Grocery Data Processing"
-tags: ['financial management', 'automation', 'grocery', 'OCR', 'inventory']
+tags: ['Financial Management', 'Automation', 'Grocery', 'OCR', 'Inventory']
 created: 2025-01-24
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-24 — Session: Financial Management Automation and Grocery Data Processing
 
 **🕒 21:30–23:00**  
-**🏷️ Labels**: financial management, automation, grocery, OCR, inventory  
+**🏷️ Labels**: Financial Management, Automation, Grocery, OCR, Inventory  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -27,8 +27,8 @@ The session focused on automating financial management processes and processing 
 ### Achievements
 - Successfully structured metadata for knowledge archiving.
 - Generated detailed grocery expense reports and inventory tables.
-- Outlined a comprehensive financial management [[automation]] plan.
+- Outlined a comprehensive financial management automation plan.
 - Developed [[Python]] code for data manipulation and report generation.
 
 ### Pending Tasks
-- Implement the financial dashboard and [[automation]] tools as per the plan.
+- Implement the financial dashboard and automation tools as per the plan.

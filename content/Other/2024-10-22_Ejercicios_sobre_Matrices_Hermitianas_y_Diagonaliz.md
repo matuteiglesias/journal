@@ -1,6 +1,6 @@
 ---
 title: "Ejercicios sobre Matrices Hermitianas y Diagonalización Ortonormal"
-tags: ['matrices', 'hermitianas', 'diagonalización', 'autovalores', 'SVD', 'álgebra lineal']
+tags: ['Matrices', 'Hermitianas', 'Diagonalización', 'Autovalores', 'SVD', 'Álgebra Lineal']
 created: 2024-10-22
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-22 — Session: Ejercicios sobre Matrices Hermitianas y Diagonalización Ortonormal
 
 **🕒 17:30–17:40**  
-**🏷️ Labels**: matrices, hermitianas, diagonalización, autovalores, SVD, álgebra lineal  
+**🏷️ Labels**: Matrices, Hermitianas, Diagonalización, Autovalores, SVD, Álgebra Lineal  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

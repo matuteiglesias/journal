@@ -1,6 +1,6 @@
 ---
 title: "Explored GDEBA system for document management"
-tags: ['GDEBA', 'document management', 'resolutions', 'government', 'guide']
+tags: ['GDEBA', 'Document Management', 'Resolutions', 'Government', 'Guide']
 created: 2023-12-26
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-12-26 — Session: Explored GDEBA system for document management
 
 **🕒 15:20–15:50**  
-**🏷️ Labels**: GDEBA, document management, resolutions, government, guide  
+**🏷️ Labels**: GDEBA, Document Management, Resolutions, Government, Guide  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -22,7 +22,7 @@ publish: false
 - Detailed the use of the GEDO module for searching and accessing specific resolutions in GDEBA, including search methods by number, date, and signatories.
 - Provided a detailed guide on sections of the 'Expediente Electrónico' manual relevant for accessing, obtaining, and downloading resolutions in GDEBA.
 - Shared detailed instructions for accessing specific resolutions using the GDEBA's 'Expediente Electrónico' module, including steps for searching and downloading documents.
-- Outlined a [[strategy]] for accessing resolutions in the GDEBA system, including steps for document search and useful tips to enhance the search process.
+- Outlined a strategy for accessing resolutions in the GDEBA system, including steps for document search and useful tips to enhance the search process.
 
 **Achievements**: Successfully compiled comprehensive guides and strategies for accessing and managing documents and resolutions within the GDEBA system.
 

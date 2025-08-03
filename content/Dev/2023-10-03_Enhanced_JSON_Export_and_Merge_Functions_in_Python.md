@@ -23,7 +23,7 @@ The session aimed to enhance and redesign [[JSON]] export and merge functions fo
 - **Incorporating Metadata:** Updated the `exportar_a_json_jerarquico` function to include metadata fields such as `last_updated`, `frecuencia`, and `frac`.
 - **Hierarchical [[JSON]] Structure Function:** Developed a function to convert a DataFrame into a hierarchical [[JSON]] structure.
 - **Fixing Data Overwrite Issues:** Revised the `merge_jsons` function to prevent data overwriting during [[JSON]] merging.
-- **Verbose Logging:** Added print statements to the `merge_jsons` function for enhanced [[debugging]].
+- **Verbose Logging:** Added print statements to the `merge_jsons` function for enhanced debugging.
 
 ### Achievements
 - Successfully redesigned and implemented enhanced [[JSON]] export and merge functions.

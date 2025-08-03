@@ -20,7 +20,7 @@ The primary goal of this session was to resolve deployment and logging issues en
 - **[[Deployment]] Error Resolution**: Addressed deployment errors in Google App Engine by reviewing project configurations, quotas, and logs.
 - **Logging [[Integration]]**: Integrated [[Google Cloud]] Logging with [[Flask]], focusing on configuration issues related to the 'ENV' variable.
 - **YAML Syntax Correction**: Resolved syntax errors in the app.yaml file for GCP deployments.
-- **Entrypoint Configuration**: Troubleshot syntax errors in App Engine entrypoint configurations.
+- **Entrypoint [[Configuration]]**: Troubleshot syntax errors in App Engine entrypoint configurations.
 - **File System [[Error Handling]]**: Solved OSError related to read-only file systems by changing log file locations and using [[Google Cloud]] Logging.
 - **File Handling Issues**: Reflected on common file handling and permissions issues in GCP's App Engine environment.
 - **Logger Initialization**: Diagnosed and fixed `AttributeError` in [[Python]] logger initialization.
@@ -28,7 +28,7 @@ The primary goal of this session was to resolve deployment and logging issues en
 
 ### Achievements
 - Successfully resolved multiple deployment and logging issues in GCP.
-- Improved logging integration and [[error handling]] in [[Flask]] applications.
+- Improved logging integration and error handling in [[Flask]] applications.
 - Enhanced understanding of file handling and permissions in GCP.
 - Developed a robust object-oriented design for evaluators in [[Python]].
 

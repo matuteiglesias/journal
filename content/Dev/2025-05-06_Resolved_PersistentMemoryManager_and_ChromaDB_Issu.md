@@ -1,6 +1,6 @@
 ---
 title: "Resolved PersistentMemoryManager and ChromaDB Issues"
-tags: ['Troubleshooting', 'Memory Management', 'ChromaDB', 'Python', 'Automation', 'AIOS']
+tags: ['Troubleshooting', 'Memory Management', 'Chromadb', 'Python', 'Automation', 'AIOS']
 created: 2025-05-06
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-06 — Session: Resolved PersistentMemoryManager and ChromaDB Issues
 
 **🕒 21:35–23:35**  
-**🏷️ Labels**: Troubleshooting, Memory Management, ChromaDB, Python, Automation, AIOS  
+**🏷️ Labels**: Troubleshooting, Memory Management, Chromadb, Python, Automation, AIOS  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -22,9 +22,9 @@ The primary goal of this session was to troubleshoot and resolve various issues 
 - Confirmed pipeline functionality and suggested next steps for testing with new data.
 - Resolved [[JSON]] parsing issues in [[Python]] scripts and improved timestamp storage methods.
 - Enhanced log file processing for efficiency and modularity.
-- Provided onboarding [[documentation]] and progress summary for the AIOS memory embedding pipeline.
+- Provided onboarding documentation and progress summary for the AIOS memory embedding pipeline.
 - Refactored `embed_daily_logs.py` for portability and improved code consistency.
-- Diagnosed and fixed issues with ChromaDB collections, including persistence and [[error handling]].
+- Diagnosed and fixed issues with ChromaDB collections, including persistence and error handling.
 - Implemented a two-tier memory system for AIOS, transitioning to long-term storage with `StorageManager`.
 
 ### Achievements

@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Financial Analysis and Strategy Development"
-tags: ['financial_analysis', 'business_metrics', 'Google_Sheets', 'strategy_development']
+tags: ['Financial_Analysis', 'Business_Metrics', 'Google_Sheets', 'Strategy_Development']
 created: 2024-12-21
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-12-21 — Session: Comprehensive Financial Analysis and Strategy Development
 
 **🕒 00:00–01:40**  
-**🏷️ Labels**: financial_analysis, business_metrics, Google_Sheets, strategy_development  
+**🏷️ Labels**: Financial_Analysis, Business_Metrics, Google_Sheets, Strategy_Development  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -21,7 +21,7 @@ The primary goal of this session was to conduct a comprehensive financial analys
 - Analyzed business structure, identifying key income sources, liabilities, expenses, and governance challenges.
 - Developed formulas in Google Sheets for classifying liquidity and financial metrics.
 - Provided strategies for managing financial challenges in family-run businesses.
-- Applied conditional formatting in Google Sheets to enhance [[data visualization]].
+- Applied conditional formatting in Google Sheets to enhance data visualization.
 - Suggested improvements for financial balance sheets and provided formulas for financial calculations.
 - Emulated pandas functionality in Google Sheets for advanced data manipulation.
 - Explained net profit calculations and distinctions in financial reporting.

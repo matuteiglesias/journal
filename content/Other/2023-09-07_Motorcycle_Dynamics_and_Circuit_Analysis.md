@@ -21,8 +21,8 @@ The session aimed to explore the physics of motorcycle dynamics and develop [[Py
 - Derived equations for net horizontal force and calculated lean angles using [[Python]] and scipy.
 - Developed [[Python]] classes and functions for modeling motorcycle circuits, including speed scaling and time calculations.
 - Implemented and corrected [[Python]] code for circuit metrics, including average speed, total time, and distance.
-- Utilized interpolation methods (Cubic Spline and Akima1DInterpolator) for circuit [[data analysis]].
-- Addressed [[error handling]] in [[Python]] code, ensuring robustness in calculations.
+- Utilized interpolation methods (Cubic Spline and Akima1DInterpolator) for circuit data analysis.
+- Addressed error handling in [[Python]] code, ensuring robustness in calculations.
 - Visualized circuit speed profiles and time-distance relationships using [[Matplotlib]].
 
 ### Achievements

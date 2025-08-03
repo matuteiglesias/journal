@@ -1,6 +1,6 @@
 ---
 title: "Configured MLflow for Docker and Flask Integration"
-tags: ['MLflow', 'Docker', 'Flask', 'MLOps', 'Experiment Tracking']
+tags: ['Mlflow', 'Docker', 'Flask', 'Mlops', 'Experiment Tracking']
 created: 2024-04-15
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-04-15 — Session: Configured MLflow for Docker and Flask Integration
 
 **🕒 15:45–17:20**  
-**🏷️ Labels**: MLflow, Docker, Flask, MLOps, Experiment Tracking  
+**🏷️ Labels**: Mlflow, Docker, Flask, Mlops, Experiment Tracking  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -18,7 +18,7 @@ The session aimed to integrate MLflow with Docker and [[Flask]] applications to 
 
 ### Key Activities:
 - Explored MLOps tools like MLflow, DVC, and Kubeflow for managing model and data versioning.
-- Created a [[workflow]] diagram using Graphviz to illustrate MLflow and DVC integration.
+- Created a workflow diagram using Graphviz to illustrate MLflow and DVC integration.
 - Configured MLflow's tracking URI for local and remote setups.
 - Set up MLflow in a Docker container, modifying the Dockerfile and application settings for experiment tracking.
 - Enhanced a [[Flask]] endpoint with MLflow for improved model retraining and experiment tracking.
@@ -30,8 +30,8 @@ The session aimed to integrate MLflow with Docker and [[Flask]] applications to 
 
 ### Achievements:
 - Successfully configured MLflow with Docker and [[Flask]], resolving several configuration and permission issues.
-- Developed a robust [[workflow]] for experiment tracking and model management in MLOps.
+- Developed a robust workflow for experiment tracking and model management in MLOps.
 
 ### Pending Tasks:
 - Further testing of the integrated system in a production-like environment to ensure stability and performance.
-- Continuous monitoring and [[optimization]] of the MLflow setup as new requirements arise.
+- Continuous monitoring and optimization of the MLflow setup as new requirements arise.

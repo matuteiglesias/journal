@@ -1,6 +1,6 @@
 ---
 title: "Developed Networking and Personal Branding Strategies"
-tags: ['networking', 'personal branding', 'strategic communication', 'frameworks', 'CV design']
+tags: ['Networking', 'Personal Branding', 'Strategic Communication', 'Frameworks', 'Cv Design']
 created: 2025-05-26
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-05-26 — Session: Developed Networking and Personal Branding Strategies
 
 **🕒 22:00–22:35**  
-**🏷️ Labels**: networking, personal branding, strategic communication, frameworks, CV design  
+**🏷️ Labels**: Networking, Personal Branding, Strategic Communication, Frameworks, Cv Design  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -21,7 +21,7 @@ The session aimed to explore and develop strategies for enhancing personal netwo
 2. **Building Strategic Connections**: Created a framework for networking by setting criteria for connections and enhancing visibility.
 3. **Recognition Scaffolding Concepts**: Introduced identity markers for personal branding to trigger curiosity and recognition.
 4. **Creating a Nonconforming CV**: Planned a CV that reflects a multidimensional self, prioritizing strategic positioning over traditional roles.
-5. **Reframing Language in Knowledge Infrastructure**: Discussed strategic [[communication]] in knowledge systems design.
+5. **Reframing Language in Knowledge Infrastructure**: Discussed strategic communication in knowledge systems design.
 
 ### Achievements
 - Established a structured approach to networking and personal branding.

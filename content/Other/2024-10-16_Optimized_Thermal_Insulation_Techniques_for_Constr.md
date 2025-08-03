@@ -1,6 +1,6 @@
 ---
 title: "Optimized Thermal Insulation Techniques for Construction"
-tags: ['insulation', 'construction', 'thermal efficiency', 'reflective materials', 'installation']
+tags: ['Insulation', 'Construction', 'Thermal Efficiency', 'Reflective Materials', 'Installation']
 created: 2024-10-16
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-16 — Session: Optimized Thermal Insulation Techniques for Construction
 
 **🕒 19:25–19:50**  
-**🏷️ Labels**: insulation, construction, thermal efficiency, reflective materials, installation  
+**🏷️ Labels**: Insulation, Construction, Thermal Efficiency, Reflective Materials, Installation  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

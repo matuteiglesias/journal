@@ -1,6 +1,6 @@
 ---
 title: "Designing Modular KnowledgeBase Sync for Gradio RAG"
-tags: ['Gradio', 'RAG', 'KnowledgeBaseSync', 'ChromaDB', 'ModularDesign']
+tags: ['Gradio', 'RAG', 'Knowledgebasesync', 'Chromadb', 'Modulardesign']
 created: 2025-05-11
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-11 — Session: Designing Modular KnowledgeBase Sync for Gradio RAG
 
 **🕒 21:00–22:20**  
-**🏷️ Labels**: Gradio, RAG, KnowledgeBaseSync, ChromaDB, ModularDesign  
+**🏷️ Labels**: Gradio, RAG, Knowledgebasesync, Chromadb, Modulardesign  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

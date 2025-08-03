@@ -1,6 +1,6 @@
 ---
 title: "Data and File Management Session"
-tags: ['data processing', 'file management', 'text embeddings', 'redundancy cleanup']
+tags: ['Data Processing', 'File Management', 'Text Embeddings', 'Redundancy Cleanup']
 created: 2025-03-06
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-03-06 — Session: Data and File Management Session
 
 **🕒 17:00–20:05**  
-**🏷️ Labels**: data processing, file management, text embeddings, redundancy cleanup  
+**🏷️ Labels**: Data Processing, File Management, Text Embeddings, Redundancy Cleanup  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The primary objective of this session was to enhance [[data processing]] capabilities and manage file redundancies effectively.
+The primary objective of this session was to enhance data processing capabilities and manage file redundancies effectively.
 
 ### Key Activities
 - **Dataframe Segmentation**: Segmented text fields into 1000-character chunks for efficient text processing.

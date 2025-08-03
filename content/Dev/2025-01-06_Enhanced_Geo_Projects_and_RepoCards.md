@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Geo Projects and RepoCards"
-tags: ['Geo Projects', 'RepoCards', 'JSON', 'Python', 'JavaScript']
+tags: ['Geo Projects', 'Repocards', 'JSON', 'Python', 'Javascript']
 created: 2025-01-06
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-01-06 — Session: Enhanced Geo Projects and RepoCards
 
 **🕒 16:40–18:10**  
-**🏷️ Labels**: Geo Projects, RepoCards, JSON, Python, JavaScript  
+**🏷️ Labels**: Geo Projects, Repocards, JSON, Python, Javascript  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -22,13 +22,13 @@ The primary objective of this session was to enhance the Geo Projects page and u
 - Revised content for the Geo Projects page, including updated metadata and layout improvements.
 - Provided guidelines for crafting supporting texts for RepoCards, including subtitles and introductory paragraphs.
 - Implemented updated [[Python]] code for directory-based file saving, enhancing file organization.
-- Generated [[JSON]] structures for various project categories, improving [[project management]].
-- Addressed syntax errors in [[JavaScript]] and [[Python]] by enhancing [[error handling]] and string manipulation functions.
+- Generated [[JSON]] structures for various project categories, improving project management.
+- Addressed syntax errors in JavaScript and [[Python]] by enhancing error handling and string manipulation functions.
 
 ### Achievements
 - Successfully updated the Geo Projects page and RepoCards component.
 - Improved file management and project categorization through [[JSON]] generation.
-- Enhanced [[error handling]] in [[JavaScript]] and [[Python]] scripts.
+- Enhanced error handling in JavaScript and [[Python]] scripts.
 
 ### Pending Tasks
-- Further testing of updated components and [[error handling]] functions to ensure robustness and reliability.
+- Further testing of updated components and error handling functions to ensure robustness and reliability.

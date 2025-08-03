@@ -1,6 +1,6 @@
 ---
 title: "Evaluación y Ranking de Desempeño de Grupos en Métodos Matemáticos"
-tags: ['evaluación', 'ranking', 'matemáticas', 'grupos', 'análisis']
+tags: ['Evaluación', 'Ranking', 'Matemáticas', 'Grupos', 'Análisis']
 created: 2024-11-25
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-11-25 — Session: Evaluación y Ranking de Desempeño de Grupos en Métodos Matemáticos
 
 **🕒 17:50–19:50**  
-**🏷️ Labels**: evaluación, ranking, matemáticas, grupos, análisis  
+**🏷️ Labels**: Evaluación, Ranking, Matemáticas, Grupos, Análisis  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

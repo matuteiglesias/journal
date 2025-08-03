@@ -1,6 +1,6 @@
 ---
 title: "Implemented Entity Resolution with Dedupe.io in Jupyter"
-tags: ['entity resolution', 'dedupe', 'Python', 'Jupyter', 'data cleaning']
+tags: ['Entity Resolution', 'Dedupe', 'Python', 'Jupyter', 'Data Cleaning']
 created: 2025-03-04
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-03-04 — Session: Implemented Entity Resolution with Dedupe.io in Jupyter
 
 **🕒 22:05–22:40**  
-**🏷️ Labels**: entity resolution, dedupe, Python, Jupyter, data cleaning  
+**🏷️ Labels**: Entity Resolution, Dedupe, Python, Jupyter, Data Cleaning  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to implement a robust entity resolution process using the Dedupe.io library within Jupyter Notebooks, addressing common issues and optimizing the deduplication [[workflow]].
+The goal of this session was to implement a robust entity resolution process using the Dedupe.io library within Jupyter Notebooks, addressing common issues and optimizing the deduplication workflow.
 
 ### Key Activities
 - Reviewed robust entity resolution techniques focusing on clustering records using probabilistic and deterministic matching.
@@ -25,7 +25,7 @@ The goal of this session was to implement a robust entity resolution process usi
 - Fixed a `ZeroDivisionError` in Dedupe by converting empty strings to None.
 
 ### Achievements
-- Successfully implemented a complete deduplication [[workflow]] in Jupyter using Dedupe.io.
+- Successfully implemented a complete deduplication workflow in Jupyter using Dedupe.io.
 - Resolved technical issues related to command-line arguments and variable definitions.
 - Improved data cleaning processes by addressing common errors and optimizing the deduplication script.
 

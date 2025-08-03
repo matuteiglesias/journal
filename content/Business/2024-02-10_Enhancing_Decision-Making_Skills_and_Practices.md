@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Decision-Making Skills and Practices"
-tags: ['decision-making', 'strategic thinking', 'leadership', 'self-improvement', 'executive effectiveness']
+tags: ['Decision-Making', 'Strategic Thinking', 'Leadership', 'Self-Improvement', 'Executive Effectiveness']
 created: 2024-02-10
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-02-10 — Session: Enhancing Decision-Making Skills and Practices
 
 **🕒 19:15–19:50**  
-**🏷️ Labels**: decision-making, strategic thinking, leadership, self-improvement, executive effectiveness  
+**🏷️ Labels**: Decision-Making, Strategic Thinking, Leadership, Self-Improvement, Executive Effectiveness  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -20,7 +20,7 @@ The session aimed to explore and enhance decision-making skills through various 
 - Reviewed essential practices for effective decision-making, focusing on clarity, strategic thinking, and continuous learning.
 - Reflected on the role of computers in decision-making, emphasizing the balance between human judgment and computational assistance.
 - Explored 20 habits for improving decision-making skills, targeting personal and professional growth.
-- Discussed the importance of executive effectiveness in [[leadership]] development and organizational growth.
+- Discussed the importance of executive effectiveness in leadership development and organizational growth.
 
 ### Achievements
 - Gained insights into integrating strategic thinking and feedback loops into decision-making processes.

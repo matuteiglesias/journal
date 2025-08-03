@@ -1,6 +1,6 @@
 ---
 title: "Developed and Tested Flask Application with OAuth"
-tags: ['Flask', 'Google OAuth', 'Testing', 'Deployment', 'Cloud Hosting']
+tags: ['Flask', 'Google Oauth', 'Testing', 'Deployment', 'Cloud Hosting']
 created: 2024-02-16
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-02-16 — Session: Developed and Tested Flask Application with OAuth
 
 **🕒 17:55–18:40**  
-**🏷️ Labels**: Flask, Google OAuth, Testing, Deployment, Cloud Hosting  
+**🏷️ Labels**: Flask, Google Oauth, Testing, Deployment, Cloud Hosting  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -19,8 +19,8 @@ The primary goal of this session was to develop, test, and deploy a [[Flask]] ap
 ### Key Activities
 - **Testing Application for Exercise Loading and Display:** A comprehensive checklist was used for both manual and automated testing of the application to ensure exercises are correctly loaded and displayed.
 - **Running and Testing a [[Flask]] Application Locally:** Instructions were followed to start a [[Flask]] application locally, set environment variables, and access specific routes.
-- **Configuring [[Flask]] Development in VS Code:** The session included running a [[Flask]] application in VS Code, focusing on the OAuth2 flow and implementing a sample `User` model using SQLAlchemy.
-- **Adjusting [[Flask]] Application for [[CSV]] and [[JSON]] Data Management:** Modifications were made to handle exercises using [[CSV]] files and record user interactions in [[JSON]] format.
+- **Configuring [[Flask]] [[Development]] in VS Code:** The session included running a [[Flask]] application in VS Code, focusing on the OAuth2 flow and implementing a sample `User` model using SQLAlchemy.
+- **Adjusting [[Flask]] Application for [[CSV]] and [[JSON]] [[Data Management]]:** Modifications were made to handle exercises using [[CSV]] files and record user interactions in [[JSON]] format.
 - **[[Troubleshooting]] [[Flask]]-Session Import Error:** Common causes and solutions for import errors related to `flask_session` were addressed.
 - **Resolving [[Flask]] TemplateNotFound Error:** Steps were taken to resolve the `TemplateNotFound: login.html` error by ensuring correct directory structure and file naming.
 - **Integrating Google OAuth in [[Flask]] Applications:** A step-by-step guide was followed to integrate Google OAuth for user authentication, including setup and implementation.

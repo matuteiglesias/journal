@@ -1,6 +1,6 @@
 ---
 title: "Developed Medical Consultation Guide on Anabolics"
-tags: ['salud', 'anabólicos', 'consulta médica', 'endocrinología']
+tags: ['Salud', 'Anabólicos', 'Consulta Médica', 'Endocrinología']
 created: 2023-10-04
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-10-04 — Session: Developed Medical Consultation Guide on Anabolics
 
 **🕒 15:20–15:30**  
-**🏷️ Labels**: salud, anabólicos, consulta médica, endocrinología  
+**🏷️ Labels**: Salud, Anabólicos, Consulta Médica, Endocrinología  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

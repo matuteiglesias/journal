@@ -1,6 +1,6 @@
 ---
 title: "Feedback Analysis and Schema Improvement"
-tags: ['feedback', 'data management', 'schema improvement', 'legal resolutions', 'JSON']
+tags: ['Feedback', 'Data Management', 'Schema Improvement', 'Legal Resolutions', 'JSON']
 created: 2024-09-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-17 — Session: Feedback Analysis and Schema Improvement
 
 **🕒 14:35–15:10**  
-**🏷️ Labels**: feedback, data management, schema improvement, legal resolutions, JSON  
+**🏷️ Labels**: Feedback, Data Management, Schema Improvement, Legal Resolutions, JSON  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

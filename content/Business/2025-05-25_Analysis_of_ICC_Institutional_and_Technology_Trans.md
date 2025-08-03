@@ -18,11 +18,11 @@ The session aimed to analyze and understand the structural and strategic signifi
 
 ### Key Activities
 - Detailed examination of the content on ICC Institutional and Technology Transfer pages.
-- Identification of actionable extracts for further [[data processing]] and analysis.
+- Identification of actionable extracts for further data processing and analysis.
 
 ### Achievements
 - Successfully outlined the strategic importance of the pages.
-- Suggested next steps for [[data processing]] and analysis were identified.
+- Suggested next steps for data processing and analysis were identified.
 
 ### Pending Tasks
-- Implement the suggested actions for [[data processing]] and analysis.
+- Implement the suggested actions for data processing and analysis.

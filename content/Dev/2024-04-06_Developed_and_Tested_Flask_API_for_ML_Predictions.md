@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The objective of this session was to set up a [[Flask]] [[API]] to serve predictions from a [[machine learning]] model, ensuring the application is well-structured and tested.
+The objective of this session was to set up a [[Flask]] [[API]] to serve predictions from a machine learning model, ensuring the application is well-structured and tested.
 
 ### Key Activities
 - **Setting Up [[Flask]] [[API]]**: Implemented a [[Flask]] [[API]] to handle model predictions, including setup and code implementation.
@@ -25,9 +25,9 @@ The objective of this session was to set up a [[Flask]] [[API]] to serve predict
 - **Fixing Import Errors**: Resolved `ImportError` related to [[Flask]] Blueprints by adjusting the application structure.
 
 ### Achievements
-- Successfully set up and tested a [[Flask]] [[API]] for [[machine learning]] predictions.
+- Successfully set up and tested a [[Flask]] [[API]] for machine learning predictions.
 - Resolved critical errors related to server connectivity and module imports.
 
 ### Pending Tasks
-- Further [[optimization]] of the [[Flask]] application for production deployment.
+- Further optimization of the [[Flask]] application for production deployment.
 - Comprehensive testing with additional datasets to ensure robustness.

@@ -1,6 +1,6 @@
 ---
 title: "Developed MVP and Integrated ChatDev for PromptOps"
-tags: ['MVP', 'PromptOps', 'ChatDev', 'Integration', 'Debugging']
+tags: ['MVP', 'Promptops', 'Chatdev', 'Integration', 'Debugging']
 created: 2025-04-09
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-09 — Session: Developed MVP and Integrated ChatDev for PromptOps
 
 **🕒 18:00–18:30**  
-**🏷️ Labels**: MVP, PromptOps, ChatDev, Integration, Debugging  
+**🏷️ Labels**: MVP, Promptops, Chatdev, Integration, Debugging  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -18,9 +18,9 @@ The goal of this session was to outline and initiate the development of a Minimu
 
 ### Key Activities
 - **MVP Scaffolding for PromptOps**: Outlined core deliverables and goals for creating a working MVP scaffold using Next.js and [[Python]], emphasizing strategic delegation.
-- **Integrating ChatDev**: Provided instructions for integrating ChatDev as the backend engine using [[FastAPI]], detailing updated requirements for the Chat Dev team.
+- **Integrating ChatDev**: Provided instructions for integrating ChatDev as the backend engine using FastAPI, detailing updated requirements for the Chat Dev team.
 - **Leveraging ChatDev for [[AI]]-Powered Code Generation**: Detailed how to use ChatDev for generating backend code from natural language prompts, with examples.
-- **Using ChatDev as an [[AI]] Software Contractor**: Outlined a [[strategy]] for using ChatDev to create a frontend scaffold for a SaaS application, integrating with a [[Python]] backend.
+- **Using ChatDev as an [[AI]] Software Contractor**: Outlined a strategy for using ChatDev to create a frontend scaffold for a SaaS application, integrating with a [[Python]] backend.
 - **[[Debugging]] TypeError in ChatMessage**: Addressed a TypeError in `ChatMessage` construction, suggesting steps for resolution and prevention.
 
 ### Achievements

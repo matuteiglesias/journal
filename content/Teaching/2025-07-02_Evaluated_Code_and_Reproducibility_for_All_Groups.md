@@ -1,6 +1,6 @@
 ---
 title: "Evaluated Code and Reproducibility for All Groups"
-tags: ['evaluación', 'código', 'reproducibilidad', 'grupos', 'documentación']
+tags: ['Evaluación', 'Código', 'Reproducibilidad', 'Grupos', 'Documentación']
 created: 2025-07-02
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-07-02 — Session: Evaluated Code and Reproducibility for All Groups
 
 **🕒 19:50–20:10**  
-**🏷️ Labels**: evaluación, código, reproducibilidad, grupos, documentación  
+**🏷️ Labels**: Evaluación, Código, Reproducibilidad, Grupos, Documentación  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
@@ -18,7 +18,7 @@ The goal of this session was to evaluate the code, presentation, and reproducibi
 
 ### Key Activities
 - Evaluated groups 1 to 4 on code organization, explanation, and reproducibility.
-- Conducted detailed evaluations for groups 5 to 8, focusing on code quality and [[documentation]].
+- Conducted detailed evaluations for groups 5 to 8, focusing on code quality and documentation.
 - Initiated the evaluation process for the final groups, 9 to 18, in two batches, requiring re-upload of code and README files for groups 9 to 13.
 - Completed evaluations for groups 9 to 13, providing scores and comments in [[CSV]] format.
 - Finalized evaluations for groups 14 to 18, including detailed feedback on code and reproducibility.

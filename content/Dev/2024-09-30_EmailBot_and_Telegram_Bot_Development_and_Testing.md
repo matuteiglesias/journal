@@ -1,6 +1,6 @@
 ---
 title: "EmailBot and Telegram Bot Development and Testing"
-tags: ['EmailBot', 'Telegram', 'Python', 'Testing', 'Data Storage']
+tags: ['Emailbot', 'Telegram', 'Python', 'Testing', 'Data Storage']
 created: 2024-09-30
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-30 — Session: EmailBot and Telegram Bot Development and Testing
 
 **🕒 21:45–23:07**  
-**🏷️ Labels**: EmailBot, Telegram, Python, Testing, Data Storage  
+**🏷️ Labels**: Emailbot, Telegram, Python, Testing, Data Storage  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -28,7 +28,7 @@ The primary goal of this session was to develop and test functionalities for the
 - Planned data storage solutions using MongoDB and Redis for efficient data retrieval.
 
 ### Achievements
-- Successful testing and [[debugging]] of the EmailBot and Telegram bot functionalities.
+- Successful testing and debugging of the EmailBot and Telegram bot functionalities.
 - Resolved multiple [[Python]] import and execution issues.
 - Established a foundation for data storage using NoSQL databases.
 

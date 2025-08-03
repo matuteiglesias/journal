@@ -1,6 +1,6 @@
 ---
 title: "Mold Removal and Wall Art Design Session"
-tags: ['mold removal', 'wall art', 'home improvement', 'minimalism', 'interior design']
+tags: ['Mold Removal', 'Wall Art', 'Home Improvement', 'Minimalism', 'Interior Design']
 created: 2024-09-16
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-09-16 — Session: Mold Removal and Wall Art Design Session
 
 **🕒 03:00–04:30**  
-**🏷️ Labels**: mold removal, wall art, home improvement, minimalism, interior design  
+**🏷️ Labels**: Mold Removal, Wall Art, Home Improvement, Minimalism, Interior Design  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

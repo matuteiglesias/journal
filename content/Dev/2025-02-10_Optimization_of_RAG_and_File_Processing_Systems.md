@@ -1,6 +1,6 @@
 ---
 title: "Optimization of RAG and File Processing Systems"
-tags: ['RAG', 'knowledge management', 'Python', 'file processing', 'optimization']
+tags: ['RAG', 'Knowledge Management', 'Python', 'File Processing', 'Optimization']
 created: 2025-02-10
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-10 — Session: Optimization of RAG and File Processing Systems
 
 **🕒 12:30–14:45**  
-**🏷️ Labels**: RAG, knowledge management, Python, file processing, optimization  
+**🏷️ Labels**: RAG, Knowledge Management, Python, File Processing, Optimization  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -18,10 +18,10 @@ The session aimed to optimize Retrieval-Augmented Generation (RAG) systems and i
 
 ### Key Activities
 1. Developed a plan for scaling RAG systems focusing on knowledge ingestion, embedding, storage, and retrieval processes.
-2. Outlined strategies for knowledge management [[optimization]], including preliminary indexing and vector pruning.
+2. Outlined strategies for knowledge management optimization, including preliminary indexing and vector pruning.
 3. Reflected on managing retrieval in RAG systems, addressing challenges and best practices for scalability.
 4. Converted DataFrame size columns from kilobytes to megabytes using [[Python]].
-5. Formulated strategies for managing large files in data systems, including categorization and [[automation]].
+5. Formulated strategies for managing large files in data systems, including categorization and automation.
 6. Provided Bash command for listing large files, enhancing file management.
 7. Compared implementations of `process_file_metadata`, recommending a more efficient version.
 8. Updated a chunking function with new indexing logic for better file processing.

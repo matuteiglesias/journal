@@ -1,6 +1,6 @@
 ---
 title: "Network Diagnostics and Monitoring"
-tags: ['network diagnostics', 'Ubuntu', 'gaming', 'device identification', 'bandwidth monitoring']
+tags: ['Network Diagnostics', 'Ubuntu', 'Gaming', 'Device Identification', 'Bandwidth Monitoring']
 created: 2024-10-13
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-13 — Session: Network Diagnostics and Monitoring
 
 **🕒 16:00–16:45**  
-**🏷️ Labels**: network diagnostics, Ubuntu, gaming, device identification, bandwidth monitoring  
+**🏷️ Labels**: Network Diagnostics, Ubuntu, Gaming, Device Identification, Bandwidth Monitoring  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

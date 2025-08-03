@@ -1,6 +1,6 @@
 ---
 title: "Legal and Real Estate Procedures in Argentina"
-tags: ['usucapión', 'real estate', 'CABA', 'legal', 'property']
+tags: ['Usucapión', 'Real Estate', 'CABA', 'Legal', 'Property']
 created: 2024-09-03
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-09-03 — Session: Legal and Real Estate Procedures in Argentina
 
 **🕒 15:10–16:20**  
-**🏷️ Labels**: usucapión, real estate, CABA, legal, property  
+**🏷️ Labels**: Usucapión, Real Estate, CABA, Legal, Property  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

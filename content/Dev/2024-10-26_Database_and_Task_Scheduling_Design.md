@@ -1,6 +1,6 @@
 ---
 title: "Database and Task Scheduling Design"
-tags: ['database', 'scheduling', 'task management', 'Python', 'OR-Tools', 'virtual environment']
+tags: ['Database', 'Scheduling', 'Task Management', 'Python', 'Or-Tools', 'Virtual Environment']
 created: 2024-10-26
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-26 — Session: Database and Task Scheduling Design
 
 **🕒 19:45–20:50**  
-**🏷️ Labels**: database, scheduling, task management, Python, OR-Tools, virtual environment  
+**🏷️ Labels**: Database, Scheduling, Task Management, Python, Or-Tools, Virtual Environment  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -19,7 +19,7 @@ The objective of this session was to design a database structure for a schedulin
 ### Key Activities
 - **Database Structure:** Developed a database schema using DBML for a scheduling tool, outlining tables for tasks, time blocks, constraints, and user preferences.
 - **[[CSV]] Output:** Created structured [[CSV]] representations for 'constraints' and 'user_preferences' tables.
-- **Task Management Constraints:** Designed a constraints table to optimize task scheduling and [[productivity]].
+- **[[Task Management]] Constraints:** Designed a constraints table to optimize task scheduling and productivity.
 - **OR-Tools Installation:** Resolved `ModuleNotFoundError` for OR-Tools and addressed compatibility issues with `protobuf`.
 - **Virtual Environment Setup:** Guided the setup of a clean [[Python]] virtual environment to manage dependencies effectively.
 

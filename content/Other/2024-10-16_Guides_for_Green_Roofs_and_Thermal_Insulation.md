@@ -1,6 +1,6 @@
 ---
 title: "Guides for Green Roofs and Thermal Insulation"
-tags: ['green roof', 'thermal insulation', 'sustainability', 'EPS panels', 'home improvement']
+tags: ['Green Roof', 'Thermal Insulation', 'Sustainability', 'Eps Panels', 'Home Improvement']
 created: 2024-10-16
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-16 — Session: Guides for Green Roofs and Thermal Insulation
 
 **🕒 18:40–19:10**  
-**🏷️ Labels**: green roof, thermal insulation, sustainability, EPS panels, home improvement  
+**🏷️ Labels**: Green Roof, Thermal Insulation, Sustainability, Eps Panels, Home Improvement  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

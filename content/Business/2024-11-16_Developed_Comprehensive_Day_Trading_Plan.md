@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Day Trading Plan"
-tags: ['day trading', 'strategy development', 'risk management', 'performance analysis', 'scaling strategies']
+tags: ['Day Trading', 'Strategy Development', 'Risk Management', 'Performance Analysis', 'Scaling Strategies']
 created: 2024-11-16
 publish: false
 ---
@@ -8,16 +8,16 @@ publish: false
 ## 📅 2024-11-16 — Session: Developed Comprehensive Day Trading Plan
 
 **🕒 18:05–19:00**  
-**🏷️ Labels**: day trading, strategy development, risk management, performance analysis, scaling strategies  
+**🏷️ Labels**: Day Trading, Strategy Development, Risk Management, Performance Analysis, Scaling Strategies  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to develop a comprehensive day trading plan leveraging [[data science]] and software skills.
+The session aimed to develop a comprehensive day trading plan leveraging data science and software skills.
 
 ### Key Activities
-- Created a structured plan for day trading success, focusing on [[data science]] and software skills.
+- Created a structured plan for day trading success, focusing on data science and software skills.
 - Analyzed trader performance to optimize trading strategies based on trade distributions by price and volume.
 - Examined trading scales and capital management strategies, providing advice on starting small and scaling up.
 - Outlined a structured trading plan with milestones, detailing objectives and risk management strategies.

@@ -1,6 +1,6 @@
 ---
 title: "Configured Ubuntu as a Wi-Fi Repeater"
-tags: ['Ubuntu', 'Wi-Fi', 'Repeater', 'hostapd', 'dnsmasq']
+tags: ['Ubuntu', 'Wi-Fi', 'Repeater', 'Hostapd', 'Dnsmasq']
 created: 2024-10-02
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-02 — Session: Configured Ubuntu as a Wi-Fi Repeater
 
 **🕒 02:30–02:40**  
-**🏷️ Labels**: Ubuntu, Wi-Fi, Repeater, hostapd, dnsmasq  
+**🏷️ Labels**: Ubuntu, Wi-Fi, Repeater, Hostapd, Dnsmasq  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

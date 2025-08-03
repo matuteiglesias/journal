@@ -1,6 +1,6 @@
 ---
 title: "Developed Framework for Semantic Identity in Content Creation"
-tags: ['content creation', 'semantic identity', 'playbooks', 'narrative hooks', 'modular narratives']
+tags: ['Content Creation', 'Semantic Identity', 'Playbooks', 'Narrative Hooks', 'Modular Narratives']
 created: 2025-05-22
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-05-22 — Session: Developed Framework for Semantic Identity in Content Creation
 
 **🕒 01:00–01:30**  
-**🏷️ Labels**: content creation, semantic identity, playbooks, narrative hooks, modular narratives  
+**🏷️ Labels**: Content Creation, Semantic Identity, Playbooks, Narrative Hooks, Modular Narratives  
 **📂 Project**: Branding  
 **⭐ Priority**: MEDIUM  
 

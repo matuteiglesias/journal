@@ -1,6 +1,6 @@
 ---
 title: "Structured Development Roadmap Process"
-tags: ['roadmap', 'AI', 'software development', 'API', 'JSON']
+tags: ['Roadmap', 'AI', 'Software Development', 'API', 'JSON']
 created: 2025-02-16
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-16 — Session: Structured Development Roadmap Process
 
 **🕒 00:00–03:45**  
-**🏷️ Labels**: roadmap, AI, software development, API, JSON  
+**🏷️ Labels**: Roadmap, AI, Software Development, API, JSON  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -21,7 +21,7 @@ The primary goal of this session was to enhance the process of creating structur
 - Improved prompts for [[AI]] repository analysis, focusing on technical architecture, feature exploration, and code quality.
 - Refined prompts for [[AI]]-driven roadmap planning, detailing responsibilities for analyzing repositories and structuring development goals.
 - Provided a guide for obtaining [[API]] keys necessary for Spider Analyzer integration.
-- Addressed [[API]] parameter formatting errors and [[JSON]] serialization issues, providing solutions and [[debugging]] tips.
+- Addressed [[API]] parameter formatting errors and [[JSON]] serialization issues, providing solutions and debugging tips.
 
 ### Achievements
 - Created a comprehensive guide and templates for [[AI]]-driven roadmap planning.

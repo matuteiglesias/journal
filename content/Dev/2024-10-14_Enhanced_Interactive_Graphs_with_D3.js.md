@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Interactive Graphs with D3.js"
-tags: ['D3.js', 'interactive graphs', 'JSON', 'data visualization', 'tooltips']
+tags: ['D3.Js', 'Interactive Graphs', 'JSON', 'Data Visualization', 'Tooltips']
 created: 2024-10-14
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-14 — Session: Enhanced Interactive Graphs with D3.js
 
 **🕒 21:50–22:30**  
-**🏷️ Labels**: D3.js, interactive graphs, JSON, data visualization, tooltips  
+**🏷️ Labels**: D3.Js, Interactive Graphs, JSON, Data Visualization, Tooltips  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

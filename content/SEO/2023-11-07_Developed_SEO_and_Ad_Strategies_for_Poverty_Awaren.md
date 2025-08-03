@@ -24,7 +24,7 @@ The session aimed to develop effective [[SEO]] and advertising strategies to enh
 - Provided instructions for integrating Google Analytics tracking code into HTML for data collection.
 
 **Achievements:**
-- Developed a comprehensive [[SEO]] [[strategy]] guide for poverty-related content.
+- Developed a comprehensive [[SEO]] strategy guide for poverty-related content.
 - Created tailored Google Ad headlines and descriptions in Spanish.
 - Identified relevant keyword themes for targeted ad campaigns.
 - Successfully outlined the process for adding Google Analytics tracking to web pages.

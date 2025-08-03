@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Maintenance Plan for Peugeot 207 Emission System"
-tags: ['Peugeot 207', 'emission system', 'maintenance', 'diagnostic', 'oxygen sensor']
+tags: ['Peugeot 207', 'Emission System', 'Maintenance', 'Diagnostic', 'Oxygen Sensor']
 created: 2024-04-21
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-04-21 — Session: Comprehensive Maintenance Plan for Peugeot 207 Emission System
 
 **🕒 03:15–04:05**  
-**🏷️ Labels**: Peugeot 207, emission system, maintenance, diagnostic, oxygen sensor  
+**🏷️ Labels**: Peugeot 207, Emission System, Maintenance, Diagnostic, Oxygen Sensor  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Fitness Training Plan"
-tags: ['fitness', 'training', 'strength', 'health', 'motivation']
+tags: ['Fitness', 'Training', 'Strength', 'Health', 'Motivation']
 created: 2025-03-21
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-03-21 — Session: Developed Comprehensive Fitness Training Plan
 
 **🕒 08:30–13:50**  
-**🏷️ Labels**: fitness, training, strength, health, motivation  
+**🏷️ Labels**: Fitness, Training, Strength, Health, Motivation  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

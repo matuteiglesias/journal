@@ -1,6 +1,6 @@
 ---
 title: "Developed Activism and Storytelling Strategies"
-tags: ['activism', 'storytelling', 'community engagement', 'political theory', 'organizational culture']
+tags: ['Activism', 'Storytelling', 'Community Engagement', 'Political Theory', 'Organizational Culture']
 created: 2025-01-14
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-14 — Session: Developed Activism and Storytelling Strategies
 
 **🕒 00:15–00:30**  
-**🏷️ Labels**: activism, storytelling, community engagement, political theory, organizational culture  
+**🏷️ Labels**: Activism, Storytelling, Community Engagement, Political Theory, Organizational Culture  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -18,7 +18,7 @@ The session aimed to explore and develop strategies for activism, storytelling, 
 
 ### Key Activities
 - Discussed limitations and alternatives for document review in Google Docs.
-- Reflected on personal and political journey in activism, focusing on [[leadership]] and organizational culture.
+- Reflected on personal and political journey in activism, focusing on leadership and organizational culture.
 - Analyzed and compared documents related to political activism, identifying key themes and differences.
 - Outlined a structured approach to crafting a personal narrative for community engagement.
 - Proposed the creation of a collaborative storytelling team, involving historical figures, for enhanced narrative development.

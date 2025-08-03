@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn Connections Analysis and Disk Space Management"
-tags: ['LinkedIn', 'Ubuntu', 'Disk Management', 'Bing API', 'Python', 'Network Analysis']
+tags: ['Linkedin', 'Ubuntu', 'Disk Management', 'Bing Api', 'Python', 'Network Analysis']
 created: 2024-07-13
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-07-13 — Session: LinkedIn Connections Analysis and Disk Space Management
 
 **🕒 00:20–02:30**  
-**🏷️ Labels**: LinkedIn, Ubuntu, Disk Management, Bing API, Python, Network Analysis  
+**🏷️ Labels**: Linkedin, Ubuntu, Disk Management, Bing Api, Python, Network Analysis  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -18,7 +18,7 @@ The session aimed to achieve two primary objectives: download and analyze Linked
 
 ### Key Activities
 1. **LinkedIn Connections Download:**
-   - Bulk downloaded LinkedIn connections using [[Python]] scripts for [[data processing]].
+   - Bulk downloaded LinkedIn connections using [[Python]] scripts for data processing.
    - Successfully mapped professional networks for further analysis.
 
 2. **Ubuntu Disk Space Management:**
@@ -39,4 +39,4 @@ The session aimed to achieve two primary objectives: download and analyze Linked
 ### Pending Tasks
 - Further analysis of LinkedIn network data.
 - Continuous monitoring and management of Ubuntu disk space.
-- Optimization of Bing [[API]] integration for faster data retrieval.
+- [[Optimization]] of Bing [[API]] integration for faster data retrieval.

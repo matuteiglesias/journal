@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT Data Export and SQL Database Integration"
-tags: ['ChatGPT', 'SQL Database', 'Data Processing', 'Python', 'AI Development']
+tags: ['Chatgpt', 'Sql Database', 'Data Processing', 'Python', 'Ai Development']
 created: 2025-05-04
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-04 — Session: ChatGPT Data Export and SQL Database Integration
 
 **🕒 00:40–01:00**  
-**🏷️ Labels**: ChatGPT, SQL Database, Data Processing, Python, AI Development  
+**🏷️ Labels**: Chatgpt, Sql Database, Data Processing, Python, Ai Development  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

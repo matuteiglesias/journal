@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Job Application Strategies"
-tags: ['job application', 'career development', 'ATS', 'leadership', 'job assessment']
+tags: ['Job Application', 'Career Development', 'ATS', 'Leadership', 'Job Assessment']
 created: 2025-06-05
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-05 — Session: Optimizing Job Application Strategies
 
 **🕒 00:05–00:45**  
-**🏷️ Labels**: job application, career development, ATS, leadership, job assessment  
+**🏷️ Labels**: Job Application, Career Development, ATS, Leadership, Job Assessment  
 **📂 Project**: JobMarket  
 **⭐ Priority**: MEDIUM  
 
@@ -24,8 +24,8 @@ The goal of this session was to optimize job application strategies for Matías 
 
 ### Achievements
 - Identified strengths and gaps for specific roles, providing tailored recommendations for improvement.
-- Developed a structured approach to articulate technical [[leadership]] and mentorship for career growth.
-- Outlined best practices for navigating job applications and SERP, enhancing strategic positioning for [[leadership]] roles.
+- Developed a structured approach to articulate technical leadership and mentorship for career growth.
+- Outlined best practices for navigating job applications and SERP, enhancing strategic positioning for leadership roles.
 
 ### Pending Tasks
 - Further refine application strategies based on the assessments and feedback.

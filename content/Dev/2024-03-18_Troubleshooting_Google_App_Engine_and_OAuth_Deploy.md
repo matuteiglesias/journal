@@ -1,6 +1,6 @@
 ---
 title: "Troubleshooting Google App Engine and OAuth Deployment"
-tags: ['Google App Engine', 'OAuth 2.0', 'Deployment', 'Troubleshooting', 'Python', 'Flask']
+tags: ['Google App Engine', 'Oauth 2.0', 'Deployment', 'Troubleshooting', 'Python', 'Flask']
 created: 2024-03-18
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-03-18 — Session: Troubleshooting Google App Engine and OAuth Deployment
 
 **🕒 04:20–05:10**  
-**🏷️ Labels**: Google App Engine, OAuth 2.0, Deployment, Troubleshooting, Python, Flask  
+**🏷️ Labels**: Google App Engine, Oauth 2.0, Deployment, Troubleshooting, Python, Flask  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

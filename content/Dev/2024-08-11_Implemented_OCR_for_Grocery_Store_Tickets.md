@@ -29,8 +29,8 @@ The goal of this session was to implement Optical Character Recognition (OCR) on
 
 ### Achievements
 - Successfully set up and configured OCR tools for processing grocery store tickets.
-- Developed a [[workflow]] to extract and structure data from images into [[CSV]] format.
+- Developed a workflow to extract and structure data from images into [[CSV]] format.
 
 ### Pending Tasks
 - Evaluate the accuracy of OCR results and make necessary adjustments.
-- Consider further [[automation]] for continuous [[data processing]].
+- Consider further automation for continuous data processing.

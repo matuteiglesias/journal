@@ -1,6 +1,6 @@
 ---
 title: "Resolved Python Library Installation and Compatibility Issues"
-tags: ['Python', 'ChromaDB', 'Installation', 'Compatibility', 'Error Handling']
+tags: ['Python', 'Chromadb', 'Installation', 'Compatibility', 'Error Handling']
 created: 2025-07-23
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-07-23 — Session: Resolved Python Library Installation and Compatibility Issues
 
 **🕒 18:00–18:50**  
-**🏷️ Labels**: Python, ChromaDB, Installation, Compatibility, Error Handling  
+**🏷️ Labels**: Python, Chromadb, Installation, Compatibility, Error Handling  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -22,7 +22,7 @@ The primary objective of this session was to address and resolve various install
 - **Installing Sentence Transformers:** Installed the `sentence-transformers` library using pip, with considerations for virtual environments.
 - **Resolving Version Incompatibility:** Addressed version incompatibility between `sentence-transformers` and `huggingface_hub` by downgrading the latter.
 - **Resolving Compatibility Issues in Hugging Face Libraries:** Managed compatibility issues affecting `sentence-transformers` and `transformers`, ensuring a stable environment.
-- **Improving Metadata Handling in ChromaDB:** Enhanced [[error handling]] in ChromaDB by filtering out `None` values and logging warnings.
+- **Improving Metadata Handling in ChromaDB:** Enhanced error handling in ChromaDB by filtering out `None` values and logging warnings.
 - **Embedding Process and [[Error Handling]] Improvement:** Successfully executed embedding steps, fixed issues with malformed metadata, and improved the `add_document()` function to prevent crashes.
 
 ### Achievements

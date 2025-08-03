@@ -1,6 +1,6 @@
 ---
 title: "Análisis y Modificación del Método de la Potencia y Descomposición de Schur"
-tags: ['método de la potencia', 'descomposición de Schur', 'autovalores', 'álgebra lineal', 'coeficientes de Rayleigh']
+tags: ['Método De La Potencia', 'Descomposición De Schur', 'Autovalores', 'Álgebra Lineal', 'Coeficientes De Rayleigh']
 created: 2024-10-22
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-22 — Session: Análisis y Modificación del Método de la Potencia y Descomposición de Schur
 
 **🕒 17:15–17:30**  
-**🏷️ Labels**: método de la potencia, descomposición de Schur, autovalores, álgebra lineal, coeficientes de Rayleigh  
+**🏷️ Labels**: Método De La Potencia, Descomposición De Schur, Autovalores, Álgebra Lineal, Coeficientes De Rayleigh  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

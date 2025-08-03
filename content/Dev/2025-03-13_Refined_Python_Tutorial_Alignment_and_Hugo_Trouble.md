@@ -25,7 +25,7 @@ The session aimed to refine the alignment of [[Python]] topics with educational 
 2. **Hugo [[Troubleshooting]]:**
    - Identified and resolved issues with Hugo not updating the `index.html` file.
    - Addressed caching problems and missing layout files.
-   - Provided a comprehensive guide for [[debugging]] and fixing Hugo server issues.
+   - Provided a comprehensive guide for debugging and fixing Hugo server issues.
 
 ### Achievements
 - Successfully aligned [[Python]] topics with educational materials for a clear learning path.

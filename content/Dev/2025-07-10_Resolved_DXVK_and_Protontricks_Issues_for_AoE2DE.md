@@ -1,6 +1,6 @@
 ---
 title: "Resolved DXVK and Protontricks Issues for AoE2DE"
-tags: ['DXVK', 'Protontricks', 'AoE2DE', 'Steam', 'Troubleshooting']
+tags: ['DXVK', 'Protontricks', 'Aoe2De', 'Steam', 'Troubleshooting']
 created: 2025-07-10
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-07-10 — Session: Resolved DXVK and Protontricks Issues for AoE2DE
 
 **🕒 03:05–03:40**  
-**🏷️ Labels**: DXVK, Protontricks, AoE2DE, Steam, Troubleshooting  
+**🏷️ Labels**: DXVK, Protontricks, Aoe2De, Steam, Troubleshooting  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

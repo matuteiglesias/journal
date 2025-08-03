@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to integrate and troubleshoot [[API]] functionalities related to [[project management]] and data submission.
+The session aimed to integrate and troubleshoot [[API]] functionalities related to project management and data submission.
 
 ### Key Activities
 - Developed a structured preparation plan for responding to Jay's email challenges, involving Bayesian reasoning and game theory.
@@ -25,11 +25,11 @@ The session aimed to integrate and troubleshoot [[API]] functionalities related 
 - Adjusted the project data structure to align with the [[API]] submission schema.
 
 ### Achievements
-- Successfully integrated [[API]] with the [[project management]] system.
+- Successfully integrated [[API]] with the project management system.
 - Identified and addressed key issues affecting project visibility in the Motion app.
 
 ### Pending Tasks
 - Further testing and validation of [[API]] integration to ensure all functionalities are working as expected.
 
 ### Labels
-[[API]], [[Python]], Project Management, [[Automation]], [[Troubleshooting]]
+[[API]], [[Python]], [[Project Management]], [[Automation]], [[Troubleshooting]]

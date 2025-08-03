@@ -1,6 +1,6 @@
 ---
 title: "Automated Analysis of Government Resolutions"
-tags: ['automation', 'government', 'knowledge graph', 'NLP', 'project management']
+tags: ['Automation', 'Government', 'Knowledge Graph', 'NLP', 'Project Management']
 created: 2024-09-16
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-16 — Session: Automated Analysis of Government Resolutions
 
 **🕒 16:30–16:45**  
-**🏷️ Labels**: automation, government, knowledge graph, NLP, project management  
+**🏷️ Labels**: Automation, Government, Knowledge Graph, NLP, Project Management  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

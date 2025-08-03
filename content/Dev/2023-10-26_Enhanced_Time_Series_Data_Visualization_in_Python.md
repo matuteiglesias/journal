@@ -21,7 +21,7 @@ The goal of this session was to enhance and refine the process of creating time 
 - Implemented a script to handle the plotting of time series data, including scatter plots, moving averages, and percentile shading.
 - Updated the `plot_time_series` function to enhance its capabilities, including conditional checks for quantiles and specific cases.
 - Created plots by grouping data based on specific columns, such as the 'AGLOSI' column, to visualize different groups within the dataset.
-- Adjusted [[data visualization]] techniques by modifying rolling averages, y-axis limits, line styles, and color manipulations to improve clarity.
+- Adjusted data visualization techniques by modifying rolling averages, y-axis limits, line styles, and color manipulations to improve clarity.
 - Solved color adjustment issues by converting RGB to HLS and back to RGB to handle TypeErrors.
 - Expanded the `files_info` dictionary to better manage time series data attributes for analysis.
 

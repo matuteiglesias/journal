@@ -17,7 +17,7 @@ publish: false
 The session aimed to scout and analyze various [[AI]] organizations and labs globally, focusing on their potential fit for collaboration and postdoctoral opportunities.
 
 ### Key Activities
-- **Scouting Relevant [[AI]] Organizations and Labs**: Identified organizations focusing on [[AI]], governance, [[data science]], and digital culture.
+- **Scouting Relevant [[AI]] Organizations and Labs**: Identified organizations focusing on [[AI]], governance, data science, and digital culture.
 - **Exploring Collaboration Opportunities**: Investigated five organizations for potential collaboration or postdoctoral opportunities.
 - **Exploring [[AI]] Programs for Public Sector and Ethics**: Reviewed [[AI]] programs focusing on public services and societal impacts.
 - **Interdisciplinary [[AI]] Centers Overview**: Explored interdisciplinary [[AI]] institutions focusing on social impact and ethical governance.

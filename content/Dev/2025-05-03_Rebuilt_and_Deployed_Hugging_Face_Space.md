@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to wipe and re-upload files to a Hugging Face Space, successfully rebuild the application, and enhance the [[debugging]] capabilities of the associated scripts.
+The primary goal of this session was to wipe and re-upload files to a Hugging Face Space, successfully rebuild the application, and enhance the debugging capabilities of the associated scripts.
 
 ### Key Activities
 - **Wiping and Re-uploading:** Followed a step-by-step guide to safely delete all files from a Hugging Face Space and re-upload fresh files using the `huggingface_hub` library.
@@ -24,7 +24,7 @@ The primary goal of this session was to wipe and re-upload files to a Hugging Fa
 
 ### Achievements
 - Successfully rebuilt and deployed the application on Hugging Face Spaces.
-- Enhanced [[debugging]] capabilities of the agent and app scripts.
+- Enhanced debugging capabilities of the agent and app scripts.
 
 ### Pending Tasks
 - Further testing and troubleshooting as outlined in the deployment confirmation steps.

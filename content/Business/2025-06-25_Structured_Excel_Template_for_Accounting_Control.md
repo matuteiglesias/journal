@@ -14,7 +14,7 @@ publish: false
 
 
 ### Session Goal
-The goal of this session was to develop a structured Excel template to facilitate accounting control, incorporating [[automation]] features and data integration capabilities.
+The goal of this session was to develop a structured Excel template to facilitate accounting control, incorporating automation features and data integration capabilities.
 
 ### Key Activities
 - **Excel Structure Proposal**: A detailed proposal was created for an Excel file to manage accounting control, including sheets for transactions, monthly totals, and reconciliation. Methods for importing data from the web were also proposed.

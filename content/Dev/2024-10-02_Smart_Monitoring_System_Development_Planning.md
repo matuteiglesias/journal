@@ -1,6 +1,6 @@
 ---
 title: "Smart Monitoring System Development Planning"
-tags: ['smart monitoring', 'automation', 'email management', 'workflow management', 'data analysis']
+tags: ['Smart Monitoring', 'Automation', 'Email Management', 'Workflow Management', 'Data Analysis']
 created: 2024-10-02
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-02 — Session: Smart Monitoring System Development Planning
 
 **🕒 15:40–16:45**  
-**🏷️ Labels**: smart monitoring, automation, email management, workflow management, data analysis  
+**🏷️ Labels**: Smart Monitoring, Automation, Email Management, Workflow Management, Data Analysis  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -29,7 +29,7 @@ The session aimed to outline objectives and tasks for enhancing a smart monitori
 - Presented new categories identified in inbox updates.
 - Provided additional rows for a [[CSV]] file for forum content management.
 - Explained the use of `unique()` with [[Pandas]] `groupby()`.
-- Analyzed dataset for [[workflow]] management and system architecture.
+- Analyzed dataset for workflow management and system architecture.
 
 ### Achievements
 - Established a comprehensive plan for smart monitoring system development.

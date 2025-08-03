@@ -1,6 +1,6 @@
 ---
 title: "Uniform Delivery Spreadsheet Creation"
-tags: ['uniforms', 'spreadsheet', 'delivery', 'tracking']
+tags: ['Uniforms', 'Spreadsheet', 'Delivery', 'Tracking']
 created: 2025-02-16
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-02-16 — Session: Uniform Delivery Spreadsheet Creation
 
 **🕒 14:25–14:35**  
-**🏷️ Labels**: uniforms, spreadsheet, delivery, tracking  
+**🏷️ Labels**: Uniforms, Spreadsheet, Delivery, Tracking  
 **📂 Project**: Business  
 **⭐ Priority**: LOW  
 

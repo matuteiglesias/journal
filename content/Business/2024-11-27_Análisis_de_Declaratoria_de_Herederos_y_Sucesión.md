@@ -1,6 +1,6 @@
 ---
 title: "Análisis de Declaratoria de Herederos y Sucesión"
-tags: ['declaratoria de herederos', 'análisis legal', 'procesamiento de imágenes', 'sucesión']
+tags: ['Declaratoria De Herederos', 'Análisis Legal', 'Procesamiento De Imágenes', 'Sucesión']
 created: 2024-11-27
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-27 — Session: Análisis de Declaratoria de Herederos y Sucesión
 
 **🕒 23:50–00:00**  
-**🏷️ Labels**: declaratoria de herederos, análisis legal, procesamiento de imágenes, sucesión  
+**🏷️ Labels**: Declaratoria De Herederos, Análisis Legal, Procesamiento De Imágenes, Sucesión  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

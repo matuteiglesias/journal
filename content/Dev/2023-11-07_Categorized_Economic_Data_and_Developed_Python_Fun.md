@@ -1,6 +1,6 @@
 ---
 title: "Categorized Economic Data and Developed Python Functions"
-tags: ['economic data', 'categorization', 'Python', 'DataFrame', 'macroeconomics']
+tags: ['Economic Data', 'Categorization', 'Python', 'Dataframe', 'Macroeconomics']
 created: 2023-11-07
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-11-07 — Session: Categorized Economic Data and Developed Python Functions
 
 **🕒 04:10–05:00**  
-**🏷️ Labels**: economic data, categorization, Python, DataFrame, macroeconomics  
+**🏷️ Labels**: Economic Data, Categorization, Python, Dataframe, Macroeconomics  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Automated PDF and Messaging System for Municipal Invoices"
-tags: ['PDF Generation', 'Python', 'Municipal Invoices', 'Automation', 'Messaging']
+tags: ['Pdf Generation', 'Python', 'Municipal Invoices', 'Automation', 'Messaging']
 created: 2025-01-07
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-07 — Session: Automated PDF and Messaging System for Municipal Invoices
 
 **🕒 19:20–19:40**  
-**🏷️ Labels**: PDF Generation, Python, Municipal Invoices, Automation, Messaging  
+**🏷️ Labels**: Pdf Generation, Python, Municipal Invoices, Automation, Messaging  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

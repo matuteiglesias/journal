@@ -1,6 +1,6 @@
 ---
 title: "Creative Exploration of Addams Family Pantry"
-tags: ['Addams Family', 'creative writing', 'pixel art', '90s games', 'content policy']
+tags: ['Addams Family', 'Creative Writing', 'Pixel Art', '90S Games', 'Content Policy']
 created: 2024-03-30
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-03-30 — Session: Creative Exploration of Addams Family Pantry
 
 **🕒 02:10–02:25**  
-**🏷️ Labels**: Addams Family, creative writing, pixel art, 90s games, content policy  
+**🏷️ Labels**: Addams Family, Creative Writing, Pixel Art, 90S Games, Content Policy  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

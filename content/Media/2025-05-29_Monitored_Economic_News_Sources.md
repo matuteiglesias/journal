@@ -1,6 +1,6 @@
 ---
 title: "Monitored Economic News Sources"
-tags: ['economic news', 'data monitoring', 'repository access', 'news aggregation']
+tags: ['Economic News', 'Data Monitoring', 'Repository Access', 'News Aggregation']
 created: 2025-05-29
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-29 — Session: Monitored Economic News Sources
 
 **🕒 03:40–04:10**  
-**🏷️ Labels**: economic news, data monitoring, repository access, news aggregation  
+**🏷️ Labels**: Economic News, Data Monitoring, Repository Access, News Aggregation  
 **📂 Project**: Media  
 **⭐ Priority**: MEDIUM  
 

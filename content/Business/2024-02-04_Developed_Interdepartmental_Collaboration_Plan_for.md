@@ -1,6 +1,6 @@
 ---
 title: "Developed Interdepartmental Collaboration Plan for IT and Logistics"
-tags: ['colaboración', 'gestión de flotas', 'seguridad informática', 'mantenimiento', 'estrategias']
+tags: ['Colaboración', 'Gestión De Flotas', 'Seguridad Informática', 'Mantenimiento', 'Estrategias']
 created: 2024-02-04
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-02-04 — Session: Developed Interdepartmental Collaboration Plan for IT and Logistics
 
 **🕒 16:00–16:35**  
-**🏷️ Labels**: colaboración, gestión de flotas, seguridad informática, mantenimiento, estrategias  
+**🏷️ Labels**: Colaboración, Gestión De Flotas, Seguridad Informática, Mantenimiento, Estrategias  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -19,7 +19,7 @@ The session aimed to develop a comprehensive collaboration plan between the Gene
 ### Key Activities
 - Proposed a collaboration framework defining roles and responsibilities for IT and Logistics departments.
 - Outlined key security tasks for the Head of IT Security in Vehicle Logistics, including risk assessment and incident response planning.
-- Explored strategies for efficient police fleet management, emphasizing preventive maintenance and [[data analysis]].
+- Explored strategies for efficient police fleet management, emphasizing preventive maintenance and data analysis.
 - Developed a strategic maintenance plan for a fleet of 5000 police vehicles, including evaluation and technological implementation phases.
 - Discussed strategies to enroll legitimate workshops for vehicle maintenance, focusing on fraud prevention and service agreements.
 - Reflected on fleet maintenance strategies in the U.S., highlighting hybrid approaches and performance-based contracts.

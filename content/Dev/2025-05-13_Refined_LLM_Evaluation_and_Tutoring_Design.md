@@ -1,6 +1,6 @@
 ---
 title: "Refined LLM Evaluation and Tutoring Design"
-tags: ['LLM', 'Jinja2', 'Python', 'tutoring', 'education']
+tags: ['LLM', 'Jinja2', 'Python', 'Tutoring', 'Education']
 created: 2025-05-13
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-05-13 — Session: Refined LLM Evaluation and Tutoring Design
 
 **🕒 00:05–00:25**  
-**🏷️ Labels**: LLM, Jinja2, Python, tutoring, education  
+**🏷️ Labels**: LLM, Jinja2, Python, Tutoring, Education  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to enhance the design and functionality of LLM evaluation prompts and to shift the focus from evaluation to tutoring in computer science [[education]].
+The goal of this session was to enhance the design and functionality of LLM evaluation prompts and to shift the focus from evaluation to tutoring in computer science education.
 
 ### Key Activities
 - Streamlined the design for evaluating student responses using a Jinja2 template and a [[Python]] evaluator class.

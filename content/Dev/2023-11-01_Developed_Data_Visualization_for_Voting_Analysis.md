@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance [[data visualization]] techniques for analyzing voting patterns across different income levels and political parties using [[Python]] libraries such as [[Pandas]], Seaborn, and [[Matplotlib]].
+The session aimed to enhance data visualization techniques for analyzing voting patterns across different income levels and political parties using [[Python]] libraries such as [[Pandas]], Seaborn, and [[Matplotlib]].
 
 ### Key Activities
 - **Identified Column Differences**: Used set operations to identify differences in column names across multiple DataFrames.
@@ -22,7 +22,7 @@ The session aimed to enhance [[data visualization]] techniques for analyzing vot
 - **Boxplot Creation**: Developed a Seaborn boxplot to visualize voting percentages across income levels, with enhancements for color mapping and aesthetics.
 - **Aesthetic Enhancements**: Improved plot aesthetics by adjusting themes, color palettes, and font settings.
 - **Code Environment Management**: Reset the code execution environment and re-imported necessary packages.
-- **Data Management**: Requested re-upload of essential datasets and identified issues with undefined datasets.
+- **[[Data Management]]**: Requested re-upload of essential datasets and identified issues with undefined datasets.
 - **Subplot Creation**: Created subplots to visualize voting patterns for multiple political parties.
 
 ### Achievements

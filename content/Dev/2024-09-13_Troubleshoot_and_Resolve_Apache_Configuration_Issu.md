@@ -17,7 +17,7 @@ publish: true
 The goal of this session was to troubleshoot and resolve various Apache server configuration issues to ensure proper server functionality.
 
 ### Key Activities
-- **[[Troubleshooting]] Apache Configuration Issues**: Reviewed and executed a series of steps to check running status, error logs, virtual host configurations, file permissions, syntax errors, and DNS settings.
+- **[[Troubleshooting]] Apache [[Configuration]] Issues**: Reviewed and executed a series of steps to check running status, error logs, virtual host configurations, file permissions, syntax errors, and DNS settings.
 - **Apache Server Restart Issues**: Systematically approached and resolved restart issues by checking configuration errors, disk space, resource usage, and permissions.
 - **Resolving Full `/home` Directory Issues**: Addressed disk space issues affecting Apache by identifying and removing large files, cleaning the trash, and restarting the Apache service.
 - **Apache Restart Confirmation**: Successfully restarted Apache and verified server status, website access, error logs, and configuration.

@@ -1,6 +1,6 @@
 ---
 title: "Outstanding Debt Computation and Analysis"
-tags: ['debt management', 'data analysis', 'Python', 'ledger', 'finance']
+tags: ['Debt Management', 'Data Analysis', 'Python', 'Ledger', 'Finance']
 created: 2025-01-03
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-01-03 — Session: Outstanding Debt Computation and Analysis
 
 **🕒 18:30–23:10**  
-**🏷️ Labels**: debt management, data analysis, Python, ledger, finance  
+**🏷️ Labels**: Debt Management, Data Analysis, Python, Ledger, Finance  
 **📂 Project**: Accounting  
 **⭐ Priority**: MEDIUM  
 
@@ -25,7 +25,7 @@ The session aimed to compute and analyze outstanding debt using ledger data, dev
 - Inspected DataFrame structure for groupby operations and adjusted accordingly.
 
 ### Achievements
-- Successfully computed outstanding debt and developed functions for ledger [[data analysis]].
+- Successfully computed outstanding debt and developed functions for ledger data analysis.
 - Generated time series for the 10th and 25th of each month from January 2022 to December 2025.
 - Corrected errors in payment grouping and ensured data integrity.
 

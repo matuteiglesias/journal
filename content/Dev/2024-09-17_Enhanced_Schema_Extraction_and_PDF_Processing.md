@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Schema Extraction and PDF Processing"
-tags: ['Python', 'Schema Extraction', 'PDF Processing', 'Debugging', 'Data Quality']
+tags: ['Python', 'Schema Extraction', 'Pdf Processing', 'Debugging', 'Data Quality']
 created: 2024-09-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-17 — Session: Enhanced Schema Extraction and PDF Processing
 
 **🕒 00:00–01:20**  
-**🏷️ Labels**: Python, Schema Extraction, PDF Processing, Debugging, Data Quality  
+**🏷️ Labels**: Python, Schema Extraction, Pdf Processing, Debugging, Data Quality  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Developed Plant Care Calendar and Guides"
-tags: ['plant care', 'gardening', 'calendar', 'diagnosis', 'care guide']
+tags: ['Plant Care', 'Gardening', 'Calendar', 'Diagnosis', 'Care Guide']
 created: 2024-06-15
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-06-15 — Session: Developed Plant Care Calendar and Guides
 
 **🕒 16:45–17:25**  
-**🏷️ Labels**: plant care, gardening, calendar, diagnosis, care guide  
+**🏷️ Labels**: Plant Care, Gardening, Calendar, Diagnosis, Care Guide  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

@@ -1,6 +1,6 @@
 ---
 title: "Database Management and Troubleshooting"
-tags: ['PostgreSQL', 'Elasticsearch', 'Database Management', 'Troubleshooting', 'Supabase']
+tags: ['Postgresql', 'Elasticsearch', 'Database Management', 'Troubleshooting', 'Supabase']
 created: 2025-02-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-28 — Session: Database Management and Troubleshooting
 
 **🕒 19:35–20:20**  
-**🏷️ Labels**: PostgreSQL, Elasticsearch, Database Management, Troubleshooting, Supabase  
+**🏷️ Labels**: Postgresql, Elasticsearch, Database Management, Troubleshooting, Supabase  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

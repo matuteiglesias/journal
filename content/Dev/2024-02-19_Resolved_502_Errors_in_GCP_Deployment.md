@@ -1,6 +1,6 @@
 ---
 title: "Resolved 502 Errors in GCP Deployment"
-tags: ['GCP', 'Flask', '502 Error', 'Deployment', 'OAuth']
+tags: ['GCP', 'Flask', '502 Error', 'Deployment', 'Oauth']
 created: 2024-02-19
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-02-19 — Session: Resolved 502 Errors in GCP Deployment
 
 **🕒 01:30–02:40**  
-**🏷️ Labels**: GCP, Flask, 502 Error, Deployment, OAuth  
+**🏷️ Labels**: GCP, Flask, 502 Error, Deployment, Oauth  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

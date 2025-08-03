@@ -1,6 +1,6 @@
 ---
 title: "Developed Logo and Flag Concepts for Ciclotodes"
-tags: ['branding', 'logo design', 'flag design', 'diversity', 'inclusion']
+tags: ['Branding', 'Logo Design', 'Flag Design', 'Diversity', 'Inclusion']
 created: 2024-08-08
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-08-08 — Session: Developed Logo and Flag Concepts for Ciclotodes
 
 **🕒 20:10–20:30**  
-**🏷️ Labels**: branding, logo design, flag design, diversity, inclusion  
+**🏷️ Labels**: Branding, Logo Design, Flag Design, Diversity, Inclusion  
 **📂 Project**: Branding  
 **⭐ Priority**: MEDIUM  
 

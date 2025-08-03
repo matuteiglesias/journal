@@ -1,6 +1,6 @@
 ---
 title: "Gaming Setup and Troubleshooting for Doom on Ubuntu"
-tags: ['Doom', 'Ubuntu', 'Gaming', 'GZDoom', 'Installation', 'Troubleshooting']
+tags: ['Doom', 'Ubuntu', 'Gaming', 'Gzdoom', 'Installation', 'Troubleshooting']
 created: 2025-03-28
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-03-28 — Session: Gaming Setup and Troubleshooting for Doom on Ubuntu
 
 **🕒 01:00–02:40**  
-**🏷️ Labels**: Doom, Ubuntu, Gaming, GZDoom, Installation, Troubleshooting  
+**🏷️ Labels**: Doom, Ubuntu, Gaming, Gzdoom, Installation, Troubleshooting  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

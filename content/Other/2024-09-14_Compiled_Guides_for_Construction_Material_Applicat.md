@@ -1,6 +1,6 @@
 ---
 title: "Compiled Guides for Construction Material Applications"
-tags: ['construction', 'waterproofing', 'materials', 'guides', 'repair']
+tags: ['Construction', 'Waterproofing', 'Materials', 'Guides', 'Repair']
 created: 2024-09-14
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-09-14 — Session: Compiled Guides for Construction Material Applications
 
 **🕒 20:15–20:50**  
-**🏷️ Labels**: construction, waterproofing, materials, guides, repair  
+**🏷️ Labels**: Construction, Waterproofing, Materials, Guides, Repair  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 
@@ -22,7 +22,7 @@ The session focused on compiling and detailing various guides for the applicatio
 - Provided instructions for repairing cracks using repair mortar before applying finishing products like waterproof membranes or self-leveling grout.
 - Outlined a process for finishing a smooth cement floor post self-leveling grout application, including polishing and sealing.
 - Planned a step-by-step roof repair process to address leaks, including membrane removal, cleaning, crack repair, and waterproofing system application.
-- Compiled insights on the [[optimization]] of construction material purchases and advancements in waterproofing technology.
+- Compiled insights on the optimization of construction material purchases and advancements in waterproofing technology.
 
 ### Achievements
 - Successfully compiled comprehensive guides for various construction material applications and repairs.

@@ -1,6 +1,6 @@
 ---
 title: "Structured Parsing and Management of Tax and Utility Bills"
-tags: ['tax', 'parsing', 'financial documents', 'data management', 'automation']
+tags: ['Tax', 'Parsing', 'Financial Documents', 'Data Management', 'Automation']
 created: 2025-02-24
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-02-24 — Session: Structured Parsing and Management of Tax and Utility Bills
 
 **🕒 22:00–23:00**  
-**🏷️ Labels**: tax, parsing, financial documents, data management, automation  
+**🏷️ Labels**: Tax, Parsing, Financial Documents, Data Management, Automation  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -23,7 +23,7 @@ The session aimed to develop a structured approach for parsing various types of 
 - **Financial Document Organization**: Outlined a systematic approach to organizing financial documents, suggesting folder structures and processing methods.
 - **Utility Bills Management**: Developed a structured approach for managing utility bills, detailing schemas for shared elements and specific tables for unique details.
 - **Municipal Tax Bills**: Created a standardized schema for municipal tax bills, detailing their structure and organization strategies.
-- **Financial Source Documents Taxonomy**: Developed a taxonomy for organizing financial source documents, ensuring clarity and preparation for [[automation]].
+- **Financial Source Documents Taxonomy**: Developed a taxonomy for organizing financial source documents, ensuring clarity and preparation for automation.
 
 ### Achievements
 - Successfully created unified data structures and schemas for various bills and reports.
@@ -31,4 +31,4 @@ The session aimed to develop a structured approach for parsing various types of 
 
 ### Pending Tasks
 - Further refinement of the data structures and validation rules for edge cases.
-- Implementation of [[automation]] processes for document classification and management.
+- Implementation of automation processes for document classification and management.

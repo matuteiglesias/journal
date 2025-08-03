@@ -1,6 +1,6 @@
 ---
 title: "Language and Music Assistance"
-tags: ['language support', 'music feedback', 'translation', 'pronunciation', 'collaboration']
+tags: ['Language Support', 'Music Feedback', 'Translation', 'Pronunciation', 'Collaboration']
 created: 2025-01-04
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-04 — Session: Language and Music Assistance
 
 **🕒 08:55–09:10**  
-**🏷️ Labels**: language support, music feedback, translation, pronunciation, collaboration  
+**🏷️ Labels**: Language Support, Music Feedback, Translation, Pronunciation, Collaboration  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 
@@ -20,7 +20,7 @@ The session aimed to provide comprehensive support in language and music-related
 - Assisted with Japanese subtitle files, offering translation and format conversion.
 - Provided text correction and analysis to enhance clarity and accuracy.
 - Supported Japanese pronunciation in singing, offering feedback to improve performance.
-- Engaged in user interaction to clarify [[communication]] and support language practice.
+- Engaged in user interaction to clarify communication and support language practice.
 - Offered encouragement and feedback for collaborative singing efforts.
 - Assisted with lyric alignment and provided feedback for music performance.
 - Translated requests for channel subscription and offered language assistance.

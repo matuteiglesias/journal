@@ -1,6 +1,6 @@
 ---
 title: "Developed Strategy for Electoral Process Modernization"
-tags: ['electoral process', 'modernization', 'digitalization', 'FCEN', 'strategy']
+tags: ['Electoral Process', 'Modernization', 'Digitalization', 'FCEN', 'Strategy']
 created: 2024-07-01
 publish: false
 ---
@@ -8,17 +8,17 @@ publish: false
 ## 📅 2024-07-01 — Session: Developed Strategy for Electoral Process Modernization
 
 **🕒 18:45–19:20**  
-**🏷️ Labels**: electoral process, modernization, digitalization, FCEN, strategy  
+**🏷️ Labels**: Electoral Process, Modernization, Digitalization, FCEN, Strategy  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to develop a comprehensive [[strategy]] for modernizing the electoral processes at the Faculty of Exact and Natural Sciences (FCEN).
+The session aimed to develop a comprehensive strategy for modernizing the electoral processes at the Faculty of Exact and Natural Sciences (FCEN).
 
 ### Key Activities
-- Outlined a procedural proposal for electoral process modernization, including a draft declaration by the Data Science Degree Commission.
-- Developed a meeting [[strategy]] for discussing electoral process modernization, with a focus on digitalization and strategic presentation.
+- Outlined a procedural proposal for electoral process modernization, including a draft declaration by the [[Data Science]] Degree Commission.
+- Developed a meeting strategy for discussing electoral process modernization, with a focus on digitalization and strategic presentation.
 - Created strategies for handling rejection and objections, including simplified proposal versions and conversation facilitation techniques.
 - Prepared responses to anticipated objections regarding the electoral modernization proposal to ensure comprehension and acceptance.
 - Detailed a plan of action for implementing an electronic voting system, covering steps from planning to post-election evaluation.

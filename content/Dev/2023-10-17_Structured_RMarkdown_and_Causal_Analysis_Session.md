@@ -1,6 +1,6 @@
 ---
 title: "Structured RMarkdown and Causal Analysis Session"
-tags: ['RMarkdown', 'Causal Analysis', 'Modular Design', 'Code Organization', 'Data Analysis']
+tags: ['Rmarkdown', 'Causal Analysis', 'Modular Design', 'Code Organization', 'Data Analysis']
 created: 2023-10-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-10-17 — Session: Structured RMarkdown and Causal Analysis Session
 
 **🕒 20:30–21:05**  
-**🏷️ Labels**: RMarkdown, Causal Analysis, Modular Design, Code Organization, Data Analysis  
+**🏷️ Labels**: Rmarkdown, Causal Analysis, Modular Design, Code Organization, Data Analysis  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

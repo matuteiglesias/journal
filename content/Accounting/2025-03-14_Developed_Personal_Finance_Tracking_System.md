@@ -1,6 +1,6 @@
 ---
 title: "Developed Personal Finance Tracking System"
-tags: ['personal finance', 'accounting', 'financial tracking', 'balance sheet', 'budgeting']
+tags: ['Personal Finance', 'Accounting', 'Financial Tracking', 'Balance Sheet', 'Budgeting']
 created: 2025-03-14
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-14 — Session: Developed Personal Finance Tracking System
 
 **🕒 20:15–20:50**  
-**🏷️ Labels**: personal finance, accounting, financial tracking, balance sheet, budgeting  
+**🏷️ Labels**: Personal Finance, Accounting, Financial Tracking, Balance Sheet, Budgeting  
 **📂 Project**: Accounting  
 **⭐ Priority**: MEDIUM  
 

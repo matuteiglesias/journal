@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Financial Data Pipeline"
-tags: ['financial_data', 'automation', 'data_pipeline', 'CSV', 'accounting']
+tags: ['Financial_Data', 'Automation', 'Data_Pipeline', 'CSV', 'Accounting']
 created: 2025-07-05
 publish: false
 ---
@@ -8,13 +8,13 @@ publish: false
 ## 📅 2025-07-05 — Session: Developed Comprehensive Financial Data Pipeline
 
 **🕒 15:20–17:45**  
-**🏷️ Labels**: financial_data, automation, data_pipeline, CSV, accounting  
+**🏷️ Labels**: Financial_Data, Automation, Data_Pipeline, CSV, Accounting  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to develop a comprehensive financial [[data processing]] pipeline, focusing on organizing, parsing, and managing financial transactions from various sources.
+The session aimed to develop a comprehensive financial data processing pipeline, focusing on organizing, parsing, and managing financial transactions from various sources.
 
 ### Key Activities
 - **Cash-Flow Grid Overview**: Reviewed best practices for maintaining a cash-flow grid and effective financial tracking.
@@ -24,10 +24,10 @@ The session aimed to develop a comprehensive financial [[data processing]] pipel
 - **Financial Movements Triage Sheet**: Created a structured overview of financial transactions for data ingestion into a master transactions table.
 - **EUR [[CSV]] to Raw Transactions**: Developed a playbook for transforming EUR [[CSV]] files into a format compatible with the `raw_transactions` table.
 - **Galicia and Mercado Pago Transactions Mapping**: Mapped transactions from Galicia and Mercado Pago into a universal schema, including ETL guides and sanity checks.
-- **Automated Financial Data Pipeline**: Outlined a 7-stage pipeline for transforming raw financial data into a structured format, including parsing, normalization, and enrichment.
+- **Automated Financial Data [[Pipeline]]**: Outlined a 7-stage pipeline for transforming raw financial data into a structured format, including parsing, normalization, and enrichment.
 
 ### Achievements
-- Successfully developed a comprehensive framework for financial [[data processing]], including detailed guides and templates for various transaction sources.
+- Successfully developed a comprehensive framework for financial data processing, including detailed guides and templates for various transaction sources.
 - Established a canonical column set for atomic transaction rows, ensuring consistency in financial reporting and analysis.
 
 ### Pending Tasks

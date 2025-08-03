@@ -1,6 +1,6 @@
 ---
 title: "Resolved Pandas and NumPy Compatibility Issues"
-tags: ['Pandas', 'NumPy', 'DataFrame', 'Troubleshooting', 'Python']
+tags: ['Pandas', 'Numpy', 'Dataframe', 'Troubleshooting', 'Python']
 created: 2024-08-26
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-08-26 — Session: Resolved Pandas and NumPy Compatibility Issues
 
 **🕒 22:20–22:45**  
-**🏷️ Labels**: Pandas, NumPy, DataFrame, Troubleshooting, Python  
+**🏷️ Labels**: Pandas, Numpy, Dataframe, Troubleshooting, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

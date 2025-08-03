@@ -1,6 +1,6 @@
 ---
 title: "Developed Structured Financial Tracking System"
-tags: ['finance', 'accounting', 'budgeting', 'personal finance', 'debt tracking']
+tags: ['Finance', 'Accounting', 'Budgeting', 'Personal Finance', 'Debt Tracking']
 created: 2025-03-14
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-14 — Session: Developed Structured Financial Tracking System
 
 **🕒 19:10–19:50**  
-**🏷️ Labels**: finance, accounting, budgeting, personal finance, debt tracking  
+**🏷️ Labels**: Finance, Accounting, Budgeting, Personal Finance, Debt Tracking  
 **📂 Project**: Accounting  
 **⭐ Priority**: MEDIUM  
 
@@ -20,7 +20,7 @@ The session aimed to develop a comprehensive framework for tracking personal fin
 - Created a holistic financial view template for tracking income, expenses, debts, and net wealth.
 - Proposed a refined system for tracking internal money transfers, emphasizing the differentiation between actual income and account movements.
 - Developed a structured approach to liabilities tracking, focusing on debt stock and debt flow.
-- Outlined a [[workflow]] for calculating net balance changes for accounts, ensuring accurate internal transaction accounting.
+- Outlined a workflow for calculating net balance changes for accounts, ensuring accurate internal transaction accounting.
 - Provided guidance on handling cash and Mercado Pago transactions to avoid double-counting.
 - Established rules for consistent financial tracking across multiple accounts.
 
@@ -30,4 +30,4 @@ The session aimed to develop a comprehensive framework for tracking personal fin
 
 ### Pending Tasks
 - Implementation of the proposed systems and templates.
-- Visualization of financial data through diagrams as suggested.
+- [[Visualization]] of financial data through diagrams as suggested.

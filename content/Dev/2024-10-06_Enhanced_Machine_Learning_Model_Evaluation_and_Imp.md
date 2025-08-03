@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Machine Learning Model Evaluation and Improvement"
-tags: ['Machine Learning', 'Python', 'Model Evaluation', 'DataFrame', 'Classifier']
+tags: ['Machine Learning', 'Python', 'Model Evaluation', 'Dataframe', 'Classifier']
 created: 2024-10-06
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2024-10-06 — Session: Enhanced Machine Learning Model Evaluation and Improvement
 
 **🕒 00:00–00:20**  
-**🏷️ Labels**: Machine Learning, Python, Model Evaluation, DataFrame, Classifier  
+**🏷️ Labels**: Machine Learning, Python, Model Evaluation, Dataframe, Classifier  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to address issues related to [[machine learning]] model evaluation and improvement, specifically focusing on handling input errors, classifier performance analysis, and improving email classification models.
+The session aimed to address issues related to machine learning model evaluation and improvement, specifically focusing on handling input errors, classifier performance analysis, and improving email classification models.
 
 ### Key Activities
 - **Fixing CountVectorizer Input Error:** Implemented a solution to combine multiple DataFrame columns into a single text input for vectorization using CountVectorizer.
@@ -27,7 +27,7 @@ The session aimed to address issues related to [[machine learning]] model evalua
 - Successfully resolved the CountVectorizer input error.
 - Provided actionable insights for classifier performance improvement.
 - Identified misclassified cases effectively using a [[Python]] script.
-- Enhanced handling of sparse matrices in [[machine learning]] workflows.
+- Enhanced handling of sparse matrices in machine learning workflows.
 
 ### Pending Tasks
 - Implement the proposed strategies for improving the email classification model.

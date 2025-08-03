@@ -1,6 +1,6 @@
 ---
 title: "Strategic Planning for Academic Publication"
-tags: ['academic', 'economics', 'publication', 'strategy', 'planning']
+tags: ['Academic', 'Economics', 'Publication', 'Strategy', 'Planning']
 created: 2024-06-05
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-06-05 — Session: Strategic Planning for Academic Publication
 
 **🕒 15:20–16:10**  
-**🏷️ Labels**: academic, economics, publication, strategy, planning  
+**🏷️ Labels**: Academic, Economics, Publication, Strategy, Planning  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

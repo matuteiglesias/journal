@@ -14,13 +14,13 @@ publish: true
 
 
 ### Session Goal:
-The session aimed to develop and refine a [[data processing]] pipeline for exporting `.jsonl` logs into an Obsidian vault, enhancing note organization and retrieval.
+The session aimed to develop and refine a data processing pipeline for exporting `.jsonl` logs into an Obsidian vault, enhancing note organization and retrieval.
 
 ### Key Activities:
 - Reviewed progress from the RAG App sprint, identifying deferred issues for future attention.
 - Updated the checklist for ongoing RAG app development tasks.
-- Verified file paths for JSONL logs and addressed [[error handling]] in the markdown export pipeline.
-- Planned the [[data processing]] pipeline to convert `.jsonl` logs into a structured Obsidian vault, including YAML metadata and backlinking strategies.
+- Verified file paths for JSONL logs and addressed error handling in the markdown export pipeline.
+- Planned the data processing pipeline to convert `.jsonl` logs into a structured Obsidian vault, including YAML metadata and backlinking strategies.
 - Implemented [[Python]] functions for loading and normalizing `.jsonl` chat logs.
 - Executed the second stage of the Obsidian export pipeline, focusing on exporting notes to Markdown files with YAML frontmatter.
 - Generated a checklist for exporting Markdown notes to Obsidian, suggesting next steps for improved organization.
@@ -28,7 +28,7 @@ The session aimed to develop and refine a [[data processing]] pipeline for expor
 
 ### Achievements:
 - Successfully outlined and partially implemented the pipeline for JSONL to Obsidian export.
-- Enhanced [[error handling]] and file path verification processes.
+- Enhanced error handling and file path verification processes.
 
 ### Pending Tasks:
 - Resolve the issue of the missing JSONL file to complete the export pipeline.

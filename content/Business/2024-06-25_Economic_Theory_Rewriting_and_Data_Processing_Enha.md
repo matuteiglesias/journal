@@ -1,6 +1,6 @@
 ---
 title: "Economic Theory Rewriting and Data Processing Enhancements"
-tags: ['teoría económica', 'optimalidad de Pareto', 'Python', 'Data Processing', 'Error Handling', 'Covariance']
+tags: ['Teoría Económica', 'Optimalidad De Pareto', 'Python', 'Data Processing', 'Error Handling', 'Covariance']
 created: 2024-06-25
 publish: false
 ---
@@ -8,13 +8,13 @@ publish: false
 ## 📅 2024-06-25 — Session: Economic Theory Rewriting and Data Processing Enhancements
 
 **🕒 13:20–15:40**  
-**🏷️ Labels**: teoría económica, optimalidad de Pareto, Python, Data Processing, Error Handling, Covariance  
+**🏷️ Labels**: Teoría Económica, Optimalidad De Pareto, Python, Data Processing, Error Handling, Covariance  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to explore innovative approaches to economic theory, particularly focusing on the Pareto optimality, and to enhance [[data processing]] capabilities using [[Python]].
+The session aimed to explore innovative approaches to economic theory, particularly focusing on the Pareto optimality, and to enhance data processing capabilities using [[Python]].
 
 ### Key Activities
 1. **Rewriting Economic Theory**: Explored innovative frameworks for rewriting economic theory with a focus on Pareto optimality, considering static and intertemporal contexts, and discussed implications of non-convex production functions.
@@ -26,11 +26,11 @@ The session aimed to explore innovative approaches to economic theory, particula
 
 ### Achievements
 - Developed innovative frameworks and structured approaches for economic theory and studies.
-- Enhanced [[Python]] scripts for [[data processing]], improving [[error handling]] and data manipulation.
+- Enhanced [[Python]] scripts for data processing, improving error handling and data manipulation.
 
 ### Pending Tasks
 - Further exploration of non-convex production functions in economic theory.
-- Continuous improvement of [[data processing]] scripts for robustness.
+- Continuous improvement of data processing scripts for robustness.
 
 ### Labels
 teoría económica, optimalidad de Pareto, [[Python]], [[Data Processing]], [[Error Handling]], Covariance

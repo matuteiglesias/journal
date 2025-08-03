@@ -1,6 +1,6 @@
 ---
 title: "Logo Design for Ciclo Todos"
-tags: ['logo design', 'Ciclo Todos', 'branding', 'diversity', 'inclusion']
+tags: ['Logo Design', 'Ciclo Todos', 'Branding', 'Diversity', 'Inclusion']
 created: 2024-08-08
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-08-08 — Session: Logo Design for Ciclo Todos
 
 **🕒 16:30–16:55**  
-**🏷️ Labels**: logo design, Ciclo Todos, branding, diversity, inclusion  
+**🏷️ Labels**: Logo Design, Ciclo Todos, Branding, Diversity, Inclusion  
 **📂 Project**: Branding  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Analysis and Strategy for Job Applications using ATS Data"
-tags: ['ATS', 'job applications', 'career development', 'data science', 'strategy']
+tags: ['ATS', 'Job Applications', 'Career Development', 'Data Science', 'Strategy']
 created: 2024-12-25
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-12-25 — Session: Analysis and Strategy for Job Applications using ATS Data
 
 **🕒 19:40–22:12**  
-**🏷️ Labels**: ATS, job applications, career development, data science, strategy  
+**🏷️ Labels**: ATS, Job Applications, Career Development, Data Science, Strategy  
 **📂 Project**: JobMarket  
 **⭐ Priority**: MEDIUM  
 
@@ -22,7 +22,7 @@ The session aimed to develop actionable insights from ATS data to refine job app
 - Analyzed high, medium, and low suitability roles to tailor application strategies based on strategic alignment and growth potential.
 - Compared strategic notes across suitability levels to provide tactical advice.
 - Developed tailored job application strategies, focusing on resume building and networking.
-- Analyzed 2024 [[data science]] job market trends to identify key skills and industry demands.
+- Analyzed 2024 data science job market trends to identify key skills and industry demands.
 - Optimized job search strategies for LinkedIn and ATS filtering.
 
 ### Achievements

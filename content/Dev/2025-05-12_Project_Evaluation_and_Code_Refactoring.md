@@ -1,6 +1,6 @@
 ---
 title: "Project Evaluation and Code Refactoring"
-tags: ['project evaluation', 'refactoring', 'modular architecture', 'education technology', 'Python']
+tags: ['Project Evaluation', 'Refactoring', 'Modular Architecture', 'Education Technology', 'Python']
 created: 2025-05-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-12 — Session: Project Evaluation and Code Refactoring
 
 **🕒 21:10–21:35**  
-**🏷️ Labels**: project evaluation, refactoring, modular architecture, education technology, Python  
+**🏷️ Labels**: Project Evaluation, Refactoring, Modular Architecture, Education Technology, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -30,10 +30,10 @@ The session aimed to evaluate and revitalize various software projects, focusing
 4. **Critical Assessment of `evaluator.py`**
    - Critiqued the file for architecture, logic repetition, and extensibility, offering actionable refactoring suggestions.
 
-5. **Refactoring `check.py` for Modular Architecture**
+5. **[[Refactoring]] `check.py` for Modular Architecture**
    - Identified structural issues and proposed a refactor plan to split the file into coherent modules.
 
-6. **Refactoring `main.py` for Modular Architecture**
+6. **[[Refactoring]] `main.py` for Modular Architecture**
    - Reviewed the file in a [[Flask]] application, suggesting a modular refactor to improve maintainability.
 
 ### Achievements

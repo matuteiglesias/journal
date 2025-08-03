@@ -1,6 +1,6 @@
 ---
 title: "Resolved Avahi and GStreamer Service Discovery Issues"
-tags: ['Avahi', 'GStreamer', 'Troubleshooting', 'Networking', 'Linux']
+tags: ['Avahi', 'Gstreamer', 'Troubleshooting', 'Networking', 'Linux']
 created: 2023-09-30
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-30 — Session: Resolved Avahi and GStreamer Service Discovery Issues
 
 **🕒 17:40–18:30**  
-**🏷️ Labels**: Avahi, GStreamer, Troubleshooting, Networking, Linux  
+**🏷️ Labels**: Avahi, Gstreamer, Troubleshooting, Networking, Linux  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

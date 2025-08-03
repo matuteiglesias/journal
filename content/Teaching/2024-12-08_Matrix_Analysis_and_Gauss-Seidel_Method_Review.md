@@ -1,6 +1,6 @@
 ---
 title: "Matrix Analysis and Gauss-Seidel Method Review"
-tags: ['matrix analysis', 'Gauss-Seidel', 'convergence', 'linear algebra']
+tags: ['Matrix Analysis', 'Gauss-Seidel', 'Convergence', 'Linear Algebra']
 created: 2024-12-08
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-08 — Session: Matrix Analysis and Gauss-Seidel Method Review
 
 **🕒 15:05–15:15**  
-**🏷️ Labels**: matrix analysis, Gauss-Seidel, convergence, linear algebra  
+**🏷️ Labels**: Matrix Analysis, Gauss-Seidel, Convergence, Linear Algebra  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

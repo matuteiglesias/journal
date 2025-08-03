@@ -1,6 +1,6 @@
 ---
 title: "Refactored AI and Text Processing Architecture"
-tags: ['AI', 'refactoring', 'modularity', 'class design', 'data processing']
+tags: ['AI', 'Refactoring', 'Modularity', 'Class Design', 'Data Processing']
 created: 2025-02-22
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-22 — Session: Refactored AI and Text Processing Architecture
 
 **🕒 21:00–23:55**  
-**🏷️ Labels**: AI, refactoring, modularity, class design, data processing  
+**🏷️ Labels**: AI, Refactoring, Modularity, Class Design, Data Processing  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -36,4 +36,4 @@ The goal of this session was to refactor the [[AI]] and text processing architec
 
 ### Pending Tasks
 - Further enhancements to the modular [[AI]] processing system for improved flexibility and scalability.
-- Continue [[debugging]] and refining the `chunks_info` input for [[AI]] function execution.
+- Continue debugging and refining the `chunks_info` input for [[AI]] function execution.

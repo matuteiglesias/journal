@@ -1,6 +1,6 @@
 ---
 title: "Reviewed Economic Data Repository and Summarized Workday"
-tags: ['economic data', 'repository review', 'workday summary']
+tags: ['Economic Data', 'Repository Review', 'Workday Summary']
 created: 2025-05-29
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-29 — Session: Reviewed Economic Data Repository and Summarized Workday
 
 **🕒 04:20–05:40**  
-**🏷️ Labels**: economic data, repository review, workday summary  
+**🏷️ Labels**: Economic Data, Repository Review, Workday Summary  
 **📂 Project**: Media  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Dataset Filename Conventions and Paths"
-tags: ['filenames', 'datasets', 'data_management', 'automation', 'Argentina']
+tags: ['Filenames', 'Datasets', 'Data_Management', 'Automation', 'Argentina']
 created: 2023-10-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-10-28 — Session: Enhanced Dataset Filename Conventions and Paths
 
 **🕒 23:00–23:30**  
-**🏷️ Labels**: filenames, datasets, data_management, automation, Argentina  
+**🏷️ Labels**: Filenames, Datasets, Data_Management, Automation, Argentina  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

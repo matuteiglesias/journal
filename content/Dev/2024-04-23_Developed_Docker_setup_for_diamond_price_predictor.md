@@ -14,14 +14,14 @@ publish: true
 
 
 ### Session Goal
-The session aimed to set up a Docker environment for a diamond price prediction application, leveraging [[machine learning]] models within a [[Flask]] web application.
+The session aimed to set up a Docker environment for a diamond price prediction application, leveraging machine learning models within a [[Flask]] web application.
 
 ### Key Activities
 - Reviewed Git push history to understand past changes and ensure the latest updates are used.
-- Planned a sophisticated model for predicting diamond prices, which involves [[data analysis]] and predictive modeling.
+- Planned a sophisticated model for predicting diamond prices, which involves data analysis and predictive modeling.
 - Conceptualized a web application using [[Flask]] for real-time diamond price prediction, emphasizing user interaction.
 - Executed Docker setup instructions, including cloning the repository, building a Docker image, and running the application.
-- Cloned the `localdev` branch from the [[GitHub]] repository to ensure the correct environment setup.
+- Cloned the `localdev` branch from the GitHub repository to ensure the correct environment setup.
 - Organized project files and directories, providing detailed usage scenarios for effective application interaction.
 
 ### Achievements

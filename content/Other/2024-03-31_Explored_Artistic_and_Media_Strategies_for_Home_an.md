@@ -1,6 +1,6 @@
 ---
 title: "Explored Artistic and Media Strategies for Home and PR"
-tags: ['artwork', 'backyard', 'media relations', 'home improvement']
+tags: ['Artwork', 'Backyard', 'Media Relations', 'Home Improvement']
 created: 2024-03-31
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-03-31 — Session: Explored Artistic and Media Strategies for Home and PR
 
 **🕒 17:10–18:40**  
-**🏷️ Labels**: artwork, backyard, media relations, home improvement  
+**🏷️ Labels**: Artwork, Backyard, Media Relations, Home Improvement  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 
@@ -30,4 +30,4 @@ The session aimed to explore creative strategies for enhancing home decor throug
 
 **Pending Tasks:**
 - Implement the discussed mural designs in a real backyard setting.
-- Initiate contact with journalists as per the outlined media relations [[strategy]].
+- Initiate contact with journalists as per the outlined media relations strategy.

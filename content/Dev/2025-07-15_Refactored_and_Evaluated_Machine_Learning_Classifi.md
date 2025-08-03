@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary objective of this session was to refine, implement, and evaluate various [[machine learning]] classifiers to improve their performance, particularly focusing on handling class imbalance and optimizing model selection.
+The primary objective of this session was to refine, implement, and evaluate various machine learning classifiers to improve their performance, particularly focusing on handling class imbalance and optimizing model selection.
 
 ### Key Activities
 - Refined the `fit_model` function to include an evaluation integration, allowing for modular evaluation across different model types (classification and regression).
@@ -28,7 +28,7 @@ The primary objective of this session was to refine, implement, and evaluate var
 ### Achievements
 - Successfully integrated evaluation functions into the model fitting process.
 - Improved understanding of class imbalance impacts on model performance and identified strategies to mitigate these issues.
-- Identified key areas for model improvement and [[optimization]], particularly through the use of advanced ensemble methods.
+- Identified key areas for model improvement and optimization, particularly through the use of advanced ensemble methods.
 
 ### Pending Tasks
 - Further tuning of gradient boosting models to ensure optimal performance.

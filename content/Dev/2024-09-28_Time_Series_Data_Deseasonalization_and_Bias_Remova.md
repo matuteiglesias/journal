@@ -1,6 +1,6 @@
 ---
 title: "Time Series Data Deseasonalization and Bias Removal"
-tags: ['time series', 'deseasonalization', 'bias removal', 'Python', 'data analysis']
+tags: ['Time Series', 'Deseasonalization', 'Bias Removal', 'Python', 'Data Analysis']
 created: 2024-09-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-28 — Session: Time Series Data Deseasonalization and Bias Removal
 
 **🕒 20:30–20:55**  
-**🏷️ Labels**: time series, deseasonalization, bias removal, Python, data analysis  
+**🏷️ Labels**: Time Series, Deseasonalization, Bias Removal, Python, Data Analysis  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

@@ -34,4 +34,4 @@ The goal of this session was to set up and implement the Measure Of Software Sim
 
 ### Pending Tasks
 - Further analysis of the MOSS execution results to refine the process and ensure robustness.
-- Implement additional [[error handling]] and reporting mechanisms as suggested.
+- Implement additional error handling and reporting mechanisms as suggested.

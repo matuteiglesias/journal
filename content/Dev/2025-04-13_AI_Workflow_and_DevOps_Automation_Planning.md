@@ -1,6 +1,6 @@
 ---
 title: "AI Workflow and DevOps Automation Planning"
-tags: ['AI', 'Automation', 'DevOps', 'Python', 'Workflows']
+tags: ['AI', 'Automation', 'Devops', 'Python', 'Workflows']
 created: 2025-04-13
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-04-13 — Session: AI Workflow and DevOps Automation Planning
 
 **🕒 09:00–09:15**  
-**🏷️ Labels**: AI, Automation, DevOps, Python, Workflows  
+**🏷️ Labels**: AI, Automation, Devops, Python, Workflows  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to explore and plan the transformation of standalone [[Python]] scripts into orchestrated [[AI]] workflows, focusing on [[automation]] and modular design.
+The session aimed to explore and plan the transformation of standalone [[Python]] scripts into orchestrated [[AI]] workflows, focusing on automation and modular design.
 
 ### Key Activities
 - Discussed the conversion of [[Python]] scripts into [[AI]] workflows, detailing components and [[AI]] assistance.
@@ -26,7 +26,7 @@ The session aimed to explore and plan the transformation of standalone [[Python]
 
 ### Achievements
 - Established a clear plan for transforming [[Python]] scripts into [[AI]] workflows.
-- Conceptualized "Flowman" for DevOps [[automation]].
+- Conceptualized "Flowman" for DevOps automation.
 - Proposed modular designs for content indexing and text classification.
 
 ### Pending Tasks

@@ -1,6 +1,6 @@
 ---
 title: "Focused on Life Maintenance Activities"
-tags: ['life maintenance', 'focus', 'personal well-being', 'mental clarity']
+tags: ['Life Maintenance', 'Focus', 'Personal Well-Being', 'Mental Clarity']
 created: 2025-06-29
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-29 — Session: Focused on Life Maintenance Activities
 
 **🕒 20:10–20:25**  
-**🏷️ Labels**: life maintenance, focus, personal well-being, mental clarity  
+**🏷️ Labels**: Life Maintenance, Focus, Personal Well-Being, Mental Clarity  
 **📂 Project**: Health  
 **⭐ Priority**: LOW  
 

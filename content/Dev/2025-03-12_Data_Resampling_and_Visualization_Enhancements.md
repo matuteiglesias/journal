@@ -18,9 +18,9 @@ The session aimed to enhance data handling and visualization techniques in [[Pyt
 
 ### Key Activities
 - **Preserving Time Index in [[Pandas]] [[CSV]] Operations**: Implemented strategies to ensure time index preservation when saving/loading DataFrames, recommending Parquet for performance.
-- **Aesthetic Guidelines for Financial Visualization**: Developed guidelines for effective financial [[data visualization]] using line plots and clear labeling.
+- **Aesthetic Guidelines for Financial [[Visualization]]**: Developed guidelines for effective financial data visualization using line plots and clear labeling.
 - **Fixing `PeriodIndex` Issues in [[Matplotlib]]**: Addressed `PeriodIndex` plotting issues by converting to `DatetimeIndex`.
-- **Understanding Retained Earnings and Cumulative Net Profit**: Explored financial concepts and their application in [[data analysis]].
+- **Understanding Retained Earnings and Cumulative Net Profit**: Explored financial concepts and their application in data analysis.
 - **Fixing Resampling for Cumulative Data**: Improved resampling techniques to preserve cumulative data integrity.
 - **Fixing Weekly Resampling Mismatch**: Ensured consistent weekly resampling in financial datasets.
 - **Avoiding NaNs with `.reindex()`**: Provided solutions to prevent null values during data alignment.

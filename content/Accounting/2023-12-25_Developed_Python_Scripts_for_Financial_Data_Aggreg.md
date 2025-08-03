@@ -18,7 +18,7 @@ The primary goal of this session was to develop and refine [[Python]] scripts fo
 
 ### Key Activities
 - **Data Formatting**: Defined a specific format for expense data to facilitate analysis and grouping using [[Python]].
-- **Data Aggregation**: Developed [[Python]] scripts to group expenses by month and category, leveraging the [[Pandas]] library for [[data processing]].
+- **Data Aggregation**: Developed [[Python]] scripts to group expenses by month and category, leveraging the [[Pandas]] library for data processing.
 - **Data Pivoting**: Utilized [[Pandas]] to pivot DataFrames, consolidating categories into columns and aggregating values by year and month.
 - **Debt Accounting**: Proposed a system for recording family debts and payments, transforming payments into debts and establishing a detailed recording system.
 - **[[Error Handling]]**: Identified and addressed an error related to mismatched list lengths in a dictionary used for creating a [[Pandas]] DataFrame, ensuring uniformity before recalculating year-end balances.

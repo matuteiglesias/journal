@@ -1,6 +1,6 @@
 ---
 title: "Database Modeling Exercises"
-tags: ['database modeling', 'ERD', 'SQL', 'education', 'relational model']
+tags: ['Database Modeling', 'ERD', 'SQL', 'Education', 'Relational Model']
 created: 2025-03-10
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-10 — Session: Database Modeling Exercises
 
 **🕒 10:00–10:50**  
-**🏷️ Labels**: database modeling, ERD, SQL, education, relational model  
+**🏷️ Labels**: Database Modeling, ERD, SQL, Education, Relational Model  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
@@ -28,4 +28,4 @@ The session aimed to enhance skills in database modeling, focusing on designing 
 - Practiced SQL queries to manage and analyze data effectively.
 
 ### Pending Tasks
-- Further practice in complex SQL queries and [[optimization]] techniques.
+- Further practice in complex SQL queries and optimization techniques.

@@ -1,6 +1,6 @@
 ---
 title: "Resolved OAuth and Firebase integration issues"
-tags: ['OAuth', 'Firebase', 'Flask', 'Google Cloud', 'Firestore']
+tags: ['Oauth', 'Firebase', 'Flask', 'Google Cloud', 'Firestore']
 created: 2024-03-05
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-03-05 — Session: Resolved OAuth and Firebase integration issues
 
 **🕒 18:50–19:45**  
-**🏷️ Labels**: OAuth, Firebase, Flask, Google Cloud, Firestore  
+**🏷️ Labels**: Oauth, Firebase, Flask, Google Cloud, Firestore  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

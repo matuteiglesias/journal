@@ -1,6 +1,6 @@
 ---
 title: "Algorithm Curriculum Enhancement and Exam Design"
-tags: ['algorithms', 'curriculum development', 'exam design', 'DFS', 'BFS', 'Divide and Conquer']
+tags: ['Algorithms', 'Curriculum Development', 'Exam Design', 'DFS', 'BFS', 'Divide And Conquer']
 created: 2024-05-05
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-05-05 — Session: Algorithm Curriculum Enhancement and Exam Design
 
 **🕒 13:10–16:45**  
-**🏷️ Labels**: algorithms, curriculum development, exam design, DFS, BFS, Divide and Conquer  
+**🏷️ Labels**: Algorithms, Curriculum Development, Exam Design, DFS, BFS, Divide And Conquer  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
@@ -20,7 +20,7 @@ The session aimed to enhance the algorithm curriculum by organizing exercises th
 - Thematic grouping of algorithm exercises into categories such as Backtracking, Dynamic Programming, Graph Traversal, and Divide and Conquer.
 - Identification of blind spots in the current curriculum and suggestions for new exercises.
 - Creation of multiple-choice questions on Greedy and String Algorithms.
-- Development of exam questions for Algorithm Design and Graph Theory.
+- [[Development]] of exam questions for Algorithm Design and Graph Theory.
 - Structuring exams focusing on DFS and BFS techniques.
 - Designing standardized test questions and exercises for DFS and BFS.
 - Proposal for a new exam schema covering Graph Algorithms, Divide and Conquer, and Algorithmic Techniques.

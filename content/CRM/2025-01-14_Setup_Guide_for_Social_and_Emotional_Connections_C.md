@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to create a comprehensive setup guide for a [[CRM]] agent focused on enhancing social and emotional connections.
+The goal of this session was to create a comprehensive setup guide for a CRM agent focused on enhancing social and emotional connections.
 
 ### Key Activities
 - Organized contacts for effective management.
@@ -23,7 +23,7 @@ The goal of this session was to create a comprehensive setup guide for a [[CRM]]
 - Implemented tracking mechanisms for interactions.
 
 ### Achievements
-Successfully outlined actionable steps for setting up a [[CRM]] agent that prioritizes social and emotional connections, ensuring a personalized approach to contact management.
+Successfully outlined actionable steps for setting up a CRM agent that prioritizes social and emotional connections, ensuring a personalized approach to contact management.
 
 ### Pending Tasks
 None identified.

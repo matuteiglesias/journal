@@ -33,9 +33,9 @@ The session aimed to manage and process data related to the University of Buenos
 
 ### Achievements
 - Successfully filtered and managed university-related data.
-- Enhanced functionality and [[error handling]] in email and Telegram processing.
+- Enhanced functionality and error handling in email and Telegram processing.
 - Improved testing practices and resource management in [[Python]] scripts.
 
 ### Pending Tasks
-- Further testing and [[optimization]] of email and Telegram functions may be required.
+- Further testing and optimization of email and Telegram functions may be required.
 - Continuous monitoring of database connection stability.

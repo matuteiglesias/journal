@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Cash Flow and Liability Management"
-tags: ['cash flow', 'financial management', 'liabilities', 'family business', 'strategic planning']
+tags: ['Cash Flow', 'Financial Management', 'Liabilities', 'Family Business', 'Strategic Planning']
 created: 2024-12-14
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-12-14 — Session: Analyzed Cash Flow and Liability Management
 
 **🕒 01:05–02:10**  
-**🏷️ Labels**: cash flow, financial management, liabilities, family business, strategic planning  
+**🏷️ Labels**: Cash Flow, Financial Management, Liabilities, Family Business, Strategic Planning  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Automated Job Processing and Briefing System Setup"
-tags: ['automation', 'python', 'scheduling', 'systemd', 'briefing']
+tags: ['Automation', 'Python', 'Scheduling', 'Systemd', 'Briefing']
 created: 2024-12-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-17 — Session: Automated Job Processing and Briefing System Setup
 
 **🕒 19:45–21:15**  
-**🏷️ Labels**: automation, python, scheduling, systemd, briefing  
+**🏷️ Labels**: Automation, Python, Scheduling, Systemd, Briefing  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Constructed Financial Statements and Analyzed Equity"
-tags: ['financial statements', 'equity analysis', 'Python', 'property management', 'family finance']
+tags: ['Financial Statements', 'Equity Analysis', 'Python', 'Property Management', 'Family Finance']
 created: 2024-11-23
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-23 — Session: Constructed Financial Statements and Analyzed Equity
 
 **🕒 00:05–01:40**  
-**🏷️ Labels**: financial statements, equity analysis, Python, property management, family finance  
+**🏷️ Labels**: Financial Statements, Equity Analysis, Python, Property Management, Family Finance  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -23,7 +23,7 @@ The goal of this session was to construct financial statements, specifically the
 4. **Equity Structuring**: Explored approaches to conceptualizing equity in property management, considering both operational equity and property valuations.
 5. **Date Handling in [[Python]]**: Corrected date format directives and handled date parsing issues in [[Python]].
 6. **Equity Analysis**: Analyzed equity trends over time, assessing operational health and liquidity risks, and provided recommendations.
-7. **Family Finance Strategy**: Developed a [[strategy]] for discussing family fund management with a parent, focusing on financial stability.
+7. **Family Finance [[Strategy]]**: Developed a strategy for discussing family fund management with a parent, focusing on financial stability.
 
 ### Achievements
 - Successfully created templates for financial statements.
@@ -33,4 +33,4 @@ The goal of this session was to construct financial statements, specifically the
 
 ### Pending Tasks
 - Implement the recommendations for addressing negative equity.
-- Further refine the [[strategy]] for family finance discussions.
+- Further refine the strategy for family finance discussions.

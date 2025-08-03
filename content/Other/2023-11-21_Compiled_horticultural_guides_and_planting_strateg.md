@@ -1,6 +1,6 @@
 ---
 title: "Compiled horticultural guides and planting strategies"
-tags: ['horticulture', 'plant care', 'gardening', 'Argentina', 'plant propagation']
+tags: ['Horticulture', 'Plant Care', 'Gardening', 'Argentina', 'Plant Propagation']
 created: 2023-11-21
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-11-21 — Session: Compiled horticultural guides and planting strategies
 
 **🕒 15:00–15:50**  
-**🏷️ Labels**: horticulture, plant care, gardening, Argentina, plant propagation  
+**🏷️ Labels**: Horticulture, Plant Care, Gardening, Argentina, Plant Propagation  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

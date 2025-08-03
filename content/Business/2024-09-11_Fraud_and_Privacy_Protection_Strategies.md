@@ -1,6 +1,6 @@
 ---
 title: "Fraud and Privacy Protection Strategies"
-tags: ['fraud prevention', 'identity theft', 'privacy protection', 'cybersecurity', 'investment management']
+tags: ['Fraud Prevention', 'Identity Theft', 'Privacy Protection', 'Cybersecurity', 'Investment Management']
 created: 2024-09-11
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-09-11 — Session: Fraud and Privacy Protection Strategies
 
 **🕒 01:50–03:00**  
-**🏷️ Labels**: fraud prevention, identity theft, privacy protection, cybersecurity, investment management  
+**🏷️ Labels**: Fraud Prevention, Identity Theft, Privacy Protection, Cybersecurity, Investment Management  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

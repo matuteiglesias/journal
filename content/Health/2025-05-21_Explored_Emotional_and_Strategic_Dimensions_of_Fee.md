@@ -1,6 +1,6 @@
 ---
 title: "Explored Emotional and Strategic Dimensions of Feeling Blocked"
-tags: ['emotions', 'strategy', 'dream analysis', 'cognitive processing', 'self-reflection']
+tags: ['Emotions', 'Strategy', 'Dream Analysis', 'Cognitive Processing', 'Self-Reflection']
 created: 2025-05-21
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-05-21 — Session: Explored Emotional and Strategic Dimensions of Feeling Blocked
 
 **🕒 16:30–17:10**  
-**🏷️ Labels**: emotions, strategy, dream analysis, cognitive processing, self-reflection  
+**🏷️ Labels**: Emotions, Strategy, Dream Analysis, Cognitive Processing, Self-Reflection  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 
@@ -26,4 +26,4 @@ The session aimed to explore emotional and strategic dimensions related to feeli
 - Identified actionable steps for cognitive structuring and emotional processing.
 
 ### Pending Tasks
-- Implement the identified actionable steps for emotional processing and [[strategic planning]].
+- Implement the identified actionable steps for emotional processing and strategic planning.

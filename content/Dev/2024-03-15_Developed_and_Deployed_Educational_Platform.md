@@ -30,5 +30,5 @@ The session aimed to advance the development and deployment of an educational pl
 - Enhanced the educational platform's functionality and user interaction capabilities.
 
 ### Pending Tasks
-- Further testing and [[optimization]] of the educational platform post-deployment.
+- Further testing and optimization of the educational platform post-deployment.
 - Continuous monitoring and feedback integration for ongoing improvements.

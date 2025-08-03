@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis and Regression Modeling"
-tags: ['data analysis', 'regression modeling', 'economic forecasting', 'poverty estimation', 'Python']
+tags: ['Data Analysis', 'Regression Modeling', 'Economic Forecasting', 'Poverty Estimation', 'Python']
 created: 2024-09-28
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2024-09-28 — Session: Data Analysis and Regression Modeling
 
 **🕒 05:30–06:50**  
-**🏷️ Labels**: data analysis, regression modeling, economic forecasting, poverty estimation, Python  
+**🏷️ Labels**: Data Analysis, Regression Modeling, Economic Forecasting, Poverty Estimation, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The primary objective of this session was to perform [[data analysis]] and regression modeling to predict future economic indicators and estimate poverty levels using linear regression techniques.
+The primary objective of this session was to perform data analysis and regression modeling to predict future economic indicators and estimate poverty levels using linear regression techniques.
 
 ### Key Activities
 - **Linear Extrapolation of Economic Data**: Implemented linear regression models to predict future values of Canasta Básica Alimentaria, IPC, and RIPTE datasets using the last four months of data.

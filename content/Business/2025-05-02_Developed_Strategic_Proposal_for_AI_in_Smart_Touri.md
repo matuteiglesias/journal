@@ -32,4 +32,4 @@ The session aimed to develop a strategic proposal for implementing [[AI]] in sma
 - Further refinement and client feedback on proposals and quotations.
 
 ### Labels
-[[AI]], Smart Tourism, Proposal, Development, Quotation
+[[AI]], Smart Tourism, Proposal, [[Development]], Quotation

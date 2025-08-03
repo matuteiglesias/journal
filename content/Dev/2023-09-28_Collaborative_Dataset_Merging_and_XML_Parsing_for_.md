@@ -1,6 +1,6 @@
 ---
 title: "Collaborative Dataset Merging and XML Parsing for Talks"
-tags: ['XML Parsing', 'Data Merging', 'Graph Creation', 'Python', 'Data Conversion']
+tags: ['Xml Parsing', 'Data Merging', 'Graph Creation', 'Python', 'Data Conversion']
 created: 2023-09-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-28 — Session: Collaborative Dataset Merging and XML Parsing for Talks
 
 **🕒 14:45–15:35**  
-**🏷️ Labels**: XML Parsing, Data Merging, Graph Creation, Python, Data Conversion  
+**🏷️ Labels**: Xml Parsing, Data Merging, Graph Creation, Python, Data Conversion  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -27,8 +27,8 @@ The session aimed to collaborate on merging datasets and creating graphs for upc
 
 ### Achievements
 - Successfully merged datasets and created preliminary graphs for talks.
-- Developed and tested [[Python]] scripts for XML [[data processing]] and [[error handling]].
-- Established a [[strategy]] for converting XML data into [[CSV]] and [[JSON]] formats.
+- Developed and tested [[Python]] scripts for XML data processing and error handling.
+- Established a strategy for converting XML data into [[CSV]] and [[JSON]] formats.
 
 ### Pending Tasks
 - Finalize and validate the graphs for the upcoming talks.

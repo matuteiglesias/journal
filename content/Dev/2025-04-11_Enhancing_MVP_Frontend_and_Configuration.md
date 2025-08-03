@@ -1,6 +1,6 @@
 ---
 title: "Enhancing MVP Frontend and Configuration"
-tags: ['Next.js', 'TypeScript', 'Frontend', 'MVP', 'CORS', 'Environment Variables']
+tags: ['Next.Js', 'Typescript', 'Frontend', 'MVP', 'CORS', 'Environment Variables']
 created: 2025-04-11
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-11 — Session: Enhancing MVP Frontend and Configuration
 
 **🕒 16:00–16:35**  
-**🏷️ Labels**: Next.js, TypeScript, Frontend, MVP, CORS, Environment Variables  
+**🏷️ Labels**: Next.Js, Typescript, Frontend, MVP, CORS, Environment Variables  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

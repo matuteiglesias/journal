@@ -1,6 +1,6 @@
 ---
 title: "Email Network Analysis and SQL Optimization"
-tags: ['Email Network', 'SQL Optimization', 'Firefox Setup', 'NetworkX', 'Data Analysis']
+tags: ['Email Network', 'Sql Optimization', 'Firefox Setup', 'Networkx', 'Data Analysis']
 created: 2025-03-01
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-01 — Session: Email Network Analysis and SQL Optimization
 
 **🕒 00:25–01:30**  
-**🏷️ Labels**: Email Network, SQL Optimization, Firefox Setup, NetworkX, Data Analysis  
+**🏷️ Labels**: Email Network, Sql Optimization, Firefox Setup, Networkx, Data Analysis  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -24,13 +24,13 @@ The session aimed to set up Gmail as the default email handler in Firefox, perfo
    - Filtered the graph to retain only bidirectional communications, removing one-way edges and isolated nodes.
    - Refined graph visualization by removing self-loops and improving layout parameters.
    - Extracted edges from the bidirectional graph into a pandas DataFrame.
-3. **SQL Optimization**:
+3. **SQL [[Optimization]]**:
    - Optimized SQL query performance by focusing on batch inserts, filtering rows, indexing, and maintenance commands for PostgreSQL.
    - Implemented a batch insert SQL approach for email details, using both loop-based and CTE methods.
 
 ### Achievements
 - Successfully configured Gmail as the default email handler in Firefox.
-- Completed the creation and visualization of a directed email network and refined it for bidirectional [[communication]] analysis.
+- Completed the creation and visualization of a directed email network and refined it for bidirectional communication analysis.
 - Enhanced SQL query performance and implemented efficient batch insert techniques.
 
 ### Pending Tasks

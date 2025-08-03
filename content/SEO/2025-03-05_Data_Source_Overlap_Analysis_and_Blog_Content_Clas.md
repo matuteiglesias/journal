@@ -18,8 +18,8 @@ The session aimed to diagnose overlaps across various data sources and to classi
 
 ### Key Activities
 - Conducted an analysis of overlaps across data sources, focusing on student and faculty engagement and electoral participation.
-- Classified blog ideas and topics into eight established categories, covering areas such as [[AI]], [[data science]], [[automation]], web scraping, and more.
-- Planned next steps for blog series organization, including content [[strategy]] refinement and [[workflow]] [[automation]].
+- Classified blog ideas and topics into eight established categories, covering areas such as [[AI]], data science, automation, web scraping, and more.
+- Planned next steps for blog series organization, including content strategy refinement and workflow automation.
 
 ### Achievements
 - Identified significant patterns in data overlaps and provided recommendations for improving data categorization and validation.
@@ -27,11 +27,11 @@ The session aimed to diagnose overlaps across various data sources and to classi
 
 ### Pending Tasks
 - Implement recommendations for data categorization improvements.
-- Initiate writing sessions and refine content [[strategy]] for the blog series.
+- Initiate writing sessions and refine content strategy for the blog series.
 
 ### Tags
 - [[Data Analysis]]
 - Blog Classification
 - [[AI]]
 - [[Automation]]
-- Content Strategy
+- Content [[Strategy]]

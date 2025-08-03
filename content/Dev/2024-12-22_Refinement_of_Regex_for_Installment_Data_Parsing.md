@@ -1,6 +1,6 @@
 ---
 title: "Refinement of Regex for Installment Data Parsing"
-tags: ['regex', 'data parsing', 'debugging', 'Cuota', 'Importe']
+tags: ['Regex', 'Data Parsing', 'Debugging', 'Cuota', 'Importe']
 created: 2024-12-22
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-22 — Session: Refinement of Regex for Installment Data Parsing
 
 **🕒 22:15–22:35**  
-**🏷️ Labels**: regex, data parsing, debugging, Cuota, Importe  
+**🏷️ Labels**: Regex, Data Parsing, Debugging, Cuota, Importe  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

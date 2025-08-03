@@ -1,6 +1,6 @@
 ---
 title: "Implemented and Verified PDF Text Chunking Tool"
-tags: ['PDF Processing', 'Python', 'Automation', 'Text Chunking']
+tags: ['Pdf Processing', 'Python', 'Automation', 'Text Chunking']
 created: 2025-01-27
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-01-27 — Session: Implemented and Verified PDF Text Chunking Tool
 
 **🕒 21:40–22:25**  
-**🏷️ Labels**: PDF Processing, Python, Automation, Text Chunking  
+**🏷️ Labels**: Pdf Processing, Python, Automation, Text Chunking  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

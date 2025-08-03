@@ -1,6 +1,6 @@
 ---
 title: "Implemented Data Pipelines for Bank CSV Processing"
-tags: ['data encoding', 'CSV processing', 'Python', 'data pipeline', 'bank data']
+tags: ['Data Encoding', 'Csv Processing', 'Python', 'Data Pipeline', 'Bank Data']
 created: 2025-07-05
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-07-05 — Session: Implemented Data Pipelines for Bank CSV Processing
 
 **🕒 20:45–21:00**  
-**🏷️ Labels**: data encoding, CSV processing, Python, data pipeline, bank data  
+**🏷️ Labels**: Data Encoding, Csv Processing, Python, Data Pipeline, Bank Data  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -25,7 +25,7 @@ The main objective was to resolve file encoding issues and implement robust data
 
 **Achievements:**
 - Resolved encoding issues and established a reliable method for reading [[CSV]] files.
-- Created and validated data pipelines for bank [[data processing]], enhancing data quality and readiness for analysis.
+- Created and validated data pipelines for bank data processing, enhancing data quality and readiness for analysis.
 
 **Pending Tasks:**
 - Review the processed Galicia data before integrating it into the [[CSV]] saving pipeline.

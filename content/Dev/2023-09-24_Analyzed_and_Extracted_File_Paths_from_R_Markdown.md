@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Extracted File Paths from R Markdown"
-tags: ['RMarkdown', 'file analysis', 'CSV extraction', 'file management']
+tags: ['Rmarkdown', 'File Analysis', 'Csv Extraction', 'File Management']
 created: 2023-09-24
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-24 — Session: Analyzed and Extracted File Paths from R Markdown
 
 **🕒 00:45–01:00**  
-**🏷️ Labels**: RMarkdown, file analysis, CSV extraction, file management  
+**🏷️ Labels**: Rmarkdown, File Analysis, Csv Extraction, File Management  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

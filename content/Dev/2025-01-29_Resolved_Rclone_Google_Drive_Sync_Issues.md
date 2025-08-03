@@ -17,7 +17,7 @@ publish: true
 The session aimed to diagnose and resolve synchronization issues between local files and Google Drive using Rclone.
 
 ### Key Activities
-- **[[Troubleshooting]] Rclone Sync Issues**: Conducted a comprehensive troubleshooting process for Rclone synchronization issues with Google Drive, including configuration checks, permission settings, and [[automation]] tips.
+- **[[Troubleshooting]] Rclone Sync Issues**: Conducted a comprehensive troubleshooting process for Rclone synchronization issues with Google Drive, including configuration checks, permission settings, and automation tips.
 - **Diagnosing and Fixing Sync Problems**: Diagnosed issues with Rclone not detecting Google Drive contents, involving configuration checks, remote name verification, service account permissions, and [[API]] limits.
 - **Syncing Local Content**: Executed steps to sync local content from `~/RAG_Sync` to Google Drive, including a dry-run check, actual sync command, verification of the sync, and optional auto-sync setup via cron job.
 - **[[Debugging]] File Visibility**: Addressed file visibility issues in Google Drive, checking for existence, ownership, refreshing indexing, and handling orphaned files.
@@ -25,7 +25,7 @@ The session aimed to diagnose and resolve synchronization issues between local f
 
 ### Achievements
 - Successfully resolved synchronization issues between local files and Google Drive using Rclone.
-- Implemented a robust troubleshooting and [[debugging]] process for future sync issues.
+- Implemented a robust troubleshooting and debugging process for future sync issues.
 
 ### Pending Tasks
 - Consider setting up automated syncs using cron jobs for regular updates.

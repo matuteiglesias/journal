@@ -1,6 +1,6 @@
 ---
 title: "AI Architecture and Agent Development"
-tags: ['AI Architecture', 'LLMAdapter', 'Jinja2', 'Email Processing', 'Automation']
+tags: ['Ai Architecture', 'Llmadapter', 'Jinja2', 'Email Processing', 'Automation']
 created: 2025-04-27
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-27 — Session: AI Architecture and Agent Development
 
 **🕒 02:35–03:55**  
-**🏷️ Labels**: AI Architecture, LLMAdapter, Jinja2, Email Processing, Automation  
+**🏷️ Labels**: Ai Architecture, Llmadapter, Jinja2, Email Processing, Automation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

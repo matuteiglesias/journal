@@ -29,6 +29,23 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
+  // left: [
+  //   Component.PageTitle(),
+  //   Component.MobileOnly(Component.Spacer()),
+  //   Component.Flex({
+  //     components: [
+  //       {
+  //         Component: Component.Search(),
+  //         grow: true,
+  //       },
+  //       { Component: Component.Darkmode() },
+  //       { Component: Component.ReaderMode() },
+  //     ],
+  //   }),
+  //   Component.Explorer(),
+  // ],
+  
+  
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -39,11 +56,26 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
+        { Component: Component.ReaderMode?.() }, // only for defaultContentPageLayout
+      ].filter(Boolean), // filter out undefined in case ReaderMode is not available
     }),
-    Component.Explorer(),
+    // This shows all folders and their contents
+    Component.Explorer({
+      title: "Journal Entries",
+      folderClickBehavior: "collapse",
+      folderDefaultState: "collapsed",
+      useSavedState: true,
+      filterFn: (node) => node.isFolder || (node.slug?.includes("/") ?? false),
+    }),
+    
+    Component.Explorer({
+      title: "Frequent Keywords",
+      useSavedState: true,
+      filterFn: (node) => !node.isFolder && !(node.slug?.includes("/") ?? false),
+    }),
   ],
+
+
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
@@ -66,7 +98,20 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    // This shows all folders and their contents
+    Component.Explorer({
+      title: "Journal Entries",
+      folderClickBehavior: "collapse",
+      folderDefaultState: "collapsed",
+      useSavedState: true,
+      filterFn: (node) => node.isFolder || (node.slug?.includes("/") ?? false),
+    }),
+    
+    Component.Explorer({
+      title: "Frequent Keywords",
+      useSavedState: true,
+      filterFn: (node) => !node.isFolder && !(node.slug?.includes("/") ?? false),
+    }),
   ],
   right: [],
 }

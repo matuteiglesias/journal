@@ -1,6 +1,6 @@
 ---
 title: "Analysis of Faculty Needs in Mathematics Department"
-tags: ['matemáticas', 'educación', 'recursos humanos', 'jubilaciones', 'cargos docentes']
+tags: ['Matemáticas', 'Educación', 'Recursos Humanos', 'Jubilaciones', 'Cargos Docentes']
 created: 2023-11-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-11-12 — Session: Analysis of Faculty Needs in Mathematics Department
 
 **🕒 17:15–17:25**  
-**🏷️ Labels**: matemáticas, educación, recursos humanos, jubilaciones, cargos docentes  
+**🏷️ Labels**: Matemáticas, Educación, Recursos Humanos, Jubilaciones, Cargos Docentes  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Integrated Google Drive with Supabase for RAG"
-tags: ['Google Drive', 'Supabase', 'Automation', 'n8n', 'gdrive']
+tags: ['Google Drive', 'Supabase', 'Automation', 'N8N', 'Gdrive']
 created: 2025-01-29
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-01-29 — Session: Integrated Google Drive with Supabase for RAG
 
 **🕒 17:00–17:40**  
-**🏷️ Labels**: Google Drive, Supabase, Automation, n8n, gdrive  
+**🏷️ Labels**: Google Drive, Supabase, Automation, N8N, Gdrive  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: true
 The session aimed to integrate Google Drive with Supabase for Retrieval-Augmented Generation (RAG) and to set up a structured directory system in Google Drive using the `gdrive` command-line tool.
 
 ### Key Activities
-- Developed a [[workflow]] to sync documents between Google Drive and Supabase using n8n.
+- Developed a workflow to sync documents between Google Drive and Supabase using n8n.
 - Created a directory structure in Google Drive using the Google Drive [[API]] and `gdrive` CLI.
 - Installed and configured `gdrive` and `rclone` for managing Google Drive files.
 - Resolved `redirect_uri_mismatch` errors when configuring Google [[API]] credentials.

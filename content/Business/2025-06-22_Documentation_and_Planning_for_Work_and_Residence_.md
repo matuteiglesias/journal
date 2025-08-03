@@ -1,6 +1,6 @@
 ---
 title: "Documentation and Planning for Work and Residence in Croatia"
-tags: ['immigration', 'work permit', 'Croatia', 'Argentinian citizens', 'travel planning']
+tags: ['Immigration', 'Work Permit', 'Croatia', 'Argentinian Citizens', 'Travel Planning']
 created: 2025-06-22
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-22 — Session: Documentation and Planning for Work and Residence in Croatia
 
 **🕒 23:00–23:30**  
-**🏷️ Labels**: immigration, work permit, Croatia, Argentinian citizens, travel planning  
+**🏷️ Labels**: Immigration, Work Permit, Croatia, Argentinian Citizens, Travel Planning  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -27,7 +27,7 @@ The session aimed to document and plan the processes related to obtaining work a
 - Analyzed migration strategies in the Schengen area, considering Turkey and the UK as strategic buffers.
 
 ### Achievements
-- Comprehensive [[documentation]] of the legal and procedural aspects of working and residing in Croatia.
+- Comprehensive documentation of the legal and procedural aspects of working and residing in Croatia.
 - Developed strategic insights into travel and migration planning for Argentinians.
 
 ### Pending Tasks

@@ -1,6 +1,6 @@
 ---
 title: "Developed Knowledge Management System Proposal for FCEN-UBA"
-tags: ['knowledge management', 'FCEN-UBA', 'Langflow', 'AI workflows', 'educational materials']
+tags: ['Knowledge Management', 'FCEN-UBA', 'Langflow', 'Ai Workflows', 'Educational Materials']
 created: 2025-02-15
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-15 — Session: Developed Knowledge Management System Proposal for FCEN-UBA
 
 **🕒 17:10–22:20**  
-**🏷️ Labels**: knowledge management, FCEN-UBA, Langflow, AI workflows, educational materials  
+**🏷️ Labels**: Knowledge Management, FCEN-UBA, Langflow, Ai Workflows, Educational Materials  
 **📂 Project**: CRM  
 **⭐ Priority**: MEDIUM  
 
@@ -22,13 +22,13 @@ The session aimed to develop and plan a knowledge management system for politica
 - Drafted a motivational message to encourage group members to contribute documents to the shared Drive.
 - Integrated Google Drive with Langflow to enhance data management capabilities.
 - Designed enhanced prompts for Langflow assistance to improve [[AI]] response quality.
-- Outlined a two-shot [[AI]] [[workflow]] for creating teaching materials, involving domain experts and drafting agents.
+- Outlined a two-shot [[AI]] workflow for creating teaching materials, involving domain experts and drafting agents.
 - Developed prompts for Expert Guidance and Drafting Agents to generate educational content.
 - Reflected on the speed differences between [[CSV]] files and databases, providing insights into data management efficiency.
 
 ### Achievements
 - Successfully planned a detailed knowledge management system for FCEN-UBA.
-- Enhanced integration and [[automation]] processes using Langflow and Google Drive.
+- Enhanced integration and automation processes using Langflow and Google Drive.
 
 ### Pending Tasks
 - Implement the proposed knowledge management system.

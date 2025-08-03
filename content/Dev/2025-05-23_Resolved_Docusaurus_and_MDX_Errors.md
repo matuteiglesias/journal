@@ -21,7 +21,7 @@ The primary objective of this session was to address and resolve various errors 
 - **Addressed Webpack Warning**: Investigated non-serializable data structures in Webpack's caching system, specifically `VFileMessage` objects, and outlined potential solutions.
 - **Debugged MDX Compilation Errors**: Identified and fixed common MDX compilation errors related to malformed frontmatter and illegal syntax.
 - **Resolved MDX Runtime Exception**: Fixed a runtime exception in MDX pages caused by an undefined variable 'platform' during static site generation.
-- **Escaped Curly Braces in MDX**: Implemented a method to prevent MDX parser from interpreting curly braces as [[JavaScript]].
+- **Escaped Curly Braces in MDX**: Implemented a method to prevent MDX parser from interpreting curly braces as JavaScript.
 
 ### Achievements
 - Successfully resolved the [[Docusaurus]] CLI error and MDX runtime exceptions.
@@ -29,4 +29,4 @@ The primary objective of this session was to address and resolve various errors 
 
 ### Pending Tasks
 - Further investigation into Webpack caching strategies may be needed.
-- Review and optimize the MDX [[debugging]] process for future occurrences.
+- Review and optimize the MDX debugging process for future occurrences.

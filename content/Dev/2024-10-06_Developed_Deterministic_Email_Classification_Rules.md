@@ -1,6 +1,6 @@
 ---
 title: "Developed Deterministic Email Classification Rules"
-tags: ['email', 'classification', 'automation', 'rules', 'pseudocode']
+tags: ['Email', 'Classification', 'Automation', 'Rules', 'Pseudocode']
 created: 2024-10-06
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2024-10-06 — Session: Developed Deterministic Email Classification Rules
 
 **🕒 23:00–23:20**  
-**🏷️ Labels**: email, classification, automation, rules, pseudocode  
+**🏷️ Labels**: Email, Classification, Automation, Rules, Pseudocode  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to develop deterministic rules for categorizing emails into various categories such as 'Discard', 'Discussion', 'Event', 'Financial Notifications', 'Job Postings', 'Networking', 'Opportunities', 'Promotions', and 'Security Alerts'.
+The goal of this session was to develop deterministic rules for categorizing emails into various categories such as 'Discard', 'Discussion', 'Event', 'Financial Notifications', 'Job Postings', '[[Networking]]', 'Opportunities', 'Promotions', and 'Security Alerts'.
 
 ### Key Activities
 - Developed rules for categorizing emails based on sender domains and subject/content keywords.

@@ -1,6 +1,6 @@
 ---
 title: "Guides on FGTS and File Recovery"
-tags: ['FGTS', 'file recovery', 'encoding issues', 'Python', 'OpenOffice']
+tags: ['FGTS', 'File Recovery', 'Encoding Issues', 'Python', 'Openoffice']
 created: 2025-03-06
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-03-06 — Session: Guides on FGTS and File Recovery
 
 **🕒 23:00–00:00**  
-**🏷️ Labels**: FGTS, file recovery, encoding issues, Python, OpenOffice  
+**🏷️ Labels**: FGTS, File Recovery, Encoding Issues, Python, Openoffice  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

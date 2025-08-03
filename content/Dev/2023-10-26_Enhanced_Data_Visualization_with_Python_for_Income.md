@@ -14,7 +14,7 @@ publish: true
 
 
 **Session Goal:**
-The goal of this session was to enhance [[data visualization]] techniques in [[Python]] for analyzing household and individual income data, focusing on plotting, visualization features, and statistical analysis.
+The goal of this session was to enhance data visualization techniques in [[Python]] for analyzing household and individual income data, focusing on plotting, visualization features, and statistical analysis.
 
 **Key Activities:**
 - Developed [[Python]] scripts using [[Matplotlib]] and [[Pandas]] for plotting household and individual datasets on the same figure with distinct markers.
@@ -27,9 +27,9 @@ The goal of this session was to enhance [[data visualization]] techniques in [[P
 - Added grid and y-axis limits to [[Matplotlib]] subplots for improved clarity in visualizing poverty metrics.
 
 **Achievements:**
-- Successfully implemented multiple [[data visualization]] features, enhancing the clarity and depth of income [[data analysis]].
+- Successfully implemented multiple data visualization features, enhancing the clarity and depth of income data analysis.
 - Improved the interpretability of plots through advanced customization techniques.
 
 **Pending Tasks:**
 - Further exploration of interactive visualization features to enhance user engagement.
-- Optimization of [[data processing]] steps for larger datasets.
+- [[Optimization]] of data processing steps for larger datasets.

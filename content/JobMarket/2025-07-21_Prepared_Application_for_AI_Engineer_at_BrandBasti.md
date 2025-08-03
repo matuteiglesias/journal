@@ -1,6 +1,6 @@
 ---
 title: "Prepared Application for AI Engineer at BrandBastion"
-tags: ['job_application', 'AI_engineer', 'BrandBastion', 'NLP', 'career_development']
+tags: ['Job_Application', 'Ai_Engineer', 'Brandbastion', 'NLP', 'Career_Development']
 created: 2025-07-21
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-07-21 — Session: Prepared Application for AI Engineer at BrandBastion
 
 **🕒 18:15–18:40**  
-**🏷️ Labels**: job_application, AI_engineer, BrandBastion, NLP, career_development  
+**🏷️ Labels**: Job_Application, Ai_Engineer, Brandbastion, NLP, Career_Development  
 **📂 Project**: JobMarket  
 **⭐ Priority**: MEDIUM  
 

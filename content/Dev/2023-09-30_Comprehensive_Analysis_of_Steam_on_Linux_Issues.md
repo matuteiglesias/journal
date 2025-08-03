@@ -25,7 +25,7 @@ The session aimed to analyze and troubleshoot various issues related to the Stea
 - Reflected on persistent issues with the Steam installation, noting improvements and remaining warnings.
 - Analyzed changes in Steam's output to track error resolution progress.
 - Suggested effective search queries for troubleshooting Steam issues on Ubuntu.
-- Summarized [[GitHub]] discussions and user feedback regarding Steam launch errors and critical bugs.
+- Summarized GitHub discussions and user feedback regarding Steam launch errors and critical bugs.
 
 ### Achievements
 - Identified and documented several persistent and resolved issues with Steam on Linux, including segmentation faults and GTK errors.
@@ -34,4 +34,4 @@ The session aimed to analyze and troubleshoot various issues related to the Stea
 
 ### Pending Tasks
 - Further investigation into unresolved segmentation fault errors on Ubuntu 20.04.5 LTS.
-- Continuous monitoring of community feedback and [[GitHub]] discussions for emerging issues and solutions.
+- Continuous monitoring of community feedback and GitHub discussions for emerging issues and solutions.

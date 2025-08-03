@@ -1,6 +1,6 @@
 ---
 title: "Developed Double-Entry Bookkeeping System for Assets and Loans"
-tags: ['double-entry bookkeeping', 'assets', 'family loans', 'depreciation', 'accounting']
+tags: ['Double-Entry Bookkeeping', 'Assets', 'Family Loans', 'Depreciation', 'Accounting']
 created: 2024-01-05
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-01-05 — Session: Developed Double-Entry Bookkeeping System for Assets and Loans
 
 **🕒 21:10–23:00**  
-**🏷️ Labels**: double-entry bookkeeping, assets, family loans, depreciation, accounting  
+**🏷️ Labels**: Double-Entry Bookkeeping, Assets, Family Loans, Depreciation, Accounting  
 **📂 Project**: Accounting  
 **⭐ Priority**: MEDIUM  
 

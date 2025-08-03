@@ -1,6 +1,6 @@
 ---
 title: "Debugged and Implemented React Table Components"
-tags: ['React', 'ShadCN', 'Debugging', 'Frontend Development', 'Table Components']
+tags: ['React', 'Shadcn', 'Debugging', 'Frontend Development', 'Table Components']
 created: 2025-04-11
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-11 — Session: Debugged and Implemented React Table Components
 
 **🕒 22:50–23:05**  
-**🏷️ Labels**: React, ShadCN, Debugging, Frontend Development, Table Components  
+**🏷️ Labels**: React, Shadcn, Debugging, Frontend Development, Table Components  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

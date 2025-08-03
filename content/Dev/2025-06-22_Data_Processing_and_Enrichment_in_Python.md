@@ -1,6 +1,6 @@
 ---
 title: "Data Processing and Enrichment in Python"
-tags: ['data cleaning', 'data enrichment', 'pandas', 'python', 'data processing']
+tags: ['Data Cleaning', 'Data Enrichment', 'Pandas', 'Python', 'Data Processing']
 created: 2025-06-22
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-06-22 — Session: Data Processing and Enrichment in Python
 
 **🕒 20:25–21:00**  
-**🏷️ Labels**: data cleaning, data enrichment, pandas, python, data processing  
+**🏷️ Labels**: Data Cleaning, Data Enrichment, Pandas, Python, Data Processing  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to address various [[data processing]] challenges, including data cleaning, enrichment, and merging using [[Python]] and [[Pandas]].
+The session aimed to address various data processing challenges, including data cleaning, enrichment, and merging using [[Python]] and [[Pandas]].
 
 ### Key Activities
 - Diagnosed and fixed issues with empty columns in the DataFrame `df_scraped` after loading a JSONL file.
@@ -26,7 +26,7 @@ The session aimed to address various [[data processing]] challenges, including d
 - Optimized DataFrame merge in [[Pandas]] to avoid column duplication.
 
 ### Achievements
-Successfully addressed multiple [[data processing]] issues, ensuring data integrity and enhancing the data pipeline.
+Successfully addressed multiple data processing issues, ensuring data integrity and enhancing the data pipeline.
 
 ### Pending Tasks
-No major pending tasks, but continued monitoring and [[optimization]] of data processes are recommended.
+No major pending tasks, but continued monitoring and optimization of data processes are recommended.

@@ -1,6 +1,6 @@
 ---
 title: "Compiled nutritional and medication insights for health"
-tags: ['nutrition', 'health', 'medications', 'diet', 'food', 'dermatology']
+tags: ['Nutrition', 'Health', 'Medications', 'Diet', 'Food', 'Dermatology']
 created: 2024-04-25
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-04-25 — Session: Compiled nutritional and medication insights for health
 
 **🕒 22:20–23:55**  
-**🏷️ Labels**: nutrition, health, medications, diet, food, dermatology  
+**🏷️ Labels**: Nutrition, Health, Medications, Diet, Food, Dermatology  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

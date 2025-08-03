@@ -1,6 +1,6 @@
 ---
 title: "Refinements to Financial Document Schema"
-tags: ['schema', 'financial documents', 'JSON', 'billing', 'Argentina']
+tags: ['Schema', 'Financial Documents', 'JSON', 'Billing', 'Argentina']
 created: 2025-02-25
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-25 — Session: Refinements to Financial Document Schema
 
 **🕒 18:20–21:10**  
-**🏷️ Labels**: schema, financial documents, JSON, billing, Argentina  
+**🏷️ Labels**: Schema, Financial Documents, JSON, Billing, Argentina  
 **📂 Project**: Accounting  
 **⭐ Priority**: MEDIUM  
 

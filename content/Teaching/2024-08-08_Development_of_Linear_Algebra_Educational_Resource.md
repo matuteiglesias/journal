@@ -22,7 +22,7 @@ The session aimed to develop educational resources for teaching linear algebra, 
 - Conducted a pedagogical analysis of linear algebra teaching strategies, identifying areas for improvement and making recommendations.
 - Outlined learning objectives and curriculum for norms in vector spaces.
 - Explored condition number sensitivity analysis and regularization techniques.
-- Sought examples of ill-conditioned matrices for [[data science]] applications.
+- Sought examples of ill-conditioned matrices for data science applications.
 - Reflected on operator norms and singular values in matrix analysis.
 - Executed [[Python]] scripts for SVD and visualizations, improving code clarity and accessibility.
 - Translated and enhanced the spectral theorem explanation and related code.

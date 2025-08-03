@@ -26,7 +26,7 @@ The session aimed to address [[Python]] text processing tasks and automate SSH d
 
 ### Achievements
 - Successfully normalized text and converted date formats in [[Python]].
-- Provided comprehensive guidance on SSH file transfers and deployment [[automation]].
+- Provided comprehensive guidance on SSH file transfers and deployment automation.
 - Enhanced SSH security practices and resolved access issues with AWS Lightsail.
 
 ### Pending Tasks

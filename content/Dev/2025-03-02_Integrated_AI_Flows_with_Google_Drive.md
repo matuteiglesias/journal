@@ -1,6 +1,6 @@
 ---
 title: "Integrated AI Flows with Google Drive"
-tags: ['Google Drive', 'API Integration', 'Automation', 'Python', 'Google Apps Script']
+tags: ['Google Drive', 'Api Integration', 'Automation', 'Python', 'Google Apps Script']
 created: 2025-03-02
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-03-02 — Session: Integrated AI Flows with Google Drive
 
 **🕒 16:30–18:10**  
-**🏷️ Labels**: Google Drive, API Integration, Automation, Python, Google Apps Script  
+**🏷️ Labels**: Google Drive, Api Integration, Automation, Python, Google Apps Script  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The primary objective of this session was to integrate [[AI]] workflows with Google Drive, leveraging the Google Drive [[API]] for enhanced [[automation]] and file management.
+The primary objective of this session was to integrate [[AI]] workflows with Google Drive, leveraging the Google Drive [[API]] for enhanced automation and file management.
 
 ### Key Activities
 - Explored methods for integrating [[AI]] workflows with Google Drive, including using the Google Drive [[API]], reading Google Sheets as DataFrames, converting Google Docs into usable formats, and automating processes with [[AI]].
@@ -30,7 +30,7 @@ The primary objective of this session was to integrate [[AI]] workflows with Goo
 - Automated file sharing in Google Drive using Google Apps Script, eliminating the need for manual sharing.
 - Organized and automated workflows in Google Drive, including generating a directory tree and automating file sorting.
 - Provided corrected code snippets for extracting previews from Google Sheets and Docs.
-- Optimized Google Apps Script for file sharing by implementing batch processing and [[error handling]].
+- Optimized Google Apps Script for file sharing by implementing batch processing and error handling.
 - Developed an automated file sharing script in Google Apps Script with progress tracking and timed trigger.
 
 ### Achievements
@@ -38,4 +38,4 @@ Successfully integrated [[AI]] workflows with Google Drive, automated file shari
 
 ### Pending Tasks
 - Further testing of the automated workflows and scripts in a production environment.
-- Continuous monitoring and [[optimization]] of Google Drive [[API]] interactions for performance improvements.
+- Continuous monitoring and optimization of Google Drive [[API]] interactions for performance improvements.

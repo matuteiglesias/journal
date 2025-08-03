@@ -1,6 +1,6 @@
 ---
 title: "Developed Contact Management Automation"
-tags: ['data_curation', 'relationship_management', 'automation', 'Python', 'Google Sheets']
+tags: ['Data_Curation', 'Relationship_Management', 'Automation', 'Python', 'Google Sheets']
 created: 2025-01-23
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-01-23 — Session: Developed Contact Management Automation
 
 **🕒 17:45–18:20**  
-**🏷️ Labels**: data_curation, relationship_management, automation, Python, Google Sheets  
+**🏷️ Labels**: Data_Curation, Relationship_Management, Automation, Python, Google Sheets  
 **📂 Project**: CRM  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to develop a structured plan and tools for managing and curating contacts efficiently, with a focus on [[automation]] and meaningful engagement.
+The goal of this session was to develop a structured plan and tools for managing and curating contacts efficiently, with a focus on automation and meaningful engagement.
 
 ### Key Activities
 1. **High-Level Process for Data Curation**: Created a framework for curating contacts and engaging with them, including daily grouping and review processes.

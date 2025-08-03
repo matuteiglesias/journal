@@ -1,6 +1,6 @@
 ---
 title: "Culinary Planning and Recipe Improvement"
-tags: ['cooking', 'recipe improvement', 'meal planning', 'culinary techniques']
+tags: ['Cooking', 'Recipe Improvement', 'Meal Planning', 'Culinary Techniques']
 created: 2024-09-21
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-09-21 — Session: Culinary Planning and Recipe Improvement
 
 **🕒 17:50–18:30**  
-**🏷️ Labels**: cooking, recipe improvement, meal planning, culinary techniques  
+**🏷️ Labels**: Cooking, Recipe Improvement, Meal Planning, Culinary Techniques  
 **📂 Project**: Health  
 **⭐ Priority**: LOW  
 

@@ -27,5 +27,5 @@ The session aimed to enhance data manipulation and visualization techniques usin
 - Enhanced the visual appeal and clarity of data presentations by customizing bar plots.
 
 ### Pending Tasks
-- Further [[optimization]] of code for handling larger datasets efficiently.
+- Further optimization of code for handling larger datasets efficiently.
 - Exploration of additional customization options in Seaborn and [[Matplotlib]] for more complex visualizations.

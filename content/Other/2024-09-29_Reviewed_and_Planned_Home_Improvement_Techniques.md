@@ -1,6 +1,6 @@
 ---
 title: "Reviewed and Planned Home Improvement Techniques"
-tags: ['home improvement', 'flooring', 'interior design', 'product comparison', 'DIY']
+tags: ['Home Improvement', 'Flooring', 'Interior Design', 'Product Comparison', 'DIY']
 created: 2024-09-29
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-09-29 — Session: Reviewed and Planned Home Improvement Techniques
 
 **🕒 01:55–23:55**  
-**🏷️ Labels**: home improvement, flooring, interior design, product comparison, DIY  
+**🏷️ Labels**: Home Improvement, Flooring, Interior Design, Product Comparison, DIY  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

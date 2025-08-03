@@ -18,14 +18,14 @@ The session aimed to integrate residuals from Ordinary Least Squares (OLS) regre
 
 ### Key Activities:
 - **Data Preparation**: Calculated rolling OLS residuals using [[Python]], [[Pandas]], and Statsmodels for stock price data.
-- **Optimization**: Implemented performance [[optimization]] by calculating residuals with selected data points to speed up computation.
-- **Strategy Implementation**: Modified Backtrader strategies to incorporate residual data feeds, adjusting parameters for trading decisions based on calculated residuals.
+- **[[Optimization]]**: Implemented performance optimization by calculating residuals with selected data points to speed up computation.
+- **[[Strategy]] Implementation**: Modified Backtrader strategies to incorporate residual data feeds, adjusting parameters for trading decisions based on calculated residuals.
 
 ### Achievements:
 - Successfully calculated and integrated OLS residuals into Backtrader strategies.
 - Optimized the residual calculation process for efficiency.
-- Enhanced trading [[strategy]] by incorporating residuals into buy/sell decision processes.
+- Enhanced trading strategy by incorporating residuals into buy/sell decision processes.
 
 ### Pending Tasks:
-- Further testing and validation of the [[strategy]] in live trading environments to ensure robustness and accuracy of decision-making.
-- Explore additional [[optimization]] techniques for residual calculation.
+- Further testing and validation of the strategy in live trading environments to ensure robustness and accuracy of decision-making.
+- Explore additional optimization techniques for residual calculation.

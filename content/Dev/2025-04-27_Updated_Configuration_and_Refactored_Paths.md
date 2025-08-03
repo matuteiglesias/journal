@@ -1,6 +1,6 @@
 ---
 title: "Updated Configuration and Refactored Paths"
-tags: ['configuration', 'refactoring', 'automation', 'logging', 'Python']
+tags: ['Configuration', 'Refactoring', 'Automation', 'Logging', 'Python']
 created: 2025-04-27
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-27 — Session: Updated Configuration and Refactored Paths
 
 **🕒 18:50–19:30**  
-**🏷️ Labels**: configuration, refactoring, automation, logging, Python  
+**🏷️ Labels**: Configuration, Refactoring, Automation, Logging, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

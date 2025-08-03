@@ -1,6 +1,6 @@
 ---
 title: "Developed and Optimized Python Algorithms"
-tags: ['Python', 'algorithms', 'optimization', 'error correction', 'greedy algorithm', 'dynamic programming']
+tags: ['Python', 'Algorithms', 'Optimization', 'Error Correction', 'Greedy Algorithm', 'Dynamic Programming']
 created: 2023-09-07
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-07 — Session: Developed and Optimized Python Algorithms
 
 **🕒 23:20–23:40**  
-**🏷️ Labels**: Python, algorithms, optimization, error correction, greedy algorithm, dynamic programming  
+**🏷️ Labels**: Python, Algorithms, Optimization, Error Correction, Greedy Algorithm, Dynamic Programming  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -21,7 +21,7 @@ The session aimed to implement and optimize various [[Python]] algorithms for sp
 - Corrected errors in the [[Python]] function for calculating minimum discontentment, focusing on variable usage.
 - Developed the `saldos_sospechosos` function to determine the nature of numbers in relation to a final balance, acknowledging multiple valid solutions.
 - Explored iterative and greedy approaches to the suspicious balances problem, comparing them with dynamic programming and backtracking methods.
-- Implemented a segmentation [[strategy]] for choripán stands, using [[Python]] to divide stands into segments and place supply points efficiently.
+- Implemented a segmentation strategy for choripán stands, using [[Python]] to divide stands into segments and place supply points efficiently.
 - Discussed a greedy algorithm approach for the choripán problem, examining its efficiency and limitations.
 
 ### Achievements

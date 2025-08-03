@@ -1,6 +1,6 @@
 ---
 title: "Structured Feedback and Solution Development for Algorithms"
-tags: ['feedback', 'algorithms', 'C++', 'programming', 'education']
+tags: ['Feedback', 'Algorithms', 'C++', 'Programming', 'Education']
 created: 2023-11-15
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-11-15 — Session: Structured Feedback and Solution Development for Algorithms
 
 **🕒 21:40–22:30**  
-**🏷️ Labels**: feedback, algorithms, C++, programming, education  
+**🏷️ Labels**: Feedback, Algorithms, C++, Programming, Education  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
@@ -18,8 +18,8 @@ The session aimed to provide structured feedback on algorithmic solutions and de
 
 ### Key Activities
 - Constructed a feedback framework for algorithm solutions, focusing on strengths, areas for improvement, and suggestions.
-- Developed guides and templates for solving programming exercises involving recursion and [[optimization]].
-- Provided feedback on multiple C++ programming solutions, highlighting [[documentation]] and [[optimization]] strategies.
+- Developed guides and templates for solving programming exercises involving recursion and optimization.
+- Provided feedback on multiple C++ programming solutions, highlighting documentation and optimization strategies.
 - Outlined minimal solutions for exercises such as 'Board and Piece Problem' and 'Pending Corrections', emphasizing best practices and modularity.
 
 ### Achievements

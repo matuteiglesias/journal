@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance financial [[data processing]] capabilities using [[Python]], focusing on currency conversion, data loading, and financial analysis.
+The session aimed to enhance financial data processing capabilities using [[Python]], focusing on currency conversion, data loading, and financial analysis.
 
 ### Key Activities
 - **Modification of `add_balance` Function**: Enhanced the function to handle multiple currencies, ensuring accurate running balances.
@@ -33,4 +33,4 @@ The session aimed to enhance financial [[data processing]] capabilities using [[
 
 ### Pending Tasks
 - Further testing and validation of the currency conversion functions.
-- Optimization of the Google Sheets data loading process to handle larger datasets efficiently.
+- [[Optimization]] of the Google Sheets data loading process to handle larger datasets efficiently.

@@ -1,6 +1,6 @@
 ---
 title: "Automated Google Drive Data Management"
-tags: ['Google Drive', 'Automation', 'Python', 'Data Management', 'rclone']
+tags: ['Google Drive', 'Automation', 'Python', 'Data Management', 'Rclone']
 created: 2025-03-03
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-03 — Session: Automated Google Drive Data Management
 
 **🕒 22:40–23:50**  
-**🏷️ Labels**: Google Drive, Automation, Python, Data Management, rclone  
+**🏷️ Labels**: Google Drive, Automation, Python, Data Management, Rclone  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -20,7 +20,7 @@ The primary goal of this session was to enhance and automate the management of G
 - Developed a [[Python]] function to manage root-level files in Google Drive and correctly identify their parent folders.
 - Implemented a solution to accurately retrieve parent folder names for files, especially in shared drives.
 - Exported a full directory tree from Google Drive using `gdrive4` and mapped file IDs to folder paths.
-- Created a structured [[workflow]] for exporting and reconstructing a Google Drive index using command line and [[Python]] scripts.
+- Created a structured workflow for exporting and reconstructing a Google Drive index using command line and [[Python]] scripts.
 - Configured `gdrive` CLI to authenticate with a [[Google Cloud]] service account for secure access.
 - Set up `rclone` to work with Google Drive, generating a structured [[CSV]] from folder and file data.
 - Troubleshot issues related to DNS resolution errors and empty [[CSV]] file generation.

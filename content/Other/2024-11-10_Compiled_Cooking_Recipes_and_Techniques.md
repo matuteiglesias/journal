@@ -1,6 +1,6 @@
 ---
 title: "Compiled Cooking Recipes and Techniques"
-tags: ['cooking', 'recipes', 'techniques', 'grilling', 'potatoes', 'chicken']
+tags: ['Cooking', 'Recipes', 'Techniques', 'Grilling', 'Potatoes', 'Chicken']
 created: 2024-11-10
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-10 — Session: Compiled Cooking Recipes and Techniques
 
 **🕒 01:10–02:00**  
-**🏷️ Labels**: cooking, recipes, techniques, grilling, potatoes, chicken  
+**🏷️ Labels**: Cooking, Recipes, Techniques, Grilling, Potatoes, Chicken  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

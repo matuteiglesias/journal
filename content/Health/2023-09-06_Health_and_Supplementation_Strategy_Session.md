@@ -1,6 +1,6 @@
 ---
 title: "Health and Supplementation Strategy Session"
-tags: ['SARMs', 'supplements', 'health', 'muscle growth', 'Ligandrol', 'medical monitoring']
+tags: ['Sarms', 'Supplements', 'Health', 'Muscle Growth', 'Ligandrol', 'Medical Monitoring']
 created: 2023-09-06
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-09-06 — Session: Health and Supplementation Strategy Session
 
 **🕒 04:30–06:20**  
-**🏷️ Labels**: SARMs, supplements, health, muscle growth, Ligandrol, medical monitoring  
+**🏷️ Labels**: Sarms, Supplements, Health, Muscle Growth, Ligandrol, Medical Monitoring  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 
@@ -28,7 +28,7 @@ The session aimed to explore and strategize around the use of various health sup
 
 ### Achievements
 - Developed comprehensive guidelines and plans for the safe use of SARMs and supplements.
-- Established a clear supplementation and health monitoring [[strategy]] for muscle growth cycles.
+- Established a clear supplementation and health monitoring strategy for muscle growth cycles.
 
 ### Pending Tasks
 - Further research on the interactions between PrEP and SARMs.

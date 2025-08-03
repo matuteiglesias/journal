@@ -1,6 +1,6 @@
 ---
 title: "Completed Printer Maintenance and Alignment for HP DeskJet 2600"
-tags: ['printer', 'HP DeskJet 2600', 'maintenance', 'troubleshooting', 'alignment']
+tags: ['Printer', 'Hp Deskjet 2600', 'Maintenance', 'Troubleshooting', 'Alignment']
 created: 2024-01-13
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-01-13 — Session: Completed Printer Maintenance and Alignment for HP DeskJet 2600
 
 **🕒 19:30–20:40**  
-**🏷️ Labels**: printer, HP DeskJet 2600, maintenance, troubleshooting, alignment  
+**🏷️ Labels**: Printer, Hp Deskjet 2600, Maintenance, Troubleshooting, Alignment  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

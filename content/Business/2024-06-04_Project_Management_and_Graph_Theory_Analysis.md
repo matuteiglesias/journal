@@ -1,6 +1,6 @@
 ---
 title: "Project Management and Graph Theory Analysis"
-tags: ['project management', 'graph theory', 'student evaluation', 'BFS', 'acyclic graphs']
+tags: ['Project Management', 'Graph Theory', 'Student Evaluation', 'BFS', 'Acyclic Graphs']
 created: 2024-06-04
 publish: false
 ---
@@ -8,13 +8,13 @@ publish: false
 ## 📅 2024-06-04 — Session: Project Management and Graph Theory Analysis
 
 **🕒 23:05–23:35**  
-**🏷️ Labels**: project management, graph theory, student evaluation, BFS, acyclic graphs  
+**🏷️ Labels**: Project Management, Graph Theory, Student Evaluation, BFS, Acyclic Graphs  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to reflect on [[project management]] strategies and analyze graph theory concepts, particularly focusing on student responses and methodologies.
+The session aimed to reflect on project management strategies and analyze graph theory concepts, particularly focusing on student responses and methodologies.
 
 ### Key Activities
 - Reviewed and summarized session implementations, documents to be developed, scheduled meetings, and next steps for advancing political and professional goals.
@@ -33,4 +33,4 @@ The session aimed to reflect on [[project management]] strategies and analyze gr
 - Further refine feedback mechanisms for student evaluations.
 
 ### Session Context
-This session involved deep reflection on both [[project management]] and educational strategies within the domain of graph theory, with a focus on improving student understanding and execution.
+This session involved deep reflection on both project management and educational strategies within the domain of graph theory, with a focus on improving student understanding and execution.

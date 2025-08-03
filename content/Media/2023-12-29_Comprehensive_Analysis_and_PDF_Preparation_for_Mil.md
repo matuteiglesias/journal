@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Analysis and PDF Preparation for Milei's Law"
-tags: ['PDF', 'SCP', 'Markdown', 'wkhtmltopdf', 'Javier Milei', 'Legislation']
+tags: ['PDF', 'SCP', 'Markdown', 'Wkhtmltopdf', 'Javier Milei', 'Legislation']
 created: 2023-12-29
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-12-29 — Session: Comprehensive Analysis and PDF Preparation for Milei's Law
 
 **🕒 16:00–18:00**  
-**🏷️ Labels**: PDF, SCP, Markdown, wkhtmltopdf, Javier Milei, Legislation  
+**🏷️ Labels**: PDF, SCP, Markdown, Wkhtmltopdf, Javier Milei, Legislation  
 **📂 Project**: Media  
 **⭐ Priority**: MEDIUM  
 

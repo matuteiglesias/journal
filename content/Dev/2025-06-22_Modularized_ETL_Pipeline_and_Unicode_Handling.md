@@ -24,7 +24,7 @@ The session aimed to modularize an ETL pipeline for idea enrichment and handle U
 - Conducted a critical review of a journalistic digest structure and provided actionable recommendations.
 
 ### Achievements
-- Successfully modularized the ETL pipeline, facilitating easier [[debugging]] and downstream usage.
+- Successfully modularized the ETL pipeline, facilitating easier debugging and downstream usage.
 - Resolved Unicode handling issues in JSONL files, ensuring accurate data representation.
 - Created a digest generator for article clusters, enhancing data summarization processes.
 

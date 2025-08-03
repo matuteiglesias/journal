@@ -1,6 +1,6 @@
 ---
 title: "Developed Family Financial Management Course"
-tags: ['financial management', 'family governance', 'education', 'digital tools', 'course development']
+tags: ['Financial Management', 'Family Governance', 'Education', 'Digital Tools', 'Course Development']
 created: 2025-06-02
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-02 — Session: Developed Family Financial Management Course
 
 **🕒 21:05–22:00**  
-**🏷️ Labels**: financial management, family governance, education, digital tools, course development  
+**🏷️ Labels**: Financial Management, Family Governance, Education, Digital Tools, Course Development  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -22,7 +22,7 @@ The primary goal of this session was to develop a comprehensive course on family
 - Outlined a modular course for basic financial literacy, covering family governance and financial principles.
 - Created content for the first module of the family management course, highlighting the importance of managing family assets and finances.
 - Planned a section on the importance of financial management in a family context, including benefits and reflective questions.
-- Recommended section lengths for a financial [[education]] booklet to enhance engagement and readability.
+- Recommended section lengths for a financial education booklet to enhance engagement and readability.
 - Developed content for various sections of the course, including family wealth functioning, roles in asset management, and basic financial concepts.
 - Provided insights into the use of digital tools like Excel and Google Sheets for efficient financial management.
 

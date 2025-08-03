@@ -1,6 +1,6 @@
 ---
 title: "Flask App OAuth Configuration and Troubleshooting"
-tags: ['Flask', 'Firebase', 'OAuth', 'Google Cloud', 'Troubleshooting']
+tags: ['Flask', 'Firebase', 'Oauth', 'Google Cloud', 'Troubleshooting']
 created: 2024-03-05
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-03-05 — Session: Flask App OAuth Configuration and Troubleshooting
 
 **🕒 20:10–20:40**  
-**🏷️ Labels**: Flask, Firebase, OAuth, Google Cloud, Troubleshooting  
+**🏷️ Labels**: Flask, Firebase, Oauth, Google Cloud, Troubleshooting  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

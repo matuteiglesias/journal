@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Query Engine Design and AI Integration"
-tags: ['QueryEngine', 'AI', 'LangGraph', 'Text Processing', 'Workflow', 'Integration']
+tags: ['Queryengine', 'AI', 'Langgraph', 'Text Processing', 'Workflow', 'Integration']
 created: 2025-02-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-12 — Session: Enhanced Query Engine Design and AI Integration
 
 **🕒 19:50–23:11**  
-**🏷️ Labels**: QueryEngine, AI, LangGraph, Text Processing, Workflow, Integration  
+**🏷️ Labels**: Queryengine, AI, Langgraph, Text Processing, Workflow, Integration  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -31,7 +31,7 @@ The session aimed to enhance the design and functionality of a Query Engine and 
 
 ### Achievements
 - Successfully designed and planned enhancements for a Query Engine and [[AI]] integration.
-- Implemented and refactored [[AI]] functionalities for improved text processing and [[workflow]] management.
+- Implemented and refactored [[AI]] functionalities for improved text processing and workflow management.
 
 ### Pending Tasks
 - Further testing and validation of the enhanced Query Engine and [[AI]] models.

@@ -1,6 +1,6 @@
 ---
 title: "Implemented Data Processing for Country Name Merging"
-tags: ['Python', 'Data Processing', 'CSV', 'pandas', 'Data Cleaning']
+tags: ['Python', 'Data Processing', 'CSV', 'Pandas', 'Data Cleaning']
 created: 2023-09-28
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2023-09-28 — Session: Implemented Data Processing for Country Name Merging
 
 **🕒 18:10–19:10**  
-**🏷️ Labels**: Python, Data Processing, CSV, pandas, Data Cleaning  
+**🏷️ Labels**: Python, Data Processing, CSV, Pandas, Data Cleaning  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to implement a robust [[data processing]] [[workflow]] to handle country name discrepancies across multiple datasets, using [[Python]] and its libraries.
+The session aimed to implement a robust data processing workflow to handle country name discrepancies across multiple datasets, using [[Python]] and its libraries.
 
 ### Key Activities
 - **Opening .dta Files**: Explored various methods to open Stata data files (.dta) using [[Python]] with pandas, R with the haven package, and other statistical tools.
@@ -26,7 +26,7 @@ The session aimed to implement a robust [[data processing]] [[workflow]] to hand
 ### Achievements
 - Successfully merged datasets and identified discrepancies in country names.
 - Cleaned data by correcting duplicated country names.
-- Created a [[CSV]] for manual country name matching, aiding future [[data processing]] tasks.
+- Created a [[CSV]] for manual country name matching, aiding future data processing tasks.
 
 ### Pending Tasks
 - Manually match country names using the generated [[CSV]] to ensure consistency across datasets.

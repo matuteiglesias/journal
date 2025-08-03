@@ -1,6 +1,6 @@
 ---
 title: "Resolved R Package Installation Issues and Setup in VS Code"
-tags: ['R', 'VS Code', 'Installation', 'Troubleshooting', 'R Markdown']
+tags: ['R', 'Vs Code', 'Installation', 'Troubleshooting', 'R Markdown']
 created: 2023-10-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-10-17 — Session: Resolved R Package Installation Issues and Setup in VS Code
 
 **🕒 22:15–23:40**  
-**🏷️ Labels**: R, VS Code, Installation, Troubleshooting, R Markdown  
+**🏷️ Labels**: R, Vs Code, Installation, Troubleshooting, R Markdown  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -27,4 +27,4 @@ The session aimed to resolve various R package installation issues and set up R 
 - Established a clear process for setting up and using R and R Markdown in Visual Studio Code.
 
 ### Pending Tasks:
-- Further exploration of advanced configuration settings for R Markdown in VS Code to enhance [[productivity]] and troubleshooting.
+- Further exploration of advanced configuration settings for R Markdown in VS Code to enhance productivity and troubleshooting.

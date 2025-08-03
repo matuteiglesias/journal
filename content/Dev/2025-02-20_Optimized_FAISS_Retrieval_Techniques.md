@@ -1,6 +1,6 @@
 ---
 title: "Optimized FAISS Retrieval Techniques"
-tags: ['FAISS', 'retrieval', 'deep learning', 'experimental design', 'optimization']
+tags: ['FAISS', 'Retrieval', 'Deep Learning', 'Experimental Design', 'Optimization']
 created: 2025-02-20
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-20 — Session: Optimized FAISS Retrieval Techniques
 
 **🕒 14:50–15:30**  
-**🏷️ Labels**: FAISS, retrieval, deep learning, experimental design, optimization  
+**🏷️ Labels**: FAISS, Retrieval, Deep Learning, Experimental Design, Optimization  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

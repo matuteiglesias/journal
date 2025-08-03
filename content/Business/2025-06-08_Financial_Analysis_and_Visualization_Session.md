@@ -1,6 +1,6 @@
 ---
 title: "Financial Analysis and Visualization Session"
-tags: ['financial analysis', 'debt management', 'data visualization', 'Python', 'pandas']
+tags: ['Financial Analysis', 'Debt Management', 'Data Visualization', 'Python', 'Pandas']
 created: 2025-06-08
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-08 — Session: Financial Analysis and Visualization Session
 
 **🕒 20:25–21:00**  
-**🏷️ Labels**: financial analysis, debt management, data visualization, Python, pandas  
+**🏷️ Labels**: Financial Analysis, Debt Management, Data Visualization, Python, Pandas  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

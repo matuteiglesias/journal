@@ -1,6 +1,6 @@
 ---
 title: "Developed and Enhanced Text Processing Toolkit"
-tags: ['FAISS', 'LangChain', 'Text Processing', 'Error Handling', 'Querying']
+tags: ['FAISS', 'Langchain', 'Text Processing', 'Error Handling', 'Querying']
 created: 2025-02-10
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-10 — Session: Developed and Enhanced Text Processing Toolkit
 
 **🕒 18:20–19:40**  
-**🏷️ Labels**: FAISS, LangChain, Text Processing, Error Handling, Querying  
+**🏷️ Labels**: FAISS, Langchain, Text Processing, Error Handling, Querying  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -25,7 +25,7 @@ The primary goal of this session was to develop and enhance a text processing to
 - **[[Error Handling]] in spaCy**: Addressed missing spaCy model error by providing installation solutions.
 - **Function Enhancements**: Enhanced the `process_chunks` function to count and display character and word counts for text chunks.
 - **Data Storage Planning**: Outlined a structured map for data storage, focusing on file organization and metadata.
-- **Querying Strategy Design**: Designed querying needs across [[AI]] workflows for efficient information retrieval.
+- **Querying [[Strategy]] Design**: Designed querying needs across [[AI]] workflows for efficient information retrieval.
 
 ### Achievements
 - Successfully developed a robust querying toolkit for FAISS.

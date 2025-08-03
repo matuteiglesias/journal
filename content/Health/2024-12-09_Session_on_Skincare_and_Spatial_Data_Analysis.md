@@ -1,6 +1,6 @@
 ---
 title: "Session on Skincare and Spatial Data Analysis"
-tags: ['skincare', 'acne', 'spatial analysis', 'criminality', 'socioeconomic', 'data']
+tags: ['Skincare', 'Acne', 'Spatial Analysis', 'Criminality', 'Socioeconomic', 'Data']
 created: 2024-12-09
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-12-09 — Session: Session on Skincare and Spatial Data Analysis
 
 **🕒 14:40–20:40**  
-**🏷️ Labels**: skincare, acne, spatial analysis, criminality, socioeconomic, data  
+**🏷️ Labels**: Skincare, Acne, Spatial Analysis, Criminality, Socioeconomic, Data  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 
@@ -33,7 +33,7 @@ The session aimed to address two main topics: providing guidance on skincare rou
 ### Achievements
 - Developed comprehensive skincare routines and product evaluations.
 - Provided insights into managing acne and dental health post-treatment.
-- Conducted detailed spatial [[data analysis]], identifying key patterns and impacts.
+- Conducted detailed spatial data analysis, identifying key patterns and impacts.
 
 ### Pending Tasks
 - Further exploration of skincare product efficacy.

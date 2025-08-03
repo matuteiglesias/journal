@@ -1,6 +1,6 @@
 ---
 title: "Pharmacological Calculations for Infusions"
-tags: ['Keflin', 'infusion', 'dosage', 'pharmacology', 'health']
+tags: ['Keflin', 'Infusion', 'Dosage', 'Pharmacology', 'Health']
 created: 2024-11-05
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-05 — Session: Pharmacological Calculations for Infusions
 
 **🕒 14:55–15:00**  
-**🏷️ Labels**: Keflin, infusion, dosage, pharmacology, health  
+**🏷️ Labels**: Keflin, Infusion, Dosage, Pharmacology, Health  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

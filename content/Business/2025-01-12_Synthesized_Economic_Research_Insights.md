@@ -1,6 +1,6 @@
 ---
 title: "Synthesized Economic Research Insights"
-tags: ['economic research', 'micro-macro perspectives', 'spatial analysis', 'economic dynamics', 'policy relevance']
+tags: ['Economic Research', 'Micro-Macro Perspectives', 'Spatial Analysis', 'Economic Dynamics', 'Policy Relevance']
 created: 2025-01-12
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-12 — Session: Synthesized Economic Research Insights
 
 **🕒 21:45–22:30**  
-**🏷️ Labels**: economic research, micro-macro perspectives, spatial analysis, economic dynamics, policy relevance  
+**🏷️ Labels**: Economic Research, Micro-Macro Perspectives, Spatial Analysis, Economic Dynamics, Policy Relevance  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

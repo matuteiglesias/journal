@@ -1,6 +1,6 @@
 ---
 title: "Developed Teaching Workshop and Python Exercises"
-tags: ['teaching', 'workshop', 'Python', 'education', 'exercises']
+tags: ['Teaching', 'Workshop', 'Python', 'Education', 'Exercises']
 created: 2025-03-20
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-20 — Session: Developed Teaching Workshop and Python Exercises
 
 **🕒 05:55–06:05**  
-**🏷️ Labels**: teaching, workshop, Python, education, exercises  
+**🏷️ Labels**: Teaching, Workshop, Python, Education, Exercises  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
@@ -25,7 +25,7 @@ The session aimed to develop a comprehensive workshop outline for teaching, alon
 - Developed [[Python]] programming exercises covering list membership, list length comparison, string mixing, credit payment simulation, and 'geringoso' translation.
 
 ### Achievements
-- Completed the workshop outline and teaching [[strategy]] enhancement.
+- Completed the workshop outline and teaching strategy enhancement.
 - Developed a comprehensive set of [[Python]] exercises to aid learning.
 
 ### Pending Tasks

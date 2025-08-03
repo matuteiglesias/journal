@@ -1,6 +1,6 @@
 ---
 title: "Completed Geospatial and Repository Analysis"
-tags: ['geospatial', 'analysis', 'repository', 'markdown', 'data']
+tags: ['Geospatial', 'Analysis', 'Repository', 'Markdown', 'Data']
 created: 2024-12-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-28 — Session: Completed Geospatial and Repository Analysis
 
 **🕒 16:25–16:35**  
-**🏷️ Labels**: geospatial, analysis, repository, markdown, data  
+**🏷️ Labels**: Geospatial, Analysis, Repository, Markdown, Data  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

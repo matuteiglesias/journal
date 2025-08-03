@@ -22,7 +22,7 @@ The primary goal of this session was to enhance the integration of user query pr
 - Integrated flow into application code, emphasizing best practices.
 - Updated backend and frontend code for dynamic user query processing in the RAG chain.
 - Implemented the `query_or_fallback` function to ensure proper initialization of the vectorstore and fallback handling.
-- Enhanced logging for better traceability and [[debugging]].
+- Enhanced logging for better traceability and debugging.
 
 ### Achievements
 - Successfully integrated user queries into the RAG pipeline, improving the query processing flow.

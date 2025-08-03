@@ -1,6 +1,6 @@
 ---
 title: "Developed JEDC Paper and LaTeX Template"
-tags: ['economic modeling', 'LaTeX', 'JEDC', 'simulation techniques', 'bootstrap methods']
+tags: ['Economic Modeling', 'Latex', 'JEDC', 'Simulation Techniques', 'Bootstrap Methods']
 created: 2024-06-22
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-06-22 — Session: Developed JEDC Paper and LaTeX Template
 
 **🕒 20:20–23:40**  
-**🏷️ Labels**: economic modeling, LaTeX, JEDC, simulation techniques, bootstrap methods  
+**🏷️ Labels**: Economic Modeling, Latex, JEDC, Simulation Techniques, Bootstrap Methods  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -21,14 +21,14 @@ The session aimed to develop a comprehensive research paper on advanced simulati
 - **LaTeX Template Creation**: Created a structured LaTeX document using the Elsevier template in Overleaf, tailored for the JEDC submission.
 - **Paper Structure and Content Feedback**: Provided feedback on the paper's abstract and structure, highlighting areas for improvement.
 - **Organized Experiments**: Outlined a structured approach to organizing experiments for clarity and comprehension.
-- **[[GitHub]] Repository Setup**: Planned the structure of a [[GitHub]] repository to complement the research paper.
-- **Script Refactoring**: Refactored [[Python]] scripts for [[data analysis]], focusing on modularity and [[optimization]].
+- **GitHub Repository Setup**: Planned the structure of a GitHub repository to complement the research paper.
+- **Script [[Refactoring]]**: Refactored [[Python]] scripts for data analysis, focusing on modularity and optimization.
 
 ### Achievements
 - Developed a customized LaTeX template for the economic modeling paper.
 - Structured the introduction and key references for the JEDC paper.
-- Enhanced the paper with a [[GitHub]] repository plan and refactored scripts for [[data analysis]].
+- Enhanced the paper with a GitHub repository plan and refactored scripts for data analysis.
 
 ### Pending Tasks
 - Finalize the paper's content and submit it to the JEDC.
-- Complete the setup of the [[GitHub]] repository with all necessary files and [[documentation]].
+- Complete the setup of the GitHub repository with all necessary files and documentation.

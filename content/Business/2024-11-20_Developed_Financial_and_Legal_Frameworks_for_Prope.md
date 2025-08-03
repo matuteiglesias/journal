@@ -1,6 +1,6 @@
 ---
 title: "Developed Financial and Legal Frameworks for Property Management"
-tags: ['property management', 'financial planning', 'legal framework', 'Argentina', 'dividends']
+tags: ['Property Management', 'Financial Planning', 'Legal Framework', 'Argentina', 'Dividends']
 created: 2024-11-20
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-20 — Session: Developed Financial and Legal Frameworks for Property Management
 
 **🕒 00:30–06:50**  
-**🏷️ Labels**: property management, financial planning, legal framework, Argentina, dividends  
+**🏷️ Labels**: Property Management, Financial Planning, Legal Framework, Argentina, Dividends  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -21,7 +21,7 @@ The session aimed to develop comprehensive financial and legal frameworks for pr
 - Designed a financial record-keeping scheme for rental properties, including income, expenses, and savings management.
 - Conducted a savings growth simulation analysis to explore the impact of dividends and investment strategies over 36 months.
 - Updated simulations for monthly dividend calculations and scaling, using financial modeling techniques.
-- Developed accounting schemes for personal and business finances, emphasizing separation and [[automation]].
+- Developed accounting schemes for personal and business finances, emphasizing separation and automation.
 - Explored methods for estimating COGS and inventory loss in Argentina.
 - Analyzed simulated income statements and retail business management systems.
 - Outlined strategies for improving profit margins in retail.

@@ -1,6 +1,6 @@
 ---
 title: "Compiled Healthcare Instruction Guides"
-tags: ['healthcare', 'instruction', 'SOP', 'infusion', 'nursing']
+tags: ['Healthcare', 'Instruction', 'SOP', 'Infusion', 'Nursing']
 created: 2025-02-18
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-02-18 — Session: Compiled Healthcare Instruction Guides
 
 **🕒 13:00–13:30**  
-**🏷️ Labels**: healthcare, instruction, SOP, infusion, nursing  
+**🏷️ Labels**: Healthcare, Instruction, SOP, Infusion, Nursing  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

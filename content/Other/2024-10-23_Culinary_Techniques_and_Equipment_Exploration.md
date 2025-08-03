@@ -33,4 +33,4 @@ The goal of this session was to explore advanced culinary techniques and the nec
 - Further research on specific recipes and techniques for upcoming culinary competitions.
 
 ### Labels
-Cooking, Culinary Arts, Recipes, Kitchen Equipment, Techniques
+[[Cooking]], Culinary Arts, Recipes, Kitchen Equipment, Techniques

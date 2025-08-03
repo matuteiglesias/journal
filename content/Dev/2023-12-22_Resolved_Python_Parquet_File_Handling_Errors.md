@@ -26,4 +26,4 @@ The goal of this session was to resolve runtime errors related to Parquet file h
 
 ### Pending Tasks
 - Further exploration of Dask's capabilities in handling large datasets efficiently.
-- Consider automating the installation of required libraries in [[Python]] environments to streamline [[data processing]] workflows.
+- Consider automating the installation of required libraries in [[Python]] environments to streamline data processing workflows.

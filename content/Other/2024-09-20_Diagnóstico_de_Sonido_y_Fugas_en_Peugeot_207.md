@@ -1,6 +1,6 @@
 ---
 title: "Diagnóstico de Sonido y Fugas en Peugeot 207"
-tags: ['Peugeot 207', 'diagnóstico', 'mantenimiento', 'automóviles', 'fugas', 'sonido hissing']
+tags: ['Peugeot 207', 'Diagnóstico', 'Mantenimiento', 'Automóviles', 'Fugas', 'Sonido Hissing']
 created: 2024-09-20
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-09-20 — Session: Diagnóstico de Sonido y Fugas en Peugeot 207
 
 **🕒 02:05–02:45**  
-**🏷️ Labels**: Peugeot 207, diagnóstico, mantenimiento, automóviles, fugas, sonido hissing  
+**🏷️ Labels**: Peugeot 207, Diagnóstico, Mantenimiento, Automóviles, Fugas, Sonido Hissing  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

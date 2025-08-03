@@ -20,7 +20,7 @@ The session aimed to integrate Firebase services into various web applications, 
 - Integrated Firebase into [[Flask]] applications for activity logging and user interaction, utilizing Firestore and the Firebase Emulator Suite.
 - Explored the integration of Firebase SDK into web applications, detailing methods using `<script>` tags and npm, and deployment on Google App Engine.
 - Evaluated Firebase Firestore's suitability for logging in the 'evaluar-app', considering scalability and operational limits.
-- Discussed best practices for Firebase integration, emphasizing security, version consistency, and [[error handling]].
+- Discussed best practices for Firebase integration, emphasizing security, version consistency, and error handling.
 
 ### Achievements
 - Successfully integrated Firebase into both frontend and backend applications, providing comprehensive setup instructions and deployment guidance.

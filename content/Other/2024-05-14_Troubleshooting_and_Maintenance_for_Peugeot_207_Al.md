@@ -1,6 +1,6 @@
 ---
 title: "Troubleshooting and Maintenance for Peugeot 207 Alarm System"
-tags: ['Peugeot 207', 'car maintenance', 'alarm system', 'troubleshooting']
+tags: ['Peugeot 207', 'Car Maintenance', 'Alarm System', 'Troubleshooting']
 created: 2024-05-14
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-05-14 — Session: Troubleshooting and Maintenance for Peugeot 207 Alarm System
 
 **🕒 14:00–14:15**  
-**🏷️ Labels**: Peugeot 207, car maintenance, alarm system, troubleshooting  
+**🏷️ Labels**: Peugeot 207, Car Maintenance, Alarm System, Troubleshooting  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

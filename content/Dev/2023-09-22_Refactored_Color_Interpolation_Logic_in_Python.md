@@ -22,8 +22,8 @@ publish: true
 4. Implemented a recursive approach to handle nested elements in the `interpolate_list`.
 5. Corrected code execution errors, including index errors in loop control and oversight in redefining variables.
 6. Developed functions `recursive_replace_colores` and `wrapper_color_scale` for color value replacement in nested lists and [[JSON]] structures.
-7. Adjusted a style [[JSON]] object for color and scale modifications, integrating these changes into the [[workflow]].
+7. Adjusted a style [[JSON]] object for color and scale modifications, integrating these changes into the workflow.
 
-**Achievements**: Successfully refactored the color interpolation logic, implemented recursive value replacement in nested lists, and integrated color and scale changes into a [[Python]] [[workflow]].
+**Achievements**: Successfully refactored the color interpolation logic, implemented recursive value replacement in nested lists, and integrated color and scale changes into a [[Python]] workflow.
 
 **Pending Tasks**: Verify the correctness of other values against the desired 'linspace_values' for further confirmation.

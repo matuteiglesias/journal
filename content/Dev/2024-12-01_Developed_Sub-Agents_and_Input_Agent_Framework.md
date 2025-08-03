@@ -1,6 +1,6 @@
 ---
 title: "Developed Sub-Agents and Input Agent Framework"
-tags: ['automation', 'NLP', 'data integration', 'Python', 'workflow optimization']
+tags: ['Automation', 'NLP', 'Data Integration', 'Python', 'Workflow Optimization']
 created: 2024-12-01
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-01 — Session: Developed Sub-Agents and Input Agent Framework
 
 **🕒 23:20–23:50**  
-**🏷️ Labels**: automation, NLP, data integration, Python, workflow optimization  
+**🏷️ Labels**: Automation, NLP, Data Integration, Python, Workflow Optimization  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -21,11 +21,11 @@ The session aimed to design and plan the architecture for automating email and R
 - **Tech Stack for Input Agent:** Developed a framework for ingesting, preprocessing, and harmonizing data from various sources.
 - **NoSQL and Message Queue Options:** Evaluated databases and messaging systems like MongoDB, DynamoDB, RabbitMQ, and SQS for effective data handling.
 - **[[Python]] Script Architecture:** Designed modular [[Python]] scripts for data ingestion, processing, integration, and messaging.
-- **Integrating Notion:** Planned integration of Notion for [[workflow]] [[optimization]].
+- **Integrating Notion:** Planned integration of Notion for workflow optimization.
 - **Tool Redundancy Evaluation:** Assessed tool overlaps and integration strategies, deciding against adding Notion due to redundancy.
 
 ### Achievements
-- Completed a comprehensive plan for automating and optimizing [[data processing]] workflows.
+- Completed a comprehensive plan for automating and optimizing data processing workflows.
 
 ### Pending Tasks
 - Implement the outlined architectures and integrations.

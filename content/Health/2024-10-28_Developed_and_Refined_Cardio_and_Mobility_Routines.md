@@ -1,6 +1,6 @@
 ---
 title: "Developed and Refined Cardio and Mobility Routines"
-tags: ['workout', 'cardio', 'breathing', 'stretching', 'mobility', 'fitness']
+tags: ['Workout', 'Cardio', 'Breathing', 'Stretching', 'Mobility', 'Fitness']
 created: 2024-10-28
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-28 — Session: Developed and Refined Cardio and Mobility Routines
 
 **🕒 00:05–23:50**  
-**🏷️ Labels**: workout, cardio, breathing, stretching, mobility, fitness  
+**🏷️ Labels**: Workout, Cardio, Breathing, Stretching, Mobility, Fitness  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: false
 The goal of this session was to develop and refine a series of cardio and mobility routines to enhance fitness performance and recovery.
 
 ### Key Activities
-- **Enforced Workout Scheduling**: Implemented a scheduling model to ensure workout tasks are scheduled after 19:00 using [[Python]] [[automation]].
+- **Enforced Workout Scheduling**: Implemented a scheduling model to ensure workout tasks are scheduled after 19:00 using [[Python]] automation.
 - **Cardio Interval Routine**: Designed a treadmill cardio interval routine to maintain a target heart rate of 70% effort, with adjustable machine speeds and longer intervals.
 - **Breathing Techniques**: Compiled guides on optimal breathing techniques for different cardio and high-intensity workouts, emphasizing rhythm and stamina enhancement.
 - **Stretching and Mobility Routines**: Developed comprehensive post-cardio stretching and mobility routines to enhance flexibility, relaxation, and muscle elasticity.

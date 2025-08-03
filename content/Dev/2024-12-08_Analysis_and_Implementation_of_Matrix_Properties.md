@@ -1,6 +1,6 @@
 ---
 title: "Analysis and Implementation of Matrix Properties"
-tags: ['matrix analysis', 'SymPy', 'eigenvalues', 'convergence', 'automation']
+tags: ['Matrix Analysis', 'Sympy', 'Eigenvalues', 'Convergence', 'Automation']
 created: 2024-12-08
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-08 — Session: Analysis and Implementation of Matrix Properties
 
 **🕒 14:55–15:05**  
-**🏷️ Labels**: matrix analysis, SymPy, eigenvalues, convergence, automation  
+**🏷️ Labels**: Matrix Analysis, Sympy, Eigenvalues, Convergence, Automation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

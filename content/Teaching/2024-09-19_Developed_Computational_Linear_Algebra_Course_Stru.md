@@ -1,6 +1,6 @@
 ---
 title: "Developed Computational Linear Algebra Course Structure"
-tags: ['course design', 'linear algebra', 'education', 'Python', 'eigenvalues']
+tags: ['Course Design', 'Linear Algebra', 'Education', 'Python', 'Eigenvalues']
 created: 2024-09-19
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-19 — Session: Developed Computational Linear Algebra Course Structure
 
 **🕒 15:30–16:20**  
-**🏷️ Labels**: course design, linear algebra, education, Python, eigenvalues  
+**🏷️ Labels**: Course Design, Linear Algebra, Education, Python, Eigenvalues  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

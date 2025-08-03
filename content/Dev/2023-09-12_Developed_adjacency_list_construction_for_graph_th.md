@@ -1,6 +1,6 @@
 ---
 title: "Developed adjacency list construction for graph theory"
-tags: ['grafos', 'listas de adyacencia', 'algoritmos', 'estructura de datos']
+tags: ['Grafos', 'Listas De Adyacencia', 'Algoritmos', 'Estructura De Datos']
 created: 2023-09-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-12 — Session: Developed adjacency list construction for graph theory
 
 **🕒 20:25–20:35**  
-**🏷️ Labels**: grafos, listas de adyacencia, algoritmos, estructura de datos  
+**🏷️ Labels**: Grafos, Listas De Adyacencia, Algoritmos, Estructura De Datos  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

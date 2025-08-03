@@ -1,6 +1,6 @@
 ---
 title: "Refactored Configuration Paths and Evaluated System Design"
-tags: ['refactor', 'configuration', 'system design', 'email triage', 'CLI', 'user experience']
+tags: ['Refactor', 'Configuration', 'System Design', 'Email Triage', 'CLI', 'User Experience']
 created: 2025-07-08
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-07-08 — Session: Refactored Configuration Paths and Evaluated System Design
 
 **🕒 20:55–21:30**  
-**🏷️ Labels**: refactor, configuration, system design, email triage, CLI, user experience  
+**🏷️ Labels**: Refactor, Configuration, System Design, Email Triage, CLI, User Experience  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

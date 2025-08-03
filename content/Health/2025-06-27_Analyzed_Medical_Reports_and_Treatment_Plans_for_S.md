@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Medical Reports and Treatment Plans for Syphilis"
-tags: ['medical report', 'syphilis', 'treatment', 'serology', 'healthcare']
+tags: ['Medical Report', 'Syphilis', 'Treatment', 'Serology', 'Healthcare']
 created: 2025-06-27
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-27 — Session: Analyzed Medical Reports and Treatment Plans for Syphilis
 
 **🕒 19:25–19:50**  
-**🏷️ Labels**: medical report, syphilis, treatment, serology, healthcare  
+**🏷️ Labels**: Medical Report, Syphilis, Treatment, Serology, Healthcare  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

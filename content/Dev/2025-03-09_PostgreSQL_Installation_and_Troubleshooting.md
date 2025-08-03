@@ -1,6 +1,6 @@
 ---
 title: "PostgreSQL Installation and Troubleshooting"
-tags: ['PostgreSQL', 'Installation', 'Troubleshooting', 'Google Sheets', 'Database']
+tags: ['Postgresql', 'Installation', 'Troubleshooting', 'Google Sheets', 'Database']
 created: 2025-03-09
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-09 — Session: PostgreSQL Installation and Troubleshooting
 
 **🕒 02:50–03:30**  
-**🏷️ Labels**: PostgreSQL, Installation, Troubleshooting, Google Sheets, Database  
+**🏷️ Labels**: Postgresql, Installation, Troubleshooting, Google Sheets, Database  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

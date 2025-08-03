@@ -1,6 +1,6 @@
 ---
 title: "Enhanced MDX and Next.js Integration"
-tags: ['MDX', 'Next.js', 'getStaticProps', 'React', 'Automation']
+tags: ['MDX', 'Next.Js', 'Getstaticprops', 'React', 'Automation']
 created: 2025-01-06
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-01-06 — Session: Enhanced MDX and Next.js Integration
 
 **🕒 15:15–16:00**  
-**🏷️ Labels**: MDX, Next.js, getStaticProps, React, Automation  
+**🏷️ Labels**: MDX, Next.Js, Getstaticprops, React, Automation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -23,12 +23,12 @@ The primary goal of this session was to enhance the integration of MDX files wit
 - Developed a guide for reading [[CSV]] files in Next.js to populate `<RepoCards />` components using `getStaticProps`.
 - Managed repository data filtering directly within individual pages, enabling autonomy without a global wrapper.
 - Resolved MDX layout issues by separating logic and content into distinct files for better compliance with Next.js rules.
-- Automated the insertion of [[JSON]] snippets into MDX files using a bash script to enhance [[workflow]] efficiency.
+- Automated the insertion of [[JSON]] snippets into MDX files using a bash script to enhance workflow efficiency.
 - Planned a template-driven approach for generating `.mdx` files using [[Python]] scripting.
 
 ### Achievements
 - Successfully integrated MDX components and data fetching strategies in Next.js.
-- Improved [[workflow]] efficiency with [[automation]] scripts.
+- Improved workflow efficiency with automation scripts.
 
 ### Pending Tasks
 - Further testing and refinement of the template-driven approach for `.mdx` file generation.

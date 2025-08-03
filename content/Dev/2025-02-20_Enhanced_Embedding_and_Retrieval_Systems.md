@@ -28,8 +28,8 @@ The session aimed to enhance the efficiency and modularity of embedding and retr
 ### Achievements
 - Improved performance and modularity of embedding and retrieval systems.
 - Established a structured approach for embedding storage and retrieval.
-- Enhanced [[AI]] [[workflow]] integration with modular scripts and caching strategies.
+- Enhanced [[AI]] workflow integration with modular scripts and caching strategies.
 
 ### Pending Tasks
-- Further [[optimization]] of modular retrieval systems and exploration of additional caching strategies.
+- Further optimization of modular retrieval systems and exploration of additional caching strategies.
 - Continued enhancements to the CLI and embedder class for better performance.

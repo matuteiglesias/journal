@@ -1,6 +1,6 @@
 ---
 title: "Explored Future Developments in HIV Treatment"
-tags: ['HIV', 'treatment', 'biotechnology', 'AI', 'healthcare']
+tags: ['HIV', 'Treatment', 'Biotechnology', 'AI', 'Healthcare']
 created: 2025-03-26
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-03-26 — Session: Explored Future Developments in HIV Treatment
 
 **🕒 19:35–21:50**  
-**🏷️ Labels**: HIV, treatment, biotechnology, AI, healthcare  
+**🏷️ Labels**: HIV, Treatment, Biotechnology, AI, Healthcare  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

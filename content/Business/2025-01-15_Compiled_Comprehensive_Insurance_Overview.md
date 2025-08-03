@@ -1,6 +1,6 @@
 ---
 title: "Compiled Comprehensive Insurance Overview"
-tags: ['insurance', 'coverage', 'business', 'memo', 'policy']
+tags: ['Insurance', 'Coverage', 'Business', 'Memo', 'Policy']
 created: 2025-01-15
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-15 — Session: Compiled Comprehensive Insurance Overview
 
 **🕒 14:40–15:30**  
-**🏷️ Labels**: insurance, coverage, business, memo, policy  
+**🏷️ Labels**: Insurance, Coverage, Business, Memo, Policy  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to manage the deployment and [[debugging]] of an application on Hugging Face Spaces.
+The goal of this session was to manage the deployment and debugging of an application on Hugging Face Spaces.
 
 ### Key Activities
 - **Wiping and Re-uploading Files**: Followed a step-by-step guide to safely delete all files from a Hugging Face Space and re-upload fresh files using the `huggingface_hub` library.

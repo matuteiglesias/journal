@@ -1,6 +1,6 @@
 ---
 title: "Enhanced HTML Contact Extraction"
-tags: ['Python', 'BeautifulSoup', 'HTML', 'Data Extraction', 'JSON']
+tags: ['Python', 'Beautifulsoup', 'HTML', 'Data Extraction', 'JSON']
 created: 2025-01-16
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-01-16 — Session: Enhanced HTML Contact Extraction
 
 **🕒 17:30–18:00**  
-**🏷️ Labels**: Python, BeautifulSoup, HTML, Data Extraction, JSON  
+**🏷️ Labels**: Python, Beautifulsoup, HTML, Data Extraction, JSON  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -19,7 +19,7 @@ The goal of this session was to develop and debug a [[Python]] script for extrac
 ### Key Activities
 - Developed a [[Python]] script using BeautifulSoup to extract contact information from HTML files.
 - Debugged the script to improve data extraction accuracy and address issues related to text matching and formatting.
-- Implemented a [[strategy]] for parsing and storing data in [[JSON]] format, ensuring data cleanliness and file size efficiency.
+- Implemented a strategy for parsing and storing data in [[JSON]] format, ensuring data cleanliness and file size efficiency.
 
 ### Achievements
 - Successfully extracted structured data from HTML elements and saved it in both [[CSV]] and [[JSON]] formats.

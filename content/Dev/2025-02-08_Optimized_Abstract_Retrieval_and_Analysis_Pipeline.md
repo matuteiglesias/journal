@@ -1,6 +1,6 @@
 ---
 title: "Optimized Abstract Retrieval and Analysis Pipeline"
-tags: ['API', 'abstracts', 'AI', 'data pipeline', 'CrossRef', 'Semantic Scholar']
+tags: ['API', 'Abstracts', 'AI', 'Data Pipeline', 'Crossref', 'Semantic Scholar']
 created: 2025-02-08
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-08 — Session: Optimized Abstract Retrieval and Analysis Pipeline
 
 **🕒 15:20–16:10**  
-**🏷️ Labels**: API, abstracts, AI, data pipeline, CrossRef, Semantic Scholar  
+**🏷️ Labels**: API, Abstracts, AI, Data Pipeline, Crossref, Semantic Scholar  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -26,7 +26,7 @@ The goal of this session was to optimize the retrieval and analysis of research 
 - Developed [[AI]] agent instructions for optimal abstract analysis and insights on priming techniques for LLMs.
 
 ### Achievements
-- Established a comprehensive [[workflow]] for abstract retrieval and integration.
+- Established a comprehensive workflow for abstract retrieval and integration.
 - Enhanced [[AI]] agent instructions for abstract analysis, focusing on clarity, specificity, and completeness.
 
 ### Pending Tasks

@@ -1,6 +1,6 @@
 ---
 title: "Analysis and Evaluation of Educational Data Models"
-tags: ['evaluation', 'education', 'data modeling', 'database design', 'ER diagrams']
+tags: ['Evaluation', 'Education', 'Data Modeling', 'Database Design', 'Er Diagrams']
 created: 2025-05-31
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-31 — Session: Analysis and Evaluation of Educational Data Models
 
 **🕒 21:00–21:30**  
-**🏷️ Labels**: evaluation, education, data modeling, database design, ER diagrams  
+**🏷️ Labels**: Evaluation, Education, Data Modeling, Database Design, Er Diagrams  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

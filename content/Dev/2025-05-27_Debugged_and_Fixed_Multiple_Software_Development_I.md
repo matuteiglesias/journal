@@ -1,6 +1,6 @@
 ---
 title: "Debugged and Fixed Multiple Software Development Issues"
-tags: ['Debugging', 'Python', 'Flask', 'TypeScript', 'MySQL']
+tags: ['Debugging', 'Python', 'Flask', 'Typescript', 'Mysql']
 created: 2025-05-27
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-27 — Session: Debugged and Fixed Multiple Software Development Issues
 
 **🕒 21:05–22:50**  
-**🏷️ Labels**: Debugging, Python, Flask, TypeScript, MySQL  
+**🏷️ Labels**: Debugging, Python, Flask, Typescript, Mysql  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -29,7 +29,7 @@ The session aimed to diagnose and resolve various software development issues re
 
 ### Achievements
 - Successfully resolved multiple software errors, improving system stability and functionality.
-- Enhanced configuration management and [[error handling]] across different components.
+- Enhanced configuration management and error handling across different components.
 
 ### Pending Tasks
 - Continue monitoring the system for any recurring issues and ensure all configurations remain robust.

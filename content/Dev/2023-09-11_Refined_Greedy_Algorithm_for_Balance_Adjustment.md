@@ -1,6 +1,6 @@
 ---
 title: "Refined Greedy Algorithm for Balance Adjustment"
-tags: ['greedy algorithm', 'balance adjustment', 'function redefinition', 'algorithm comparison']
+tags: ['Greedy Algorithm', 'Balance Adjustment', 'Function Redefinition', 'Algorithm Comparison']
 created: 2023-09-11
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-11 — Session: Refined Greedy Algorithm for Balance Adjustment
 
 **🕒 16:30–16:40**  
-**🏷️ Labels**: greedy algorithm, balance adjustment, function redefinition, algorithm comparison  
+**🏷️ Labels**: Greedy Algorithm, Balance Adjustment, Function Redefinition, Algorithm Comparison  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

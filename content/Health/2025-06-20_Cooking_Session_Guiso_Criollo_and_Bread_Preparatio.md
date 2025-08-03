@@ -1,6 +1,6 @@
 ---
 title: "Cooking Session: Guiso Criollo and Bread Preparation"
-tags: ['cooking', 'recipe', 'guiso', 'bread', 'preparation']
+tags: ['Cooking', 'Recipe', 'Guiso', 'Bread', 'Preparation']
 created: 2025-06-20
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-20 — Session: Cooking Session: Guiso Criollo and Bread Preparation
 
 **🕒 04:00–05:40**  
-**🏷️ Labels**: cooking, recipe, guiso, bread, preparation  
+**🏷️ Labels**: Cooking, Recipe, Guiso, Bread, Preparation  
 **📂 Project**: Health  
 **⭐ Priority**: LOW  
 

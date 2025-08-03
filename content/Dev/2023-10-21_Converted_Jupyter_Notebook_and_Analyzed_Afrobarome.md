@@ -1,6 +1,6 @@
 ---
 title: "Converted Jupyter Notebook and Analyzed Afrobarometer Data"
-tags: ['Jupyter', 'HTML Conversion', 'Afrobarometer', 'Data Analysis', 'Visualization']
+tags: ['Jupyter', 'Html Conversion', 'Afrobarometer', 'Data Analysis', 'Visualization']
 created: 2023-10-21
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-10-21 — Session: Converted Jupyter Notebook and Analyzed Afrobarometer Data
 
 **🕒 21:40–22:20**  
-**🏷️ Labels**: Jupyter, HTML Conversion, Afrobarometer, Data Analysis, Visualization  
+**🏷️ Labels**: Jupyter, Html Conversion, Afrobarometer, Data Analysis, Visualization  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

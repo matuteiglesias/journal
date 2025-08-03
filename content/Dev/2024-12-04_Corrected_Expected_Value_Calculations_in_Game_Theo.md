@@ -1,6 +1,6 @@
 ---
 title: "Corrected Expected Value Calculations in Game Theory"
-tags: ['game theory', 'expected value', 'Python', 'probability', 'numerical integration']
+tags: ['Game Theory', 'Expected Value', 'Python', 'Probability', 'Numerical Integration']
 created: 2024-12-04
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-04 — Session: Corrected Expected Value Calculations in Game Theory
 
 **🕒 21:25–22:00**  
-**🏷️ Labels**: game theory, expected value, Python, probability, numerical integration  
+**🏷️ Labels**: Game Theory, Expected Value, Python, Probability, Numerical Integration  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

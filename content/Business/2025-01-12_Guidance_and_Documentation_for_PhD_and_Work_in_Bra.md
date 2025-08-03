@@ -1,6 +1,6 @@
 ---
 title: "Guidance and Documentation for PhD and Work in Brazil"
-tags: ['PhD', 'Brazil', 'documentation', 'diploma', 'QR code', 'verification']
+tags: ['Phd', 'Brazil', 'Documentation', 'Diploma', 'Qr Code', 'Verification']
 created: 2025-01-12
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-12 — Session: Guidance and Documentation for PhD and Work in Brazil
 
 **🕒 16:10–17:20**  
-**🏷️ Labels**: PhD, Brazil, documentation, diploma, QR code, verification  
+**🏷️ Labels**: Phd, Brazil, Documentation, Diploma, Qr Code, Verification  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: false
 The session aimed to gather and organize information related to working in Brazil as an Argentine citizen and managing PhD certification processes.
 
 ### Key Activities
-- Reviewed requirements for Argentine citizens to work in Brazil, including visa and [[documentation]] needs.
+- Reviewed requirements for Argentine citizens to work in Brazil, including visa and documentation needs.
 - Compiled a checklist for those seeking employment in Brazil as tourists.
 - Detailed the process for validating a university degree from UBA for use in Argentina and abroad.
 - Explored decoding and interpreting Base64 and hexadecimal data from QR codes for data verification.

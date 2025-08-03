@@ -1,6 +1,6 @@
 ---
 title: "Explored and Implemented Summarization and Retrieval Techniques"
-tags: ['summarization', 'RAG', 'FAISS', 'Hugging Face', 'retrieval', 'embeddings']
+tags: ['Summarization', 'RAG', 'FAISS', 'Hugging Face', 'Retrieval', 'Embeddings']
 created: 2025-02-18
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-18 — Session: Explored and Implemented Summarization and Retrieval Techniques
 
 **🕒 14:20–16:10**  
-**🏷️ Labels**: summarization, RAG, FAISS, Hugging Face, retrieval, embeddings  
+**🏷️ Labels**: Summarization, RAG, FAISS, Hugging Face, Retrieval, Embeddings  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -23,12 +23,12 @@ The primary goal of this session was to explore various summarization techniques
 - Discussed handling large text collections with FAISS and DPR, focusing on scalability and memory requirements.
 - Created a Hugging Face Dataset with FAISS indexing, including embedding computation and dataset saving.
 - Corrected FAISS index handling and resolved related errors in Hugging Face datasets.
-- Developed a modular script structure for [[data processing]] and retrieval.
+- Developed a modular script structure for data processing and retrieval.
 - Improved retrieval accuracy in FAISS by refining embedding models and using semantic similarity.
 
 ### Achievements
 - Successfully implemented and corrected FAISS index handling in datasets.
-- Developed a robust modular script for [[data processing]] and retrieval.
+- Developed a robust modular script for data processing and retrieval.
 
 ### Pending Tasks
 - Further explore and refine semantic ranking strategies for improved retrieval accuracy.

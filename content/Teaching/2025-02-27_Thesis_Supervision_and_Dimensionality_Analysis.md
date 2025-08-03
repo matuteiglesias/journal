@@ -1,6 +1,6 @@
 ---
 title: "Thesis Supervision and Dimensionality Analysis"
-tags: ['dimensionality', 'thesis', 'supervision', 'autoencoder', 'PCA', 'feature selection']
+tags: ['Dimensionality', 'Thesis', 'Supervision', 'Autoencoder', 'PCA', 'Feature Selection']
 created: 2025-02-27
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-27 — Session: Thesis Supervision and Dimensionality Analysis
 
 **🕒 04:00–05:00**  
-**🏷️ Labels**: dimensionality, thesis, supervision, autoencoder, PCA, feature selection  
+**🏷️ Labels**: Dimensionality, Thesis, Supervision, Autoencoder, PCA, Feature Selection  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

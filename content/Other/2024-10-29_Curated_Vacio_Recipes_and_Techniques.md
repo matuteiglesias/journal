@@ -1,6 +1,6 @@
 ---
 title: "Curated Vacio Recipes and Techniques"
-tags: ['cooking', 'recipes', 'vacio', 'Argentine cuisine', 'pressure cooking', 'side dishes']
+tags: ['Cooking', 'Recipes', 'Vacio', 'Argentine Cuisine', 'Pressure Cooking', 'Side Dishes']
 created: 2024-10-29
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-29 — Session: Curated Vacio Recipes and Techniques
 
 **🕒 00:05–01:10**  
-**🏷️ Labels**: cooking, recipes, vacio, Argentine cuisine, pressure cooking, side dishes  
+**🏷️ Labels**: Cooking, Recipes, Vacio, Argentine Cuisine, Pressure Cooking, Side Dishes  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

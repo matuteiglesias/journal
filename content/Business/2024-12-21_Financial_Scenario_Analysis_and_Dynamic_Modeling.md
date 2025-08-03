@@ -1,6 +1,6 @@
 ---
 title: "Financial Scenario Analysis and Dynamic Modeling"
-tags: ['financial analysis', 'savings scenarios', 'Google Sheets', 'business strategy']
+tags: ['Financial Analysis', 'Savings Scenarios', 'Google Sheets', 'Business Strategy']
 created: 2024-12-21
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-12-21 — Session: Financial Scenario Analysis and Dynamic Modeling
 
 **🕒 05:00–07:10**  
-**🏷️ Labels**: financial analysis, savings scenarios, Google Sheets, business strategy  
+**🏷️ Labels**: Financial Analysis, Savings Scenarios, Google Sheets, Business Strategy  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

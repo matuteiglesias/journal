@@ -1,6 +1,6 @@
 ---
 title: "Developed Hierarchical Diagram for Automotive Diagnostics"
-tags: ['automotive', 'diagnostics', 'fuel system', 'engine management', 'diagram']
+tags: ['Automotive', 'Diagnostics', 'Fuel System', 'Engine Management', 'Diagram']
 created: 2023-12-23
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-12-23 — Session: Developed Hierarchical Diagram for Automotive Diagnostics
 
 **🕒 14:30–15:10**  
-**🏷️ Labels**: automotive, diagnostics, fuel system, engine management, diagram  
+**🏷️ Labels**: Automotive, Diagnostics, Fuel System, Engine Management, Diagram  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

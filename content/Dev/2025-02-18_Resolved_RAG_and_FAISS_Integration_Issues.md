@@ -1,6 +1,6 @@
 ---
 title: "Resolved RAG and FAISS Integration Issues"
-tags: ['RAG', 'FAISS', 'transformers', 'error handling', 'code fixes']
+tags: ['RAG', 'FAISS', 'Transformers', 'Error Handling', 'Code Fixes']
 created: 2025-02-18
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-18 — Session: Resolved RAG and FAISS Integration Issues
 
 **🕒 17:00–17:50**  
-**🏷️ Labels**: RAG, FAISS, transformers, error handling, code fixes  
+**🏷️ Labels**: RAG, FAISS, Transformers, Error Handling, Code Fixes  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

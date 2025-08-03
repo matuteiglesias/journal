@@ -1,6 +1,6 @@
 ---
 title: "Optimized Harmonic Series Calculation and Performance Analysis"
-tags: ['harmonic series', 'precision', 'performance', 'Python', 'optimization']
+tags: ['Harmonic Series', 'Precision', 'Performance', 'Python', 'Optimization']
 created: 2024-08-25
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-08-25 — Session: Optimized Harmonic Series Calculation and Performance Analysis
 
 **🕒 01:10–02:15**  
-**🏷️ Labels**: harmonic series, precision, performance, Python, optimization  
+**🏷️ Labels**: Harmonic Series, Precision, Performance, Python, Optimization  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -31,5 +31,5 @@ The session aimed to optimize the calculation of the harmonic series using [[Pyt
 - Successfully visualized and compared the results of calculations across precision levels.
 
 ### Pending Tasks
-- Further refine the performance [[optimization]] strategies to reduce execution time without compromising precision.
+- Further refine the performance optimization strategies to reduce execution time without compromising precision.
 - Explore additional methods for enhancing the precision and speed of harmonic series calculations.

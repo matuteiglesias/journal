@@ -1,6 +1,6 @@
 ---
 title: "Explored Interdisciplinary Organizational Strategies"
-tags: ['organizational dynamics', 'workplace harassment', 'therapy', 'cognitive-behavioral', 'personal growth']
+tags: ['Organizational Dynamics', 'Workplace Harassment', 'Therapy', 'Cognitive-Behavioral', 'Personal Growth']
 created: 2023-12-08
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-12-08 — Session: Explored Interdisciplinary Organizational Strategies
 
 **🕒 01:15–01:40**  
-**🏷️ Labels**: organizational dynamics, workplace harassment, therapy, cognitive-behavioral, personal growth  
+**🏷️ Labels**: Organizational Dynamics, Workplace Harassment, Therapy, Cognitive-Behavioral, Personal Growth  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: false
 The session aimed to explore interdisciplinary strategies in organizational studies and understand psychological workplace harassment and therapeutic approaches to political and personal challenges.
 
 ### Key Activities
-- Discussed various interdisciplinary branches contributing to organizational dynamics, including psychology, human resource management, [[communication]], political science, sociology, [[leadership]] theory, social psychology, business ethics, and organizational development.
+- Discussed various interdisciplinary branches contributing to organizational dynamics, including psychology, human resource management, communication, political science, sociology, leadership theory, social psychology, business ethics, and organizational development.
 - Analyzed key points for recognizing and addressing psychological workplace harassment, focusing on power dynamics, mental health impacts, and promoting a healthy organizational culture.
 - Explored therapeutic responses to political and personal challenges using cognitive-behavioral and humanistic approaches.
 - Reviewed insights from a cognitive-behavioral therapy session, focusing on identifying and challenging negative thought patterns.
@@ -29,5 +29,5 @@ The session aimed to explore interdisciplinary strategies in organizational stud
 - Clarified therapeutic techniques for managing political and personal challenges.
 
 ### Pending Tasks
-- Further exploration of organizational [[communication]] strategies.
+- Further exploration of organizational communication strategies.
 - Detailed study on implementing cognitive-behavioral techniques in organizational settings.

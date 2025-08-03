@@ -1,6 +1,6 @@
 ---
 title: "Graph and Data Infrastructure Planning"
-tags: ['graph databases', 'data infrastructure', 'Neo4j', 'web crawling', 'AI workflows']
+tags: ['Graph Databases', 'Data Infrastructure', 'Neo4J', 'Web Crawling', 'Ai Workflows']
 created: 2025-02-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-17 — Session: Graph and Data Infrastructure Planning
 
 **🕒 00:00–02:30**  
-**🏷️ Labels**: graph databases, data infrastructure, Neo4j, web crawling, AI workflows  
+**🏷️ Labels**: Graph Databases, Data Infrastructure, Neo4J, Web Crawling, Ai Workflows  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -20,7 +20,7 @@ The session focused on planning and designing graph databases and data infrastru
 - Discussed graph traversal queries using SPARQL and Cypher for embedding and property graph models.
 - Outlined a property graph schema for managing contact networks.
 - Planned a scalable system for tracking interactions and relationships over time.
-- Designed a [[data processing]] pipeline for Neo4j, including data ingestion and cleaning.
+- Designed a data processing pipeline for Neo4j, including data ingestion and cleaning.
 - Explored strategies for effective web crawling and institutional mapping.
 
 ### Achievements
@@ -28,5 +28,5 @@ The session focused on planning and designing graph databases and data infrastru
 - Identified key strategies for web crawling and institutional mapping.
 
 ### Pending Tasks
-- Implement the designed [[data processing]] pipeline and graph schema.
+- Implement the designed data processing pipeline and graph schema.
 - Integrate [[AI]] workflows for autonomous data management.

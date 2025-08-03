@@ -1,6 +1,6 @@
 ---
 title: "Conducted AI and Software Role Assessments"
-tags: ['AI', 'Job Assessment', 'Career Development', 'Software Development', 'Python', 'MLOps']
+tags: ['AI', 'Job Assessment', 'Career Development', 'Software Development', 'Python', 'Mlops']
 created: 2025-06-04
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-04 — Session: Conducted AI and Software Role Assessments
 
 **🕒 21:30–22:00**  
-**🏷️ Labels**: AI, Job Assessment, Career Development, Software Development, Python, MLOps  
+**🏷️ Labels**: AI, Job Assessment, Career Development, Software Development, Python, Mlops  
 **📂 Project**: JobMarket  
 **⭐ Priority**: MEDIUM  
 

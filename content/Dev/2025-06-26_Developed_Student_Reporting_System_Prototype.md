@@ -1,6 +1,6 @@
 ---
 title: "Developed Student Reporting System Prototype"
-tags: ['Python', 'DataFrame', 'WeasyPrint', 'Jupyter', 'PDF', 'CSS']
+tags: ['Python', 'Dataframe', 'Weasyprint', 'Jupyter', 'PDF', 'CSS']
 created: 2025-06-26
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-06-26 — Session: Developed Student Reporting System Prototype
 
 **🕒 04:55–05:50**  
-**🏷️ Labels**: Python, DataFrame, WeasyPrint, Jupyter, PDF, CSS  
+**🏷️ Labels**: Python, Dataframe, Weasyprint, Jupyter, PDF, CSS  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

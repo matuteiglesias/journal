@@ -1,6 +1,6 @@
 ---
 title: "Structured Plant Dataset and Care Insights"
-tags: ['plant dataset', 'botanical information', 'gardening', 'plant care']
+tags: ['Plant Dataset', 'Botanical Information', 'Gardening', 'Plant Care']
 created: 2023-11-21
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-11-21 — Session: Structured Plant Dataset and Care Insights
 
 **🕒 03:00–04:00**  
-**🏷️ Labels**: plant dataset, botanical information, gardening, plant care  
+**🏷️ Labels**: Plant Dataset, Botanical Information, Gardening, Plant Care  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

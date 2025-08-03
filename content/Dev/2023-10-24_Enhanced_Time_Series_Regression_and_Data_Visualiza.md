@@ -14,7 +14,7 @@ publish: true
 
 
 **Session Goal:**
-The session aimed to enhance the robustness of time series regression analysis and improve [[data visualization]] techniques using [[Python]].
+The session aimed to enhance the robustness of time series regression analysis and improve data visualization techniques using [[Python]].
 
 **Key Activities:**
 - Developed methods for detecting exponential trends in time series data, specifically for the year 2021, by applying data filtering, transformation, and linear regression.

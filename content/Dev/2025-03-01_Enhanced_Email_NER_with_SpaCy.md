@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Email NER with SpaCy"
-tags: ['NER', 'SpaCy', 'Email Analysis', 'Entity Extraction', 'Machine Learning']
+tags: ['NER', 'Spacy', 'Email Analysis', 'Entity Extraction', 'Machine Learning']
 created: 2025-03-01
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-01 — Session: Enhanced Email NER with SpaCy
 
 **🕒 03:40–04:00**  
-**🏷️ Labels**: NER, SpaCy, Email Analysis, Entity Extraction, Machine Learning  
+**🏷️ Labels**: NER, Spacy, Email Analysis, Entity Extraction, Machine Learning  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

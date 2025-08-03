@@ -1,6 +1,6 @@
 ---
 title: "Resolved CSS and Tailwind Setup Issues"
-tags: ['CSS', 'Tailwind CSS', 'Error Fix', 'Web Development', 'Next.js']
+tags: ['CSS', 'Tailwind Css', 'Error Fix', 'Web Development', 'Next.Js']
 created: 2025-04-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-12 — Session: Resolved CSS and Tailwind Setup Issues
 
 **🕒 21:00–21:45**  
-**🏷️ Labels**: CSS, Tailwind CSS, Error Fix, Web Development, Next.js  
+**🏷️ Labels**: CSS, Tailwind Css, Error Fix, Web Development, Next.Js  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

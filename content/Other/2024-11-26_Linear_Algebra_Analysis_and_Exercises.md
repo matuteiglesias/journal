@@ -1,6 +1,6 @@
 ---
 title: "Linear Algebra Analysis and Exercises"
-tags: ['linear algebra', 'matrices', 'condition numbers', 'projections', 'eigenvalues']
+tags: ['Linear Algebra', 'Matrices', 'Condition Numbers', 'Projections', 'Eigenvalues']
 created: 2024-11-26
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-26 — Session: Linear Algebra Analysis and Exercises
 
 **🕒 18:35–18:55**  
-**🏷️ Labels**: linear algebra, matrices, condition numbers, projections, eigenvalues  
+**🏷️ Labels**: Linear Algebra, Matrices, Condition Numbers, Projections, Eigenvalues  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

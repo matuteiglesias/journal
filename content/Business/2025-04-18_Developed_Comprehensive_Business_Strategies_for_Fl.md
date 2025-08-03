@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Business Strategies for FlowMaster"
-tags: ['FlowMaster', 'business strategy', 'product launch', 'SaaS', 'affiliate marketing']
+tags: ['Flowmaster', 'Business Strategy', 'Product Launch', 'Saas', 'Affiliate Marketing']
 created: 2025-04-18
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-04-18 — Session: Developed Comprehensive Business Strategies for FlowMaster
 
 **🕒 11:50–12:40**  
-**🏷️ Labels**: FlowMaster, business strategy, product launch, SaaS, affiliate marketing  
+**🏷️ Labels**: Flowmaster, Business Strategy, Product Launch, Saas, Affiliate Marketing  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

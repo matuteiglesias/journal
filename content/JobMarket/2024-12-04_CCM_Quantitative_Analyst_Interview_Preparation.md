@@ -17,9 +17,9 @@ publish: false
 The session aimed to prepare a comprehensive plan for a CCM Quantitative Analyst interview, addressing key knowledge areas, evaluation metrics, actionable tasks, resources, and a timeline for preparation.
 
 ### Key Activities
-- Structured a plan for securing a Quant Analyst position, focusing on [[data analysis]], game theory, Bayesian reasoning, and presentation strategies.
+- Structured a plan for securing a Quant Analyst position, focusing on data analysis, game theory, Bayesian reasoning, and presentation strategies.
 - Compiled study resources for Game Theory and Bayesian Reasoning, including a curated list of books and chapters.
-- Developed an analytical framework for understanding correlation in finance, specifically for Juan's inquiry, emphasizing [[data analysis]] skills.
+- Developed an analytical framework for understanding correlation in finance, specifically for Juan's inquiry, emphasizing data analysis skills.
 - Created core visualizations for hedge fund investment analysis, focusing on rolling correlations and macro events.
 - Analyzed volatility metrics in financial markets, discussing rolling volatility and its implications for hedge fund risk management.
 - Prepared an execution checklist for rolling correlation analysis, covering environment setup and asset selection.

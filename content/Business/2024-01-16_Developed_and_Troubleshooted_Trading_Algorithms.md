@@ -1,6 +1,6 @@
 ---
 title: "Developed and Troubleshooted Trading Algorithms"
-tags: ['trading', 'algorithmic trading', 'Backtrader', 'PyAlgoTrade', 'Zipline']
+tags: ['Trading', 'Algorithmic Trading', 'Backtrader', 'Pyalgotrade', 'Zipline']
 created: 2024-01-16
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-01-16 — Session: Developed and Troubleshooted Trading Algorithms
 
 **🕒 04:25–06:15**  
-**🏷️ Labels**: trading, algorithmic trading, Backtrader, PyAlgoTrade, Zipline  
+**🏷️ Labels**: Trading, Algorithmic Trading, Backtrader, Pyalgotrade, Zipline  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: false
 The session aimed to develop and troubleshoot various trading algorithms using different frameworks such as Backtrader, PyAlgoTrade, and Zipline.
 
 ### Key Activities
-- **Algorithm Development**: Explored structured approaches to building trading algorithms, including [[strategy]] definition, historical data handling, and compliance.
+- **Algorithm [[Development]]**: Explored structured approaches to building trading algorithms, including strategy definition, historical data handling, and compliance.
 - **Framework Implementation**: Implemented custom trading strategies in Backtrader and PyAlgoTrade, focusing on residuals-based strategies and entry/exit criteria.
 - **Error Resolution**: Addressed `AttributeError` in PyAlgoTrade by correcting data feed setup and resolved `ModuleNotFoundError` in Zipline by managing [[Python]] environment compatibility.
 - **Environment Setup**: Created a [[Python]] 3.5 virtual environment for Zipline to ensure compatibility and avoid downgrading existing environments.
@@ -27,5 +27,5 @@ The session aimed to develop and troubleshoot various trading algorithms using d
 - Resolved critical errors in PyAlgoTrade and Zipline, ensuring smooth execution of trading strategies.
 
 ### Pending Tasks
-- Further testing and [[optimization]] of implemented strategies.
+- Further testing and optimization of implemented strategies.
 - Exploration of additional trading frameworks and strategies for enhanced performance.

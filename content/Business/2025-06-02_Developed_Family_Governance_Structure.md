@@ -1,6 +1,6 @@
 ---
 title: "Developed Family Governance Structure"
-tags: ['gobernanza', 'finanzas familiares', 'transparencia', 'conflictos familiares', 'acuerdos familiares', 'gestión de propiedades']
+tags: ['Gobernanza', 'Finanzas Familiares', 'Transparencia', 'Conflictos Familiares', 'Acuerdos Familiares', 'Gestión De Propiedades']
 created: 2025-06-02
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-02 — Session: Developed Family Governance Structure
 
 **🕒 22:05–22:25**  
-**🏷️ Labels**: gobernanza, finanzas familiares, transparencia, conflictos familiares, acuerdos familiares, gestión de propiedades  
+**🏷️ Labels**: Gobernanza, Finanzas Familiares, Transparencia, Conflictos Familiares, Acuerdos Familiares, Gestión De Propiedades  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

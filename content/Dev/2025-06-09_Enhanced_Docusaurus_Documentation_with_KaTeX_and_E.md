@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Docusaurus Documentation with KaTeX and Error Handling"
-tags: ['Docusaurus', 'KaTeX', 'Markdown', 'Error Handling', 'Integration', 'Troubleshooting']
+tags: ['Docusaurus', 'Katex', 'Markdown', 'Error Handling', 'Integration', 'Troubleshooting']
 created: 2025-06-09
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-06-09 — Session: Enhanced Docusaurus Documentation with KaTeX and Error Handling
 
 **🕒 21:35–22:30**  
-**🏷️ Labels**: Docusaurus, KaTeX, Markdown, Error Handling, Integration, Troubleshooting  
+**🏷️ Labels**: Docusaurus, Katex, Markdown, Error Handling, Integration, Troubleshooting  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to improve [[documentation]] practices in [[Docusaurus]] by integrating KaTeX for math rendering and addressing common errors.
+The session aimed to improve documentation practices in [[Docusaurus]] by integrating KaTeX for math rendering and addressing common errors.
 
 ### Key Activities
 - Enhanced prompt design for better readability and engagement using Markdown and LaTeX.
@@ -28,8 +28,8 @@ The session aimed to improve [[documentation]] practices in [[Docusaurus]] by in
 
 ### Achievements
 - Successfully integrated KaTeX into [[Docusaurus]], improving the rendering of math equations.
-- Resolved various parsing and rendering issues, enhancing the [[documentation]]'s robustness.
+- Resolved various parsing and rendering issues, enhancing the documentation's robustness.
 
 ### Pending Tasks
 - Further testing of KaTeX integration in different environments.
-- Continuous monitoring for any new errors in [[Docusaurus]] [[documentation]].
+- Continuous monitoring for any new errors in [[Docusaurus]] documentation.

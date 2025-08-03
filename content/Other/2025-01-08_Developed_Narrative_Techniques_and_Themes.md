@@ -1,6 +1,6 @@
 ---
 title: "Developed Narrative Techniques and Themes"
-tags: ['storytelling', 'narrative', 'social justice', 'emotional resilience', 'audio transcription']
+tags: ['Storytelling', 'Narrative', 'Social Justice', 'Emotional Resilience', 'Audio Transcription']
 created: 2025-01-08
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-08 — Session: Developed Narrative Techniques and Themes
 
 **🕒 05:00–05:15**  
-**🏷️ Labels**: storytelling, narrative, social justice, emotional resilience, audio transcription  
+**🏷️ Labels**: Storytelling, Narrative, Social Justice, Emotional Resilience, Audio Transcription  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

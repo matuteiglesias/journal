@@ -20,7 +20,7 @@ The session aimed to explore various aspects of Minecraft, focusing on building 
 - **Building Techniques**: Explored methods and tools for creating complex structures, emphasizing teamwork and creative modes.
 - **Gameplay Modes**: Discussed single-player vs multiplayer experiences, highlighting social and competitive aspects.
 - **Game Mechanics**: Delved into survival mechanics, world-building, and Redstone engineering potential.
-- **Artistic Visualization**: Conceptualized a Minecraft-style Earth visualization.
+- **Artistic [[Visualization]]**: Conceptualized a Minecraft-style Earth visualization.
 - **Redstone Logic**: Explained AND gates in Minecraft, including design variations and applications.
 - **World Design**: Analyzed the conceptual limits of Minecraft's cube-based world design.
 - **Engineering**: Explored flying machines using Redstone, slime, and honey blocks, detailing propulsion and control systems.

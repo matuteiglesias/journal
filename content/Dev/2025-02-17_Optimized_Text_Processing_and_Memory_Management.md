@@ -1,6 +1,6 @@
 ---
 title: "Optimized Text Processing and Memory Management"
-tags: ['text_processing', 'memory_management', 'Python', 'TF-IDF', 'spaCy', 'NLTK']
+tags: ['Text_Processing', 'Memory_Management', 'Python', 'TF-IDF', 'Spacy', 'NLTK']
 created: 2025-02-17
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-02-17 — Session: Optimized Text Processing and Memory Management
 
 **🕒 15:20–16:05**  
-**🏷️ Labels**: text_processing, memory_management, Python, TF-IDF, spaCy, NLTK  
+**🏷️ Labels**: Text_Processing, Memory_Management, Python, TF-IDF, Spacy, NLTK  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to enhance text processing capabilities and manage memory issues in [[Python]], focusing on keyword extraction, stopword handling, and memory [[optimization]].
+The session aimed to enhance text processing capabilities and manage memory issues in [[Python]], focusing on keyword extraction, stopword handling, and memory optimization.
 
 ### Key Activities
 - Explored strategies for filtering and selecting keywords using TF-IDF and LDA.

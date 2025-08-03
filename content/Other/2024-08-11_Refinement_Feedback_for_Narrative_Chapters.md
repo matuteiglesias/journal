@@ -1,6 +1,6 @@
 ---
 title: "Refinement Feedback for Narrative Chapters"
-tags: ['feedback', 'narrative', 'refinement', 'writing', 'communication']
+tags: ['Feedback', 'Narrative', 'Refinement', 'Writing', 'Communication']
 created: 2024-08-11
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-08-11 — Session: Refinement Feedback for Narrative Chapters
 
 **🕒 00:05–00:25**  
-**🏷️ Labels**: feedback, narrative, refinement, writing, communication  
+**🏷️ Labels**: Feedback, Narrative, Refinement, Writing, Communication  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

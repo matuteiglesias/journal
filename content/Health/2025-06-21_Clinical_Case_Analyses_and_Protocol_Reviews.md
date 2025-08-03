@@ -1,6 +1,6 @@
 ---
 title: "Clinical Case Analyses and Protocol Reviews"
-tags: ['clinical analysis', 'risk classification', 'emergency care', 'health protocols', 'patient safety']
+tags: ['Clinical Analysis', 'Risk Classification', 'Emergency Care', 'Health Protocols', 'Patient Safety']
 created: 2025-06-21
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-21 — Session: Clinical Case Analyses and Protocol Reviews
 
 **🕒 15:55–17:30**  
-**🏷️ Labels**: clinical analysis, risk classification, emergency care, health protocols, patient safety  
+**🏷️ Labels**: Clinical Analysis, Risk Classification, Emergency Care, Health Protocols, Patient Safety  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 
@@ -40,4 +40,4 @@ The session aimed to review and analyze various clinical cases and healthcare pr
 
 ### Pending Tasks
 - Further investigation into the efficacy of current protocols in real-world scenarios.
-- Development of training materials based on session insights for healthcare professionals.
+- [[Development]] of training materials based on session insights for healthcare professionals.

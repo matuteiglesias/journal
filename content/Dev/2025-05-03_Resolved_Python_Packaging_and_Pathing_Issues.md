@@ -1,6 +1,6 @@
 ---
 title: "Resolved Python Packaging and Pathing Issues"
-tags: ['Python', 'packaging', 'Cerebrum', 'SDK', 'pathing']
+tags: ['Python', 'Packaging', 'Cerebrum', 'SDK', 'Pathing']
 created: 2025-05-03
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-03 — Session: Resolved Python Packaging and Pathing Issues
 
 **🕒 02:00–02:15**  
-**🏷️ Labels**: Python, packaging, Cerebrum, SDK, pathing  
+**🏷️ Labels**: Python, Packaging, Cerebrum, SDK, Pathing  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

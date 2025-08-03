@@ -1,6 +1,6 @@
 ---
 title: "Diagnóstico y Soluciones para Problemas de Temperatura en Vehículos"
-tags: ['diagnóstico', 'mecánica', 'vehículos', 'temperatura', 'sensor']
+tags: ['Diagnóstico', 'Mecánica', 'Vehículos', 'Temperatura', 'Sensor']
 created: 2025-06-27
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-27 — Session: Diagnóstico y Soluciones para Problemas de Temperatura en Vehículos
 
 **🕒 17:45–18:05**  
-**🏷️ Labels**: diagnóstico, mecánica, vehículos, temperatura, sensor  
+**🏷️ Labels**: Diagnóstico, Mecánica, Vehículos, Temperatura, Sensor  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

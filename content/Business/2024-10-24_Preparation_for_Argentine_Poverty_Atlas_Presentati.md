@@ -17,7 +17,7 @@ publish: false
 The primary goal of this session was to prepare for the upcoming presentation of the Argentine Poverty Atlas at a Mapbox webinar.
 
 ### Key Activities
-- Added annotations to [[Matplotlib]] plots to enhance [[data visualization]].
+- Added annotations to [[Matplotlib]] plots to enhance data visualization.
 - Received an invitation to present the Argentine Poverty Atlas at a Mapbox webinar, including a 15-minute demo and Q&A session.
 - Developed a presentation outline, focusing on introduction, demo, and Q&A.
 - Reviewed the implementation details of the Argentine Poverty Atlas, including web mapping and backend management using Mapbox.

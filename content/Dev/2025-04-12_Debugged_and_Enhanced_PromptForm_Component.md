@@ -1,6 +1,6 @@
 ---
 title: "Debugged and Enhanced PromptForm Component"
-tags: ['React', 'TypeScript', 'Debugging', 'Component Design', 'Schema', 'PromptForm']
+tags: ['React', 'Typescript', 'Debugging', 'Component Design', 'Schema', 'Promptform']
 created: 2025-04-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-12 — Session: Debugged and Enhanced PromptForm Component
 
 **🕒 02:55–03:20**  
-**🏷️ Labels**: React, TypeScript, Debugging, Component Design, Schema, PromptForm  
+**🏷️ Labels**: React, Typescript, Debugging, Component Design, Schema, Promptform  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -23,7 +23,7 @@ The session aimed to debug and enhance the `PromptForm` component to effectively
 - Resolved issues with hooks like `useEffect` and return statements inside JSX in React, offering corrected code examples.
 - Fixed a runtime error by removing outdated code and ensuring the updated version is used.
 - Implemented a `useEffect` hook to fetch schema data from the backend, resolving conditional rendering issues.
-- Summarized [[debugging]] steps and MVP progress for the `PromptForm` component, including future development plans.
+- Summarized debugging steps and MVP progress for the `PromptForm` component, including future development plans.
 
 ### Achievements
 - Successfully debugged and enhanced the `PromptForm` component, ensuring proper schema handling and integration.

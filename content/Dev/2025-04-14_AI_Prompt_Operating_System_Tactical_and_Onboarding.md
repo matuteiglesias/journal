@@ -1,6 +1,6 @@
 ---
 title: "AI Prompt Operating System Tactical and Onboarding Session"
-tags: ['AI', 'project management', 'onboarding', 'development', 'checklist']
+tags: ['AI', 'Project Management', 'Onboarding', 'Development', 'Checklist']
 created: 2025-04-14
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-14 — Session: AI Prompt Operating System Tactical and Onboarding Session
 
 **🕒 13:10–13:35**  
-**🏷️ Labels**: AI, project management, onboarding, development, checklist  
+**🏷️ Labels**: AI, Project Management, Onboarding, Development, Checklist  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

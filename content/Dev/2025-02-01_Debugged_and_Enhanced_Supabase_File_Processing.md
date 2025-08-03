@@ -19,17 +19,17 @@ The goal of this session was to debug and enhance the file processing and metada
 ### Key Activities
 - Debugged a 404 error for Supabase documents table by checking endpoint validity, column names, and insert operations.
 - Aligned metadata structure between the `files` table and `process_book` function, updating UUID handling and field initialization.
-- Implemented a [[Python]] script for aggregated metadata collection, saving into a single [[JSON]] file with improved [[error handling]].
+- Implemented a [[Python]] script for aggregated metadata collection, saving into a single [[JSON]] file with improved error handling.
 - Revised `process_book` and `process_books_dir` functions to separate metadata collections for files and chunks.
 - Updated [[Python]] code for book processing to ensure alignment with the database schema.
-- Developed a function for uploading files and chunks to Supabase with [[error handling]].
+- Developed a function for uploading files and chunks to Supabase with error handling.
 - Corrected [[Python]] code for iterating over chunks and inserting them into the database.
 - Implemented parallel uploading of files and chunks to Supabase, ensuring data integrity.
 
 ### Achievements
 - Resolved the 404 error with Supabase documents table.
 - Enhanced metadata management and file processing with [[Python]].
-- Improved [[error handling]] and data integrity in file uploads to Supabase.
+- Improved error handling and data integrity in file uploads to Supabase.
 
 ### Pending Tasks
 - Further testing of the parallel upload process to ensure robustness.

@@ -1,6 +1,6 @@
 ---
 title: "Analysis and Planning for Data Collection and Course Syllabus"
-tags: ['data collection', 'FAISS', 'AI-assisted learning', 'LangFlow', 'thematic clustering']
+tags: ['Data Collection', 'FAISS', 'Ai-Assisted Learning', 'Langflow', 'Thematic Clustering']
 created: 2025-02-21
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-21 — Session: Analysis and Planning for Data Collection and Course Syllabus
 
 **🕒 21:00–23:20**  
-**🏷️ Labels**: data collection, FAISS, AI-assisted learning, LangFlow, thematic clustering  
+**🏷️ Labels**: Data Collection, FAISS, Ai-Assisted Learning, Langflow, Thematic Clustering  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

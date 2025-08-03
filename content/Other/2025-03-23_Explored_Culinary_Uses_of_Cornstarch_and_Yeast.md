@@ -1,6 +1,6 @@
 ---
 title: "Explored Culinary Uses of Cornstarch and Yeast"
-tags: ['culinary', 'cornstarch', 'yeast', 'recipes', 'cooking']
+tags: ['Culinary', 'Cornstarch', 'Yeast', 'Recipes', 'Cooking']
 created: 2025-03-23
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-03-23 — Session: Explored Culinary Uses of Cornstarch and Yeast
 
 **🕒 07:55–08:05**  
-**🏷️ Labels**: culinary, cornstarch, yeast, recipes, cooking  
+**🏷️ Labels**: Culinary, Cornstarch, Yeast, Recipes, Cooking  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

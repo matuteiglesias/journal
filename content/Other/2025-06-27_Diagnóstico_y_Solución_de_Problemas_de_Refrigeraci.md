@@ -1,6 +1,6 @@
 ---
 title: "Diagnóstico y Solución de Problemas de Refrigeración en Peugeot 207"
-tags: ['Peugeot 207', 'refrigeración', 'termostato', 'diagnóstico', 'mantenimiento']
+tags: ['Peugeot 207', 'Refrigeración', 'Termostato', 'Diagnóstico', 'Mantenimiento']
 created: 2025-06-27
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-27 — Session: Diagnóstico y Solución de Problemas de Refrigeración en Peugeot 207
 
 **🕒 20:10–20:40**  
-**🏷️ Labels**: Peugeot 207, refrigeración, termostato, diagnóstico, mantenimiento  
+**🏷️ Labels**: Peugeot 207, Refrigeración, Termostato, Diagnóstico, Mantenimiento  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

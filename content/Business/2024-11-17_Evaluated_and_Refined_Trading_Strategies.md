@@ -1,6 +1,6 @@
 ---
 title: "Evaluated and Refined Trading Strategies"
-tags: ['trading', 'risk management', 'strategy', 'evaluation']
+tags: ['Trading', 'Risk Management', 'Strategy', 'Evaluation']
 created: 2024-11-17
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-17 — Session: Evaluated and Refined Trading Strategies
 
 **🕒 00:10–00:20**  
-**🏷️ Labels**: trading, risk management, strategy, evaluation  
+**🏷️ Labels**: Trading, Risk Management, Strategy, Evaluation  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -18,7 +18,7 @@ The session aimed to explore and refine trading strategies, focusing on essentia
 
 ### Key Activities
 - Discussed the necessary skills and mindset shifts for successful trading, emphasizing risk management, consistency, and emotional discipline.
-- Evaluated a trading [[strategy]], identifying strengths in analytical depth and creativity, and areas for improvement such as [[strategy]] refinement and practical realism.
+- Evaluated a trading strategy, identifying strengths in analytical depth and creativity, and areas for improvement such as strategy refinement and practical realism.
 
 ### Achievements
 - Gained insights into the importance of maintaining realistic expectations and fostering continuous improvement in trading practices.

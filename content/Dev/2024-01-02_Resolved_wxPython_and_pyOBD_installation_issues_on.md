@@ -1,6 +1,6 @@
 ---
 title: "Resolved wxPython and pyOBD installation issues on Ubuntu"
-tags: ['wxPython', 'Ubuntu', 'pyOBD', 'Installation', 'Diagnostics']
+tags: ['Wxpython', 'Ubuntu', 'Pyobd', 'Installation', 'Diagnostics']
 created: 2024-01-02
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-01-02 — Session: Resolved wxPython and pyOBD installation issues on Ubuntu
 
 **🕒 14:35–14:55**  
-**🏷️ Labels**: wxPython, Ubuntu, pyOBD, Installation, Diagnostics  
+**🏷️ Labels**: Wxpython, Ubuntu, Pyobd, Installation, Diagnostics  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -29,4 +29,4 @@ Successfully resolved multiple installation issues related to wxPython and pyOBD
 
 ### Pending Tasks
 - Verify the stability of the wxPython and pyOBD installations over time and across various Ubuntu configurations.
-- Explore further [[optimization]] of the diagnostic software setup process.
+- Explore further optimization of the diagnostic software setup process.

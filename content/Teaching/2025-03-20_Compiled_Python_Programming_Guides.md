@@ -18,7 +18,7 @@ The goal of this session was to compile and finalize a series of technical guide
 
 ### Key Activities
 - Created a complete guide on [[Python]] basics, covering syntax, data types, and basic operations.
-- Developed detailed guides on control structures, functions, lists, tuples, dictionaries, [[error handling]], and modules in [[Python]].
+- Developed detailed guides on control structures, functions, lists, tuples, dictionaries, error handling, and modules in [[Python]].
 - Included a guide on text handling and input/output operations in [[Python]].
 - Compiled advanced guides on data structures and object-oriented programming concepts.
 - Confirmed readiness for text adaptation and formatting for educational delivery.
@@ -30,4 +30,4 @@ The goal of this session was to compile and finalize a series of technical guide
 - Review and adapt the guides for specific educational formats if required.
 
 ### Tags
-[[Python]], Programming, [[Education]], Technical Guide, Data Science
+[[Python]], Programming, [[Education]], Technical Guide, [[Data Science]]

@@ -1,6 +1,6 @@
 ---
 title: "Extracted and Structured Mercado Pago Transaction Data"
-tags: ['Mercado Pago', 'transaction data', 'CSV', 'data extraction', 'OCR']
+tags: ['Mercado Pago', 'Transaction Data', 'CSV', 'Data Extraction', 'OCR']
 created: 2025-03-15
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-15 — Session: Extracted and Structured Mercado Pago Transaction Data
 
 **🕒 01:05–01:45**  
-**🏷️ Labels**: Mercado Pago, transaction data, CSV, data extraction, OCR  
+**🏷️ Labels**: Mercado Pago, Transaction Data, CSV, Data Extraction, OCR  
 **📂 Project**: Accounting  
 **⭐ Priority**: MEDIUM  
 
@@ -28,5 +28,5 @@ The goal of this session was to extract transaction data from a Mercado Pago acc
 - Provided a downloadable [[CSV]] file for easy access and review.
 
 ### Pending Tasks
-- Implement further [[automation]] for recurring transaction data extraction tasks.
+- Implement further automation for recurring transaction data extraction tasks.
 - Explore more robust OCR solutions to handle language data issues.

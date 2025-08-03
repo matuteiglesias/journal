@@ -19,7 +19,7 @@ The session aimed to design and outline an [[AI]]-powered system for inventory m
 ### Key Activities
 - Explored core principles of inventory management applicable to both professional and home kitchens.
 - Calculated home par levels for grocery management to optimize stocking and reduce waste.
-- Designed a dynamic spreadsheet for home inventory management with [[automation]] features.
+- Designed a dynamic spreadsheet for home inventory management with automation features.
 - Planned a semi-automated system for inventory management and recipe planning using [[AI]].
 - Developed a project plan for an automated recipe management and inventory system.
 - Outlined [[AI]]-powered recipe generation using nutritional data.

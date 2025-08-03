@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Cryptocurrency Platforms and Transfer Procedures"
-tags: ['cryptocurrency', 'Argentina', 'exchange rates', 'prepaid cards', 'cross-border transfer']
+tags: ['Cryptocurrency', 'Argentina', 'Exchange Rates', 'Prepaid Cards', 'Cross-Border Transfer']
 created: 2023-10-07
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-10-07 — Session: Analyzed Cryptocurrency Platforms and Transfer Procedures
 
 **🕒 22:10–22:20**  
-**🏷️ Labels**: cryptocurrency, Argentina, exchange rates, prepaid cards, cross-border transfer  
+**🏷️ Labels**: Cryptocurrency, Argentina, Exchange Rates, Prepaid Cards, Cross-Border Transfer  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

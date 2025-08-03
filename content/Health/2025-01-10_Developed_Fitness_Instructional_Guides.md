@@ -1,6 +1,6 @@
 ---
 title: "Developed Fitness Instructional Guides"
-tags: ['fitness', 'exercise', 'technique', 'guide', 'diagram']
+tags: ['Fitness', 'Exercise', 'Technique', 'Guide', 'Diagram']
 created: 2025-01-10
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-10 — Session: Developed Fitness Instructional Guides
 
 **🕒 23:00–23:40**  
-**🏷️ Labels**: fitness, exercise, technique, guide, diagram  
+**🏷️ Labels**: Fitness, Exercise, Technique, Guide, Diagram  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Developed Summarization System for ChatGPT Logs"
-tags: ['summarization', 'ChatGPT', 'pipeline', 'optimization', 'NLP', 'automation']
+tags: ['Summarization', 'Chatgpt', 'Pipeline', 'Optimization', 'NLP', 'Automation']
 created: 2025-05-04
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-04 — Session: Developed Summarization System for ChatGPT Logs
 
 **🕒 03:00–05:10**  
-**🏷️ Labels**: summarization, ChatGPT, pipeline, optimization, NLP, automation  
+**🏷️ Labels**: Summarization, Chatgpt, Pipeline, Optimization, NLP, Automation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -33,4 +33,4 @@ The goal of this session was to develop a comprehensive summarization system for
 
 ### Pending Tasks
 - Further refine summarization techniques to address remaining issues such as truncation and generic summaries.
-- Continue optimizing model performance for large-scale [[data processing]].
+- Continue optimizing model performance for large-scale data processing.

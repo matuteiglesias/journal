@@ -1,6 +1,6 @@
 ---
 title: "Modularization of RAG Codebase"
-tags: ['modularization', 'RAG', 'codebase', 'Python', 'file organization']
+tags: ['Modularization', 'RAG', 'Codebase', 'Python', 'File Organization']
 created: 2025-02-11
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-11 — Session: Modularization of RAG Codebase
 
 **🕒 05:20–07:21**  
-**🏷️ Labels**: modularization, RAG, codebase, Python, file organization  
+**🏷️ Labels**: Modularization, RAG, Codebase, Python, File Organization  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

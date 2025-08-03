@@ -1,6 +1,6 @@
 ---
 title: "Guides and Validation for Business Processes"
-tags: ['reintegros', 'TAD', 'comprobantes', 'AGIP', 'Mercado Pago']
+tags: ['Reintegros', 'TAD', 'Comprobantes', 'AGIP', 'Mercado Pago']
 created: 2024-11-02
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-02 — Session: Guides and Validation for Business Processes
 
 **🕒 13:10–13:40**  
-**🏷️ Labels**: reintegros, TAD, comprobantes, AGIP, Mercado Pago  
+**🏷️ Labels**: Reintegros, TAD, Comprobantes, AGIP, Mercado Pago  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

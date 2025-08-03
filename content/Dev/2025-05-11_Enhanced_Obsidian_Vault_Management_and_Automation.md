@@ -14,11 +14,11 @@ publish: true
 
 
 **Session Goal:**
-The session aimed to enhance the management of Obsidian vaults and integrate comprehensive [[automation]] and knowledge management workflows.
+The session aimed to enhance the management of Obsidian vaults and integrate comprehensive automation and knowledge management workflows.
 
 **Key Activities:**
 - Opened a new vault in Obsidian and explored vault management strategies.
-- Developed extensive [[automation]] workflows involving [[AI]] agent engineering, knowledge archiving, and email processing.
+- Developed extensive automation workflows involving [[AI]] agent engineering, knowledge archiving, and email processing.
 - Organized Obsidian vaults using metadata and Dataview for better note management.
 - Resolved issues with community plugins and built the Dataview plugin from source.
 - Assembled and installed the Dataview plugin, ensuring proper folder structure and functionality.
@@ -27,9 +27,9 @@ The session aimed to enhance the management of Obsidian vaults and integrate com
 
 **Achievements:**
 - Successfully managed multiple vaults and improved note organization using Dataview.
-- Developed and implemented a robust set of [[automation]] workflows to enhance [[productivity]].
+- Developed and implemented a robust set of automation workflows to enhance productivity.
 - Resolved technical issues related to plugin installation and rendering in Obsidian.
 
 **Pending Tasks:**
-- Further refine [[automation]] workflows for more efficient knowledge management.
+- Further refine automation workflows for more efficient knowledge management.
 - Explore additional community plugins to enhance Obsidian's functionality.

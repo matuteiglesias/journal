@@ -1,6 +1,6 @@
 ---
 title: "Developed Spanish NLP Parser"
-tags: ['spaCy', 'NLP', 'Spanish', 'parser', 'entity extraction']
+tags: ['Spacy', 'NLP', 'Spanish', 'Parser', 'Entity Extraction']
 created: 2024-09-12
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-12 — Session: Developed Spanish NLP Parser
 
 **🕒 00:15–01:05**  
-**🏷️ Labels**: spaCy, NLP, Spanish, parser, entity extraction  
+**🏷️ Labels**: Spacy, NLP, Spanish, Parser, Entity Extraction  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -25,7 +25,7 @@ The goal of this session was to enhance natural language processing capabilities
 ### Achievements
 - Successfully installed and ran the Spanish language model in spaCy.
 - Enhanced parser logic for better accuracy in identifying sentence components.
-- Created a [[workflow]] for structured data extraction from Spanish sentences.
+- Created a workflow for structured data extraction from Spanish sentences.
 
 ### Pending Tasks
 - Further testing and refinement of the parser with diverse Spanish text samples to ensure robustness.

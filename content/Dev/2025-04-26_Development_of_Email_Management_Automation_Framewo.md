@@ -1,6 +1,6 @@
 ---
 title: "Development of Email Management Automation Framework"
-tags: ['Email Automation', 'Python', 'AI Agents', 'Email Parsing', 'Security']
+tags: ['Email Automation', 'Python', 'Ai Agents', 'Email Parsing', 'Security']
 created: 2025-04-26
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-26 — Session: Development of Email Management Automation Framework
 
 **🕒 22:05–23:05**  
-**🏷️ Labels**: Email Automation, Python, AI Agents, Email Parsing, Security  
+**🏷️ Labels**: Email Automation, Python, Ai Agents, Email Parsing, Security  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -28,7 +28,7 @@ The goal of this session was to design and implement various components and stra
 - Addressed security risks associated with automatic attachment downloads and proposed defensive measures.
 
 ### Achievements
-- Established a comprehensive framework for email management [[automation]].
+- Established a comprehensive framework for email management automation.
 - Designed multiple [[AI]] agents and technical plans to enhance email processing and management.
 
 ### Pending Tasks

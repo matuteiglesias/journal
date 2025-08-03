@@ -1,6 +1,6 @@
 ---
 title: "Optimized Embedding Processing Pipeline"
-tags: ['embeddings', 'optimization', 'spaCy', 'Neo4j', 'text processing']
+tags: ['Embeddings', 'Optimization', 'Spacy', 'Neo4J', 'Text Processing']
 created: 2025-02-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-17 — Session: Optimized Embedding Processing Pipeline
 
 **🕒 20:00–21:00**  
-**🏷️ Labels**: embeddings, optimization, spaCy, Neo4j, text processing  
+**🏷️ Labels**: Embeddings, Optimization, Spacy, Neo4J, Text Processing  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -17,9 +17,9 @@ publish: true
 The session aimed to enhance the efficiency and scalability of embedding processing pipelines by integrating innovative techniques and optimizing existing scripts.
 
 ### Key Activities
-- Reflected on innovative components in ML/[[AI]] systems, focusing on embeddings, GraphStore integration, and [[optimization]] techniques for semantic understanding and scalability.
+- Reflected on innovative components in ML/[[AI]] systems, focusing on embeddings, GraphStore integration, and optimization techniques for semantic understanding and scalability.
 - Developed a script for processing and storing embeddings from text chunks, incorporating text cleaning and storage in [[CSV]] format for Neo4j integration.
-- Proposed [[optimization]] strategies for embedding processing, including batch processing, file reading parallelization, and text cleaning improvements.
+- Proposed optimization strategies for embedding processing, including batch processing, file reading parallelization, and text cleaning improvements.
 - Enhanced text processing with spaCy by processing text in batches using `nlp.pipe`, significantly improving performance.
 - Created a script to compute embeddings from chunk metadata, utilizing spaCy for text cleaning and storing results in [[CSV]].
 

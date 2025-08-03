@@ -1,6 +1,6 @@
 ---
 title: "Email Classification and Preprocessing Enhancement"
-tags: ['email_classification', 'machine_learning', 'TF-IDF', 'preprocessing', 'Naive_Bayes']
+tags: ['Email_Classification', 'Machine_Learning', 'TF-IDF', 'Preprocessing', 'Naive_Bayes']
 created: 2024-10-06
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2024-10-06 — Session: Email Classification and Preprocessing Enhancement
 
 **🕒 01:00–02:00**  
-**🏷️ Labels**: email_classification, machine_learning, TF-IDF, preprocessing, Naive_Bayes  
+**🏷️ Labels**: Email_Classification, Machine_Learning, TF-IDF, Preprocessing, Naive_Bayes  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to enhance email classification techniques using [[machine learning]], focusing on improving preprocessing steps and classifier performance.
+The session aimed to enhance email classification techniques using machine learning, focusing on improving preprocessing steps and classifier performance.
 
 ### Key Activities
 - Explored effective approaches for email classification, including feature extraction techniques and algorithm selection.
@@ -26,7 +26,7 @@ The session aimed to enhance email classification techniques using [[machine lea
 - Corrected stopword handling in `TfidfVectorizer` for Spanish text using scikit-learn and NLTK.
 
 ### Achievements
-- Developed a comprehensive plan for email classification using [[machine learning]].
+- Developed a comprehensive plan for email classification using machine learning.
 - Successfully adjusted preprocessing steps to handle package download issues.
 - Improved understanding of model performance enhancement techniques.
 

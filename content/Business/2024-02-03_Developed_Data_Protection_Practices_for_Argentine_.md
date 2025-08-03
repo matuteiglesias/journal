@@ -1,6 +1,6 @@
 ---
 title: "Developed Data Protection Practices for Argentine Police"
-tags: ['data protection', 'police', 'cybersecurity', 'Ley 25.326', 'Ley 14214']
+tags: ['Data Protection', 'Police', 'Cybersecurity', 'Ley 25.326', 'Ley 14214']
 created: 2024-02-03
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-02-03 — Session: Developed Data Protection Practices for Argentine Police
 
 **🕒 14:00–15:20**  
-**🏷️ Labels**: data protection, police, cybersecurity, Ley 25.326, Ley 14214  
+**🏷️ Labels**: Data Protection, Police, Cybersecurity, Ley 25.326, Ley 14214  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

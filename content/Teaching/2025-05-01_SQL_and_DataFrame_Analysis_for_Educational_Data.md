@@ -1,6 +1,6 @@
 ---
 title: "SQL and DataFrame Analysis for Educational Data"
-tags: ['SQL', 'DataFrame', 'Python', 'Data Analysis', 'Visualization', 'Education']
+tags: ['SQL', 'Dataframe', 'Python', 'Data Analysis', 'Visualization', 'Education']
 created: 2025-05-01
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-01 — Session: SQL and DataFrame Analysis for Educational Data
 
 **🕒 00:00–00:40**  
-**🏷️ Labels**: SQL, DataFrame, Python, Data Analysis, Visualization, Education  
+**🏷️ Labels**: SQL, Dataframe, Python, Data Analysis, Visualization, Education  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
@@ -33,4 +33,4 @@ The primary goal of this session was to analyze educational data using SQL queri
 - Confirm reconstruction of the DataFrame `bp_df_clean` or await new data loading.
 
 ### Session Context
-This session involved extensive [[data analysis]] using SQL and [[Python]], focusing on educational data aggregation and visualization. The session was productive, resolving key errors and enhancing [[data visualization]] capabilities.
+This session involved extensive data analysis using SQL and [[Python]], focusing on educational data aggregation and visualization. The session was productive, resolving key errors and enhancing data visualization capabilities.

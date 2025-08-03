@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Next.js Deployment and Git Management"
-tags: ['Next.js', 'deployment', 'version control', 'ngrok', 'prompt engineering', 'React']
+tags: ['Next.Js', 'Deployment', 'Version Control', 'Ngrok', 'Prompt Engineering', 'React']
 created: 2025-04-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-17 — Session: Enhanced Next.js Deployment and Git Management
 
 **🕒 13:10–13:25**  
-**🏷️ Labels**: Next.js, deployment, version control, ngrok, prompt engineering, React  
+**🏷️ Labels**: Next.Js, Deployment, Version Control, Ngrok, Prompt Engineering, React  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

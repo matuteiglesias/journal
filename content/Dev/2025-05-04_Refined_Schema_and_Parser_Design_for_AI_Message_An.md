@@ -1,6 +1,6 @@
 ---
 title: "Refined Schema and Parser Design for AI Message Annotation"
-tags: ['schema design', 'AI parsing', 'message annotation', 'workflow improvement', 'parser enhancements']
+tags: ['Schema Design', 'Ai Parsing', 'Message Annotation', 'Workflow Improvement', 'Parser Enhancements']
 created: 2025-05-04
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-05-04 — Session: Refined Schema and Parser Design for AI Message Annotation
 
 **🕒 17:20–18:25**  
-**🏷️ Labels**: schema design, AI parsing, message annotation, workflow improvement, parser enhancements  
+**🏷️ Labels**: Schema Design, Ai Parsing, Message Annotation, Workflow Improvement, Parser Enhancements  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to refine the schema and parser design for [[AI]] message annotation, focusing on enhancing the structure and classification of parsed messages to improve [[workflow]] efficiency and message reusability.
+The session aimed to refine the schema and parser design for [[AI]] message annotation, focusing on enhancing the structure and classification of parsed messages to improve workflow efficiency and message reusability.
 
 ### Key Activities
 - Discussed strategies for reviewing [[AI]] interactions to improve workflows.

@@ -1,6 +1,6 @@
 ---
 title: "Explored Profitable Web Directories in Argentina"
-tags: ['web directories', 'Argentina', 'research', 'profitability', 'Dolutegravir', 'Isotretinoin']
+tags: ['Web Directories', 'Argentina', 'Research', 'Profitability', 'Dolutegravir', 'Isotretinoin']
 created: 2025-05-10
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-05-10 — Session: Explored Profitable Web Directories in Argentina
 
 **🕒 20:50–21:35**  
-**🏷️ Labels**: web directories, Argentina, research, profitability, Dolutegravir, Isotretinoin  
+**🏷️ Labels**: Web Directories, Argentina, Research, Profitability, Dolutegravir, Isotretinoin  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

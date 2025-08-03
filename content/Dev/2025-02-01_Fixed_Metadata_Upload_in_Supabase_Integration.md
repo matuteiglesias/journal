@@ -1,6 +1,6 @@
 ---
 title: "Fixed Metadata Upload in Supabase Integration"
-tags: ['Supabase', 'metadata', 'Python', 'debugging', 'automation']
+tags: ['Supabase', 'Metadata', 'Python', 'Debugging', 'Automation']
 created: 2025-02-01
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-01 — Session: Fixed Metadata Upload in Supabase Integration
 
 **🕒 16:30–17:00**  
-**🏷️ Labels**: Supabase, metadata, Python, debugging, automation  
+**🏷️ Labels**: Supabase, Metadata, Python, Debugging, Automation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: true
 The session aimed to diagnose and fix issues related to metadata handling in a Supabase integration using [[Python]].
 
 ### Key Activities
-- Diagnosed an invalid metadata format error in a [[JSON]] file, providing code snippets for validation and [[debugging]].
+- Diagnosed an invalid metadata format error in a [[JSON]] file, providing code snippets for validation and debugging.
 - Corrected the metadata upload process in the `upload_chunks_to_supabase` function by ensuring a list of dictionaries is used instead of a string path.
 - Fixed the metadata loading issue in the Supabase upload function to ensure the correct data type is passed.
 - Resolved a bug where a filename was incorrectly passed instead of the required metadata list, including code corrections and explanations.
@@ -28,4 +28,4 @@ The session aimed to diagnose and fix issues related to metadata handling in a S
 - Streamlined the synchronization process with an automated function.
 
 ### Pending Tasks
-- Further testing of the all-in-one function to ensure robust [[error handling]] and efficiency in different scenarios.
+- Further testing of the all-in-one function to ensure robust error handling and efficiency in different scenarios.

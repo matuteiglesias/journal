@@ -1,6 +1,6 @@
 ---
 title: "Geospatial Data Visualization and File Management"
-tags: ['GADM', 'geospatial', 'data visualization', 'Python', 'geojson']
+tags: ['GADM', 'Geospatial', 'Data Visualization', 'Python', 'Geojson']
 created: 2024-10-23
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2024-10-23 — Session: Geospatial Data Visualization and File Management
 
 **🕒 12:15–13:00**  
-**🏷️ Labels**: GADM, geospatial, data visualization, Python, geojson  
+**🏷️ Labels**: GADM, Geospatial, Data Visualization, Python, Geojson  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to implement geospatial [[data visualization]] using GADM maps and manage .geojson files efficiently.
+The session aimed to implement geospatial data visualization using GADM maps and manage .geojson files efficiently.
 
 ### Key Activities
 1. **Visualizing Country-Specific Data**: Explored methods to overlay data points on maps using GADM administrative boundary data, including code examples for implementation.
@@ -23,11 +23,11 @@ The session aimed to implement geospatial [[data visualization]] using GADM maps
 4. **[[Python]] Code Adjustment**: Provided a [[Python]] code snippet to loop through specific filenames, ensuring certain files are excluded from processing.
 
 ### Achievements
-- Developed a structured approach for geospatial [[data visualization]].
+- Developed a structured approach for geospatial data visualization.
 - Ensured efficient file management and troubleshooting for .geojson files.
 
 ### Pending Tasks
 - Further refinement of the geospatial visualization code to handle more complex datasets.
 
 ### Labels
-GADM, geospatial, [[data visualization]], [[Python]], geojson
+GADM, geospatial, data visualization, [[Python]], geojson

@@ -1,6 +1,6 @@
 ---
 title: "Developed Decision-Making and Personal Growth Strategies"
-tags: ['decision-making', 'risk management', 'personal growth', 'strategy', 'planning']
+tags: ['Decision-Making', 'Risk Management', 'Personal Growth', 'Strategy', 'Planning']
 created: 2025-01-05
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-05 — Session: Developed Decision-Making and Personal Growth Strategies
 
 **🕒 07:45–08:00**  
-**🏷️ Labels**: decision-making, risk management, personal growth, strategy, planning  
+**🏷️ Labels**: Decision-Making, Risk Management, Personal Growth, Strategy, Planning  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -24,7 +24,7 @@ The session aimed to explore decision-making systems for risk management and per
 ### Achievements
 - Identified the need for systems thinking in decision-making to minimize risks.
 - Highlighted the importance of reflecting on past decisions for personal growth.
-- Developed strategies for political challenges, including situational assessment and effective [[communication]].
+- Developed strategies for political challenges, including situational assessment and effective communication.
 
 ### Pending Tasks
 - Further exploration of specific aspects of decision-making systems for improvement.

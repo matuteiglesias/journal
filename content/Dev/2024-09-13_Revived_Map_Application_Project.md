@@ -1,6 +1,6 @@
 ---
 title: "Revived Map Application Project"
-tags: ['Leaflet.js', 'JavaScript', 'Web Development', 'Map Application', 'Debugging']
+tags: ['Leaflet.Js', 'Javascript', 'Web Development', 'Map Application', 'Debugging']
 created: 2024-09-13
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-13 — Session: Revived Map Application Project
 
 **🕒 03:20–05:40**  
-**🏷️ Labels**: Leaflet.js, JavaScript, Web Development, Map Application, Debugging  
+**🏷️ Labels**: Leaflet.Js, Javascript, Web Development, Map Application, Debugging  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -28,7 +28,7 @@ The primary goal of this session was to revive and upgrade an existing map appli
 
 ### Achievements
 - Successfully upgraded the map application project with improved organization and updated libraries.
-- Resolved multiple [[debugging]] issues related to map marker placement and Leaflet.js plugin usage.
+- Resolved multiple debugging issues related to map marker placement and Leaflet.js plugin usage.
 
 ### Pending Tasks
 - Further testing of the map application to ensure all components function as expected.

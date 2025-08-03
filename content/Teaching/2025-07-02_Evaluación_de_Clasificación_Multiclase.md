@@ -1,6 +1,6 @@
 ---
 title: "Evaluación de Clasificación Multiclase"
-tags: ['evaluación', 'clasificación multiclase', 'análisis de datos', 'SOAP', 'Tasy', 'cuidados postoperatorios']
+tags: ['Evaluación', 'Clasificación Multiclase', 'Análisis De Datos', 'SOAP', 'Tasy', 'Cuidados Postoperatorios']
 created: 2025-07-02
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-07-02 — Session: Evaluación de Clasificación Multiclase
 
 **🕒 15:40–17:30**  
-**🏷️ Labels**: evaluación, clasificación multiclase, análisis de datos, SOAP, Tasy, cuidados postoperatorios  
+**🏷️ Labels**: Evaluación, Clasificación Multiclase, Análisis De Datos, SOAP, Tasy, Cuidados Postoperatorios  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

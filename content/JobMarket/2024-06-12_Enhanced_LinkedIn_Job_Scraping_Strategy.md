@@ -1,6 +1,6 @@
 ---
 title: "Enhanced LinkedIn Job Scraping Strategy"
-tags: ['LinkedIn', 'job scraping', 'Python', 'web scraping', 'data extraction']
+tags: ['Linkedin', 'Job Scraping', 'Python', 'Web Scraping', 'Data Extraction']
 created: 2024-06-12
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-06-12 — Session: Enhanced LinkedIn Job Scraping Strategy
 
 **🕒 00:10–01:35**  
-**🏷️ Labels**: LinkedIn, job scraping, Python, web scraping, data extraction  
+**🏷️ Labels**: Linkedin, Job Scraping, Python, Web Scraping, Data Extraction  
 **📂 Project**: JobMarket  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Developed and Troubleshooted InCarDoc Android App"
-tags: ['InCarDoc', 'Android', 'Bluetooth', 'OBD-II', 'Troubleshooting']
+tags: ['Incardoc', 'Android', 'Bluetooth', 'OBD-II', 'Troubleshooting']
 created: 2024-01-02
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-01-02 — Session: Developed and Troubleshooted InCarDoc Android App
 
 **🕒 18:40–20:25**  
-**🏷️ Labels**: InCarDoc, Android, Bluetooth, OBD-II, Troubleshooting  
+**🏷️ Labels**: Incardoc, Android, Bluetooth, OBD-II, Troubleshooting  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

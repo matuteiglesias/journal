@@ -1,6 +1,6 @@
 ---
 title: "Automated Email and Telegram Message Processing"
-tags: ['automation', 'Python', 'emails', 'Telegram', 'productivity']
+tags: ['Automation', 'Python', 'Emails', 'Telegram', 'Productivity']
 created: 2024-05-31
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-05-31 — Session: Automated Email and Telegram Message Processing
 
 **🕒 12:00–12:15**  
-**🏷️ Labels**: automation, Python, emails, Telegram, productivity  
+**🏷️ Labels**: Automation, Python, Emails, Telegram, Productivity  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: true
 The session aimed to automate the processing of emails and Telegram messages to extract important details such as dates and chat summaries, thereby optimizing the identification of relevant information.
 
 ### Key Activities
-- Planned and executed the [[automation]] of email and Telegram message processing using [[Python]] and specific libraries.
+- Planned and executed the automation of email and Telegram message processing using [[Python]] and specific libraries.
 - Explored the [[Python]] `email` package for handling and processing emails, covering reading, writing, sending emails, and understanding MIME messages and email headers.
 - Investigated the use of [[Python]]'s `imaplib` package for connecting to an IMAP server, retrieving emails, and understanding the IMAP protocol.
 
@@ -27,4 +27,4 @@ The session aimed to automate the processing of emails and Telegram messages to 
 
 ### Pending Tasks
 - Implement the developed scripts in a production environment to test their effectiveness in real-time scenarios.
-- Continue exploring advanced features of [[Python]]'s email handling libraries for further [[optimization]].
+- Continue exploring advanced features of [[Python]]'s email handling libraries for further optimization.

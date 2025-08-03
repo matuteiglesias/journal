@@ -1,6 +1,6 @@
 ---
 title: "Developed and Debugged UI Components for Ask Your Docs App"
-tags: ['UI Components', 'React', 'TypeScript', 'Frontend Development', 'Debugging']
+tags: ['Ui Components', 'React', 'Typescript', 'Frontend Development', 'Debugging']
 created: 2025-04-13
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-13 — Session: Developed and Debugged UI Components for Ask Your Docs App
 
 **🕒 01:35–02:40**  
-**🏷️ Labels**: UI Components, React, TypeScript, Frontend Development, Debugging  
+**🏷️ Labels**: Ui Components, React, Typescript, Frontend Development, Debugging  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

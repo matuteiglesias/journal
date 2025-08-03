@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session focused on enhancing email [[automation]] agents and resolving server management issues.
+The session focused on enhancing email automation agents and resolving server management issues.
 
 ### Key Activities
-- **Designed a Minimal EmailWatcher Agent:** Emphasized simplicity and effectiveness in [[automation]].
+- **Designed a Minimal EmailWatcher Agent:** Emphasized simplicity and effectiveness in automation.
 - **Clarified Script Argument Requirements:** Differentiated between one-shot and daemon-like email agents using command-line arguments.
 - **Fixed Tool Passing in EmailTriagerAgent:** Ensured proper schema loading and usage.
 - **Diagnosed Local Server Timeout Issues:** Identified causes and solutions for server timeouts related to AIOS Kernel.
@@ -26,7 +26,7 @@ The session focused on enhancing email [[automation]] agents and resolving serve
 - **Resolved Port 8000 Error:** Provided a guide to fix server binding issues on port 8000.
 
 ### Achievements
-- Successfully designed and refined email [[automation]] agents.
+- Successfully designed and refined email automation agents.
 - Improved server management and logging mechanisms.
 
 ### Pending Tasks

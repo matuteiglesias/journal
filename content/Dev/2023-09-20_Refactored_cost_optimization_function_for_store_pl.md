@@ -25,7 +25,7 @@ The session aimed to optimize the function `calcular_distancia_acumulada` to acc
 
 ### Achievements
 - Successfully refactored the function to improve the calculation of accumulated costs for store placement.
-- Implemented [[error handling]] to prevent issues with empty lists in recursive functions.
+- Implemented error handling to prevent issues with empty lists in recursive functions.
 
 ### Pending Tasks
-- Further [[optimization]] is required to achieve an optimal minimum cost for store placement.
+- Further optimization is required to achieve an optimal minimum cost for store placement.

@@ -1,6 +1,6 @@
 ---
 title: "Matrix Condition Analysis and SymPy Error Resolution"
-tags: ['matrices', 'SymPy', 'numerical analysis', 'Python', 'matrix condition', 'error resolution']
+tags: ['Matrices', 'Sympy', 'Numerical Analysis', 'Python', 'Matrix Condition', 'Error Resolution']
 created: 2024-12-02
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-12-02 — Session: Matrix Condition Analysis and SymPy Error Resolution
 
 **🕒 15:35–17:45**  
-**🏷️ Labels**: matrices, SymPy, numerical analysis, Python, matrix condition, error resolution  
+**🏷️ Labels**: Matrices, Sympy, Numerical Analysis, Python, Matrix Condition, Error Resolution  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

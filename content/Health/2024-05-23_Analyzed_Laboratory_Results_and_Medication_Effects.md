@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Laboratory Results and Medication Effects"
-tags: ['laboratory results', 'health', 'medical analysis', 'medication effects', 'consultation']
+tags: ['Laboratory Results', 'Health', 'Medical Analysis', 'Medication Effects', 'Consultation']
 created: 2024-05-23
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-05-23 — Session: Analyzed Laboratory Results and Medication Effects
 
 **🕒 20:10–20:30**  
-**🏷️ Labels**: laboratory results, health, medical analysis, medication effects, consultation  
+**🏷️ Labels**: Laboratory Results, Health, Medical Analysis, Medication Effects, Consultation  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

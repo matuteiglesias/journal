@@ -1,6 +1,6 @@
 ---
 title: "Explored Adaptive Strategies for Policy Implementation"
-tags: ['adaptive management', 'policy implementation', 'strategic planning', 'risk management']
+tags: ['Adaptive Management', 'Policy Implementation', 'Strategic Planning', 'Risk Management']
 created: 2024-02-22
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-02-22 — Session: Explored Adaptive Strategies for Policy Implementation
 
 **🕒 16:50–17:35**  
-**🏷️ Labels**: adaptive management, policy implementation, strategic planning, risk management  
+**🏷️ Labels**: Adaptive Management, Policy Implementation, Strategic Planning, Risk Management  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

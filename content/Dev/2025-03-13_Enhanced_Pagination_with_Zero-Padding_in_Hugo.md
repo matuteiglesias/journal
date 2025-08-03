@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Pagination with Zero-Padding in Hugo"
-tags: ['Hugo', 'pagination', 'programming', 'web development', 'error handling']
+tags: ['Hugo', 'Pagination', 'Programming', 'Web Development', 'Error Handling']
 created: 2025-03-13
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-03-13 — Session: Enhanced Pagination with Zero-Padding in Hugo
 
 **🕒 02:40–03:25**  
-**🏷️ Labels**: Hugo, pagination, programming, web development, error handling  
+**🏷️ Labels**: Hugo, Pagination, Programming, Web Development, Error Handling  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -24,11 +24,11 @@ The goal of this session was to implement and enhance pagination in a Hugo site 
 - Implemented zero-padding for pagination titles dynamically in Hugo.
 - Fixed `printf` formatting issues in `pagination.html` using `safeHTMLAttr` and `safeURL`.
 - Resolved context mismatch errors in Hugo's pagination partials.
-- Developed a robust solution for extracting and formatting numeric parts from titles with [[error handling]].
+- Developed a robust solution for extracting and formatting numeric parts from titles with error handling.
 
 ### Achievements
 - Successfully implemented zero-padded pagination in Hugo, ensuring correct numerical sorting and display.
-- Enhanced [[error handling]] and formatting robustness for pagination titles.
+- Enhanced error handling and formatting robustness for pagination titles.
 
 ### Pending Tasks
 - Review and test the pagination implementation on different Hugo sites to ensure consistency and reliability across various contexts.

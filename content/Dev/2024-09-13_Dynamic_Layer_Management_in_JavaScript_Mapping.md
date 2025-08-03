@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Layer Management in JavaScript Mapping"
-tags: ['JavaScript', 'Leaflet', 'Dynamic Layers', 'Mapping', 'CSS', 'Optimization']
+tags: ['Javascript', 'Leaflet', 'Dynamic Layers', 'Mapping', 'CSS', 'Optimization']
 created: 2024-09-13
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2024-09-13 — Session: Dynamic Layer Management in JavaScript Mapping
 
 **🕒 16:10–17:55**  
-**🏷️ Labels**: JavaScript, Leaflet, Dynamic Layers, Mapping, CSS, Optimization  
+**🏷️ Labels**: Javascript, Leaflet, Dynamic Layers, Mapping, CSS, Optimization  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to enhance the functionality and user interaction of [[JavaScript]]-based mapping applications, specifically focusing on dynamic layer management using Leaflet and D3.js.
+The session aimed to enhance the functionality and user interaction of JavaScript-based mapping applications, specifically focusing on dynamic layer management using Leaflet and D3.js.
 
 ### Key Activities
 - **Fixed Marker Layer Assignment in D3.js**: Corrected marker assignments to their respective layer groups in a D3.js map, ensuring proper visibility control.
@@ -30,7 +30,7 @@ The session aimed to enhance the functionality and user interaction of [[JavaScr
 
 ### Achievements
 - Enhanced the mapping application's user interaction and efficiency by implementing dynamic layer management and visibility control.
-- Improved code maintainability and readability through refactoring and [[optimization]] efforts.
+- Improved code maintainability and readability through refactoring and optimization efforts.
 
 ### Pending Tasks
 - Further testing and validation of the implemented features in different environments.

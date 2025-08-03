@@ -1,6 +1,6 @@
 ---
 title: "Developed Pivot-Based Financial Report Generator"
-tags: ['pivot report', 'financial analysis', 'data visualization', 'automation', 'Python', 'Pandas']
+tags: ['Pivot Report', 'Financial Analysis', 'Data Visualization', 'Automation', 'Python', 'Pandas']
 created: 2025-02-05
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-02-05 — Session: Developed Pivot-Based Financial Report Generator
 
 **🕒 18:40–19:40**  
-**🏷️ Labels**: pivot report, financial analysis, data visualization, automation, Python, Pandas  
+**🏷️ Labels**: Pivot Report, Financial Analysis, Data Visualization, Automation, Python, Pandas  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to design and implement a dynamic pivot-based report generator for financial [[data analysis]].
+The session aimed to design and implement a dynamic pivot-based report generator for financial data analysis.
 
 ### Key Activities
 - Designed a structured approach to developing a pivot-based report generator.
@@ -24,7 +24,7 @@ The session aimed to design and implement a dynamic pivot-based report generator
 - Diagnosed and fixed column name issues in financial reports.
 - Extended dynamic column selection for rental income calculation.
 - Automated loan computation for financial tracking.
-- Unified time aggregation for consistent financial [[data analysis]].
+- Unified time aggregation for consistent financial data analysis.
 - Streamlined contributions time series for financial reporting.
 - Upgraded financial variables to a structured time-series pivot system.
 - Finalized the pivot-based financial report.

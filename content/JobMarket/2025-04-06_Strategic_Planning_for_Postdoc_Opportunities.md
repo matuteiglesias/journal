@@ -1,6 +1,6 @@
 ---
 title: "Strategic Planning for Postdoc Opportunities"
-tags: ['postdoc', 'career strategy', 'interdisciplinary', 'tech-policy', 'innovation']
+tags: ['Postdoc', 'Career Strategy', 'Interdisciplinary', 'Tech-Policy', 'Innovation']
 created: 2025-04-06
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-04-06 — Session: Strategic Planning for Postdoc Opportunities
 
 **🕒 13:50–14:25**  
-**🏷️ Labels**: postdoc, career strategy, interdisciplinary, tech-policy, innovation  
+**🏷️ Labels**: Postdoc, Career Strategy, Interdisciplinary, Tech-Policy, Innovation  
 **📂 Project**: JobMarket  
 **⭐ Priority**: MEDIUM  
 
@@ -21,7 +21,7 @@ The goal of this session was to explore and strategically plan for postdoc oppor
 - Outlined strategies for securing postdoc positions with lower competition compared to industry roles.
 - Analyzed seasonal trends in postdoc applications and provided a calendar overview.
 - Identified promising institutions for interdisciplinary researchers.
-- Conceptualized the role of a 'ghost strategist' for [[strategic planning]].
+- Conceptualized the role of a 'ghost strategist' for strategic planning.
 - Investigated 20–30 realistic postdoc options aligned with Matías' profile.
 - Expanded the list of postdoc opportunities at prestigious institutions.
 - Mapped Tier A institutions for innovative profiles.
@@ -32,5 +32,5 @@ The goal of this session was to explore and strategically plan for postdoc oppor
 - Developed a strategic outreach plan and identified key institutions for application.
 
 ### Pending Tasks
-- Finalize the outreach [[strategy]] and begin contacting identified institutions.
+- Finalize the outreach strategy and begin contacting identified institutions.
 - Prepare application materials tailored to each institution's focus areas.

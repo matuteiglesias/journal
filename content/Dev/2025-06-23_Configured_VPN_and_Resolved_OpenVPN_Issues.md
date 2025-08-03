@@ -1,6 +1,6 @@
 ---
 title: "Configured VPN and Resolved OpenVPN Issues"
-tags: ['VPN', 'OpenVPN', 'Networking', 'Security', 'Debian', 'Ubuntu']
+tags: ['VPN', 'Openvpn', 'Networking', 'Security', 'Debian', 'Ubuntu']
 created: 2025-06-23
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-06-23 — Session: Configured VPN and Resolved OpenVPN Issues
 
 **🕒 00:40–01:25**  
-**🏷️ Labels**: VPN, OpenVPN, Networking, Security, Debian, Ubuntu  
+**🏷️ Labels**: VPN, Openvpn, Networking, Security, Debian, Ubuntu  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

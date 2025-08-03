@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Task Scheduling with OR-Tools"
-tags: ['task scheduling', 'OR-Tools', 'Python', 'constraints', 'automation']
+tags: ['Task Scheduling', 'Or-Tools', 'Python', 'Constraints', 'Automation']
 created: 2024-10-27
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-27 — Session: Enhanced Task Scheduling with OR-Tools
 
 **🕒 14:30–17:30**  
-**🏷️ Labels**: task scheduling, OR-Tools, Python, constraints, automation  
+**🏷️ Labels**: Task Scheduling, Or-Tools, Python, Constraints, Automation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

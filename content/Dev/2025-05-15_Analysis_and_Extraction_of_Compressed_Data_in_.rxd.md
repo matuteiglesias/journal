@@ -1,6 +1,6 @@
 ---
 title: "Analysis and Extraction of Compressed Data in .rxdb Files"
-tags: ['data extraction', 'compression', 'rxdb', 'LZ4', 'zlib']
+tags: ['Data Extraction', 'Compression', 'Rxdb', 'LZ4', 'Zlib']
 created: 2025-05-15
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-15 — Session: Analysis and Extraction of Compressed Data in .rxdb Files
 
 **🕒 00:05–00:30**  
-**🏷️ Labels**: data extraction, compression, rxdb, LZ4, zlib  
+**🏷️ Labels**: Data Extraction, Compression, Rxdb, LZ4, Zlib  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

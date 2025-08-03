@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Workout Routine Planning"
-tags: ['workout', 'bodyweight', 'core strength', 'fitness', 'exercise']
+tags: ['Workout', 'Bodyweight', 'Core Strength', 'Fitness', 'Exercise']
 created: 2024-05-27
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-05-27 — Session: Enhanced Workout Routine Planning
 
 **🕒 18:40–19:20**  
-**🏷️ Labels**: workout, bodyweight, core strength, fitness, exercise  
+**🏷️ Labels**: Workout, Bodyweight, Core Strength, Fitness, Exercise  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

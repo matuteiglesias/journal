@@ -14,13 +14,13 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance [[data visualization]] techniques using [[Python]] libraries such as Seaborn and [[Matplotlib]], focusing on income statistics by province.
+The session aimed to enhance data visualization techniques using [[Python]] libraries such as Seaborn and [[Matplotlib]], focusing on income statistics by province.
 
 ### Key Activities
 - **Box Plot Creation**: Initiated with a guide on creating a box plot using Seaborn, covering quartile calculations and plot customization.
 - **Data Series Request**: Addressed a reset in the code execution environment by requesting the data series again for plotting.
 - **Statistical Data Request**: Sought data on medians and percentiles for plotting.
-- **Scatter Plot Development**: Provided a code snippet for a scatter plot with IQR bars using [[Matplotlib]] and Seaborn.
+- **Scatter Plot [[Development]]**: Provided a code snippet for a scatter plot with IQR bars using [[Matplotlib]] and Seaborn.
 - **Customizable Plotting**: Developed a customizable plot for income statistics, including data preparation and visualization adjustments.
 - **Engineering Notation Formatting**: Created a plot with the y-axis in engineering notation for better readability.
 - **DataFrame Filtering**: Implemented a method to filter a [[Pandas]] DataFrame by date and conditions.
@@ -33,4 +33,4 @@ The session aimed to enhance [[data visualization]] techniques using [[Python]] 
 
 ### Pending Tasks
 - Further exploration of advanced customization options in Seaborn and [[Matplotlib]].
-- [[Integration]] of additional statistical measures for comprehensive [[data analysis]].
+- [[Integration]] of additional statistical measures for comprehensive data analysis.

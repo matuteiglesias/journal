@@ -1,6 +1,6 @@
 ---
 title: "Curated and Documented Gourmet Recipes"
-tags: ['cooking', 'recipes', 'gourmet', 'culinary', 'creative']
+tags: ['Cooking', 'Recipes', 'Gourmet', 'Culinary', 'Creative']
 created: 2024-10-25
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-25 — Session: Curated and Documented Gourmet Recipes
 
 **🕒 05:30–06:55**  
-**🏷️ Labels**: cooking, recipes, gourmet, culinary, creative  
+**🏷️ Labels**: Cooking, Recipes, Gourmet, Culinary, Creative  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

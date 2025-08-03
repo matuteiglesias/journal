@@ -1,6 +1,6 @@
 ---
 title: "Development of Advanced Mathematics and Graph Theory Course Materials"
-tags: ['mathematics', 'graph theory', 'education', 'course development', 'Python']
+tags: ['Mathematics', 'Graph Theory', 'Education', 'Course Development', 'Python']
 created: 2023-09-07
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-07 — Session: Development of Advanced Mathematics and Graph Theory Course Materials
 
 **🕒 21:30–22:20**  
-**🏷️ Labels**: mathematics, graph theory, education, course development, Python  
+**🏷️ Labels**: Mathematics, Graph Theory, Education, Course Development, Python  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

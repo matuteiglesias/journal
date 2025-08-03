@@ -1,6 +1,6 @@
 ---
 title: "Critical Analysis of Family Financial Governance"
-tags: ['family governance', 'retrieval', 'onboarding', 'financial management', 'editorial strategy']
+tags: ['Family Governance', 'Retrieval', 'Onboarding', 'Financial Management', 'Editorial Strategy']
 created: 2025-06-02
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-02 — Session: Critical Analysis of Family Financial Governance
 
 **🕒 20:00–20:40**  
-**🏷️ Labels**: family governance, retrieval, onboarding, financial management, editorial strategy  
+**🏷️ Labels**: Family Governance, Retrieval, Onboarding, Financial Management, Editorial Strategy  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

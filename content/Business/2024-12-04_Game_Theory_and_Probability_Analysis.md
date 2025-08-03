@@ -1,6 +1,6 @@
 ---
 title: "Game Theory and Probability Analysis"
-tags: ['game theory', 'probability', 'decision-making', 'Python', 'strategy']
+tags: ['Game Theory', 'Probability', 'Decision-Making', 'Python', 'Strategy']
 created: 2024-12-04
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-12-04 — Session: Game Theory and Probability Analysis
 
 **🕒 20:50–21:20**  
-**🏷️ Labels**: game theory, probability, decision-making, Python, strategy  
+**🏷️ Labels**: Game Theory, Probability, Decision-Making, Python, Strategy  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

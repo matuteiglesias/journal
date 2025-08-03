@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Context Extraction and File Processing"
-tags: ['Python', 'DataFrame', 'File Management', 'AI', 'Context Extraction']
+tags: ['Python', 'Dataframe', 'File Management', 'AI', 'Context Extraction']
 created: 2024-07-14
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-07-14 — Session: Enhanced Context Extraction and File Processing
 
 **🕒 03:30–05:10**  
-**🏷️ Labels**: Python, DataFrame, File Management, AI, Context Extraction  
+**🏷️ Labels**: Python, Dataframe, File Management, AI, Context Extraction  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -17,8 +17,8 @@ publish: true
 The goal of this session was to enhance the context extraction process and streamline file processing for the 'libro GCP' project.
 
 ### Key Activities
-- Developed a structured late-night work plan with music recommendations to boost [[productivity]] using the Pomodoro Technique.
-- Streamlined the content generation process by integrating chapter contexts with a main dataframe, leveraging [[Python]] and [[OpenAI]].
+- Developed a structured late-night work plan with music recommendations to boost productivity using the Pomodoro Technique.
+- Streamlined the content generation process by integrating chapter contexts with a main dataframe, leveraging [[Python]] and OpenAI.
 - Implemented a [[Python]] code to filter DataFrame based on specific patterns using regular expressions.
 - Mapped 'Outline' values to contexts in a DataFrame, linking them to sections in a `filtered_outline.txt` file.
 - Enhanced the `extract_context` function with partial matching using regular expressions for improved context extraction.

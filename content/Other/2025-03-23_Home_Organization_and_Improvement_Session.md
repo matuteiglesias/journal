@@ -1,6 +1,6 @@
 ---
 title: "Home Organization and Improvement Session"
-tags: ['home organization', 'cleaning', 'interior design', 'task management']
+tags: ['Home Organization', 'Cleaning', 'Interior Design', 'Task Management']
 created: 2025-03-23
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-03-23 — Session: Home Organization and Improvement Session
 
 **🕒 03:15–03:30**  
-**🏷️ Labels**: home organization, cleaning, interior design, task management  
+**🏷️ Labels**: Home Organization, Cleaning, Interior Design, Task Management  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

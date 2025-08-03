@@ -1,6 +1,6 @@
 ---
 title: "Explored Quantum Theories and Paranormal Phenomena"
-tags: ['paranormal', 'quantum theory', 'consciousness', 'theoretical physics', 'parapsychology']
+tags: ['Paranormal', 'Quantum Theory', 'Consciousness', 'Theoretical Physics', 'Parapsychology']
 created: 2024-04-25
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-04-25 — Session: Explored Quantum Theories and Paranormal Phenomena
 
 **🕒 03:45–04:15**  
-**🏷️ Labels**: paranormal, quantum theory, consciousness, theoretical physics, parapsychology  
+**🏷️ Labels**: Paranormal, Quantum Theory, Consciousness, Theoretical Physics, Parapsychology  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

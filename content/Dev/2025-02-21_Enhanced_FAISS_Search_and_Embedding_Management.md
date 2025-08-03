@@ -1,6 +1,6 @@
 ---
 title: "Enhanced FAISS Search and Embedding Management"
-tags: ['FAISS', 'embeddings', 'debugging', 'semantic search', 'data integrity']
+tags: ['FAISS', 'Embeddings', 'Debugging', 'Semantic Search', 'Data Integrity']
 created: 2025-02-21
 publish: true
 ---
@@ -8,17 +8,17 @@ publish: true
 ## 📅 2025-02-21 — Session: Enhanced FAISS Search and Embedding Management
 
 **🕒 17:05–18:15**  
-**🏷️ Labels**: FAISS, embeddings, debugging, semantic search, data integrity  
+**🏷️ Labels**: FAISS, Embeddings, Debugging, Semantic Search, Data Integrity  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to evaluate and improve the semantic search quality using FAISS and embedding models, focusing on [[debugging]] and optimizing the `Embedder` class and FAISS index management.
+The session aimed to evaluate and improve the semantic search quality using FAISS and embedding models, focusing on debugging and optimizing the `Embedder` class and FAISS index management.
 
 ### Key Activities
-- Tested the `text-embedding-3-small` model for semantic search in [[data science]] literature.
-- Evaluated FAISS search results for [[machine learning]] queries, identifying issues with embeddings.
+- Tested the `text-embedding-3-small` model for semantic search in data science literature.
+- Evaluated FAISS search results for machine learning queries, identifying issues with embeddings.
 - Improved search quality by refining FAISS ranking and embedding strategies.
 - Debugged the `Embedder` class to fix dimension mismatches and [[API]] response handling.
 - Updated the `Embedder` class for proper FAISS index tracking and refactored code.

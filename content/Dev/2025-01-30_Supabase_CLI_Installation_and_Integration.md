@@ -18,7 +18,7 @@ The goal of this session was to install the Supabase CLI on a Linux system, inte
 
 ### Key Activities
 - **Installation:** Installed Supabase CLI using both NPM and Linux package methods.
-- **[[Integration]] Plan:** Developed a plan for integrating Supabase with RAG use cases, including setup, bucket creation, folder uploads, permissions management, and [[automation]] steps.
+- **[[Integration]] Plan:** Developed a plan for integrating Supabase with RAG use cases, including setup, bucket creation, folder uploads, permissions management, and automation steps.
 - **Storage Management:** Executed commands for creating and uploading folders in Supabase storage, targeting academic and teaching purposes.
 - **[[Troubleshooting]]:** Addressed issues with the `npx supabase start` command and provided solutions.
 - **Command Corrections:** Provided corrected syntax for Supabase CLI commands for storage management.

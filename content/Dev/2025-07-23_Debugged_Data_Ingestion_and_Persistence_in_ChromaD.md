@@ -1,6 +1,6 @@
 ---
 title: "Debugged Data Ingestion and Persistence in ChromaDB"
-tags: ['ChromaDB', 'Python', 'Data Ingestion', 'Debugging', 'Persistence']
+tags: ['Chromadb', 'Python', 'Data Ingestion', 'Debugging', 'Persistence']
 created: 2025-07-23
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-07-23 — Session: Debugged Data Ingestion and Persistence in ChromaDB
 
 **🕒 07:10–07:35**  
-**🏷️ Labels**: ChromaDB, Python, Data Ingestion, Debugging, Persistence  
+**🏷️ Labels**: Chromadb, Python, Data Ingestion, Debugging, Persistence  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

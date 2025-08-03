@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Solved Exam Problems on Algorithms"
-tags: ['algorithms', 'exam', 'dynamic programming', 'graph theory', 'network connectivity']
+tags: ['Algorithms', 'Exam', 'Dynamic Programming', 'Graph Theory', 'Network Connectivity']
 created: 2023-10-04
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-10-04 — Session: Analyzed and Solved Exam Problems on Algorithms
 
 **🕒 23:20–23:50**  
-**🏷️ Labels**: algorithms, exam, dynamic programming, graph theory, network connectivity  
+**🏷️ Labels**: Algorithms, Exam, Dynamic Programming, Graph Theory, Network Connectivity  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
@@ -31,4 +31,4 @@ The session aimed to review and solve exam problems related to algorithms and da
 
 ### Pending Tasks:
 - Implement the proposed dynamic programming algorithm for minimum resistance calculation in a programming environment.
-- Further explore [[optimization]] techniques for network connectivity algorithms.
+- Further explore optimization techniques for network connectivity algorithms.

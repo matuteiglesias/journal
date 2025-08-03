@@ -1,6 +1,6 @@
 ---
 title: "Designed Calisthenics and Cardio Workout Plan"
-tags: ['fitness', 'calisthenics', 'cardio', 'workout', 'health']
+tags: ['Fitness', 'Calisthenics', 'Cardio', 'Workout', 'Health']
 created: 2025-03-20
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-03-20 — Session: Designed Calisthenics and Cardio Workout Plan
 
 **🕒 23:00–23:10**  
-**🏷️ Labels**: fitness, calisthenics, cardio, workout, health  
+**🏷️ Labels**: Fitness, Calisthenics, Cardio, Workout, Health  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 

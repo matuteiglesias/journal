@@ -1,6 +1,6 @@
 ---
 title: "Enhancing LangChain and FAISS Integration"
-tags: ['LangChain', 'FAISS', 'Embedding', 'Text Processing', 'AI Retrieval']
+tags: ['Langchain', 'FAISS', 'Embedding', 'Text Processing', 'Ai Retrieval']
 created: 2025-02-10
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-10 — Session: Enhancing LangChain and FAISS Integration
 
 **🕒 15:30–17:50**  
-**🏷️ Labels**: LangChain, FAISS, Embedding, Text Processing, AI Retrieval  
+**🏷️ Labels**: Langchain, FAISS, Embedding, Text Processing, Ai Retrieval  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -32,4 +32,4 @@ The primary goal of this session was to enhance the integration and functionalit
 
 ### Pending Tasks
 - Further testing of the incremental embedding function to ensure robustness in various scenarios.
-- Continuous monitoring and [[optimization]] of retrieval strategies to adapt to new data requirements.
+- Continuous monitoring and optimization of retrieval strategies to adapt to new data requirements.

@@ -1,6 +1,6 @@
 ---
 title: "Data Processing and Algorithm Implementation"
-tags: ['data processing', 'Python', 'greedy algorithm', 'dataset filtering', 'JSON manipulation']
+tags: ['Data Processing', 'Python', 'Greedy Algorithm', 'Dataset Filtering', 'Json Manipulation']
 created: 2024-11-03
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2024-11-03 — Session: Data Processing and Algorithm Implementation
 
 **🕒 22:30–23:10**  
-**🏷️ Labels**: data processing, Python, greedy algorithm, dataset filtering, JSON manipulation  
+**🏷️ Labels**: Data Processing, Python, Greedy Algorithm, Dataset Filtering, Json Manipulation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to enhance [[data processing]] capabilities and implement algorithms for efficient data management and student course selection.
+The session aimed to enhance data processing capabilities and implement algorithms for efficient data management and student course selection.
 
 ### Key Activities
 - Filtered a dataset to retain records with individuals having more than one exam entry, focusing on those with at least two exam records.
@@ -29,5 +29,5 @@ The session aimed to enhance [[data processing]] capabilities and implement algo
 - Enhanced data manipulation techniques using [[Python]] and pandas.
 
 ### Pending Tasks
-- Further [[optimization]] of the greedy algorithm for larger datasets.
-- Exploration of additional [[data processing]] techniques to improve efficiency.
+- Further optimization of the greedy algorithm for larger datasets.
+- Exploration of additional data processing techniques to improve efficiency.

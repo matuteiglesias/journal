@@ -1,6 +1,6 @@
 ---
 title: "Integration and Execution of Abstract Processing Pipeline"
-tags: ['abstract processing', 'AI', 'pipeline', 'error handling', 'state management']
+tags: ['Abstract Processing', 'AI', 'Pipeline', 'Error Handling', 'State Management']
 created: 2025-02-08
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-08 — Session: Integration and Execution of Abstract Processing Pipeline
 
 **🕒 16:30–17:50**  
-**🏷️ Labels**: abstract processing, AI, pipeline, error handling, state management  
+**🏷️ Labels**: Abstract Processing, AI, Pipeline, Error Handling, State Management  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: true
 The primary goal of this session was to integrate and execute an abstract processing pipeline using [[AI]]-driven tools for efficient research abstract management.
 
 ### Key Activities
-- Integrated abstract processing agents into the [[workflow]], adapting existing classes and functions for abstract handling.
+- Integrated abstract processing agents into the workflow, adapting existing classes and functions for abstract handling.
 - Implemented the `AbstractManager` class for storing and retrieving abstracts in [[JSON]] format, ensuring no duplicates.
 - Developed the `AbstractsState` class for managing the state of abstracts through processing stages.
 - Adapted the `ChunkHandler` to `AbstractProcessor` for DOI-based abstract processing.
@@ -25,13 +25,13 @@ The primary goal of this session was to integrate and execute an abstract proces
 - Implemented the execution pipeline for the Abstract Reader and Screening Agent.
 - Addressed network issues with CrossRef [[API]] by using a mock dataset.
 - Updated `AbstractsState` and `AbstractManager` for [[AI]] output handling.
-- Revised the `process_abstracts` function for improved [[error handling]] and state management.
+- Revised the `process_abstracts` function for improved error handling and state management.
 - Fixed errors related to `ValidationError` and `TypeError` in class implementations.
 
 ### Achievements
-- Successfully executed a mock abstract processing and screening [[workflow]].
+- Successfully executed a mock abstract processing and screening workflow.
 - Established a comprehensive pipeline for fetching, processing, and displaying research abstracts.
 
 ### Pending Tasks
 - Validate and integrate the updated schemas and function mappings for [[AI]] agents.
-- Further refine [[error handling]] mechanisms for robust pipeline execution.
+- Further refine error handling mechanisms for robust pipeline execution.

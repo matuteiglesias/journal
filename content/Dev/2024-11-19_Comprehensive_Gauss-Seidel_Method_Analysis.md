@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Gauss-Seidel Method Analysis"
-tags: ['Gauss-Seidel', 'numerical methods', 'convergence', 'accounting', 'property management']
+tags: ['Gauss-Seidel', 'Numerical Methods', 'Convergence', 'Accounting', 'Property Management']
 created: 2024-11-19
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-11-19 — Session: Comprehensive Gauss-Seidel Method Analysis
 
 **🕒 15:50–23:55**  
-**🏷️ Labels**: Gauss-Seidel, numerical methods, convergence, accounting, property management  
+**🏷️ Labels**: Gauss-Seidel, Numerical Methods, Convergence, Accounting, Property Management  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

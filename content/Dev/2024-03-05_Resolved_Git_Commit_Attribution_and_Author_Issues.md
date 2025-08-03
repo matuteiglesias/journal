@@ -1,6 +1,6 @@
 ---
 title: "Resolved Git Commit Attribution and Author Issues"
-tags: ['git', 'version_control', 'commit_management', 'troubleshooting']
+tags: ['Git', 'Version_Control', 'Commit_Management', 'Troubleshooting']
 created: 2024-03-05
 publish: true
 ---
@@ -8,17 +8,17 @@ publish: true
 ## 📅 2024-03-05 — Session: Resolved Git Commit Attribution and Author Issues
 
 **🕒 00:00–00:50**  
-**🏷️ Labels**: git, version_control, commit_management, troubleshooting  
+**🏷️ Labels**: Git, Version_Control, Commit_Management, Troubleshooting  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to address and resolve issues related to Git commit attribution and author information, ensuring that all contributions are correctly recognized on [[GitHub]].
+The session aimed to address and resolve issues related to Git commit attribution and author information, ensuring that all contributions are correctly recognized on GitHub.
 
 ### Key Activities
 - A structured commit sequence was established to manage repository updates effectively.
-- [[Troubleshooting]] steps were implemented to resolve [[GitHub]] contribution issues caused by email configuration errors.
+- [[Troubleshooting]] steps were implemented to resolve GitHub contribution issues caused by email configuration errors.
 - Detailed guides were followed to fix Git commit attribution problems by configuring local Git settings and amending previous commits.
 - Practical strategies were employed to handle unstaged changes while correcting author information in Git commits.
 - The `git commit --amend` command was utilized to amend commits, and interactive rebase techniques were applied to correct author information across the commit history.

@@ -1,6 +1,6 @@
 ---
 title: "BigQuery Table Creation and Troubleshooting"
-tags: ['BigQuery', 'Google Cloud', 'Data Loading', 'Troubleshooting', 'Permissions']
+tags: ['Bigquery', 'Google Cloud', 'Data Loading', 'Troubleshooting', 'Permissions']
 created: 2025-02-27
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-27 — Session: BigQuery Table Creation and Troubleshooting
 
 **🕒 21:25–21:55**  
-**🏷️ Labels**: BigQuery, Google Cloud, Data Loading, Troubleshooting, Permissions  
+**🏷️ Labels**: Bigquery, Google Cloud, Data Loading, Troubleshooting, Permissions  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -29,7 +29,7 @@ The main objective of this session was to create a BigQuery table for census dat
 - Established methods for sharing and accessing data in BigQuery.
 
 ### Pending Tasks
-- Further [[optimization]] of data loading processes, potentially converting [[CSV]] files to Parquet for efficiency.
+- Further optimization of data loading processes, potentially converting [[CSV]] files to Parquet for efficiency.
 
 ### Tags
 BigQuery, [[Google Cloud]], Data Loading, [[Troubleshooting]], Permissions

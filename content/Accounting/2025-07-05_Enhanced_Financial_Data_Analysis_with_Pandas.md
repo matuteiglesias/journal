@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Financial Data Analysis with Pandas"
-tags: ['data_analysis', 'financial_data', 'Python', 'Pandas', 'visualization']
+tags: ['Data_Analysis', 'Financial_Data', 'Python', 'Pandas', 'Visualization']
 created: 2025-07-05
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-07-05 — Session: Enhanced Financial Data Analysis with Pandas
 
 **🕒 21:55–22:15**  
-**🏷️ Labels**: data_analysis, financial_data, Python, Pandas, visualization  
+**🏷️ Labels**: Data_Analysis, Financial_Data, Python, Pandas, Visualization  
 **📂 Project**: Accounting  
 **⭐ Priority**: MEDIUM  
 
@@ -19,7 +19,7 @@ The session aimed to refine the processing and analysis of financial data files 
 ### Key Activities
 - Conducted a diagnostic overview of financial data files to assess their status and outline next steps for aggregation.
 - Developed a [[Python]] script to analyze monthly inflow and outflow from ledger files, employing [[Pandas]] for data loading, cleaning, and summarization.
-- Addressed issues with non-datetime columns in DataFrames, providing solutions for date coercion and [[error handling]].
+- Addressed issues with non-datetime columns in DataFrames, providing solutions for date coercion and error handling.
 - Resolved problems with timezone-aware datetimes by converting them to naive datetimes for consistent processing.
 - Implemented robust date handling in [[Pandas]] to manage mixed-type date columns and prevent silent failures.
 - Solved mixed timezone offsets in `posted_date` columns by converting timestamps to a uniform UTC format.
@@ -27,7 +27,7 @@ The session aimed to refine the processing and analysis of financial data files 
 
 ### Achievements
 - Successfully cleaned and processed financial data, resolving datetime and timezone issues.
-- Enhanced [[data visualization]] capabilities with clear financial flow representations.
+- Enhanced data visualization capabilities with clear financial flow representations.
 
 ### Pending Tasks
 - Further refinement of data aggregation methods to improve efficiency.

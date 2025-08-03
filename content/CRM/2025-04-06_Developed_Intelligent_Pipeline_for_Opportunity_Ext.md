@@ -1,6 +1,6 @@
 ---
 title: "Developed Intelligent Pipeline for Opportunity Extraction"
-tags: ['automation', 'opportunities', 'AI', 'networking', 'CRM']
+tags: ['Automation', 'Opportunities', 'AI', 'Networking', 'CRM']
 created: 2025-04-06
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-06 — Session: Developed Intelligent Pipeline for Opportunity Extraction
 
 **🕒 18:30–18:45**  
-**🏷️ Labels**: automation, opportunities, AI, networking, CRM  
+**🏷️ Labels**: Automation, Opportunities, AI, Networking, CRM  
 **📂 Project**: CRM  
 **⭐ Priority**: MEDIUM  
 
@@ -18,7 +18,7 @@ The session aimed to develop a module that automates the extraction, classificat
 
 ### Key Activities
 - Designed a project roadmap for an intelligent pipeline module focused on opportunity extraction.
-- Developed a modular system to manage opportunities through smart filtering and [[workflow]] enhancements.
+- Developed a modular system to manage opportunities through smart filtering and workflow enhancements.
 - Processed institutional screenshots to categorize and cluster relevant information.
 - Explored collaboration opportunities with iNOVA Media Lab and other European research centers.
 - Built a system to consolidate research opportunities by automatically exploring sites and extracting key snippets.

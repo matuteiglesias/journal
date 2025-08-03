@@ -1,6 +1,6 @@
 ---
 title: "Enhanced GeoData Visualization with GeoPandas and Matplotlib"
-tags: ['GeoPandas', 'Matplotlib', 'Data Visualization', 'Python', 'Geospatial']
+tags: ['Geopandas', 'Matplotlib', 'Data Visualization', 'Python', 'Geospatial']
 created: 2023-10-03
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-10-03 — Session: Enhanced GeoData Visualization with GeoPandas and Matplotlib
 
 **🕒 16:50–17:40**  
-**🏷️ Labels**: GeoPandas, Matplotlib, Data Visualization, Python, Geospatial  
+**🏷️ Labels**: Geopandas, Matplotlib, Data Visualization, Python, Geospatial  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

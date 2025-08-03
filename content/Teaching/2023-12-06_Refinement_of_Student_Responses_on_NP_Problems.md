@@ -1,6 +1,6 @@
 ---
 title: "Refinement of Student Responses on NP Problems"
-tags: ['LaTeX', 'NP Problems', 'Algorithm Complexity', 'DISCO-DOM', 'Student Responses']
+tags: ['Latex', 'Np Problems', 'Algorithm Complexity', 'DISCO-DOM', 'Student Responses']
 created: 2023-12-06
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-12-06 — Session: Refinement of Student Responses on NP Problems
 
 **🕒 18:20–21:30**  
-**🏷️ Labels**: LaTeX, NP Problems, Algorithm Complexity, DISCO-DOM, Student Responses  
+**🏷️ Labels**: Latex, Np Problems, Algorithm Complexity, DISCO-DOM, Student Responses  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

@@ -1,6 +1,6 @@
 ---
 title: "Developed and Adapted NoSQL Schemas"
-tags: ['NoSQL', 'schema', 'adaptation', 'flexibility', 'scalability']
+tags: ['Nosql', 'Schema', 'Adaptation', 'Flexibility', 'Scalability']
 created: 2024-09-16
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-09-16 — Session: Developed and Adapted NoSQL Schemas
 
 **🕒 17:30–18:30**  
-**🏷️ Labels**: NoSQL, schema, adaptation, flexibility, scalability  
+**🏷️ Labels**: Nosql, Schema, Adaptation, Flexibility, Scalability  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

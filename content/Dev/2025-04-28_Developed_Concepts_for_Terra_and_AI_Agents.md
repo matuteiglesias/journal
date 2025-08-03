@@ -1,6 +1,6 @@
 ---
 title: "Developed Concepts for Terra and AI Agents"
-tags: ['Terra', 'AI Agents', 'Design', 'Pixel Art', 'Branding']
+tags: ['Terra', 'Ai Agents', 'Design', 'Pixel Art', 'Branding']
 created: 2025-04-28
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-04-28 — Session: Developed Concepts for Terra and AI Agents
 
 **🕒 00:00–00:15**  
-**🏷️ Labels**: Terra, AI Agents, Design, Pixel Art, Branding  
+**🏷️ Labels**: Terra, Ai Agents, Design, Pixel Art, Branding  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: true
 The session aimed to brainstorm and outline creative concepts for the Terra platform and various [[AI]] agents, focusing on user experience, branding, and visual design.
 
 ### Key Activities
-- **Development of `bootstrap.py`:** Created an inviting script template to enhance user experience for new Terra users.
+- **[[Development]] of `bootstrap.py`:** Created an inviting script template to enhance user experience for new Terra users.
 - **Logo Design for Terra Foundation:** Developed multiple design briefs and concepts, including pixel art and futuristic elements, for the Terra Foundation's branding.
 - **Email Watcher Agent Branding:** Suggested names and branding concepts to give the email watcher agent a professional yet friendly persona.
 - **Profile Image for Email Watcher Agent:** Conceptualized a pixel-art style profile image for a light and alert vibe.

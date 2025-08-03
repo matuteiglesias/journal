@@ -1,6 +1,6 @@
 ---
 title: "Developed Dual-Schema System for Obsidian and Business Intelligence"
-tags: ['Obsidian', 'business intelligence', 'metadata', 'automation', 'Python']
+tags: ['Obsidian', 'Business Intelligence', 'Metadata', 'Automation', 'Python']
 created: 2025-05-09
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-05-09 — Session: Developed Dual-Schema System for Obsidian and Business Intelligence
 
 **🕒 22:05–23:05**  
-**🏷️ Labels**: Obsidian, business intelligence, metadata, automation, Python  
+**🏷️ Labels**: Obsidian, Business Intelligence, Metadata, Automation, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to develop and refine a dual-schema system for use in Obsidian and business intelligence applications, focusing on metadata management and [[automation]].
+The goal of this session was to develop and refine a dual-schema system for use in Obsidian and business intelligence applications, focusing on metadata management and automation.
 
 ### Key Activities
 - Explored the role of tags and classification in organizing assistant responses.

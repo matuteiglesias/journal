@@ -1,6 +1,6 @@
 ---
 title: "Developed Economic Volatility Modeling Framework"
-tags: ['economic modeling', 'simulation', 'GitHub', 'manuscript', 'economic shocks']
+tags: ['Economic Modeling', 'Simulation', 'Github', 'Manuscript', 'Economic Shocks']
 created: 2024-06-23
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-06-23 — Session: Developed Economic Volatility Modeling Framework
 
 **🕒 19:15–20:30**  
-**🏷️ Labels**: economic modeling, simulation, GitHub, manuscript, economic shocks  
+**🏷️ Labels**: Economic Modeling, Simulation, Github, Manuscript, Economic Shocks  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -22,13 +22,13 @@ The session aimed to develop a comprehensive framework for economic volatility m
 - Planned thematic grouping of experiments related to microshocks, bootstrap analysis, and distribution analysis.
 - Defined conditions for a robust theoretical framework, emphasizing clarity, empirical support, and mathematical rigor.
 - Explored advanced simulation techniques using French trade data for empirical verification.
-- Developed a strategic plan for manuscript development, including [[GitHub]] repository setup and writing phases.
-- Set up a [[GitHub]] repository for the project, detailing repository creation, folder structuring, and initial README setup.
+- Developed a strategic plan for manuscript development, including GitHub repository setup and writing phases.
+- Set up a GitHub repository for the project, detailing repository creation, folder structuring, and initial README setup.
 
 ### Achievements
 - Established a novel framework for economic volatility modeling.
 - Prepared a detailed outline and plan for a research paper on economic shocks.
-- Set up a [[GitHub]] repository for [[project management]] and collaboration.
+- Set up a GitHub repository for project management and collaboration.
 
 ### Pending Tasks
 - Continue manuscript development and empirical validation of the proposed models.

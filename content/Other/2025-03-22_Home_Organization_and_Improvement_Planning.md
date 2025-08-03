@@ -1,6 +1,6 @@
 ---
 title: "Home Organization and Improvement Planning"
-tags: ['home organization', 'interior design', 'decluttering', 'planning', 'checklist']
+tags: ['Home Organization', 'Interior Design', 'Decluttering', 'Planning', 'Checklist']
 created: 2025-03-22
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-03-22 — Session: Home Organization and Improvement Planning
 
 **🕒 19:00–19:30**  
-**🏷️ Labels**: home organization, interior design, decluttering, planning, checklist  
+**🏷️ Labels**: Home Organization, Interior Design, Decluttering, Planning, Checklist  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 
@@ -23,7 +23,7 @@ The main goal of this session was to develop a comprehensive plan for home organ
 - Planned the organization of the Reception/Transition Zone to improve flow and functionality.
 - Formulated a dining room organization plan focusing on decluttering and zoning for multi-use.
 - Provided an overview and actionable steps for organizing Room 4 as a bedroom/workshop mix.
-- Developed a [[strategy]] for organizing the Galpón and hidden storage areas.
+- Developed a strategy for organizing the Galpón and hidden storage areas.
 - Refined a mission plan for home rebuilding, starting with the bedroom as a modern sanctuary.
 
 ### Achievements

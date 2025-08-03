@@ -1,6 +1,6 @@
 ---
 title: "Implemented Financial Data Visualizations and Corrections"
-tags: ['financial analysis', 'data visualization', 'Python', 'Matplotlib', 'DataFrame']
+tags: ['Financial Analysis', 'Data Visualization', 'Python', 'Matplotlib', 'Dataframe']
 created: 2024-01-07
 publish: false
 ---
@@ -8,13 +8,13 @@ publish: false
 ## 📅 2024-01-07 — Session: Implemented Financial Data Visualizations and Corrections
 
 **🕒 03:05–03:40**  
-**🏷️ Labels**: financial analysis, data visualization, Python, Matplotlib, DataFrame  
+**🏷️ Labels**: Financial Analysis, Data Visualization, Python, Matplotlib, Dataframe  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to enhance financial [[data analysis]] by implementing detailed visualizations and correcting data manipulation errors.
+The session aimed to enhance financial data analysis by implementing detailed visualizations and correcting data manipulation errors.
 
 ### Key Activities
 - Conducted a detailed weekly cash flow analysis to identify trends, budget, detect anomalies, and assess currency exposure, using [[Python]] and [[Matplotlib]] for visualization.

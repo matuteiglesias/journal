@@ -1,6 +1,6 @@
 ---
 title: "Developed 6-Month Study Plan for Google Cloud Certifications"
-tags: ['Google Cloud', 'certification', 'study plan', 'Machine Learning', 'Data Engineering']
+tags: ['Google Cloud', 'Certification', 'Study Plan', 'Machine Learning', 'Data Engineering']
 created: 2024-05-27
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-05-27 — Session: Developed 6-Month Study Plan for Google Cloud Certifications
 
 **🕒 16:10–17:00**  
-**🏷️ Labels**: Google Cloud, certification, study plan, Machine Learning, Data Engineering  
+**🏷️ Labels**: Google Cloud, Certification, Study Plan, Machine Learning, Data Engineering  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 

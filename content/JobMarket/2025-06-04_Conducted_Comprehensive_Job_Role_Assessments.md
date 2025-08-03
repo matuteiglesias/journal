@@ -1,6 +1,6 @@
 ---
 title: "Conducted Comprehensive Job Role Assessments"
-tags: ['Job Assessment', 'AI', 'Data Engineering', 'AI/ML', 'Fullstack Development', 'Giffits GmbH']
+tags: ['Job Assessment', 'AI', 'Data Engineering', 'AI/ML', 'Fullstack Development', 'Giffits Gmbh']
 created: 2025-06-04
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-04 — Session: Conducted Comprehensive Job Role Assessments
 
 **🕒 21:10–21:30**  
-**🏷️ Labels**: Job Assessment, AI, Data Engineering, AI/ML, Fullstack Development, Giffits GmbH  
+**🏷️ Labels**: Job Assessment, AI, Data Engineering, AI/ML, Fullstack Development, Giffits Gmbh  
 **📂 Project**: JobMarket  
 **⭐ Priority**: MEDIUM  
 
@@ -23,7 +23,7 @@ The primary objective of this session was to evaluate candidates' fit for variou
 - Conducted a comprehensive screening of job roles at Giffits GmbH to determine fit based on skills and experience.
 
 ### Achievements
-- Identified strengths in modular pipelines, technical skills, and [[leadership]] potential across various roles.
+- Identified strengths in modular pipelines, technical skills, and leadership potential across various roles.
 - Highlighted gaps in specific technologies, domain expertise, and real-time personalization systems.
 - Provided actionable recommendations for candidates regarding application strategies and potential role fits.
 

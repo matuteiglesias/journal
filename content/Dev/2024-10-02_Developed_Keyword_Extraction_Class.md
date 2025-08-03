@@ -1,6 +1,6 @@
 ---
 title: "Developed Keyword Extraction Class"
-tags: ['keyword extraction', 'data processing', 'automation', 'Python', 'NLP']
+tags: ['Keyword Extraction', 'Data Processing', 'Automation', 'Python', 'NLP']
 created: 2024-10-02
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-02 — Session: Developed Keyword Extraction Class
 
 **🕒 03:10–03:20**  
-**🏷️ Labels**: keyword extraction, data processing, automation, Python, NLP  
+**🏷️ Labels**: Keyword Extraction, Data Processing, Automation, Python, NLP  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -21,7 +21,7 @@ The goal of this session was to plan and initiate the development of a keyword e
 - Outlined steps for building a flexible keyword extraction and classification system using [[Python]], focusing on handling data from RSS feeds, emails, and news articles.
 - Developed a flexible data ingestion and processing architecture for keyword extraction and classification.
 - Confirmed readiness to proceed with the development of the keyword extraction class, emphasizing integration into a data ingestion pipeline.
-- Outlined the objectives and structure of a data ingestion pipeline designed for efficient [[data processing]].
+- Outlined the objectives and structure of a data ingestion pipeline designed for efficient data processing.
 
 ### Achievements
 - Successfully planned the architecture and initial steps for developing a keyword extraction class.

@@ -1,6 +1,6 @@
 ---
 title: "Developed SQL and Pandas Exercises for Split-Apply-Combine"
-tags: ['SQL', 'pandas', 'education', 'split-apply-combine', 'data analysis', 'exercise']
+tags: ['SQL', 'Pandas', 'Education', 'Split-Apply-Combine', 'Data Analysis', 'Exercise']
 created: 2025-06-21
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-06-21 — Session: Developed SQL and Pandas Exercises for Split-Apply-Combine
 
 **🕒 01:00–01:35**  
-**🏷️ Labels**: SQL, pandas, education, split-apply-combine, data analysis, exercise  
+**🏷️ Labels**: SQL, Pandas, Education, Split-Apply-Combine, Data Analysis, Exercise  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

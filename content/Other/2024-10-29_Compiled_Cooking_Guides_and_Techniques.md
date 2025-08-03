@@ -1,6 +1,6 @@
 ---
 title: "Compiled Cooking Guides and Techniques"
-tags: ['cooking', 'guides', 'pressure cooking', 'recipes', 'culinary techniques']
+tags: ['Cooking', 'Guides', 'Pressure Cooking', 'Recipes', 'Culinary Techniques']
 created: 2024-10-29
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-29 — Session: Compiled Cooking Guides and Techniques
 
 **🕒 02:10–02:50**  
-**🏷️ Labels**: cooking, guides, pressure cooking, recipes, culinary techniques  
+**🏷️ Labels**: Cooking, Guides, Pressure Cooking, Recipes, Culinary Techniques  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

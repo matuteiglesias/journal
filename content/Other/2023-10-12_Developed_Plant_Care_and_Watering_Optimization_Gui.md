@@ -1,6 +1,6 @@
 ---
 title: "Developed Plant Care and Watering Optimization Guides"
-tags: ['plant care', 'watering optimization', 'cannabis cultivation', 'gardening techniques']
+tags: ['Plant Care', 'Watering Optimization', 'Cannabis Cultivation', 'Gardening Techniques']
 created: 2023-10-12
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-10-12 — Session: Developed Plant Care and Watering Optimization Guides
 
 **🕒 08:50–09:30**  
-**🏷️ Labels**: plant care, watering optimization, cannabis cultivation, gardening techniques  
+**🏷️ Labels**: Plant Care, Watering Optimization, Cannabis Cultivation, Gardening Techniques  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

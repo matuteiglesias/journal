@@ -17,7 +17,7 @@ publish: true
 The aim of this session was to develop a comprehensive system for scoring student responses using both [[Python]] and Google Sheets.
 
 ### Key Activities
-1. **Algorithm Development**: Created an algorithm to calculate student scores based on the numeric difference between student responses and correct answers. This included pseudocode and a [[Python]] implementation.
+1. **Algorithm [[Development]]**: Created an algorithm to calculate student scores based on the numeric difference between student responses and correct answers. This included pseudocode and a [[Python]] implementation.
 2. **Google Sheets Implementation**: Developed a grading system in Google Sheets, which involved:
    - Converting answers to numeric values.
    - Calculating sums for correct and student answers.

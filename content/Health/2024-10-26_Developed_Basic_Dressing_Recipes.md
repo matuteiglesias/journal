@@ -1,6 +1,6 @@
 ---
 title: "Developed Basic Dressing Recipes"
-tags: ['recetas', 'aderezos', 'cocina', 'saludable', 'yogurt']
+tags: ['Recetas', 'Aderezos', 'Cocina', 'Saludable', 'Yogurt']
 created: 2024-10-26
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-26 — Session: Developed Basic Dressing Recipes
 
 **🕒 23:10–23:20**  
-**🏷️ Labels**: recetas, aderezos, cocina, saludable, yogurt  
+**🏷️ Labels**: Recetas, Aderezos, Cocina, Saludable, Yogurt  
 **📂 Project**: Health  
 **⭐ Priority**: LOW  
 

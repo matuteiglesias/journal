@@ -1,6 +1,6 @@
 ---
 title: "Schedule and Task Management Optimization"
-tags: ['task management', 'schedule', 'organization', 'automation', 'work-life balance']
+tags: ['Task Management', 'Schedule', 'Organization', 'Automation', 'Work-Life Balance']
 created: 2024-06-09
 publish: false
 ---
@@ -8,13 +8,13 @@ publish: false
 ## 📅 2024-06-09 — Session: Schedule and Task Management Optimization
 
 **🕒 23:25–23:45**  
-**🏷️ Labels**: task management, schedule, organization, automation, work-life balance  
+**🏷️ Labels**: Task Management, Schedule, Organization, Automation, Work-Life Balance  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to optimize Matías' schedule and [[task management]] system for improved [[productivity]] and work-life balance.
+The session aimed to optimize Matías' schedule and task management system for improved productivity and work-life balance.
 
 ### Key Activities
 - Reflected on the schedule and tasks for June 9-11, 2024, focusing on task prioritization and time allocation.

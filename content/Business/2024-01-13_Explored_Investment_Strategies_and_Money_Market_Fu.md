@@ -1,6 +1,6 @@
 ---
 title: "Explored Investment Strategies and Money Market Funds"
-tags: ['investment', 'money market funds', 'rotational investing', 'Interactive Brokers', 'non-U.S. investors']
+tags: ['Investment', 'Money Market Funds', 'Rotational Investing', 'Interactive Brokers', 'Non-U.S. Investors']
 created: 2024-01-13
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-01-13 — Session: Explored Investment Strategies and Money Market Funds
 
 **🕒 16:45–18:40**  
-**🏷️ Labels**: investment, money market funds, rotational investing, Interactive Brokers, non-U.S. investors  
+**🏷️ Labels**: Investment, Money Market Funds, Rotational Investing, Interactive Brokers, Non-U.S. Investors  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -18,7 +18,7 @@ The session aimed to explore various investment strategies, focusing on tactical
 
 ### Key Activities
 - Discussed tactical asset allocation, rotational investing, and value investing, providing definitions and approaches.
-- Outlined a rotational investing [[strategy]] using momentum detection with [[Python]] and [[Pandas]].
+- Outlined a rotational investing strategy using momentum detection with [[Python]] and [[Pandas]].
 - Provided an overview of money market funds, including liquidity, types, and regulatory framework.
 - Reflected on the impact of Federal Reserve's monetary policy on money market funds and potential yield fluctuations.
 - Discussed investment strategies for money market funds for non-U.S. residents and through Interactive Brokers.

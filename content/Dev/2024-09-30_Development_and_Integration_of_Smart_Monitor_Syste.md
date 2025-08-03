@@ -14,11 +14,11 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to develop and integrate a Smart Monitor System using a pub/sub architecture to enhance [[productivity]] through [[automation]] and efficient data management.
+The primary goal of this session was to develop and integrate a Smart Monitor System using a pub/sub architecture to enhance productivity through automation and efficient data management.
 
 ### Key Activities
-- **Refinement of Pub/Sub Architecture**: Developed a tailored pub/sub architecture to enhance [[productivity]] by identifying specific publishers and subscribers.
-- **[[Automation]] Workflow Design**: Structured an approach to automate and manage information using the pub/sub architecture.
+- **Refinement of Pub/Sub Architecture**: Developed a tailored pub/sub architecture to enhance productivity by identifying specific publishers and subscribers.
+- **[[Automation]] [[Workflow]] Design**: Structured an approach to automate and manage information using the pub/sub architecture.
 - **Smart Monitoring System Design**: Developed a smart monitoring system utilizing various agents for data ingestion, processing, alerting, and storage.
 - **Memo Preparation**: Prepared a memo outlining the requirements and next steps for hiring Chat Dev for system development.
 - **Chat Dev Setup**: Set up and ran the Chat Dev project from the command line.

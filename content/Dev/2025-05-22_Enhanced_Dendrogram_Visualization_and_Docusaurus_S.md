@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Dendrogram Visualization and Docusaurus Structuring"
-tags: ['dendrogram', 'visualization', 'Docusaurus', 'clustering', 'knowledge management']
+tags: ['Dendrogram', 'Visualization', 'Docusaurus', 'Clustering', 'Knowledge Management']
 created: 2025-05-22
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-22 — Session: Enhanced Dendrogram Visualization and Docusaurus Structuring
 
 **🕒 06:25–07:20**  
-**🏷️ Labels**: dendrogram, visualization, Docusaurus, clustering, knowledge management  
+**🏷️ Labels**: Dendrogram, Visualization, Docusaurus, Clustering, Knowledge Management  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -24,7 +24,7 @@ The session aimed to enhance dendrogram visualizations and structure content in 
 - Extracted sorted IDs from hierarchical clustering using [[Python]]'s `scipy`.
 - Analyzed dendrogram drift to formalize cluster boundaries and enhance knowledge organization.
 - Designed a [[Docusaurus]] section architecture focusing on user intent and content function.
-- Provided user intent examples for LLM tools and [[automation]] in the [[Docusaurus]] context.
+- Provided user intent examples for LLM tools and automation in the [[Docusaurus]] context.
 - Visualized the [[Docusaurus]] wiki structure and proposed sectional plans for content organization.
 - Mapped dendrogram entries and summaries to the [[Docusaurus]] wiki structure.
 

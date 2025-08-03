@@ -1,6 +1,6 @@
 ---
 title: "Session on Project Focus and Content Structuring"
-tags: ['projects', 'coordination', 'content_creation', 'personal_experience', 'political_analysis']
+tags: ['Projects', 'Coordination', 'Content_Creation', 'Personal_Experience', 'Political_Analysis']
 created: 2025-01-08
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-08 — Session: Session on Project Focus and Content Structuring
 
 **🕒 04:15–04:35**  
-**🏷️ Labels**: projects, coordination, content_creation, personal_experience, political_analysis  
+**🏷️ Labels**: Projects, Coordination, Content_Creation, Personal_Experience, Political_Analysis  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -18,7 +18,7 @@ The session aimed to discuss ongoing projects, explore personal and political ex
 
 ### Key Activities
 - Discussed ongoing projects including an online portfolio and poverty section updates.
-- Explored personal experiences in [[data science]] and [[AI]].
+- Explored personal experiences in data science and [[AI]].
 - Reflected on unfulfilled dreams and goals.
 - Discussed the combination of politics and narrative for inspiration.
 - Suggested creating a space for personal experiences and political analysis.
@@ -27,7 +27,7 @@ The session aimed to discuss ongoing projects, explore personal and political ex
 
 ### Achievements
 - Identified areas of focus for ongoing projects.
-- Explored personal and academic trajectories in [[data science]].
+- Explored personal and academic trajectories in data science.
 - Proposed structuring content for blogs and personal reflections.
 
 ### Pending Tasks

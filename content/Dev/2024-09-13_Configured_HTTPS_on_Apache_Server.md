@@ -17,7 +17,7 @@ publish: true
 The goal of this session was to secure the Apache server by configuring HTTPS access using SSL certificates.
 
 ### Key Activities
-- **[[Troubleshooting]] Apache Configuration**: Reviewed and adjusted configurations, checked logs, and verified SSL settings to troubleshoot HTTPS access issues.
+- **[[Troubleshooting]] Apache [[Configuration]]**: Reviewed and adjusted configurations, checked logs, and verified SSL settings to troubleshoot HTTPS access issues.
 - **Installing SSL Certificate**: Used Certbot to install an SSL certificate for the domain `matuteiglesias.link` to ensure secure HTTPS access.
 - **Installing Apache Plugin for Certbot**: Installed the necessary Apache plugin for Certbot to facilitate SSL configuration.
 - **Configuring SSL for Virtual Hosts**: Selected the correct virtual host in Certbot and configured SSL certificates, followed by verification and Apache server restart.

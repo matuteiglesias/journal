@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Job Market Positioning and Application Strategy"
-tags: ['job application', 'career development', 'professional branding', 'AI', 'data science']
+tags: ['Job Application', 'Career Development', 'Professional Branding', 'AI', 'Data Science']
 created: 2025-06-02
 publish: false
 ---
@@ -8,13 +8,13 @@ publish: false
 ## 📅 2025-06-02 — Session: Comprehensive Job Market Positioning and Application Strategy
 
 **🕒 11:50–14:30**  
-**🏷️ Labels**: job application, career development, professional branding, AI, data science  
+**🏷️ Labels**: Job Application, Career Development, Professional Branding, AI, Data Science  
 **📂 Project**: JobMarket  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to analyze and enhance Matías Iglesias's professional market positioning and job application [[strategy]].
+The session aimed to analyze and enhance Matías Iglesias's professional market positioning and job application strategy.
 
 ### Key Activities
 - Conducted an analysis of work sessions to assess domain expertise and market positioning.

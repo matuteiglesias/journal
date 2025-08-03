@@ -1,6 +1,6 @@
 ---
 title: "Optimized Email Metadata Extraction Pipeline"
-tags: ['email', 'metadata', 'Python', 'graph analysis', 'Spider API']
+tags: ['Email', 'Metadata', 'Python', 'Graph Analysis', 'Spider Api']
 created: 2025-02-17
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-17 — Session: Optimized Email Metadata Extraction Pipeline
 
 **🕒 12:50–13:50**  
-**🏷️ Labels**: email, metadata, Python, graph analysis, Spider API  
+**🏷️ Labels**: Email, Metadata, Python, Graph Analysis, Spider Api  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -19,7 +19,7 @@ The goal of this session was to optimize and document the email metadata extract
 ### Key Activities
 - Developed a modular [[Python]] pipeline for extracting, analyzing, and storing email metadata from an MBOX file.
 - Conducted graph analysis and generated insights from the extracted data.
-- Documented the process and outlined next steps for further analysis and [[automation]].
+- Documented the process and outlined next steps for further analysis and automation.
 
 ### Achievements
 - Successfully optimized the email metadata extraction process.
@@ -27,7 +27,7 @@ The goal of this session was to optimize and document the email metadata extract
 - Generated actionable insights from the data.
 
 ### Pending Tasks
-- Further [[automation]] of the analysis process.
+- Further automation of the analysis process.
 - Exploration of additional insights that can be derived from the metadata.
 
 ### Additional Activities

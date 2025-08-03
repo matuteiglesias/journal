@@ -1,6 +1,6 @@
 ---
 title: "Data Quality Analysis with GQM and DataFrame Corrections"
-tags: ['data quality', 'GQM', 'DataFrame', 'pandas', 'data cleaning']
+tags: ['Data Quality', 'GQM', 'Dataframe', 'Pandas', 'Data Cleaning']
 created: 2025-04-30
 publish: true
 ---
@@ -8,13 +8,13 @@ publish: true
 ## 📅 2025-04-30 — Session: Data Quality Analysis with GQM and DataFrame Corrections
 
 **🕒 23:25–23:55**  
-**🏷️ Labels**: data quality, GQM, DataFrame, pandas, data cleaning  
+**🏷️ Labels**: Data Quality, GQM, Dataframe, Pandas, Data Cleaning  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to conduct a data quality analysis using the GQM (Goal–Question–Metric) methodology and to correct errors in DataFrame processing for further [[data analysis]].
+The goal of this session was to conduct a data quality analysis using the GQM (Goal–Question–Metric) methodology and to correct errors in DataFrame processing for further data analysis.
 
 ### Key Activities
 - **Data Quality Analysis**: Utilized the GQM methodology to assess data quality through structured guides and templates, focusing on identifying and evaluating problems in example tables.

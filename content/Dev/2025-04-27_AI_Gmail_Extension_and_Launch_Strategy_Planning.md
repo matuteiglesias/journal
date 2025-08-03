@@ -19,7 +19,7 @@ The session aimed to explore and plan the development and launch of [[AI]]-drive
 ### Key Activities
 - **Manual Trigger for Ghost Text in Gmail**: Discussed the feasibility and tech stack needed to implement a manual trigger for ghost text suggestions in Gmail, considering the implications of overriding Gmail's Smart Compose.
 - **Hiring for Product Launch**: Outlined requirements for hiring a Product Launcher for a Chrome Extension, including skills, budget, and job post templates.
-- **Presale Sales Launcher Strategy**: Developed a [[strategy]] for hiring a presale sales launcher to build early momentum for an [[AI]] Gmail extension.
+- **Presale Sales Launcher [[Strategy]]**: Developed a strategy for hiring a presale sales launcher to build early momentum for an [[AI]] Gmail extension.
 - **Project Feasibility and Launch Plan**: Assessed project feasibility, outlining technical capabilities and a structured plan for launching a basic website with early marketing tactics.
 - **Exploring Autocomplete Tools**: Explored challenges and opportunities in developing autocomplete tools for Gmail, focusing on integration and compliance with Google's policies.
 - **[[AI]] SuperCompose Funnel Sketch**: Created a funnel sketch for an [[AI]]-assisted email writing tool, including landing page copy, demo simulation, audience testing strategies, and success metrics.
@@ -31,4 +31,4 @@ The session aimed to explore and plan the development and launch of [[AI]]-drive
 
 ### Pending Tasks
 - Further research on tech stack and compliance for Gmail extensions.
-- Finalize hiring [[strategy]] and job posts for product and sales launch.
+- Finalize hiring strategy and job posts for product and sales launch.

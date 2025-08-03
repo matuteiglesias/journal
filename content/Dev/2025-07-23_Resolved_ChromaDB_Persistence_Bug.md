@@ -1,6 +1,6 @@
 ---
 title: "Resolved ChromaDB Persistence Bug"
-tags: ['ChromaDB', 'bug fix', 'persistence', 'index corruption', 'Python']
+tags: ['Chromadb', 'Bug Fix', 'Persistence', 'Index Corruption', 'Python']
 created: 2025-07-23
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-07-23 — Session: Resolved ChromaDB Persistence Bug
 
 **🕒 08:40–09:00**  
-**🏷️ Labels**: ChromaDB, bug fix, persistence, index corruption, Python  
+**🏷️ Labels**: Chromadb, Bug Fix, Persistence, Index Corruption, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

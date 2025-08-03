@@ -1,6 +1,6 @@
 ---
 title: "Bash Scripting and Job Search Strategy"
-tags: ['Bash Scripting', 'Job Search', 'Email Management', 'LinkedIn', 'Teaching']
+tags: ['Bash Scripting', 'Job Search', 'Email Management', 'Linkedin', 'Teaching']
 created: 2024-10-03
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-10-03 — Session: Bash Scripting and Job Search Strategy
 
 **🕒 04:55–05:40**  
-**🏷️ Labels**: Bash Scripting, Job Search, Email Management, LinkedIn, Teaching  
+**🏷️ Labels**: Bash Scripting, Job Search, Email Management, Linkedin, Teaching  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

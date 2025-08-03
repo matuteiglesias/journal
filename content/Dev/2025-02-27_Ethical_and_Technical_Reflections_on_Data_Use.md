@@ -1,6 +1,6 @@
 ---
 title: "Ethical and Technical Reflections on Data Use"
-tags: ['ethics', 'deep learning', 'data privacy', 'regularization', 'transfer learning']
+tags: ['Ethics', 'Deep Learning', 'Data Privacy', 'Regularization', 'Transfer Learning']
 created: 2025-02-27
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-27 — Session: Ethical and Technical Reflections on Data Use
 
 **🕒 15:10–15:35**  
-**🏷️ Labels**: ethics, deep learning, data privacy, regularization, transfer learning  
+**🏷️ Labels**: Ethics, Deep Learning, Data Privacy, Regularization, Transfer Learning  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

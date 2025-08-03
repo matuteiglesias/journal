@@ -1,6 +1,6 @@
 ---
 title: "Explored Smart Scheduling Algorithms"
-tags: ['scheduling', 'task management', 'algorithms', 'productivity', 'Python']
+tags: ['Scheduling', 'Task Management', 'Algorithms', 'Productivity', 'Python']
 created: 2024-10-26
 publish: false
 ---
@@ -8,19 +8,19 @@ publish: false
 ## 📅 2024-10-26 — Session: Explored Smart Scheduling Algorithms
 
 **🕒 15:20–15:50**  
-**🏷️ Labels**: scheduling, task management, algorithms, productivity, Python  
+**🏷️ Labels**: Scheduling, Task Management, Algorithms, Productivity, Python  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to explore smart scheduling algorithms to optimize Matías's calendar and enhance [[task management]] efficiency.
+The session aimed to explore smart scheduling algorithms to optimize Matías's calendar and enhance task management efficiency.
 
 ### Key Activities
-- Discussed various smart scheduling algorithms and their role in [[task management]].
+- Discussed various smart scheduling algorithms and their role in task management.
 - Explored the concept of heuristics in problem-solving, particularly in scheduling.
 - Outlined the use of Genetic Algorithms and Constraint Programming as scheduling agents.
-- Reflected on Matías's daily schedule and [[task management]] [[strategy]].
+- Reflected on Matías's daily schedule and task management strategy.
 - Developed a structured approach to scheduling constraints.
 - Implemented programmatic scheduling constraints using [[Python]].
 

@@ -1,6 +1,6 @@
 ---
 title: "Legal and Strategic Planning for Family Property Management"
-tags: ['legal', 'family management', 'property', 'strategy', 'agreement']
+tags: ['Legal', 'Family Management', 'Property', 'Strategy', 'Agreement']
 created: 2024-11-28
 publish: false
 ---
@@ -8,13 +8,13 @@ publish: false
 ## 📅 2024-11-28 — Session: Legal and Strategic Planning for Family Property Management
 
 **🕒 00:40–02:30**  
-**🏷️ Labels**: legal, family management, property, strategy, agreement  
+**🏷️ Labels**: Legal, Family Management, Property, Strategy, Agreement  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to address legal and [[strategic planning]] for the management of family properties, focusing on revocation of power of attorney, drafting legal documents, and structuring family agreements.
+The session aimed to address legal and strategic planning for the management of family properties, focusing on revocation of power of attorney, drafting legal documents, and structuring family agreements.
 
 ### Key Activities
 - Reviewed legal strategies for revoking a special power of attorney granted to Antonio Alejandro Iglesias, based on CCCN.

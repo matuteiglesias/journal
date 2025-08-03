@@ -1,6 +1,6 @@
 ---
 title: "Enhanced section number validation with regex update"
-tags: ['Python', 'regex', 'validation', 'debugging', 'section numbers']
+tags: ['Python', 'Regex', 'Validation', 'Debugging', 'Section Numbers']
 created: 2023-11-11
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-11-11 — Session: Enhanced section number validation with regex update
 
 **🕒 02:40–02:55**  
-**🏷️ Labels**: Python, regex, validation, debugging, section numbers  
+**🏷️ Labels**: Python, Regex, Validation, Debugging, Section Numbers  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

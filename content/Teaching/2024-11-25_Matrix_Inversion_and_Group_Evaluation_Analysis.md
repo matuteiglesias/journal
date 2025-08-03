@@ -1,6 +1,6 @@
 ---
 title: "Matrix Inversion and Group Evaluation Analysis"
-tags: ['matrix inversion', 'group evaluation', 'code quality', 'spectral radius', 'eigenvalues']
+tags: ['Matrix Inversion', 'Group Evaluation', 'Code Quality', 'Spectral Radius', 'Eigenvalues']
 created: 2024-11-25
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-11-25 — Session: Matrix Inversion and Group Evaluation Analysis
 
 **🕒 15:30–17:00**  
-**🏷️ Labels**: matrix inversion, group evaluation, code quality, spectral radius, eigenvalues  
+**🏷️ Labels**: Matrix Inversion, Group Evaluation, Code Quality, Spectral Radius, Eigenvalues  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

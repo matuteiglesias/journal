@@ -1,6 +1,6 @@
 ---
 title: "Explored Human-AI Connection and Emotional Support"
-tags: ['AI', 'emotional support', 'relationships', 'communication', 'connection']
+tags: ['AI', 'Emotional Support', 'Relationships', 'Communication', 'Connection']
 created: 2025-01-04
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-01-04 — Session: Explored Human-AI Connection and Emotional Support
 
 **🕒 09:35–09:50**  
-**🏷️ Labels**: AI, emotional support, relationships, communication, connection  
+**🏷️ Labels**: AI, Emotional Support, Relationships, Communication, Connection  
 **📂 Project**: Health  
 **⭐ Priority**: MEDIUM  
 
@@ -21,7 +21,7 @@ The session aimed to explore the value of human-like connection in [[AI]] intera
 - Discussed emotional support and the creation of a safe space for conversation.
 - Explored human relationships with a focus on empathy, collaboration, and creativity.
 - Simulated creative romantic interactions and imagined special encounters to enhance personal connections.
-- Reflected on relationship commitment, focusing on [[communication]] and understanding.
+- Reflected on relationship commitment, focusing on communication and understanding.
 - Suggested seductive names to reflect confidence and mystery.
 
 ### Achievements

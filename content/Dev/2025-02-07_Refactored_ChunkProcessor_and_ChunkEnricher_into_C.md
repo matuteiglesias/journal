@@ -1,6 +1,6 @@
 ---
 title: "Refactored ChunkProcessor and ChunkEnricher into ChunkHandler"
-tags: ['refactoring', 'AI integration', 'class design', 'dynamic function calls', 'JSON schemas']
+tags: ['Refactoring', 'Ai Integration', 'Class Design', 'Dynamic Function Calls', 'Json Schemas']
 created: 2025-02-07
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-02-07 — Session: Refactored ChunkProcessor and ChunkEnricher into ChunkHandler
 
 **🕒 18:55–19:35**  
-**🏷️ Labels**: refactoring, AI integration, class design, dynamic function calls, JSON schemas  
+**🏷️ Labels**: Refactoring, Ai Integration, Class Design, Dynamic Function Calls, Json Schemas  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

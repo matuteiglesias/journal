@@ -1,6 +1,6 @@
 ---
 title: "Cooking Session: Stromboli and Salsa Verde"
-tags: ['cooking', 'Stromboli', 'Salsa Verde', 'recipe', 'baking', 'temperature']
+tags: ['Cooking', 'Stromboli', 'Salsa Verde', 'Recipe', 'Baking', 'Temperature']
 created: 2024-11-02
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-02 — Session: Cooking Session: Stromboli and Salsa Verde
 
 **🕒 00:00–01:10**  
-**🏷️ Labels**: cooking, Stromboli, Salsa Verde, recipe, baking, temperature  
+**🏷️ Labels**: Cooking, Stromboli, Salsa Verde, Recipe, Baking, Temperature  
 **📂 Project**: Health  
 **⭐ Priority**: LOW  
 

@@ -1,6 +1,6 @@
 ---
 title: "Resolved Jina AI and SQLite Issues"
-tags: ['Jina AI', 'SQLite', 'Error Handling', 'Python', 'Caching']
+tags: ['Jina Ai', 'Sqlite', 'Error Handling', 'Python', 'Caching']
 created: 2025-07-23
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-07-23 — Session: Resolved Jina AI and SQLite Issues
 
 **🕒 05:15–06:15**  
-**🏷️ Labels**: Jina AI, SQLite, Error Handling, Python, Caching  
+**🏷️ Labels**: Jina Ai, Sqlite, Error Handling, Python, Caching  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

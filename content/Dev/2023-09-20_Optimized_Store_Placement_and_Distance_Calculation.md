@@ -1,6 +1,6 @@
 ---
 title: "Optimized Store Placement and Distance Calculation"
-tags: ['Python', 'algorithm', 'error correction', 'store placement', 'distance calculation']
+tags: ['Python', 'Algorithm', 'Error Correction', 'Store Placement', 'Distance Calculation']
 created: 2023-09-20
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2023-09-20 — Session: Optimized Store Placement and Distance Calculation
 
 **🕒 18:30–19:25**  
-**🏷️ Labels**: Python, algorithm, error correction, store placement, distance calculation  
+**🏷️ Labels**: Python, Algorithm, Error Correction, Store Placement, Distance Calculation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -25,7 +25,7 @@ The session aimed to correct and optimize functions related to store placement a
 
 ### Achievements
 - Successfully corrected the distance calculation logic, ensuring the algorithm accurately evaluates store placement and costs.
-- Improved [[error handling]] and [[debugging]] processes for [[Python]] functions.
+- Improved error handling and debugging processes for [[Python]] functions.
 
 ### Pending Tasks
 - Execute the modified code locally to verify the correctness of the solutions implemented.

@@ -1,6 +1,6 @@
 ---
 title: "Managed Rental Property Visit and PDF Generation"
-tags: ['rental property', 'PDF generation', 'lead tracking', 'automation', 'task management']
+tags: ['Rental Property', 'Pdf Generation', 'Lead Tracking', 'Automation', 'Task Management']
 created: 2025-07-04
 publish: false
 ---
@@ -8,16 +8,16 @@ publish: false
 ## 📅 2025-07-04 — Session: Managed Rental Property Visit and PDF Generation
 
 **🕒 21:35–22:10**  
-**🏷️ Labels**: rental property, PDF generation, lead tracking, automation, task management  
+**🏷️ Labels**: Rental Property, Pdf Generation, Lead Tracking, Automation, Task Management  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to coordinate tasks related to rental property management, including visit planning, [[documentation]] preparation, and [[automation]] of PDF generation for property details.
+The session aimed to coordinate tasks related to rental property management, including visit planning, documentation preparation, and automation of PDF generation for property details.
 
 ### Key Activities
-- **Task Planning:** Developed a [[strategy]] for time management and task prioritization, focusing on pending tasks related to finance and property visits.
+- **Task Planning:** Developed a strategy for time management and task prioritization, focusing on pending tasks related to finance and property visits.
 - **Visit Pack Preparation:** Compiled necessary information for a property visit pack, including economic conditions and visitor registration forms.
 - **Property Listing:** Detailed the specifications and conditions for a rental property in Don Torcuato.
 - **Lead Tracking:** Logged leads and scheduled visits for the property, capturing contact information and priority status.

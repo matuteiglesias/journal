@@ -1,6 +1,6 @@
 ---
 title: "Developed Academic and Linear Algebra Solutions"
-tags: ['academic', 'linear algebra', 'problem solving', 'eigenvalues', 'quadratic equations']
+tags: ['Academic', 'Linear Algebra', 'Problem Solving', 'Eigenvalues', 'Quadratic Equations']
 created: 2024-11-30
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-11-30 — Session: Developed Academic and Linear Algebra Solutions
 
 **🕒 00:50–01:20**  
-**🏷️ Labels**: academic, linear algebra, problem solving, eigenvalues, quadratic equations  
+**🏷️ Labels**: Academic, Linear Algebra, Problem Solving, Eigenvalues, Quadratic Equations  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
@@ -17,7 +17,7 @@ publish: true
 The session aimed to develop detailed solutions for academic exercises, focusing on linear algebra and related mathematical problems.
 
 ### Key Activities
-- **Direct Response Strategy for Academic Exercises:** Developed a [[strategy]] for providing original solutions to academic exercises, emphasizing independent thinking.
+- **Direct Response [[Strategy]] for Academic Exercises:** Developed a strategy for providing original solutions to academic exercises, emphasizing independent thinking.
 - **Diagonalizability and Eigenvalues of Matrix A:** Calculated eigenvalues and assessed diagonalizability of Matrix A, establishing conditions for parameters r, s, and t.
 - **Eigenvalues via Characteristic Polynomial:** Outlined steps to find eigenvalues using the determinant of the characteristic polynomial.
 - **Quadratic Equation Roots:** Solved quadratic equations by substituting specific values to explore relationships between variables.

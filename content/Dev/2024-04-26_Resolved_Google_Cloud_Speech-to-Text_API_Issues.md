@@ -1,6 +1,6 @@
 ---
 title: "Resolved Google Cloud Speech-to-Text API Issues"
-tags: ['Google Cloud', 'Speech-to-Text', 'Python', 'Troubleshooting', 'Audio Processing']
+tags: ['Google Cloud', 'Speech-To-Text', 'Python', 'Troubleshooting', 'Audio Processing']
 created: 2024-04-26
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-04-26 — Session: Resolved Google Cloud Speech-to-Text API Issues
 
 **🕒 13:05–14:00**  
-**🏷️ Labels**: Google Cloud, Speech-to-Text, Python, Troubleshooting, Audio Processing  
+**🏷️ Labels**: Google Cloud, Speech-To-Text, Python, Troubleshooting, Audio Processing  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -19,8 +19,8 @@ The session aimed to troubleshoot and resolve various issues related to the [[Go
 ### Key Activities
 - **Installation [[Troubleshooting]]**: Addressed installation and configuration issues with the `google-cloud-speech` library in [[Python]].
 - **Payload Size [[Error Handling]]**: Implemented solutions for handling `InvalidArgument` exceptions due to audio file size limits by using `ffmpeg` for audio extraction and script modification.
-- **Project Management**: Guided steps for changing the active [[Google Cloud]] project both in the console and via the `gcloud` command-line tool.
-- **Configuration [[Troubleshooting]]**: Ensured correct project configuration in [[Python]] applications by managing environment variables and [[API]] settings.
+- **[[Project Management]]**: Guided steps for changing the active [[Google Cloud]] project both in the console and via the `gcloud` command-line tool.
+- **[[Configuration]] [[Troubleshooting]]**: Ensured correct project configuration in [[Python]] applications by managing environment variables and [[API]] settings.
 - **Authentication Resolution**: Updated Application Default Credentials to resolve authentication issues.
 - **Audio Processing**: Converted stereo audio to mono and optimized audio files for [[API]] compatibility and performance.
 - **Handling Long Audio Files**: Transitioned from synchronous to asynchronous processing for long audio files.

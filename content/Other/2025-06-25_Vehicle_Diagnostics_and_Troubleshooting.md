@@ -1,6 +1,6 @@
 ---
 title: "Vehicle Diagnostics and Troubleshooting"
-tags: ['vehicle diagnostics', 'coolant system', 'overheating', 'automotive', 'troubleshooting']
+tags: ['Vehicle Diagnostics', 'Coolant System', 'Overheating', 'Automotive', 'Troubleshooting']
 created: 2025-06-25
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2025-06-25 — Session: Vehicle Diagnostics and Troubleshooting
 
 **🕒 21:20–21:40**  
-**🏷️ Labels**: vehicle diagnostics, coolant system, overheating, automotive, troubleshooting  
+**🏷️ Labels**: Vehicle Diagnostics, Coolant System, Overheating, Automotive, Troubleshooting  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

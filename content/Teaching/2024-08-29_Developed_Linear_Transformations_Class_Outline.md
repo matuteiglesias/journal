@@ -1,6 +1,6 @@
 ---
 title: "Developed Linear Transformations Class Outline"
-tags: ['linear transformations', 'Python', 'education', 'matrix operations', 'teaching']
+tags: ['Linear Transformations', 'Python', 'Education', 'Matrix Operations', 'Teaching']
 created: 2024-08-29
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-08-29 — Session: Developed Linear Transformations Class Outline
 
 **🕒 17:15–17:40**  
-**🏷️ Labels**: linear transformations, Python, education, matrix operations, teaching  
+**🏷️ Labels**: Linear Transformations, Python, Education, Matrix Operations, Teaching  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 

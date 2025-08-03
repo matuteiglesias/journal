@@ -1,6 +1,6 @@
 ---
 title: "Deploy and Secure Flask App on Google App Engine"
-tags: ['Flask', 'Google App Engine', 'OAuth', 'Deployment', 'Security']
+tags: ['Flask', 'Google App Engine', 'Oauth', 'Deployment', 'Security']
 created: 2024-02-16
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-02-16 — Session: Deploy and Secure Flask App on Google App Engine
 
 **🕒 18:50–20:00**  
-**🏷️ Labels**: Flask, Google App Engine, OAuth, Deployment, Security  
+**🏷️ Labels**: Flask, Google App Engine, Oauth, Deployment, Security  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

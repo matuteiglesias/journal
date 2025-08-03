@@ -1,6 +1,6 @@
 ---
 title: "Python Environment and AI Agent Setup"
-tags: ['Python', 'AI Agents', 'Cerebrum SDK', 'Environment Setup', 'Dependency Management']
+tags: ['Python', 'Ai Agents', 'Cerebrum Sdk', 'Environment Setup', 'Dependency Management']
 created: 2025-05-03
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-05-03 — Session: Python Environment and AI Agent Setup
 
 **🕒 03:10–03:55**  
-**🏷️ Labels**: Python, AI Agents, Cerebrum SDK, Environment Setup, Dependency Management  
+**🏷️ Labels**: Python, Ai Agents, Cerebrum Sdk, Environment Setup, Dependency Management  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

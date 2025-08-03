@@ -1,6 +1,6 @@
 ---
 title: "Developed and Documented Fish and Octopus Recipes"
-tags: ['cooking', 'recipes', 'seafood', 'food safety', 'octopus', 'fish']
+tags: ['Cooking', 'Recipes', 'Seafood', 'Food Safety', 'Octopus', 'Fish']
 created: 2024-10-26
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-10-26 — Session: Developed and Documented Fish and Octopus Recipes
 
 **🕒 00:15–23:55**  
-**🏷️ Labels**: cooking, recipes, seafood, food safety, octopus, fish  
+**🏷️ Labels**: Cooking, Recipes, Seafood, Food Safety, Octopus, Fish  
 **📂 Project**: Other  
 **⭐ Priority**: LOW  
 

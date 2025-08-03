@@ -18,7 +18,7 @@ The session aimed to enhance the performance of a Scrapy spider for web scraping
 
 ### Key Activities
 1. **Data Cleaning**: Implemented a [[Python]] function to iteratively remove outliers from a DataFrame using standard deviations.
-2. **[[Web Scraping]] Optimization**: 
+2. **[[Web Scraping]] [[Optimization]]**: 
    - Reviewed a report on the spider's scraping performance.
    - Optimized the Scrapy spider by reducing requests, implementing asynchronous processing, and optimizing data handling.
    - Set up a Scrapy spider to extract `ProductoCategorizadoItem` and modified the `MultiCSVItemPipeline` for categorized product output.
@@ -26,7 +26,7 @@ The session aimed to enhance the performance of a Scrapy spider for web scraping
 3. **Inventory Management**:
    - Explored value investing principles in retail purchases by tracking prices and buying in bulk.
    - Discussed opportunistic purchasing and strategic stockpiling strategies.
-   - Applied Economic Order Quantity (EOQ) and Just-In-Time (JIT) strategies for home inventory [[optimization]].
+   - Applied Economic Order Quantity (EOQ) and Just-In-Time (JIT) strategies for home inventory optimization.
 
 ### Achievements
 - Successfully optimized the Scrapy spider for improved performance and data export capabilities.

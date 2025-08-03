@@ -1,6 +1,6 @@
 ---
 title: "Developed Strategic Collaboration Plans for Public Safety"
-tags: ['collaboration', 'public safety', 'data governance', 'training', 'education']
+tags: ['Collaboration', 'Public Safety', 'Data Governance', 'Training', 'Education']
 created: 2023-12-11
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-12-11 — Session: Developed Strategic Collaboration Plans for Public Safety
 
 **🕒 04:00–04:50**  
-**🏷️ Labels**: collaboration, public safety, data governance, training, education  
+**🏷️ Labels**: Collaboration, Public Safety, Data Governance, Training, Education  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
@@ -31,7 +31,7 @@ The session aimed to explore and develop strategic collaboration plans between v
 
 7. **Training Program Framework and Budget**: Presented a detailed framework for a police training program involving university students as instructors, including program duration, schedules, and budget calculations.
 
-8. **Instructor Selection Strategy**: Proposed a [[strategy]] for selecting advanced university students as instructors in various relevant fields for public safety training.
+8. **Instructor Selection [[Strategy]]**: Proposed a strategy for selecting advanced university students as instructors in various relevant fields for public safety training.
 
 ### Achievements
 - Developed comprehensive collaboration and training proposals involving multiple stakeholders.

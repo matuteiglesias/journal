@@ -34,15 +34,15 @@ The goal of this session was to enhance and refactor various aspects of [[Python
 - Implemented Streamlit configuration UI for managing [[API]] keys.
 - Fixed TypeErrors in command joining and execution.
 - Resolved ModuleNotFoundError for missing dependencies.
-- Enhanced file management in [[automation]] scripts.
+- Enhanced file management in automation scripts.
 
 ### Achievements
 - Improved the robustness and maintainability of the Streamlit application.
 - Enhanced the packaging process for [[Python]] applications.
 - Streamlined file management and path resolution.
-- Developed strategies for better subprocess management and [[error handling]].
+- Developed strategies for better subprocess management and error handling.
 
 ### Pending Tasks
-- Further testing of the refactored pipeline execution [[strategy]].
+- Further testing of the refactored pipeline execution strategy.
 - Continuous monitoring of the Streamlit application for new bugs or enhancements.
-- Finalizing the monetization [[strategy]] for the job parsing pipeline.
+- Finalizing the monetization strategy for the job parsing pipeline.

@@ -1,6 +1,6 @@
 ---
 title: "Design and Implementation of SERP Domain Scoring System"
-tags: ['scoring system', 'SERP', 'ATS', 'Python', 'data processing']
+tags: ['Scoring System', 'SERP', 'ATS', 'Python', 'Data Processing']
 created: 2025-06-05
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2025-06-05 — Session: Design and Implementation of SERP Domain Scoring System
 
 **🕒 03:25–04:25**  
-**🏷️ Labels**: scoring system, SERP, ATS, Python, data processing  
+**🏷️ Labels**: Scoring System, SERP, ATS, Python, Data Processing  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 

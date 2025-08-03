@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary aim of this session was to enhance email [[automation]] capabilities and address server management issues.
+The primary aim of this session was to enhance email automation capabilities and address server management issues.
 
 ### Key Activities
 - **EmailWatcher Agent Design:** Developed core design principles for a minimal EmailWatcher agent focusing on simplicity and effectiveness.
@@ -26,7 +26,7 @@ The primary aim of this session was to enhance email [[automation]] capabilities
 - **Port 8000 Error Resolution:** Resolved 'address already in use' error for port 8000 by managing running processes and scripting future fixes.
 
 ### Achievements
-- Successfully designed and clarified functionalities for email [[automation]] agents.
+- Successfully designed and clarified functionalities for email automation agents.
 - Fixed tool passing issues in EmailTriagerAgent, enhancing its reliability.
 - Implemented a robust logging mechanism for triage results.
 - Diagnosed and provided solutions for server timeout and port binding issues.

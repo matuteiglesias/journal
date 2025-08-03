@@ -1,6 +1,6 @@
 ---
 title: "Compiled guides for indoor gardening and skincare routines"
-tags: ['gardening', 'food management', 'crafting', 'skincare', 'guides']
+tags: ['Gardening', 'Food Management', 'Crafting', 'Skincare', 'Guides']
 created: 2023-10-05
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2023-10-05 — Session: Compiled guides for indoor gardening and skincare routines
 
 **🕒 04:30–08:10**  
-**🏷️ Labels**: gardening, food management, crafting, skincare, guides  
+**🏷️ Labels**: Gardening, Food Management, Crafting, Skincare, Guides  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 

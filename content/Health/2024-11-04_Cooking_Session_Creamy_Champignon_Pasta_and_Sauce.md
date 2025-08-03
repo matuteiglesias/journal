@@ -1,6 +1,6 @@
 ---
 title: "Cooking Session: Creamy Champignon Pasta and Sauce"
-tags: ['cooking', 'recipe', 'pasta', 'sauce', 'champignon']
+tags: ['Cooking', 'Recipe', 'Pasta', 'Sauce', 'Champignon']
 created: 2024-11-04
 publish: false
 ---
@@ -8,7 +8,7 @@ publish: false
 ## 📅 2024-11-04 — Session: Cooking Session: Creamy Champignon Pasta and Sauce
 
 **🕒 00:00–01:10**  
-**🏷️ Labels**: cooking, recipe, pasta, sauce, champignon  
+**🏷️ Labels**: Cooking, Recipe, Pasta, Sauce, Champignon  
 **📂 Project**: Health  
 **⭐ Priority**: LOW  
 

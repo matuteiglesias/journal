@@ -21,7 +21,7 @@ The primary goal of this session was to set up and deploy a Hugo Techdoc site wi
 - **Setting Up a Hugo Site**: Followed a step-by-step guide to initialize a new Hugo site, integrate it with GitHub, and deploy it to GitHub Pages.
 - **Fixing [[Git]] Issues**: Resolved [[Git]] issues by adding the theme as a submodule, committing changes, and ensuring proper linkage to the GitHub repository.
 - **Understanding Hugo's Home Page Structure**: Explored methods to customize the home page of a Hugo site.
-- **Integrating [[Jupyter]] Notebooks**: Planned the integration of [[Jupyter]] notebooks into the Hugo Techdoc site, evaluating [[HTML]] and Markdown conversion methods.
+- **Integrating [[Jupyter]] Notebooks**: Planned the integration of [[Jupyter]] notebooks into the Hugo Techdoc site, evaluating [[HTML]] and [[Markdown]] conversion methods.
 
 ### Achievements
 - Successfully set up and deployed a Hugo Techdoc site with GitHub integration.

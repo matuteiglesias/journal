@@ -25,7 +25,7 @@ The goal of this session was to resolve various issues related to Hugo site depl
 - Resolved build failures on GitHub Pages by disabling Jekyll and fixing Liquid syntax errors.
 - Set up a new Hugo TechDoc site and configured it for deployment with [[Jupyter]] notebooks on GitHub Pages.
 - Reviewed and improved the directory structure for optimal Hugo site functionality.
-- Corrected path issues in notebooks and ensured Markdown code compatibility with Hugo.
+- Corrected path issues in notebooks and ensured [[Markdown]] code compatibility with Hugo.
 - Enabled and configured GitHub Pages for the repository, ensuring the correct deployment source and troubleshooting common issues.
 
 ### Achievements

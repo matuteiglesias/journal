@@ -25,7 +25,7 @@ The goal of this session was to develop and optimize a REST [[API]] for a machin
 - **Repository Structure Planning:** Proposed a modular structure for the ML [[API]] project repository, focusing on future cloud integration.
 - **Project Pitch:** Developed a project pitch for the Diamonds ML [[API]], outlining key components and integration plans.
 - **Environment Setup:** Set up the `OPENAI_API_KEY` environment variable for [[API]] access.
-- **Bash Command Handling:** Documented methods for handling Markdown characters in bash commands.
+- **Bash Command Handling:** Documented methods for handling [[Markdown]] characters in bash commands.
 - **Software Structure Analysis:** Analyzed the software structure for the Diamonds1 project using ChatDev.
 - **[[Optimization]] of `run.py` Parameters:** Optimized parameters in ChatDev's `run.py` for the Diamonds ML [[API]] project.
 - **[[Flask]] Script Comparison:** Compared [[Flask]] scripts for serving diamond price predictions, identifying strengths and integration opportunities.

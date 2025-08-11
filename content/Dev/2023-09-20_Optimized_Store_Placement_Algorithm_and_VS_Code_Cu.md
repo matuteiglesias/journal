@@ -14,12 +14,12 @@ publish: true
 
 
 ### Session Goal
-The session aimed to optimize a store placement algorithm for minimizing distance and to customize Markdown styling in Visual Studio Code using CSS.
+The session aimed to optimize a store placement algorithm for minimizing distance and to customize [[Markdown]] styling in Visual Studio Code using CSS.
 
 ### Key Activities
 - **Algorithm [[Optimization]]**: Analyzed code to minimize accumulated distance when placing stores at specific positions, exploring mathematical equivalences and memoization techniques.
 - **Function Naming**: Suggested improvements for function names to enhance code readability.
-- **VS Code Customization**: Customized Markdown cell styles in Visual Studio Code by integrating Primer CSS, extracting CSS styles from various sources, and troubleshooting SCSS compilation issues.
+- **VS Code Customization**: Customized [[Markdown]] cell styles in Visual Studio Code by integrating Primer CSS, extracting CSS styles from various sources, and troubleshooting SCSS compilation issues.
 - **Administrative Privileges**: Provided guidance on running Visual Studio Code with administrative privileges across different operating systems.
 
 ### Achievements

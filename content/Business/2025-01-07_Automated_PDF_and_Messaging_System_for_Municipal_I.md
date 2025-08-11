@@ -22,7 +22,7 @@ The session aimed to develop an automated system for generating and managing mun
 3. **Código para Generar PDFs Dinámicamente**: Provided a [[Python]] code example for generating personalized PDFs using the FPDF library.
 4. **Solución para error de instalación de fpdf**: Addressed installation errors with `fpdf` by providing solutions and alternatives using `fpdf2`.
 5. **PDF Generation for Tenant Invoices**: Delivered a complete [[Python]] code example for generating tenant invoice PDFs with detailed instructions.
-6. **Generación de PDFs desde Markdown usando FPDF y pdfkit**: Explained the conversion of Markdown to PDF using `markdown` and `pdfkit` libraries.
+6. **Generación de PDFs desde [[Markdown]] usando FPDF y pdfkit**: Explained the conversion of [[Markdown]] to PDF using `markdown` and `pdfkit` libraries.
 7. **Ajustes Estéticos para PDF con CSS y pdfkit**: Enhanced PDF aesthetics by adjusting margins and incorporating custom CSS.
 
 ### Achievements

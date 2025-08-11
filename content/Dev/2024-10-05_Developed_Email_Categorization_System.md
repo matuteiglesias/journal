@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to develop an email categorization system using machine learning techniques, focusing on natural language processing ([[NLP]]) and classification algorithms.
+The goal of this session was to develop an email categorization system using machine learning techniques, focusing on natural language processing (NLP) and classification algorithms.
 
 ### Key Activities
 - Planned the creation of a machine learning-based email categorization system using manually labeled examples as training data.
@@ -24,7 +24,7 @@ The goal of this session was to develop an email categorization system using mac
 - Extracted email data from [[HTML]] files and organized it into a pandas DataFrame for further processing.
 
 ### Achievements
-- Established a framework for email categorization using [[NLP]] and classification algorithms.
+- Established a framework for email categorization using NLP and classification algorithms.
 - Improved the dataset for better classifier performance.
 - Successfully extracted and organized data from [[HTML]] files, ready for machine learning applications.
 

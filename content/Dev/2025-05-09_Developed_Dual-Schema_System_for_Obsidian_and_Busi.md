@@ -23,7 +23,7 @@ The goal of this session was to develop and refine a dual-schema system for use 
 - Created detailed [[JSON]] schemas for metadata extraction in business and product intelligence.
 - Implemented Jinja2 prompt templates for screening contexts.
 - Outlined dual-schema outputs for Obsidian and business intelligence workflows.
-- Updated scripts for merging enriched files and transitioning to a flat directory structure for Markdown exports.
+- Updated scripts for merging enriched files and transitioning to a flat directory structure for [[Markdown]] exports.
 - Enhanced [[Python]] scripts for handling flattened [[JSON]] structures and metadata injection.
 - Improved metadata retrieval methods in ChromaDB.
 

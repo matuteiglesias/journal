@@ -21,7 +21,7 @@ The goal of this session was to analyze interests in practical [[AI]] applicatio
 - Proposed a structure for an introductory talk addressing these themes, including topics like the history of [[AI]], interaction with tools like ChatGPT, and automation processes.
 - Developed an outline for an introductory [[AI]] course, covering key topics such as history, tools, machine learning, neural networks, and ethical considerations.
 - Created a LaTeX Beamer presentation structure for [[AI]] topics, including sections on history, tools, and automation.
-- Provided a detailed script for presentation slides on [[AI]] topics, including [[Machine Learning]], [[NLP]], Computer Vision, and Recommender Systems.
+- Provided a detailed script for presentation slides on [[AI]] topics, including [[Machine Learning]], NLP, Computer Vision, and Recommender Systems.
 
 ### Achievements
 - Successfully developed a structured proposal for an introductory talk on [[AI]], incorporating workshop dynamics and practical applications.

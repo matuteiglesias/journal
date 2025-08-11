@@ -21,7 +21,7 @@ The goal of this session was to develop and document the [[HTML]] structure for 
 - Documented the [[HTML]] file structure, providing a template for future development and ensuring consistency in web development practices.
 - Compiled a repository overview for electoral data analysis and visualization, detailing scripts, notebooks, and data files used for analyzing electoral data in Argentina.
 - Provided guidance on citing code contributions in a README.md file, emphasizing proper acknowledgment and linking to the GitHub repository.
-- Explained the creation of hyperlinks in Markdown, enhancing documentation and planning capabilities.
+- Explained the creation of hyperlinks in [[Markdown]], enhancing documentation and planning capabilities.
 
 ### Achievements
 - Successfully documented the [[HTML]] structure for the 'Peronometro Electoral' project.

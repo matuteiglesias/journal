@@ -22,7 +22,7 @@ The session aimed to refine statistical models for analyzing tax morale and exec
 - Developed a refined ordered logistic model for tax morale, incorporating controls like satisfaction with tax revenue use and public goods delivery.
 - Suggested regression models for analyzing tax morale based on public goods, community engagement, and political participation.
 - Executed [[Python]] code for integrating codebook information into histogram plotting and loading [[JSON]] into a [[Python]] dictionary.
-- Modified [[Python]] code for enhanced data visualization, including legend improvements and Markdown formatting.
+- Modified [[Python]] code for enhanced data visualization, including legend improvements and [[Markdown]] formatting.
 - Addressed errors in dataset loading, including library imports, file path corrections, and dataset reloading.
 - Updated heatmap modifications by rounding numbers and removing black lines.
 

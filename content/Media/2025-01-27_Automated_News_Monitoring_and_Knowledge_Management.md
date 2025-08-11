@@ -20,7 +20,7 @@ The session aimed to enhance automation processes for news monitoring, knowledge
 - **Modified APScheduler** to run tasks every minute using interval triggers.
 - **Assessed production readiness** for an email processing system, focusing on stability, performance, and security.
 - Developed a **guide for Google News and news streaming** to improve news consumption.
-- Designed a **media article ingestor** for knowledge storage, including data schema and [[NLP]] integration.
+- Designed a **media article ingestor** for knowledge storage, including data schema and NLP integration.
 - Created a **roadmap for building a knowledge web**, establishing data structures and workflows.
 - Outlined methods for **efficient article extraction** from Google News using RSS and web scraping.
 - Set up and used **SerpAPI for news articles** to fetch and store news data.
@@ -28,7 +28,7 @@ The session aimed to enhance automation processes for news monitoring, knowledge
 - Provided an **overview of automated news monitoring systems** and trends.
 - Developed a **dual strategy for content generation** combining automation and manual processes.
 - Detailed an **automation workflow** for news aggregation and knowledge graph building.
-- Planned a strategy for **news aggregation, categorization, and [[SEO]] optimization** using [[NLP]] and MongoDB.
+- Planned a strategy for **news aggregation, categorization, and [[SEO]] optimization** using NLP and MongoDB.
 - Outlined a **two-month project plan for information mastery** using automation and [[AI]].
 
 ### Achievements

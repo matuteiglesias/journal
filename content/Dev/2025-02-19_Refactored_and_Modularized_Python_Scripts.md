@@ -23,7 +23,7 @@ The primary goal of this session was to refactor and modularize various [[Python
 - **Refactored Retrieval Pipeline**: Streamlined a [[Python]] script for a retrieval pipeline, focusing on modularity and encapsulation.
 - **Analysis of [[AI]] Processing Modules**: Proposed consolidation of overlapping [[AI]] processing scripts into modules for better maintainability and performance.
 - **Further Abstraction Proposal**: Outlined a plan to reorganize the text processing system by abstracting key functionalities.
-- **Organized [[Python]] Imports**: Structured [[Python]] imports and setup for OpenAI [[API]] and [[NLP]] tools.
+- **Organized [[Python]] Imports**: Structured [[Python]] imports and setup for OpenAI [[API]] and NLP tools.
 - **Enhanced [[JSON]] File Saving**: Improved a function for saving data to [[JSON]] files with better error handling.
 
 ### Achievements

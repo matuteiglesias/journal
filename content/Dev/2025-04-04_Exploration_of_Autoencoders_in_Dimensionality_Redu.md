@@ -21,7 +21,7 @@ The session aimed to explore the use of autoencoders for dimensionality reductio
 - Compared the use of autoencoders for dimensionality reduction with Luciana Ferrer's research in machine learning, focusing on speech processing.
 - Reflected on Luciana Ferrer's expertise in machine learning and how it might offer insights into the application of autoencoders for dimensionality reduction.
 - Reviewed articles on the application of autoencoders in demographic datasets, providing references for further exploration.
-- Identified authors with experience in autoencoders, deep learning, and [[NLP]], highlighting their relevance and expertise.
+- Identified authors with experience in autoencoders, deep learning, and NLP, highlighting their relevance and expertise.
 
 ### Achievements
 - Gained insights into the application of autoencoders for dimensionality reduction in demographic datasets.

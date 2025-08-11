@@ -21,7 +21,7 @@ The primary objective of this session was to address and fix issues related to p
 - **[[Debugging]] [[Matplotlib]] Scatter Plot**: Conducted a systematic debugging process to resolve marker size issues, ensuring proper value checks and parameter adjustments.
 - **Resolving Warnings in Scatter Function**: Addressed warnings related to keyword arguments and array comparisons in [[Python]] plotting.
 - **Streamlining [[Python]] Code**: Reorganized data processing code into clear sections for aggregation, verification, merging, and analysis, improving readability and maintenance.
-- **Electoral [[Data Analysis]] in Markdown**: Provided a detailed guide for electoral data analysis, covering data preparation, verification, merging, and specific vote fraction calculations.
+- **Electoral [[Data Analysis]] in [[Markdown]]**: Provided a detailed guide for electoral data analysis, covering data preparation, verification, merging, and specific vote fraction calculations.
 
 ### Achievements
 - Successfully fixed group indexing and marker size issues in plotting functions.

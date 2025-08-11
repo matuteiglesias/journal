@@ -20,7 +20,7 @@ The session aimed to improve the functionality of a [[Python]] script for conver
 - Developed a [[Python]] script to convert BibTeX entries into [[JSON]] and [[CSV]] formats, focusing on rearranging and sorting entries by year.
 - Implemented error handling and additional features for the `bibtex_to_json` function, such as sorting by fields and specifying output file names.
 - Utilized [[Pandas]] for data manipulation tasks, including converting DataFrame columns to numeric types, removing unwanted characters, and replacing 'null' values with `np.nan`.
-- Explored text editing techniques in Visual Studio Code, such as indenting/un-indenting and converting cells to Markdown.
+- Explored text editing techniques in Visual Studio Code, such as indenting/un-indenting and converting cells to [[Markdown]].
 
 ### Achievements
 - Successfully created a robust [[Python]] script capable of converting, sorting, and saving BibTeX data in desired formats.

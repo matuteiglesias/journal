@@ -29,7 +29,7 @@ The goal of this session was to develop a comprehensive summarization system for
 
 ### Achievements
 - Successfully developed a robust summarization system capable of processing and managing ChatGPT logs efficiently.
-- Improved the quality and speed of summarization using advanced [[NLP]] techniques and model optimizations.
+- Improved the quality and speed of summarization using advanced NLP techniques and model optimizations.
 
 ### Pending Tasks
 - Further refine summarization techniques to address remaining issues such as truncation and generic summaries.

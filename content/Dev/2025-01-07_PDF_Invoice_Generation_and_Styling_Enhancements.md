@@ -17,7 +17,7 @@ publish: true
 The primary goal of this session was to enhance the styling of [[HTML]] documents and generate PDF invoices for 2025 with improved formatting and alignment.
 
 ### Key Activities
-- **Modifications in [[HTML]] and Markdown Styling:** Instructions were provided for adjusting spacing and indentation in [[HTML]] and Markdown documents, with CSS adjustments for signature presentation.
+- **Modifications in [[HTML]] and [[Markdown]] Styling:** Instructions were provided for adjusting spacing and indentation in [[HTML]] and [[Markdown]] documents, with CSS adjustments for signature presentation.
 - **PDF Generation for 2025 Invoices:** Developed code to generate municipal invoices for 2025 using [[Python]], pandas, and pdfkit, focusing on formatting and style.
 - **Aligned Invoice PDFs:** Implemented a method to generate PDFs with aligned invoice details as text, avoiding table formatting issues.
 - **Invoice Format Adjustment:** Proposed changes to ensure each invoice entry renders on a separate line for better readability.

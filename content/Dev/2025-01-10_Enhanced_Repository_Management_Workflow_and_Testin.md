@@ -22,7 +22,7 @@ The primary goal of this session was to enhance the repository management workfl
 - Troubleshot common issues with `pytest` test detection and resolved test failures in the [[AI]] Analyzer.
 - Addressed and fixed AttributeError in the `test_assign_tasks` test by implementing a `SimpleAgent` class.
 - Analyzed workflow steps in repository management to identify test coverage gaps and proposed enhancements.
-- Designed a per-repository log file system in Markdown format to improve traceability and documentation.
+- Designed a per-repository log file system in [[Markdown]] format to improve traceability and documentation.
 
 ### Achievements
 - Successfully integrated [[AI]]-driven insights into repository management workflows.

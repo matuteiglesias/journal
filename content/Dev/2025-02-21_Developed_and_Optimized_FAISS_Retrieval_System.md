@@ -19,8 +19,8 @@ The goal of this session was to develop and optimize a retrieval system using FA
 ### Key Activities
 - Explored various [[AI]] models for text-based tasks, categorizing them into non-generative and generative models.
 - Developed a hierarchical retrieval system integrating BM25 and FAISS for efficient information access.
-- Reflected on the evolution of [[NLP]] technologies and the role of transformers and attention mechanisms in modern [[AI]] applications.
-- Conducted a deep dive into transformers and CNNs, comparing their applications in [[NLP]] and vision tasks.
+- Reflected on the evolution of NLP technologies and the role of transformers and attention mechanisms in modern [[AI]] applications.
+- Conducted a deep dive into transformers and CNNs, comparing their applications in NLP and vision tasks.
 - Planned updates to the data science curriculum to align with future industry demands.
 - Implemented embedding summaries for FAISS search and validated the embedding process with [[Python]] commands.
 - Developed an incremental FAISS indexing script with chunk ID mapping for efficient data retrieval.

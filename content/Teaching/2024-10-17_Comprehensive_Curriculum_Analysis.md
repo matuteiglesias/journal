@@ -19,7 +19,7 @@ The goal of this session was to conduct a comprehensive analysis of various educ
 ### Key Activities
 - Analyzed the coherence of the curriculum in programming, mathematics, data science, optimization, and applied biology.
 - Critiqued a student's bioinformatics curriculum, highlighting logical progression and areas for improvement.
-- Evaluated an [[AI]] curriculum, noting the trajectory from computational architecture to advanced applications in machine learning and [[NLP]], with critiques on database and statistics foundations.
+- Evaluated an [[AI]] curriculum, noting the trajectory from computational architecture to advanced applications in machine learning and NLP, with critiques on database and statistics foundations.
 - Assessed the ethical and legal focus in [[AI]] and machine learning curricula.
 - Reviewed study plans in data science, emphasizing interdisciplinary approaches and career paths.
 - Identified gaps and opportunities in curricula focusing on software engineering, logistics optimization, and computational neuroscience.

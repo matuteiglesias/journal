@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to enhance natural language processing ([[NLP]]) capabilities by developing and improving functions for entity and relation extraction, particularly focusing on legal texts and complex sentence structures.
+The goal of this session was to enhance natural language processing (NLP) capabilities by developing and improving functions for entity and relation extraction, particularly focusing on legal texts and complex sentence structures.
 
 ### Key Activities
 - **Challenging Two-Sector Economic Problem:** Explored economic models related to demand shock in a two-sector economy, utilizing the Leontief inverse.
@@ -28,9 +28,9 @@ The goal of this session was to enhance natural language processing ([[NLP]]) ca
 - **Relation Extraction Improvements:** Analyzed and improved relation extraction functions, focusing on complex sentence structures.
 
 ### Achievements
-- Successfully developed and improved multiple [[NLP]] functions for entity and relation extraction.
+- Successfully developed and improved multiple NLP functions for entity and relation extraction.
 - Enhanced the parsing and extraction capabilities for legal texts and complex sentences.
 
 ### Pending Tasks
-- Further testing and validation of the improved [[NLP]] functions in diverse text domains.
-- [[Integration]] of the developed functions into broader [[NLP]] workflows.
+- Further testing and validation of the improved NLP functions in diverse text domains.
+- [[Integration]] of the developed functions into broader NLP workflows.

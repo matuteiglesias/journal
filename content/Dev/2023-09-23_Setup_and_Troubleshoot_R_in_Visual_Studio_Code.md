@@ -14,18 +14,18 @@ publish: true
 
 
 ### Session Goal:
-The session aimed to set up and troubleshoot R and R Markdown within Visual Studio Code, ensuring a seamless development environment for R programming.
+The session aimed to set up and troubleshoot R and R [[Markdown]] within Visual Studio Code, ensuring a seamless development environment for R programming.
 
 ### Key Activities:
-- **Setup:** Installed R, Rtools, and Visual Studio Code with necessary extensions to support R and R Markdown.
+- **Setup:** Installed R, Rtools, and Visual Studio Code with necessary extensions to support R and R [[Markdown]].
 - **Project Structure Analysis:** Evaluated and suggested reorganization of project file structures for better clarity and usability.
-- **[[Troubleshooting]]:** Addressed issues with R Markdown cell rendering and knitting in VS Code, including checking settings and recommending extensions.
+- **[[Troubleshooting]]:** Addressed issues with R [[Markdown]] cell rendering and knitting in VS Code, including checking settings and recommending extensions.
 - **Package Management:** Installed required R packages like 'jsonlite' and 'rlang' and resolved library permission issues.
 
 ### Achievements:
-- Successfully set up R and R Markdown in Visual Studio Code.
+- Successfully set up R and R [[Markdown]] in Visual Studio Code.
 - Improved project organization and file structure.
-- Resolved common troubleshooting issues related to R Markdown.
+- Resolved common troubleshooting issues related to R [[Markdown]].
 - Installed necessary R packages and addressed permission issues.
 
 ### Pending Tasks:

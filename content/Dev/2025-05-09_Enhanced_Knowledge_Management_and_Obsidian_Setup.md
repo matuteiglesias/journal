@@ -18,7 +18,7 @@ The session aimed to refine knowledge management processes and set up Obsidian f
 
 ### Key Activities
 1. **Refined Knowledge Base Construction Flow**: Developed a structured approach to enhance knowledge management with minimal [[AI]] use, focusing on semantic routing.
-2. **Getting Started with Obsidian**: Explored how to start using Obsidian with existing Markdown files, highlighting features available without YAML frontmatter.
+2. **Getting Started with Obsidian**: Explored how to start using Obsidian with existing [[Markdown]] files, highlighting features available without YAML frontmatter.
 3. **Installing Obsidian on Linux**: Provided a step-by-step guide for installing Obsidian on Linux via AppImage, including creating a desktop entry.
 4. **Guide to Obsidian Publish Setup**: Detailed the process of setting up Obsidian Publish to transform a local vault into a public website.
 5. **Strategic Shift to Semi-Automated Knowledge Curation**: Planned a new strategy for knowledge management, leveraging [[AI]] for efficiency while maintaining human judgment.

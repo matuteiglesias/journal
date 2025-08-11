@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance data processing workflows using [[Python]], focusing on converting [[Jupyter]] notebooks to Markdown, data cleaning, and file handling operations.
+The session aimed to enhance data processing workflows using [[Python]], focusing on converting [[Jupyter]] notebooks to [[Markdown]], data cleaning, and file handling operations.
 
 ### Key Activities
-- Converted [[Jupyter]] notebooks to Markdown format, ensuring proper formatting with escaped code blocks.
+- Converted [[Jupyter]] notebooks to [[Markdown]] format, ensuring proper formatting with escaped code blocks.
 - Introduced a Data Cleaning Notebook designed for processing electoral data, detailing its structure and functionalities.
 - Provided [[Python]] code snippets for converting DataFrame column names to lowercase using pandas.
 - Demonstrated methods for storing and reading dictionaries in [[JSON]] and [[CSV]] formats.
@@ -28,7 +28,7 @@ The session aimed to enhance data processing workflows using [[Python]], focusin
 - Gave an example of saving a [[Python]] dictionary to a [[JSON]] file using the json module.
 
 ### Achievements
-- Successfully converted [[Jupyter]] notebooks to Markdown.
+- Successfully converted [[Jupyter]] notebooks to [[Markdown]].
 - Enhanced understanding of data cleaning processes for electoral data.
 - Improved data manipulation skills using pandas for DataFrame operations.
 - Gained proficiency in file handling and serialization with [[JSON]] and [[CSV]].

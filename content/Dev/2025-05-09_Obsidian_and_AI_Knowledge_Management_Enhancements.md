@@ -14,20 +14,20 @@ publish: true
 
 
 ### Session Goal
-The session aimed to design and implement enhancements for knowledge management using Obsidian and [[AI]] tools, focusing on Markdown processing, semantic routing, and automation.
+The session aimed to design and implement enhancements for knowledge management using Obsidian and [[AI]] tools, focusing on [[Markdown]] processing, semantic routing, and automation.
 
 ### Key Activities
-- Designed a modular Markdown patch engine to integrate [[AI]]-generated content into existing Markdown files without duplication.
+- Designed a modular [[Markdown]] patch engine to integrate [[AI]]-generated content into existing [[Markdown]] files without duplication.
 - Proposed a semantic heading matching layer to resolve mismatches between [[AI]]-generated and existing headings.
-- Outlined a two-stage semantic routing system for organizing knowledge in Markdown.
+- Outlined a two-stage semantic routing system for organizing knowledge in [[Markdown]].
 - Refined a knowledge base construction flow to enhance [[AI]] integration with minimal use.
 - Developed methods for Obsidian-compatible local systems and installation guides for Linux.
 - Set up Obsidian Publish for transforming local vaults into public websites.
-- Enhanced Markdown practices for Obsidian Publish.
+- Enhanced [[Markdown]] practices for Obsidian Publish.
 - Strategized a semi-automated knowledge curation approach leveraging [[AI]].
 - Integrated GPT screeners with Obsidian Publishing for structured annotation.
 - Proposed a unified [[JSON]] schema for organizing [[AI]]-generated responses in Obsidian.
-- Executed a plan for creating Obsidian-ready Markdown files from [[JSON]] responses.
+- Executed a plan for creating Obsidian-ready [[Markdown]] files from [[JSON]] responses.
 - Improved AIflow for GPT chat review by chaining schema calls.
 - Provided developer onboarding for automation scripts like `ingest.py` and `batch_promptflow_runner.py`.
 - Explored options for modular PromptFlow structures and extended DAGs for dual schema support.

@@ -22,8 +22,8 @@ The session aimed to develop and refine a data processing pipeline for exporting
 - Verified file paths for JSONL logs and addressed error handling in the markdown export pipeline.
 - Planned the data processing pipeline to convert `.jsonl` logs into a structured Obsidian vault, including YAML metadata and backlinking strategies.
 - Implemented [[Python]] functions for loading and normalizing `.jsonl` chat logs.
-- Executed the second stage of the Obsidian export pipeline, focusing on exporting notes to Markdown files with YAML frontmatter.
-- Generated a checklist for exporting Markdown notes to Obsidian, suggesting next steps for improved organization.
+- Executed the second stage of the Obsidian export pipeline, focusing on exporting notes to [[Markdown]] files with YAML frontmatter.
+- Generated a checklist for exporting [[Markdown]] notes to Obsidian, suggesting next steps for improved organization.
 - Developed [[Python]] scripts for automating the creation of Daily Index files and a Global Map of Content (MOC) in Obsidian.
 
 ### Achievements:

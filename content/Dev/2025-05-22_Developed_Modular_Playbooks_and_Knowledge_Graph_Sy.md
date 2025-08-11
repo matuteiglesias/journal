@@ -22,7 +22,7 @@ The session aimed to develop a structured approach for transforming chat logs in
 - Planned a comprehensive system for creating a living knowledge graph to externalize tacit knowledge through playbooks and chat logs.
 - Sought clarification on text clustering for research guidance, focusing on the types of texts, definitions, and automation preferences.
 - Investigated language model-based techniques for organizing developer-focused text snippets into meaningful clusters.
-- Outlined an approach to organize developer text snippets into coherent clusters using [[NLP]] techniques, including unsupervised embedding clustering and topic modeling.
+- Outlined an approach to organize developer text snippets into coherent clusters using NLP techniques, including unsupervised embedding clustering and topic modeling.
 
 ### Achievements
 - Established a structured framework for playbook development and knowledge graph planning.

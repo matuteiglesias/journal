@@ -20,7 +20,7 @@ The session aimed to modularize an ETL pipeline for idea enrichment and handle U
 - Modularized the ETL pipeline by defining functions and adding output actions for enriched data.
 - Addressed Unicode escape sequences in JSONL files using pandas, ensuring proper saving and loading.
 - Implemented a [[Python]] code snippet to fix escaped Unicode sequences in specific columns of dataframes.
-- Developed a structured approach to generate idea digests from a DataFrame, including creating summary blocks in Markdown format.
+- Developed a structured approach to generate idea digests from a DataFrame, including creating summary blocks in [[Markdown]] format.
 - Conducted a critical review of a journalistic digest structure and provided actionable recommendations.
 
 ### Achievements

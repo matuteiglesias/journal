@@ -20,7 +20,7 @@ The session aimed to explore and enhance a graph-based search system integrated 
 - Reviewed the structure and functionality of a graph-based search system and its integration with Cassandra.
 - Proposed enhancements to the current data structure, focusing on robustness and the introduction of new analysis tables.
 - Discussed knowledge aggregation techniques to form coherent higher-level units.
-- Explored [[NLP]] techniques to transform annotations into a knowledge web.
+- Explored NLP techniques to transform annotations into a knowledge web.
 - Summarized state-of-the-art models in Hugging Face for text classification.
 - Planned a script for text chunk classification using embeddings and clustering.
 - Outlined a structured approach for text categorization using embeddings and clustering.
@@ -32,4 +32,4 @@ The session aimed to explore and enhance a graph-based search system integrated 
 ### Pending Tasks
 - Implement the proposed enhancements to the data structure.
 - Develop and test the script for text chunk classification.
-- Further explore and integrate [[NLP]] techniques for building a knowledge web.
+- Further explore and integrate NLP techniques for building a knowledge web.

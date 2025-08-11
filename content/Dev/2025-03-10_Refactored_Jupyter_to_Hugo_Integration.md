@@ -17,7 +17,7 @@ publish: true
 The session aimed to improve the integration of [[Jupyter]] Notebooks with Hugo, focusing on image handling, path corrections, and overall site functionality.
 
 ### Key Activities
-- Developed a guide for handling images in [[Jupyter]] Notebooks and ensuring compatibility with Markdown for Hugo.
+- Developed a guide for handling images in [[Jupyter]] Notebooks and ensuring compatibility with [[Markdown]] for Hugo.
 - Reconstructed the Hugo setup, fixing path mismatches and configuration issues.
 - Addressed Hugo build warnings by creating valid homepage and section layouts.
 - Created a structured `_index.md` file for better organization of notebooks.

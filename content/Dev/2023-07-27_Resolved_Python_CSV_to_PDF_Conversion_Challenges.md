@@ -19,7 +19,7 @@ The session aimed to address several challenges related to data processing and c
 ### Key Activities
 - **Error Resolution**: Fixed a `ValueError` in DataFrame iteration by switching from `itertuples()` to `iterrows()`.
 - **[[CSV]] to LaTeX and PDF Conversion**: Explored methods for converting [[CSV]] files to LaTeX tables and subsequently to PDF using [[Pandas]] and Tabulate libraries.
-- **Script Development**: Developed a [[Python]] script to automate the conversion of multiple [[CSV]] files into a single PDF document, utilizing [[HTML]] tables and Markdown titles.
+- **Script Development**: Developed a [[Python]] script to automate the conversion of multiple [[CSV]] files into a single PDF document, utilizing [[HTML]] tables and [[Markdown]] titles.
 - **[[Integration]] Fix**: Resolved integration issues between `pdfkit` and `wkhtmltopdf`, including installation and configuration steps.
 - **System Compatibility**: Provided guidance on selecting the correct Ubuntu architecture and version for different CPU types and installed `wkhtmltox` on Ubuntu 22.
 - **Encoding Handling**: Addressed [[HTML]] and PDF encoding issues to ensure proper handling of special characters.

@@ -20,12 +20,12 @@ The goal of this session was to implement a new naming pattern for files in the 
 - Adapted the naming pattern for files in the 'matches' directory, specifying the structure and variants of file names.
 - Detailed structured paths for data families related to violence and DHS, including directory locations and file formats.
 - Provided a structured [[CSV]] output for data files related to violence in Africa, detailing paths, formats, and variable descriptions.
-- Developed a Markdown template for documenting datasets related to violence in Africa, including directory paths, formats, and variants.
+- Developed a [[Markdown]] template for documenting datasets related to violence in Africa, including directory paths, formats, and variants.
 
 ### Achievements
 - Successfully adapted and documented the naming pattern for the 'matches' directory.
 - Structured and documented data paths and outputs for violence and DHS data.
-- Created comprehensive Markdown documentation templates for datasets.
+- Created comprehensive [[Markdown]] documentation templates for datasets.
 
 ### Pending Tasks
 - Review and validate the implemented naming patterns and documentation templates to ensure consistency and accuracy.

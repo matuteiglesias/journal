@@ -20,7 +20,7 @@ The session aimed to develop a comprehensive workflow for processing and visuali
 - **Manual Plotting with [[Matplotlib]]:** Implemented manual plotting techniques to address x-axis date formatting issues, enhancing control over data visualization.
 - **[[Workflow]] Planning:** Outlined a workflow for analyzing stock data, including the creation of functions for data processing and plotting.
 - **Function Implementation:** Developed functions for processing stock data, including date parsing and setting them as an index, and for plotting multiple data columns over time.
-- **Business Case Atlas Creation:** Processed stock data to create an 'atlas' of past business cases, involving sampling, sorting, and visualization in Markdown format.
+- **Business Case Atlas Creation:** Processed stock data to create an 'atlas' of past business cases, involving sampling, sorting, and visualization in [[Markdown]] format.
 - **Data Conversion:** Converted Excel-style date integers to [[Pandas]] Timestamps using `pandas.to_datetime()` within a data processing loop.
 
 ### Achievements:

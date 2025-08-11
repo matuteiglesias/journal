@@ -20,7 +20,7 @@ The session aimed to develop a comprehensive README file structure for the EPH s
 - Outlined the structure for the README file, covering sections like introduction, data description, script overview, requirements, usage, license, and contact information.
 - Provided an overview of the INDEC EPH microdata repository, detailing data formats, survey scope, and citation requirements.
 - Documented the purpose and functionality of the 'actualizador.py' script and 'extract_dbf_files.ipynb' notebook, which automate data downloading, decompressing, and organization from the EPH of INDEC.
-- Explained Markdown syntax for adding comments, creating hyperlinks, and formatting elements like horizontal lines.
+- Explained [[Markdown]] syntax for adding comments, creating hyperlinks, and formatting elements like horizontal lines.
 
 ### Achievements:
 - Established a clear and structured outline for the README.md file of the EPH INDEC Argentina repository.

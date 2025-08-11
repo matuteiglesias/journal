@@ -20,11 +20,11 @@ The session aimed to resolve various R package installation issues and set up R 
 - Provided step-by-step guides to troubleshoot and resolve installation issues for several R packages such as `cem`, `geojsonR`, `geojsonio`, `PanelMatch`, and `glmnet`, addressing dependency problems and lock directory issues.
 - Offered solutions for common R package installation errors, including checking R version and library paths.
 - Outlined the setup process for running R scripts in Visual Studio Code, including installing necessary extensions and configuring the environment.
-- Explained how to effectively use R Markdown in VS Code, detailing installation, syntax highlighting, and document rendering.
+- Explained how to effectively use R [[Markdown]] in VS Code, detailing installation, syntax highlighting, and document rendering.
 
 ### Achievements:
 - Successfully documented methods to resolve installation issues for multiple R packages, ensuring smooth setup and execution.
-- Established a clear process for setting up and using R and R Markdown in Visual Studio Code.
+- Established a clear process for setting up and using R and R [[Markdown]] in Visual Studio Code.
 
 ### Pending Tasks:
-- Further exploration of advanced configuration settings for R Markdown in VS Code to enhance productivity and troubleshooting.
+- Further exploration of advanced configuration settings for R [[Markdown]] in VS Code to enhance productivity and troubleshooting.

@@ -24,7 +24,7 @@ The session aimed to explore and develop frameworks and business models for [[AI
 - Created a memo detailing steps for building a scalable political intelligence platform.
 - Developed organizational plans for [[AI]]-powered workflows across various domains.
 - Created directory structures and README files for organizing political narratives.
-- Configured Markdown previews in Linux file managers.
+- Configured [[Markdown]] previews in Linux file managers.
 - Expanded raw data collection strategies for [[AI]] workflows.
 
 ### Achievements

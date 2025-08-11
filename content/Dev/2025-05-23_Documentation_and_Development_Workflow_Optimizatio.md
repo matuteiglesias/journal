@@ -17,9 +17,9 @@ publish: true
 The primary goal of this session was to address and optimize various aspects of documentation and development workflows, particularly focusing on YAML parsing, Docusaurus site management, and [[Python]] environment troubleshooting.
 
 ### Key Activities
-- **YAML Parsing Errors:** Identified and proposed solutions for parsing errors in Markdown front matter to prevent future issues.
+- **YAML Parsing Errors:** Identified and proposed solutions for parsing errors in [[Markdown]] front matter to prevent future issues.
 - **Docusaurus Management:** Resolved broken internal links and provided a comprehensive guide for rebuilding a Docusaurus site, including content normalization strategies.
-- **Markdown Post-Processing:** Developed a post-injection normalization strategy for [[AI]]-generated Markdown files to ensure metadata accuracy.
+- **[[Markdown]] Post-Processing:** Developed a post-injection normalization strategy for [[AI]]-generated [[Markdown]] files to ensure metadata accuracy.
 - **NumPy [[Troubleshooting]]:** Diagnosed and fixed common NumPy-related errors in [[Python]] environments, focusing on attribute errors and package corruption.
 - **Content Quality Review:** Conducted a critical review of markdown content, emphasizing clarity and originality, with suggestions for improvement.
 

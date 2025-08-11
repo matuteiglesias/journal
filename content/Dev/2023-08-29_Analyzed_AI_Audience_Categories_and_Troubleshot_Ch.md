@@ -19,7 +19,7 @@ The session aimed to analyze audience categories in [[AI]] tools based on user e
 **Key Activities:**
 - Analyzed responses from a survey to categorize audiences by their experience and interests in [[AI]] tools, providing specific suggestions for each identified group.
 - Explored general and practical interests in [[AI]], including [[API]] applications, automation, and everyday integration.
-- Expanded on [[AI]] interests categories, detailing areas like artificial consciousness, data management, and [[NLP]], with proposed activities for each.
+- Expanded on [[AI]] interests categories, detailing areas like artificial consciousness, data management, and NLP, with proposed activities for each.
 - Addressed compatibility issues between model checkpoints in TensorFlow and PyTorch, focusing on inspection, preprocessing, and error handling.
 - Compared local and remote directories for file synchronization, identifying unique and common files.
 - Provided a detailed overview of the `sd_hijack` module for diffusion models, highlighting functionalities and optimizations.

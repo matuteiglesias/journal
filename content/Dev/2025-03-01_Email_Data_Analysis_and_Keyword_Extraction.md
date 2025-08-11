@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to analyze email data and enhance keyword extraction techniques using [[Python]] and [[NLP]] methods.
+The session aimed to analyze email data and enhance keyword extraction techniques using [[Python]] and NLP methods.
 
 ### Key Activities
 - **DataFrame Filtering:** Implemented a [[Python]] function to filter email data based on sender and receiver addresses.
@@ -29,4 +29,4 @@ The session aimed to analyze email data and enhance keyword extraction technique
 - Enhanced keyword extraction processes using LDA and RAKE, improving accuracy and relevance.
 
 ### Pending Tasks
-- Further refine keyword extraction methods by integrating additional [[NLP]] techniques and tools.
+- Further refine keyword extraction methods by integrating additional NLP techniques and tools.

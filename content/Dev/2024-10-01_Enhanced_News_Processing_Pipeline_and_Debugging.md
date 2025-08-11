@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance the news processing pipeline by expanding content extraction, implementing unstructured data storage using MongoDB, integrating [[NLP]] for keyword extraction and classification, and automating the triage of news articles. Additionally, it focused on debugging and improving the `NewsDataCollector` bot.
+The session aimed to enhance the news processing pipeline by expanding content extraction, implementing unstructured data storage using MongoDB, integrating NLP for keyword extraction and classification, and automating the triage of news articles. Additionally, it focused on debugging and improving the `NewsDataCollector` bot.
 
 ### Key Activities
 - Developed a comprehensive plan for enhancing the news scraping setup.
@@ -29,5 +29,5 @@ The session aimed to enhance the news processing pipeline by expanding content e
 - Implemented and tested the `NewsDataCollector` bot with improved error handling and logging.
 
 ### Pending Tasks
-- Further integration of [[NLP]] features for keyword extraction and classification.
+- Further integration of NLP features for keyword extraction and classification.
 - Full automation of the news triage process.

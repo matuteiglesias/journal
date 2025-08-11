@@ -27,7 +27,7 @@ The session aimed to design and analyze [[AI]]-driven workflow structures for co
 - Presented a structured [[CSV]] format for [[AI]] workflows, ensuring modular and scalable implementations.
 - Outlined design considerations for workflows in learning and publishing, detailing objectives and execution paths.
 - Updated a [[CSV]] file categorizing flows with input types and sources.
-- Detailed a structured flow for book drafting, relevant to [[NLP]] and content creation.
+- Detailed a structured flow for book drafting, relevant to NLP and content creation.
 - Outlined necessary clean input data for [[AI]] workflows to optimize efficiency.
 
 ### Achievements

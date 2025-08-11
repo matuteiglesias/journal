@@ -20,7 +20,7 @@ The session focused on utilizing spreadsheet functions and analyzing educational
 - **Google Sheets VLOOKUP**: A step-by-step guide was created to use the VLOOKUP function in Google Sheets for retrieving course names based on IDs.
 - **Formula Correction**: Addressed potential localization issues in VLOOKUP formulas and provided troubleshooting steps.
 - **Excel IFERROR**: Demonstrated the use of IFERROR with VLOOKUP to handle errors gracefully in Excel.
-- **[[Python]] [[Data Processing]]**: Developed a [[Python]] script to group data by 'CODIGO' and output the results in Markdown format.
+- **[[Python]] [[Data Processing]]**: Developed a [[Python]] script to group data by 'CODIGO' and output the results in [[Markdown]] format.
 - **Student Specialization Analysis**: Analyzed student specialization patterns in course selection, identifying common themes and tracks.
 - **Course Categorization**: Categorized courses within the [[Data Science]] and Computing curriculum to clarify specialization paths.
 

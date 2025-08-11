@@ -19,8 +19,8 @@ The session aimed to enhance command management in Bash and improve document con
 ### Key Activities
 - **Bash Command Filtering**: Implemented techniques to filter Bash history by date using `HISTTIMEFORMAT`, `history`, and `awk`.
 - **Expanding Bash History**: Configured Bash to expand command history capacity with `HISTSIZE` and `HISTFILESIZE`.
-- **Document Conversion**: Developed commands for converting Markdown to [[HTML]] and PDF, focusing on style and margin parameters.
-- **Pandoc [[Troubleshooting]]**: Addressed common issues in Pandoc's Markdown to [[HTML]] conversion, including syntax errors and CSS interference.
+- **Document Conversion**: Developed commands for converting [[Markdown]] to [[HTML]] and PDF, focusing on style and margin parameters.
+- **Pandoc [[Troubleshooting]]**: Addressed common issues in Pandoc's [[Markdown]] to [[HTML]] conversion, including syntax errors and CSS interference.
 - **[[Optimization]] Recommendations**: Provided detailed recommendations for optimizing Pandoc commands for better [[HTML]] handling.
 
 ### Achievements
@@ -29,5 +29,5 @@ The session aimed to enhance command management in Bash and improve document con
 - Identified and resolved key issues in Pandoc's [[HTML]] conversion process.
 
 ### Pending Tasks
-- Further testing of Pandoc optimizations in diverse Markdown files to ensure robustness.
+- Further testing of Pandoc optimizations in diverse [[Markdown]] files to ensure robustness.
 - Explore additional Bash history management techniques for improved efficiency.

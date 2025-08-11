@@ -25,7 +25,7 @@ The session aimed to analyze the dynamics and challenges faced within [[Data Sci
 - Outlined leadership dynamics and strategic planning impacts on the [[Data Science]] track.
 - Structured a monthly communications plan for [[Data Science]] education, focusing on faculty and student engagement.
 - Created an email publications plan to foster community engagement within the [[Data Science]] community.
-- Worked on structuring political organization insights using [[NLP]] techniques for keyword extraction and topic modeling.
+- Worked on structuring political organization insights using NLP techniques for keyword extraction and topic modeling.
 
 ### Achievements
 - Comprehensive analysis of institutional dynamics and challenges in [[Data Science]] committees.
@@ -33,4 +33,4 @@ The session aimed to analyze the dynamics and challenges faced within [[Data Sci
 
 ### Pending Tasks
 - Implementation of the proposed communication plans and strategic recommendations.
-- Further exploration of [[NLP]] techniques for document organization in political contexts.
+- Further exploration of NLP techniques for document organization in political contexts.

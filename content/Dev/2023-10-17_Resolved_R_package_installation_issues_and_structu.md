@@ -21,13 +21,13 @@ The session aimed to resolve installation issues with R packages and structure d
 - Provided instructions for installing and loading these packages, including troubleshooting steps for common issues.
 - Developed a structured table of contents for data analysis documents, focusing on data preparation, transformation, and outcome processing.
 - Introduced a causal analysis of violence events using the PanelMatch package, outlining goals and expected outcomes.
-- Explained best practices for structuring R scripts and R Markdown documents, including the use of code chunks and markdown text.
+- Explained best practices for structuring R scripts and R [[Markdown]] documents, including the use of code chunks and markdown text.
 - Shared shortcuts for commenting and uncommenting in RStudio.
 
 ### Achievements
 - Successfully resolved package installation errors for `tidyverse` and `Hmisc` on Linux systems.
 - Created a cohesive and structured table of contents for data analysis documentation.
-- Clarified the structure and best practices for R scripts and R Markdown documents.
+- Clarified the structure and best practices for R scripts and R [[Markdown]] documents.
 
 ### Pending Tasks
 - Further exploration of the PanelMatch methodology and its application in causal analysis.

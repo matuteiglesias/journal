@@ -17,8 +17,8 @@ publish: true
 The session aimed to enhance document processing techniques and improve the efficiency of chunk loading from disk.
 
 ### Key Activities
-- Analyzed data structure and content quality for [[NLP]] processing, ensuring consistency and readiness for further tasks.
-- Discussed the importance of dataset consistency for [[NLP]], focusing on metadata separation and attribute extraction.
+- Analyzed data structure and content quality for NLP processing, ensuring consistency and readiness for further tasks.
+- Discussed the importance of dataset consistency for NLP, focusing on metadata separation and attribute extraction.
 - Detailed a technical report on enhancements in document processing, including chunking, indexing, summarization, and metadata improvement.
 - Developed and refined a [[Python]] function for efficient chunk loading from disk, incorporating error handling and flexible input.
 - Addressed issues with query integration in data processing, providing solutions for the `query_custom` method.

@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to address and fix multiple issues related to Markdown conversion and Hugo site configuration, ensuring proper metadata extraction, YAML front matter formatting, and page sorting.
+The goal of this session was to address and fix multiple issues related to [[Markdown]] conversion and Hugo site configuration, ensuring proper metadata extraction, YAML front matter formatting, and page sorting.
 
 ### Key Activities
 - **Title Extraction Fix**: Updated the script to extract titles from [[Jupyter]] notebook metadata instead of filenames.

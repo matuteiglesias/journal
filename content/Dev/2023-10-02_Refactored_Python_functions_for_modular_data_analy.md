@@ -17,7 +17,7 @@ publish: true
 The session aimed to enhance the modularity and maintainability of a data analysis project by refactoring [[Python]] functions, organizing notebooks, and addressing common [[Python]] errors.
 
 ### Key Activities
-- **Markdown Commenting Shortcuts:** Explored keyboard shortcuts for commenting in various editors, noting limitations in online Markdown previewers.
+- **[[Markdown]] Commenting Shortcuts:** Explored keyboard shortcuts for commenting in various editors, noting limitations in online [[Markdown]] previewers.
 - **Notebook Organization:** Provided insights and suggestions for organizing and optimizing notebooks, focusing on modularity and documentation.
 - **Modular Structure Planning:** Outlined a modular structure for a data analysis project, detailing code organization into logical units for better maintenance and reuse.
 - **[[Error Handling]] in [[Python]]:** Addressed `ImportError` and `NameError` issues, providing solutions for troubleshooting and modifying functions to accept external arguments.

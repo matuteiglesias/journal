@@ -17,7 +17,7 @@ publish: true
 The goal of this session was to organize and enhance a collection of interactive notebooks for practicing various concepts in programming, data analysis, databases, and data science.
 
 ### Key Activities
-- Created a structured Markdown index listing interactive notebooks focused on programming, data analysis, and database concepts.
+- Created a structured [[Markdown]] index listing interactive notebooks focused on programming, data analysis, and database concepts.
 - Developed a continuation of the index, organizing exercises into categories centered on programming and data analysis.
 - Organized interactive notebooks for practicing database concepts, SQL, and relational modeling, divided into clear sections.
 - Compiled a list of interactive notebooks organized by categories, including data visualization, probability, and statistics.

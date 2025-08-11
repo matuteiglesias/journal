@@ -18,7 +18,7 @@ The session aimed to develop and debug [[Python]] scripts for web scraping news 
 
 ### Key Activities
 - **[[Troubleshooting]] GitHub Push Authentication:** Addressed issues related to GitHub push authentication by verifying [[Git]] credential setup and error verification.
-- **Automating Keyword Search:** Explored methods for automating keyword searches in news articles using web scraping, [[NLP]], and machine learning.
+- **Automating Keyword Search:** Explored methods for automating keyword searches in news articles using web scraping, NLP, and machine learning.
 - **[[Python]] Web Scraper Development:** Implemented [[Python]] scripts using BeautifulSoup and [[Pandas]] to scrape news sources and extract relevant data.
 - **Error Fixes:** Resolved errors related to [[HTML]] parsing and logo extraction in web scraping scripts.
 - **Domain Name Extraction:** Utilized regular expressions to extract domain names from URLs.
@@ -32,5 +32,5 @@ The session aimed to develop and debug [[Python]] scripts for web scraping news 
 - Gained insights into [[HTML]] structure and metadata roles.
 
 ### Pending Tasks
-- Further automate keyword search processes using advanced [[NLP]] and machine learning techniques.
+- Further automate keyword search processes using advanced NLP and machine learning techniques.
 - Explore additional ethical considerations and legal aspects of web scraping.

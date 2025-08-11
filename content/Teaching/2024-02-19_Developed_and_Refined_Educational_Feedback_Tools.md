@@ -22,7 +22,7 @@ The session aimed to refine tools for providing constructive feedback in compute
 - Analyzed effective feedback strategies in computer science education, emphasizing the balance of reinforcement and actionable recommendations.
 - Developed a [[Python]] function to integrate examples and resources into feedback prompts.
 - Outlined steps to troubleshoot and configure OAuth settings in a [[Flask]] app, including setting up consent screens and authorized domains.
-- Created templates for privacy policy and terms of service documents in LaTeX and Markdown, ensuring legal compliance.
+- Created templates for privacy policy and terms of service documents in LaTeX and [[Markdown]], ensuring legal compliance.
 
 ### Achievements:
 - Successfully refined educational tools for feedback in computer science, enhancing the quality and effectiveness of student evaluations.

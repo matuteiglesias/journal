@@ -17,11 +17,11 @@ publish: true
 The session aimed to improve documentation practices in Docusaurus by integrating KaTeX for math rendering and addressing common errors.
 
 ### Key Activities
-- Enhanced prompt design for better readability and engagement using Markdown and LaTeX.
+- Enhanced prompt design for better readability and engagement using [[Markdown]] and LaTeX.
 - Implemented cross-referencing techniques in Docusaurus, similar to LaTeX.
 - Fixed MDX parsing errors related to LaTeX in Docusaurus.
 - Integrated KaTeX with Docusaurus for math rendering, using `remark-math` and `rehype-katex`.
-- Diagnosed and resolved KaTeX rendering issues in Markdown.
+- Diagnosed and resolved KaTeX rendering issues in [[Markdown]].
 - Conducted a battle test for math equation rendering in Docusaurus.
 - Resolved rendering issues of KaTeX in Docusaurus.
 - Troubleshot ChunkLoadError in Docusaurus and JSONL file loading error in [[Python]].

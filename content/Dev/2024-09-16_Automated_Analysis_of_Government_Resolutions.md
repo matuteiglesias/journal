@@ -19,7 +19,7 @@ The session focused on developing a project to automate the extraction and analy
 ### Key Activities
 - Developed a project simulation for automating the extraction of government resolutions, detailing team roles and responsibilities.
 - Created a structured roadmap for task assignments over a multi-day project.
-- Simulated a project focused on scraping government resolutions, utilizing [[NLP]] for data extraction, and constructing a knowledge graph.
+- Simulated a project focused on scraping government resolutions, utilizing NLP for data extraction, and constructing a knowledge graph.
 - Outlined daily tasks for the Project Manager and Lead Developer, focusing on project goals, team roles, technical setup, and initial development steps.
 - Automated PDF text extraction from URLs using [[Python]], integrating functions for downloading and processing PDF content.
 - Mapped Buenos Aires normative resolutions into a knowledge graph, detailing common entities, relationships, and challenges.

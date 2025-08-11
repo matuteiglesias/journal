@@ -21,13 +21,13 @@ The session aimed to explore automation strategies and their practical applicati
 - Provided guidance on using `pd.to_numeric` for converting DataFrame columns to numeric types in [[Pandas]], addressing common errors.
 - Outlined a structured approach for calculating payment adjustments using [[Python]], focusing on shared financial responsibilities.
 - Detailed the distribution and adjustment of water service payments for shared properties, including theoretical and actual contributions.
-- Presented financial data summaries in Markdown format, ensuring data precision and clarity.
+- Presented financial data summaries in [[Markdown]] format, ensuring data precision and clarity.
 
 ### Achievements
 - Enhanced understanding of automation strategies in [[AI]].
 - Improved data manipulation skills in [[Pandas]], specifically in converting data types.
 - Developed a clear method for handling financial adjustments in shared services.
-- Created a well-structured financial report in Markdown format.
+- Created a well-structured financial report in [[Markdown]] format.
 
 ### Pending Tasks
 - Implement the refined proposal for improving the presentation of the water service payment report.

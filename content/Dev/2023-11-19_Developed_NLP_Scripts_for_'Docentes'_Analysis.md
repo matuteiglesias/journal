@@ -25,9 +25,9 @@ publish: true
 - Structured a comprehensive script framework for analyzing 'docentes', integrating POS tagging, NER, and dependency parsing.
 
 **Achievements:**
-- Successfully implemented and refined multiple [[NLP]] techniques for detailed analysis of 'docentes'.
+- Successfully implemented and refined multiple NLP techniques for detailed analysis of 'docentes'.
 - Created a robust framework for future text analysis tasks involving similar linguistic elements.
 
 **Pending Tasks:**
 - Further testing and validation of scripts in diverse text corpora to ensure robustness and accuracy.
-- [[Integration]] of additional [[NLP]] techniques as needed based on initial analysis results.
+- [[Integration]] of additional NLP techniques as needed based on initial analysis results.

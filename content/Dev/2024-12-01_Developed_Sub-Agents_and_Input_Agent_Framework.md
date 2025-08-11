@@ -17,7 +17,7 @@ publish: true
 The session aimed to design and plan the architecture for automating email and RSS feed processing, developing an Input Agent for data ingestion, and evaluating NoSQL and messaging options for data integration.
 
 ### Key Activities
-- **Sub-Agents Layer for Email and RSS Processing:** Outlined steps to automate classification using [[NLP]] and integrate with tools like Zapier, Google Calendar, and Notion.
+- **Sub-Agents Layer for Email and RSS Processing:** Outlined steps to automate classification using NLP and integrate with tools like Zapier, Google Calendar, and Notion.
 - **Tech Stack for Input Agent:** Developed a framework for ingesting, preprocessing, and harmonizing data from various sources.
 - **NoSQL and Message Queue Options:** Evaluated databases and messaging systems like MongoDB, DynamoDB, RabbitMQ, and SQS for effective data handling.
 - **[[Python]] Script Architecture:** Designed modular [[Python]] scripts for data ingestion, processing, integration, and messaging.

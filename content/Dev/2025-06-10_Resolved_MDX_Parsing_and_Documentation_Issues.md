@@ -18,7 +18,7 @@ The primary goal of this session was to address and resolve various MDX parsing 
 
 ### Key Activities
 - Identified and provided solutions for common MDX parsing issues, including Acorn errors related to LaTeX notation and [[HTML]] `<br>` tag usage within table cells.
-- Corrected Markdown tables for MDX compatibility to ensure proper parsing and eliminate errors.
+- Corrected [[Markdown]] tables for MDX compatibility to ensure proper parsing and eliminate errors.
 - Troubleshot missing images and parsing errors in MDX files, providing actionable steps to resolve these issues.
 - Drafted and revised descriptions for Docusaurus documentation, focusing on [[SEO]] optimization and economic volatility dynamics.
 - Developed strategies for enhancing the impact of a thesis deployed on a Docusaurus site, covering aspects like branding, [[SEO]], and collaboration.

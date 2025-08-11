@@ -18,7 +18,7 @@ The goal of this session was to refine and enhance the job data processing scrip
 
 ### Key Activities
 - **Corrected [[Python]] Script for JSONL Export**: Fixed naming issues in the `05_export_jsonl_with_scraping.py` script to ensure proper functionality for exporting scraped data to JSONL format.
-- **Analysis of Spider-Scraped Markdown Outcomes**: Evaluated the effectiveness of markdown scraping from job boards, identifying successes and areas for improvement.
+- **Analysis of Spider-Scraped [[Markdown]] Outcomes**: Evaluated the effectiveness of markdown scraping from job boards, identifying successes and areas for improvement.
 - **Refined Jinja Prompt for Job Posting Analysis**: Improved a Jinja prompt for filtering low-quality data in job postings, focusing on evidence-based classification.
 - **Refined Job Page Evaluation Prompt**: Developed a prompt for evaluating job-related webpages, emphasizing user value and structured analysis.
 - **Job Posting Filtering and Screening Prompts**: Created structured prompts for filtering and screening job postings, including criteria for quality evaluation.

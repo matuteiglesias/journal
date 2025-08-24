@@ -24,7 +24,7 @@ The primary goal of this session was to resolve debugging issues and optimize em
 - **[[Debugging]] [[Jupyter]] Notebook Import Issues:** Addressed common issues and solutions for importing [[Python]] modules in [[Jupyter]] Notebooks.
 - **Implementation of `get_chunks_for_collection` in TextManager:** Implemented a function to retrieve chunk IDs based on specified dataset paths.
 - **Fixing Metadata Loading in [[Python]] Class:** Ensured `self.chunks_metadata` is loaded correctly as a dictionary from a [[JSON]] file.
-- **Fix Function Output and Iteration for Embedding Pipeline:** Fixed functions to ensure correct data handling in the embedding pipeline.
+- **Fix Function Output and Iteration for Embedding [[Pipeline]]:** Fixed functions to ensure correct data handling in the embedding pipeline.
 
 ### Achievements
 - Successfully resolved debugging issues in both directory scanning and [[Jupyter]] Notebook imports.

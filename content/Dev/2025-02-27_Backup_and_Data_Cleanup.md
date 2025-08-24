@@ -19,7 +19,7 @@ The goal of this session was to manage and optimize backup data by merging old b
 ### Key Activities
 - Merged and cleaned up old backups using structured workflows to ensure no data loss while removing duplicates.
 - Explored faster methods to analyze large directories without using the `du` command, focusing on tools like `find` and `rsync` for efficiency.
-- Developed a detailed plan for cleaning up the `Matias_Iglesias_Backup/` directory, including identifying redundant files and archiving large datasets to [[Google Cloud]] Storage (GCS).
+- Developed a detailed plan for cleaning up the `Matias_Iglesias_Backup/` directory, including identifying redundant files and archiving large datasets to Google Cloud Storage (GCS).
 - Diagnosed and revamped the old project `compute-corr-structures/` by identifying storage issues and reorganizing it into a lean educational repository.
 - Saved processed file names from the `/data/processed/` directory into a `README.txt` file before deletion, ensuring future reference with optional timestamps.
 

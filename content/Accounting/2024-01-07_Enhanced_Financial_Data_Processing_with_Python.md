@@ -21,7 +21,7 @@ The session aimed to enhance financial data processing capabilities using [[Pyth
 - **ARS Value Conversion**: Implemented a method to convert historical ARS values using IPC data.
 - **Currency Conversion in DataFrame**: Updated ARS currency values in a DataFrame for a specified target date.
 - **Weekly Balance Calculation**: Developed a [[Python]] script to calculate weekly balances for accounts.
-- **Google Sheets [[Integration]]**: Loaded data using `gspread`, created a [[Google Cloud]] service account, and resolved common access errors.
+- **Google Sheets [[Integration]]**: Loaded data using `gspread`, created a Google Cloud service account, and resolved common access errors.
 - **Data Cleaning with [[Pandas]]**: Addressed empty cell issues in Google Sheets data when converting to floats.
 - **Three-Way Accounting Balance**: Implemented a method for calculating balances between three parties.
 - **Debt Cancellation Plan**: Structured a plan for debt cancellation among family members.

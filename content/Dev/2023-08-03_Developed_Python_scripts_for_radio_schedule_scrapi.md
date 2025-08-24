@@ -18,7 +18,7 @@ The goal of this session was to develop [[Python]] scripts to automate the proce
 
 ### Key Activities
 - Implemented a [[Python]] script using BeautifulSoup and requests to scrape schedule data from specified URLs.
-- Developed a code snippet to extract names of people associated with programs from [[HTML]] descriptions.
+- Developed a code snippet to extract names of people associated with programs from HTML descriptions.
 - Created a script to extract radio station names from URLs.
 - Generated URLs from a list of radio names using list comprehension.
 - Saved radio schedules into a [[CSV]] file using the built-in `csv` module, capturing details such as station name, start time, program name, and description.

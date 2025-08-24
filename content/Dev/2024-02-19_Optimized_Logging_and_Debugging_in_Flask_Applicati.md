@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary aim of this session was to enhance logging practices and debug issues in [[Flask]] applications deployed on [[Google Cloud]] Platform, with a focus on improving performance and reliability.
+The primary aim of this session was to enhance logging practices and debug issues in [[Flask]] applications deployed on Google Cloud Platform, with a focus on improving performance and reliability.
 
 ### Key Activities
 - **Differentiated Backtracking and Recursive Call Trees**: Explored the distinct purposes and applications of these data structures in algorithm optimization.
@@ -28,7 +28,7 @@ The primary aim of this session was to enhance logging practices and debug issue
 ### Achievements
 - Successfully outlined best practices for logging configuration in [[Flask]] applications.
 - Identified and provided solutions for common errors in [[Flask]] applications.
-- Enhanced understanding of logging integration with [[Google Cloud]] Platform.
+- Enhanced understanding of logging integration with Google Cloud Platform.
 
 ### Pending Tasks
 - Further explore the impact of logging configurations on application performance.

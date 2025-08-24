@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session focused on preparing a structured plan for the [[Google Cloud]] Certified Professional Data Engineer exam, aimed at individuals with a scientific background but new to [[Google Cloud]].
+The session focused on preparing a structured plan for the Google Cloud Certified Professional Data Engineer exam, aimed at individuals with a scientific background but new to Google Cloud.
 
 ### Key Activities
 - Developed a comprehensive preparation guide, including an overview of the exam, preparation calendar, study steps, and tips for success.
@@ -25,7 +25,7 @@ The session focused on preparing a structured plan for the [[Google Cloud]] Cert
 - Discussed various question formats relevant to the exam, including multiple choice, scenario-based, true/false, and fill-in-the-blank questions.
 
 ### Achievements
-- Established a clear and structured study plan for the [[Google Cloud]] Data Engineer exam.
+- Established a clear and structured study plan for the Google Cloud Data Engineer exam.
 - Identified the benefits and strategic value of obtaining the certification.
 
 ### Pending Tasks

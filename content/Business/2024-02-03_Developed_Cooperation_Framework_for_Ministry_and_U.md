@@ -21,7 +21,7 @@ The session aimed to develop a comprehensive framework for cooperation agreement
 - **Cost Estimation**: Provided a detailed breakdown of monthly costs for a training scheme, totaling USD 20,100.
 - **Interoperability Strategies**: Proposed strategies for aligning the activities of the General Directorate of Informatics with interoperability goals.
 - **Legislative Context**: Reflected on the implications of Ley 12475 regarding access to administrative documents and its relation to interoperability and security.
-- **GCP Standards Implementation**: Detailed the implementation of technological standards on [[Google Cloud]] Platform to ensure interoperability and security.
+- **GCP Standards Implementation**: Detailed the implementation of technological standards on Google Cloud Platform to ensure interoperability and security.
 
 ### Achievements
 - Developed a structured approach for cooperation agreements focusing on technology and training.

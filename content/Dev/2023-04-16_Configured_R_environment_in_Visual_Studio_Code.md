@@ -18,7 +18,7 @@ The goal of this session was to set up and configure the R programming environme
 
 ### Key Activities
 - Developed an R script for data wrangling using the tidyverse package, focusing on reading [[CSV]] files, extracting variable roots with regex, selecting relevant columns, and saving filtered datasets.
-- Provided a guide on creating and running R notebooks in VS Code, including the installation of the R extension and exporting notebooks as [[HTML]].
+- Provided a guide on creating and running R notebooks in VS Code, including the installation of the R extension and exporting notebooks as HTML.
 - Configured the R executable path in VS Code's `settings.json` to resolve configuration errors.
 - Installed R and R [[Markdown]] extensions in Visual Studio Code to enhance R programming capabilities and troubleshoot display issues with Rmd files.
 - Explained how to find the R installation path using terminal commands.

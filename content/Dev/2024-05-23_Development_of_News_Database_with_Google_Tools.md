@@ -19,11 +19,11 @@ The goal of this session was to explore and plan the development of a news datab
 ### Key Activities
 - Reviewed options for replacing or removing the catalytic converter in a Peugeot 207, considering legal and cost implications.
 - Planned an approach to address human rights topics from a scientific perspective, emphasizing evidence-based analysis and international solidarity.
-- Developed a detailed project plan for creating a news database, including data collection, storage, and analysis using [[Google Cloud]] tools.
+- Developed a detailed project plan for creating a news database, including data collection, storage, and analysis using Google Cloud tools.
 - Provided a modular project structure for news collection and analysis, with directories for data, scripts, notebooks, configuration, and testing.
 - Detailed the structure and code for an exploratory data analysis notebook using Google News and BigQuery.
 - Resolved import issues in Google BigQuery by installing necessary libraries and adjusting notebook code.
-- Configured a project in [[Google Cloud]] Platform, enabling necessary APIs, creating service credentials, and setting up the BigQuery client.
+- Configured a project in Google Cloud Platform, enabling necessary APIs, creating service credentials, and setting up the BigQuery client.
 
 ### Achievements
 - A comprehensive framework and plan for the news database project were established.

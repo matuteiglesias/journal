@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to review and outline key chapters from the book 'Mastering Data Engineering and [[Machine Learning]] on [[Google Cloud]] Platform'.
+The session aimed to review and outline key chapters from the book 'Mastering Data Engineering and [[Machine Learning]] on Google Cloud Platform'.
 
 ### Key Activities
 - Reviewed chapters on Data Storage Solutions, [[Data Analysis]] and Preparation, [[Machine Learning]] Basics, Advanced Data Engineering, Reliability and Fidelity in Data Systems, and Data Migration Strategies.

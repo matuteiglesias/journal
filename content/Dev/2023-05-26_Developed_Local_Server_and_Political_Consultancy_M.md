@@ -17,12 +17,12 @@ publish: true
 The session aimed to set up a local server for web development and draft materials for political consultancy services.
 
 ### Key Activities
-- **Local Server Setup**: A guide was followed to run a local server using [[Python]] for viewing [[HTML]] files, providing commands for both [[Python]] 2.x and 3.x.
+- **Local Server Setup**: A guide was followed to run a local server using [[Python]] for viewing HTML files, providing commands for both [[Python]] 2.x and 3.x.
 - **Understanding Placeholder Text**: Explored the use of Lorem Ipsum in web development as temporary filler text.
 - **Political Consultancy Drafts**: Created and refined descriptions and promotional texts for political consultancy services, including a Spanish version tailored for the Argentine market.
 
 ### Achievements
-- Successfully set up a local server for [[HTML]] file viewing.
+- Successfully set up a local server for HTML file viewing.
 - Developed comprehensive drafts for political consultancy services, highlighting unique value propositions and strategic offerings in both English and Spanish.
 
 ### Pending Tasks

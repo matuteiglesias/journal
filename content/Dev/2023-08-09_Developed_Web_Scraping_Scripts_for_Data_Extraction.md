@@ -14,11 +14,11 @@ publish: true
 
 
 **Session Goal:**
-The session aimed to develop and refine [[Python]] scripts for web scraping tasks, focusing on extracting detailed information from [[HTML]] content.
+The session aimed to develop and refine [[Python]] scripts for web scraping tasks, focusing on extracting detailed information from HTML content.
 
 **Key Activities:**
 - Developed [[Python]] scripts using the `requests` and `BeautifulSoup` libraries to download web pages and extract relevant data.
-- Analyzed [[HTML]] structures to identify tags and classes for targeted data extraction.
+- Analyzed HTML structures to identify tags and classes for targeted data extraction.
 - Implemented error handling mechanisms to manage potential issues during data extraction.
 - Updated code to avoid deprecation warnings, ensuring compatibility with the latest library versions.
 - Created functions to scrape specific data, such as faculty and thesis details, and store them in pandas DataFrames.
@@ -28,4 +28,4 @@ The session aimed to develop and refine [[Python]] scripts for web scraping task
 - Developed a robust scraping function for thesis details, incorporating error handling for reliable data extraction.
 
 **Pending Tasks:**
-- Further testing and validation of the scraping scripts to ensure accuracy and robustness across different [[HTML]] structures.
+- Further testing and validation of the scraping scripts to ensure accuracy and robustness across different HTML structures.

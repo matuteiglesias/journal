@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to develop structured approaches for book content creation and data engineering on [[Google Cloud]] Platform (GCP).
+The session aimed to develop structured approaches for book content creation and data engineering on Google Cloud Platform (GCP).
 
 ### Key Activities
 1. **Legal Guidance**: Developed guides on the legal process of succession ab-intestato in Argentina and how to check the registration of a Declaratoria de Herederos.

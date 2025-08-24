@@ -14,7 +14,7 @@ publish: true
 
 
 **Session Goal:**
-The primary goal of this session was to develop a comprehensive study plan focused on encryption methods and key management within [[Google Cloud]] Platform (GCP), as well as to reflect on various encryption techniques and their applications.
+The primary goal of this session was to develop a comprehensive study plan focused on encryption methods and key management within Google Cloud Platform (GCP), as well as to reflect on various encryption techniques and their applications.
 
 **Key Activities:**
 - Created a structured study plan for learning about encryption methods in GCP, including objectives, time allocations, and recommended resources.

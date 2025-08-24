@@ -25,16 +25,16 @@ The primary goal of this session was to develop, test, and deploy a [[Flask]] ap
 - **Resolving [[Flask]] TemplateNotFound Error:** Steps were taken to resolve the `TemplateNotFound: login.html` error by ensuring correct directory structure and file naming.
 - **Integrating Google OAuth in [[Flask]] Applications:** A step-by-step guide was followed to integrate Google OAuth for user authentication, including setup and implementation.
 - **Setting Up Google OAuth for [[Flask]] Applications:** Steps were outlined to create a Web application client ID for Google OAuth integration.
-- **Hosting [[Flask]] Applications on [[Google Cloud]] Platform:** Options for hosting on [[Google Cloud]] Platform were explored, including App Engine and Compute Engine.
+- **Hosting [[Flask]] Applications on Google Cloud Platform:** Options for hosting on Google Cloud Platform were explored, including App Engine and Compute Engine.
 - **Hosting [[Flask]] Applications on Google App Engine:** The advantages and steps for hosting on Google App Engine were reviewed.
 
 ### Achievements
 - Successfully tested and ran a [[Flask]] application locally with integrated Google OAuth.
 - Resolved common errors related to [[Flask]]-Session and template handling.
 - Configured the application for data management using [[CSV]] and [[JSON]].
-- Explored hosting options on [[Google Cloud]] Platform.
+- Explored hosting options on Google Cloud Platform.
 
 ### Pending Tasks
-- Finalize deployment on [[Google Cloud]] Platform.
+- Finalize deployment on Google Cloud Platform.
 - Conduct further testing for edge cases in OAuth integration.
 - Optimize application performance for cloud hosting.

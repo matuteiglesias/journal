@@ -26,7 +26,7 @@ The primary objective of this session was to integrate [[AI]] workflows with Goo
 - Addressed Google Drive [[API]] permissions issues, ensuring correct OAuth scopes and service account permissions.
 - Solved OAuth error with service account in Google Sheets [[API]] by using service account authentication instead of OAuth flow.
 - Created a simple text list of all files in Google Drive using Google Drive for Desktop and Command Prompt.
-- Enabled full access to Google Drive files via [[Google Cloud]] Platform, including [[API]] activation and IAM permissions setup.
+- Enabled full access to Google Drive files via Google Cloud Platform, including [[API]] activation and IAM permissions setup.
 - Automated file sharing in Google Drive using Google Apps Script, eliminating the need for manual sharing.
 - Organized and automated workflows in Google Drive, including generating a directory tree and automating file sorting.
 - Provided corrected code snippets for extracting previews from Google Sheets and Docs.

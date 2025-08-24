@@ -25,7 +25,7 @@ The goal of this session was to successfully migrate website contents to a new d
 - Created a new empty directory for the website and configured it accordingly.
 - Diagnosed website loading issues by checking DNS, firewall, server configuration, and permissions.
 - Verified directory contents with `ls -la` to ensure necessary files were present for accessibility.
-- Created a placeholder [[HTML]] file for testing website functionality.
+- Created a placeholder HTML file for testing website functionality.
 - Discussed the use of `xdg-open` and alternatives for file management on Linux.
 - Installed `xdg-utils` and `nautilus` for enhanced file navigation.
 - Moved files using `mv` command into the newly created directory.

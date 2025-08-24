@@ -25,7 +25,7 @@ The session aimed to explore domain registration alternatives, understand AWS bi
 - Managed domain names with Hong Kong Juming Network Technology and explored steps to recover a domain from squatting.
 - Discussed domain registration complaints and procedures.
 - Planned the use of AWS with a new domain, including setting up DNS records and using EC2 for hosting.
-- Set up a split screen environment for [[HTML]] development and explored [[HTML]] editing tools with live preview options.
+- Set up a split screen environment for HTML development and explored HTML editing tools with live preview options.
 
 ### Achievements
 - Identified alternative domain registrars and web hosting providers.
@@ -33,7 +33,7 @@ The session aimed to explore domain registration alternatives, understand AWS bi
 - Successfully retrieved AWS account resources and verified EC2 instance status.
 - Managed domain names and explored recovery options for squatted domains.
 - Planned the integration of new domains with AWS services.
-- Enhanced [[HTML]] development efficiency with a split screen setup and live preview tools.
+- Enhanced HTML development efficiency with a split screen setup and live preview tools.
 
 ### Pending Tasks
 - Further explore legal options for domain recovery from squatting.

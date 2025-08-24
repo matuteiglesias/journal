@@ -17,7 +17,7 @@ publish: true
 The goal of this session was to set up and integrate Google Calendar [[API]] with Telegram for media monitoring purposes.
 
 ### Key Activities
-- Configured Google Calendar [[API]] on [[Google Cloud]] Platform, including project setup and OAuth 2.0 authentication.
+- Configured Google Calendar [[API]] on Google Cloud Platform, including project setup and OAuth 2.0 authentication.
 - Explored integration possibilities of Google Calendar into media monitoring projects on GCP and considered using Telegram for similar functionalities.
 - Created and configured a Telegram bot, setting up the development environment and implementing basic scripting.
 - Planned and executed the processing of Telegram messages, including accessing multiple groups and storing messages in a database.

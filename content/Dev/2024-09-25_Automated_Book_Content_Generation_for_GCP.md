@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session focused on advancing the automation of book content generation related to [[Google Cloud]] Platform (GCP) data engineering and machine learning.
+The session focused on advancing the automation of book content generation related to Google Cloud Platform (GCP) data engineering and machine learning.
 
 ### Key Activities
 - Developed a workflow for automating book outline and content generation.

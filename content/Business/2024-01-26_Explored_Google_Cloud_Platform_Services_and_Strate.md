@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session aimed to explore various [[Google Cloud]] Platform (GCP) services and strategies for IT and business transformations.
+The session aimed to explore various Google Cloud Platform (GCP) services and strategies for IT and business transformations.
 
 ### Key Activities
-- **[[Data Management]] Services in GCP**: Reviewed [[Google Cloud]]'s data management services, focusing on BigQuery and Cloud SQL, with resources for practical experience.
+- **[[Data Management]] Services in GCP**: Reviewed Google Cloud's data management services, focusing on BigQuery and Cloud SQL, with resources for practical experience.
 - **[[Networking]] and Security in GCP**: Covered fundamentals of GCP networking services, including VPC and network security, with hands-on activities.
 - **Kubernetes and Containers in GCP**: Discussed Kubernetes basics and GCP offerings like Google Kubernetes Engine (GKE), with resources for hands-on deployment.
 - **[[Web Development]] Technologies Evolution**: Reflected on the evolution of web development technologies, highlighting key innovations.

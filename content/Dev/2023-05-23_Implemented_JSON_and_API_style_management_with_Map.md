@@ -19,8 +19,8 @@ The session aimed to implement and manage style information using [[JSON]] files
 ### Key Activities
 - Developed a [[Python]] script to save and update style information in [[JSON]] files, using the Mapbox [[API]] for style management.
 - Implemented functions for creating and updating Mapbox styles, including error handling for [[API]] responses.
-- Demonstrated loading [[JSON]] data into [[HTML]] using JavaScript and the Fetch [[API]].
-- Resolved CORS errors by setting up a local web server with [[Python]] to serve [[HTML]] and [[JSON]] files.
+- Demonstrated loading [[JSON]] data into HTML using JavaScript and the Fetch [[API]].
+- Resolved CORS errors by setting up a local web server with [[Python]] to serve HTML and [[JSON]] files.
 - Filtered command-line history for SSH commands using `grep` and explored troubleshooting steps for SSH and network connectivity issues.
 
 ### Achievements

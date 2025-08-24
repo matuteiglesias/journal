@@ -20,7 +20,7 @@ The session aimed to diagnose and correct configuration issues related to MySQL 
 - Diagnosed a critical inconsistency in MySQL configuration that was preventing backend connections and provided corrective actions.
 - Configured port bindings for a MySQL Docker container, ensuring it was linked to port 5455 instead of the default 3306.
 - Analyzed MySQL configuration, focusing on OAuth settings and LLM factory definitions.
-- Set up and validated local OAuth configuration for Google login, including creating credentials in the [[Google Cloud]] Console.
+- Set up and validated local OAuth configuration for Google login, including creating credentials in the Google Cloud Console.
 - Diagnosed and debugged issues related to YAML configuration for OAuth, ensuring the 'oauth' block was correctly loaded into the `CONFIGS` dictionary.
 - Addressed a configuration initialization issue in a deployed app, ensuring the `CONFIGS` variable was correctly loaded during app startup.
 - Conducted server diagnostics to identify closed ports causing failed HTTP requests.

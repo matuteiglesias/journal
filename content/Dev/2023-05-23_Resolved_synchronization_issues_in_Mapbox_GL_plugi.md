@@ -20,7 +20,7 @@ The session aimed to resolve synchronization issues with the Mapbox GL Compare p
 - Followed up on the PhD degree request and diploma verification through email correspondence.
 - Fixed the `styleKey` construction in the `updateMapStyle()` function to ensure correct mapping of styles.
 - Addressed synchronization problems with the Mapbox GL Compare plugin by providing alternative methods and troubleshooting steps.
-- Implemented [[HTML]] and CSS fixes for the Mapbox comparison feature, ensuring proper styling and functionality.
+- Implemented HTML and CSS fixes for the Mapbox comparison feature, ensuring proper styling and functionality.
 - Updated JavaScript code to handle map styles dynamically from dual menu groups, ensuring synchronization between maps.
 
 ### Achievements

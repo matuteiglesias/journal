@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to define and organize macro clusters for Docusaurus documentation, focusing on [[AI]], automation, and content strategy.
+The session aimed to define and organize macro clusters for [[Docusaurus]] documentation, focusing on [[AI]], automation, and content strategy.
 
 ### Key Activities
 - Analyzed thematic focus of macro clusters related to [[AI]] agents, development, and automation.
@@ -26,8 +26,8 @@ The session aimed to define and organize macro clusters for Docusaurus documenta
 - Compiled a list of 25 macro clusters for use in a knowledge platform.
 
 ### Achievements
-- Successfully defined and organized macro clusters for Docusaurus content, enhancing content structure and semantic authority.
+- Successfully defined and organized macro clusters for [[Docusaurus]] content, enhancing content structure and semantic authority.
 
 ### Pending Tasks
-- Implement the defined macro clusters into the Docusaurus documentation site.
+- Implement the defined macro clusters into the [[Docusaurus]] documentation site.
 - Monitor and refine the content structure based on user feedback and [[SEO]] performance.

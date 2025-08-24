@@ -14,11 +14,11 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to deploy a web application on [[Google Cloud]] App Engine, ensuring it runs smoothly with correct configurations and permissions.
+The goal of this session was to deploy a web application on Google Cloud App Engine, ensuring it runs smoothly with correct configurations and permissions.
 
 ### Key Activities
-- Followed a guide to set up, prepare, deploy, and test a web app on [[Google Cloud]] using App Engine.
-- Chose and found a unique [[Google Cloud]] Project ID using the `gcloud` command-line tool.
+- Followed a guide to set up, prepare, deploy, and test a web app on Google Cloud using App Engine.
+- Chose and found a unique Google Cloud Project ID using the `gcloud` command-line tool.
 - Ensured the Project ID met the length requirement of at least 6 characters.
 - Deployed a static web application on Google App Engine, including setting up the project, organizing files, and creating an `app.yaml` configuration.
 - Ran the project locally using [[Python]]'s HTTP server to ensure functionality before deployment.
@@ -29,7 +29,7 @@ The goal of this session was to deploy a web application on [[Google Cloud]] App
 - Fixed MIME type errors in JavaScript file deployment by modifying the `app.yaml` configuration.
 
 ### Achievements
-- Successfully deployed the web application on [[Google Cloud]] App Engine.
+- Successfully deployed the web application on Google Cloud App Engine.
 - Resolved all encountered issues including project ID setup, folder management, permissions, and MIME type errors.
 
 ### Pending Tasks

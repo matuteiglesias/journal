@@ -17,11 +17,11 @@ publish: true
 The primary goal of this session was to enhance and optimize the Precios Claros scraping pipeline to improve efficiency in capturing and storing price data.
 
 ### Key Activities
-- **Refinement of Scraping Pipeline**: Enhanced the existing pipeline with structured directories and consolidation scripts to better manage datasets.
+- **Refinement of Scraping [[Pipeline]]**: Enhanced the existing pipeline with structured directories and consolidation scripts to better manage datasets.
 - **Command Filtering**: Utilized Unix `grep` commands to filter command history for scraping-related activities, focusing on `scrapy` and `shub`.
 - **[[Debugging]] Techniques**: Implemented a debug-friendly command using Scrapy for efficient data collection and debugging.
 - **Automated Scraper Setup**: Outlined a sustainable approach to automate web scraping using cloud infrastructure, error handling, and version control.
-- **Server Setup on GCP**: Configured a cost-effective server on [[Google Cloud]] Platform for running web scrapers.
+- **Server Setup on GCP**: Configured a cost-effective server on Google Cloud Platform for running web scrapers.
 - **[[CSV]] Management [[Automation]]**: Developed a [[Python]] script for managing price data in [[CSV]] format, addressing price volatility and data enrichment.
 - **Daily ETL [[Optimization]]**: Designed an advanced ETL process using [[Pandas]] for efficient price data management.
 - **Multiple Scrapers Execution**: Set up multiple Scrapy spiders in VS Code notebooks for streamlined data processing.

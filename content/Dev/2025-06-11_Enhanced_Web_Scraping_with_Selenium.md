@@ -17,7 +17,7 @@ publish: true
 The primary objective of this session was to enhance web scraping capabilities using Selenium, focusing on robust error handling, timeout management, and process isolation.
 
 ### Key Activities
-- **Fetched Content from Google News:** Explored methods for fetching content using [[HTML]] scraping, RSS feed parsing, and discussed [[API]] limitations.
+- **Fetched Content from Google News:** Explored methods for fetching content using HTML scraping, RSS feed parsing, and discussed [[API]] limitations.
 - **[[Data Processing]] with [[Pandas]]:** Developed a [[Python]] script for loading, concatenating, and deduplicating [[CSV]] files.
 - **Crawler Implementation:** Structured a web crawler in [[Jupyter]] Notebook, emphasizing error handling and scalability.
 - **Selenium-Based [[Web Scraping]]:** Analyzed and improved various Selenium scripts for web scraping, including:

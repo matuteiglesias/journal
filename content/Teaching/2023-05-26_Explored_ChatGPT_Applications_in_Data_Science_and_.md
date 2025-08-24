@@ -17,7 +17,7 @@ publish: true
 The session aimed to explore various applications of ChatGPT in data science, education, and community engagement, focusing on enhancing creativity, problem-solving, and interdisciplinary collaboration.
 
 **Key Activities:**
-- Adjusted [[HTML]] layout for responsive design by modifying column classes.
+- Adjusted HTML layout for responsive design by modifying column classes.
 - Discussed strategies for a meeting with the [[Data Science]] Commission, focusing on data policies and career development.
 - Proposed a collaborative brainstorming session using ChatGPT to enhance creativity and programming skills.
 - Explored applications of ChatGPT in data science, natural sciences, social issues, and scientific research.

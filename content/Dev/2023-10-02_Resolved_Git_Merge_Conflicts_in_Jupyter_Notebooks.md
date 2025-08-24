@@ -22,7 +22,7 @@ The primary goal of this session was to address and resolve [[Git]] merge confli
 - Utilized tools like `meld` and `nbdime` for conflict resolution, and addressed installation issues with `meld`.
 - Implemented strategies for handling [[Git]] pull with rebase, including stashing changes and managing conflicts.
 - Investigated JavaScript for data handling in graphs, analyzing minified code for key features.
-- Created and integrated a card-based display for data visualization using [[HTML]], CSS, and D3.js.
+- Created and integrated a card-based display for data visualization using HTML, CSS, and D3.js.
 
 **Achievements:**
 - Successfully resolved multiple [[Git]] merge conflicts in [[Jupyter]] Notebooks using both manual and tool-assisted methods.

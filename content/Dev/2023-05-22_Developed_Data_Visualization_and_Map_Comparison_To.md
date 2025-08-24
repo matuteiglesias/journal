@@ -21,12 +21,12 @@ The session aimed to enhance data visualization techniques using [[Python]] and 
 - Developed methods to plot cumulative distribution functions and isolate specific ranges within these plots.
 - Enhanced visualization by extracting and annotating extreme values in cumulative distribution curves.
 - Modified color palette functions to include alpha channel adjustments for better visual customization.
-- Created interactive [[HTML]] documents using Mapbox GL JS for side-by-side map comparisons.
+- Created interactive HTML documents using Mapbox GL JS for side-by-side map comparisons.
 - Implemented dropdown menus for dynamic style changes in maps, utilizing JavaScript for event handling and style updates.
 
 ### Achievements:
 - Successfully created and visualized histograms and cumulative distribution functions in [[Python]].
-- Developed a robust [[HTML]] and JavaScript solution for interactive map comparisons, allowing for dynamic user interaction.
+- Developed a robust HTML and JavaScript solution for interactive map comparisons, allowing for dynamic user interaction.
 
 ### Pending Tasks:
 - Further testing and refinement of map style update functions to ensure compatibility across different browsers and devices.

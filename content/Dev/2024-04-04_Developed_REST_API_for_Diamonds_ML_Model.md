@@ -19,7 +19,7 @@ The goal of this session was to develop and optimize a REST [[API]] for a machin
 ### Key Activities
 - **Mastered REST [[API]] Concepts:** Reviewed essential knowledge for creating REST APIs, focusing on integrating machine learning models.
 - **Developed ML Model as REST [[API]]:** Executed stages of creating a REST [[API]] using the diamonds dataset, including data preparation, model training, and deployment.
-- **Built GCP Infrastructure:** Planned a cloud-based infrastructure on [[Google Cloud]] Platform for model training and serving, emphasizing containerization and deployment.
+- **Built GCP Infrastructure:** Planned a cloud-based infrastructure on Google Cloud Platform for model training and serving, emphasizing containerization and deployment.
 - **Architectural Planning:** Considered scalable and robust system design for machine learning APIs.
 - **Repository Evaluation:** Reflected on best practices for version control and evaluated a forked repository for development skills.
 - **Repository Structure Planning:** Proposed a modular structure for the ML [[API]] project repository, focusing on future cloud integration.

@@ -22,7 +22,7 @@ The session aimed to address several deployment and configuration issues encount
 - **File Management Strategies**: Implemented strategies to reduce file count in deployments, including identifying large files and updating ignore files.
 - **Virtual Environment Cleanup**: Provided instructions for removing virtual environments from projects to prevent deployment issues.
 - **Gunicorn Error Resolution**: Addressed errors in [[Flask]] applications using Gunicorn, focusing on function definitions and project structure.
-- **OAuth 2.0 Authentication Errors**: Solved OAuth 2.0 authentication issues by configuring redirect URIs correctly in [[Google Cloud]] Platform.
+- **OAuth 2.0 Authentication Errors**: Solved OAuth 2.0 authentication issues by configuring redirect URIs correctly in Google Cloud Platform.
 
 ### Achievements
 - Successfully resolved deployment errors in Google App Engine and improved file management practices.

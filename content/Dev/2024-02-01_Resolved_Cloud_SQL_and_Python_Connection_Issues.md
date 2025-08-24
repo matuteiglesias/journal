@@ -14,12 +14,12 @@ publish: true
 
 
 ### Session Goal
-The session aimed to resolve various connection issues related to MySQL and [[Google Cloud]] SQL, as well as address a specific [[Python]] error.
+The session aimed to resolve various connection issues related to MySQL and Google Cloud SQL, as well as address a specific [[Python]] error.
 
 ### Key Activities
 - Utilized the `du` command to list the largest subdirectories in a Unix/Linux environment.
 - Addressed the `EOFError: marshal data too short` in [[Python]], including clearing cache, reinstalling [[Flask]], and ensuring environment compatibility.
-- Troubleshot MySQL connection issues, focusing on server status, connection details, and [[Google Cloud]] SQL configurations.
+- Troubleshot MySQL connection issues, focusing on server status, connection details, and Google Cloud SQL configurations.
 - Resolved Cloud SQL connection issues using environment variables and the Cloud SQL Proxy.
 - Tested Cloud SQL connections with [[Python]] scripts, including dependency installation and execution.
 - Managed environment variables for local development with Google App Engine, using `.env` files and code modifications.

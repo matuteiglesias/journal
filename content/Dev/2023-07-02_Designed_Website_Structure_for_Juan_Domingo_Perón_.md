@@ -18,12 +18,12 @@ The session aimed to design and outline the structure for a website dedicated to
 
 ### Key Activities
 - Developed a comprehensive blueprint for the website's structure, covering essential sections such as the Home Page, Interactive Maps, About Us, and Contact Us.
-- Provided detailed [[HTML]] templates to guide the web development process, ensuring a cohesive design.
+- Provided detailed HTML templates to guide the web development process, ensuring a cohesive design.
 - Discussed the integration of interactive maps to enhance user experience and engagement.
 
 ### Achievements
 - Successfully outlined the website structure, providing a clear framework for future development.
-- Created [[HTML]] templates for the main sections of the website, facilitating a streamlined development process.
+- Created HTML templates for the main sections of the website, facilitating a streamlined development process.
 
 ### Pending Tasks
 - Further development and coding of the website based on the outlined structure and templates.

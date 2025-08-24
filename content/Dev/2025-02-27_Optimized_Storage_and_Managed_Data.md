@@ -21,7 +21,7 @@ The primary goal of this session was to optimize storage space and manage data e
 - **Electoral Data Organization**: Reorganized the `electoral_v1` directory by merging files, restructuring folders, and cleaning up redundant data to enhance accessibility and efficiency.
 - **Disk Cleanup**: Addressed disk space issues by cleaning up large directories, hidden trash files, and potential corrupted files, including commands for force deletion, file system checks, compression of backups, and deduplication of data.
 - **Corrupted File Management**: Implemented a systematic approach to forcefully delete corrupted files on an external drive and recover from severely corrupted files, including file system checks and potential reformatting.
-- **Cloud Storage Management**: Uploaded the Census 2010 dataset to [[Google Cloud]] Storage, covering installation, authentication, folder creation, file upload, verification, and making files public.
+- **Cloud Storage Management**: Uploaded the Census 2010 dataset to Google Cloud Storage, covering installation, authentication, folder creation, file upload, verification, and making files public.
 
 ### Achievements
 - Successfully optimized storage space across local and cloud environments.

@@ -20,7 +20,7 @@ The session aimed to improve data processing techniques and automate the convers
 - Conducted a comparison between old and new versions of data processing code, focusing on improvements like merging with country shapes and creating unique project location identifiers.
 - Modified DataFrames using [[Pandas]] and GeoPandas to explode geographical columns and include new calculated columns such as `even_split_totalamt`.
 - Cleaned DataFrame columns by removing commas and converting strings to floats.
-- Automated the conversion of [[Jupyter]] notebooks to PDF and [[HTML]] formats using command-line tools like `jupyter nbconvert` and `find`, excluding checkpoint files.
+- Automated the conversion of [[Jupyter]] notebooks to PDF and HTML formats using command-line tools like `jupyter nbconvert` and `find`, excluding checkpoint files.
 - Utilized Unix command history to efficiently locate and reuse `nbconvert` commands.
 
 ### Achievements:

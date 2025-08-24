@@ -14,10 +14,10 @@ publish: true
 
 
 **Session Goal:**
-The session aimed to update and secure the database class for [[Google Cloud]] SQL, set up a Cloud SQL instance, and deploy a [[Python]] application on Google App Engine.
+The session aimed to update and secure the database class for Google Cloud SQL, set up a Cloud SQL instance, and deploy a [[Python]] application on Google App Engine.
 
 **Key Activities:**
-- Updated the database class to integrate with [[Google Cloud]] SQL, focusing on security and best practices for managing credentials.
+- Updated the database class to integrate with Google Cloud SQL, focusing on security and best practices for managing credentials.
 - Set up a Cloud SQL instance, including database creation and user management, with an emphasis on security best practices.
 - Reviewed the updated database class to ensure it follows best practices for security and connection management.
 - Deployed a [[Python]] application on Google App Engine, configuring environment variables in the app.yaml file for secure database connections.

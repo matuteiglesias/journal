@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to troubleshoot and resolve 502 Bad Gateway errors occurring during a [[Google Cloud]] Platform (GCP) application deployment using [[Flask]] and Gunicorn.
+The goal of this session was to troubleshoot and resolve 502 Bad Gateway errors occurring during a Google Cloud Platform (GCP) application deployment using [[Flask]] and Gunicorn.
 
 ### Key Activities
 - **[[Troubleshooting]] 502 Errors**: Addressed issues related to dependency management, Gunicorn configuration, filesystem permissions, session management, environment variables, and compatibility.

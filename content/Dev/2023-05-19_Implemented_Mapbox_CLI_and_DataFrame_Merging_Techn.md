@@ -22,7 +22,7 @@ The session aimed to enhance data management capabilities using Mapbox CLI for t
 - Explored executing shell commands within [[Jupyter]] Notebooks to streamline tileset management.
 - Installed Mapbox CLI and addressed npm registry issues using alternative methods such as Yarn.
 - Set up environment variables for Mapbox access token in [[Python]] to ensure seamless tileset operations.
-- Developed a Mapbox map comparison feature using [[HTML]] and JavaScript, including a dropdown menu for style selection.
+- Developed a Mapbox map comparison feature using HTML and JavaScript, including a dropdown menu for style selection.
 
 ### Achievements
 - Successfully managed Mapbox tilesets and resolved installation issues.

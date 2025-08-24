@@ -33,7 +33,7 @@ The session aimed to plan strategic actions for engaging key groups in an educat
 - Automated data extraction processes using [[Python]], improving efficiency in handling web requests.
 
 ### Pending Tasks
-- Upload the correct [[HTML]] file for further data extraction and processing.
+- Upload the correct HTML file for further data extraction and processing.
 
 ### Session Time
 **Start Time**: 18:05

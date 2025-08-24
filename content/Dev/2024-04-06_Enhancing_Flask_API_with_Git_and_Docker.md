@@ -18,7 +18,7 @@ The primary goal of this session was to enhance a [[Flask]] application by addre
 
 ### Key Activities
 - **Handling 404 Errors**: Implemented a root URL route to manage 404 Not Found errors in the [[Flask]] application.
-- **Enhancing Welcome Message**: Explored methods to improve the [[Flask]] application's landing page using [[HTML]] and [[API]] documentation.
+- **Enhancing Welcome Message**: Explored methods to improve the [[Flask]] application's landing page using HTML and [[API]] documentation.
 - **Commit Message Structuring**: Provided guidelines for creating structured commit messages during [[API]] setup.
 - **[[Git]] Version Control**: Discussed best practices for organizing [[Git]] commits, unstaging files, and understanding [[Git]] status outputs.
 - **Viewing [[Git]] History**: Explained the use of `git log` for viewing commit history and managing branches.

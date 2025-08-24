@@ -23,7 +23,7 @@ The primary goal of this session was to enhance the efficiency and reliability o
 - **Analyzed Directory Processing:** Conducted a run analysis, identified successes, issues, and suggested improvements for indexing and chunking.
 - **Fixed [[JSON]] Splitting Error:** Conducted root cause analysis and fixed an IndexError in the `chunk_files` function.
 - **Enhanced Text Extraction from [[Jupyter]] Notebooks:** Improved the `extract_text()` function with better [[JSON]] parsing and error handling.
-- **Improved File Processing:** Identified and fixed issues in processing [[Jupyter]] Notebooks and [[HTML]] parsing.
+- **Improved File Processing:** Identified and fixed issues in processing [[Jupyter]] Notebooks and HTML parsing.
 - **Updated `scan_directory` Function:** Enhanced the function to ignore specific file extensions and directories.
 - **Organized Directories into [[Workflow]] Groups:** Structured directories into workflow groups with specific ingestion settings.
 

@@ -22,7 +22,7 @@ The session aimed to enhance the transcription capabilities of the Whisper model
 - **Diarization [[Integration]]**: Leveraged diarization outputs to enhance ASR transcription by aligning clip timestamps with diarization segments.
 - **Quality Assessment**: Compared output models based on accuracy, segmentation, and completeness, favoring diarization-driven outputs for better speaker attribution.
 - **Architectural Planning**: Outlined an end-to-end architecture for processing audio/video into [[AI]]-curated [[Markdown]], addressing potential challenges.
-- **Pipeline Design**: Designed an automated content ingestion pipeline for efficient content tracking and processing.
+- **[[Pipeline]] Design**: Designed an automated content ingestion pipeline for efficient content tracking and processing.
 - **YouTube Metadata Extraction**: Explored methods for extracting metadata from YouTube channels using various tools and APIs.
 
 ### Achievements

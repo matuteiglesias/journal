@@ -14,15 +14,15 @@ publish: true
 
 
 ### Session Goal:
-The session aimed to enhance the [[HTML]] development workflow by utilizing Visual Studio Code's Split Editor feature and ensuring the environment was up-to-date.
+The session aimed to enhance the HTML development workflow by utilizing Visual Studio Code's Split Editor feature and ensuring the environment was up-to-date.
 
 ### Key Activities:
-- Utilized the Split Editor feature in Visual Studio Code to edit [[HTML]] files and view the rendered output using Live Server.
+- Utilized the Split Editor feature in Visual Studio Code to edit HTML files and view the rendered output using Live Server.
 - Upgraded Visual Studio Code to access the 'Split Editor Right' feature, including checking for updates and installing the latest version.
-- Set up the split editor to preview [[HTML]] files in real-time as changes were made.
+- Set up the split editor to preview HTML files in real-time as changes were made.
 
 ### Achievements:
-- Successfully configured Visual Studio Code for efficient [[HTML]] editing and previewing.
+- Successfully configured Visual Studio Code for efficient HTML editing and previewing.
 
 ### Pending Tasks:
 - None identified.

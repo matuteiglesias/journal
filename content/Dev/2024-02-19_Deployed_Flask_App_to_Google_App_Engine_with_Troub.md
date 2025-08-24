@@ -19,7 +19,7 @@ The goal of this session was to successfully deploy a [[Flask]] application to G
 ### Key Activities
 - **[[Deployment]] Process**: Followed guides to deploy applications on GAE using both standard and flexible environments, utilizing configuration files such as `app.yaml` and `Dockerfile`.
 - **[[Flask]] [[Deployment]]**: Executed specific steps for deploying a [[Flask]] application, including pre-deployment checks and post-deployment testing with a friend's user.
-- **Secret Management**: Integrated [[Google Cloud]] Secret Manager for handling sensitive data within the application, ensuring proper [[API]] enablement and secret access in the code.
+- **Secret Management**: Integrated Google Cloud Secret Manager for handling sensitive data within the application, ensuring proper [[API]] enablement and secret access in the code.
 - **URL Sharing**: Shared the deployed application's URL for external testing.
 - **[[Troubleshooting]]**: Addressed application access issues post-deployment, focusing on HTTP 503 errors and ensuring all dependencies were correctly listed in `requirements.txt`.
 

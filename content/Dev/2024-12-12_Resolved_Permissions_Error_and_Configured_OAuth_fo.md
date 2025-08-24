@@ -14,12 +14,12 @@ publish: true
 
 
 ### Session Goal
-The session aimed to resolve a permissions error for a [[Google Cloud]] service account and configure OAuth integration for n8n with Gmail.
+The session aimed to resolve a permissions error for a Google Cloud service account and configure OAuth integration for n8n with Gmail.
 
 ### Key Activities
 - **Resolved Permissions Error:** Addressed a permissions error for the service account `media-monitor-tool@appspot.gserviceaccount.com` during App Engine deployment by granting necessary storage permissions and verifying project settings.
 - **OAuth [[Integration]] for n8n:** Configured OAuth flow from n8n to Gmail, including updates to the OAuth consent screen and credentials.
-- **Set Up OAuth Redirect URI:** Configured the redirect URI in [[Google Cloud]] Console for OAuth 2.0 and tested in n8n.
+- **Set Up OAuth Redirect URI:** Configured the redirect URI in Google Cloud Console for OAuth 2.0 and tested in n8n.
 - **Configured OAuth2 for Gmail in n8n:** Set up OAuth2 authentication for Gmail, including credential management and scopes setup.
 - **Streamlined OAuth Flows:** Explored options for integrating OAuth flows with n8n, using App Engine as a redirect URI and deploying n8n to App Engine for a cloud-hosted solution.
 

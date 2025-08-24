@@ -14,14 +14,14 @@ publish: true
 
 
 ### Session Goal
-The session aimed to configure Gmail [[API]] integration for the media-monitor-tool using n8n and [[Google Cloud]] services.
+The session aimed to configure Gmail [[API]] integration for the media-monitor-tool using n8n and Google Cloud services.
 
 ### Key Activities
-- Set up Gmail integration with OAuth2 credentials from [[Google Cloud]] Console.
+- Set up Gmail integration with OAuth2 credentials from Google Cloud Console.
 - Troubleshot 'Precondition check failed' errors in the Gmail [[API]].
 - Managed IAM permissions for the n8n email sender service account.
 - Configured Gmail [[API]] access and permissions for service accounts.
-- Resolved visibility issues with Gmail [[API]] roles and permissions in [[Google Cloud]] Platform.
+- Resolved visibility issues with Gmail [[API]] roles and permissions in Google Cloud Platform.
 - Provided a systematic approach to troubleshoot Gmail [[API]] errors.
 
 ### Achievements
@@ -30,4 +30,4 @@ The session aimed to configure Gmail [[API]] integration for the media-monitor-t
 
 ### Pending Tasks
 - Continue monitoring the Gmail [[API]] integration for any further issues.
-- Ensure ongoing compliance with [[Google Cloud]] and Gmail [[API]] policies.
+- Ensure ongoing compliance with Google Cloud and Gmail [[API]] policies.

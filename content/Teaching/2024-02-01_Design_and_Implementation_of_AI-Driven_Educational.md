@@ -20,8 +20,8 @@ The primary goal of this session was to explore and design [[AI]]-driven tools f
 - Proposed reflective questions to assess understanding of algorithm concepts, encouraging critical thinking and practical application.
 - Developed guidelines for organizing effective practice sessions, including planning, execution, and feedback.
 - Suggested a system for practice and evaluation using Google tools, covering student registration, form design, response collection, and feedback.
-- Planned a workflow using [[Google Cloud]] Platform for secure and scalable student response management.
-- Detailed a structured approach for data collection and storage using Google Forms and [[Google Cloud]] SQL.
+- Planned a workflow using Google Cloud Platform for secure and scalable student response management.
+- Detailed a structured approach for data collection and storage using Google Forms and Google Cloud SQL.
 - Explored [[AI]] models for automated grading, discussing specific training and hybrid systems.
 - Described the process of customizing GPT models for specific tasks like grading.
 - Proposed a database schema for storing and processing student responses.

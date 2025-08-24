@@ -17,7 +17,7 @@ publish: true
 The session aimed to optimize the financial data pipeline and develop strategies for effective financial governance and reporting.
 
 ### Key Activities
-- **Optimized Financial Data Pipeline**: Reflected on the current pipeline structure and executed refinements to improve modularity, clarity, and performance, especially for handling different time frequencies and data outputs.
+- **Optimized Financial Data [[Pipeline]]**: Reflected on the current pipeline structure and executed refinements to improve modularity, clarity, and performance, especially for handling different time frequencies and data outputs.
 - **Debt [[Integration]]**: Enhanced the pipeline for better integration of external debt data.
 - **Time Series [[Data Management]]**: Designed and executed plans for efficient storage and management of time series data, including metadata handling and visualization strategies.
 - **Financial Governance Planning**: Developed a comprehensive blueprint for financial governance focusing on family dynamics, transparency, and reporting.

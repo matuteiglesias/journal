@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to explore and develop applications using [[Google Cloud]] Platform (GCP) services, focusing on practical implementations for police departments.
+The session aimed to explore and develop applications using Google Cloud Platform (GCP) services, focusing on practical implementations for police departments.
 
 ### Key Activities
 - Conducted a comprehensive study session on core GCP services including Compute Engine, App Engine, and Cloud Storage.

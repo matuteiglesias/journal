@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The main objective of this session was to create a BigQuery table for census data stored in [[Google Cloud]] Storage and address any issues encountered during the process.
+The main objective of this session was to create a BigQuery table for census data stored in Google Cloud Storage and address any issues encountered during the process.
 
 ### Key Activities
 - **Creating a BigQuery Table**: Followed steps to enable the BigQuery [[API]], create a dataset, load data from [[CSV]] files, and verify the table's creation.
@@ -32,4 +32,4 @@ The main objective of this session was to create a BigQuery table for census dat
 - Further optimization of data loading processes, potentially converting [[CSV]] files to Parquet for efficiency.
 
 ### Tags
-BigQuery, [[Google Cloud]], Data Loading, [[Troubleshooting]], Permissions
+BigQuery, Google Cloud, Data Loading, [[Troubleshooting]], Permissions

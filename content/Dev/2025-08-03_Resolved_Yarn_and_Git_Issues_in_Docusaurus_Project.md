@@ -14,11 +14,11 @@ publish: true
 
 
 ### Session Goal:
-The session aimed to address and resolve multiple issues related to the Yarn build process and [[Git]] pre-commit hooks in a Docusaurus project environment.
+The session aimed to address and resolve multiple issues related to the Yarn build process and [[Git]] pre-commit hooks in a [[Docusaurus]] project environment.
 
 ### Key Activities:
 - Updated the 'My Deployments' page to include recent projects, integrating [[AI]] research and practical applications.
-- Resolved a Yarn build directory conflict in a Docusaurus project by adjusting the directory structure.
+- Resolved a Yarn build directory conflict in a [[Docusaurus]] project by adjusting the directory structure.
 - Diagnosed a failing `yarn build` command, identifying potential issues in custom scripts or `package.json` configuration.
 - Addressed a [[Git]] pre-commit hook error caused by a missing `lint-staged` binary, providing installation and bypass solutions.
 - Fixed Yarn CLI issues on Debian by replacing the Debian package with the official Yarn version.

@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session aimed to create structured plans for various projects, including [[Google Cloud]] certifications, book production, academic articles, personal development, and course management.
+The session aimed to create structured plans for various projects, including Google Cloud certifications, book production, academic articles, personal development, and course management.
 
 ### Key Activities
-- Developed a simplified pedagogical plan for [[Google Cloud]] certifications, dividing preparation into 10 critical areas like IAM and machine learning.
+- Developed a simplified pedagogical plan for Google Cloud certifications, dividing preparation into 10 critical areas like IAM and machine learning.
 - Created a 10-block time plan for book production, covering stages from planning to publication.
 - Outlined a production plan for two academic articles, focusing on peer feedback and writing enhancement.
 - Reorganized personal and professional development ideas into a structured framework, covering areas like political strategy and data management.

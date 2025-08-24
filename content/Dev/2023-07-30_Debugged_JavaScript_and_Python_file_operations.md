@@ -19,7 +19,7 @@ publish: true
 - Implemented [[Python]] scripts to conditionally create files and generate empty [[JSON]] files.
 - Developed JavaScript solutions for dynamically updating select menu options and extracting menu options from [[JSON]] keys.
 - Conducted extensive debugging of JavaScript code, addressing type errors, console logging issues, and event handler problems.
-- Utilized [[Python]]'s `http.server` module to run a local HTTP server for serving [[HTML]] files.
+- Utilized [[Python]]'s `http.server` module to run a local HTTP server for serving HTML files.
 - Troubleshot 404 errors and caching issues related to the `style_info.json` file.
 
 **Achievements:**

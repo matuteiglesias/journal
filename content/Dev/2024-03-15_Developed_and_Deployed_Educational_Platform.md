@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to advance the development and deployment of an educational platform using various technologies such as Firebase, [[Flask]], and [[Google Cloud]].
+The session aimed to advance the development and deployment of an educational platform using various technologies such as Firebase, [[Flask]], and Google Cloud.
 
 ### Key Activities
 - Detailed the process for obtaining temporary residency in Argentina, including marriage preparation and transition to permanent residency.

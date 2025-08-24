@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to troubleshoot and resolve various issues related to [[Google Cloud]] and Firebase integration, particularly focusing on OAuth errors and Firestore setup within a [[Flask]] application.
+The primary goal of this session was to troubleshoot and resolve various issues related to Google Cloud and Firebase integration, particularly focusing on OAuth errors and Firestore setup within a [[Flask]] application.
 
 ### Key Activities
-- Utilized [[Google Cloud]] SDK and Firebase CLI for configuration inspection to diagnose issues without accessing web consoles.
+- Utilized Google Cloud SDK and Firebase CLI for configuration inspection to diagnose issues without accessing web consoles.
 - Addressed errors encountered while listing OAuth 2.0 clients and deploying Firebase functions, emphasizing correct directory and configuration file usage.
 - Set up Firestore in a Firebase project, including error resolution during the setup process and verification of the deployment.
 - Managed Firestore database security rules and created a service account [[JSON]] file for Firebase authentication.

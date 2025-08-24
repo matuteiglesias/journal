@@ -17,8 +17,8 @@ publish: true
 The session aimed to enhance and optimize web scraping techniques using headless browsers, focusing on automation and efficiency.
 
 ### Key Activities
-- **Fixed Clipboard Issues**: Addressed `pyperclip.paste()` failures in headless Chrome by using Selenium for [[HTML]] extraction.
-- **Job [[Data Extraction]]**: Developed strategies for extracting job information using [[JSON]]-LD and [[HTML]] snippets.
+- **Fixed Clipboard Issues**: Addressed `pyperclip.paste()` failures in headless Chrome by using Selenium for HTML extraction.
+- **Job [[Data Extraction]]**: Developed strategies for extracting job information using [[JSON]]-LD and HTML snippets.
 - **Streamlit App Alternatives**: Explored alternatives for text extraction beyond Streamlit limitations.
 - **[[Automation]] Strategies**: Planned various approaches for automating web content extraction using browser extensions and desktop apps.
 - **Cloud-Based Scraping**: Outlined the setup for cloud services using headless browsers.

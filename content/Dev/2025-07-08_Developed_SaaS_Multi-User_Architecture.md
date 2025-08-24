@@ -19,11 +19,11 @@ The session aimed to explore and develop a multi-user architecture for a SaaS ap
 ### Key Activities
 - **Analyzed Streamlit limitations**: Explored solutions for multi-user capabilities, focusing on authentication and data isolation.
 - **Transitioned CLI Tools**: Planned the transformation of a CLI toolkit into a multi-user SaaS product, detailing architecture options and implementation steps.
-- **Compared [[Deployment]] Strategies**: Evaluated Hugging Face Spaces vs. [[Google Cloud]] Platform for deploying FastAPI applications.
+- **Compared [[Deployment]] Strategies**: Evaluated Hugging Face Spaces vs. Google Cloud Platform for deploying FastAPI applications.
 - **SaaS Development Sprint Plan**: Outlined a structured sprint plan for developing a scalable SaaS application.
 - **Phase 1 Prototype Development**: Detailed steps for developing a local FastAPI application with HTMX.
 - **Roadmap for Phase 2 [[Deployment]]**: Prepared a roadmap for deploying to Hugging Face Spaces.
-- **Guide for [[Google Cloud]] Run [[Deployment]]**: Provided a step-by-step guide for deploying FastAPI to [[Google Cloud]] Run.
+- **Guide for Google Cloud Run [[Deployment]]**: Provided a step-by-step guide for deploying FastAPI to Google Cloud Run.
 - **Integrated Firebase Authentication**: Implemented Firebase Authentication in FastAPI.
 - **Discussed Data Ethics**: Reflected on data ethics in email access and its implications.
 - **Architectural Fork**: Outlined considerations for local vs. cloud deployment modes.
@@ -34,5 +34,5 @@ The session aimed to explore and develop a multi-user architecture for a SaaS ap
 - Enhanced understanding of ethical considerations in data management.
 
 ### Pending Tasks
-- Finalize deployment to Hugging Face Spaces and [[Google Cloud]] Run.
+- Finalize deployment to Hugging Face Spaces and Google Cloud Run.
 - Continue refining authentication and data management strategies.

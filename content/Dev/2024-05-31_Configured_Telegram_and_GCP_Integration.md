@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to configure and integrate Telegram with [[Google Cloud]] Platform (GCP), Google Calendar, and Gmail for a seamless application setup.
+The session aimed to configure and integrate Telegram with Google Cloud Platform (GCP), Google Calendar, and Gmail for a seamless application setup.
 
 ### Key Activities
 - Detailed instructions were followed to create a new application in Telegram, including obtaining `api_id` and `api_hash`.

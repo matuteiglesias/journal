@@ -14,11 +14,11 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to develop a comprehensive study plan for obtaining [[Google Cloud]] certifications, specifically targeting the Professional [[Machine Learning]] Engineer and Data Engineer exams.
+The goal of this session was to develop a comprehensive study plan for obtaining Google Cloud certifications, specifically targeting the Professional [[Machine Learning]] Engineer and Data Engineer exams.
 
 ### Key Activities
 - Reviewed recommended courses and certifications for enhancing professional skills in data engineering and artificial intelligence.
-- Established a 6-month preparation plan for [[Google Cloud]] Professional [[Machine Learning]] Engineer and Data Engineer certifications.
+- Established a 6-month preparation plan for Google Cloud Professional [[Machine Learning]] Engineer and Data Engineer certifications.
 - Created a detailed study plan that integrates foundational knowledge, practical projects, and exam strategies.
 - Developed a weekly schedule focusing on key topics and recommended practices for effective learning.
 

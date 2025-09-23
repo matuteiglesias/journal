@@ -22,7 +22,7 @@ The session aimed to enhance data processing and visualization capabilities usin
 - **DataFrame Manipulation**: Modified DataFrame operations to handle multiple groupers and applied filtering using compound boolean masks.
 - **Modularization**: Refactored code to create a `get_data_subset` function, improving readability and maintainability.
 - **Time Series Plotting**: Developed a `plot_time_series()` function for visualizing time series data, processing multiple files for unique pairs.
-- **[[Data [[Visualization]]]] Enhancements**: Created subplots for CBA and CBT data, updated plotting code for economic indicators, and ensured consistent color mapping across plots.
+- **[[Data Visualization]] Enhancements**: Created subplots for CBA and CBT data, updated plotting code for economic indicators, and ensured consistent color mapping across plots.
 - **Advanced Plotting Techniques**: Incorporated moving averages and median-based plots, with filled areas between percentiles for statistical analysis.
 
 ### Achievements

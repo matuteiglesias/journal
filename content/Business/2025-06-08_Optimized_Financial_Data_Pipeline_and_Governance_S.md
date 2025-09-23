@@ -21,7 +21,7 @@ The session aimed to optimize the financial data pipeline and develop strategies
 - **Debt [[Integration]]**: Enhanced the pipeline for better integration of external debt data.
 - **Time Series [[Data Management]]**: Designed and executed plans for efficient storage and management of time series data, including metadata handling and visualization strategies.
 - **Financial Governance Planning**: Developed a comprehensive blueprint for financial governance focusing on family dynamics, transparency, and reporting.
-- **[[Data [[Visualization]]]]**: Created and critiqued visualization strategies for financial data, ensuring effective communication and stakeholder engagement.
+- **[[Data Visualization]]**: Created and critiqued visualization strategies for financial data, ensuring effective communication and stakeholder engagement.
 
 ### Achievements
 - Improved the modular design and performance of the financial data processing pipeline.

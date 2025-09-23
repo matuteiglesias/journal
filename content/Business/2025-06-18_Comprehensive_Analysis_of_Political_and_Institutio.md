@@ -17,7 +17,7 @@ publish: true
 The session aimed to analyze various political and institutional dynamics, focusing on corruption, justice selectivity, strategic communication, and ethical considerations in education.
 
 ### Key Activities
-- **Legal and [[Financial Analysis]]**: Reviewed the impact of Decreto 54/2009 and mechanisms of corruption and money laundering involving political figures such as Cristina Kirchner and Mauricio Macri.
+- **Legal and Financial Analysis**: Reviewed the impact of Decreto 54/2009 and mechanisms of corruption and money laundering involving political figures such as Cristina Kirchner and Mauricio Macri.
 - **Political and Institutional Analysis**: Explored the political implications of Cristina Kirchner's detention, the selectivity of justice in Argentina, and the intervention in educational institutions.
 - **Strategic [[Communication]]**: Evaluated Rodrigo's communication strategies, including his involvement in educational services and his response to conflicts.
 - **Sociological and Ethical Reflections**: Analyzed social dynamics, including mockery as a tool in political discourse and the moral-political confrontation in group dynamics.

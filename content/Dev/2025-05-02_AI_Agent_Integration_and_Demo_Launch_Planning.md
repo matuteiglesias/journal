@@ -27,7 +27,7 @@ The session aimed to integrate [[AI]] agents into Hugging Face Spaces and plan f
 - Enhancing UX orchestration for [[AI]] flows using FastAPI and [[Docusaurus]].
 - Embedding a chat interface in [[Docusaurus]] for improved document interaction.
 - Leveraging Hugging Face Spaces for [[AI]] agent demos and visibility.
-- Packaging PromptFlow agents into distributable apps using Streamlit.
+- Packaging PromptFlow agents into distributable apps using [[Streamlit]].
 - Outlining the engineering direction for AIOS team focusing on demos and monetization.
 - Defining Phase 1 project for demo launch with clear deliverables and quality checklist.
 - Designing a human-machine collaboration strategy for software development.

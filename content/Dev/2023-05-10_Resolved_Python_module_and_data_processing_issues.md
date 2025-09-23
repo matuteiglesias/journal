@@ -21,7 +21,7 @@ The session aimed to resolve issues with [[Python]] modules and enhance data pro
 - **Selenium Session [[Debugging]]**: Resolved issues with Firefox browser driver for Selenium sessions with InstaPy, including updates and alternative browser options.
 - **[[Data Processing]] with [[Pandas]]**: Developed [[Python]] code snippets for data grouping, merging, and aggregation using [[Pandas]], focusing on election data.
 - **Text Analysis with SpaCy**: Implemented text processing techniques to filter out small words and connectors, and created dummy columns for frequent words in datasets.
-- **Graph [[Visualization]] with NetworkX**: Created and optimized NetworkX graphs from correlation matrices, focusing on strong edges and visualization clarity.
+- **Graph Visualization with NetworkX**: Created and optimized NetworkX graphs from correlation matrices, focusing on strong edges and visualization clarity.
 
 ### Achievements
 - Successfully resolved module and browser driver issues, enabling smoother execution of InstaPy scripts.

@@ -32,4 +32,4 @@ The goal of this session was to develop a comprehensive process for extracting d
 - [[Optimization]] of Cypher queries for better performance in data ingestion.
 
 ### Tags
-WhatsApp, [[Data Extraction]], Graph Database, Neo4j, Decryption, Ubuntu
+WhatsApp, Data Extraction, Graph Database, Neo4j, Decryption, Ubuntu

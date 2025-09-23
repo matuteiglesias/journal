@@ -17,7 +17,7 @@ publish: true
 The session aimed to enhance a machine learning pipeline by implementing data preprocessing, model development, hyperparameter tuning, and evaluation techniques.
 
 ### Key Activities
-- **[[Data [[Visualization]]]]**: Created scatter plots for geometric log variables to understand their relationship with pricing.
+- **[[Data Visualization]]**: Created scatter plots for geometric log variables to understand their relationship with pricing.
 - **Feature Engineering**: Evaluated feature relevance in model development using exploratory data analysis.
 - **Data Preprocessing**: Developed a preprocessing pipeline using `scikit-learn`, including outlier removal and feature transformations.
 - **Model Implementation**: Implemented a Random Forest model with `GridSearchCV` for hyperparameter tuning.

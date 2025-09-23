@@ -28,4 +28,4 @@ The session aimed to enhance project documentation generation and file processin
 
 ### Pending Tasks
 - Further exploration of SmartMonitor project components for enhancing documentation and monitoring capabilities.
-- Development of a custom dashboard using Streamlit or Dash for monitoring message processing and RabbitMQ queue management.
+- Development of a custom dashboard using [[Streamlit]] or Dash for monitoring message processing and RabbitMQ queue management.

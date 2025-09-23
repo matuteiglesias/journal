@@ -20,15 +20,15 @@ The goal of this session was to plan and execute refactoring of the embedding an
 - Developed a refactoring plan to separate embedder and retriever components in the RAG pipeline.
 - Outlined the architecture for a modular embedding orchestrator for [[AI]] pipelines.
 - Designed a unified embedding service for flexible document embedding, storage in FAISS and Parquet, and future [[API]] integration.
-- Refined the CLI parser to improve structure, validation, and error handling.
-- Implemented CLI input validation for [[Python]] scripts, including handling in [[Jupyter]] Notebooks.
+- Refined the [[CLI]] parser to improve structure, validation, and error handling.
+- Implemented [[CLI]] input validation for [[Python]] scripts, including handling in [[Jupyter]] Notebooks.
 
 ### Achievements
 - A comprehensive refactoring plan was created, detailing design decisions and proposed file structures.
 - A framework for embedding management in [[AI]] pipelines was proposed.
 - A modular and flexible embedding service framework was designed.
-- CLI parser was enhanced with better validation and error handling.
+- [[CLI]] parser was enhanced with better validation and error handling.
 
 ### Pending Tasks
 - Implement the proposed modular embedding orchestrator.
-- Integrate the refined CLI parser into existing workflows.
+- Integrate the refined [[CLI]] parser into existing workflows.

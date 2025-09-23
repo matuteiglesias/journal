@@ -21,7 +21,7 @@ The goal of this session was to enhance [[AI]] orchestration capabilities by dev
 - Delivered a masterclass on building chat flows with PromptFlow, covering flow structure, inputs/outputs, and examples.
 - Planned a modular architecture for PromptFlow YAMLs to create reusable [[AI]] components and structured testing.
 - Outlined a visionary approach to modular, traceable [[AI]] blockflows, emphasizing strategic growth hacks.
-- Developed a CLI tool for testing flow blocks within the PromptFlow system.
+- Developed a [[CLI]] tool for testing flow blocks within the PromptFlow system.
 - Drafted a [[Python]] script for running specific blocks from a YAML flow file using the Typer library.
 
 ### Achievements
@@ -30,5 +30,5 @@ The goal of this session was to enhance [[AI]] orchestration capabilities by dev
 - Developed tools and scripts to facilitate testing and development of [[AI]] workflows.
 
 ### Pending Tasks
-- Further testing and refinement of the CLI tool and [[Python]] script.
+- Further testing and refinement of the [[CLI]] tool and [[Python]] script.
 - Implementation of modular blockflows in a live environment.

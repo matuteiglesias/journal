@@ -21,7 +21,7 @@ The session focused on enhancing a trading strategy using the Backtrader framewo
 - **Investment [[Strategy]] Evaluation**: Outlined a proposed investment strategy combining technical analysis and systematic trading rules.
 - **[[Data Processing]] Enhancements**: Expanded [[Python]] code to include weekly data resampling using the yfinance library.
 - **Model Fitting Techniques**: Discussed exponential model fitting for stock analysis and implemented a linear fit on log-transformed stock prices.
-- **[[Data [[Visualization]]]] [[Optimization]]**: Optimized plotting of indicators in data visualizations to avoid redundancy.
+- **[[Data Visualization]] [[Optimization]]**: Optimized plotting of indicators in data visualizations to avoid redundancy.
 - **Backtrader [[Strategy]] Implementation**: Modified the `OLSResiduals` indicator, adjusted the `plotinfo` attribute, and implemented trading logic using the `next` method.
 
 ### Achievements

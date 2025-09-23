@@ -18,7 +18,7 @@ The primary aim of this session was to explore various data manipulation and vis
 
 ### Key Activities
 - **DataFrame Manipulation**: Techniques for converting MultiIndex to a regular DataFrame using `reset_index` and `to_frame` methods were discussed. The session also covered reshaping data using `pivot_table` and `unstack` methods.
-- **[[Data [[Visualization]]]]**: Created correlation matrix heatmaps using seaborn and matplotlib, including transposing matrices and generating visualizations.
+- **[[Data Visualization]]**: Created correlation matrix heatmaps using seaborn and matplotlib, including transposing matrices and generating visualizations.
 - **Hierarchical Clustering**: Explored hierarchical clustering for correlation matrix analysis using scipy, including visualizing results with dendrograms and performing PCA.
 - **Data Concatenation**: Demonstrated concatenating DataFrame columns using pandas `apply` function.
 

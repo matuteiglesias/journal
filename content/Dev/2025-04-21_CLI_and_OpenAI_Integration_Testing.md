@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session aimed to test and integrate various CLI flows and OpenAI [[API]] functionalities, ensuring seamless automation and error handling.
+The session aimed to test and integrate various [[CLI]] flows and OpenAI [[API]] functionalities, ensuring seamless automation and error handling.
 
 ### Key Activities
-- Conducted battle testing for CLI flows using the `fp` command, focusing on the `basic-with-connection` flow.
+- Conducted battle testing for [[CLI]] flows using the `fp` command, focusing on the `basic-with-connection` flow.
 - Adapted [[Python]] flow examples for custom repository structures, including dependency installation and environment variable setup.
 - Fixed function entry-point test errors by correcting file paths and enhancing test procedures.
 - Troubleshot AzureOpenAI endpoint issues, resolving ValueErrors by setting environment variables or refactoring code.
@@ -31,9 +31,9 @@ The session aimed to test and integrate various CLI flows and OpenAI [[API]] fun
 - Diagnosed and fixed OpenAI connection issues in PromptFlow, adapting code for OpenAI [[API]] integration.
 
 ### Achievements
-- Successfully integrated OpenAI [[API]] with CLI flows, resolving multiple errors and enhancing automation capabilities.
+- Successfully integrated OpenAI [[API]] with [[CLI]] flows, resolving multiple errors and enhancing automation capabilities.
 - Improved the robustness of PromptFlow setups, ensuring compatibility with OpenAI configurations.
 
 ### Pending Tasks
 - Further optimization of flow execution to address token usage inefficiencies.
-- Continuous monitoring and testing of new CLI and [[API]] functionalities to maintain seamless integration.
+- Continuous monitoring and testing of new [[CLI]] and [[API]] functionalities to maintain seamless integration.

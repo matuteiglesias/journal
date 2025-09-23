@@ -18,7 +18,7 @@ The goal of this session was to set up and configure Rclone for syncing a local 
 
 ### Key Activities
 - **Syncing RAG_Sync Folder**: Initiated the process to sync the `RAG_Sync` folder with Google Drive using Rclone and integrate it with Supabase.
-- **Rclone Setup**: Installed and configured Rclone for Google Drive and Supabase integration, including automation options with cron, Supabase CLI, and n8n.
+- **Rclone Setup**: Installed and configured Rclone for Google Drive and Supabase integration, including automation options with cron, Supabase [[CLI]], and n8n.
 - **Google Drive [[Configuration]]**: Used the Rclone configuration wizard for Google Drive, selecting appropriate access levels and configuring OAuth tokens.
 - **Authentication**: Completed the authentication process with Rclone and Google Drive, troubleshooting issues related to authentication URLs and [[JSON]] credentials.
 - **[[Automation]]**: Configured cron jobs to automate the syncing process and verified the setup.

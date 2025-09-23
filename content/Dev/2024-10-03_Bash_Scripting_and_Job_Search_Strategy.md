@@ -20,7 +20,7 @@ The session aimed to enhance skills in Bash scripting for file management and to
 - **File Management with Bash**: Explored commands for analyzing directory sizes and listing file contents.
 - **Email and Teaching Role Analysis**: Planned email content analysis for academic responsibilities.
 - **ALC Course Memo Preparation**: Drafted a memo focusing on Algorithms course topics.
-- **Job Search Strategies**: Developed strategies for job applications outside Silicon Valley, focusing on data and [[AI]] roles.
+- **[[Job Search]] Strategies**: Developed strategies for job applications outside Silicon Valley, focusing on data and [[AI]] roles.
 - **LinkedIn Interaction Filtering**: Formulated a plan to prioritize valuable LinkedIn interactions for career development.
 - **Email Management**: Discussed creating a personalized email management system.
 

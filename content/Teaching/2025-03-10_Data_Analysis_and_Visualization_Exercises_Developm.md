@@ -20,7 +20,7 @@ The session focused on developing and refining exercises for data analysis and v
 - **Gestión de Reservas en una Base de Datos de Aerolínea**: Developed a guide for managing airline reservations using SQL, focusing on data integrity and reservation updates.
 - **Identification of Foreign Keys in Relational Databases**: Created exercises to help students identify foreign keys and propose integrity constraints.
 - **SQL Queries and Updates Exercise**: Designed exercises for advanced SQL queries and updates in relational databases.
-- **[[Data Analysis]] and [[Visualization]] with [[Python]]**: Developed exercises using [[Python]], [[Pandas]], and Plotnine for data processing and visualization, specifically analyzing datasets on serial killers.
+- **[[Data Analysis]] and Visualization with [[Python]]**: Developed exercises using [[Python]], [[Pandas]], and Plotnine for data processing and visualization, specifically analyzing datasets on serial killers.
 - **Code Review and [[Data Analysis]]**: Assisted in reviewing duplicated code for data visualization using Plotnine, focusing on normalization and polynomial fitting.
 
 ### Achievements

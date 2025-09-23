@@ -18,7 +18,7 @@ The session aimed to transition mapping projects from ARCGIS to Mapbox due to co
 
 ### Key Activities
 - Reviewed the 'Mapa Estadístico de la Pobreza' project, focusing on using Mapbox for interactive web maps to visualize socioeconomic data in Argentina.
-- Transitioned from ARCGIS to Mapbox, addressing initial challenges with the CLI that led to unexpected costs.
+- Transitioned from ARCGIS to Mapbox, addressing initial challenges with the [[CLI]] that led to unexpected costs.
 - Explored and documented best practices for using Mapbox, including cost benefits and learning experiences.
 
 ### Achievements

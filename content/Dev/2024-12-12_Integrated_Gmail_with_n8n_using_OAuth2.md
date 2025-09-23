@@ -24,7 +24,7 @@ The goal of this session was to set up and integrate Gmail with n8n using OAuth2
 - Deployed a minimal app on Google App Engine as a placeholder for OAuth authorization.
 - Resolved OAuth 2.0 redirect URI issues, including using public domains and reverse proxies.
 - Authenticated ngrok for secure tunneling.
-- Set up Google Cloud CLI for managing projects and credentials.
+- Set up Google Cloud [[CLI]] for managing projects and credentials.
 - Configured Gmail [[API]] with a service account, including permission verification and key generation.
 
 ### Achievements

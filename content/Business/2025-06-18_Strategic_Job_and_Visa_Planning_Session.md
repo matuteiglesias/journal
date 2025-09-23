@@ -17,7 +17,7 @@ publish: true
 The session aimed to explore strategic job application insights for data engineers and analyze visa options for digital nomads, particularly focusing on the Czech Republic.
 
 ### Key Activities
-1. **Strategic Job Application Insights**: Discussed the advantages of targeting specific job roles and organizations for data engineers, emphasizing the blend of technical and narrative skills.
+1. **Strategic [[Job Application]] Insights**: Discussed the advantages of targeting specific job roles and organizations for data engineers, emphasizing the blend of technical and narrative skills.
 2. **Job Match Analysis**: Categorized job opportunities based on alignment with technical strengths and market positioning.
 3. **Visa Options for Digital Nomads**: Explored various visa options in the Czech Republic, focusing on the Zivnostenský list (Freelance Trade License) and comparing with other EU visas.
 4. **Zivno Visa Feasibility Analysis**: Analyzed conditions and challenges for obtaining a Zivno visa in the Czech Republic.

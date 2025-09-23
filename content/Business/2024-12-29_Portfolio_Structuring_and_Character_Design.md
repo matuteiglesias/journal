@@ -20,7 +20,7 @@ The session aimed to structure a programming portfolio and design cartoon charac
 - Developed a framework for organizing a programming portfolio based on specific roles, focusing on project relevance and skills.
 - Created structured project cards for thematic GitHub repositories, including code examples and templates.
 - Updated `index.js` to include new role images for different professional roles.
-- Designed and refined cartoon characters for roles such as Geospatial Data Scientist, Economic Modeler, [[AI]] Innovator, Educational Leader, [[Data [[Visualization]]]] Specialist, and Software Engineer.
+- Designed and refined cartoon characters for roles such as Geospatial Data Scientist, Economic Modeler, [[AI]] Innovator, Educational Leader, [[Data Visualization]] Specialist, and Software Engineer.
 - Adjusted image sizes and UI components in project cards using CSS and TailwindCSS.
 - Configured and updated a contact form for email notifications using Nodemailer and Postmark.
 - Streamlined code by removing the 'Technologies' section and updating the portfolio template for ImpulseUX.

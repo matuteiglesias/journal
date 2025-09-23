@@ -19,7 +19,7 @@ The session aimed to explore various aspects of process management and Google Dr
 ### Key Activities
 1. **Marketing and Process Consulting**: Reviewed marketing strategies for ProcessDriven and insights on process consulting by Layla.
 2. **Process Structuring for Small Teams**: Discussed the importance of focusing on processes over roles for efficiency in small teams.
-3. **Google Drive [[Automation]]**: Provided instructions on listing and managing Google Drive files using CLI tools like `gsutil`, `rclone`, and `gdrive`.
+3. **Google Drive [[Automation]]**: Provided instructions on listing and managing Google Drive files using [[CLI]] tools like `gsutil`, `rclone`, and `gdrive`.
 4. **[[Troubleshooting]] and [[Configuration]]**: Offered guidance on configuring and troubleshooting `rclone` and `gdrive` for Google Drive access.
 5. **Knowledge Management**: Mapped process areas and knowledge structures to enhance workflow efficiency.
 6. **[[Workflow]] Reflection**: Reflected on Matias’s workflow structures, highlighting strengths and identifying challenges.

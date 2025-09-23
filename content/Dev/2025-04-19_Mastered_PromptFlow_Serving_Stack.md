@@ -21,10 +21,10 @@ The session aimed to explore and master the PromptFlow serving stack, focusing o
 - Analyzed the `promptflow/_cli/_pf/_service.py` file to understand its role as a service manager.
 - Explored the PromptFlow Server App architecture, focusing on its [[Flask]]-based microservice structure.
 - Compared [[Flask]] and FastAPI for Flowpower development, providing strategic recommendations.
-- Provided an overview of the PromptFlow ecosystem, detailing its SDK/Client, CLI, and Service App.
+- Provided an overview of the PromptFlow ecosystem, detailing its SDK/Client, [[CLI]], and Service App.
 - Compiled a final checklist for PromptFlow mapping, focusing on strategic implementation.
 - Outlined the architecture of Flowpower v1.1, detailing its components and deliverables.
-- Included instructions for using Visual Studio Code CLI for opening folders.
+- Included instructions for using Visual Studio Code [[CLI]] for opening folders.
 
 ### Achievements
 - Gained comprehensive insights into the PromptFlow serving stack and its components.

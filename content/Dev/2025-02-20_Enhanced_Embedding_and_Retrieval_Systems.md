@@ -32,4 +32,4 @@ The session aimed to enhance the efficiency and modularity of embedding and retr
 
 ### Pending Tasks
 - Further optimization of modular retrieval systems and exploration of additional caching strategies.
-- Continued enhancements to the CLI and embedder class for better performance.
+- Continued enhancements to the [[CLI]] and embedder class for better performance.

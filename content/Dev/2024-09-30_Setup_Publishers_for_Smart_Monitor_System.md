@@ -19,7 +19,7 @@ The session aimed to organize and implement the setup of multiple publishers for
 ### Key Activities
 - Organized the setup of publishers for the Smart Monitor System to manage data streams effectively.
 - Outlined a structured approach to setting up publishers using Google Cloud Pub/Sub for various data sources, including email, Telegram, RSS, LinkedIn, and calendar updates.
-- Switched GCP projects using the gcloud CLI and resumed the creation of Pub/Sub topics.
+- Switched GCP projects using the gcloud [[CLI]] and resumed the creation of Pub/Sub topics.
 - Transitioned data ingestion bots to use GCP Pub/Sub subscriptions, replacing direct `listen()` methods to enhance scalability and efficiency.
 - Implemented publishers to send data from email, Telegram, and RSS to Google Cloud Pub/Sub topics, with example scripts provided.
 - Integrated email fetching logic with GCP Pub/Sub using [[Python]] and `imaplib` to publish email data.

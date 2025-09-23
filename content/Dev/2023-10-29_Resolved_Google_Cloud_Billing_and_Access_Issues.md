@@ -19,8 +19,8 @@ The session aimed to resolve Google Cloud billing and access issues, ensuring pr
 ### Key Activities
 - Updated the 'NOMDPTO' column in a pandas DataFrame using a custom lambda function.
 - Uploaded files to Google Cloud and generated HTML tables from pandas DataFrames.
-- Set up Google Cloud CLI authentication and resolved billing account issues by checking account status and verifying project associations.
-- Assigned billing roles for the 'ArgentinianPovertyAtlas' project using both the Google Cloud Console and the gcloud CLI tool.
+- Set up Google Cloud [[CLI]] authentication and resolved billing account issues by checking account status and verifying project associations.
+- Assigned billing roles for the 'ArgentinianPovertyAtlas' project using both the Google Cloud Console and the gcloud [[CLI]] tool.
 - Created and configured Google Cloud Storage buckets, granting public access by assigning the 'Storage Object Viewer' role to `allUsers`.
 - Created a service account key and corrected file paths for public access to Google Cloud Storage.
 

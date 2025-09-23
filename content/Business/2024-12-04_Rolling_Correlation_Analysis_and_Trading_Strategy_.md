@@ -19,7 +19,7 @@ The session aimed to develop and refine strategies for rolling correlation analy
 ### Key Activities
 - **Expanded Plan for Rolling Correlation Analysis**: Developed a detailed plan for conducting rolling correlation analysis, including data preparation, calculation, and visualization.
 - **Interview Preparation**: Created an action plan for preparing rolling correlation visualizations for an interview.
-- **Improved [[Visualization]]**: Enhanced [[Python]] scripts for visualizing rolling correlations and asset price trends.
+- **Improved Visualization**: Enhanced [[Python]] scripts for visualizing rolling correlations and asset price trends.
 - **Recalibrating Investment Metrics**: Outlined a strategic approach to adjust metrics for CCM's investment strategy.
 - **Pairs Trading [[Strategy]]**: Provided a historical overview and structured trading strategy based on mean reversion.
 - **Correlation Matrix Analysis**: Analyzed correlation matrices for benchmark tickers to inform portfolio management.

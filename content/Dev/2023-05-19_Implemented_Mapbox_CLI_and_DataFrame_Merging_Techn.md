@@ -14,13 +14,13 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance data management capabilities using Mapbox CLI for tileset operations and improve data manipulation techniques with [[Pandas]].
+The session aimed to enhance data management capabilities using Mapbox [[CLI]] for tileset operations and improve data manipulation techniques with [[Pandas]].
 
 ### Key Activities
-- Utilized Mapbox CLI commands to manage tilesets related to income and poverty data, including uploading and publishing new tilesets.
+- Utilized Mapbox [[CLI]] commands to manage tilesets related to income and poverty data, including uploading and publishing new tilesets.
 - Demonstrated merging of [[Pandas]] DataFrames using multi-index and column-based techniques to resolve index mismatch issues.
 - Explored executing shell commands within [[Jupyter]] Notebooks to streamline tileset management.
-- Installed Mapbox CLI and addressed npm registry issues using alternative methods such as Yarn.
+- Installed Mapbox [[CLI]] and addressed npm registry issues using alternative methods such as Yarn.
 - Set up environment variables for Mapbox access token in [[Python]] to ensure seamless tileset operations.
 - Developed a Mapbox map comparison feature using HTML and JavaScript, including a dropdown menu for style selection.
 
@@ -30,5 +30,5 @@ The session aimed to enhance data management capabilities using Mapbox CLI for t
 - Enhanced web development skills by implementing a Mapbox map comparison feature.
 
 ### Pending Tasks
-- Further explore advanced Mapbox CLI features for more efficient data management.
+- Further explore advanced Mapbox [[CLI]] features for more efficient data management.
 - Investigate additional data manipulation techniques in [[Pandas]] to handle complex datasets more effectively.

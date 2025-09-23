@@ -20,7 +20,7 @@ The session aimed to explore various topics including strategic communication in
 1. **Business Negotiation Strategies**: Analyzed opposition tactics and strategic counters focusing on language, positioning, and communication strategies to strengthen community engagement.
 2. **Construction Materials**: Explored the use of telgopor dissolved in nafta for sustainable construction, discussing its benefits in insulation, weight reduction, and water resistance, along with safety considerations.
 3. **Concrete Preparation**: Provided instructions for preparing concrete with cement, nafta, and telgopor, including ingredient proportions and conservation methods.
-4. **[[Data Analysis]] and [[Visualization]]**: Demonstrated data filtering, merging, and visualization of vehicle attributes using pandas and seaborn, focusing on relationships with price.
+4. **[[Data Analysis]] and Visualization**: Demonstrated data filtering, merging, and visualization of vehicle attributes using pandas and seaborn, focusing on relationships with price.
 
 ### Achievements
 - Developed insights into strategic communication for business negotiations.

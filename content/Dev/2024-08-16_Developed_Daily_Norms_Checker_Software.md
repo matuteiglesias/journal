@@ -17,7 +17,7 @@ publish: true
 The primary goal of this session was to develop software to automatically check and download daily government norms published by Buenos Aires Province, focusing on resolutions from the current year.
 
 ### Key Activities
-- **[[Python]] Script for URL [[Data Extraction]]:** Utilized Requests, BeautifulSoup, and [[Pandas]] to parse URLs and extract relevant data.
+- **[[Python]] Script for URL Data Extraction:** Utilized Requests, BeautifulSoup, and [[Pandas]] to parse URLs and extract relevant data.
 - **HTML Structure Analysis:** Analyzed HTML structure to guide software architecture for data extraction.
 - **Software Architecture Design:** Developed a framework for web scraping, including pagination handling and data storage.
 - **[[Web Scraping]] Implementation:** Created a [[Python]] script to scrape resolution data, handle pagination, and store data in a [[Pandas]] DataFrame.

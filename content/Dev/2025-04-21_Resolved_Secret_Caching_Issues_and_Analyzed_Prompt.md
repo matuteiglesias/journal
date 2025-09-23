@@ -18,7 +18,7 @@ The primary goal of this session was to resolve secret caching issues in [[Promp
 
 ### Key Activities
 - **Resolved Secret Caching Issues**: Identified and addressed the root cause of secret caching issues in [[Promptflow]] by recreating connections with new [[API]] keys and deleting old caches.
-- **Analyzed Past Run Logs**: Provided a step-by-step guide on accessing and inspecting past run logs in PromptFlow using CLI commands.
+- **Analyzed Past Run Logs**: Provided a step-by-step guide on accessing and inspecting past run logs in PromptFlow using [[CLI]] commands.
 - **Analyzed Chat Async Stream Results**: Outlined steps to view output results and analyze detailed outcomes using a local web trace viewer.
 - **Battle-Tested Basic Chat Flow**: Utilized a checklist to validate and iterate over the Basic Chat flow, ensuring readiness for launch.
 - **Fixed [[API]] [[Configuration]]**: Corrected a [[Python]] script to use OpenAI's [[API]] configuration instead of Azure's, providing a working example.

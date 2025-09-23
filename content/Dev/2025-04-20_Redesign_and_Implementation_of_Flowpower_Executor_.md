@@ -19,7 +19,7 @@ The main goal of this session was to redesign the Flowpower Executor and impleme
 ### Key Activities
 - **Reimagining the Flowpower Executor**: A comprehensive redesign was outlined, focusing on its responsibilities, suggested signatures, and modular dispatch logic to enhance robustness and production readiness.
 - **Modular Executor Implementation**: Developed a modular version of the `executor.py` file for the Flowpower architecture, incorporating batch, node, and streaming execution capabilities using `PromptFlow`.
-- **[[Debugging]] PromptFlow**: Diagnosed input mapping issues in PromptFlow, providing solutions and suggesting CLI improvements.
+- **[[Debugging]] PromptFlow**: Diagnosed input mapping issues in PromptFlow, providing solutions and suggesting [[CLI]] improvements.
 - **[[API]] Server Setup**: Demonstrated how to set up an [[API]] server using FastAPI to run flows and trace their execution.
 - **RESTful Endpoints**: Implemented `endpoints.py` and `chat_adapter.py` for a RESTful and stream-capable application for Flowpower.
 
@@ -30,4 +30,4 @@ The main goal of this session was to redesign the Flowpower Executor and impleme
 
 ### Pending Tasks
 - Further testing of the redesigned executor and [[API]] server.
-- [[Optimization]] of the CLI based on debugging insights.
+- [[Optimization]] of the [[CLI]] based on debugging insights.

@@ -26,7 +26,7 @@ The goal of this session was to explore and understand the architecture and inte
 - Compared Cerebrum with PromptFlow, highlighting integration strategies.
 - Investigated the integration of PromptFlow DAGs with Cerebrum agents.
 - Introduced the `AutoTool` class for tool management.
-- Explored the CLI and execution entry point of the SDK.
+- Explored the [[CLI]] and execution entry point of the SDK.
 
 ### Achievements
 - Gained comprehensive insights into the Cerebrum SDK's architecture and its orchestration capabilities.

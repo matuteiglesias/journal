@@ -22,7 +22,7 @@ The session aimed to enhance understanding of key financial statements and explo
 - **Cash Flow Statement Overview**: Provided a guide on constructing and understanding the Cash Flow Statement.
 - **Comparative Analysis**: Explored the relationship between the Cash Flow Statement and the Income Statement.
 - **Quantitative Analyst Competencies**: Outlined essential skills for quantitative analysts.
-- **Job Application Strategies**: Developed tailored responses for job applications at Connective Capital Management.
+- **[[Job Application]] Strategies**: Developed tailored responses for job applications at Connective Capital Management.
 - **Salary Negotiation**: Discussed salary expectations for remote quantitative analyst roles in Argentina.
 
 ### Achievements

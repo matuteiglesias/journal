@@ -22,10 +22,10 @@ The session focused on enhancing the PromptFlow runner script, resolving issues,
 - **Dynamic Environment Variable Resolution**: Planned a utility function to replace environment variable patterns in data structures.
 - **Fixing ValueError in PromptFlow Command**: Provided solutions for errors in the `fp create` command.
 - **Killer Developer UX Layer for PromptFlow**: Planned features for a UX layer on top of PromptFlow.
-- **Branding [[Strategy]] for `power` CLI**: Outlined a branding strategy for the CLI tool `power`.
+- **Branding [[Strategy]] for `power` [[CLI]]**: Outlined a branding strategy for the [[CLI]] tool `power`.
 - **Creative Naming Options for Developer Tools**: Explored modular and developer-focused naming options.
 - **Final Naming Stack Proposal for PowerAI**: Proposed naming conventions for PowerAI project layers.
-- **Designing the Flowpower CLI (`fp`)**: Outlined design principles for the Flowpower CLI.
+- **Designing the Flowpower [[CLI]] (`fp`)**: Outlined design principles for the Flowpower [[CLI]].
 
 ### Achievements
 - Enhanced the `runner.py` script for better performance and logging.

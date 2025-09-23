@@ -18,7 +18,7 @@ The aim of this session was to explore and develop data policies for universitie
 
 ### Key Activities
 - **Estimating Treatment Effects:** Explored methods such as matched pairs and DID estimator using [[Python]].
-- **[[Data [[Visualization]]]]:** Enhanced scatter plot visualizations using [[Matplotlib]] and Seaborn.
+- **[[Data Visualization]]:** Enhanced scatter plot visualizations using [[Matplotlib]] and Seaborn.
 - **Data Policies:** Developed frameworks for data policies in universities, addressing privacy, security, and ethical use.
 - **Collaboration Strategies:** Planned strategies for academic-public partnerships and fostering interdisciplinary collaboration.
 - **Understanding Bias:** Reflected on attenuation bias in regression analysis and methods to mitigate it.

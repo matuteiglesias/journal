@@ -22,7 +22,7 @@ The session aimed to enhance the deployment and debugging processes for a FastAP
 - Developed a phased strategy for fullstack [[AI]] product development, emphasizing efficiency and bug minimization.
 - Finalized a minimal FastAPI backend for Phase 2, including code customizations and testing instructions.
 - Addressed a critical edge case in flow input handling, ensuring correct data loading from YAML files.
-- Analyzed differences between CLI and [[API]] flow execution, providing troubleshooting steps.
+- Analyzed differences between [[CLI]] and [[API]] flow execution, providing troubleshooting steps.
 - Merged `run()` methods for `PromptBlock`, enhancing debugging and error handling.
 - Diagnosed and proposed fixes for FastAPI POST request errors and connection issues with OpenAI's [[API]].
 - Validated startup logs and suggested next steps for [[API]] connectivity and system validations.
@@ -30,7 +30,7 @@ The session aimed to enhance the deployment and debugging processes for a FastAP
 ### Achievements
 - Successfully created and tested a Docker deployment setup for a FastAPI application.
 - Improved input handling and error diagnostics for FastAPI services.
-- Enhanced debugging strategies for both CLI and [[API]] executions.
+- Enhanced debugging strategies for both [[CLI]] and [[API]] executions.
 
 ### Pending Tasks
 - Implement suggested next steps from startup log validation, including model list checks and health check routes.

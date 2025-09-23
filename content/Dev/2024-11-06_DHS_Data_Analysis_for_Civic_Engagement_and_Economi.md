@@ -31,4 +31,4 @@ The session aimed to explore DHS survey data to gain insights into civic engagem
 
 ### Pending Tasks
 - Further refinement of data processing steps and analysis code for comprehensive reporting.
-- [[Visualization]] of analysis outcomes for stakeholder presentations.
+- Visualization of analysis outcomes for stakeholder presentations.

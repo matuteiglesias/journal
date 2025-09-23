@@ -18,7 +18,7 @@ The session aimed to outline and plan various educational modules related to dat
 
 ### Key Activities
 - **Web Interaction and Data Formats**: Discussed best practices for web scraping, [[API]] usage, and handling various data formats.
-- **[[Data [[Visualization]]]] and Analysis**: Structured sessions on data visualization and exploratory data analysis, emphasizing visual design and best practices.
+- **[[Data Visualization]] and Analysis**: Structured sessions on data visualization and exploratory data analysis, emphasizing visual design and best practices.
 - **Modeling Techniques**: Outlined sessions covering types of models, model selection, development, evaluation, and deployment.
 - **Model Validation**: Planned sessions on model validation techniques, including evaluation metrics and hyperparameter tuning.
 

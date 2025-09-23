@@ -36,4 +36,4 @@ The session aimed to enable Developer Options and USB [[Debugging]] on a Galaxy 
 - Exploration of additional user-friendly data access methods.
 
 ### Tags
-`WhatsApp`, `[[Data Extraction]]`, `Android`, `[[Troubleshooting]]`, `Safety`
+`WhatsApp`, `Data Extraction`, `Android`, `[[Troubleshooting]]`, `Safety`

@@ -22,12 +22,12 @@ The primary goal of this session was to debug and enhance the connection managem
 - Explored PromptFlow's connection management system, emphasizing the use of YAML and environment variables.
 - Addressed 'Load entity error' by editing YAML files and setting environment variables.
 - Resolved [[API]] key issues by providing direct solutions for YAML configuration.
-- Reverse-engineered the PromptFlow CLI connection lifecycle to understand pre-resolved environment variable requirements.
-- Investigated PromptFlow CLI architecture to improve debugging strategies.
+- Reverse-engineered the PromptFlow [[CLI]] connection lifecycle to understand pre-resolved environment variable requirements.
+- Investigated PromptFlow [[CLI]] architecture to improve debugging strategies.
 
 ### Achievements
 - Successfully identified and resolved several connection issues related to [[API]] keys and environment variables.
-- Improved understanding of PromptFlow's connection management and CLI architecture.
+- Improved understanding of PromptFlow's connection management and [[CLI]] architecture.
 
 ### Pending Tasks
 - Further testing of the revised connection management setup to ensure stability.

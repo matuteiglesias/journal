@@ -19,7 +19,7 @@ The main objective of this session was to create a BigQuery table for census dat
 ### Key Activities
 - **Creating a BigQuery Table**: Followed steps to enable the BigQuery [[API]], create a dataset, load data from [[CSV]] files, and verify the table's creation.
 - **[[Troubleshooting]] `bq` Command Errors**: Provided a guide to resolve issues with the `bq` command, including installation and authentication tips.
-- **BigQuery CLI Load Command**: Addressed issues with the `bq load` command, checking authentication and project selection.
+- **BigQuery [[CLI]] Load Command**: Addressed issues with the `bq load` command, checking authentication and project selection.
 - **[[CSV]] Upload and Verification**: Outlined steps to verify table existence and reattempt [[CSV]] upload after interruptions.
 - **Data Access and Sharing**: Detailed instructions for granting access to BigQuery tables and querying data, including permission settings.
 

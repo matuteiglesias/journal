@@ -18,7 +18,7 @@ The session aimed to create and evaluate structured journals for various ongoing
 
 ### Key Activities
 - **Session Logs Overview**: Analyzed session logs formatted as DataFrames for project tagging and analysis.
-- **Project Event Log**: Reviewed events from May 29 to June 9, focusing on CRM, Portfolio, Job Search, and Family Finances.
+- **Project Event Log**: Reviewed events from May 29 to June 9, focusing on CRM, Portfolio, [[Job Search]], and Family Finances.
 - **[[CSV]] Session Log**: Processed raw [[CSV]] logs with project labels for development and analysis tasks.
 - **Job Market [[Strategy]] Journal**: Created and reflected on a journal for job market strategies, focusing on postdoc and freelance opportunities.
 - **Media Monitor Journal**: Established a journal for media monitoring, detailing development and future directions.

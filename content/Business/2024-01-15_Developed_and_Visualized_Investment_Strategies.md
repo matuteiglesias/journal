@@ -20,7 +20,7 @@ The session aimed to explore and develop investment strategies utilizing financi
 - **Investment Strategies**: Discussed various strategies such as trend following, momentum investing, and dollar-cost averaging, emphasizing the need for backtesting.
 - **[[Data Processing]]**: Outlined steps for processing monthly price data and testing trading strategies, including data acquisition and iterative refinement.
 - **[[Data Analysis]]**: Developed methods for analyzing investment opportunities by calculating period returns and aligning them with observations.
-- **[[Data [[Visualization]]]]**: Implemented [[Python]] code to visualize stock data using [[Matplotlib]], including scatter plots and color maps for enhanced analysis.
+- **[[Data Visualization]]**: Implemented [[Python]] code to visualize stock data using [[Matplotlib]], including scatter plots and color maps for enhanced analysis.
 - **[[Troubleshooting]]**: Addressed common issues with [[Pandas]] styling in VS Code, providing solutions for rendering styled DataFrames.
 
 ### Achievements

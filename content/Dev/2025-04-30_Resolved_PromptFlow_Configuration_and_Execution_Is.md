@@ -25,12 +25,12 @@ The primary goal of this session was to design, correct, and execute a [[Python]
 - Created a valid `run.yml` file to resolve errors and ensure proper execution.
 - Corrected configuration files `flow.dag.yaml` and `run.yml` for job data processing.
 - Addressed and resolved PromptFlow UserErrorException by specifying correct flow directory.
-- Fixed and clarified the use of PromptFlow CLI commands for proper flow execution.
+- Fixed and clarified the use of PromptFlow [[CLI]] commands for proper flow execution.
 
 ### What was Achieved
 - Successfully designed and fixed the `submission_handler.py` script.
 - Resolved runtime errors and UserErrorExceptions in PromptFlow.
-- Configured and executed PromptFlow with corrected YAML files and CLI commands.
+- Configured and executed PromptFlow with corrected YAML files and [[CLI]] commands.
 
 ### Pending Tasks
 - Further testing of the PromptFlow setup with additional datasets.

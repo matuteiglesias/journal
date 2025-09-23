@@ -20,7 +20,7 @@ The session aimed to explore best practices for designing modular [[Python]] app
 - Reviewed modular project structures for [[AI]] agents to ensure scalable architecture.
 - Identified core areas for mastering platform architecture, including modular design and dependency management.
 - Discussed best practices for structured metadata handling using `pydantic` and `dataclasses`.
-- Explored deployment strategies using Gradio and Streamlit on Hugging Face Spaces.
+- Explored deployment strategies using Gradio and [[Streamlit]] on Hugging Face Spaces.
 - Evaluated scaling strategies and integration of existing tools in Hugging Face deployments.
 - Reflected on the use of `@dataclass` in configuration models and PromptFlow's architectural insights.
 - Developed strategies for integrating PromptFlow's tracing capabilities into AIOS.

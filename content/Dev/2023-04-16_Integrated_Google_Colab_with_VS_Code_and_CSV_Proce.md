@@ -19,7 +19,7 @@ The session aimed to explore integration techniques between Google Colab and Vis
 ### Key Activities
 - **[[Integration]] Insight**: Discussed the integration of Google Colab and Visual Studio Code, highlighting extensions that facilitate enhanced coding workflows.
 - **[[CSV]] Processing with [[Pandas]]**: Provided a step-by-step guide and code snippets for reading and processing [[CSV]] files using pandas, focusing on selecting specific columns and looping through multiple files.
-- **Regex for [[Data Extraction]]**: Demonstrated the use of regular expressions to extract roots from variable names in [[CSV]] files, including error handling and pattern modifications to ensure robustness.
+- **Regex for Data Extraction**: Demonstrated the use of regular expressions to extract roots from variable names in [[CSV]] files, including error handling and pattern modifications to ensure robustness.
 - **Data Manipulation**: Showcased techniques for filtering and saving [[CSV]] data, converting roots to lowercase, and concatenating geographic columns in a DataFrame.
 
 ### Achievements

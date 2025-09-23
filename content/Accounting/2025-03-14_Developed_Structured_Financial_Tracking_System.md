@@ -30,4 +30,4 @@ The session aimed to develop a comprehensive framework for tracking personal fin
 
 ### Pending Tasks
 - Implementation of the proposed systems and templates.
-- [[Visualization]] of financial data through diagrams as suggested.
+- Visualization of financial data through diagrams as suggested.

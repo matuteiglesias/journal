@@ -21,7 +21,7 @@ The primary goal of this session was to enhance and automate the management of G
 - Implemented a solution to accurately retrieve parent folder names for files, especially in shared drives.
 - Exported a full directory tree from Google Drive using `gdrive4` and mapped file IDs to folder paths.
 - Created a structured workflow for exporting and reconstructing a Google Drive index using command line and [[Python]] scripts.
-- Configured `gdrive` CLI to authenticate with a Google Cloud service account for secure access.
+- Configured `gdrive` [[CLI]] to authenticate with a Google Cloud service account for secure access.
 - Set up `rclone` to work with Google Drive, generating a structured [[CSV]] from folder and file data.
 - Troubleshot issues related to DNS resolution errors and empty [[CSV]] file generation.
 

@@ -21,7 +21,7 @@ The session aimed to address issues in [[Python]] data processing and enhance co
 - **Code Modularization**: Improved and modularized data processing code by encapsulating repeated patterns into functions and using loops for combinations of `agruplista` and `difftag`. This included saving data in GeoJSON format.
 - **Electoral [[Data Analysis]]**: Developed a [[Python]] procedure to analyze electoral groupings by region and section, calculating vote percentages for 2019 and 2023 elections.
 - **[[Markdown]] Presentation Generation**: Created [[Python]] scripts to generate [[Markdown]] presentations with tables of votes and percentages, organized by region and section.
-- **[[Visualization]] of Votes and Percentages**: Generated structured tables comparing election results from 2019 and 2023, filtering data to highlight relevant information.
+- **Visualization of Votes and Percentages**: Generated structured tables comparing election results from 2019 and 2023, filtering data to highlight relevant information.
 
 ### Achievements
 - Successfully implemented error handling for quantile computations.

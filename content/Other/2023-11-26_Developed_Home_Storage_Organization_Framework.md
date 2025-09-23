@@ -21,7 +21,7 @@ The session aimed to develop a comprehensive framework for organizing home stora
 - **Room-Specific Solutions**: Outlined storage solutions for a plant room, intermediate room, and garage, including furniture and organization strategies.
 - **Inventory System**: Developed a hierarchical inventory system to track and organize household items effectively.
 - **Visual Layouts**: Created visual representations of organized storage solutions, detailing various storage options like shelving units and wall-mounted racks.
-- **[[Visualization]] Prompts**: Provided detailed prompts for visualizing storage spaces and a multi-purpose intermediate room for crafts and DIY projects.
+- **Visualization Prompts**: Provided detailed prompts for visualizing storage spaces and a multi-purpose intermediate room for crafts and DIY projects.
 
 ### Achievements
 - Developed a structured approach to home storage organization with specific room solutions and visualization techniques.

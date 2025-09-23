@@ -18,7 +18,7 @@ The session aimed to explore the potential of [[AI]] orchestration and refine jo
 
 ### Key Activities
 1. **[[AI]] Orchestration**: Discussed the distinction between using [[AI]] as a simple tool versus integrating it as a core component in systems. Explored concepts like 'Context Architecture' and the tipping point of [[AI]] as a multiplier.
-2. **Job Search Frameworks**: Reviewed and structured a job application pipeline, focusing on weekly check-ins and prioritization.
+2. **[[Job Search]] Frameworks**: Reviewed and structured a job application pipeline, focusing on weekly check-ins and prioritization.
 3. **Product Management Insights**: Reflected on strategic lessons for product managers, emphasizing monetization and team building.
 4. **[[AI]] in Codebase Analysis**: Discussed leveraging [[AI]] for code analysis, focusing on modularity and product management principles.
 5. **Learning and [[Productivity]]**: Reflected on Matías's learning journey and productivity systems, highlighting the transition from builder to orchestrator.

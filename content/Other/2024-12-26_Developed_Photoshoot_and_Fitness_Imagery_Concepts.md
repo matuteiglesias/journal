@@ -21,7 +21,7 @@ The session aimed to develop creative concepts for photoshoots and fitness image
 - **Urban Fashion Photography**: Developed a prompt for capturing urban fashion photography, focusing on confidence and modern style.
 - **Image Feedback**: Provided feedback on a simulated image, emphasizing a confident and approachable vibe.
 - **Fitness Photography**: Described a gym workout scene to capture fitness and athleticism in a modern setting.
-- **Fitness [[Visualization]]**: Simulated a fitness routine visualization, inviting feedback for refinement.
+- **Fitness Visualization**: Simulated a fitness routine visualization, inviting feedback for refinement.
 
 ### Achievements
 - Established detailed concepts for both lifestyle and fitness-related photography.

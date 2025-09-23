@@ -22,7 +22,7 @@ The session aimed to enhance the [[AI]] streaming user experience using the Prom
 - Updated `flow.py` for OpenAI compatibility, including tool call support.
 - Demonstrated OpenAI's function calling compatibility with `tool_calls` in the `chat` [[API]].
 - Outlined a comprehensive plan for testing a tool-using chat flow.
-- Addressed CLI parsing issues and provided solutions for input handling.
+- Addressed [[CLI]] parsing issues and provided solutions for input handling.
 - Fixed errors related to missing `init.json` and command path issues in Flex-Flows.
 - Resolved connection issues in PromptFlow configurations.
 - Transitioned towards designing a scalable [[AI]] workflow platform.

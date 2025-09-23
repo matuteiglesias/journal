@@ -21,7 +21,7 @@ The session aimed to analyze correlations between economic time series, specific
 - **DataFrame Manipulation**: Provided instructions for selecting columns using `serie_id` and defining the `equivalent_series` DataFrame.
 - **Function Definition**: Proposed defining the `find_equivalent_series` function for further data manipulation.
 - **[[Troubleshooting]]**: Addressed missing DataFrames and undefined variables, offering solutions for context restoration and variable redefinition.
-- **[[Data [[Visualization]]]]**: Enhanced plot aesthetics using [[Matplotlib]] and Seaborn, and generated plots for financial variables.
+- **[[Data Visualization]]**: Enhanced plot aesthetics using [[Matplotlib]] and Seaborn, and generated plots for financial variables.
 - **Time Series Alignment**: Developed methods for aligning time series data with different units using resampling and proportionality factors.
 
 ### Achievements

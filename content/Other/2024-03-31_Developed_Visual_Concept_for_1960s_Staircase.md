@@ -18,8 +18,8 @@ The session aimed to conceptualize and enhance the visual design of a staircase 
 
 ### Key Activities
 - **Photograph Description**: Analyzed a photograph depicting a stark staircase in a typical Southern European apartment from the 1960s, emphasizing its utilitarian design.
-- **[[Visualization]]**: Created a visual prompt for a minimalistic staircase design, focusing on architectural elements.
-- **[[Visualization]] Adjustment**: Made adjustments to emphasize minimalist design with stark contrasts, such as black marble steps against flat white walls.
+- **Visualization**: Created a visual prompt for a minimalistic staircase design, focusing on architectural elements.
+- **Visualization Adjustment**: Made adjustments to emphasize minimalist design with stark contrasts, such as black marble steps against flat white walls.
 - **Refined Visual Concept**: Developed a refined concept focusing on minimalism and functionality in constrained spaces.
 - **Interior Design Enhancements**: Suggested enhancements for minimalist decor, including wall paintings, artwork placement, light installations, and mirrors.
 - **Corridor Design [[Strategy]]**: Explored design strategies for corridors, emphasizing the use of artwork and mirrors to enhance lighting and spatial dynamics.

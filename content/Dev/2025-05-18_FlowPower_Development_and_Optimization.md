@@ -24,7 +24,7 @@ The session aimed at advancing the development and optimization of the FlowPower
 - **Observability Layer Implementation**: Implemented I/O and traceability layers for improved diagnostics.
 - **YAML Schema Analysis**: Analyzed YAML headers and designed introspective tools.
 - **Prompty Class [[Integration]]**: Integrated the `Prompty` class into the FlowPower execution engine.
-- **CLI [[Debugging]] and [[Refactoring]]**: Enhanced the FlowPower CLI using the Typer library.
+- **[[CLI]] [[Debugging]] and [[Refactoring]]**: Enhanced the FlowPower [[CLI]] using the Typer library.
 
 ### Achievements
 - Improved system diagnostics and debugging capabilities.
@@ -34,4 +34,4 @@ The session aimed at advancing the development and optimization of the FlowPower
 ### Pending Tasks
 - Further exploration of [[AI]] identity and agency.
 - Continued development of introspective tools for YAML analysis.
-- Ongoing improvements to the FlowPower CLI.
+- Ongoing improvements to the FlowPower [[CLI]].

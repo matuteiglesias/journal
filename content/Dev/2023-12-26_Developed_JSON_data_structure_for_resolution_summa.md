@@ -20,7 +20,7 @@ publish: true
 2. **Standard [[JSON]] Prompt**: Developed a standardized prompt for automating [[JSON]] data structure generation, including [[API]] usage instructions.
 3. **[[Python]] Code for Extraction**: Implemented [[Python]] code to extract resolutions and dispositions from summaries, organizing them with date and text.
 4. **Code Correction**: Corrected the [[Python]] code to prevent overwriting of 'date' and 'summary' by using a list of dictionaries.
-5. **[[API]] Prompt for [[Data Extraction]]**: Crafted a prompt for [[API]] to analyze summaries and extract key actions and objects, ensuring a coherent data structure.
+5. **[[API]] Prompt for Data Extraction**: Crafted a prompt for [[API]] to analyze summaries and extract key actions and objects, ensuring a coherent data structure.
 
 **Achievements**: Successfully created templates and code for organizing and extracting data from resolution summaries, with a corrected data structure approach.
 

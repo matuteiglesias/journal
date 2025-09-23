@@ -30,4 +30,4 @@ The goal of this session was to perform a comprehensive data analysis on various
 
 ### Pending Tasks
 - Further analysis on correlations between different resource access and socioeconomic outcomes.
-- [[Visualization]] of the data insights for presentation purposes.
+- Visualization of the data insights for presentation purposes.

@@ -21,7 +21,7 @@ The session aimed to deepen the understanding of `run()` functions within the Pr
 - Clarified the concept of 'client' in technology, covering [[API]] clients, SDK clients, and client-server architecture.
 - Explored the execution logic of PromptFlow, including the `PFClient._run(...)` method.
 - Analyzed the Run class in Flowpower, focusing on metadata and execution management.
-- Planned a strategic transition to a Tech Lead/Product Engineer role by designing a minimalistic SDK and CLI toolkit for PromptFlow.
+- Planned a strategic transition to a Tech Lead/Product Engineer role by designing a minimalistic SDK and [[CLI]] toolkit for PromptFlow.
 - Detailed the orchestration and execution management in PromptFlow, emphasizing integration with Flowpower.
 - Examined the `AbstractExecutorProxy` in PromptFlow for executing flows.
 

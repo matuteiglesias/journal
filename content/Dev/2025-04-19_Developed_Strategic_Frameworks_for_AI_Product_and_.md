@@ -17,7 +17,7 @@ publish: true
 The session was aimed at planning and strategizing the development and enhancement of [[AI]] products and platforms, with a focus on PromptFlow and FlowPower.
 
 ### Key Activities
-- Created a mirrored CLI strategy for PromptFlow modules to wrap commands without altering internals.
+- Created a mirrored [[CLI]] strategy for PromptFlow modules to wrap commands without altering internals.
 - Outlined an Open Source System (OSS) for enhancing developer experience with PromptFlow.
 - Developed a strategy for open source and platform integration, focusing on monetization and orchestration.
 - Compared FlowPower and LangGraph frameworks, highlighting advantages of FlowPower.

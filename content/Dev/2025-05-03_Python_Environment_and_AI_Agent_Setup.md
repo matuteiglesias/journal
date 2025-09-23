@@ -25,8 +25,8 @@ The session aimed to resolve [[Python]] environment issues, set up [[AI]] agent 
 - Resolved [[Python]] virtual environment conflicts and ensured proper package installations.
 - Refactored `AutoTool` implementation and integrated it into `TestAgent`.
 - Explored Cerebrum SDK reference implementation and local agent loading with `AgentManager`.
-- Developed workflows for tool management in Cerebrum/AIOS and scaffolded CLI for tool validation.
-- Reviewed CLI-based agent execution and planned system testing and deployment.
+- Developed workflows for tool management in Cerebrum/AIOS and scaffolded [[CLI]] for tool validation.
+- Reviewed [[CLI]]-based agent execution and planned system testing and deployment.
 
 ### Achievements
 - Successfully resolved [[Python]] environment and import issues.

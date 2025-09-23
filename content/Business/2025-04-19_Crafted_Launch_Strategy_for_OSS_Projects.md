@@ -22,7 +22,7 @@ The session aimed to develop a strategic framework for indie open-source softwar
 - Discussed the Unix Philosophy in [[AI]] development, focusing on simplicity and modularity.
 - Explored the concept of earned intuition in development and community building.
 - Generated creative branding alternatives for 'Powered by FlowPower'.
-- Outlined methods for tracking installs for CLI/SDK with privacy considerations.
+- Outlined methods for tracking installs for [[CLI]]/SDK with privacy considerations.
 - Planned a developer-lifestyle content engine to boost engagement through video marketing.
 - Developed a full-stack guide for solo technical founders launching dev-focused products.
 
@@ -32,6 +32,6 @@ The session aimed to develop a strategic framework for indie open-source softwar
 - Proposed innovative branding and content marketing strategies.
 
 ### Pending Tasks
-- Implementation of the tracking dashboard for CLI/SDK installs.
+- Implementation of the tracking dashboard for [[CLI]]/SDK installs.
 - Execution of the developer-lifestyle content engine strategy.
 - Further exploration of branding alternatives.

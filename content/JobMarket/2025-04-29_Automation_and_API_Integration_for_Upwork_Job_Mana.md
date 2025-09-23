@@ -18,7 +18,7 @@ The goal of this session was to explore and implement automation strategies for 
 
 ### Key Activities
 - **Strategic Job Triage:** Analyzed job opportunities related to [[API]] integrations, categorizing them into high-quality, mid-tier, and low-priority jobs.
-- **Job Application Navigation:** Developed a structured approach for applying to jobs, enhancing productivity through tailored proposal templates.
+- **[[Job Application]] Navigation:** Developed a structured approach for applying to jobs, enhancing productivity through tailored proposal templates.
 - **ETL [[Automation]] Prioritization:** Created a prioritized list of ETL automation jobs to aid in decision-making.
 - **Proposal Drafting:** Prepared customized proposal drafts for QA Engineer and ETL Architect positions.
 - **[[Troubleshooting]] Upwork Features:** Investigated issues with Upwork's save search feature and proposed solutions.

@@ -1,0 +1,32 @@
+---
+title: "Developed DBF to CSV extraction and CLI tool"
+tags: ['Python', 'DBF', 'CSV', 'CLI', 'Data Extraction']
+created: 2025-09-07
+publish: true
+---
+
+## 📅 2025-09-07 — Session: Developed DBF to CSV extraction and CLI tool
+
+**🕒 19:05–19:15**  
+**🏷️ Labels**: Python, DBF, CSV, CLI, Data Extraction  
+**📂 Project**: Dev  
+**⭐ Priority**: MEDIUM  
+
+
+### Session Goal
+The session aimed to develop a comprehensive tool for extracting DBF files and converting them into [[CSV]] format, along with implementing a command-line interface for managing data extraction tasks.
+
+### Key Activities
+- Developed a [[Python]] script for extracting DBF files from specified input directories, applying optional column exclusions, and generating corresponding [[CSV]] files in organized output directories.
+- Implemented the `extract_dbf_to_csv` function in `extractor.py`, enabling recursive directory traversal and file classification.
+- Completed the scaffold for `extractor.py`, integrating logic for DBF to [[CSV]] conversion and export functionality.
+- Created a command-line interface ([[CLI]]) for the eph-extractor, including commands for fetching, extracting, and verifying data from the EPH dataset.
+
+### Achievements
+- Successfully developed and integrated the DBF to [[CSV]] extraction script and [[CLI]] tool.
+- Completed the scaffold for `extractor.py` with logic for recursive directory traversal and export functionality.
+
+### Pending Tasks
+- Add unit tests to ensure the functionality of the extractor.
+- Complete the implementation of `validator.py` and `metadata.py`.
+- Adjust the [[CLI]] to accommodate new functionalities.

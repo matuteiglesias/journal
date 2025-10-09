@@ -19,9 +19,9 @@ The primary goal of this session was to enhance the job search automation pipeli
 ### Key Activities
 - **Database Schema and Relationships:** Explored the database schema for the SERP scraper, detailing tables and relationships.
 - **Modular Product Structure:** Identified weaknesses in the modular design, including issues with data validation and error tracking.
-- **[[Pipeline]] Architecture Refinement:** Analyzed and refined the job search automation pipeline, breaking it into logical stages and improving modularity.
+- **Pipeline Architecture Refinement:** Analyzed and refined the job search automation pipeline, breaking it into logical stages and improving modularity.
 - **Monolithic Logic Split:** Planned the architectural breakdown of monolithic logic into distinct scripts.
-- **[[Python]] [[Scripting]]:** Developed and executed scripts for fetching SERP data, labeling and scoring job domains, and converting [[CSV]] to JSONL format.
+- **[[Python]] Scripting:** Developed and executed scripts for fetching SERP data, labeling and scoring job domains, and converting [[CSV]] to JSONL format.
 - **PromptFlow Error Resolution:** Addressed local path issues in PromptFlow, ensuring smooth local execution.
 
 ### Achievements

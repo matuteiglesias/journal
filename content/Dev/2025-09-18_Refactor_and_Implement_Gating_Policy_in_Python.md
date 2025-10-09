@@ -17,19 +17,19 @@ publish: true
 The session aimed to refactor and implement a gating policy for data processing in [[Python]], focusing on enhancing configurability and maintainability.
 
 ### Key Activities
-- Designed a 'pairs [[EDA]]' module, outlining API surface and migration strategies.
+- Designed a 'pairs EDA' module, outlining [[API]] surface and migration strategies.
 - Refined a [[Python]] function for edge set generation, improving type safety and sorting.
 - Adjusted gating thresholds for graph population and implemented a new `GatePolicy` object.
 - Refactored bridge functions to delegate gating to a `subsets()` function.
 - Implemented gating policy integration with subsets functionality, including [[CLI]] support.
 - Troubleshot and resolved [[Python]] import issues, focusing on shadowing and relative imports.
-- Conducted exploratory data analysis ([[EDA]]) on tag-pair outputs using [[Python]] scripts.
-- Developed a one-command workflow for [[EDA]] and cohort building using shell scripts.
+- Conducted exploratory data analysis (EDA) on tag-pair outputs using [[Python]] scripts.
+- Developed a one-command workflow for EDA and cohort building using shell scripts.
 
 ### Achievements
 - Successfully centralized gating policies into a `GatePolicy` object and enhanced configurability with a `compute_gates()` function.
 - Improved [[Python]] import management and resolved issues related to shadowing and relative imports.
-- Developed comprehensive [[EDA]] scripts for analyzing tag-pair outputs and cohort data.
+- Developed comprehensive EDA scripts for analyzing tag-pair outputs and cohort data.
 
 ### Pending Tasks
 - Further refine gating thresholds based on additional data insights.

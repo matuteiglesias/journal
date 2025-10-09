@@ -14,20 +14,20 @@ publish: true
 
 
 ### Session Goal
-The session aimed to resolve deployment issues encountered when deploying a [[Flask]] application on Google App Engine using Gunicorn.
+The primary goal of this session was to deploy a [[Flask]] application on Google App Engine using Gunicorn and troubleshoot any arising issues.
 
 ### Key Activities
-- Explored the use of `app.run()` in [[Flask]] for local development and configured deployment settings for Google App Engine.
+- Configured the [[Flask]] application for deployment on Google App Engine, focusing on the `create_app()` function and Gunicorn settings.
 - Addressed the 'Failed to find application object' error by verifying import paths, the application factory function, and environment configurations.
-- Provided a step-by-step guide to troubleshoot deployment issues, with a focus on the `create_app()` function and Gunicorn configuration.
-- Ensured correct specification of the application factory function in the Gunicorn entry point within the `app.yaml` file.
-- Diagnosed deployment issues by checking configuration, logging, and potential solutions.
-- Ensured `main.py` was correctly located in the application directory and configured logging in the [[Flask]] application.
+- Debugged deployment issues by checking the `app.yaml` configuration and ensuring the correct placement of `main.py`.
+- Enhanced the [[Flask]] application's `main.py` with logging capabilities to facilitate debugging.
+- Utilized [[Git]] to clone older versions of the repository for local testing and incremental updates.
 
 ### Achievements
-- Successfully identified and resolved configuration and deployment issues related to the [[Flask]] application on Google App Engine.
-- Implemented logging to aid in future debugging efforts.
+- Successfully configured the Gunicorn entry point in `app.yaml` and resolved the `create_app()` function error.
+- Improved logging setup in the [[Flask]] application to capture deployment logs effectively.
+- Identified and resolved key deployment issues, ensuring the [[Flask]] application runs smoothly on Google App Engine.
 
 ### Pending Tasks
-- Further testing of the deployment in a production-like environment to ensure stability and performance.
-- Monitor logs for any new issues that may arise during continued deployment efforts.
+- Further testing of the deployment process to ensure stability and address any new issues that may arise.
+- Continuous monitoring of logs to detect and resolve potential errors promptly.

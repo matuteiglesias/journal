@@ -14,18 +14,20 @@ publish: true
 
 
 ### Session Goal
-The session aimed to develop strategies for enhancing leadership dynamics and fostering inclusivity within La Cámpora, a political group. The focus was on strategic alliances, communication, and cultural transformation.
+The goal of this session was to explore and develop strategies for enhancing leadership dynamics and fostering inclusivity within the political group La Cámpora. The focus was on strategic alliances, communication, and cultural transformation.
 
 ### Key Activities
-- Reflected on leadership and organizational dynamics strategies, emphasizing inclusivity and strategic planning.
-- Outlined strategic approaches for promoting effective leadership and communication within the group.
-- Provided actionable steps for regaining influence in group dynamics through strategic planning.
-- Discussed strategies for communicating value and influence within a group, highlighting the importance of showcasing achievements.
-- Planned an intervention in a political group, focusing on documentation and narrative crafting.
-- Created a guide for documenting workplace experiences to address undervaluation and exclusion issues.
+- Reflected on leadership and organizational dynamics strategies for La Cámpora, emphasizing strategic alliances and cultural transformation.
+- Outlined key strategies for promoting inclusivity and fostering effective leadership, including building alliances and implementing distributed leadership.
+- Developed actionable steps for regaining influence within a group through effective communication and strategic planning.
+- Explored strategies for effectively communicating achievements and influence within a group, highlighting the importance of showcasing accomplishments and navigating group dynamics.
+- Planned an intervention in a political group, focusing on documentation, narrative crafting, ally identification, and maintaining professionalism.
+- Provided a guide for documenting workplace experiences and preparing comprehensive reports to address undervaluation and exclusion within an organization.
 
 ### Achievements
-- Developed a comprehensive set of strategies and guides to enhance leadership and influence within La Cámpora.
+- Developed a comprehensive set of strategies and guides for enhancing leadership and influence within La Cámpora.
+- Clarified the importance of strategic communication and alliance-building in political advocacy.
 
 ### Pending Tasks
-- Implement the developed strategies and monitor their effectiveness within the group.
+- Implement the developed strategies within La Cámpora and evaluate their effectiveness.
+- Continue refining communication and documentation practices to better align with organizational goals.

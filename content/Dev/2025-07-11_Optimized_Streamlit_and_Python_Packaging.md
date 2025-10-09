@@ -13,23 +13,23 @@ publish: true
 **⭐ Priority**: MEDIUM  
 
 
-**Session Goal**: The session aimed to optimize [[Streamlit]] applications and [[Python]] packaging for improved modularity, error handling, and distribution.
+**Session Goal**: The session aimed to optimize Streamlit applications and [[Python]] packaging for improved modularity, error handling, and distribution.
 
 **Key Activities**:
-- Implemented a [[JSON]] schema editor in [[Streamlit]] for better configuration management.
-- Centralized path management in [[Streamlit]] apps using a `paths.py` file.
-- Fixed pipeline execution issues in [[Streamlit]], enhancing the UI and button functionality.
+- Implemented a [[JSON]] schema editor in Streamlit for better configuration management.
+- Centralized path management in Streamlit apps using a `paths.py` file.
+- Fixed pipeline execution issues in Streamlit, enhancing the UI and button functionality.
 - Developed a monetization strategy for a job parsing pipeline, including cloud and local distribution.
 - Proposed a directory structure for [[Python]] packaging and created an installable package.
-- Used pipreqs to generate `requirements.txt` and optimized [[Streamlit]] app structure.
-- Addressed [[Python]] and [[Streamlit]] issues on Ubuntu, fixing import errors and subprocess invocation.
+- Used pipreqs to generate `requirements.txt` and optimized Streamlit app structure.
+- Addressed [[Python]] and Streamlit issues on Ubuntu, fixing import errors and subprocess invocation.
 - Improved path handling and refactored [[Python]] script execution for modularity.
-- Managed environment variables for subprocesses and created a [[Streamlit]] UI for API key configuration.
+- Managed environment variables for subprocesses and created a Streamlit UI for [[API]] key configuration.
 
 **Achievements**:
-- Successfully integrated a [[JSON]] schema editor into [[Streamlit]].
+- Successfully integrated a [[JSON]] schema editor into Streamlit.
 - Established best practices for path and file management in [[Python]] packages.
-- Enhanced user experience in [[Streamlit]] applications.
+- Enhanced user experience in Streamlit applications.
 - Developed a comprehensive monetization and distribution strategy for job parsing.
 - Improved error handling and modularity in [[Python]] scripts.
 

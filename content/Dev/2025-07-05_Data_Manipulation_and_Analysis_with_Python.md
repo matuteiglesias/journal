@@ -22,7 +22,7 @@ The objective of this session was to explore and implement various data manipula
 - **Excel File Loading**: Demonstrated loading an Excel file with pandas to retrieve sheet names and data into a DataFrame.
 - **Data Parsing and Analysis**: Developed functions to parse amounts and currencies from strings, applied these to DataFrame columns, and summarized spending amounts by currency.
 - **[[Data Analysis]] Techniques**: Counted rows, parsed dates, calculated total fees, and computed average prices from DataFrame data.
-- **Binance [[Data Ingestion]]**: Conducted an overview of Binance 'Buy Crypto' data ingestion, including health checks and mapping to a transaction schema.
+- **Binance Data Ingestion**: Conducted an overview of Binance 'Buy Crypto' data ingestion, including health checks and mapping to a transaction schema.
 
 ### Achievements
 - Successfully loaded and manipulated Excel data using pandas.

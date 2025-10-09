@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Data Processing and Jupyter Notebook Automation"
-tags: ['Data Processing', 'Jupyter Automation', 'Pandas', 'Geopandas', 'Command Line']
+tags: ['Data Processing', 'Jupyter', 'Automation', 'Python', 'Pandas']
 created: 2023-03-27
 publish: true
 ---
@@ -8,25 +8,24 @@ publish: true
 ## 📅 2023-03-27 — Session: Enhanced Data Processing and Jupyter Notebook Automation
 
 **🕒 17:10–18:05**  
-**🏷️ Labels**: Data Processing, Jupyter Automation, Pandas, Geopandas, Command Line  
+**🏷️ Labels**: Data Processing, Jupyter, Automation, Python, Pandas  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal:
-The session aimed to improve data processing techniques and automate the conversion of [[Jupyter]] notebooks to different formats.
+### Session Goal
+The session aimed to improve data processing capabilities and automate the conversion of [[Jupyter]] notebooks into different formats.
 
-### Key Activities:
-- Conducted a comparison between old and new versions of data processing code, focusing on improvements like merging with country shapes and creating unique project location identifiers.
-- Modified DataFrames using [[Pandas]] and GeoPandas to explode geographical columns and include new calculated columns such as `even_split_totalamt`.
-- Cleaned DataFrame columns by removing commas and converting strings to floats.
-- Automated the conversion of [[Jupyter]] notebooks to PDF and HTML formats using command-line tools like `jupyter nbconvert` and `find`, excluding checkpoint files.
-- Utilized Unix command history to efficiently locate and reuse `nbconvert` commands.
+### Key Activities
+- **Code Comparison:** Reviewed and compared old and new versions of data processing code, focusing on enhancements such as merging with country shapes and creating unique identifiers.
+- **DataFrame Modifications:** Implemented modifications to DataFrames using [[Pandas]] and GeoPandas, including exploding geographical columns and adding new columns like `even_split_totalamt`.
+- **Data Cleaning:** Applied methods to clean data by removing commas and converting strings to floats.
+- **[[Jupyter]] Notebook Conversion:** Automated the conversion of [[Jupyter]] notebooks to PDF and HTML formats using command-line tools like `jupyter nbconvert` and `find`, ensuring checkpoint files were excluded.
+- **Command History and Execution:** Utilized Unix command line tools to search command history and execute batch conversions using the `-exec` option.
 
-### Achievements:
-- Successfully refactored data processing code to enhance functionality and clarity.
-- Implemented automation scripts for converting [[Jupyter]] notebooks, improving workflow efficiency.
+### Achievements
+- Successfully enhanced data processing scripts for better functionality and integration.
+- Automated the conversion of [[Jupyter]] notebooks, improving workflow efficiency.
 
-### Pending Tasks:
-- Further testing of the new data processing code to ensure robustness.
-- Explore additional automation opportunities for other data formats or environments.
+### Pending Tasks
+- Review and optimize the automation scripts for further efficiency gains.

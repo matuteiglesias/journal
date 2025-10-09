@@ -23,7 +23,7 @@ The session aimed to develop a structured video script and establish a comprehen
 
 3. **[[Task Management]]**: Methods for structuring tasks based on the calendar were discussed, focusing on prioritizing low-friction, high-leverage activities.
 
-4. **Monday Schedule Optimization**: A detailed breakdown of the Monday schedule was created, categorizing tasks into 'Keep as-is', 'Reschedule/Adapt', and 'Critical Focus'.
+4. **Monday Schedule [[Optimization]]**: A detailed breakdown of the Monday schedule was created, categorizing tasks into 'Keep as-is', 'Reschedule/Adapt', and 'Critical Focus'.
 
 5. **Onboarding Manual Structure**: An onboarding manual for pipeline orchestration was structured, covering project overview, folder structure, pipeline flow, execution instructions, and more.
 

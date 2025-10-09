@@ -1,30 +1,32 @@
 ---
 title: "Developed and Analyzed Greedy Pairing Algorithm"
-tags: ['Greedy Algorithm', 'Python', 'Backtracking', 'Optimization']
+tags: ['Python', 'Greedy Algorithm', 'Backtracking', 'Optimization', 'Algorithm Analysis']
 created: 2023-08-19
 publish: true
 ---
 
 ## 📅 2023-08-19 — Session: Developed and Analyzed Greedy Pairing Algorithm
 
-**🕒 18:55–19:35**  
-**🏷️ Labels**: Greedy Algorithm, Python, Backtracking, Optimization  
+**🕒 18:55–19:30**  
+**🏷️ Labels**: Python, Greedy Algorithm, Backtracking, Optimization, Algorithm Analysis  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
-**Session Goal:**
-The session aimed to implement and analyze a greedy algorithm for pairing dancers based on their skills and weights, and to compare its optimality with a backtracking approach.
+### Session Goal
+The session aimed to develop and analyze a greedy algorithm for pairing dancers based on their skills and weights, and to compare its optimality against a backtracking approach.
 
-**Key Activities:**
-- Implemented a greedy algorithm in [[Python]] to pair dancers, focusing on skills and weights.
-- Analyzed the algorithm's optimality and compared it with backtracking solutions.
-- Discussed the benefits and limitations of greedy versus backtracking strategies in algorithm design.
-- Streamlined the code for clarity and efficiency, ensuring optimal local pairings.
+### Key Activities
+- Implemented a greedy algorithm in [[Python]] to pair dancers efficiently.
+- Conducted an analysis of the algorithm's optimality and compared it with backtracking solutions.
+- Streamlined the algorithm code for clarity and efficiency.
+- Introduced the concept of `suma_minima_costo` using a heap data structure for cost minimization problems.
 
-**Achievements:**
-- Successfully implemented a functional greedy pairing algorithm.
-- Conducted a comparative analysis of greedy and backtracking approaches, with initial results showing optimal pairings using the greedy method.
+### Achievements
+- Successfully implemented and tested a greedy algorithm that paired dancers optimally on the first attempt.
+- Simplified the algorithm code by removing unnecessary comments and focusing on core functionality.
+- Laid groundwork for future comparisons with backtracking methods to further validate the solution's optimality.
 
-**Pending Tasks:**
-- Further verification of the greedy algorithm's optimality through detailed comparison with backtracking results.
+### Pending Tasks
+- Conduct a detailed comparison between the greedy algorithm and backtracking approach to fully assess optimality.
+- Explore further applications of the `suma_minima_costo` function in different problem domains.

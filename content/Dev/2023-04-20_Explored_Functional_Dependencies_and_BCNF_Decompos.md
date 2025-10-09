@@ -1,34 +1,33 @@
 ---
 title: "Explored Functional Dependencies and BCNF Decomposition"
-tags: ['Python', 'BCNF', 'Functional Dependencies', 'Database Design', 'Pandas']
+tags: ['Python', 'BCNF', 'Functional Dependencies', 'Database Normalization', 'Decomposition']
 created: 2023-04-20
 publish: true
 ---
 
 ## 📅 2023-04-20 — Session: Explored Functional Dependencies and BCNF Decomposition
 
-**🕒 15:10–17:30**  
-**🏷️ Labels**: Python, BCNF, Functional Dependencies, Database Design, Pandas  
+**🕒 15:10–17:50**  
+**🏷️ Labels**: Python, BCNF, Functional Dependencies, Database Normalization, Decomposition  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal
-The session aimed to explore the concepts of functional dependencies and Boyce-Codd Normal Form (BCNF) decomposition in database design, focusing on practical implementations using [[Python]].
+**Session Goal:**
+The session aimed to explore the concepts of functional dependencies, database normalization, and decomposition algorithms, focusing on BCNF and 3NF.
 
-### Key Activities
-- Reviewed [[Python]] tools for detecting relationships in [[CSV]] files and constructing relational database schemas.
-- Explored the concept of closure of attributes in functional dependencies and its application in online shopping and data warehousing.
+**Key Activities:**
+- Reviewed [[Python]] libraries for detecting relationships in [[CSV]] files and constructing relational databases.
+- Discussed the closure of attributes in functional dependencies and its application in database theory.
 - Analyzed customer orders using pandas to project functional dependencies.
-- Implemented and explained the BCNF decomposition algorithm in [[Python]], including a modified lossless version.
-- Discussed the use of libraries like `pydeequ`, `pdvega`, and `py_entitymatching` for schema inference and normalization checks.
-- Provided code examples for BCNF decomposition using SQL and pandas, and demonstrated the implementation of functions for checking prime attributes and computing attribute closures.
+- Examined the BCNF decomposition algorithm and its implementation in [[Python]], including a modified version ensuring lossless decomposition.
+- Implemented functions to check prime attributes and compute attribute closure.
+- Explored the decomposition of tables to remove redundancy and verify 4NF.
 
-### Achievements
-- Successfully implemented BCNF decomposition algorithms in [[Python]], ensuring data integrity through lossless decomposition.
-- Clarified the mathematical proof of attribute closure and its implications in database normalization.
-- Developed a comprehensive understanding of functional dependencies and their role in database design.
+**Achievements:**
+- Gained insights into the use of [[Python]] tools for schema inference and normalization checks.
+- Developed a deeper understanding of functional dependencies and normalization techniques, particularly BCNF and 3NF.
 
-### Pending Tasks
-- Further exploration of 4NF verification and decomposition techniques to address multi-valued dependencies.
-- Consideration of additional [[Python]] libraries for advanced database normalization and schema inference.
+**Pending Tasks:**
+- Further investigation into multi-valued dependencies and their impact on database design.
+- Implementation of more comprehensive examples for 4NF verification.

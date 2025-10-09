@@ -1,36 +1,33 @@
 ---
 title: "Implemented OCR for Grocery Store Tickets"
-tags: ['OCR', 'Python', 'Data Analysis', 'Automation', 'Grocery Store']
+tags: ['OCR', 'Python', 'Data Analysis', 'Tesseract', 'Easyocr']
 created: 2024-08-11
 publish: true
 ---
 
 ## 📅 2024-08-11 — Session: Implemented OCR for Grocery Store Tickets
 
-**🕒 17:00–18:20**  
-**🏷️ Labels**: OCR, Python, Data Analysis, Automation, Grocery Store  
+**🕒 17:05–18:20**  
+**🏷️ Labels**: OCR, Python, Data Analysis, Tesseract, Easyocr  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to implement Optical Character Recognition (OCR) on grocery store tickets to digitize and analyze the data.
+The primary goal of this session was to implement Optical Character Recognition (OCR) for digitizing grocery store tickets to facilitate data analysis.
 
 ### Key Activities
-- Planned the OCR implementation using Tesseract and EasyOCR.
-- Set up Tesseract OCR for Spanish language support.
-- Explored alternative OCR solutions such as EasyOCR and cloud-based services.
-- Installed and configured EasyOCR for local [[Python]] environment.
-- Developed [[Python]] scripts to process images, perform OCR, and handle data.
-- Implemented code to concatenate OCR text and save results to [[CSV]].
-- Integrated Pytesseract for OCR in [[Python]] scripts.
-- Processed images to extract text and save results in text and [[CSV]] formats.
-- Reconstructed and structured [[CSV]] data from extracted text.
+- **Planning & Setup**: Initiated the session with a plan to use Tesseract OCR in [[Python]] for processing grocery store tickets.
+- **Language [[Configuration]]**: Addressed issues with Spanish language data files for Tesseract, providing guidance on setting up Spanish language support.
+- **Exploration of Alternatives**: Considered alternative OCR solutions like EasyOCR, Google Cloud Vision, and Amazon Textract for handling multiple languages.
+- **Implementation**: Installed and configured EasyOCR, and developed [[Python]] scripts to process images, extract text, and save results in [[CSV]] format.
+- **[[Integration]]**: Integrated Pytesseract as an alternative OCR tool, ensuring seamless functionality with existing scripts.
 
 ### Achievements
-- Successfully set up and configured OCR tools for processing grocery store tickets.
-- Developed a workflow to extract and structure data from images into [[CSV]] format.
+- Successfully set up OCR using both EasyOCR and Pytesseract.
+- Developed scripts for processing images, extracting text, and saving results in structured [[CSV]] files.
+- Created a structured [[CSV]] format for product data, including quantities, prices, descriptions, and discounts.
 
 ### Pending Tasks
-- Evaluate the accuracy of OCR results and make necessary adjustments.
-- Consider further automation for continuous data processing.
+- Further testing of OCR accuracy and performance across different ticket formats.
+- Exploration of cloud-based OCR solutions for enhanced language support and scalability.

@@ -1,35 +1,34 @@
 ---
 title: "Analyzed Statistical and Economic Models"
-tags: ['Statistical Models', 'Economic Models', 'Game Theory', 'Logistic Regression', 'Dynamic Optimization']
+tags: ['Logit Model', 'Multinomial Regression', 'Dynamic Optimization', 'Game Theory', 'Cournot Duopoly']
 created: 2024-09-09
 publish: false
 ---
 
 ## 📅 2024-09-09 — Session: Analyzed Statistical and Economic Models
 
-**🕒 19:55–00:00**  
-**🏷️ Labels**: Statistical Models, Economic Models, Game Theory, Logistic Regression, Dynamic Optimization  
+**🕒 20:00–23:55**  
+**🏷️ Labels**: Logit Model, Multinomial Regression, Dynamic Optimization, Game Theory, Cournot Duopoly  
 **📂 Project**: Other  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to deepen understanding and analysis of various statistical and economic models, focusing on interpretation, estimation, and application.
+The session aimed to interpret various statistical and economic models, focusing on logistic regression coefficients, multinomial logistic regression, dynamic optimization, and game theory models.
 
 ### Key Activities
-- **Interpreted Logit Model Coefficients**: Clarified the distinction between log-odds and odds ratios in voting probability.
-- **Estimated Betas in Multinomial Logistic Regression**: Provided a guide on using frequency data for estimation.
-- **Interpreted Multinomial Logit Model Coefficients**: Focused on effects of education and voter status on voting likelihood.
-- **Dynamic [[Optimization]] Model Analysis**: Explored household preferences and capital accumulation.
-- **Steady-State Output Equations Analysis**: Evaluated neoclassical growth models and tax effects.
-- **Calculated Critical Discount Factor in Cournot Duopoly**: Used [[Python]] to compute factors for collusion.
-- **Equilibrium Action in Bayesian Equilibrium**: Analyzed sender's actions in equilibrium.
-- **Nash Equilibrium and Collusion Analysis**: Reviewed and corrected calculations in Cournot duopoly.
+- Interpreted logit model coefficients in the context of voting probabilities, emphasizing the importance of exponentiating coefficients for accurate interpretation.
+- Outlined steps to estimate betas in multinomial logistic regression using frequency data, including dataset organization and model setup.
+- Provided a structured approach to interpreting coefficients of a Multinomial Logit model, focusing on education and voting behavior.
+- Explored a dynamic optimization model for household preferences, capital accumulation, and taxation effects.
+- Analyzed steady-state output equations in a neoclassical growth model, identifying strengths and weaknesses in various equations.
+- Calculated the critical discount factor for collusion in a Cournot duopoly using [[Python]] code.
+- Examined equilibrium actions in a separating Perfect Bayesian Equilibrium and analyzed Nash equilibrium and collusion in Cournot duopoly.
 
 ### Achievements
-- Gained insights into interpreting complex statistical models and economic theories.
-- Developed [[Python]] scripts for economic model analysis.
+- Clarified the interpretation of logit and multinomial logit model coefficients.
+- Developed a dynamic optimization model and analyzed steady-state equations.
+- Computed critical discount factors for Cournot duopoly and examined Bayesian Equilibrium.
 
 ### Pending Tasks
-- Further validation and testing of economic model calculations.
-- Application of insights to real-world data scenarios.
+- Further refine the analysis of Nash equilibrium and collusion calculations in the Cournot duopoly to address identified errors.

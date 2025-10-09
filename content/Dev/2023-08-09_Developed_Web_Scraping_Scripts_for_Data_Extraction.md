@@ -1,31 +1,32 @@
 ---
 title: "Developed Web Scraping Scripts for Data Extraction"
-tags: ['Web Scraping', 'Python', 'Beautifulsoup', 'Data Extraction', 'Automation']
+tags: ['Web Scraping', 'Python', 'Data Extraction', 'Beautifulsoup', 'Error Handling']
 created: 2023-08-09
 publish: true
 ---
 
 ## 📅 2023-08-09 — Session: Developed Web Scraping Scripts for Data Extraction
 
-**🕒 14:55–16:25**  
-**🏷️ Labels**: Web Scraping, Python, Beautifulsoup, Data Extraction, Automation  
+**🕒 14:55–17:40**  
+**🏷️ Labels**: Web Scraping, Python, Data Extraction, Beautifulsoup, Error Handling  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
-**Session Goal:**
-The session aimed to develop and refine [[Python]] scripts for web scraping tasks, focusing on extracting detailed information from HTML content.
+### Session Goal
+The primary goal of this session was to develop and refine [[Python]] scripts for web scraping, focusing on extracting various types of information from HTML content.
 
-**Key Activities:**
-- Developed [[Python]] scripts using the `requests` and `BeautifulSoup` libraries to download web pages and extract relevant data.
-- Analyzed HTML structures to identify tags and classes for targeted data extraction.
-- Implemented error handling mechanisms to manage potential issues during data extraction.
-- Updated code to avoid deprecation warnings, ensuring compatibility with the latest library versions.
-- Created functions to scrape specific data, such as faculty and thesis details, and store them in pandas DataFrames.
+### Key Activities
+- **[[Web Scraping]] Code Development**: Initiated with a [[Python]] script using the `requests` library to download web pages and save them as HTML files.
+- **HTML Analysis**: Analyzed HTML files to understand their structure for effective data scraping.
+- **[[Data Extraction]]**: Developed scripts to extract teacher and faculty details using BeautifulSoup, targeting specific HTML tags and classes.
+- **[[Error Handling]]**: Incorporated error handling mechanisms to avoid common pitfalls like IndexErrors and KeyErrors.
+- **Deprecation Warning Fix**: Updated code to replace deprecated methods, ensuring compatibility with the latest libraries.
+- **Thesis Details Scraping**: Created functions to scrape thesis details, including error handling for robust data extraction.
 
-**Achievements:**
-- Successfully created scripts to extract teacher and teaching assistant details, including names, emails, and homepage URLs.
-- Developed a robust scraping function for thesis details, incorporating error handling for reliable data extraction.
+### Achievements
+- Successfully developed multiple [[Python]] scripts for web scraping tasks, including extracting teacher and thesis details.
+- Improved scripts with error handling and updated methods to avoid deprecation warnings.
 
-**Pending Tasks:**
-- Further testing and validation of the scraping scripts to ensure accuracy and robustness across different HTML structures.
+### Pending Tasks
+- Further testing and validation of scraping scripts on different HTML structures to ensure robustness and accuracy.

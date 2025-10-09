@@ -1,6 +1,6 @@
 ---
 title: "Troubleshooting and Monitoring Docker Containers"
-tags: ['Docker', 'Containerization', 'Troubleshooting', 'Monitoring', 'SSH', 'Best Practices']
+tags: ['Docker', 'Containerization', 'Troubleshooting', 'Monitoring', 'SSH']
 created: 2023-08-29
 publish: true
 ---
@@ -8,25 +8,25 @@ publish: true
 ## 📅 2023-08-29 — Session: Troubleshooting and Monitoring Docker Containers
 
 **🕒 05:45–06:05**  
-**🏷️ Labels**: Docker, Containerization, Troubleshooting, Monitoring, SSH, Best Practices  
+**🏷️ Labels**: Docker, Containerization, Troubleshooting, Monitoring, SSH  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal:
-Explore and document best practices for troubleshooting and monitoring Docker containers.
+### Session Goal: 
+The session aimed to enhance understanding and practical skills in containerization, focusing on Docker troubleshooting and monitoring.
 
 ### Key Activities:
-- Reflected on containerization logs, focusing on Docker image extraction and Kubernetes integration.
-- Developed a step-by-step guide for troubleshooting Docker container issues, covering container status, log inspection, and network problems.
-- Explained how to execute Docker commands on both local and remote machines using SSH.
-- Provided best practices for monitoring and maintaining services in containerized environments, including log checking, backups, and updates.
-- Outlined the basics of monitoring services and containers with Docker, focusing on commands for checking container status and resource usage.
+- **Understanding Containerization Logs:** Reviewed key components of logs related to containerization, emphasizing Docker image extraction and Kubernetes integration.
+- **[[Troubleshooting]] Docker Issues:** Followed a step-by-step guide to address common Docker container problems, such as checking container status and addressing network issues.
+- **Running Docker Commands:** Explored methods to execute Docker commands on local and remote machines, including SSH access and handling permissions.
+- **Best Practices for Monitoring:** Discussed best practices for monitoring and maintaining services in containerized environments, including log checking, backups, and documentation.
 
 ### Achievements:
-- Clarified the process of pulling and extracting Docker images.
-- Created comprehensive guides for troubleshooting Docker issues and running Docker commands remotely.
-- Established a checklist for service monitoring and maintenance in containerized setups.
+- Gained insights into Docker container logs and troubleshooting techniques.
+- Developed a workflow for running Docker commands across different environments.
+- Established a checklist for monitoring and maintaining containerized services.
 
 ### Pending Tasks:
-- Further exploration of advanced Docker orchestration techniques and integration with Kubernetes.
+- Implement the monitoring practices discussed into existing systems.
+- Further explore Kubernetes integration with Docker for enhanced orchestration.

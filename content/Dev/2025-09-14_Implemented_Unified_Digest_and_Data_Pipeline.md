@@ -21,7 +21,7 @@ The session aimed to enhance the data processing and automation systems by imple
 - **[[Data Processing]]:** Developed a script to iterate through content dictionaries, displaying text length and previews for efficient data review.
 - **Data Governance and Publication [[Strategy]]:** Designed a comprehensive strategy for data ingestion, normalization, and publication, incorporating [[JSON]] schema definitions, multi-level synthesis pipelines, and quality observance.
 - **Unified Digest System:** Created a unified digest system to integrate session logs and event digests into a cohesive publishing pipeline using [[Python]] scripts.
-- **[[Pipeline]] Optimization:** Developed a pipeline to process log-events and sessions as unified units, facilitating deterministic digest generation and [[MDX]] publishing.
+- **Pipeline [[Optimization]]:** Developed a pipeline to process log-events and sessions as unified units, facilitating deterministic digest generation and MDX publishing.
 - **Digest Management Improvement:** Formulated strategies to enhance digest management within automation workflows, focusing on governance and deterministic processes.
 
 ### Achievements

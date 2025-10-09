@@ -26,12 +26,12 @@ The main objective was to diagnose and fix issues related to metadata loading an
 - Fixed location handling in job search queries to merge with `search_term` for semantic searching.
 - Corrected query construction in code to enhance functionality by combining search terms and location.
 - Refactored `run_remotive_fetch` function for consistent query handling.
-- Identified and resolved API query issues in the job fetching script, improving handling of location suffixes.
+- Identified and resolved [[API]] query issues in the job fetching script, improving handling of location suffixes.
 
 ### Achievements
 - Improved [[CLI]] and metadata handling in the pipeline execution context.
 - Enhanced error handling and script execution reliability.
-- Optimized query construction and API interaction, leading to more accurate job search results.
+- Optimized query construction and [[API]] interaction, leading to more accurate job search results.
 
 ### Pending Tasks
 - Further testing of the refactored script to ensure robust performance in various scenarios.

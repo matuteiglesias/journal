@@ -18,7 +18,7 @@ The session aimed to develop a comprehensive framework for a professional dossie
 
 ### Key Activities
 - **Creating a Professional Dossier:** Discussed the structure and purpose of a professional dossier to complement traditional CVs and cover letters, emphasizing interactive demonstrations of expertise.
-- **Integration of Professional Axes:** Outlined the integration of five professional axes—Researcher, Engineer, GIS Expert, Consultant, and Communicator—to substantiate a candidate's profile.
+- **[[Integration]] of Professional Axes:** Outlined the integration of five professional axes—Researcher, Engineer, GIS Expert, Consultant, and Communicator—to substantiate a candidate's profile.
 - **Structuring a Four-Part Dossier:** Planned the structure of a dossier with interconnected roles, focusing on narrative coherence and effective communication.
 - **Designing a Researcher Section:** Developed a structured approach for the 'Researcher' section, highlighting academic identity and core research projects.
 - **Polishing the Researcher Section:** Provided actionable steps for finalizing the 'Researcher' section, including formatting and consistency.

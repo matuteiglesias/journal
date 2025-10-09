@@ -17,8 +17,8 @@ publish: true
 The session aimed to troubleshoot and enhance integrations with Jina [[AI]] and SQLite, focusing on resolving errors and improving caching mechanisms.
 
 ### Key Activities
-- **[[Troubleshooting]] Jina [[AI]] Unauthorized Error**: Steps were taken to verify API key validity and environment settings.
-- **[[Debugging]] Jina API Key Issues**: A systematic approach was outlined to handle API key verification and rate limits.
+- **[[Troubleshooting]] Jina [[AI]] Unauthorized Error**: Steps were taken to verify [[API]] key validity and environment settings.
+- **[[Debugging]] Jina [[API]] Key Issues**: A systematic approach was outlined to handle [[API]] key verification and rate limits.
 - **Cached Embedder Function**: Developed a [[Python]] function to cache text embeddings using SQLite.
 - **[[Refactoring]] ChromaDB Setup**: Improved a [[Python]] script for setting up ChromaDB, enhancing readability and security.
 - **Resolving Chroma Initialization Errors**: Addressed errors by providing solutions for conflicting settings.
@@ -28,10 +28,10 @@ The session aimed to troubleshoot and enhance integrations with Jina [[AI]] and 
 - **Resolving `cached_embed` Undefined Error**: Provided solutions for undefined errors in function design.
 
 ### Achievements
-- Successfully resolved several API and database errors.
+- Successfully resolved several [[API]] and database errors.
 - Enhanced caching strategies for embedding logic.
 - Improved code readability and maintainability.
 
 ### Pending Tasks
 - Further testing of the caching mechanism in production environments.
-- Continuous monitoring of API key usage and rate limits.
+- Continuous monitoring of [[API]] key usage and rate limits.

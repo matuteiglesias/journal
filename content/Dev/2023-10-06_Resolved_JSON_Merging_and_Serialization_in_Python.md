@@ -1,6 +1,6 @@
 ---
 title: "Resolved JSON Merging and Serialization in Python"
-tags: ['JSON', 'Python', 'Merging', 'Serialization', 'Debugging']
+tags: ['Python', 'JSON', 'Merging', 'Serialization', 'Customencoder']
 created: 2023-10-06
 publish: true
 ---
@@ -8,24 +8,24 @@ publish: true
 ## 📅 2023-10-06 — Session: Resolved JSON Merging and Serialization in Python
 
 **🕒 22:40–23:40**  
-**🏷️ Labels**: JSON, Python, Merging, Serialization, Debugging  
+**🏷️ Labels**: Python, JSON, Merging, Serialization, Customencoder  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal
-The goal of this session was to address and fix issues related to [[JSON]] merging and serialization in [[Python]], ensuring data integrity and correct handling of data structures.
+**Session Goal**: The primary goal was to address and resolve issues related to merging [[JSON]] structures in [[Python]] and to implement custom serialization and deserialization techniques.
 
-### Key Activities
-- **Empanada Recipe**: Briefly reviewed a traditional empanada recipe, focusing on cooking techniques and ingredient tips.
-- **[[JSON]] Merging**: Identified and fixed a problem with merging hierarchical [[JSON]] structures, specifically preventing duplicate grouper values.
-- **Code Execution**: Attempted to execute and refine the [[JSON]] merging process, addressing code execution issues.
-- **Recursive Merging Function**: Developed a recursive function for merging [[JSON]] structures, ensuring data integrity.
-- **Custom Serialization**: Implemented custom serialization and deserialization techniques using [[Python]]'s `JSONEncoder`, maintaining boolean case and handling specific data types.
+**Key Activities**:
+- Explored traditional cooking with a recipe for oven-baked empanadas, setting a creative context for the session.
+- Investigated a [[JSON]] merging issue in [[Python]], focusing on preventing duplicate grouper values and ensuring correct updating of Q values.
+- Developed and refined a [[Python]] function `merge_jsons` to handle hierarchical [[JSON]] merging, including recursive approaches.
+- Implemented custom serialization and deserialization functions to maintain data integrity, particularly for [[Python]]'s boolean values.
+- Integrated a `CustomJSONEncoder` to facilitate customized [[JSON]] handling, allowing for specific serialization of complex data types like tuples.
 
-### Achievements
-- Successfully resolved [[JSON]] merging issues by implementing a recursive merging function.
-- Developed custom serialization and deserialization methods to handle [[Python]]-specific data types effectively.
+**Achievements**:
+- Successfully resolved [[JSON]] merging issues with a robust recursive function.
+- Enhanced [[JSON]] handling capabilities with a custom encoder to address serialization needs.
 
-### Pending Tasks
-- Further testing and validation of the [[JSON]] merging and serialization functions in different scenarios to ensure robustness.
+**Pending Tasks**:
+- Further testing of the custom [[JSON]] functions in diverse scenarios to ensure robustness.
+- [[Documentation]] of the new [[JSON]] handling techniques for future reference.

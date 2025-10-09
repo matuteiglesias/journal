@@ -1,6 +1,6 @@
 ---
 title: "Refactored Diamond Pricing Model with MLOps Integration"
-tags: ['Mlops', 'Machine Learning', 'Project Structure', 'Api Integration', 'Bash']
+tags: ['Mlops', 'Machine Learning', 'Project Structure', 'Api Integration', 'SGD', 'Bash Scripting']
 created: 2024-04-12
 publish: true
 ---
@@ -8,27 +8,28 @@ publish: true
 ## 📅 2024-04-12 — Session: Refactored Diamond Pricing Model with MLOps Integration
 
 **🕒 18:10–19:00**  
-**🏷️ Labels**: Mlops, Machine Learning, Project Structure, Api Integration, Bash  
+**🏷️ Labels**: Mlops, Machine Learning, Project Structure, Api Integration, SGD, Bash Scripting  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to refactor the diamond pricing model by integrating MLOps principles to enhance the project's efficiency, scalability, and maintainability.
+The primary goal of this session was to refactor a diamond pricing model by integrating [[Machine Learning]] Operations (MLOps) principles to enhance its efficiency, scalability, and maintainability.
 
 ### Key Activities
-- Explored the use of Stochastic Gradient Descent (SGD) for predicting diamond prices, focusing on feature scaling, handling categorical features, and hyperparameter tuning.
-- Developed a comprehensive strategy for refactoring the machine learning project by integrating MLOps principles, including data management and model deployment.
-- Outlined a structured approach to organizing the project, emphasizing modular file architecture and effective use of [[Jupyter]] notebooks.
-- Analyzed the current project structure and provided actionable recommendations for improvement.
-- Revised the project file architecture to integrate an [[API]] for model interaction, detailing the new [[API]] directory and its components.
-- Utilized Bash commands to search for path separators in project files and analyzed path dependencies among them.
+- **Stochastic Gradient Descent (SGD) Implementation**: Explored the use of SGD for predicting diamond prices, focusing on feature scaling, handling categorical features, and hyperparameter tuning.
+- **MLOps Principles**: Developed a strategy for refactoring the project using MLOps principles, which included data management, model deployment, and user interface considerations.
+- **Project Structuring**: Outlined a structured approach for organizing the machine learning project, emphasizing modular file architecture and effective use of [[Jupyter]] notebooks.
+- **Project Structure Analysis**: Analyzed the current project structure and provided recommendations for improving organization and scalability.
+- **[[API]] [[Integration]]**: Revised the project file architecture to integrate an [[API]] for model interaction, detailing the new [[API]] directory and components.
+- **Bash Scripting**: Utilized bash scripting to search for path separators in project files, aiding in the analysis of path dependencies.
 
 ### Achievements
-- Established a clear strategy for refactoring the diamond pricing model using MLOps principles.
-- Defined a revised project structure that includes [[API]] integration for enhanced interaction and scalability.
+- Successfully outlined a comprehensive refactoring strategy for the diamond pricing model using MLOps principles.
+- Developed a revised project structure that supports [[API]] integration and enhances scalability.
+- Provided actionable recommendations for improving project organization and maintainability.
 
 ### Pending Tasks
-- Implement the revised project structure and [[API]] integration.
-- Continue refining the hyperparameters for the SGD model.
-- Further analyze and optimize path dependencies in project files.
+- Implement the revised project structure and [[API]] integration in the production environment.
+- Conduct further testing and validation of the refactored model.
+- Continue monitoring and optimizing the model's performance post-deployment.

@@ -21,7 +21,7 @@ The primary aim of this session was to develop and formalize frameworks for econ
 - **Forensic Accounting Methodology**: Detailed methods for sample weight fixing, covariance accounting, and analysis partitioning.
 - **Research on Volatility**: Explored micro-level fluctuations, network effects, and aggregate volatility for 2024 and 2025.
 - **[[Automation]] in Web Navigation**: Implemented browser automation for URL and PDF navigation using keyboard shortcuts.
-- **[[Bash]] Commands**: Utilized [[Bash]] commands for directory listing and PDF downloading.
+- **Bash Commands**: Utilized Bash commands for directory listing and PDF downloading.
 
 ### Achievements
 - Developed comprehensive accounting frameworks and methodologies.

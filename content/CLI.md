@@ -1,7 +1,7 @@
 ---
 title: "CLI"
 tags: []
-created: 2025-09-23
+created: 2025-10-07
 publish: true
 ---
 

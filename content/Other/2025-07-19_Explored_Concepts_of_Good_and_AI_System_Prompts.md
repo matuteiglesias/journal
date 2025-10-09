@@ -23,7 +23,7 @@ The session aimed to explore the concept of 'good' in various contexts, evaluate
 - **Voice Response Bias**: Analyzed the bias in voice response systems towards a cooperative tone and explored stricter frameworks for response generation.
 - **System Prompts**: Examined the nature of [[AI]] system prompts and the tension between user instructions and default responses.
 - **Prompt Engineering**: Provided strategies for countermanding system prompts, including role rewrites and constraint stacking.
-- **[[Health]] Insight**: Briefly covered symptoms and recommendations for acute allergic rhinitis.
+- **Health Insight**: Briefly covered symptoms and recommendations for acute allergic rhinitis.
 
 ### Achievements
 - Gained insights into the multifaceted nature of 'good' and its evaluation.

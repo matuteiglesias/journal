@@ -18,7 +18,7 @@ The primary aim of this session was to enhance the understanding and operation o
 
 ### Key Activities
 - **Understanding Chroma and Catalog Databases:** Explored the separation and structure of Catalog and Chroma DBs, using a diagnostic [[Python]] script to inspect Chroma's content.
-- **Data Extraction from Chroma:** Implemented methods to extract data using Chroma's [[Python]] API, acknowledging limitations of direct SQLite inspection.
+- **[[Data Extraction]] from Chroma:** Implemented methods to extract data using Chroma's [[Python]] [[API]], acknowledging limitations of direct SQLite inspection.
 - **Chroma PersistentClient Connection:** Successfully connected to Chroma's PersistentClient, managing embeddings and metadata, and suggested improvements for conversation ordering and output truncation.
 - **Clustering Utilities for Chapter Generation:** Utilized [[Python]] clustering utilities to organize snippets into coherent sections, detailing selection criteria and persistence strategies.
 - **Diagnosing Chroma Collection Issues:** Addressed missing snippets in the canastas repository, providing code for troubleshooting and re-ingesting data.

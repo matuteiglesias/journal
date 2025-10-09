@@ -1,6 +1,6 @@
 ---
 title: "Developed Academic Curriculum and Approval Framework"
-tags: ['Algorithms', 'Education', 'Curriculum', 'Student Support']
+tags: ['Curriculum', 'Algorithms', 'Education', 'Approval Framework', 'Consultation Protocol']
 created: 2024-03-18
 publish: true
 ---
@@ -8,26 +8,26 @@ publish: true
 ## 📅 2024-03-18 — Session: Developed Academic Curriculum and Approval Framework
 
 **🕒 18:55–21:45**  
-**🏷️ Labels**: Algorithms, Education, Curriculum, Student Support  
+**🏷️ Labels**: Curriculum, Algorithms, Education, Approval Framework, Consultation Protocol  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to develop and update academic content and protocols for a course on Algorithms and Data Structures, focusing on both curriculum design and student assessment methods.
+The session aimed to develop and refine an academic curriculum for a course on algorithms and data structures, along with a framework for student approval and consultation protocols.
 
 ### Key Activities
-- **Curriculum Development**: Designed a structured academic program divided into six units, covering fundamental to advanced topics in algorithms and data structures, including practical exercises for each unit.
-- **Approval Framework Update**: Proposed a new framework for course approval and promotion, detailing requirements for practical exercises, final exams, and direct promotion criteria.
-- **Algorithm Exercise Design**: Created the 'Parejas de Baile' exercise, which involves forming pairs using greedy algorithms to maximize pairings based on dance skills.
-- **Algorithm Description**: Detailed a greedy algorithm for pairing dancers from two groups, aiming to maximize the number of pairs with similar skills.
-- **Student Consultation Protocol**: Revised the protocol for student consultations to improve learning and problem-solving through structured feedback and preparation.
+- **Curriculum Design**: A structured program was outlined, dividing the course into six units covering fundamental to advanced topics in algorithms, including practical exercises.
+- **Approval Framework**: An updated proposal for the academic approval regime was created, detailing requirements for practicals, final exams, and direct promotion criteria.
+- **Exercise Description**: Developed an exercise template called 'Parejas de Baile', which uses greedy algorithms to match pairs based on dance skills.
+- **Algorithm Development**: Designed a greedy algorithm to maximize pairings based on similar skills in the 'Parejas de Baile' exercise.
+- **Consultation Protocol**: Revised the student consultation protocol to improve the use of consultation platforms, including preparation and feedback processes.
 
 ### Achievements
-- Successfully structured a comprehensive academic program and updated the approval framework.
-- Developed a practical exercise and algorithm description for educational use.
-- Enhanced student consultation protocols to better support learning.
+- Completed the curriculum framework and approval regime proposal.
+- Created a detailed exercise and algorithm for practical application in the course.
+- Enhanced student consultation protocol to support learning and problem-solving.
 
 ### Pending Tasks
-- Further refinement of the academic program and approval framework based on feedback from stakeholders.
-- Implementation and testing of the 'Parejas de Baile' exercise in a classroom setting.
+- Review and finalize the curriculum and approval framework with stakeholders.
+- Pilot the 'Parejas de Baile' exercise and algorithm in a classroom setting to gather feedback.

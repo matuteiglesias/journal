@@ -13,18 +13,18 @@ publish: true
 **⭐ Priority**: MEDIUM  
 
 
-**Session Goal:** The session aimed to analyze discrepancies in feedback between two groups and conduct exploratory data analysis ([[EDA]]) for multiple groups.
+**Session Goal:** The session aimed to analyze discrepancies in feedback between two groups and conduct exploratory data analysis (EDA) for multiple groups.
 
 **Key Activities:**
 - Analyzed an error in feedback verification between Group 02 and Group 03, suggesting a comparison of feedbacks and corresponding reports.
-- Conducted [[EDA]] for groups 5 to 8, presenting evaluation scores and detailed justifications.
+- Conducted EDA for groups 5 to 8, presenting evaluation scores and detailed justifications.
 - Generated and reviewed [[CSV]] data containing scores and justifications for groups 5 to 8.
-- Evaluated the performance of groups 09 to 12 in [[EDA]], including scores and justifications for each subcriterion.
+- Evaluated the performance of groups 09 to 12 in EDA, including scores and justifications for each subcriterion.
 
 **Achievements:**
 - Identified discrepancies in feedback between groups and proposed a method for comparison.
-- Successfully conducted [[EDA]] for groups 5 to 8 and evaluated groups 09 to 12, providing detailed scores and justifications.
+- Successfully conducted EDA for groups 5 to 8 and evaluated groups 09 to 12, providing detailed scores and justifications.
 
 **Pending Tasks:**
 - Further comparison of feedback discrepancies between Group 02 and Group 03.
-- Potential continuation of [[EDA]] for additional groups if required.
+- Potential continuation of EDA for additional groups if required.

@@ -1,6 +1,6 @@
 ---
 title: "Resolved Python environment setup issues"
-tags: ['Python', 'Scikit-Learn', 'Environment Management', 'Anaconda', 'Vs Code']
+tags: ['Python', 'Scikit-Learn', 'Anaconda', 'Visual Studio Code', 'Environment Management']
 created: 2023-01-12
 publish: true
 ---
@@ -8,25 +8,26 @@ publish: true
 ## 📅 2023-01-12 — Session: Resolved Python environment setup issues
 
 **🕒 16:15–16:35**  
-**🏷️ Labels**: Python, Scikit-Learn, Environment Management, Anaconda, Vs Code  
+**🏷️ Labels**: Python, Scikit-Learn, Anaconda, Visual Studio Code, Environment Management  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to address and resolve issues related to [[Python]] environment setup and management, specifically focusing on scikit-learn installation and configuration in different environments.
+The main goal of this session was to troubleshoot and resolve issues related to [[Python]] environment setup, specifically focusing on scikit-learn installation and environment management using Anaconda and Visual Studio Code.
 
 ### Key Activities
-- **Scikit-learn Installation Check**: Verified if scikit-learn was installed using [[Python]] import statements and pip commands.
-- **ImportError [[Troubleshooting]]**: Identified common causes of `ImportError` for scikit-learn and explored solutions, including using virtual environments.
-- **[[Python]] Environment Verification**: Used [[Jupyter]] Notebook and command line tools to check the current [[Python]] environment.
-- **Conda Command Error Resolution**: Provided steps to fix 'conda: command not found' error by adjusting the PATH variable.
-- **Environment Management with Anaconda**: Explained how to manage and switch between [[Python]] environments using Anaconda.
-- **VS Code [[Configuration]]**: Configured the default [[Python]] environment in Visual Studio Code by modifying settings.json.
+- **Scikit-learn Installation Check**: Verified the installation of the scikit-learn library in the [[Python]] environment using import statements and pip commands.
+- **ImportError [[Troubleshooting]]**: Addressed common causes of `ImportError` for scikit-learn, including environment checks and package reinstallation in a new virtual environment.
+- **[[Python]] Environment Verification**: Used [[Jupyter]] Notebook to check the current [[Python]] environment with the `sys` module and conda commands.
+- **Conda Command Error Resolution**: Provided solutions for the 'conda: command not found' error by checking installation and modifying the PATH variable.
+- **Environment Management with Anaconda**: Managed [[Python]] environments by identifying and switching between them using Anaconda commands.
+- **VS Code [[Python]] Environment [[Configuration]]**: Configured the default [[Python]] environment in Visual Studio Code by editing the settings.json file.
 
 ### Achievements
-- Successfully identified and resolved issues related to [[Python]] environment setup, ensuring scikit-learn can be used without errors.
-- Configured development environments across different platforms, enhancing workflow efficiency.
+- Successfully resolved [[Python]] environment setup issues, ensuring scikit-learn is correctly installed and configured.
+- Established a reliable method for managing and switching [[Python]] environments using Anaconda.
+- Configured Visual Studio Code to use the correct [[Python]] environment, enhancing development efficiency.
 
 ### Pending Tasks
-- Further exploration of advanced environment management techniques with Anaconda and Visual Studio Code might be beneficial for more complex projects.
+- Further testing of the configured environments to ensure stability and functionality across different projects.

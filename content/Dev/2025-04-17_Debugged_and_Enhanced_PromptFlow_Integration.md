@@ -1,6 +1,6 @@
 ---
 title: "Debugged and Enhanced PromptFlow Integration"
-tags: ['Promptflow', 'Opentelemetry', 'Debugging', 'Automation', 'Python']
+tags: ['Promptflow', 'Debugging', 'Automation', 'Opentelemetry', 'Python']
 created: 2025-04-17
 publish: true
 ---
@@ -8,24 +8,26 @@ publish: true
 ## 📅 2025-04-17 — Session: Debugged and Enhanced PromptFlow Integration
 
 **🕒 00:05–00:35**  
-**🏷️ Labels**: Promptflow, Opentelemetry, Debugging, Automation, Python  
+**🏷️ Labels**: Promptflow, Debugging, Automation, Opentelemetry, Python  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to debug and enhance the integration of PromptFlow with OpenTelemetry and improve file management automation.
+The session aimed to debug and enhance the integration of PromptFlow with various components, focusing on file management, error resolution, and tracing.
 
 ### Key Activities
-- Created essential output files for automation in the `.runs/{run_id}` directory, including a helper function for file writing.
-- Resolved an `AttributeError` in the `PromptBlock` class by initializing the 'prompty' attribute and provided an optional override for flexibility.
-- Debugged OpenTelemetry span integration issues, addressing the misuse of the `span` object and the absence of a `.to_dict()` method.
-- Successfully implemented PromptFlow-compatible traces, fully integrated into the trace viewer UI.
-- Developed a checklist for evaluating the progress of a PF-compatible MVP, identifying completed tasks and pending items.
+- Developed a helper function to automate the creation of essential output files in the `.runs/{run_id}` directory.
+- Resolved an `AttributeError` in the `PromptBlock` class by initializing the `Prompty` attribute.
+- Debugged and fixed issues with OpenTelemetry span integration, addressing both misuse of the `span` object and the absence of a `.to_dict()` method for `_Span` objects.
+- Implemented PromptFlow-compatible traces, achieving full integration into the trace viewer UI.
+- Created a checklist to track the progress of a PF-compatible MVP, identifying completed tasks and areas for improvement.
 
 ### Achievements
-- Fixed critical errors in PromptFlow and OpenTelemetry integration.
-- Achieved full integration of traces into the PromptFlow UI.
+- Successfully automated file management processes.
+- Enhanced error handling and initialization in the `PromptBlock` class.
+- Improved OpenTelemetry span integration, ensuring proper trace handling.
+- Achieved full integration of PromptFlow-compatible traces into the UI.
 
 ### Pending Tasks
-- Further improvements in batch execution, file output, tracing, and UI enhancements as outlined in the MVP checklist.
+- Further enhancements in batch execution, file output, tracing, and UI improvements as identified in the MVP checklist.

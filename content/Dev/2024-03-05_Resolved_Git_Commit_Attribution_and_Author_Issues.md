@@ -1,6 +1,6 @@
 ---
 title: "Resolved Git Commit Attribution and Author Issues"
-tags: ['Git', 'Version_Control', 'Commit_Management', 'Troubleshooting']
+tags: ['Git', 'Version_Control', 'Commit_Amendment', 'Rebase', 'Github']
 created: 2024-03-05
 publish: true
 ---
@@ -8,27 +8,27 @@ publish: true
 ## 📅 2024-03-05 — Session: Resolved Git Commit Attribution and Author Issues
 
 **🕒 00:00–00:50**  
-**🏷️ Labels**: Git, Version_Control, Commit_Management, Troubleshooting  
+**🏷️ Labels**: Git, Version_Control, Commit_Amendment, Rebase, Github  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to address and resolve issues related to [[Git]] commit attribution and author information, ensuring that all contributions are correctly recognized on GitHub.
+The primary goal of this session was to address and resolve issues related to [[Git]] commit attribution and author information in a repository. This included ensuring that all commits were correctly attributed to the user's GitHub profile and correcting any past author information errors.
 
 ### Key Activities
-- A structured commit sequence was established to manage repository updates effectively.
-- [[Troubleshooting]] steps were implemented to resolve GitHub contribution issues caused by email configuration errors.
-- Detailed guides were followed to fix [[Git]] commit attribution problems by configuring local [[Git]] settings and amending previous commits.
-- Practical strategies were employed to handle unstaged changes while correcting author information in [[Git]] commits.
-- The `git commit --amend` command was utilized to amend commits, and interactive rebase techniques were applied to correct author information across the commit history.
-- Steps to exit the Nano text editor without saving changes and using shortcuts were also reviewed.
+- **Structured Commit Sequence**: Implemented a systematic approach to organizing and committing changes in the repository, including deleting old files, updating existing ones, and adding new content.
+- **[[Troubleshooting]] Contribution Issues**: Identified and resolved GitHub contribution recognition issues caused by incorrect email configuration in [[Git]] commits.
+- **Fixing Attribution Issues**: Added email addresses to local [[Git]] configuration and retroactively corrected previous commits to ensure proper attribution.
+- **Handling Unstaged Changes**: Developed a strategy for managing unstaged changes while correcting author information, emphasizing the importance of backing up work.
+- **Amending Commits**: Used `git commit --amend` and interactive rebase to amend author information in past commits, ensuring all changes were correctly reflected in the remote repository.
+- **Interactive Rebase**: Conducted an interactive rebase starting from the first commit using the `--root` option to amend author information for all commits.
 
 ### Achievements
-- Successfully resolved [[Git]] commit attribution issues by ensuring correct email configuration and amending previous commits.
-- Corrected author information in past commits using interactive rebase, ensuring accurate representation of contributions.
-- Enhanced understanding of [[Git]] workflows and command-line operations, including the use of Nano editor and interactive rebase.
+- Successfully corrected author information in all relevant [[Git]] commits.
+- Ensured that all amended commits were correctly attributed to the user's GitHub profile.
+- Improved understanding and execution of [[Git]] workflows, including commit amendments and interactive rebase.
 
 ### Pending Tasks
-- Review and ensure that all repositories have the correct email configuration to prevent future attribution issues.
-- Continue refining [[Git]] workflows to streamline commit management and author attribution processes.
+- Verify that all changes are correctly reflected in the remote repository and that no further attribution issues exist.
+- Continue monitoring for any new issues that may arise in future commits.

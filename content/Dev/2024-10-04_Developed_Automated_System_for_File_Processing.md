@@ -1,33 +1,31 @@
 ---
 title: "Developed Automated System for File Processing"
-tags: ['Automation', 'Python', 'Jupyter', 'Optimization', 'AI']
+tags: ['Python', 'Automation', 'File Processing', 'Jupyter', 'Scripting']
 created: 2024-10-04
 publish: true
 ---
 
 ## 📅 2024-10-04 — Session: Developed Automated System for File Processing
 
-**🕒 14:30–17:30**  
-**🏷️ Labels**: Automation, Python, Jupyter, Optimization, AI  
+**🕒 14:35–17:25**  
+**🏷️ Labels**: Python, Automation, File Processing, Jupyter, Scripting  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to develop an automated system that emulates human work in processing folders and analyzing files, optimizing the design using specific agents and memory analysis.
+The session aimed to develop an automated system that mimics human work in processing folders and analyzing files, with a focus on optimizing design through specific agents and memory analysis.
 
 ### Key Activities
-- **Blueprint Creation:** Developed a framework for an automated system to process files and folders using [[AI]].
-- **[[Optimization]] Strategies:** Explored the relationship between text length, space, and tokens to enhance system efficiency.
-- **[[Python]] Scripting:** Created scripts for memory usage analysis of [[Python]] files and stripping outputs from [[Jupyter]] notebooks.
-- **Directory Management:** Addressed issues related to directory access and file processing, including ignoring hidden files and handling encoding errors.
-- **Token Estimation:** Estimated tokens required for processing submissions and strategized task management.
+- **System Design**: Explored the relationship between text, space, and tokens to improve language model efficiency, proposing task division and specialized agents.
+- **[[Python]] Scripting**: Developed scripts to calculate memory usage of [[Python]] files and process [[Jupyter]] notebooks by stripping outputs to reduce size.
+- **[[Error Handling]]**: Updated scripts to handle encoding errors and ignore hidden system files during processing.
+- **Outlier Investigation**: Analyzed outliers in notebook file sizes, identifying large embedded images or plot outputs as potential causes.
 
 ### Achievements
-- Developed a comprehensive system blueprint and optimization strategies.
-- Successfully implemented [[Python]] scripts for file processing and memory usage analysis.
-- Improved [[Jupyter]] notebook handling by automating output stripping and error management.
+- Created a framework for an automated file processing system using [[Python]] scripts.
+- Enhanced [[Jupyter]] notebook processing by implementing output stripping and error handling.
 
 ### Pending Tasks
-- Further analysis of outliers in [[Jupyter]] notebook file sizes.
-- Implementation of the folder processing loop design.
+- Further refine token estimation strategies for processing submissions.
+- Investigate and address directory access issues encountered during file processing.

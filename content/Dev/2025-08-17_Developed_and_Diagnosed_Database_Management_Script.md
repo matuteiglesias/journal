@@ -17,7 +17,7 @@ publish: true
 The session aimed to develop scripts for managing SQLite and Chroma databases, diagnose potential errors, and design scalable storage solutions.
 
 ### Key Activities
-- Developed [[Python]] scripts to connect to multiple SQLite databases, retrieve table schemas, and display them using [[Pandas]] and Jupyter tools.
+- Developed [[Python]] scripts to connect to multiple SQLite databases, retrieve table schemas, and display them using [[Pandas]] and [[Jupyter]] tools.
 - Provided an overview of SQLite database schemas related to GitHub repository ingestion.
 - Created a script for interacting with Chroma SQLite databases to retrieve schema information and row counts.
 - Diagnosed an `OperationalError` in the Chroma database, offering a diagnostic script to check file existence and permissions.

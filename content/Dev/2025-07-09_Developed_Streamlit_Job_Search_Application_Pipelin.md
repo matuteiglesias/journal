@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session focused on developing and refining a job search application using [[Streamlit]], aiming to establish a robust local-first app with a job search engine results page (SERP) pipeline.
+The session focused on developing and refining a job search application using Streamlit, aiming to establish a robust local-first app with a job search engine results page (SERP) pipeline.
 
 ### Key Activities
 - **Development Sprint Breakdown**: Conducted a detailed 5-hour sprint to build the local-first app, outlining phases, goals, and components.
@@ -24,10 +24,10 @@ The session focused on developing and refining a job search application using [[
 - **Metadata Management**: Drafted a `metadata.json` format for run tracking, enhancing data management capabilities.
 - **Frontend Structure**: Created a modular frontend structure, ensuring clean separation of UI logic from the backend.
 - **Module Definitions**: Defined [[Python]] modules within the job query pipeline, detailing their interactions and functionalities.
-- **Framework Comparison**: Compared [[Streamlit]] and ShadCN for application development, providing recommendations for internal tools versus public apps.
-- **Migration [[Strategy]]**: Outlined best practices for [[Streamlit]] setup to facilitate future backend migration.
-- **View Redesign**: Redesigned [[Streamlit]] view files for the job search application, focusing on query, control, and results tabs.
-- **Multi-Tab Interface**: Provided an example of a [[Streamlit]] multi-tab interface for shared settings configuration.
+- **Framework Comparison**: Compared Streamlit and ShadCN for application development, providing recommendations for internal tools versus public apps.
+- **Migration [[Strategy]]**: Outlined best practices for Streamlit setup to facilitate future backend migration.
+- **View Redesign**: Redesigned Streamlit view files for the job search application, focusing on query, control, and results tabs.
+- **Multi-Tab Interface**: Provided an example of a Streamlit multi-tab interface for shared settings configuration.
 - **[[Python]] Import Resolution**: Resolved import issues in the project structure, ensuring proper module recognition.
 - **Query Functionality Enhancement**: Redesigned the `render()` function in `query_tab.py` to align with the main pipeline logic.
 - **Function Implementation**: Implemented the `run_step()` function in `control_tab.py`, focusing on subprocess management and UI feedback.
@@ -38,6 +38,6 @@ The session focused on developing and refining a job search application using [[
 - Developed a modular and scalable frontend structure.
 
 ### Pending Tasks
-- Further testing and refinement of the [[Streamlit]] application to ensure robustness and user-friendliness.
+- Further testing and refinement of the Streamlit application to ensure robustness and user-friendliness.
 - Continued development of backend migration strategies.
 - Exploration of additional UI enhancements and optimizations.

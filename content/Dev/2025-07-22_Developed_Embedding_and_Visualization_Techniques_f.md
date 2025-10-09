@@ -31,4 +31,4 @@ The session aimed to explore and develop techniques for embedding and visualizin
 
 **Pending Tasks:**
 - Further exploration of metadata integration in LlamaIndex embeddings.
-- Optimization of visualization techniques for large datasets.
+- [[Optimization]] of visualization techniques for large datasets.

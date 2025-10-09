@@ -19,12 +19,12 @@ The session aimed to refactor and enhance several components of a [[Markdown]] p
 ### Key Activities
 - **Refactored `materialize_bag_markdown` Function**: Improved snippet rendering using `_render_snippet` and enhanced handling of plain prose with blockquote styling.
 - **Explored `units_select` in Data Pipelines**: Detailed the usage of `units_select` for filtering JSONL data files based on criteria like type, tags, and time windows.
-- **Managed Hydration in [[MDX]]**: Implemented methods for hydration and source filtering, including [[CLI]] commands for building digests.
+- **Managed Hydration in MDX**: Implemented methods for hydration and source filtering, including [[CLI]] commands for building digests.
 - **Fixed `render_units_md` and `l2_build` Functions**: Addressed hydration of slices, parameter handling, and [[Markdown]] rendering improvements.
 - **Filtered Units in Tag Management**: Provided guidance on using `pairbag` and `tagbag` units with time filtering logic.
 - **Addressed Hydration and Rendering Issues**: Focused on deduplication of sources and HTML escaping in [[Markdown]] processing.
-- **Created Top-200 Pairbags in [[MDX]] Format**: Detailed methods for merging units and generating hydrated [[MDX]] files.
-- **Streamlined [[Data Ingestion]] Workflows**: Structured approach using [[CLI]] commands for optimizing data processing.
+- **Created Top-200 Pairbags in MDX Format**: Detailed methods for merging units and generating hydrated MDX files.
+- **Streamlined Data Ingestion Workflows**: Structured approach using [[CLI]] commands for optimizing data processing.
 - **Implemented Cohorts in Review Systems**: Explored the concept of cohorts for organizing activities in a time-based format.
 
 ### Achievements

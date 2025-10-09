@@ -20,7 +20,7 @@ The session aimed to integrate various components of the OpenAlex project, inclu
 - Implemented an OpenAlex Snapshot Mapper to enhance the data processing pipeline, using [[Python]] and Makefile targets.
 - Developed an abstract aggregation strategy ensuring legal compliance and deterministic joins using identifiers like DOI and arXiv IDs.
 - Designed rights-aware metadata policies to ensure compliance with copyright laws while enhancing user experience.
-- Integrated OpenAlex Web UI with ORDER+ tiles, focusing on API integration and navigation.
+- Integrated OpenAlex Web UI with ORDER+ tiles, focusing on [[API]] integration and navigation.
 - Discussed legal considerations for embeddings and quotes in [[AI]], focusing on fair use and copyright risks.
 - Explored the tension between knowledge as a public good and proprietary asset in the context of open access.
 

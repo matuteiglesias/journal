@@ -1,7 +1,7 @@
 ---
 title: "Debugging"
 tags: []
-created: 2025-08-03
+created: 2025-10-07
 publish: true
 ---
 

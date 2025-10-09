@@ -17,7 +17,7 @@ publish: true
 The session aimed to document and package the 'bags_pipeline' project effectively, addressing documentation generation and import errors.
 
 ### Key Activities
-- Developed a comprehensive plan for documenting and packaging the 'bags_pipeline' project, including directory structure, packaging instructions, public API surface, docstring examples, MkDocs configuration, and [[CLI]] documentation generation.
+- Developed a comprehensive plan for documenting and packaging the 'bags_pipeline' project, including directory structure, packaging instructions, public [[API]] surface, docstring examples, MkDocs configuration, and [[CLI]] documentation generation.
 - Resolved `ModuleNotFoundError` in [[Python]] [[CLI]] documentation generation by applying a quick patch and a proper packaging fix.
 - Fixed Hatch metadata generation error by creating a `README.md` file and ensuring proper package imports.
 - Addressed module import errors by making imports package-qualified and creating a compatibility shim.

@@ -17,7 +17,7 @@ publish: true
 The session aimed to enhance data ingestion from GitHub repositories and manage SQLite databases effectively, focusing on recursive file loading, code parsing, error handling, data cleanup, and performance debugging.
 
 ### Key Activities
-- **Recursive File Loading**: Implemented strategies for full recursive coverage of files using the GitHub Trees API and GithubRepositoryReader.
+- **Recursive File Loading**: Implemented strategies for full recursive coverage of files using the GitHub Trees [[API]] and GithubRepositoryReader.
 - **Code Parsing**: Utilized LlamaIndex's `CodeSplitter` for efficient [[Python]] code parsing and docstring extraction.
 - **[[Error Handling]]**: Addressed Tree-sitter ImportError in LlamaIndex's CodeSplitter by exploring installation of language packs and alternative parsers.
 - **Data Cleanup**: Developed a workflow for clean removal of repository records from Chroma embeddings, SQLite metadata, and vector caches.

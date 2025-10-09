@@ -1,6 +1,6 @@
 ---
 title: "Configured R environment in Visual Studio Code"
-tags: ['R', 'Vs Code', 'R Markdown', 'Configuration', 'Data Wrangling']
+tags: ['R', 'Vs Code', 'Configuration', 'Data Wrangling', 'R Markdown']
 created: 2023-04-16
 publish: true
 ---
@@ -8,25 +8,26 @@ publish: true
 ## 📅 2023-04-16 — Session: Configured R environment in Visual Studio Code
 
 **🕒 22:55–23:20**  
-**🏷️ Labels**: R, Vs Code, R Markdown, Configuration, Data Wrangling  
+**🏷️ Labels**: R, Vs Code, Configuration, Data Wrangling, R Markdown  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to set up and configure the R programming environment within Visual Studio Code for efficient data manipulation and analysis using R and R [[Markdown]].
+The primary goal of this session was to configure the R programming environment within Visual Studio Code, enabling efficient data manipulation and notebook creation using R and R [[Markdown]].
 
 ### Key Activities
-- Developed an R script for data wrangling using the tidyverse package, focusing on reading [[CSV]] files, extracting variable roots with regex, selecting relevant columns, and saving filtered datasets.
-- Provided a guide on creating and running R notebooks in VS Code, including the installation of the R extension and exporting notebooks as HTML.
-- Configured the R executable path in VS Code's `settings.json` to resolve configuration errors.
-- Installed R and R [[Markdown]] extensions in Visual Studio Code to enhance R programming capabilities and troubleshoot display issues with Rmd files.
-- Explained how to find the R installation path using terminal commands.
+- **Data Wrangling with Tidyverse**: Implemented an R script for data wrangling using the tidyverse package, focusing on reading [[CSV]] files, extracting variable roots with regex, and selecting relevant columns.
+- **R Notebooks in VS Code**: Created and ran R notebooks using Visual Studio Code, including the installation of the R extension and exporting notebooks as HTML.
+- **Configuring R Path**: Resolved configuration errors by specifying the R executable path in the settings.json file of VS Code.
+- **R Installation**: Installed R for Visual Studio Code, ensuring the correct configuration of the R executable path.
+- **R [[Markdown]] Usage**: Installed and utilized the R [[Markdown]] extension in VS Code for creating R notebooks.
+- **[[Troubleshooting]]**: Addressed issues with Rmd file display in VS Code by verifying extension installations and configuring language modes.
 
 ### Achievements
-- Successfully configured the R environment in Visual Studio Code, enabling the creation and execution of R notebooks and scripts.
-- Resolved configuration issues related to the R path and R [[Markdown]] file display in VS Code.
+- Successfully configured the R environment in Visual Studio Code, enabling seamless R programming and notebook creation.
+- Resolved configuration and installation issues related to R and R [[Markdown]] in VS Code.
 
 ### Pending Tasks
-- Further testing of the R environment setup to ensure stability and performance.
-- Exploration of additional VS Code extensions that may enhance R programming workflows.
+- Further exploration of advanced data manipulation techniques with tidyverse.
+- Continuous monitoring of the R environment setup for any emerging issues.

@@ -14,17 +14,17 @@ publish: true
 
 
 ### Session Goal
-The session aimed to analyze political leadership dynamics and develop communication strategies to address faction tensions and leadership failures.
+The session aimed to explore political dynamics, particularly focusing on leadership and communication strategies in the context of political tensions and exclusion.
 
 ### Key Activities
-- Analyzed Cristina Kirchner's insights on political tensions and dialogue, focusing on legitimacy and constructive competition.
-- Explored reframing exclusion as a moral leadership stance, emphasizing justice and moral leadership.
-- Conducted a critical analysis of leadership failures within a political group, identifying issues like lack of transparency and exclusion of critical voices.
-- Developed communication strategies to reestablish position in conflict contexts, focusing on clarity and legitimization of criticisms.
+- Analyzed Cristina Kirchner's insights on political faction tensions, emphasizing legitimacy, acceptance, and constructive competition in political discourse.
+- Developed strategies to reframe exclusion as a moral leadership stance, highlighting themes of injustice and moral leadership.
+- Conducted a critical analysis of leadership failures within a political group, identifying issues such as lack of transparency and exclusion of critical voices.
+- Proposed key communication strategies to restore leadership position during conflicts, focusing on clarity, legitimization of criticism, and constructive leadership projection.
 
 ### Achievements
-- Gained insights into political dynamics and leadership challenges.
-- Identified key areas for improvement in political leadership and communication.
+- Gained insights into the political dynamics and leadership challenges faced by the group.
+- Developed a strategic framework for addressing exclusion and leadership issues through communication.
 
 ### Pending Tasks
-- Further develop detailed communication plans to address identified leadership failures.
+- Further analysis and refinement of the proposed communication strategies to ensure effective implementation in real-world scenarios.

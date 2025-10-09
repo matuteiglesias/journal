@@ -1,6 +1,6 @@
 ---
 title: "Implemented NLP techniques for semantic analysis"
-tags: ['NLP', 'Python', 'Text Processing', 'Semantic Analysis', 'Spacy']
+tags: ['NLP', 'Python', 'Semantic Analysis', 'Text Processing', 'Spacy']
 created: 2023-11-19
 publish: true
 ---
@@ -8,29 +8,28 @@ publish: true
 ## 📅 2023-11-19 — Session: Implemented NLP techniques for semantic analysis
 
 **🕒 17:15–19:30**  
-**🏷️ Labels**: NLP, Python, Text Processing, Semantic Analysis, Spacy  
+**🏷️ Labels**: NLP, Python, Semantic Analysis, Text Processing, Spacy  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal:
-The session aimed to implement and explore various Natural Language Processing (NLP) techniques for semantic analysis, focusing on text processing and analysis of the term 'docentes'.
+### Session Goal
+This session focused on implementing Natural Language Processing (NLP) techniques for semantic analysis, specifically targeting the context of the word 'docentes'.
 
-### Key Activities:
-- **Exporting Word Counts to [[CSV]]**: Utilized [[Python]] and the pandas library to convert word counts into a DataFrame and export them to a [[CSV]] file.
-- **Text Processing**: Replaced ellipses in text to ensure proper word separation.
-- **NLP Techniques Overview**: Reviewed key NLP methods such as sentiment analysis, topic modeling, and named entity recognition for analyzing speeches.
-- **Semantic Analysis Framework**: Developed a framework for semantic understanding using part-of-speech tagging and contextual word relationships.
-- **Text File Preparation**: Created a text file 'docentes_context.txt' for semantic analysis.
-- **[[Python]] Script Execution**: Implemented a script to extract sentences containing 'docentes' for context analysis.
-- **POS Tagging [[Strategy]]**: Planned a strategy for POS tagging using spaCy for analyzing 'docentes' contexts.
-- **Spanish Language Model Installation**: Installed the `es_core_news_sm` Spanish language model for spaCy to facilitate NLP tasks in Spanish.
+### Key Activities
+- **Exporting Word Counts**: A [[Python]] script was used to export word count data to a [[CSV]] file using the pandas library.
+- **Text Processing**: Replaced ellipses in text processing scripts to ensure proper word separation.
+- **NLP Planning**: Discussed and outlined NLP techniques such as sentiment analysis, topic modeling, and named entity recognition for analyzing speeches and semantic understanding.
+- **Semantic Analysis Preparation**: Prepared a text file 'docentes_context.txt' for semantic analysis and developed a [[Python]] script to extract contexts of the word 'docentes'.
+- **POS Tagging [[Strategy]]**: Developed a strategy using Part-of-Speech tagging to analyze contexts of 'docentes' using spaCy.
+- **Language Model Installation**: Installed the Spanish language model for spaCy to facilitate NLP tasks in Spanish.
 
-### Achievements:
-- Successfully exported word counts to [[CSV]] and processed text for analysis.
-- Gained insights into NLP techniques applicable to semantic analysis.
-- Prepared necessary text files and scripts for detailed analysis of 'docentes'.
+### Achievements
+- Successfully exported word count data to [[CSV]] format.
+- Developed scripts for text and semantic analysis, focusing on the term 'docentes'.
+- Installed necessary NLP tools and models for Spanish language processing.
 
-### Pending Tasks:
-- Implement the POS tagging strategy using spaCy on the 'docentes' contexts.
-- Conduct detailed semantic analysis using the installed Spanish language model in spaCy.
+### Pending Tasks
+- Further analysis of the extracted contexts using the installed NLP models and techniques.
+- Implementation of sentiment analysis and topic modeling on the 'docentes' contexts.
+- Evaluation of the effectiveness of the NLP strategies implemented.

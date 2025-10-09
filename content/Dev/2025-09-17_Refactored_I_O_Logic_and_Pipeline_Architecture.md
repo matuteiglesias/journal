@@ -23,7 +23,7 @@ The session aimed to refactor and streamline I/O operations and pipeline archite
 - **Consolidated Core Dataclasses:** Unified essential dataclasses for a dependency-free pipeline, ensuring consistent field naming.
 - **[[Configuration]] and Utility Functions:** Created a unified module for configuration and utility functions, enhancing code organization.
 - **[[Debugging]] Event Logging:** Developed a debugging plan for JSONL event logging issues, focusing on verifying log file existence and parameter adjustments.
-- **High-Level Refactor Sketch:** Outlined a high-level refactor of pipeline architecture, detailing separation of concerns into [[CLI]], [[Pipeline]] Façade, and Core Backend layers.
+- **High-Level Refactor Sketch:** Outlined a high-level refactor of pipeline architecture, detailing separation of concerns into [[CLI]], Pipeline Façade, and Core Backend layers.
 
 ### Achievements:
 - Successfully centralized I/O operations, leading to improved code quality and easier testing.

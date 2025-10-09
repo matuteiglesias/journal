@@ -17,7 +17,7 @@ publish: false
 The session aimed at exploring health recovery protocols and evaluating career opportunities in the business domain.
 
 ### Key Activities
-- **[[Health]] Focus**: Explored the physiological and mental changes during the detoxification phase, and developed a one-week recovery and fitness protocol.
+- **Health Focus**: Explored the physiological and mental changes during the detoxification phase, and developed a one-week recovery and fitness protocol.
 - **Business Focus**: Conducted a critical evaluation of a job opportunity as an Actuarial Data Analyst, expressed interest in the position, and drafted a proposal for remote contractor fees.
 
 ### Achievements

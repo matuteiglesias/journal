@@ -1,29 +1,30 @@
 ---
-title: "Developed exercises for unstructured data processing in Python"
-tags: ['Python', 'Data Processing', 'Unstructured Data', 'Exercises', 'Machine Learning']
+title: "Developed exercises for unstructured data processing"
+tags: ['Python', 'Unstructured Data', 'Data Processing', 'Image Processing', 'Text Analysis']
 created: 2023-05-02
 publish: true
 ---
 
-## 📅 2023-05-02 — Session: Developed exercises for unstructured data processing in Python
+## 📅 2023-05-02 — Session: Developed exercises for unstructured data processing
 
 **🕒 20:25–20:35**  
-**🏷️ Labels**: Python, Data Processing, Unstructured Data, Exercises, Machine Learning  
+**🏷️ Labels**: Python, Unstructured Data, Data Processing, Image Processing, Text Analysis  
 **📂 Project**: Teaching  
 **⭐ Priority**: MEDIUM  
 
 
-**Session Goal:**
+### Session Goal
 The session aimed to develop and outline exercises for processing unstructured data using [[Python]], focusing on both text and image data.
 
-**Key Activities:**
-- Reviewed fundamental data processing techniques, including data manipulation, aggregation, visualization, and storage using SQL and NoSQL databases.
-- Developed exercises for loading and processing unstructured data types, such as text files, images, and audio files, using [[Python]] libraries like Pillow, Librosa, and requests.
-- Designed practical exercises for text processing and analysis using spaCy, NLTK, and TextBlob, covering tokenization and sentiment analysis.
-- Implemented image processing exercises using OpenCV, including feature extraction and classification using convolutional neural networks with TensorFlow.
+### Key Activities
+- Reviewed fundamentals of data processing, including data manipulation, visualization, and storage techniques.
+- Developed exercises for loading and processing unstructured data types such as text files, images, and audio files using [[Python]] libraries like Pillow, Librosa, and requests.
+- Created practical exercises for image classification using pre-trained convolutional neural networks.
+- Designed exercises for text processing, including tokenization, sentiment analysis, and feature extraction using libraries such as NLTK, spaCy, and TextBlob.
 
-**Achievements:**
-- Successfully created a comprehensive set of exercises for students to practice unstructured data handling and processing in [[Python]].
+### Achievements
+- Successfully outlined a comprehensive set of exercises covering various techniques for handling unstructured data.
+- Integrated multiple [[Python]] libraries to demonstrate diverse data processing methods.
 
-**Pending Tasks:**
-- Further refinement of exercises to include more advanced machine learning techniques for image and text data.
+### Pending Tasks
+- Further refinement of exercises to include more advanced techniques and real-world data scenarios.

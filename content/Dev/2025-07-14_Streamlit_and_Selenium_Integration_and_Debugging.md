@@ -14,22 +14,22 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance the integration between [[Streamlit]] applications and Selenium-based web scraping scripts, focusing on debugging and deployment in headless environments.
+The session aimed to enhance the integration between Streamlit applications and Selenium-based web scraping scripts, focusing on debugging and deployment in headless environments.
 
 ### Key Activities
 - Aligned YAML configuration files for PromptFlow to ensure compatibility.
 - Resolved `StoreConnectionEncryptionKeyError` by implementing the `keyrings.alt` package.
 - Configured BYOK deployment for PromptFlow without a system keyring.
-- Set up environment variables to prevent keyring errors in [[Streamlit]] apps.
+- Set up environment variables to prevent keyring errors in Streamlit apps.
 - Explored strategies for browser automation in headless environments using Selenium and Playwright.
 - Debugged deployed applications by accessing live consoles in various hosting environments.
-- Created a minimal [[Streamlit]] debugger page with an embedded REPL for effective debugging.
-- Transitioned Selenium scripts to headless mode for deployment in [[Streamlit]] environments.
+- Created a minimal Streamlit debugger page with an embedded REPL for effective debugging.
+- Transitioned Selenium scripts to headless mode for deployment in Streamlit environments.
 - Updated Selenium WebDriver initialization to use a Service object.
 
 ### Achievements
-- Successfully configured environment variables and key management for PromptFlow and [[Streamlit]].
-- Developed a lightweight debug console in [[Streamlit]] for enhanced debugging capabilities.
+- Successfully configured environment variables and key management for PromptFlow and Streamlit.
+- Developed a lightweight debug console in Streamlit for enhanced debugging capabilities.
 - Improved Selenium script deployment by transitioning to headless mode.
 
 ### Pending Tasks

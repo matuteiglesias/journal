@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Dask script with progress indicators"
-tags: ['Dask', 'Python', 'Data Processing', 'Pandas', 'Progressbar']
+tags: ['Dask', 'Python', 'Data Processing', 'Progress Indicators', 'Pandas']
 created: 2023-08-25
 publish: true
 ---
@@ -8,25 +8,25 @@ publish: true
 ## 📅 2023-08-25 — Session: Enhanced Dask script with progress indicators
 
 **🕒 18:15–18:35**  
-**🏷️ Labels**: Dask, Python, Data Processing, Pandas, Progressbar  
+**🏷️ Labels**: Dask, Python, Data Processing, Progress Indicators, Pandas  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The main objective of this session was to enhance a Dask script by adding progress indicators and handling errors related to partitioned DataFrames.
+The goal of this session was to enhance a Dask script by adding progress indicators and addressing errors related to partitioned dataframes and age binning.
 
 ### Key Activities
-- **Enhancing Dask Script**: Added progress bars and status messages to a Dask script to improve visibility into its execution and performance metrics.
-- **Handling Partitioned [[Dataframe]] Errors**: Utilized `map_partitions` to address errors when assigning new columns to partitioned DataFrames for age binning based on computed quantiles.
-- **Fixing Age Binning and Grouping Errors**: Resolved an error in [[Pandas]] when applying the `.sum()` operation to a categorical column by adjusting the code for assigning age bins and correctly grouping numeric columns.
-- **Counting Unique Values**: Implemented [[Python]] functions to count occurrences of unique values grouped by `RADIO_REF_ID` using both Dask and [[Pandas]], demonstrating parallel computation and aggregation across partitions.
-- **Avoiding SettingWithCopyWarning**: Explained how to avoid the `SettingWithCopyWarning` in [[Pandas]] by using the `assign()` method to create new columns instead of modifying DataFrames in-place.
+- Modified a Dask script to include progress bars and status messages, improving execution visibility.
+- Addressed errors in Dask when assigning new columns to partitioned dataframes using `map_partitions` for age binning based on computed quantiles.
+- Fixed an error in [[Pandas]] when applying `.sum()` to a categorical column, ensuring correct grouping and assignment of age bins as string labels.
+- Developed a [[Python]] function to count occurrences of unique values grouped by `RADIO_REF_ID`, leveraging Dask for parallel computation.
+- Provided a solution to avoid `SettingWithCopyWarning` in [[Pandas]] by using the `assign()` method instead of modifying DataFrames in-place.
 
 ### Achievements
-- Successfully enhanced the Dask script with progress indicators.
-- Resolved errors related to partitioned DataFrames and age binning.
-- Improved data processing techniques in both Dask and [[Pandas]].
+- Successfully integrated progress indicators into the Dask script.
+- Resolved errors related to partitioned dataframes and age binning in both Dask and [[Pandas]].
+- Enhanced data processing techniques for counting unique values and avoiding common warnings in [[Pandas]].
 
 ### Pending Tasks
-None identified.
+- Further testing and validation of the modified Dask script in a production environment to ensure stability and performance.

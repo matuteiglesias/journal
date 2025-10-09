@@ -18,7 +18,7 @@ The session aimed to resolve a ZIP extraction error in a [[Python]] script, impr
 
 ### Key Activities
 - **ZIP Extraction Error Fix**: Addressed a ZIP extraction error by updating the `local_archive` variable after renaming a downloaded file to ensure correct file handling.
-- **[[Git]] Workflow Enhancement**: Developed a detailed commit plan to correct errors, improve data extraction, and clean the repository using [[Git]] commands. This plan was articulated in Spanish.
+- **[[Git]] [[Workflow]] Enhancement**: Developed a detailed commit plan to correct errors, improve data extraction, and clean the repository using [[Git]] commands. This plan was articulated in Spanish.
 - **.gitignore Template Creation**: Proposed a comprehensive `.gitignore` template for [[Python]] projects, covering exclusions for byte-compiled files, virtual environments, IDE settings, and temporary data folders.
 - **README Structuring**: Conceptualized the structure for a README file for a [[CLI]] tool in [[Python]] designed for downloading and standardizing microdata from the EPH by INDEC.
 - **[[CLI]] Tool [[Documentation]]**: Documented the microdatos-EPH-INDEC [[CLI]] tool, detailing its functionality in downloading, extracting, and converting microdata into TXT/[[CSV]] formats.

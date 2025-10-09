@@ -19,7 +19,7 @@ The session aimed to enhance cohort unit generation, improve timestamp handling,
 ### Key Activities:
 - **Enhanced Cohort Units Function**: Implemented a drop-in replacement for `cohort_units_from_logs`, allowing flexible cohort generation by time slices (daily, weekly, monthly, session-based) with stable IDs.
 - **Timestamp Mismatch Fix**: Addressed bugs in timestamp handling by normalizing timestamps in the `_bucket_key` function and ensuring consistent `datetime` storage during event ingestion.
-- **[[Data Ingestion]] and Cohort Bucketing**: Improved data ingestion processes for type consistency, aligned loader behaviors, and enhanced cohort bucketing without merging files.
+- **Data Ingestion and Cohort Bucketing**: Improved data ingestion processes for type consistency, aligned loader behaviors, and enhanced cohort bucketing without merging files.
 - **Legacy Log Normalization**: Revised `normalize_log_line` function to maintain legacy behavior while ensuring timezone-aware datetime and reducing `extras` field size.
 - **Robust Time Helper Refactor**: Refactored time helpers for UTC normalization, preventing formatting issues like `+00:00Z`.
 - **Datetime Handling in Event Class**: Standardized datetime representation in the Event class for consistency and safety.

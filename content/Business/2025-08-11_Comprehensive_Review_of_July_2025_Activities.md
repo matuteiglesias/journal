@@ -18,7 +18,7 @@ The session aimed to reflect on and document the comprehensive activities and ac
 
 **Key Activities:**
 1. Reviewed and summarized the full arc of activities for July 2025, emphasizing the development and stabilization of automation infrastructure.
-2. Detailed improvements in ChromaDB persistence, PromptFlow–[[Streamlit]] integration, and modularization of job search pipelines.
+2. Detailed improvements in ChromaDB persistence, PromptFlow–Streamlit integration, and modularization of job search pipelines.
 3. Analyzed cognitive patterns in knowledge work, focusing on automation and media processing pipelines.
 4. Conducted a short-term situational awareness check to identify productivity patterns and prioritize tasks.
 5. Discussed cognitive portfolio management strategies to handle project rotations and opportunity costs.

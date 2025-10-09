@@ -1,6 +1,6 @@
 ---
 title: "Resolved 502 Errors in GCP Deployment"
-tags: ['GCP', 'Flask', '502 Error', 'Deployment', 'Oauth']
+tags: ['GCP', 'Flask', '502 Errors', 'Oauth', 'Dependency Management']
 created: 2024-02-19
 publish: true
 ---
@@ -8,28 +8,26 @@ publish: true
 ## 📅 2024-02-19 — Session: Resolved 502 Errors in GCP Deployment
 
 **🕒 01:30–02:40**  
-**🏷️ Labels**: GCP, Flask, 502 Error, Deployment, Oauth  
+**🏷️ Labels**: GCP, Flask, 502 Errors, Oauth, Dependency Management  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal
-The goal of this session was to troubleshoot and resolve 502 Bad Gateway errors occurring during a Google Cloud Platform (GCP) application deployment using [[Flask]] and Gunicorn.
+### Session Goal:
+The session aimed to troubleshoot and resolve 502 Bad Gateway errors in a Google Cloud Platform (GCP) application deployment, focusing on dependency management, file system permissions, and session management.
 
-### Key Activities
-- **[[Troubleshooting]] 502 Errors**: Addressed issues related to dependency management, Gunicorn configuration, filesystem permissions, session management, environment variables, and compatibility.
-- **Read-Only File System Management**: Implemented solutions for handling read-only file systems in Google App Engine, focusing on session management and data storage.
-- **Function Adaptation**: Adapted the `record_interaction` function for GCP, utilizing the `/tmp` directory for temporary storage and exploring permanent alternatives.
-- **Module and File Handling**: Managed [[Python]] modules and file writing solutions to avoid read-only filesystem issues, ensuring proper module versions and directory permissions.
-- **Dependency Management**: Updated `requirements.txt` with specific versions to ensure compatibility and prevent deployment issues.
-- **Login Redirection Analysis**: Analyzed and resolved login redirection issues due to invalid URLs in the application.
+### Key Activities:
+- **[[Troubleshooting]] 502 Errors**: Explored dependency management, Gunicorn configuration, and filesystem permissions to address 502 errors.
+- **Read-Only File System Management**: Implemented solutions for handling GCP's read-only file system using [[Flask]], including session management and data storage.
+- **Function Adaptation**: Modified the `record_interaction` function for GCP compatibility, utilizing the `/tmp` directory for temporary storage.
+- **Dependency Management**: Updated `requirements.txt` with compatible module versions for the `base2` environment.
+- **Login Redirection Analysis**: Investigated and resolved login redirection issues in the application, focusing on OAuth and URL handling.
 
-### Achievements
-- Successfully identified and resolved causes of 502 errors related to missing dependencies and file system issues.
-- Implemented a writable directory solution for file handling in GCP.
-- Updated `requirements.txt` for compatibility with the `base2` environment.
-- Resolved login redirection issues and improved OAuth redirect handling in [[Flask]].
+### Achievements:
+- Successfully identified and resolved the causes of 502 errors related to missing dependencies and file system issues.
+- Updated module versions and improved file writing solutions for GCP.
+- Enhanced session management and error handling in [[Flask]] applications.
 
-### Pending Tasks
+### Pending Tasks:
 - Further testing of the updated `requirements.txt` for compatibility before full deployment.
-- Continuous monitoring of the application for any recurring 502 errors or login issues.
+- Continued monitoring of OAuth redirection handling to ensure stability in login processes.

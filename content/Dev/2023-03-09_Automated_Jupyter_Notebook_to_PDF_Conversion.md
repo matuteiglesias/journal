@@ -1,6 +1,6 @@
 ---
 title: "Automated Jupyter Notebook to PDF Conversion"
-tags: ['Jupyter', 'Pdf Conversion', 'Automation', 'Command Line', 'Error Resolution']
+tags: ['Jupyter', 'PDF', 'Automation', 'Command Line', 'Nbconvert']
 created: 2023-03-09
 publish: true
 ---
@@ -8,24 +8,25 @@ publish: true
 ## 📅 2023-03-09 — Session: Automated Jupyter Notebook to PDF Conversion
 
 **🕒 05:25–06:15**  
-**🏷️ Labels**: Jupyter, Pdf Conversion, Automation, Command Line, Error Resolution  
+**🏷️ Labels**: Jupyter, PDF, Automation, Command Line, Nbconvert  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal
-The session aimed to automate the conversion of [[Jupyter]] Notebooks to PDF format using command-line tools and address any related issues.
+**Session Goal:**
+The session aimed to automate the conversion of [[Jupyter]] Notebooks to PDF format, addressing potential errors and ensuring a seamless workflow.
 
-### Key Activities
-- Utilized `jupyter nbconvert` to convert notebooks to PDF.
-- Implemented `nohup` command to prevent interruptions during conversion.
-- Resolved errors related to missing `pandoc` tool, including installation and version management using `conda`.
-- Installed and configured `xelatex` for PDF conversion across different operating systems.
-- Developed a command to automate the conversion process for notebooks in specific directories.
+**Key Activities:**
+- Utilized `jupyter nbconvert` for converting [[Jupyter]] Notebooks to PDF.
+- Implemented `nohup` to prevent interruptions during the conversion process.
+- Resolved `nbconvert` errors by installing the missing `pandoc` tool.
+- Managed `pandoc` versions using `conda`, including instructions for downgrading and upgrading.
+- Installed and configured `xelatex` across various operating systems to support PDF generation.
+- Provided a command-line script for locating and converting notebooks in specific directories.
 
-### Achievements
-- Successfully automated the conversion of [[Jupyter]] Notebooks to PDF.
-- Installed necessary tools (`pandoc`, `xelatex`) and resolved version compatibility issues.
+**Achievements:**
+- Successfully automated the conversion process with error handling and version management.
+- Ensured compatibility and smooth execution across different environments.
 
-### Pending Tasks
-- Monitor for any further errors or interruptions in the conversion process and refine the automation script if needed.
+**Pending Tasks:**
+- Verify the conversion process across additional environments and document any further issues encountered.

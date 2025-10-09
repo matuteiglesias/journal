@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Data Visualization and Regression Techniques"
-tags: ['Data Visualization', 'Regression', 'Python', 'Matplotlib', 'Health']
+tags: ['Data Visualization', 'Regression', 'Python', 'Health', 'Quadratic Models']
 created: 2024-04-21
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 ## 📅 2024-04-21 — Session: Enhanced Data Visualization and Regression Techniques
 
 **🕒 04:30–05:20**  
-**🏷️ Labels**: Data Visualization, Regression, Python, Matplotlib, Health  
+**🏷️ Labels**: Data Visualization, Regression, Python, Health, Quadratic Models  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
@@ -17,20 +17,20 @@ publish: true
 The session aimed to improve data visualization techniques and explore regression methods for predicting body measurements and weight.
 
 ### Key Activities:
-- **Color Customization for Line Charts**: Adjusted line chart colors for better visibility and accessibility using [[Python]]'s matplotlib.
-- **Boxplot Improvements**: Enhanced boxplot readability by grouping weeks into months and rotating x-axis labels.
-- **Unique Month-Year Labels for Boxplots**: Created boxplots with unique month-year labels by modifying DataFrame and plotting functions.
-- **Regression Techniques for Weight Prediction**: Explored various regression techniques, including multiple linear regression and polynomial regression, for modeling body measurements and weight relationships.
-- **Quadratic Curve Fitting**: Implemented quadratic curve fitting using numpy's polyfit function.
-- **Centering Quadratic Models**: Centered quadratic models around specific x-values for better data transformation.
-- **Weight Prediction Models**: Developed quadratic models to predict weight from body measurements.
-- **Inverting Quadratic Equations**: Used quadratic equations to estimate body measurements from weight.
-- **Data Imputation**: Created a [[Python]] function for imputing missing body measurements using a quadratic fit.
+- **Color Customization for Line Charts:** Modified plotting functions to use distinct colors for different years, enhancing visibility and accessibility.
+- **Boxplot Improvements:** Improved legibility by grouping weeks into months, rotating x-axis labels, and adjusting label frequency.
+- **Unique Month-Year Boxplot Labels:** Created boxplots with unique month-year labels by modifying DataFrames and plotting functions.
+- **Regression Techniques for Weight Prediction:** Explored multiple regression techniques, including linear, polynomial, and generalized additive models.
+- **Quadratic Curve Fitting:** Implemented a [[Python]] function to fit quadratic curves using numpy's polyfit.
+- **Centering Quadratic Models:** Explained recentering quadratic models around specific x-values and fitting polynomials.
+- **Fitted Quadratic Models for Weight Prediction:** Discussed the use of quadratic models to predict weight from body measurements.
+- **Inverting Quadratic Equations:** Outlined the process for estimating body measurements from weight using inverted quadratic equations.
+- **Imputing Missing Data:** Developed a function to impute missing body measurements based on quadratic relationships with weight.
 
 ### Achievements:
-- Successfully customized visualization techniques for improved data readability and accessibility.
-- Developed and implemented regression models for accurate weight prediction based on body measurements.
+- Enhanced understanding and implementation of data visualization techniques.
+- Developed and refined regression models for health-related predictions.
 
 ### Pending Tasks:
-- Further validation of regression models with additional datasets to ensure robustness and accuracy.
-- Exploration of alternative visualization libraries for enhanced data representation.
+- Further validation and testing of the regression models in real-world datasets.
+- Exploration of additional data visualization techniques to improve clarity and insight.

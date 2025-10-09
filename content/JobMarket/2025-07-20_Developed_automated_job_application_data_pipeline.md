@@ -18,7 +18,7 @@ The session aimed to enhance the efficiency of the job application process for d
 
 ### Key Activities:
 - **[[Strategy]] Analysis:** Reviewed and refined the application strategy for data science and consulting roles, focusing on grouping, prioritizing applications, and establishing a tracking system.
-- **Data Management:** Processed raw [[CSV]] data containing job listings URLs and structured it using [[Python]] scripts for deduplication and automation.
+- **[[Data Management]]:** Processed raw [[CSV]] data containing job listings URLs and structured it using [[Python]] scripts for deduplication and automation.
 - **[[Automation]] Proposal:** Developed a data processing script to extract and organize job listing details into a structured DataFrame.
 - **Tool Exploration:** Investigated Chrome extensions like Link Klipper and Link Grabber for extracting URLs from web apps, and explored custom solutions using Puppeteer and Playwright.
 

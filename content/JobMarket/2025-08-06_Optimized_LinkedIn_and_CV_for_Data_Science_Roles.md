@@ -17,10 +17,10 @@ publish: false
 The session aimed to enhance Matías Iglesias' professional presence and job application materials for roles in data science and related fields.
 
 ### Key Activities
-- **LinkedIn Profile Optimization**: Implemented strategies to align the profile with top search results for data science positions, focusing on headline, about section, experience, skills, and interests.
+- **LinkedIn Profile [[Optimization]]**: Implemented strategies to align the profile with top search results for data science positions, focusing on headline, about section, experience, skills, and interests.
 - **Resume Enhancement**: Developed keyword-rich descriptions for professional experiences, tailored for both academic and industry audiences, emphasizing key skills and technologies.
-- **[[Content [[Strategy]]]] Blueprint**: Outlined a comprehensive strategy for establishing a sustainable content presence, detailing content pillars, platform choices, posting cadence, formatting recipes, automation techniques, and performance metrics.
-- **[[Job Application]] Strategies**: Explored strategies for tailoring CVs and outreach for tech roles, and optimizing job applications through A/B testing and networking.
+- **Content [[Strategy]] Blueprint**: Outlined a comprehensive strategy for establishing a sustainable content presence, detailing content pillars, platform choices, posting cadence, formatting recipes, automation techniques, and performance metrics.
+- **Job Application Strategies**: Explored strategies for tailoring CVs and outreach for tech roles, and optimizing job applications through A/B testing and networking.
 - **Job Rejection Analysis**: Reflected on common reasons behind job rejections and provided guidance on interpreting feedback and improving professional email responses.
 
 ### Achievements

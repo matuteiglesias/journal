@@ -17,7 +17,7 @@ publish: false
 The session aimed to develop a comprehensive strategy for job applications, focusing on optimizing CVs and cover letters for various technical roles.
 
 ### Key Activities
-- **[[Job Application]] Ranking:** Created a structured ranking of job roles based on CV versions, categorizing them into tiers to optimize application success.
+- **Job Application Ranking:** Created a structured ranking of job roles based on CV versions, categorizing them into tiers to optimize application success.
 - **Efficient Application [[Strategy]]:** Developed a tactical plan for applying to Tier 1 jobs efficiently using a base CV and reusable cover letter template.
 - **Tailored Strategies:** Outlined specific strategies for Senior Staff Data Engineer and [[Machine Learning]] Engineer roles, focusing on CV optimization and cover letter customization.
 - **[[AI]]-Generated Cover Letters:** Analyzed and improved [[AI]]-generated cover letters, emphasizing personalization and avoiding generic phrasing.

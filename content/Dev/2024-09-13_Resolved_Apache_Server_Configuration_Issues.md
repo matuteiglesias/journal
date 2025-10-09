@@ -1,0 +1,36 @@
+---
+title: "Resolved Apache Server Configuration Issues"
+tags: ['Apache', 'Troubleshooting', 'Server Configuration', 'Networking', 'Web Hosting']
+created: 2024-09-13
+publish: true
+---
+
+## 📅 2024-09-13 — Session: Resolved Apache Server Configuration Issues
+
+**🕒 22:45–23:35**  
+**🏷️ Labels**: Apache, Troubleshooting, Server Configuration, Networking, Web Hosting  
+**📂 Project**: Dev  
+**⭐ Priority**: MEDIUM  
+
+
+### Session Goal
+The primary goal of this session was to troubleshoot and resolve various configuration issues with Apache servers, particularly focusing on SSH responses on HTTP requests, domain configuration, and port conflicts.
+
+### Key Activities
+- **[[Troubleshooting]] Apache Server [[Configuration]]:** Systematic approach to address SSH responding on port 80 instead of HTTP, including conflict checks and log analysis.
+- **Resolving Access Issues:** Checked configurations, network settings, and firewall rules to ensure proper server access.
+- **AWS External Access [[Troubleshooting]]:** Diagnosed issues with security group settings, network ACLs, and DNS configurations for Apache servers hosted on AWS.
+- **Moving Webpage Directory:** Transferred the `mapamseg` directory to the Apache web root with correct permissions.
+- **Domain [[Configuration]] for matuteiglesias.link:** Checked DNS and VirtualHost configurations to resolve domain access issues.
+- **Resolving Virtual Host Conflicts:** Addressed conflicts between default and custom virtual hosts.
+- **Apache [[Configuration]] for matiasdice.com:** Debugged issues related to DocumentRoot serving content.
+- **Port [[Configuration]] Analysis:** Ensured Apache was listening on port 80 and resolved any port conflicts.
+
+### Achievements
+- Successfully identified and resolved SSH and HTTP misconfiguration issues.
+- Ensured Apache servers are correctly configured to listen on the appropriate ports.
+- Resolved domain access issues for `matuteiglesias.link` and `matiasdice.com`.
+
+### Pending Tasks
+- Further monitoring of Apache server performance to ensure stability.
+- Review and optimize DNS and firewall configurations for enhanced security and performance.

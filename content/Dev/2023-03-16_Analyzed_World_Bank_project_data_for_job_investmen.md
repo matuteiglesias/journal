@@ -1,6 +1,6 @@
 ---
 title: "Analyzed World Bank project data for job investments"
-tags: ['World Bank', 'Data Analysis', 'Pandas', 'Job Investments', 'Africa', 'Asia']
+tags: ['World Bank', 'Data Analysis', 'Pandas', 'Optimization', 'Job Investments']
 created: 2023-03-16
 publish: true
 ---
@@ -8,26 +8,26 @@ publish: true
 ## 📅 2023-03-16 — Session: Analyzed World Bank project data for job investments
 
 **🕒 20:35–21:00**  
-**🏷️ Labels**: World Bank, Data Analysis, Pandas, Job Investments, Africa, Asia  
+**🏷️ Labels**: World Bank, Data Analysis, Pandas, Optimization, Job Investments  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to explore and analyze World Bank project data to identify job-related investments in Africa and Asia.
+The session aimed to explore and analyze World Bank project data to identify job-related investments in Africa and Asia. This involved using [[Python]] libraries like pandas and datetime for data manipulation.
 
 ### Key Activities
-- Initiated a data analysis notebook to explore World Bank project data using pandas and datetime libraries.
-- Generated a list of suggested titles for a file related to World Bank projects and job-related investments.
-- Developed and executed [[Python]] scripts to load, process, and filter World Bank project data, focusing on projects approved after January 1, 2000, in Africa and Asia.
-- Analyzed project data by displaying counts of projects by region and lending instrument, and statistics on project development objectives.
-- Sampled projects based on lending instruments, created dataframes for project and location information, and exported results to [[CSV]] files.
-- Optimized data processing scripts by improving dataframe merging and grouping efficiency, including optimized code examples.
+- **[[Data Analysis]] Setup**: Initiated a notebook for analyzing World Bank projects, focusing on job-related investments in Africa and Asia.
+- **Title Suggestions**: Generated a list of suggested titles for files related to World Bank job-related investments.
+- **[[Data Processing]]**: Executed [[Python]] scripts using pandas to load, process, and filter World Bank project data, specifically targeting projects approved after January 1, 2000, in Africa and Asia.
+- **Project Analysis**: Analyzed project data to display counts of projects by region and lending instrument, and examined project development objectives.
+- **Sampling and Export**: Created dataframes for project and location information, and exported results to [[CSV]] files.
+- **[[Optimization]]**: Improved data processing efficiency by optimizing dataframe merging and grouping operations.
 
 ### Achievements
-- Successfully processed and analyzed World Bank project data, identifying key insights related to job-related investments in Africa and Asia.
-- Enhanced data processing efficiency through optimized dataframe operations.
+- Successfully processed and analyzed World Bank project data, focusing on job-related investments in Africa and Asia.
+- Optimized data processing scripts for better performance and efficiency.
 
 ### Pending Tasks
-- Further refine data analysis methods to enhance the accuracy of insights.
-- Explore additional data sources to complement the current analysis.
+- Further analysis on the impact of these investments on job creation in specific regions.
+- [[Integration]] of additional data sources for a more comprehensive analysis.

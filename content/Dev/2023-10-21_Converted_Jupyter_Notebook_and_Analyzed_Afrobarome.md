@@ -7,22 +7,26 @@ publish: true
 
 ## 📅 2023-10-21 — Session: Converted Jupyter Notebook and Analyzed Afrobarometer Data
 
-**🕒 21:40–22:20**  
+**🕒 21:35–22:20**  
 **🏷️ Labels**: Jupyter, Html Conversion, Afrobarometer, Data Analysis, Visualization  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal
-The primary goal of this session was to convert a [[Jupyter]] notebook into an HTML format and to analyze Afrobarometer data for insights and visualization.
+**Session Goal:**
+The session aimed to convert a [[Jupyter]] Notebook to HTML format and analyze Afrobarometer survey data.
 
-### Key Activities
-- **[[Jupyter]] Notebook Conversion**: Utilized `jupyter nbconvert` to convert a [[Jupyter]] notebook (.ipynb) to an HTML file. This involved resolving compatibility issues between the `jinja2` library and `nbconvert` tool.
-- **Afrobarometer [[Data Analysis]]**: Created markdown descriptions for Afrobarometer maps and provided an overview of the variables and datasets. An email update was sent to Eric detailing the available datasets and visualizations.
+**Key Activities:**
+- Converted a [[Jupyter]] Notebook to HTML using `jupyter nbconvert`, resolving compatibility issues with `jinja2`.
+- Successfully addressed syntax highlighting and accessibility warnings during the conversion.
+- Created a markdown description for visualizing Afrobarometer survey data across administrative levels.
+- Summarized Afrobarometer variables and datasets, providing insights and visualizations.
+- Sent an email update to Eric with details on the Afrobarometer datasets, including a full dataset and a curated subset.
 
-### Achievements
-- Successfully converted the [[Jupyter]] notebook '60 - Afrob. Exploration.ipynb' to HTML, addressing syntax highlighting and accessibility warnings.
-- Compiled and communicated a summary of Afrobarometer variables and datasets, enhancing understanding of geospatial distribution and data insights.
+**Achievements:**
+- Successfully converted the [[Jupyter]] Notebook '60 - Afrob. Exploration.ipynb' to HTML.
+- Resolved compatibility issues between `jinja2` and `nbconvert`.
+- Packaged and communicated insights on Afrobarometer data to stakeholders.
 
-### Pending Tasks
-- Further exploration and refinement of Afrobarometer data visualizations may be needed for deeper insights.
+**Pending Tasks:**
+- Further exploration of Afrobarometer data for additional insights and visualizations.

@@ -21,7 +21,7 @@ The primary aim of this session was to finalize the implementation of an email a
 - Documented the architectural design and development process of the Email Orchestrator.
 - Analyzed JSONL logs to improve routing and automation.
 - Outlined the current implementation state of the email processing pipeline and identified next steps for productization.
-- Explored methods to view terminal command history in [[Bash]] and Zsh to aid development.
+- Explored methods to view terminal command history in Bash and Zsh to aid development.
 
 ### Achievements:
 - Completed the final session of the email automation system's reconstruction cycle.

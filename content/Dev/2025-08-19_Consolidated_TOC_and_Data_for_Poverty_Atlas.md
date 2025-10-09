@@ -20,7 +20,7 @@ The session aimed to consolidate various components of the Atlas of Poverty, inc
 - Consolidated TOC deltas by book and section, integrating geographic references and publication patterns.
 - Completed consolidation of Part 1 of the Atlas of Poverty, ensuring structured and non-repetitive data organization.
 - Developed a unified TOC for Part 1, focusing on functional clarity and thematic organization.
-- Created Book 2 with implementation guides, including [[ETL]] playbooks and poverty metrics.
+- Created Book 2 with implementation guides, including ETL playbooks and poverty metrics.
 - Outlined a strategy for authoring data documentation, with templates and author-level contracts.
 - Compiled recent research queries on tabular data techniques, including autoencoders and diffusion models.
 - Designed a targeted literature harvester for academic papers using OpenAlex and Crossref.

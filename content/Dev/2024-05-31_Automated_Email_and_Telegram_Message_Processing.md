@@ -13,18 +13,19 @@ publish: true
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal
-The session aimed to automate the processing of emails and Telegram messages to extract important details such as dates and chat summaries, thereby optimizing the identification of relevant information.
+### Session Goal:
+The session aimed to automate the extraction and processing of important information from emails and Telegram messages to optimize the identification of relevant details such as dates and chat summaries.
 
-### Key Activities
-- Planned and executed the automation of email and Telegram message processing using [[Python]] and specific libraries.
-- Explored the [[Python]] `email` package for handling and processing emails, covering reading, writing, sending emails, and understanding MIME messages and email headers.
-- Investigated the use of [[Python]]'s `imaplib` package for connecting to an IMAP server, retrieving emails, and understanding the IMAP protocol.
+### Key Activities:
+- Explored the use of [[Python]] and specific libraries for automating the processing of emails and Telegram messages.
+- Reviewed guides and templates for setting up automation scripts to handle email and message data.
+- Investigated the [[Python]] `email` package for handling emails, including reading, writing, and understanding MIME messages.
+- Explored the [[Python]] `imaplib` package for connecting to an IMAP server and retrieving emails.
 
-### Achievements
-- Developed a guide for automating the extraction and processing of important information from emails and Telegram messages using [[Python]].
-- Acquired knowledge on handling emails with [[Python]]'s `email` and `imaplib` packages, including SMTP, IMAP, and MIME messages.
+### Achievements:
+- Developed a foundational understanding of the tools and libraries needed to automate email and Telegram message processing.
+- Collected resources and templates for implementing automation scripts using [[Python]].
 
-### Pending Tasks
-- Implement the developed scripts in a production environment to test their effectiveness in real-time scenarios.
-- Continue exploring advanced features of [[Python]]'s email handling libraries for further optimization.
+### Pending Tasks:
+- Implement and test the automation scripts for processing emails and Telegram messages.
+- Further explore error handling and optimization techniques for the automation process.

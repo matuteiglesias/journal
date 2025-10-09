@@ -22,7 +22,7 @@ The session aimed to address and resolve various issues in [[Python]] data pipel
 - **Enhanced `write_l2` Function:** Improved the `write_l2` function to handle digest formats more flexibly and safely.
 - **Robust Filtering for Unit Constructor:** Enhanced the `_filter_for_unit` function to exclude unnecessary fields and ensure robustness.
 - **Fix for AttributeError:** Resolved an `AttributeError` in the `l2-build` command by implementing a tolerant getter function.
-- **[[MDX]] File Inspection and [[Debugging]]:** Developed a script for inspecting [[MDX]] files and debugging hydration issues.
+- **MDX File Inspection and [[Debugging]]:** Developed a script for inspecting MDX files and debugging hydration issues.
 - **Improving Unit Source Resolution:** Ensured consistent source resolution for Units across different call sites.
 - **Enhancing Indexers and [[CLI]]:** Improved the hydration process by hardening indexers and adding a dry run feature.
 - **Fixing ID Mismatch and TypeError:** Resolved ID mismatches and TypeErrors in data processing pipelines.

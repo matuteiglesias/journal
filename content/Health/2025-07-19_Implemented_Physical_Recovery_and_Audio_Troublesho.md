@@ -17,7 +17,7 @@ publish: false
 The session aimed to implement a physical recovery protocol while addressing audio volume issues in devices.
 
 ### Key Activities
-- **[[Health]] Protocol Implementation**: Followed a detailed physical recovery protocol focusing on hydration, topical applications, anti-inflammatory meal prep, and medication recommendations for rhinitis and hangover symptoms.
+- **Health Protocol Implementation**: Followed a detailed physical recovery protocol focusing on hydration, topical applications, anti-inflammatory meal prep, and medication recommendations for rhinitis and hangover symptoms.
 - **Audio Volume [[Troubleshooting]]**: Conducted a comprehensive troubleshooting process for low volume issues in Text-to-Speech (TTS) applications, including adjusting device and Bluetooth settings, and exploring accessibility options.
 - **Device [[Configuration]] Review**: Reviewed and suggested improvements for device audio settings, focusing on Bluetooth audio profiles to enhance user experience.
 

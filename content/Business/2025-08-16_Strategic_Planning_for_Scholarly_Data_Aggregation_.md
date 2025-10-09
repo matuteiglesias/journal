@@ -18,12 +18,12 @@ The session aimed to explore strategies and tools for enhancing developer resume
 
 ### Key Activities:
 - **Resume Enhancement:** Explored strategies to bridge gaps in developer resumes by highlighting engineering accomplishments in high-scale client performance and data engineering.
-- **[[Data Ingestion]]:** Developed a daily milestone strategy for managing data ingestion tasks, focusing on automation and performance metrics.
+- **Data Ingestion:** Developed a daily milestone strategy for managing data ingestion tasks, focusing on automation and performance metrics.
 - **Economic Data Aggregation:** Planned search queries for aggregating economic data from platforms like GitHub, arXiv, and RePEc.
-- **API and Library Searches:** Conducted search queries for GitHub repositories and APIs related to scholarly works, including the RePEc API and arXiv [[Python]] libraries.
+- **[[API]] and Library Searches:** Conducted search queries for GitHub repositories and APIs related to scholarly works, including the RePEc [[API]] and arXiv [[Python]] libraries.
 - **[[Web Scraping]] Tools:** Searched for GitHub scrapers for working papers from organizations like NBER and ECB.
 - **Data Aggregation Tools:** Outlined open-source tools for scholarly data aggregation and provided a checklist for adapting these tools.
-- **OpenAlex Data Integration:** Planned the integration of OpenAlex data with custom navigation, detailing reuse and replacement strategies.
+- **OpenAlex Data [[Integration]]:** Planned the integration of OpenAlex data with custom navigation, detailing reuse and replacement strategies.
 
 ### Achievements:
 - Formulated a comprehensive strategy for enhancing developer resumes.

@@ -23,7 +23,7 @@ The session aimed to develop and enhance tools for managing terminal history, fo
 - Updated scripts to handle missing timestamps in shell history files, adding fallback parsing and surrogate dates.
 - Enhanced a [[CLI]] tool for terminal history management, including a `--max-preview` argument for command display control.
 - Provided solutions for fixing timestamp issues in shell history and ensuring accurate logging.
-- Offered a deployment guide for [[Quartz]] sites, detailing workflow and hosting options.
+- Offered a deployment guide for Quartz sites, detailing workflow and hosting options.
 
 ### Achievements
 - Successfully implemented a structured model for operational efficiency using the bubble framework.

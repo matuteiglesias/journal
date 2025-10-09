@@ -29,4 +29,4 @@ The session aimed to develop a modular framework for content mining and transfor
 
 ### Pending Tasks:
 - Further development and implementation of the proposed framework and repository structures.
-- Integration of identified data file pointers into ongoing projects.
+- [[Integration]] of identified data file pointers into ongoing projects.

@@ -18,7 +18,7 @@ The session aimed to debug and enhance various aspects of [[Python]] pipeline ma
 
 ### Key Activities
 - Addressed an `IsADirectoryError` by providing solutions for handling file downloads correctly.
-- Managed [[Streamlit]] button reruns by utilizing session state to preserve input values.
+- Managed Streamlit button reruns by utilizing session state to preserve input values.
 - Debugged metadata persistence issues in `RunManager`, identifying causes and suggesting fixes.
 - Resolved a `FileNotFoundError` by ensuring directory existence before saving metadata.
 - Analyzed critical path mismatches and timestamp issues in `RunManager`, providing detailed diagnostics and fixes.

@@ -20,7 +20,7 @@ The session aimed to update and enhance the digest management system and perform
 - **Digest Management System Update**: Introduced a 'Digest lane' with wiring and a new data store for digests. Implemented weekly digests and removed evidence requirements for validation.
 - **Consolidation of Sessions and LogEvents**: Proposed a unified structure for managing sessions and cohorts, maintaining governance with `validated=true`.
 - **Directed Graph Analysis**: Built a directed graph to analyze upstream nodes leading to the 'DIGESTS' node, identifying sources, cycles, and generating reports in [[CSV]] and GraphML formats.
-- **Graph Optimization**: Simplified the graph by normalizing node names and constructing a backbone based on node centrality.
+- **Graph [[Optimization]]**: Simplified the graph by normalizing node names and constructing a backbone based on node centrality.
 - **Operational Design for L2 Channels**: Planned the operational design for managing L2 channels and their aggregation, including pseudocode for implementation.
 
 ### Achievements

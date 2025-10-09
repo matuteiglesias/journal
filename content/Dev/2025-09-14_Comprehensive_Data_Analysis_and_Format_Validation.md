@@ -22,7 +22,7 @@ The session aimed to provide a comprehensive overview and plan for data analysis
 - Conducted search queries on GitHub for issues related to REDATAM and RBFX, exploring project details and file formats.
 - Analyzed the structure and characteristics of RXDB and RBFX files, validating hypotheses about encrypted Parquet formats.
 - Evaluated Redatam SPC syntax and export queries for microdata handling.
-- Assessed the feasibility of accessing atomic records in AES-256 encrypted RBFX files, considering runtime and API limitations.
+- Assessed the feasibility of accessing atomic records in AES-256 encrypted RBFX files, considering runtime and [[API]] limitations.
 
 ### Achievements
 - Established a reproducible path for data analysis and validation, including criteria for scaling a bit-unpacker.

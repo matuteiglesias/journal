@@ -1,6 +1,6 @@
 ---
 title: "Explored AWS and Domain Management Strategies"
-tags: ['AWS', 'Domain Management', 'Html Development', 'Web Hosting']
+tags: ['AWS', 'Domain Management', 'Html Development', 'Billing', 'Web Hosting']
 created: 2023-04-14
 publish: true
 ---
@@ -8,33 +8,27 @@ publish: true
 ## 📅 2023-04-14 — Session: Explored AWS and Domain Management Strategies
 
 **🕒 00:50–01:45**  
-**🏷️ Labels**: AWS, Domain Management, Html Development, Web Hosting  
+**🏷️ Labels**: AWS, Domain Management, Html Development, Billing, Web Hosting  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal
-The session aimed to explore domain registration alternatives, understand AWS billing and cost management, and manage domain names effectively.
+### Session Goal:
+The session aimed to explore domain registration alternatives, understand AWS billing, and manage domain and cloud resources effectively.
 
-### Key Activities
-- Reviewed alternatives to Google Domains for domain registration, including Namecheap and web hosting providers.
-- Explored AWS billing and cost management, including accessing the Billing and Cost Management console.
-- Retrieved details about AWS account resources, including domains and VPS instances.
-- Discussed the role of AWS security groups as virtual firewalls.
-- Verified the status of EC2 instances and checked domain names associated with an AWS account.
-- Managed domain names with Hong Kong Juming Network Technology and explored steps to recover a domain from squatting.
-- Discussed domain registration complaints and procedures.
-- Planned the use of AWS with a new domain, including setting up DNS records and using EC2 for hosting.
-- Set up a split screen environment for HTML development and explored HTML editing tools with live preview options.
+### Key Activities:
+- **Domain Registration:** Investigated alternatives to Google Domains, including Namecheap and other web hosting providers.
+- **AWS Billing:** Reviewed AWS billing and cost management processes, providing a guide to monitor costs and usage.
+- **AWS Management:** Accessed AWS resources, including EC2 instances and domain management using AWS Route 53.
+- **Domain Management:** Managed domain names with Hong Kong Juming Network Technology and explored recovery strategies from domain squatting.
+- **HTML Development:** Set up a split screen for HTML development and explored tools like Live Server in Visual Studio Code for real-time previews.
 
-### Achievements
-- Identified alternative domain registrars and web hosting providers.
-- Gained insights into AWS billing and cost management processes.
-- Successfully retrieved AWS account resources and verified EC2 instance status.
-- Managed domain names and explored recovery options for squatted domains.
-- Planned the integration of new domains with AWS services.
-- Enhanced HTML development efficiency with a split screen setup and live preview tools.
+### Achievements:
+- Identified viable alternatives for domain registration.
+- Clarified AWS billing procedures and accessed relevant resources.
+- Managed domain-related tasks efficiently, including potential domain transfers and recovery strategies.
+- Enhanced HTML development workflow with real-time editing and preview capabilities.
 
-### Pending Tasks
-- Further explore legal options for domain recovery from squatting.
-- Implement the planned integration of new domains with AWS services.
+### Pending Tasks:
+- Further exploration of AWS security groups and additional cloud resources.
+- Continued investigation into domain registration complaints and legal procedures.

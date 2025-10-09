@@ -18,7 +18,7 @@ The session aimed to enhance Matías's public presence and website effectiveness
 
 ### Key Activities
 - **Strategic Branding and [[Communication]]**: Explored strategies to improve public presence through clear role definitions and communication strategies.
-- **[[Job Search]] Positioning**: Discussed initiatives to improve job candidacy by crafting a professional identity and dynamic portfolio.
+- **Job Search Positioning**: Discussed initiatives to improve job candidacy by crafting a professional identity and dynamic portfolio.
 - **GitHub README Update**: Refined the GitHub `README.md` to reflect Matías's new role as the founder of an [[AI]] lab.
 - **Website Enhancement Recommendations**: Provided actionable insights to improve user engagement and visibility on a personal website.
 

@@ -21,7 +21,7 @@ The session aimed to develop and enhance scripts for audio diarization and trans
 - Implemented scripts to convert non-.wav audio formats to .wav using ffmpeg for further processing.
 - Developed a script `generate_rttm.py` using the `pyannote.audio` library to generate RTTM files from WAV files.
 - Enhanced error handling in the RTTM generation scripts to ensure smooth execution and clear error messages.
-- Provided commands for cleaning caches on Linux systems to free up disk space.
+- Provided commands for cleaning caches on [[Linux]] systems to free up disk space.
 
 ### Achievements
 - Successfully developed and tested scripts for audio diarization and transcription, allowing for batch processing and error handling.
@@ -29,4 +29,4 @@ The session aimed to develop and enhance scripts for audio diarization and trans
 
 ### Pending Tasks
 - Further testing and optimization of the diarization scripts to handle larger datasets efficiently.
-- Integration of the developed scripts into a larger audio processing pipeline for automated workflows.
+- [[Integration]] of the developed scripts into a larger audio processing pipeline for automated workflows.

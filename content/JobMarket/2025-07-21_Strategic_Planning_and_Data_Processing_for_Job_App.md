@@ -19,8 +19,8 @@ The session aimed to optimize the job application process through strategic plan
 ### Key Activities
 - **[[Strategic Planning]]**: Discussed key strategic questions and proposed a workflow for job applications to address potential challenges.
 - **[[Data Processing]]**: Utilized pandas to generate a DataFrame summarizing job listings, including job titles, companies, and application links.
-- **[[Data Analysis]] and Visualization**: Imported job-related [[CSV]] data and visualized it using Seaborn and Matplotlib to gain insights.
-- **[[Job Application]] Briefing**: Provided a structured overview of 15 job postings with application statuses and recommendations.
+- **[[Data Analysis]] and [[Visualization]]**: Imported job-related [[CSV]] data and visualized it using Seaborn and [[Matplotlib]] to gain insights.
+- **Job Application Briefing**: Provided a structured overview of 15 job postings with application statuses and recommendations.
 
 ### Achievements
 - Developed a strategic workflow for job applications.

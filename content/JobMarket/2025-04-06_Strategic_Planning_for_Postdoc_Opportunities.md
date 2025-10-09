@@ -13,24 +13,26 @@ publish: false
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal
-The goal of this session was to explore and strategically plan for postdoc opportunities that align with Matías' interdisciplinary profile, focusing on tech-policy-oriented roles.
+### Session Goal:
+The session aimed to strategically plan and explore postdoc opportunities that align with Matías' interdisciplinary profile, focusing on tech-policy hybrid roles, industry-sponsored, or self-designed postdocs.
 
-### Key Activities
-- Developed a strategic approach for leveraging Matías' skills in seeking postdoc opportunities.
-- Outlined strategies for securing postdoc positions with lower competition compared to industry roles.
-- Analyzed seasonal trends in postdoc applications and provided a calendar overview.
-- Identified promising institutions for interdisciplinary researchers.
-- Conceptualized the role of a 'ghost strategist' for strategic planning.
-- Investigated 20–30 realistic postdoc options aligned with Matías' profile.
-- Expanded the list of postdoc opportunities at prestigious institutions.
-- Mapped Tier A institutions for innovative profiles.
-- Explored Tier B creative and applied labs and Tier C strategic entry points in Latin America and Southern Europe.
+### Key Activities:
+- Discussed strategic approaches for leveraging Matías' skills in seeking postdoc opportunities, emphasizing tech-oriented and policy-tech hybrid roles.
+- Explored strategies for securing postdoc positions, including compensation realities and strategic outreach plans.
+- Reviewed seasonal trends in postdoc applications and developed a calendar overview for application timing.
+- Identified promising institutions for researchers with interdisciplinary backgrounds, focusing on innovative and non-traditional profiles.
+- Introduced the concept of a 'ghost strategist' to assist in crafting strategies and materials for applications.
+- Investigated a comprehensive list of 30 postdoc options, categorized by prestige and focus areas.
+- Mapped Tier A institutions known for openness to interdisciplinary work and creative postdoctoral opportunities.
+- Explored Tier B and Tier C institutions for creative and applied labs, focusing on civic tech, data science, and international development.
 
-### Achievements
-- Compiled a comprehensive list of postdoc opportunities across various institutions.
-- Developed a strategic outreach plan and identified key institutions for application.
+### Achievements:
+- Compiled a comprehensive list of potential postdoc opportunities tailored to Matías' profile.
+- Developed strategic plans for application timing and outreach.
+- Identified key institutions and labs for potential collaboration and research opportunities.
 
-### Pending Tasks
-- Finalize the outreach strategy and begin contacting identified institutions.
-- Prepare application materials tailored to each institution's focus areas.
+### Pending Tasks:
+- Finalize and prioritize the list of postdoc opportunities.
+- Develop detailed application materials with the help of a 'ghost strategist'.
+- Initiate outreach to selected institutions and labs.
+- Monitor application deadlines and adjust plans accordingly.

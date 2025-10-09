@@ -19,8 +19,8 @@ The session focused on preparing and refining job applications for various engin
 ### Key Activities
 - Recommended a tailored CV for a Backend Engineering role, emphasizing skills in Node.js and related technologies.
 - Drafted a job posting template for a Data Engineer position in a fintech project, detailing responsibilities and requirements.
-- Composed a cover letter for a Data Engineer role at CloudGeometry, showcasing experience with AWS, [[ETL]], and Agile methodologies.
-- Created an application note for a full-stack development role at TRM, highlighting expertise in API design and microservices.
+- Composed a cover letter for a Data Engineer role at CloudGeometry, showcasing experience with AWS, ETL, and Agile methodologies.
+- Created an application note for a full-stack development role at TRM, highlighting expertise in [[API]] design and microservices.
 - Reviewed employment visa sponsorship requirements for potential U.S. employment.
 
 ### Achievements

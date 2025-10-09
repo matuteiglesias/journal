@@ -21,7 +21,7 @@ The session aimed to automate the setup and maintenance of a [[Docusaurus]] proj
 - Implemented automation for cloning, syncing, and configuring [[Docusaurus]] repositories, ensuring up-to-date documentation and configuration.
 - Addressed specific [[Docusaurus]] configuration errors, including `prism-react-renderer` and `editUrl` issues, by providing detailed guides and script modifications.
 - Resolved YAML front matter errors in markdown files, offering both immediate fixes and preventive measures for future builds.
-- Compiled a checklist for build blockers and cleanup tasks, focusing on YAML, [[MDX]], and markdown issues.
+- Compiled a checklist for build blockers and cleanup tasks, focusing on YAML, MDX, and markdown issues.
 
 ### Achievements
 - Successfully automated the [[Docusaurus]] project setup and maintenance process, reducing manual intervention.

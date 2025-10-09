@@ -20,7 +20,7 @@ The session aimed to address multiple errors and improve the codebase's structur
 - **[[Error Handling]]**: Fixed `AttributeError` in `datetime` usage and `IsADirectoryError` in file handling, providing solutions and code snippets for proper usage.
 - **Code [[Refactoring]]**: Refactored the `save_metadata` method in `RunManager` and updated the pipeline for directory-based outputs. This included separating metadata directories and file paths, and ensuring consistent directory returns from `make_run_dir()`.
 - **Bug Fixes**: Resolved a path type mismatch in the `file_download_link` function and improved file download logic by modifying the function to handle directories correctly.
-- **Job Matching [[Automation]]**: Organized job match results by run using [[Streamlit]], scanning directories, and constructing paths.
+- **Job Matching [[Automation]]**: Organized job match results by run using Streamlit, scanning directories, and constructing paths.
 - **Prototype Assessment**: Conducted a mid-prototype assessment for a job search pipeline, identifying gaps and planning enhancements.
 - **Text Correction**: Performed grammatical corrections and phrase reformulations in content writing.
 

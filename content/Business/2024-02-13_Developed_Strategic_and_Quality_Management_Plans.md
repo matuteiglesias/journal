@@ -1,6 +1,6 @@
 ---
 title: "Developed Strategic and Quality Management Plans"
-tags: ['Strategic Planning', 'Quality Management', 'Iso Standards', 'Public Security', 'Project Management']
+tags: ['QMS', 'Iso Standards', 'Public Security', 'Quality Management', 'Strategic Planning', 'Documentation']
 created: 2024-02-13
 publish: true
 ---
@@ -8,28 +8,29 @@ publish: true
 ## 📅 2024-02-13 — Session: Developed Strategic and Quality Management Plans
 
 **🕒 00:05–03:00**  
-**🏷️ Labels**: Strategic Planning, Quality Management, Iso Standards, Public Security, Project Management  
+**🏷️ Labels**: QMS, Iso Standards, Public Security, Quality Management, Strategic Planning, Documentation  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal
-The session aimed to develop strategic and quality management plans for the Dirección General de Informática del Ministerio de Seguridad, focusing on enhancing operational efficiency and quality standards through technological innovation and compliance with ISO standards.
+**Session Goal:**
+The session aimed to develop strategic and quality management plans for the Dirección General de Informática del Ministerio de Seguridad, focusing on integrating ISO standards and improving operational efficiency.
 
-### Key Activities
-- Outlined a cost-effective waterproofing solution for home improvement.
-- Developed a strategic plan to enhance public security operations through technology and continuous training.
-- Proposed a quality improvement plan for the software development team, structured in phases: evaluation, planning, implementation, and monitoring.
-- Explored the integration of ISO 9001 with other standards to improve service and product quality.
-- Detailed the integration of quality management and information security systems, including a multidisciplinary team structure and implementation timeline.
-- Provided initial steps for implementing a Quality Management System (QMS), emphasizing scope definition, team formation, and initial analysis.
-- Created detailed checklists for the first three months of the QMS project, focusing on scope definition, team consolidation, and internal audits.
-- Detailed roles and responsibilities for documentation development in the QMS project.
+**Key Activities:**
+- Outlined a cost-effective waterproofing guide for home improvement.
+- Developed a strategic plan for public security operations, emphasizing technological innovation and resource optimization.
+- Proposed a quality improvement plan for the Ministry's development team, structured in four phases: evaluation, planning, implementation, and monitoring.
+- Detailed the integration of ISO 9001 with other relevant standards to enhance quality and information security.
+- Created an execution plan for integrating quality and information security management systems.
+- Drafted initial steps for implementing a Quality Management System (QMS), including scope definition and team formation.
+- Established detailed checklists for the first three months of the QMS project, focusing on scope definition, team consolidation, and internal audits.
+- Planned the intensive design and development phase of the QMS project, targeting documentation completion and process improvements.
+- Assigned roles and responsibilities for the documentation development phase, aligning with ISO standards.
 
-### Achievements
-- Established a comprehensive strategic plan for public security and a quality improvement framework for the Ministry's software development team.
-- Developed execution plans and checklists for the initial phases of the QMS project, ensuring alignment with ISO standards.
+**Achievements:**
+- Completed strategic and quality management frameworks for the Ministry of Security.
+- Developed comprehensive checklists and execution plans for QMS implementation.
 
-### Pending Tasks
-- Further detailing of the execution plans for months 4 to 6 in the QMS project, focusing on design, development, and process improvements.
-- Continuous monitoring and adjustment of strategic and quality management plans as implementation progresses.
+**Pending Tasks:**
+- Continue with the execution phase of the QMS project, focusing on documentation and process standardization.
+- Monitor and adjust the implementation plan based on initial findings and audits.

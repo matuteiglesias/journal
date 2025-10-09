@@ -24,7 +24,7 @@ The session aimed to execute various automation scripts, troubleshoot errors, an
 
 ### Achievements:
 - Successfully executed and debugged automation scripts.
-- Resolved connection errors in PromptFlow, ensuring stable API interactions.
+- Resolved connection errors in PromptFlow, ensuring stable [[API]] interactions.
 - Managed dependency issues, enhancing the overall stability of the development environment.
 
 ### Pending Tasks:

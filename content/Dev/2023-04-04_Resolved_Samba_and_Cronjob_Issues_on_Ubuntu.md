@@ -1,6 +1,6 @@
 ---
 title: "Resolved Samba and Cronjob Issues on Ubuntu"
-tags: ['Samba', 'Ubuntu', 'Cronjob', 'Python', 'Networking']
+tags: ['Samba', 'Ubuntu', 'Cronjob', 'Troubleshooting', 'Python', 'Automation']
 created: 2023-04-04
 publish: true
 ---
@@ -8,33 +8,25 @@ publish: true
 ## 📅 2023-04-04 — Session: Resolved Samba and Cronjob Issues on Ubuntu
 
 **🕒 00:45–01:30**  
-**🏷️ Labels**: Samba, Ubuntu, Cronjob, Python, Networking  
+**🏷️ Labels**: Samba, Ubuntu, Cronjob, Troubleshooting, Python, Automation  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
-**Session Goal:**
-The primary goal of this session was to troubleshoot and resolve issues related to Samba share access on Ubuntu systems and to address cronjob execution problems for [[Python]] scripts.
+### Session Goal
+The primary objective of this session was to troubleshoot and resolve issues related to Samba shares and cronjob executions on Ubuntu systems.
 
-**Key Activities:**
-- **Samba [[Troubleshooting]]:**
-  - Checked the Samba service status and configuration to resolve issues with the 'sambashare' folder not appearing on a PC.
-  - Verified access issues to a Samba SMB share by checking the Samba daemon status, folder existence, and consulting Samba logs.
-  - Conducted network checks and ensured proper package installation on Ubuntu 22 to troubleshoot Samba share access.
-  - Provided instructions for connecting to a Samba share folder, including credential management.
+### Key Activities
+- **Samba [[Troubleshooting]]**: Addressed issues with Samba share visibility and access on Ubuntu. This included verifying Samba service status, checking configuration files, and examining logs for errors.
+- **[[Networking]]**: Identified the IP address of network devices using terminal commands and DHCP client tables.
+- **File Sharing**: Provided steps for accessing Samba shares, including credential management.
+- **[[Python]] and Cronjob [[Automation]]**: Set up and troubleshot cronjobs for [[Python]] script execution. This involved checking logs, permissions, and handling output redirection.
 
-- **[[Networking]] Insight:**
-  - Outlined steps to find the IP address of another PC on the network using terminal commands.
+### Achievements
+- Successfully resolved Samba share access issues by ensuring correct configuration and service status.
+- Established reliable methods for finding network IP addresses and accessing Samba shares.
+- Configured cronjobs to execute [[Python]] scripts with proper directory settings and output handling.
 
-- **Cronjob [[Automation]]:**
-  - Set up a cronjob to run a [[Python]] script daily, explained crontab syntax, and addressed issues related to cronjob execution.
-  - Troubleshot cronjob issues by checking logs, permissions, paths, and dependencies.
-  - Discussed handling cronjob output without an MTA and suggested solutions for output redirection.
-  - Resolved a directory issue for a [[Python]] script by suggesting a change in the working directory before execution.
-
-**Achievements:**
-- Successfully resolved Samba share access issues on Ubuntu systems.
-- Established a reliable cronjob setup for [[Python]] script execution with proper output handling.
-
-**Pending Tasks:**
-- Monitor the cronjob execution for any further issues and ensure Samba share stability across different network environments.
+### Pending Tasks
+- Further monitoring of Samba share stability and cronjob executions to ensure ongoing reliability.
+- Consider setting up email notifications for cronjob outputs if MTA is not installed.

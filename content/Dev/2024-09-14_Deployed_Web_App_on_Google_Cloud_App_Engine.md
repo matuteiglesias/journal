@@ -7,30 +7,30 @@ publish: true
 
 ## 📅 2024-09-14 — Session: Deployed Web App on Google Cloud App Engine
 
-**🕒 01:15–01:50**  
+**🕒 01:20–01:50**  
 **🏷️ Labels**: Google Cloud, App Engine, Deployment, Web Development, Permissions  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to deploy a web application on Google Cloud App Engine, ensuring it runs smoothly with correct configurations and permissions.
+The goal of this session was to deploy a web application on Google Cloud App Engine, ensuring it is correctly configured and accessible.
 
 ### Key Activities
-- Followed a guide to set up, prepare, deploy, and test a web app on Google Cloud using App Engine.
-- Chose and found a unique Google Cloud Project ID using the `gcloud` command-line tool.
-- Ensured the Project ID met the length requirement of at least 6 characters.
-- Deployed a static web application on Google App Engine, including setting up the project, organizing files, and creating an `app.yaml` configuration.
-- Ran the project locally using [[Python]]'s HTTP server to ensure functionality before deployment.
-- Renamed the project folder and deployed it to Google App Engine, confirming the deployment.
-- Fixed permissions errors for the service account accessing a Cloud Storage bucket.
-- Resolved access issues for the App Engine service account related to Cloud Storage bucket permissions.
-- Used the `gcloud app browse` command to open the deployed App Engine app in a web browser.
-- Fixed MIME type errors in JavaScript file deployment by modifying the `app.yaml` configuration.
+- **Hosting a Web App**: Followed a guide to set up, prepare, deploy, and test a web app on Google Cloud using App Engine.
+- **Project ID Management**: Chose a unique project ID and verified its length requirement for Google Cloud projects.
+- **Static Web App [[Deployment]]**: Deployed a static web app, involving setting up the project, organizing files, and creating an `app.yaml` configuration.
+- **Local Testing**: Ran the project locally using [[Python]]'s HTTP server to ensure functionality before deployment.
+- **Folder and Directory Management**: Renamed project folders and ensured correct directory navigation for deployment.
+- **Cloud Storage Permissions**: Fixed permissions errors for service accounts accessing Cloud Storage buckets.
+- **[[Troubleshooting]]**: Resolved MIME type errors and access issues for App Engine and Cloud Storage.
 
 ### Achievements
-- Successfully deployed the web application on Google Cloud App Engine.
-- Resolved all encountered issues including project ID setup, folder management, permissions, and MIME type errors.
+- Successfully deployed a web application on Google Cloud App Engine.
+- Resolved initial deployment issues related to directory structure and permissions.
+- Corrected MIME type errors to ensure proper loading of static files.
 
 ### Pending Tasks
-- Monitor the deployed application for any further issues or performance improvements.
+- Verify the deployment stability and performance over time.
+- Explore custom domain setup for the deployed app.
+- Monitor and adjust permissions as needed for ongoing access to Cloud Storage.

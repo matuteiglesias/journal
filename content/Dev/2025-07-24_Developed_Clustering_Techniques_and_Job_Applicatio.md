@@ -18,7 +18,7 @@ The session aimed to explore advanced clustering techniques and prepare a profes
 
 ### Key Activities
 - **Clustering Techniques**: Instructions were provided on saving and loading hierarchical linkage matrices using `scipy.cluster.hierarchy.linkage`, with examples in NumPy and [[CSV]] formats. Further discussion involved the use of `fcluster` with fixed distance thresholds and alternative methods like `maxclust`, distance percentiles, HDBSCAN, and leaf ordering for variable cluster sizes.
-- **[[Job Application]] [[Strategy]]**: A professional response template for a job application as an [[AI]] Engineer was crafted, including salary expectations and availability.
+- **Job Application [[Strategy]]**: A professional response template for a job application as an [[AI]] Engineer was crafted, including salary expectations and availability.
 - **[[JSON]] Handling**: A guide was outlined for mastering [[JSON]] in data workflows, covering parsing, serialization, validation, debugging, and integration.
 - **[[Error Handling]]**: Addressed a TypeError in the tokenization process by providing code snippets for data sanitization and strategies to prevent future errors.
 

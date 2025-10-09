@@ -1,6 +1,6 @@
 ---
 title: "Resolved MySQL database connection and import issues"
-tags: ['Mysql', 'SQL', 'Database', 'Troubleshooting', 'Google Cloud']
+tags: ['Mysql', 'Cloud Sql', 'Database', 'Troubleshooting', 'SQL']
 created: 2024-02-02
 publish: true
 ---
@@ -8,29 +8,29 @@ publish: true
 ## 📅 2024-02-02 — Session: Resolved MySQL database connection and import issues
 
 **🕒 21:10–22:25**  
-**🏷️ Labels**: Mysql, SQL, Database, Troubleshooting, Google Cloud  
+**🏷️ Labels**: Mysql, Cloud Sql, Database, Troubleshooting, SQL  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal
-The primary objective of this session was to establish a reliable connection to a Google Cloud SQL instance and troubleshoot any issues related to database operations, particularly focusing on MySQL.
+### Session Goal:
+The session aimed to address and resolve various issues related to MySQL database connections, data import, and SQL command execution.
 
-### Key Activities
-- Developed a memo template for tracking database connection attempts and documenting command history.
-- Set up the Cloud SQL Proxy, providing detailed command breakdowns and usage notes.
-- Troubleshot connection issues with Google Cloud SQL, addressing OAuth and connectivity errors.
-- Imported [[CSV]] files into a MySQL database, including table creation and data import commands.
-- Resolved a 'No database selected' error by using the `USE` statement and corrected SQL command sequences.
-- Addressed issues related to using reserved keywords in SQL by using backticks.
-- Provided solutions for common SQL errors such as `TypeError` during query execution and auto-increment issues in MySQL.
-- Debugged [[CSV]] row insertion problems in MySQL using pymysql and ensured proper error handling.
+### Key Activities:
+- Developed a memo template for documenting database connection attempts, including command history and troubleshooting notes.
+- Set up and configured Cloud SQL Proxy to facilitate connections to Google Cloud SQL instances.
+- Provided detailed breakdowns of Cloud SQL Proxy commands and environment variable usage.
+- Conducted troubleshooting for Google Cloud SQL connection issues, focusing on OAuth and database connectivity.
+- Outlined steps to import [[CSV]] files into MySQL databases, including table creation and data import commands.
+- Resolved SQL errors such as 'No database selected' and 'TypeError' during query execution.
+- Offered solutions for using reserved keywords in SQL and fixing auto-increment errors in MySQL tables.
+- Guided on fetching data from MySQL tables using [[Python]] and SQL commands.
 
-### Achievements
-- Successfully connected to Google Cloud SQL and documented the process for future reference.
-- Established a workflow for importing data into MySQL and handling common SQL errors.
-- Improved database operation efficiency by resolving auto-increment and reserved keyword issues.
+### Achievements:
+- Successfully connected to Google Cloud SQL and MySQL instances using Cloud SQL Proxy.
+- Resolved common SQL errors and improved database interaction scripts.
+- Enhanced understanding of SQL command syntax and error handling.
 
-### Pending Tasks
-- Further refine the memo template to include more detailed troubleshooting steps and references.
-- Explore additional error handling techniques for complex SQL operations.
+### Pending Tasks:
+- Further testing of database connection scripts in different environments.
+- Documenting additional troubleshooting scenarios for future reference.

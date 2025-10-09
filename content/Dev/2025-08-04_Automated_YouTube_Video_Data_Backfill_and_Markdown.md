@@ -17,7 +17,7 @@ publish: true
 The session aimed to automate the process of backfilling YouTube video data into [[CSV]] files and generating [[Markdown]] files from these CSVs for further processing.
 
 **Key Activities:**
-1. Developed a [[Python]] [[CLI]] script to backfill YouTube video uploads into a [[CSV]] file based on specified dates. Utilized `argparse` for command-line arguments and integrated with an existing API to fetch video data.
+1. Developed a [[Python]] [[CLI]] script to backfill YouTube video uploads into a [[CSV]] file based on specified dates. Utilized `argparse` for command-line arguments and integrated with an existing [[API]] to fetch video data.
 2. Created a batch [[Markdown]] renderer script to process [[CSV]] files of video data, slicing them into batches and generating [[Markdown]] files with metadata and links.
 3. Implemented a patch to inject date information into [[CSV]] filenames, ensuring unique and timestamped outputs.
 4. Updated command-line interface options for enhanced usability, changing positional arguments to required options.

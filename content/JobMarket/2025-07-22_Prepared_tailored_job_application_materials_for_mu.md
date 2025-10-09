@@ -20,7 +20,7 @@ The session aimed to prepare tailored application materials for various roles in
 - Developed a strategic application proposal for the Data Scientist – Product Analytics role at Phantom, focusing on aligning personal motivations and contributions with the company's mission.
 - Compiled application materials for the Senior [[AI]] Engineer role at Software Finder, including a cover letter and an experience summary highlighting relevant skills and projects.
 - Created a tailored application set for the [[AI]]/ML Engineer position at Softbinator Technologies, emphasizing qualifications and experience.
-- Summarized application materials for the [[AI]] Engineer position at Kepler Group, focusing on skills in API integration, NLP, and intelligent system architecture.
+- Summarized application materials for the [[AI]] Engineer position at Kepler Group, focusing on skills in [[API]] integration, NLP, and intelligent system architecture.
 - Drafted a cover letter for the [[Machine Learning]] Solutions Architect position at phData, highlighting ML engineering and deployment skills.
 - Refined professional communication phrasings to enhance clarity and precision.
 

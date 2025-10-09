@@ -13,20 +13,20 @@ publish: true
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal
-The goal of this session was to implement a real-time monitoring dashboard for RabbitMQ queues, inspired by Linux Dash, using [[Flask]] for the backend and JavaScript/HTML for the frontend.
+**Session Goal:** The session aimed to develop a real-time monitoring dashboard for RabbitMQ queues, inspired by [[Linux]] Dash, using [[Flask]] for backend and plain HTML/JavaScript for frontend.
 
-### Key Activities
-- **Dashboard Planning and Design**: Initial plans were laid out for a lightweight RabbitMQ dashboard, focusing on frontend and backend integration.
-- **[[Flask]] Application Development**: Implemented a [[Flask]] app to manage RabbitMQ and MongoDB, including endpoints for displaying queue counts and managing MongoDB collections.
-- **Error Fixes and Enhancements**: Addressed a `404 Not Found` error by defining a root route and added an endpoint to serve `index.html`.
-- **Frontend and Backend [[Integration]]**: Made MongoDB collections clickable in the frontend, updated the backend for data processing, and redesigned the frontend table structure.
-- **Data Handling Improvements**: Enhanced the display of RabbitMQ messages in a structured table format, implemented dynamic [[JSON]] parsing, and ensured proper data rendering.
+**Key Activities:**
+- Planned and executed the design of a lightweight RabbitMQ dashboard.
+- Implemented backend using [[Flask]] to manage RabbitMQ and MongoDB data, including handling 404 errors and defining root routes.
+- Developed [[API]] endpoints for displaying queue counts and managing MongoDB collections.
+- Updated the `/stats` endpoint to use `MongoHandler` for better maintainability.
+- Created frontend components in HTML/JavaScript to render data dynamically, including clickable MongoDB collections and structured table formats for RabbitMQ messages.
+- Enhanced data processing on the backend to normalize data structures and truncate long strings.
 
-### Achievements
-- Successfully developed a functional dashboard using [[Flask]] and JavaScript, capable of monitoring RabbitMQ queues and managing MongoDB collections.
-- Improved data processing and display techniques, ensuring robust handling of various message formats.
+**Achievements:**
+- Successfully implemented a functional dashboard with dynamic data rendering and robust backend processing.
+- Improved maintainability and abstraction in the [[Flask]] application.
 
-### Pending Tasks
-- Further refine the frontend table design to optimize user interaction and data visualization.
-- Consider additional features for real-time data updates and alerts.
+**Pending Tasks:**
+- Finalize frontend table redesign to handle nested data structures more efficiently.
+- Further enhance the user interface for better user experience.

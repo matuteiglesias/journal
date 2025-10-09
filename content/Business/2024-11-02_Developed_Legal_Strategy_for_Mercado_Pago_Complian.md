@@ -1,6 +1,6 @@
 ---
 title: "Developed Legal Strategy for Mercado Pago Compliance"
-tags: ['Mercado Pago', 'Consumer Rights', 'Legal Compliance', 'Transaction Receipts', 'Law Of Consumer Defense']
+tags: ['Mercado Pago', 'Consumer Rights', 'Legal Compliance', 'Transaction Receipts']
 created: 2024-11-02
 publish: true
 ---
@@ -8,28 +8,24 @@ publish: true
 ## 📅 2024-11-02 — Session: Developed Legal Strategy for Mercado Pago Compliance
 
 **🕒 15:10–15:35**  
-**🏷️ Labels**: Mercado Pago, Consumer Rights, Legal Compliance, Transaction Receipts, Law Of Consumer Defense  
+**🏷️ Labels**: Mercado Pago, Consumer Rights, Legal Compliance, Transaction Receipts  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal
-The session aimed to develop a legal strategy to address issues with Mercado Pago's compliance regarding transaction receipts and consumer rights.
+### Session Goal:
+The session aimed to develop a structured legal strategy to address Mercado Pago's non-compliance with providing transaction receipts, focusing on consumer rights under the Law of Consumer Defense.
 
-### Key Activities
-- Outlined a structured legal argument against a payment platform's refusal to provide transaction receipts, emphasizing consumer rights under the Law of Consumer Defense.
-- Investigated Mercado Pago's terms and conditions to identify specific sections relevant to transaction receipts.
-- Detailed user rights according to Mercado Pago's terms, suggesting a claim strategy based on consumer defense laws.
-- Analyzed the obligation of Mercado Pago to provide payment receipts, arguing the defendability of this right.
-- Provided a legal framework and strategies for consumers to request detailed payment receipts.
-- Presented arguments on the platform's responsibility in verifying funds and transactions.
-- Detailed consumer rights in obtaining transaction receipts and the legal implications of Mercado Pago's transparency.
-- Created a formal message template for escalating claims to Mercado Pago's supervisory or legal department.
+### Key Activities:
+- Outlined legal arguments against a payment platform's refusal to provide transaction receipts, emphasizing consumer rights.
+- Investigated specific terms in Mercado Pago's Terms and Conditions related to transaction receipts.
+- Detailed user rights according to Mercado Pago's policies and suggested a claim strategy.
+- Analyzed the obligation of Mercado Pago to provide payment receipts based on legal frameworks.
+- Developed a formal message template for filing a complaint with Mercado Pago.
 
-### Achievements
-- Developed a comprehensive legal strategy and framework for addressing consumer rights issues with Mercado Pago.
-- Created actionable templates and guidelines for consumer claims.
+### Achievements:
+- Established a comprehensive legal framework and strategy for consumers to request detailed payment receipts from Mercado Pago.
+- Created a formal communication template to assist users in filing complaints.
 
-### Pending Tasks
-- Monitor the implementation and effectiveness of the proposed legal strategies and templates in real-world scenarios.
-- Gather feedback from users who utilize the templates to refine and improve the approach.
+### Pending Tasks:
+- Monitor Mercado Pago's response to formal complaints and adjust the strategy as necessary.

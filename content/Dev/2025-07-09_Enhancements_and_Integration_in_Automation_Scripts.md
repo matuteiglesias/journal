@@ -21,7 +21,7 @@ The session aimed to enhance and integrate various automation scripts and workfl
 - **PromptFlow Schema Design:** Enhanced PromptFlow outputs and schemas for better data auditability and integration into modular pipelines.
 - **Stable UID Implementation:** Incorporated stable `page_uid` for tracking and deduplication in web scraping and labeling scripts.
 - **Legal Content Analysis:** Analyzed and proposed reforms for Article 18 and unified legal writing on information access.
-- **[[Pipeline]] Diagnostics:** Conducted a diagnostic walkthrough of a pipeline run, suggesting improvements and naming conventions.
+- **Pipeline Diagnostics:** Conducted a diagnostic walkthrough of a pipeline run, suggesting improvements and naming conventions.
 - **Roadmap Revision:** Revised the weekly roadmap for backend pipeline implementation, detailing completed tasks and future milestones.
 
 ### Achievements:

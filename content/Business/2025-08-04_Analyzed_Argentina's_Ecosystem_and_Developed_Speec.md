@@ -21,12 +21,12 @@ The session aimed to explore the existing ecosystem in Argentina, focusing on id
 - Analyzed the landscape of archival and discourse platforms in Argentina, identifying opportunities for new initiatives.
 - Developed [[Python]] scripts to read RTTM files, handle file paths, and process data for speaker diarization.
 - Created a workflow for integrating RTTM diarization with ASR results to produce labeled transcripts.
-- Implemented a Jupyter notebook to facilitate the transcription and diarization alignment pipeline, using the Faster Whisper model.
+- Implemented a [[Jupyter]] notebook to facilitate the transcription and diarization alignment pipeline, using the Faster Whisper model.
 
 ### Achievements
 - Identified key players and gaps in the Argentinian market that could influence new business strategies.
 - Successfully developed and tested a speech processing pipeline that integrates diarization and ASR for audio analysis.
-- Created reusable [[Python]] code and Jupyter notebooks for ongoing and future projects.
+- Created reusable [[Python]] code and [[Jupyter]] notebooks for ongoing and future projects.
 
 ### Pending Tasks
 - Further validation and testing of the diarization and ASR integration process to ensure accuracy and reliability.

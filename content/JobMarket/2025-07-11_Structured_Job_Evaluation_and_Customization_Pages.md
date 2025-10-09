@@ -22,7 +22,7 @@ The session focused on planning and structuring documentation for job evaluation
 - **Mapping User Experience:** Defined the division of labor between key pages in the assistant's interface, emphasizing how user CVs influence job scoring.
 - **Clarification on Job Scoring:** Distinguished between traditional resume parsing and custom job scoring systems.
 - **Overview of Job Scoring Mechanism:** Detailed the functionality of a job scoring engine using user-driven logic.
-- **Designing [[Job Search]] Agent:** Guided on creating a personalized job search agent using custom prompts and [[JSON]] schema.
+- **Designing Job Search Agent:** Guided on creating a personalized job search agent using custom prompts and [[JSON]] schema.
 - **Reading and Exploring Results:** Provided a guide on interpreting job match results and using filtering tools.
 - **Onboarding Customization:** Outlined objectives for user onboarding, emphasizing customization features and documentation flow.
 

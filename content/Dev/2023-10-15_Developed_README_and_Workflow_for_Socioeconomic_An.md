@@ -1,6 +1,6 @@
 ---
 title: "Developed README and Workflow for Socioeconomic Analysis"
-tags: ['README', 'Github', 'Data Processing', 'Visualization', 'Dot Format']
+tags: ['README', 'Github', 'Data Processing', 'Graph Visualization', 'Workflow']
 created: 2023-10-15
 publish: true
 ---
@@ -8,28 +8,28 @@ publish: true
 ## 📅 2023-10-15 — Session: Developed README and Workflow for Socioeconomic Analysis
 
 **🕒 03:00–03:30**  
-**🏷️ Labels**: README, Github, Data Processing, Visualization, Dot Format  
+**🏷️ Labels**: README, Github, Data Processing, Graph Visualization, Workflow  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to develop a comprehensive README for a socioeconomic analysis project focused on Argentina, and to enhance the project's documentation with visual elements and data processing workflows.
+The session aimed to create a comprehensive README for a socioeconomic analysis project focused on Argentina, and to enhance the project's documentation with visual elements and workflow diagrams.
 
 ### Key Activities
-- Created a README template in Spanish for the socioeconomic analysis project, detailing methodology, datasets, results, and contributions.
-- Generated a guide for embedding flow diagrams in GitHub README.md files, including code examples and project structure.
-- Reviewed tools and libraries for data processing and visualization, such as [[Pandas]], NumPy, and Scikit-learn.
-- Updated the data processing workflow diagram using DOT language to illustrate data flow and dependencies.
+- Created a README template in Spanish for a socioeconomic analysis project, including sections on methodology, datasets, results, and contributions.
+- Developed a guide for embedding a flowchart in a README.md file on GitHub, complete with code examples and project structure.
+- Reflected on key data processing tools and libraries such as [[Pandas]], NumPy, and Scikit-learn, highlighting their functionalities.
+- Updated the workflow diagram for data processing using DOT language to illustrate data flow and dependencies.
 - Explored graph visualization options using DOT format with Graphviz and [[Python]] libraries.
-- Assisted in generating graphs using the `graphviz` [[Python]] library.
-- Provided a guide for troubleshooting image rendering issues in GitHub repositories.
+- Assisted in generating a graph using the [[Python]] `graphviz` library.
+- Provided a guide for rendering images correctly on GitHub, focusing on [[Markdown]] syntax and troubleshooting.
 
 ### Achievements
-- Successfully developed a structured README template for the project.
-- Enhanced documentation with visual aids and updated workflows.
+- Successfully created and documented a README template for the project.
+- Enhanced project documentation with visual elements and workflow diagrams.
 - Clarified the use of various data processing tools and libraries.
 
 ### Pending Tasks
-- Finalize the integration of all visual elements into the GitHub repository.
-- Further testing and validation of image rendering and graph visualization on GitHub.
+- Further refine the README and diagrams based on peer feedback.
+- Integrate additional visualizations as the project evolves.

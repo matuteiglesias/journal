@@ -18,7 +18,7 @@ The session aimed to address multiple issues related to ChromaDB, including hand
 
 ### Key Activities
 - **Handling Read-Only Database Error**: Identified the issue of a read-only database in ChromaDB due to missing or incorrectly permissioned parent directories, and provided a solution to recreate the directory with write permissions.
-- **Code Review for Chroma Integration**: Conducted a code review to ensure functionality and prevent errors in the Chroma integration, highlighting necessary tweaks.
+- **Code Review for Chroma [[Integration]]**: Conducted a code review to ensure functionality and prevent errors in the Chroma integration, highlighting necessary tweaks.
 - **Fixing Empty SQLite File Issue**: Addressed the problem of Chroma's local store leaving an empty SQLite file by implementing a reset call to initialize the schema before collection creation.
 - **Enabling Reset in PersistentClient**: Modified settings to enable reset functionality in Chroma's PersistentClient, providing code examples and explanations for both resetting and non-resetting approaches.
 - **Managing PersistentClient Singleton Issues**: Offered solutions for managing the PersistentClient singleton in [[Python]] to avoid `ValueError` during client settings reset, recommending a single client instance with `allow_reset=True`.

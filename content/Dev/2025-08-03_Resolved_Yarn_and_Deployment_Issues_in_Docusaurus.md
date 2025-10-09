@@ -23,7 +23,7 @@ The session aimed to address and resolve multiple technical issues related to so
 - Fixed a `lint-staged` error encountered during a [[Git]] commit by diagnosing the absence of the binary and offering multiple resolution options.
 - Addressed Yarn [[CLI]] issues on Debian by uninstalling the Debian package and installing the official version to ensure proper command functionality.
 - Resolved Yarn path issues with Corepack by ensuring the shell uses the correct Corepack-managed Yarn version.
-- Configured Vercel deployment settings for [[Quartz]] projects, including specifying the root directory, build command, output directory, and install command.
+- Configured Vercel deployment settings for Quartz projects, including specifying the root directory, build command, output directory, and install command.
 
 ### Achievements
 - Successfully updated deployment pages and resolved several build and deployment-related issues, ensuring smoother development workflows.

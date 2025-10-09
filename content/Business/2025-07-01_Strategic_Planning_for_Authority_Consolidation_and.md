@@ -21,7 +21,7 @@ The session aimed to develop a strategic framework for consolidating authority t
 - **Project Visibility and Curation**: Provided structured feedback on improving project visibility, emphasizing audience segmentation and effective translation of work.
 - **Flagship Projects**: Identified 20 flagship projects for publication, targeting specific audiences.
 - **Real Estate Marketing**: Conducted search queries for commercial rental listings in Greater Buenos Aires, explored [[SEO]] strategies for real estate listings, and developed a launch plan for advertising local commercial rentals.
-- **[[SEO]] Optimization**: Proposed [[SEO]]-friendly titles for real estate listings and conducted a diagnostic review for listing drafts.
+- **[[SEO]] [[Optimization]]**: Proposed [[SEO]]-friendly titles for real estate listings and conducted a diagnostic review for listing drafts.
 - **SERP Analysis**: Analyzed SERP snippets for real estate listings to improve property descriptions.
 
 ### Achievements:

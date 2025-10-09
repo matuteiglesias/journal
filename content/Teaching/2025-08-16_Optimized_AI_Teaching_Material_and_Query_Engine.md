@@ -17,7 +17,7 @@ publish: true
 The session aimed to enhance the development and optimization of [[AI]] teaching materials and query engines, focusing on both educational content and technical retrieval systems.
 
 ### Key Activities
-- Set up OpenAI API key in a Jupyter Notebook to ensure compatibility with LlamaIndex and OpenAI SDK.
+- Set up OpenAI [[API]] key in a [[Jupyter]] Notebook to ensure compatibility with LlamaIndex and OpenAI SDK.
 - Developed a framework for evaluating educational responses, including a taxonomy and scoring rubric.
 - Designed a [[JSON]] schema for annotating QA responses to aid book assembly.
 - Created structured prompts for retriever analysis focusing on book scope and exercises.
@@ -30,7 +30,7 @@ The session aimed to enhance the development and optimization of [[AI]] teaching
 - Introduced a script for generating daily FAQs from notes stored in an SQLite database.
 
 ### Achievements
-- Successfully set up and tested the OpenAI API key integration in Jupyter.
+- Successfully set up and tested the OpenAI [[API]] key integration in [[Jupyter]].
 - Completed an educational response evaluation framework.
 - Finalized a CS101 curriculum blueprint.
 - Developed a comprehensive integration plan for query engines and node management.

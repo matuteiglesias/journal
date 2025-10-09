@@ -1,6 +1,6 @@
 ---
 title: "Processed GEO data and configured VS Code settings"
-tags: ['Geo Data', 'Python', 'Vs Code', 'Data Processing']
+tags: ['Python', 'Vs Code', 'Geo Data', 'File Management', 'Configuration']
 created: 2023-01-05
 publish: true
 ---
@@ -8,25 +8,24 @@ publish: true
 ## 📅 2023-01-05 — Session: Processed GEO data and configured VS Code settings
 
 **🕒 20:30–21:00**  
-**🏷️ Labels**: Geo Data, Python, Vs Code, Data Processing  
+**🏷️ Labels**: Python, Vs Code, Geo Data, File Management, Configuration  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to process GEO data files and configure Visual Studio Code for [[Python]] development.
+The session aimed to process GEO data files and configure Visual Studio Code settings for [[Python]] development.
 
 ### Key Activities
-- Executed a script to read GEO data files, extract unique clusters, and handle missing values using [[Python]] and [[Pandas]].
-- Configured the default [[Python]] interpreter in VS Code for [[Jupyter]] notebooks using command palette and settings editor.
-- Listed all Africa GeoJSON files using [[Python]]'s glob module.
-- Configured line start and end behavior in VS Code, including keyboard shortcuts.
-- Imported the Path class from the pathlib module in [[Python]] for handling file paths.
+- **GEO [[Data Processing]] Script**: Executed a [[Python]] script to read GEO data files, extract unique clusters, and save combined data into [[CSV]] files, handling missing values.
+- **VS Code [[Configuration]]**: Set the default [[Python]] interpreter for [[Jupyter]] notebooks and configured line start and end behavior in Visual Studio Code.
+- **[[File Management]]**: Used [[Python]]'s glob module to list GeoJSON files matching 'africa_*.geojson'.
+- **[[Python]] Libraries**: Imported the Path class from the pathlib module to manage file paths.
 
 ### Achievements
-- Successfully processed GEO data and saved combined data into [[CSV]] files.
-- Set up VS Code for efficient [[Python]] development with customized settings.
+- Successfully processed GEO data and saved outputs in [[CSV]] format.
+- Configured VS Code for improved [[Python]] development workflow.
 
 ### Pending Tasks
-- Further testing of the GEO data processing script to ensure robustness.
-- Explore additional VS Code extensions for enhanced productivity.
+- Review the processed GEO data for accuracy and completeness.
+- Further optimize VS Code settings for personal preferences.

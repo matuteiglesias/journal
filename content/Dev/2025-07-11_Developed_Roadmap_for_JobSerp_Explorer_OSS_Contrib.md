@@ -21,7 +21,7 @@ The goal of this session was to develop a comprehensive roadmap for contributing
 - **Keyword Identification**: Outlined a strategy for identifying keywords that align with job seeker personas to enhance marketing efforts.
 - **Market Research**: Investigated existing job search helper tools, focusing on revenue models and marketing funnels.
 - **Competitor Analysis**: Analyzed competitors in the job search automation space, examining their business models and monetization strategies.
-- **GitHub Guidelines**: Provided guidelines for filling out the GitHub repository form for a [[Streamlit]]-based job search helper, emphasizing [[SEO]] and contributor onboarding.
+- **GitHub Guidelines**: Provided guidelines for filling out the GitHub repository form for a Streamlit-based job search helper, emphasizing [[SEO]] and contributor onboarding.
 
 ### Achievements
 - Developed a clear roadmap for the `jobserp-explorer` project, setting the stage for effective open-source contributions.

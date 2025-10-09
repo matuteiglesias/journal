@@ -20,8 +20,8 @@ The session aimed to improve web scraping processes and explore integration tech
 - Developed a detailed plan to enhance the quality of scraped data by implementing strict ID schemas and improving link resolution.
 - Conducted technology stack queries for various websites using BuiltWith to gather insights on web technologies.
 - Optimized web scraping techniques for media sites, focusing on resolving canonical URLs and adopting structured JSONL schemas.
-- Explored Next.js blog and integration examples, including Tailwind, [[MDX]], and Meilisearch.
-- Crafted a comprehensive integration guide for Next.js and FastAPI, detailing API contracts, Pydantic models, and migration strategies.
+- Explored Next.js blog and integration examples, including Tailwind, MDX, and Meilisearch.
+- Crafted a comprehensive integration guide for Next.js and FastAPI, detailing [[API]] contracts, Pydantic models, and migration strategies.
 - Executed search queries for advertising resellers, focusing on ads.txt and sellers.json files.
 - Reflected on the roles of entities in the ad-tech ecosystem as defined by the ads.txt standard.
 

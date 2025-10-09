@@ -1,37 +1,36 @@
 ---
 title: "Developed QA Testing Workflow for NoSQL Data"
-tags: ['QA', 'Nosql', 'Python', 'Data Validation', 'Automation']
+tags: ['QA', 'Nosql', 'Python', 'AI', 'Data Validation']
 created: 2024-09-17
 publish: true
 ---
 
 ## 📅 2024-09-17 — Session: Developed QA Testing Workflow for NoSQL Data
 
-**🕒 13:25–14:10**  
-**🏷️ Labels**: QA, Nosql, Python, Data Validation, Automation  
+**🕒 13:30–14:10**  
+**🏷️ Labels**: QA, Nosql, Python, AI, Data Validation  
 **📂 Project**: Business  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to develop and refine a QA testing workflow for NoSQL data, focusing on validating parsed data against original text to ensure accuracy and consistency.
+The session aimed to develop and refine a quality assurance (QA) testing workflow for NoSQL data, leveraging automation and [[AI]]-driven processes.
 
 ### Key Activities
-- Prepared memos for the development team to finalize key points and provide feedback.
-- Summarized progress on schema parsing and data processing, outlining challenges and next steps.
-- Developed a [[Jupyter]] notebook structure for QA testing of NoSQL data.
-- Outlined a QA testing workflow using [[Python]] for processing NoSQL data.
-- Created a [[Python]] function to compare parsed data fields with original text.
-- Developed a dynamic function for comprehensive QA comparison of parsed data.
-- Updated [[AI]]-driven QA workflow using OpenAI to compare PDF text with NoSQL data.
-- Refined [[AI]] prompt for legal document QA in Spanish.
-- Implemented iterative file saving in [[Python]] for QA results.
+- Prepared a memo for the lead developer and project manager to finalize key points and assign QA tasks based on 50 parsed results.
+- Summarized progress on schema parsing and data processing, outlining challenges and next steps for QA tasks involving [[AI]] agents.
+- Outlined the structure for a [[Jupyter]] notebook to perform QA testing on extracted NoSQL data, focusing on field validation and discrepancy identification.
+- Developed a [[Python]] workflow for QA testing of NoSQL data, emphasizing loading existing data and processing new resolutions.
+- Created a [[Python]] function to compare parsed data fields with original text, specifically checking references and licitations.
+- Provided a dynamic [[Python]] function for comprehensive QA comparison, handling lists, dictionaries, and simple values.
+- Updated an [[AI]]-driven workflow for comparing PDF text with parsed NoSQL data, using OpenAI for feedback and improvement suggestions.
+- Refined an [[AI]] prompt for legal document QA, focusing on necessary modifications and discrepancies.
+- Implemented a [[Python]] code snippet for iterative file saving of QA results, ensuring data is appended with error handling and logging.
 
 ### Achievements
-- Established a comprehensive QA testing workflow for NoSQL data.
-- Developed dynamic and [[AI]]-driven functions for data validation.
-- Improved efficiency in data processing and error handling.
+- Successfully developed a comprehensive QA testing workflow for NoSQL data, integrating [[Python]] and [[AI]] tools.
+- Finalized key points and feedback mechanisms for the development team.
 
 ### Pending Tasks
-- Implement the refined [[AI]] prompt in production.
-- Conduct further testing on the QA workflow with real datasets.
+- Further refinement of [[AI]]-driven QA processes and integration with existing systems.
+- Continuous monitoring and improvement of the QA testing workflow based on feedback and results.

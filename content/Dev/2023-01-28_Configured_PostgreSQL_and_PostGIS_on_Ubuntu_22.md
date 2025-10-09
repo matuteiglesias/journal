@@ -1,6 +1,6 @@
 ---
 title: "Configured PostgreSQL and PostGIS on Ubuntu 22"
-tags: ['Postgresql', 'Postgis', 'Ubuntu', 'Database', 'Configuration']
+tags: ['Postgresql', 'Postgis', 'Ubuntu', 'Database', 'Configuration', 'Troubleshooting']
 created: 2023-01-28
 publish: true
 ---
@@ -8,31 +8,30 @@ publish: true
 ## 📅 2023-01-28 — Session: Configured PostgreSQL and PostGIS on Ubuntu 22
 
 **🕒 20:15–20:45**  
-**🏷️ Labels**: Postgresql, Postgis, Ubuntu, Database, Configuration  
+**🏷️ Labels**: Postgresql, Postgis, Ubuntu, Database, Configuration, Troubleshooting  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to set up and configure PostgreSQL and PostGIS on an Ubuntu 22 system, ensuring the database is operational and optimized for development and production environments.
+The session aimed to set up and configure PostgreSQL and PostGIS on an Ubuntu 22 system, ensuring proper installation, configuration, and troubleshooting.
 
 ### Key Activities
-- **Clarification on GIS Routing:** Addressed a lack of understanding regarding 'routing GIS'.
-- **PostgreSQL Installation:** Provided detailed instructions for installing PostgreSQL, including package updates and service management.
-- **Service Status and [[Troubleshooting]]:** Explained how to check the PostgreSQL service status and troubleshoot issues related to service inactivity.
-- **Automatic Startup [[Configuration]]:** Discussed the importance of configuring PostgreSQL to start automatically at boot time.
-- **Resource Usage Monitoring:** Highlighted the need for monitoring PostgreSQL resource usage for optimal performance.
-- **PostGIS Installation:** Outlined steps to install and configure PostGIS, verifying its integration with PostgreSQL.
-- **Interactive Terminal (psql):** Introduced the PostgreSQL interactive terminal and its basic commands.
-- **Authentication Error [[Troubleshooting]]:** Provided solutions for the 'Peer authentication failed for user 'postgres'' error.
-- **User Issue [[Troubleshooting]]:** Offered a checklist for resolving issues with the 'postgres' user.
-- **[[Configuration]] Files:** Guided on configuring pg_ident.conf and postgresql.conf files for better database management.
+- Clarified the concept of 'routing GIS' to enhance understanding.
+- Provided detailed instructions for installing PostgreSQL on Ubuntu 22, including package updates and service management.
+- Explained the status of the PostgreSQL service and offered troubleshooting steps for activation.
+- Discussed the benefits of configuring PostgreSQL for automatic startup to ensure availability in production environments.
+- Highlighted resource usage in PostgreSQL and the importance of monitoring for performance tuning.
+- Outlined the installation and configuration steps for PostGIS, a spatial database extender for PostgreSQL.
+- Introduced the PostgreSQL interactive terminal (psql) and its basic commands.
+- Offered solutions for common PostgreSQL authentication errors and user-related issues.
+- Provided guidance on configuring pg_ident.conf and postgresql.conf for PostgreSQL user mapping and network settings.
 
 ### Achievements
 - Successfully installed and configured PostgreSQL and PostGIS on Ubuntu 22.
-- Ensured PostgreSQL is set to start automatically, enhancing database availability.
-- Provided comprehensive troubleshooting guides for common PostgreSQL issues.
+- Enhanced understanding of PostgreSQL service management and configuration.
+- Identified and addressed common authentication and user issues in PostgreSQL.
 
 ### Pending Tasks
-- Further exploration of GIS routing to clarify and implement specific use cases.
-- Continuous monitoring and performance tuning of PostgreSQL resources.
+- Further exploration of GIS routing concepts and their application in PostgreSQL and PostGIS.
+- Continuous monitoring and performance tuning of the PostgreSQL database to optimize resource usage.

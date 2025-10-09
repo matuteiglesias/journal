@@ -1,31 +1,32 @@
 ---
 title: "Completed Data Visualization Exercises with Matplotlib"
-tags: ['Matplotlib', 'Python', 'Data Visualization', 'Graphs']
+tags: ['Matplotlib', 'Python', 'Data Visualization', 'Bar Chart', 'Scatter Plot']
 created: 2023-05-02
 publish: true
 ---
 
 ## 📅 2023-05-02 — Session: Completed Data Visualization Exercises with Matplotlib
 
-**🕒 19:55–20:05**  
-**🏷️ Labels**: Matplotlib, Python, Data Visualization, Graphs  
+**🕒 19:55–20:10**  
+**🏷️ Labels**: Matplotlib, Python, Data Visualization, Bar Chart, Scatter Plot  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The goal of this session was to explore and execute various data visualization exercises using the [[Matplotlib]] library in [[Python]].
+The goal of this session was to explore and practice data visualization techniques using the [[Matplotlib]] library in [[Python]].
 
 ### Key Activities
-- Created basic time series plots using mathematical functions like sine, cosine, and exponential.
-- Developed and customized bar charts from a dataset of fruits, focusing on data import, plot creation, and customization.
-- Followed structured guides to create bar and scatter plots, including data import and plot customization.
-- Revised exercises to correct and enhance data visualization techniques, ensuring proper formatting and labeling.
-- Explored a series of exercises for creating diverse data visualizations, such as line graphs, scatter plots, stacked bar charts, pie charts, and histograms, with detailed code examples.
+- Created basic time series plots using mathematical functions such as sine, cosine, and exponential.
+- Developed and customized bar charts based on a dataset of fruits.
+- Explored the creation of scatter plots and the customization of these visualizations.
+- Revised and corrected exercises involving bar charts, ensuring proper formatting and labeling.
+- Conducted a series of exercises to create various types of data visualizations, including line graphs, scatter plots, stacked bar charts, pie charts, and histograms.
+- Introduced additional libraries such as Seaborn and Plotly for enhanced data visualization techniques.
 
 ### Achievements
-- Successfully executed multiple exercises, enhancing understanding of [[Matplotlib]]'s capabilities in data visualization.
-- Clarified the process of creating and customizing various plot types in [[Python]].
+- Successfully created and customized various types of data visualizations using [[Matplotlib]].
+- Gained a deeper understanding of how to use [[Python]] libraries for effective data visualization.
 
 ### Pending Tasks
-- Further exploration of data visualization using Seaborn and Plotly libraries as introduced in the exercises.
+- Further exploration and practice with Seaborn and Plotly for advanced visualization techniques.

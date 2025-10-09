@@ -18,10 +18,10 @@ The session aimed to resolve TypeErrors in [[Python]] and establish automated da
 
 ### Key Activities
 - **Error Resolution**: Addressed a TypeError with `typing.Literal` subclassing by using [[Python]] `Enum` and direct parameter annotation.
-- **[[Data [[Pipeline]]]] [[Automation]]**: Developed [[Bash]] scripts for processing data logs, focusing on automation and [[AI]] tagging for May–June 2025.
-- **[[Bash]] [[Scripting]]**: Converted epoch timestamps to human-readable formats and summarized command history.
+- **Data Pipeline [[Automation]]**: Developed Bash scripts for processing data logs, focusing on automation and [[AI]] tagging for May–June 2025.
+- **Bash Scripting**: Converted epoch timestamps to human-readable formats and summarized command history.
 - **[[CLI]] Workflows**: Implemented [[CLI]] workflows for rendering [[Markdown]] from data units.
-- **File Management**: Improved file organization with naming conventions and sanity checks.
+- **[[File Management]]**: Improved file organization with naming conventions and sanity checks.
 
 ### Achievements
 - Successfully resolved TypeErrors in [[Python]] code.

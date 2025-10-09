@@ -18,7 +18,7 @@ The primary goal of this session was to outline a roadmap for a web application 
 
 ### Key Activities
 - **Web App Content Orchestration**: Developed a high-level roadmap for setting up a web application using Next.js, GitHub, and Vercel for CI/CD. This included steps for selecting a frontend framework, defining a content model, automating content generation, and managing deployment processes.
-- **YouTube Video Processing**: Implemented [[Python]] scripts for backfilling YouTube channel videos using yt-dlp and explored API alternatives for optimizing video fetching. This involved using the YouTube Data API v3 and leveraging an Invidious instance's [[JSON]] API for efficient data retrieval.
+- **YouTube Video Processing**: Implemented [[Python]] scripts for backfilling YouTube channel videos using yt-dlp and explored [[API]] alternatives for optimizing video fetching. This involved using the YouTube Data [[API]] v3 and leveraging an Invidious instance's [[JSON]] [[API]] for efficient data retrieval.
 - **Datetime Handling**: Addressed timezone awareness issues in [[Python]] datetime comparisons by ensuring offset-naive datetimes are made timezone-aware.
 - **Retry Logic in Video Fetching**: Developed a [[Python]] function with retry logic for fetching YouTube videos, incorporating timeout handling to prevent indefinite request blocking.
 - **Streaming Video Fetcher**: Created a streaming video fetcher with real-time progress logging, allowing for immediate processing of video records.

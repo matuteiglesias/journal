@@ -24,8 +24,8 @@ The session aimed to develop and refine [[Python]] scripts for efficient file ha
 - **[[Documentation]] and Planning**: Outlined pending tasks for geo integration methods documentation, including CRS details and data source paths.
 - **Canonical Details**: Extracted and documented canonical CRS and data paths for geospatial integration from existing notebooks.
 - **Linear Regression Toolkit**: Explored a toolkit for simple linear regression in poverty analysis, including model fitting and diagnostics.
-- **Extrapolation Method**: Consolidated [[MDX]] for extrapolation methods, ensuring robust error handling and parameter integration.
-- **Temporal Methods**: Structured [[MDX]] page for quarterly alignment and seasonal decomposition methods.
+- **Extrapolation Method**: Consolidated MDX for extrapolation methods, ensuring robust error handling and parameter integration.
+- **Temporal Methods**: Structured MDX page for quarterly alignment and seasonal decomposition methods.
 
 ### Achievements
 - Successfully developed and documented [[Python]] scripts for file handling and geospatial data processing.

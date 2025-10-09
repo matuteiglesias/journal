@@ -13,15 +13,18 @@ publish: true
 **⭐ Priority**: MEDIUM  
 
 
-### Session Goal: 
-The primary goal of this session was to outline the establishment of a Data Policies Subcommittee within the Faculty of Sciences at FCEN to regulate the handling, processing, and distribution of institutional data.
+### Session Goal
+The session aimed to establish a subcommittee within the Faculty of Sciences (FCEN) to develop and regulate data policies for the handling, processing, and distribution of institutional data.
 
-### Key Activities:
-- Proposed the creation of a subcommittee focused on data policies in an academic context, highlighting the importance of structured data governance.
-- Designated Dr. Matías Iglesias as the responsible lead for this initiative and invited community participation.
+### Key Activities
+- Proposed the creation of a subcommittee focused on data governance in the academic context of FCEN.
+- Designated Dr. Matías Iglesias as the responsible lead for the subcommittee.
+- Encouraged community participation in the subcommittee to ensure comprehensive policy development.
 
-### Achievements:
-- Successfully drafted a proposal for the subcommittee, setting a framework for future data governance efforts within the institution.
+### Achievements
+- Successfully outlined the framework and goals for the new subcommittee.
+- Established leadership and invited community involvement.
 
-### Pending Tasks:
-- Finalize the subcommittee members and schedule the first meeting to begin drafting specific data policies.
+### Pending Tasks
+- Formalize the subcommittee's charter and operational guidelines.
+- Schedule initial meetings and set timelines for policy draft submissions.

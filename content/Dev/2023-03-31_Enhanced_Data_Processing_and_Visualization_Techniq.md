@@ -13,23 +13,21 @@ publish: true
 **⭐ Priority**: MEDIUM  
 
 
-**Session Goal:**
-The session aimed to enhance data processing and visualization capabilities using [[Python]] libraries such as [[Pandas]] and [[Matplotlib]].
+### Session Goal
+The objective of this session was to enhance data processing and visualization capabilities using [[Python]] libraries such as [[Pandas]] and [[Matplotlib]].
 
-**Key Activities:**
-- Replaced commas and converted data types in DataFrame columns using [[Pandas]].
-- Converted DataFrame sums to billions and formatted them to one decimal place.
-- Created histograms for multiple DataFrames using [[Matplotlib]], including normalization of bins.
-- Developed a unified function to compare DataFrames, handling NaN values and providing a lower triangular matrix of common IDs.
-- Analyzed project ID overlaps and date distributions across datasets.
-- Loaded GeoJSON files into GeoDataFrames using GeoPandas for geospatial analysis.
+### Key Activities
+- **Data Cleaning and Conversion**: Implemented methods to replace commas in DataFrame columns and convert them to float data types, facilitating better data manipulation.
+- **Data Aggregation**: Developed a technique to convert DataFrame column sums to billions, formatted to one decimal place.
+- **[[Data [[Visualization]]]]**: Created histograms for multiple DataFrames using [[Matplotlib]], with improved binning and transparency.
+- **Data Comparison**: Developed a `compare_dfs` function to compare common IDs between DataFrames, including handling NaN values by replacing them with zeros.
+- **Geospatial Data Handling**: Loaded GeoJSON files into GeoDataFrames using GeoPandas for specific datasets.
 
-**Achievements:**
-- Successfully implemented data cleaning and conversion techniques in [[Pandas]].
-- Enhanced data visualization methods with [[Matplotlib]] for better insights.
-- Improved DataFrame comparison functions to handle NaN values effectively.
-- Gained insights into project ID overlaps and date distributions through data analysis.
+### Achievements
+- Successfully implemented data cleaning and conversion techniques, improving data processing efficiency.
+- Enhanced data visualization by creating detailed histograms and normalizing histogram bins.
+- Improved data comparison functions to handle NaN values effectively.
+- Loaded and processed geospatial data using GeoPandas.
 
-**Pending Tasks:**
-- Further explore advanced data visualization techniques for geospatial data.
-- Investigate additional methods for handling missing data in DataFrame comparisons.
+### Pending Tasks
+- Further exploration of project ID overlaps and date distributions across datasets for comprehensive analysis.

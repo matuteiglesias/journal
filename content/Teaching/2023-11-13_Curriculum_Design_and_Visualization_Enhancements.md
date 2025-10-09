@@ -14,18 +14,17 @@ publish: true
 
 
 ### Session Goal
-The session focused on refining the curriculum design for a computer science program and enhancing data visualization techniques for educational planning.
+The session aimed to refine the computer science curriculum by determining course placement and removing irrelevant courses, as well as enhancing data visualization techniques for educational planning.
 
 ### Key Activities
-- Discussed the placement and prerequisites for 'Introducción a las Bases de Datos' and 'Aprendizaje Automático' within the curriculum to ensure logical sequencing and foundational knowledge.
-- Justified the removal of 'Advanced Analysis' and 'Introduction to Natural Sciences Elective' from the [[Data Science]] Bachelor's program, emphasizing course relevance and applicability.
-- Outlined implementation steps for an unspecified process, likely related to curriculum changes or visualization enhancements.
-- Developed a strategy for color-coding nodes in graph visualizations by semester using [[Python]] and [[Matplotlib]], enhancing clarity and understanding of course sequencing.
-- Provided a method for converting RGBA colors to hexadecimal for Graphviz integration, facilitating better visualization compatibility.
+- **Curriculum Placement:** Discussed the strategic placement of 'Introducción a las Bases de Datos' and 'Aprendizaje Automático' within the curriculum, focusing on foundational knowledge and logical sequencing.
+- **Course Removal Justifications:** Reflected on and documented the reasons for removing 'Advanced Analysis' and 'Introduction to Natural Sciences Elective' from the [[Data Science]] program to maintain relevance.
+- **Graph [[Visualization]] Enhancements:** Developed a method for coloring nodes in course graphs by semester using [[Python]] and [[Matplotlib]], and converted RGBA colors to hexadecimal for Graphviz integration.
 
 ### Achievements
-- Clarified curriculum adjustments and their justifications, aligning courses with educational goals.
-- Enhanced visualization techniques for curriculum mapping, improving the clarity of educational planning tools.
+- Established a clear framework for course placement and removal in the curriculum.
+- Successfully implemented a color coding system for graph visualization to enhance clarity and planning.
 
 ### Pending Tasks
-- Further implementation of the outlined process steps and verification of the visualization enhancements in a practical setting.
+- Further validation of course placement and removal decisions with stakeholders.
+- Complete integration of color-coded visualization into existing educational planning tools.

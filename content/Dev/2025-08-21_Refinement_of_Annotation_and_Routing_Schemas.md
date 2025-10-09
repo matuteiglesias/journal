@@ -22,15 +22,15 @@ The session aimed to refine annotation and routing schemas to improve automation
 - Developed a routing schema for downstream usage, ensuring consistency in routing paths.
 - Created a routing table to categorize keywords for content management.
 - Analyzed and corrected model diagnostics related to .ipynb and [[JSON]] commands.
-- Explored OpenAI GPT-4o API limits, focusing on token and context window management.
+- Explored OpenAI GPT-4o [[API]] limits, focusing on token and context window management.
 - Addressed YAML flow corrections in Prompt Flow to ensure proper output structure.
 - Conducted a sanity check on [[JSON]] output structure to verify schema compliance.
-- Investigated solutions for escaping math and Graphviz in [[MDX]] for [[Docusaurus]].
+- Investigated solutions for escaping math and Graphviz in MDX for [[Docusaurus]].
 
 ### Achievements
 - Improved annotation and routing schemas for better automation and data management.
-- Enhanced understanding of API token limits and routing strategies.
+- Enhanced understanding of [[API]] token limits and routing strategies.
 
 ### Pending Tasks
 - Further testing of the new schemas in real-world scenarios to validate improvements.
-- Continuous monitoring of API usage to optimize token management strategies.
+- Continuous monitoring of [[API]] usage to optimize token management strategies.

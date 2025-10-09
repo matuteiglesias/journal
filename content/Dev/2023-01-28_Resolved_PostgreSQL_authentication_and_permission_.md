@@ -1,33 +1,36 @@
 ---
-title: "Resolved PostgreSQL authentication and permission issues"
-tags: ['Postgresql', 'Authentication', 'Permission', 'Troubleshooting', 'Database']
+title: "Resolved PostgreSQL authentication and permission errors"
+tags: ['Postgresql', 'Authentication', 'Permissions', 'Troubleshooting', 'Database']
 created: 2023-01-28
 publish: true
 ---
 
-## 📅 2023-01-28 — Session: Resolved PostgreSQL authentication and permission issues
+## 📅 2023-01-28 — Session: Resolved PostgreSQL authentication and permission errors
 
 **🕒 20:45–21:25**  
-**🏷️ Labels**: Postgresql, Authentication, Permission, Troubleshooting, Database  
+**🏷️ Labels**: Postgresql, Authentication, Permissions, Troubleshooting, Database  
 **📂 Project**: Dev  
 **⭐ Priority**: MEDIUM  
 
 
 ### Session Goal
-The session aimed to address various PostgreSQL authentication and permission issues, ensuring smooth database operations.
+The session aimed to address various PostgreSQL authentication and permission errors encountered during database administration tasks.
 
 ### Key Activities
-- Restarted the PostgreSQL service across different operating systems, focusing on administrative privileges.
-- Resolved the 'Peer authentication failed for user 'postgres'' error by modifying the `pg_hba.conf` file.
-- Changed PostgreSQL authentication method to MD5 for enhanced security.
-- Troubleshot password issues for the 'postgres' user, including resetting the password and checking configuration files.
-- Created a PostgreSQL role and granted necessary permissions to address the 'role "matias" does not exist' error.
-- Managed command history in the shell for efficient troubleshooting.
-- Checked PostgreSQL log files for monitoring PostGIS installations.
+- Restarted the PostgreSQL service on multiple operating systems, ensuring administrative privileges were used.
+- Resolved the 'Peer authentication failed for user 'postgres'' error by modifying the `pg_hba.conf` file and ensuring compatibility between PostgreSQL and psql versions.
+- Changed the authentication method for the 'postgres' user to MD5 by editing the `pg_hba.conf` file and restarting the service.
+- Troubleshot incorrect password entries for the PostgreSQL user 'postgres', including checking password accuracy and user status.
+- Reset the password for the PostgreSQL user 'postgres' and ensured proper authentication settings in the `pg_hba.conf` file.
+- Resolved permission issues when accessing the PostgreSQL server by using 'sudo', setting a new password for the 'postgres' user, and checking the service status.
+- Created a PostgreSQL role for 'matias' and granted necessary permissions for database access.
+- Managed command history in the shell environment using the `history` command.
+- Troubleshot PostgreSQL installation issues, including checking service status, log files, permissions, and configuration files.
+- Checked PostgreSQL log files for monitoring PostGIS installations using command-line tools.
 
 ### Achievements
-- Successfully resolved authentication and permission errors, ensuring proper database access and user management.
-- Enhanced security by switching to MD5 authentication.
+Successfully resolved multiple PostgreSQL authentication and permission errors, improving database administration efficiency.
 
 ### Pending Tasks
-- Further monitoring of PostgreSQL and PostGIS logs to preemptively catch potential issues.
+- Further monitoring of PostgreSQL and PostGIS installations to ensure stability and performance.
+- Continuous review of log files for any new errors or warnings.

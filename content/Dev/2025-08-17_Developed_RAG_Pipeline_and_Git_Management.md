@@ -17,7 +17,7 @@ publish: true
 The session aimed to develop and refine a Retrieval-Augmented Generation (RAG) pipeline, focusing on retrieval systems, automation enhancements, and version control management.
 
 ### Key Activities
-1. **Retrieval [[Pipeline]] Development**: Implemented a retrieval pipeline for RAG using Chroma and memory storage configurations, ensuring efficient query embedding and data handling.
+1. **Retrieval Pipeline Development**: Implemented a retrieval pipeline for RAG using Chroma and memory storage configurations, ensuring efficient query embedding and data handling.
 2. **Index and [[CLI]] [[Configuration]]**: Created a consolidated index function for RAG and developed a [[CLI]] runbook for system setup and multilingual support.
 3. **[[Automation]] Enhancements**: Addressed errors in RAG with Chroma collections and summarized key automation enhancements, including JSONL to [[Markdown]] parsing and embedding improvements.
 4. **[[Git]] Repository Setup**: Established a [[Git]] repository for the RAG pipeline, including branch management, .gitignore configuration, and handling of local unstaged changes.

@@ -14,13 +14,13 @@ publish: true
 
 
 ### Session Goal:
-The main objective of this session was to resolve issues related to the game Age of Empires II: Definitive Edition (AoE2DE) using DXVK and Proton on Linux.
+The main objective of this session was to resolve issues related to the game Age of Empires II: Definitive Edition (AoE2DE) using DXVK and Proton on [[Linux]].
 
 ### Key Activities:
 - **Protontricks Failure Loop Recovery:** Addressed a Protontricks failure loop due to a corrupted `appinfo.vdf` file in Steam. Steps included regenerating the appcache, reattempting Protontricks, and manually installing Visual C++ runtime.
 - **Visual C++ Runtime and DXVK [[Troubleshooting]]:** Outlined steps for resolving issues with Visual C++ redistributables and DXVK initialization, including enabling debug logs and switching Proton versions.
 - **DXVK Debug Launch Options:** Configured DXVK debug launch options in Steam for AoE2DE to enable debug logs and an on-screen HUD.
-- **DXVK Initialization [[Troubleshooting]] on Linux:** Provided a detailed action plan to troubleshoot and force the initialization of DXVK for AoE2DE on Linux.
+- **DXVK Initialization [[Troubleshooting]] on [[Linux]]:** Provided a detailed action plan to troubleshoot and force the initialization of DXVK for AoE2DE on [[Linux]].
 - **Recovery Path for DXVK Injection Issues:** Detailed recovery steps for fixing DXVK injection issues when using Flatpak and Proton GE.
 - **Proton GE and DXVK Installation Confirmation:** Confirmed successful installation and initialization of Proton GE and DXVK for running AoE2DE on Steam.
 

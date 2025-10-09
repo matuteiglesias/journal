@@ -14,21 +14,23 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to develop a comprehensive catalog of practical exercises for advanced [[Data Science]] courses, focusing on data visualization, exploratory analysis, and statistical concepts.
+The session aimed to develop a comprehensive catalog of practical exercises for advanced [[Data Science]] courses, focusing on data visualization, exploratory analysis, and statistical concepts.
 
 ### Key Activities
-- Created a list of 20 practical exercises aligned with advanced [[Data Science]] classes, emphasizing data visualization and exploratory analysis.
-- Compiled a collection of exercises with suggested open datasets for practical application.
-- Proposed structuring exercises in detailed formats, including instructions and expected solutions or interactive notebooks.
-- Provided feedback on a catalog of exercises for teaching [[Python]] and [[Pandas]], highlighting areas for improvement.
-- Developed a collection of rigorous exercises on probability, hypothesis testing, and regression for hard science students, including simulations and code examples.
-- Detailed practical exercises on A/B testing, focusing on Type I and II errors and proportion hypothesis testing.
-- Suggested advanced statistical topics to enrich a statistics course, including simulations and model validation.
-- Outlined 20 strategic exercises for mastering machine learning concepts through practical implementation.
+- Compiled a list of 20 practical exercises aligned with advanced [[Data Science]] classes, emphasizing data visualization and exploratory analysis.
+- Proposed structuring exercises in a detailed format, potentially using interactive notebooks.
+- Provided feedback on a catalog of exercises for teaching [[Python]] and [[Pandas]], suggesting improvements for course organization.
+- Created a collection of 15 rigorous exercises on probability, hypothesis testing, and regression for hard science students, including simulations and code examples.
+- Detailed a practical exercise on A/B testing, focusing on Type I and II errors in an e-commerce context.
+- Conducted an analysis of hypothesis testing for comparing proportions using a two-sample Z-test in [[Python]].
+- Suggested advanced statistical topics to enrich a statistics course, such as simulations and dimensionality reduction.
+- Compiled a list of 20 exercises to help students master machine learning concepts through practical and theoretical approaches.
 
 ### Achievements
-- A comprehensive catalog of exercises was developed for various aspects of [[Data Science]] and Statistics education.
+- Successfully compiled and structured a diverse set of exercises covering key areas in [[Data Science]] and Statistics.
+- Enhanced the educational content with practical examples and feedback for better engagement and understanding.
 
 ### Pending Tasks
-- Finalize the detailed structure and format for each exercise, including interactive notebooks where applicable.
-- Incorporate feedback to enhance course organization and engagement.
+- Finalize the structuring of exercises into interactive notebooks.
+- Incorporate feedback into the existing exercise catalog for [[Python]] and [[Pandas]].
+- Develop detailed solutions and instructions for each exercise.

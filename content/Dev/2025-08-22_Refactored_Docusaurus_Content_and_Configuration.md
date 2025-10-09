@@ -17,7 +17,7 @@ publish: true
 The session aimed to refactor and improve the [[Docusaurus]] documentation setup by replacing `:contentReference` directives with relative [[Markdown]] links, enhancing configuration, and resolving errors.
 
 ### Key Activities
-- Implemented [[Bash]] one-liners to automate the replacement of `:contentReference` directives in [[Markdown]] files.
+- Implemented Bash one-liners to automate the replacement of `:contentReference` directives in [[Markdown]] files.
 - Debugged sed and grep usage to ensure error-free execution of scripts.
 - Improved [[Docusaurus]] configuration by addressing base URL management and migrating to ESM style.
 - Enhanced sidebar configuration for better navigation and usability.

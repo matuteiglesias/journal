@@ -1,6 +1,6 @@
 ---
 title: "Compiled Gourmet and Game Meat Recipe Collection"
-tags: ['Cooking', 'Recipes', 'Gourmet', 'Game Meat', 'Culinary', 'Creative']
+tags: ["Cooking", "Recipes", "Gourmet", "Game Meat", "Culinary", "Creative"]
 created: 2024-10-25
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 05:35–06:55**  
 **🏷️ Labels**: Cooking, Recipes, Gourmet, Game Meat, Culinary, Creative  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

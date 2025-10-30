@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Task Scheduling with OR-Tools"
-tags: ['Task Scheduling', 'Or-Tools', 'Python', 'Constraints', 'Automation']
+tags: ["Task Scheduling", "Or-Tools", "Python", "Constraints", "Automation"]
 created: 2024-10-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:30–17:20**  
 **🏷️ Labels**: Task Scheduling, Or-Tools, Python, Constraints, Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -30,4 +30,4 @@ The session aimed to refine and enhance a task scheduling model using [[Python]]
 
 ### Pending Tasks
 - Further testing and validation of the scheduling model to ensure robustness across different scheduling scenarios.
-- [[Integration]] of additional task management features, such as incorporating recurring tasks and more complex scheduling constraints.
+- [[Integration]] of additional [[task management]] features, such as incorporating recurring tasks and more complex scheduling constraints.

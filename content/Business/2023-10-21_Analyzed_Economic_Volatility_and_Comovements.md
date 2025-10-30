@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Economic Volatility and Comovements"
-tags: ['Economic Volatility', 'Comovements', 'Sectoral Sales', 'Law Of Large Numbers', 'Macroeconomic Analysis']
+tags: ["Economic Volatility", "Comovements", "Sectoral Sales", "Law Of Large Numbers", "Macroeconomic Analysis"]
 created: 2023-10-21
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:10–02:30**  
 **🏷️ Labels**: Economic Volatility, Comovements, Sectoral Sales, Law Of Large Numbers, Macroeconomic Analysis  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

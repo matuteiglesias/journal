@@ -1,6 +1,6 @@
 ---
 title: "Developed and Optimized Summarization Pipelines"
-tags: ['Summarization', 'Pipeline', 'Optimization', 'Chatgpt', 'T5', 'Sqlite']
+tags: ["Summarization", "Pipeline", "Optimization", "Chatgpt", "T5", "Sqlite"]
 created: 2025-05-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:10–05:00**  
 **🏷️ Labels**: Summarization, Pipeline, Optimization, Chatgpt, T5, Sqlite  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,7 +26,7 @@ The session aimed to develop and optimize summarization pipelines for processing
 - Resolved version incompatibility issues between Transformers and PyTorch.
 - Diagnosed and suggested improvements for the summarization pipeline, addressing redundancy and formatting issues.
 - Optimized HuggingFace model performance for summarization and improved processing times for large ChatGPT export files.
-- Developed a background summarization strategy balancing speed and quality.
+- Developed a background summarization [[strategy]] balancing speed and quality.
 
 ### Achievements
 - Successfully developed and optimized multiple summarization pipelines, improving performance and efficiency.

@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Bodyweight Workout and Core Strength Plan"
-tags: ['Workout', 'Bodyweight', 'Core Strength', 'Calisthenics', 'Fitness']
+tags: ["Workout", "Bodyweight", "Core Strength", "Calisthenics", "Fitness"]
 created: 2024-05-27
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 18:40–19:20**  
 **🏷️ Labels**: Workout, Bodyweight, Core Strength, Calisthenics, Fitness  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Integrated Vortex Quartz theme with custom styling"
-tags: ['Vortex', 'Quartz', 'CSS', 'Theme Integration', 'Web Development']
+tags: ["Vortex", "Quartz", "CSS", "Theme Integration", "Web Development"]
 created: 2025-07-30
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 08:30–09:30**  
 **🏷️ Labels**: Vortex, Quartz, CSS, Theme Integration, Web Development  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -28,7 +28,7 @@ The aim of this session was to implement and integrate the Vortex Quartz theme i
 
 **Achievements:**
 - Successfully integrated and customized the Vortex Quartz theme.
-- Resolved UI component conflicts and improved graph visualization.
+- Resolved UI component conflicts and improved graph [[visualization]].
 
 **Pending Tasks:**
 - Further explore and implement strategies for enhancing knowledge diffusion in knowledge graphs using hub-and-spoke architecture.

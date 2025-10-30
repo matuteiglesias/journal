@@ -1,6 +1,6 @@
 ---
 title: "Refactored CLI with UnitSelector and Testing"
-tags: ['Refactoring', 'CLI', 'Python', 'Testing', 'Unitselector']
+tags: ["Refactoring", "CLI", "Python", "Testing", "Unitselector"]
 created: 2025-09-17
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 13:30–14:30**  
 **🏷️ Labels**: Refactoring, CLI, Python, Testing, Unitselector  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,14 +20,14 @@ The primary objective of this session was to refactor a command-line interface (
 - **[[Refactoring]] Recommendations**: Developed a `UnitSelector` class to improve the organization and efficiency of filter logic in the [[CLI]] application.
 - **Pytest Smoke Tests**: Created and executed pytest-style smoke tests for the [[CLI]] and `UnitSelector`, focusing on time-window slicing and tag filtering.
 - **[[CLI]] Commands and Fixes**: Provided [[CLI]] command examples for `units-select` filtering and addressed a RuntimeError in Typer by replacing `Literal` with `Enum` for better [[CLI]] option handling.
-- **Validation and Roadmap**: Validated the `units-select` functionality and outlined a three-stage roadmap for refactoring `hydrate.py` to enhance modular design and testing.
+- **Validation and Roadmap**: Validated the `units-select` functionality and outlined a three-stage roadmap for [[refactoring]] `hydrate.py` to enhance modular design and testing.
 
 ### Achievements
 - Successfully refactored the [[CLI]] application with a new `UnitSelector` class.
 - Implemented and validated smoke tests for [[CLI]] functionalities using pytest.
 - Resolved Typer [[CLI]] errors by updating option handling mechanisms.
-- Developed a structured refactoring roadmap for future improvements.
+- Developed a structured [[refactoring]] roadmap for future improvements.
 
 ### Pending Tasks
 - Further development on related tasks as encouraged by the validation of `units-select` functionality.
-- Continue with the refactoring roadmap for `hydrate.py` as planned.
+- Continue with the [[refactoring]] roadmap for `hydrate.py` as planned.

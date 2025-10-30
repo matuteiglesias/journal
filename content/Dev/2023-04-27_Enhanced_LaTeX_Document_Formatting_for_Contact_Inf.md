@@ -1,6 +1,6 @@
 ---
 title: "Enhanced LaTeX Document Formatting for Contact Info"
-tags: ['Latex', 'Formatting', 'Contact Information', 'Code', 'Vertical Spacing']
+tags: ["Latex", "Formatting", "Contact Information", "Code", "Vertical Spacing"]
 created: 2023-04-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:30–14:45**  
 **🏷️ Labels**: Latex, Formatting, Contact Information, Code, Vertical Spacing  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

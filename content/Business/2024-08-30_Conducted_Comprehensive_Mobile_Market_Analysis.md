@@ -1,6 +1,6 @@
 ---
 title: "Conducted Comprehensive Mobile Market Analysis"
-tags: ['Market Analysis', 'Data Merging', 'Pricing Strategy', 'Brand Evaluation', 'Financing Options']
+tags: ["Market Analysis", "Data Merging", "Pricing Strategy", "Brand Evaluation", "Financing Options"]
 created: 2024-08-30
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:30–04:30**  
 **🏷️ Labels**: Market Analysis, Data Merging, Pricing Strategy, Brand Evaluation, Financing Options  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,7 +21,7 @@ The session aimed to conduct a comprehensive analysis of the mobile phone market
 - **Market Study Framework**: Developed a framework for analyzing the cell phone market, focusing on price, brand evaluation, consumer preferences, and promotional impacts.
 - **Brand Analysis**: Conducted a reflection on the competitive landscape of mobile brands by price segment, providing strategic recommendations.
 - **Quality Analysis**: Planned and executed an analysis to identify key hardware and software characteristics affecting mobile phone quality.
-- **Price Analysis**: Detailed key columns for analyzing mobile phone quality and price using pandas.
+- **Price Analysis**: Detailed key columns for analyzing mobile phone quality and price using [[pandas]].
 - **Market Analysis in Argentina**: Reflected on the phone market in Argentina, analyzing price distributions and identifying potential bargains.
 - **Financing Options Evaluation**: Evaluated financing options by calculating the present value of installment plans using a 4% monthly interest rate.
 

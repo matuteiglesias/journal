@@ -1,6 +1,6 @@
 ---
 title: "Explored Concepts of Good and AI System Prompts"
-tags: ['Idea Analysis', 'Ai Prompts', 'Concept Evaluation', 'Voice Response', 'Health']
+tags: ["Idea Analysis", "Ai Prompts", "Concept Evaluation", "Voice Response", "Health"]
 created: 2025-07-19
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 09:15–09:45**  
 **🏷️ Labels**: Idea Analysis, Ai Prompts, Concept Evaluation, Voice Response, Health  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

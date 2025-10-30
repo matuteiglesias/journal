@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Web Traffic and Credibility of News Outlets"
-tags: ['Web Traffic', 'News Credibility', 'Similarweb', 'SEO', 'Research']
+tags: ["Web Traffic", "News Credibility", "Similarweb", "SEO", "Research"]
 created: 2023-07-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:40–02:00**  
 **🏷️ Labels**: Web Traffic, News Credibility, Similarweb, SEO, Research  
 **📂 Project**: Media  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

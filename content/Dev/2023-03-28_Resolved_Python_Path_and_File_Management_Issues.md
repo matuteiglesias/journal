@@ -1,6 +1,6 @@
 ---
 title: "Resolved Python Path and File Management Issues"
-tags: ['Python', 'File Management', 'Data Validation', 'Path Management']
+tags: ["Python", "File Management", "Data Validation", "Path Management"]
 created: 2023-03-28
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 00:00–00:10**  
 **🏷️ Labels**: Python, File Management, Data Validation, Path Management  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to address various [[Python]] programming challenges related to data handling, path management, and dynamic file path construction.
 
 ### Key Activities
-- Implemented a method to check for the presence of a column in a DataFrame to ensure robust data validation.
+- Implemented a method to check for the presence of a column in a [[DataFrame]] to ensure robust data validation.
 - Resolved path hardcoding issues in DCF scripts by transitioning to relative paths, enhancing script portability.
 - Utilized the `os` module to access user-specific directories, ensuring compatibility across different environments.
 - Demonstrated dynamic retrieval of the current user's username using [[Python]], allowing for flexible file path generation.

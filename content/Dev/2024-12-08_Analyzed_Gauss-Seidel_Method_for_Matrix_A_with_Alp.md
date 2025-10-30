@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Gauss-Seidel Method for Matrix A with Alpha Zero"
-tags: ['Matrix Analysis', 'Gauss-Seidel', 'Linear Algebra', 'Convergence', 'Error Handling']
+tags: ["Matrix Analysis", "Gauss-Seidel", "Linear Algebra", "Convergence", "Error Handling"]
 created: 2024-12-08
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:05–15:15**  
 **🏷️ Labels**: Matrix Analysis, Gauss-Seidel, Linear Algebra, Convergence, Error Handling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The session aimed to analyze the matrix A when \( \alpha = 0 \) and apply the Ga
 - Conducted matrix analysis to determine the characteristic polynomial and eigenvalues of matrix A.
 - Explored the implications of diagonal dominance on the convergence of the Gauss-Seidel method.
 - Computed the iteration matrix for the Gauss-Seidel method, including matrix decomposition and spectral radius calculation.
-- Addressed error handling and implemented a retry mechanism for computational errors.
+- Addressed [[error handling]] and implemented a retry mechanism for computational errors.
 - Recomputed the Gauss-Seidel iteration matrix due to previous processing issues.
 
 ### Achievements

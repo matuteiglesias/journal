@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Evaluation of Classifier Models"
-tags: ['Classifier Evaluation', 'Model Tuning', 'Class Imbalance', 'Income Prediction', 'Machine Learning']
+tags: ["Classifier Evaluation", "Model Tuning", "Class Imbalance", "Income Prediction", "Machine Learning"]
 created: 2025-07-15
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:30–20:00**  
 **🏷️ Labels**: Classifier Evaluation, Model Tuning, Class Imbalance, Income Prediction, Machine Learning  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

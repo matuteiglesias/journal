@@ -1,6 +1,6 @@
 ---
 title: "Session on Time Management and Personal Growth"
-tags: ['Time Management', 'Personal Growth', 'Project Management', 'Self-Improvement']
+tags: ["Time Management", "Personal Growth", "Project Management", "Self-Improvement"]
 created: 2024-12-15
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:10–04:35**  
 **🏷️ Labels**: Time Management, Personal Growth, Project Management, Self-Improvement  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

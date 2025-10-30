@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Python Color and Mapbox Style Functions"
-tags: ['Python', 'Color Manipulation', 'Mapbox', 'API', 'JSON']
+tags: ["Python", "Color Manipulation", "Mapbox", "API", "JSON"]
 created: 2023-05-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 07:40–08:25**  
 **🏷️ Labels**: Python, Color Manipulation, Mapbox, API, JSON  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

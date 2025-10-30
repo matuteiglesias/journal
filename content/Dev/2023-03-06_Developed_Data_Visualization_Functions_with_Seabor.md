@@ -1,6 +1,6 @@
 ---
 title: "Developed Data Visualization Functions with Seaborn and Matplotlib"
-tags: ['Python', 'Data Visualization', 'Seaborn', 'Matplotlib', 'Percentiles', 'Error Bars']
+tags: ["Python", "Data Visualization", "Seaborn", "Matplotlib", "Percentiles", "Error Bars"]
 created: 2023-03-06
 publish: true
 ---
@@ -10,15 +10,15 @@ publish: true
 **🕒 14:35–15:15**  
 **🏷️ Labels**: Python, Data Visualization, Seaborn, Matplotlib, Percentiles, Error Bars  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The goal of this session was to enhance data visualization techniques for analyzing treatment and control groups using [[Python]] libraries, specifically Seaborn and [[Matplotlib]].
+The goal of this session was to enhance [[data [[visualization]]]] techniques for analyzing treatment and control groups using [[Python]] libraries, specifically Seaborn and [[Matplotlib]].
 
 **Key Activities:**
 - Implemented [[Python]] code to compute percentiles for treatment and control groups using [[Pandas]], ensuring accurate statistical representation.
-- Resolved DataFrame column mismatch issues during percentile calculations by transposing results.
+- Resolved [[DataFrame]] column mismatch issues during percentile calculations by transposing results.
 - Developed a series of functions to visualize balance information between treatment groups, incorporating error bars and adjusting plot aesthetics.
 - Modified Seaborn's `catplot()` to adjust bar widths and ensure error bars align with data points.
 - Enhanced the `plot_balance` function to include legends and improved styling with `sns.set_style("whitegrid")`.
@@ -28,4 +28,4 @@ The goal of this session was to enhance data visualization techniques for analyz
 - Established a robust method for plotting balance information with legends and customized plot aesthetics.
 
 **Pending Tasks:**
-- Further testing and validation of visualization functions with additional datasets to ensure adaptability and accuracy across various data scenarios.
+- Further testing and validation of [[visualization]] functions with additional datasets to ensure adaptability and accuracy across various data scenarios.

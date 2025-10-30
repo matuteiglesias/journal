@@ -1,6 +1,6 @@
 ---
 title: "Developed and Tested Flask API for Model Predictions"
-tags: ['Flask', 'API', 'Machine Learning', 'Python', 'Web Development']
+tags: ["Flask", "API", "Machine Learning", "Python", "Web Development"]
 created: 2024-04-06
 publish: true
 ---
@@ -10,10 +10,10 @@ publish: true
 **🕒 18:25–19:05**  
 **🏷️ Labels**: Flask, API, Machine Learning, Python, Web Development  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
 
 
-**Session Goal**: The primary objective was to develop a [[Flask]] [[API]] to serve predictions from a machine learning model, ensuring a robust and organized application structure.
+
+**Session Goal**: The primary objective was to develop a [[Flask]] [[API]] to serve predictions from a [[machine learning]] model, ensuring a robust and organized application structure.
 
 **Key Activities**:
 1. **Setting Up [[Flask]] [[API]]**: Initiated the setup of a [[Flask]] [[API]] to handle model predictions, following a structured guide.
@@ -24,4 +24,4 @@ publish: true
 
 **Achievements**: Successfully set up and tested the [[Flask]] [[API]], resolving key errors related to connection and imports. The application now follows a clean and organized structure.
 
-**Pending Tasks**: Further testing with edge cases and deployment considerations for production use.
+**Pending Tasks**: Further testing with edge cases and [[deployment]] considerations for production use.

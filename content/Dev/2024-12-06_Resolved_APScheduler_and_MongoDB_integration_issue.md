@@ -1,6 +1,6 @@
 ---
 title: "Resolved APScheduler and MongoDB integration issues"
-tags: ['Apscheduler', 'Mongodb', 'Rabbitmq', 'Error Handling', 'Job Processing']
+tags: ["Apscheduler", "Mongodb", "Rabbitmq", "Error Handling", "Job Processing"]
 created: 2024-12-06
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:20–19:00**  
 **🏷️ Labels**: Apscheduler, Mongodb, Rabbitmq, Error Handling, Job Processing  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,9 +26,9 @@ The session aimed to address multiple technical challenges related to APSchedule
 - Successfully fixed APScheduler job scheduling errors.
 - Established terminal connections to MongoDB and RabbitMQ.
 - Implemented solutions for MongoDB date handling and email processing.
-- Resolved RabbitMQ queue configuration errors.
+- Resolved RabbitMQ queue [[configuration]] errors.
 - Designed a schema for job opportunity extraction and updated [[AI]] prompts.
 
 ### Pending Tasks
-- Further enhancements to job processing automation and data structuring are needed for improved efficiency.
+- Further enhancements to job processing [[automation]] and data structuring are needed for improved efficiency.
 - Additional testing of RabbitMQ queue configurations to prevent future errors.

@@ -1,6 +1,6 @@
 ---
 title: "Advanced Computational Linear Algebra Techniques"
-tags: ['Linear Algebra', 'Eigenvalues', 'Matrix Diagonalization', 'Teaching Strategies', 'Differential Equations']
+tags: ["Linear Algebra", "Eigenvalues", "Matrix Diagonalization", "Teaching Strategies", "Differential Equations"]
 created: 2024-10-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:00–16:40**  
 **🏷️ Labels**: Linear Algebra, Eigenvalues, Matrix Diagonalization, Teaching Strategies, Differential Equations  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -27,7 +27,7 @@ The session aimed to explore and refine advanced computational linear algebra te
 
 ### Achievements
 - Clarified the process of diagonalizing matrices and resolving differential equations.
-- Developed insights for enhancing linear algebra education through practical examples and exercises.
+- Developed insights for enhancing linear algebra [[education]] through practical examples and exercises.
 
 ### Pending Tasks
 - Further exploration of teaching strategies to incorporate moral lessons and challenges in computational examples.

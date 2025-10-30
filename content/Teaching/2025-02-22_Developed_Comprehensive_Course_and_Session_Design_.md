@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Course and Session Design Frameworks"
-tags: ['Course Design', 'Education', 'Pedagogy', 'Data Science', 'Workflow']
+tags: ["Course Design", "Education", "Pedagogy", "Data Science", "Workflow"]
 created: 2025-02-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:00–07:00**  
 **🏷️ Labels**: Course Design, Education, Pedagogy, Data Science, Workflow  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -20,13 +20,13 @@ The session aimed to enhance the design and generation of educational materials,
 - Refined the Langflow pipeline to improve modularity and efficiency for course and session material generation.
 - Developed zero-shot preparator prompts for course blueprint generation, focusing on learning objectives and pedagogical coherence.
 - Created detailed prompts for course blueprint generation, integrating objectives, structure, and pedagogical approaches.
-- Designed pedagogical strategy and bibliography query prompts for curriculum design.
+- Designed pedagogical [[strategy]] and bibliography query prompts for curriculum design.
 - Outlined workflows for generating structured teaching materials and session-level workflows.
 - Developed frameworks for identifying high-value teaching moments and generating keyword clusters.
 - Planned systematic approaches for lecture content organization and open-ended reflection for session design.
 - Generated engaging code snippets and exercises to enhance learning outcomes.
 - Created a process for code insights and cheatsheet creation.
-- Designed rigorous data science challenges aligned with session blueprints.
+- Designed rigorous [[data science]] challenges aligned with session blueprints.
 
 **Achievements:**
 - Enhanced modularity and expandability of educational material generation processes.

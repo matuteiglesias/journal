@@ -1,6 +1,6 @@
 ---
 title: "Optimized Rental Ad Strategies for Argentine Market"
-tags: ['Rental Ads', 'Argentina', 'Marketing', 'Real Estate', 'Strategy']
+tags: ["Rental Ads", "Argentina", "Marketing", "Real Estate", "Strategy"]
 created: 2025-06-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:35–17:15**  
 **🏷️ Labels**: Rental Ads, Argentina, Marketing, Real Estate, Strategy  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

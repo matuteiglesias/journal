@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Implemented Power Method with Rayleigh Coefficients"
-tags: ['Power Method', 'Rayleigh Coefficients', 'Schur Decomposition', 'Linear Algebra']
+tags: ["Power Method", "Rayleigh Coefficients", "Schur Decomposition", "Linear Algebra"]
 created: 2024-10-22
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 17:15–17:30**  
 **🏷️ Labels**: Power Method, Rayleigh Coefficients, Schur Decomposition, Linear Algebra  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

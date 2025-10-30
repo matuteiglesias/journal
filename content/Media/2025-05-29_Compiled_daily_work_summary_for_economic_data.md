@@ -1,6 +1,6 @@
 ---
 title: "Compiled daily work summary for economic data"
-tags: ['Economic Data', 'Daily Summary', 'Repository', 'Media Monitoring']
+tags: ["Economic Data", "Daily Summary", "Repository", "Media Monitoring"]
 created: 2025-05-29
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:20–05:40**  
 **🏷️ Labels**: Economic Data, Daily Summary, Repository, Media Monitoring  
 **📂 Project**: Media  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

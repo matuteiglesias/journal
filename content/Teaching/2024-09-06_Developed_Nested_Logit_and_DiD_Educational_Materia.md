@@ -1,6 +1,6 @@
 ---
 title: "Developed Nested Logit and DiD Educational Materials"
-tags: ['Nested Logit', 'Did', 'Education', 'Investment Analysis', 'Dynamic Decision-Making']
+tags: ["Nested Logit", "Did", "Education", "Investment Analysis", "Dynamic Decision-Making"]
 created: 2024-09-06
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:50–02:10**  
 **🏷️ Labels**: Nested Logit, Did, Education, Investment Analysis, Dynamic Decision-Making  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

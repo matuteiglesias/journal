@@ -1,6 +1,6 @@
 ---
 title: "Organized food inventory and developed meal plans"
-tags: ['Food Inventory', 'Meal Planning', 'Data Management', 'Recipe Development']
+tags: ["Food Inventory", "Meal Planning", "Data Management", "Recipe Development"]
 created: 2024-11-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:00–23:10**  
 **🏷️ Labels**: Food Inventory, Meal Planning, Data Management, Recipe Development  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive GCP Study Plans"
-tags: ['GCP', 'Data Engineering', 'Study Plan', 'Certification']
+tags: ["GCP", "Data Engineering", "Study Plan", "Certification"]
 created: 2024-01-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:50–19:20**  
 **🏷️ Labels**: GCP, Data Engineering, Study Plan, Certification  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,7 +18,7 @@ The session aimed to create a comprehensive set of study plans for the Google Pr
 
 ### Key Activities
 - Developed a structured 7-day study plan for beginners focusing on the basics of GCP.
-- Created detailed study plans for Weeks 2-3, focusing on security, compliance, reliability, and data processing in GCP.
+- Created detailed study plans for Weeks 2-3, focusing on security, compliance, reliability, and [[data processing]] in GCP.
 - Outlined study plans for Week 4 on designing for reliability and fidelity, including disaster recovery strategies.
 - Planned Week 5 curriculum on data architecture flexibility and data migration.
 - Formulated a two-week plan on data pipelines, covering ETL processes and CI/CD practices.

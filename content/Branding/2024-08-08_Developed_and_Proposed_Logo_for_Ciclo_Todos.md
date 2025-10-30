@@ -1,6 +1,6 @@
 ---
 title: "Developed and Proposed Logo for Ciclo Todos"
-tags: ['Logo Design', 'Branding', 'Diversity', 'Inclusion', 'Graphic Design']
+tags: ["Logo Design", "Branding", "Diversity", "Inclusion", "Graphic Design"]
 created: 2024-08-08
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 16:30–16:55**  
 **🏷️ Labels**: Logo Design, Branding, Diversity, Inclusion, Graphic Design  
 **📂 Project**: Branding  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

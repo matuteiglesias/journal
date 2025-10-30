@@ -1,6 +1,6 @@
 ---
 title: "Developed Health and Business Strategies"
-tags: ['Detox', 'Health', 'Job Application', 'Data Analysis']
+tags: ["Detox", "Health", "Job Application", "Data Analysis"]
 created: 2025-08-05
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 18:45–19:55**  
 **🏷️ Labels**: Detox, Health, Job Application, Data Analysis  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

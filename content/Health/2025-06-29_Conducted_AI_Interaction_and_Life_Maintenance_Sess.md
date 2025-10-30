@@ -1,6 +1,6 @@
 ---
 title: "Conducted AI Interaction and Life Maintenance Session"
-tags: ['Life Maintenance', 'Ai Interaction', 'Focus', 'Summary']
+tags: ["Life Maintenance", "Ai Interaction", "Focus", "Summary"]
 created: 2025-06-29
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 23:00–23:50**  
 **🏷️ Labels**: Life Maintenance, Ai Interaction, Focus, Summary  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

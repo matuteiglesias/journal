@@ -1,6 +1,6 @@
 ---
 title: "Developed AI Habitat and Python Environment Management"
-tags: ['Ai Habitat', 'Python Management', 'YAML', 'Virtual Environment', 'Disk Cleanup']
+tags: ["Ai Habitat", "Python Management", "YAML", "Virtual Environment", "Disk Cleanup"]
 created: 2025-04-22
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 21:35–23:00**  
 **🏷️ Labels**: Ai Habitat, Python Management, YAML, Virtual Environment, Disk Cleanup  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to develop a structured [[AI]] Habitat and manage [[Python]] environments effectively for [[AI]] agent systems.
 
 ### Key Activities
-- **Declarative Agent System**: Initiated building a YAML-based agent system with PromptFlow for structured control and adaptability.
+- **Declarative Agent System**: Initiated building a YAML-based agent system with [[PromptFlow]] for structured control and adaptability.
 - **[[AI]] Habitat Foundation**: Established foundational layers for [[AI]] Habitat, including directory structure and runtime setup.
 - **[[Python]] Environment [[Troubleshooting]]**: Addressed [[Python]] environment issues, including cleaning and managing dependencies using virtual environments.
 - **Cerebrum Module Installation**: Installed the `cerebrum` module in a [[Python]] environment, emphasizing the use of virtual environments to avoid future issues.

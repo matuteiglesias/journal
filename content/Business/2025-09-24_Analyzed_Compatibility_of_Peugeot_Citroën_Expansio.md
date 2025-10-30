@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Compatibility of Peugeot/Citroën Expansion Tanks"
-tags: ['Peugeot', 'Citroën', 'Auto Parts', 'Compatibility', 'Analysis']
+tags: ["Peugeot", "Citro\u00ebn", "Auto Parts", "Compatibility", "Analysis"]
 created: 2025-09-24
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:45–18:55**  
 **🏷️ Labels**: Peugeot, Citroën, Auto Parts, Compatibility, Analysis  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

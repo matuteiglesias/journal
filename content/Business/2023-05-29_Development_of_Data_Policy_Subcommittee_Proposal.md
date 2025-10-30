@@ -1,6 +1,6 @@
 ---
 title: "Development of Data Policy Subcommittee Proposal"
-tags: ['Data Policy', 'Subcommittee', 'Proposal', 'Documentation', 'FCEN']
+tags: ["Data Policy", "Subcommittee", "Proposal", "Documentation", "FCEN"]
 created: 2023-05-29
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 18:35–21:20**  
 **🏷️ Labels**: Data Policy, Subcommittee, Proposal, Documentation, FCEN  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to develop comprehensive documentation and proposals for the establishment of a Data Policy Subcommittee within the Faculty of Exact and Natural Sciences (FCEN).
+The session aimed to develop comprehensive [[documentation]] and proposals for the establishment of a Data Policy Subcommittee within the Faculty of Exact and Natural Sciences (FCEN).
 
 ### Key Activities
 - **[[Documentation]] Preparation**: Created templates and proposals for the creation of a subcommittee focused on data policies, including a detailed plan of work, member profiles, and resource requirements.

@@ -1,6 +1,6 @@
 ---
 title: "Explored Regression Techniques for MSE-Trained Ensembles"
-tags: ['Regression', 'Machine Learning', 'Quantile Regression', 'MSE', 'Bias-Variance']
+tags: ["Regression", "Machine Learning", "Quantile Regression", "MSE", "Bias-Variance"]
 created: 2025-10-05
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:00–18:10**  
 **🏷️ Labels**: Regression, Machine Learning, Quantile Regression, MSE, Bias-Variance  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Designed Interactive Workshop for Python Teaching"
-tags: ['Python', 'Teaching', 'Workshop', 'Education', 'Programming']
+tags: ["Python", "Teaching", "Workshop", "Education", "Programming"]
 created: 2025-03-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 05:55–06:05**  
 **🏷️ Labels**: Python, Teaching, Workshop, Education, Programming  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

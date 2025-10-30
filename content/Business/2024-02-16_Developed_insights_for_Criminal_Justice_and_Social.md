@@ -1,6 +1,6 @@
 ---
 title: "Developed insights for Criminal Justice and Social Enterprise"
-tags: ['Criminal Justice', 'Social Enterprise', 'Financial Management', 'Media Impact']
+tags: ["Criminal Justice", "Social Enterprise", "Financial Management", "Media Impact"]
 created: 2024-02-16
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:00–05:30**  
 **🏷️ Labels**: Criminal Justice, Social Enterprise, Financial Management, Media Impact  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Exploration of Graph Algorithms and Implementations"
-tags: ['Graph Algorithms', 'Dijkstra', 'Bellman-Ford', 'Python', 'Github', 'Education']
+tags: ["Graph Algorithms", "Dijkstra", "Bellman-Ford", "Python", "Github", "Education"]
 created: 2023-10-11
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 12:00–20:00**  
 **🏷️ Labels**: Graph Algorithms, Dijkstra, Bellman-Ford, Python, Github, Education  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The primary objective of this session was to explore various graph algorithms, focusing on their theoretical underpinnings, practical applications, and implementation in [[Python]].
 
 ### Key Activities
-- **GitHub Repository Structure**: A detailed structure for a GitHub repository was proposed to facilitate collaboration in academic projects.
+- **[[GitHub]] Repository Structure**: A detailed structure for a [[GitHub]] repository was proposed to facilitate collaboration in academic projects.
 - **Email Proposal**: A template for inviting graduates to a programming event was drafted.
 - **Graph Theory Exercises**: Exercises on shortest paths in graphs were presented, offering challenges and solution strategies.
 - **Matrix Sum Exercise**: An exercise on summing values in a matrix using nested loops was discussed.
@@ -27,7 +27,7 @@ The primary objective of this session was to explore various graph algorithms, f
 
 ### Achievements
 - Developed a comprehensive understanding of graph algorithms and their applications.
-- Created templates for GitHub repository structure and event invitation emails.
+- Created templates for [[GitHub]] repository structure and event invitation emails.
 - Provided [[Python]] code examples for key graph algorithms.
 
 ### Pending Tasks

@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Graphviz for Course Prerequisite Visualization"
-tags: ['Graphviz', 'Visualization', 'Course Prerequisites', 'Python', 'Graph Layout']
+tags: ["Graphviz", "Visualization", "Course Prerequisites", "Python", "Graph Layout"]
 created: 2023-11-13
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 17:55–18:59**  
 **🏷️ Labels**: Graphviz, Visualization, Course Prerequisites, Python, Graph Layout  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to enhance the visualization of course prerequisites using Graphviz, focusing on the CBC courses and their representation within a graph.
+The session aimed to enhance the [[visualization]] of course prerequisites using Graphviz, focusing on the CBC courses and their representation within a graph.
 
 ### Key Activities
 - Identified and addressed an error in graph generation related to CBC courses.
@@ -30,4 +30,4 @@ The session aimed to enhance the visualization of course prerequisites using Gra
 
 ### Pending Tasks
 - Further exploration of alternative methods for layering in Graphviz to overcome current limitations.
-- Consideration of additional output formats for better visualization quality.
+- Consideration of additional output formats for better [[visualization]] quality.

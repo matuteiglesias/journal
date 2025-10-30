@@ -1,6 +1,6 @@
 ---
 title: "Completed Multiclass Classification Evaluations for Student Groups"
-tags: ['Classification', 'Evaluation', 'Multiclass', 'Data Analysis', 'Student Groups']
+tags: ["Classification", "Evaluation", "Multiclass", "Data Analysis", "Student Groups"]
 created: 2025-07-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:40–17:30**  
 **🏷️ Labels**: Classification, Evaluation, Multiclass, Data Analysis, Student Groups  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

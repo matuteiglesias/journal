@@ -1,6 +1,6 @@
 ---
 title: "Developed and Integrated Linear Transformations Class"
-tags: ['Linear Transformations', 'Python', 'Education', 'Matrix Operations', 'Teaching']
+tags: ["Linear Transformations", "Python", "Education", "Matrix Operations", "Teaching"]
 created: 2024-08-29
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:15–17:40**  
 **🏷️ Labels**: Linear Transformations, Python, Education, Matrix Operations, Teaching  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

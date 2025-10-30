@@ -1,6 +1,6 @@
 ---
 title: "Reviewed and Enhanced R Data Processing Scripts"
-tags: ['R Programming', 'Data Manipulation', 'Feedback', 'Documentation', 'Geojson']
+tags: ["R Programming", "Data Manipulation", "Feedback", "Documentation", "Geojson"]
 created: 2023-06-09
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 09:05–09:30**  
 **🏷️ Labels**: R Programming, Data Manipulation, Feedback, Documentation, Geojson  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The primary aim of this session was to review the PanelMatch.Rmd file and enhance various R data processing scripts for improved efficiency and functionality.
+The primary aim of this session was to review the PanelMatch.Rmd file and enhance various R [[data processing]] scripts for improved efficiency and functionality.
 
 **Key Activities:**
 - Provided feedback on the PanelMatch.Rmd document, focusing on organization, content accuracy, and writing style.

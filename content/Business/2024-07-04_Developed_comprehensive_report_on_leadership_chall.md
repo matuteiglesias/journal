@@ -1,6 +1,6 @@
 ---
 title: "Developed comprehensive report on leadership challenges"
-tags: ['Leadership', 'Organizational Change', 'Inclusivity', 'Report Writing', 'Kirchnerism']
+tags: ["Leadership", "Organizational Change", "Inclusivity", "Report Writing", "Kirchnerism"]
 created: 2024-07-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:50–23:50**  
 **🏷️ Labels**: Leadership, Organizational Change, Inclusivity, Report Writing, Kirchnerism  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

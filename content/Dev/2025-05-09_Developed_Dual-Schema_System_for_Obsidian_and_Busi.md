@@ -1,6 +1,6 @@
 ---
 title: "Developed Dual-Schema System for Obsidian and Business Intelligence"
-tags: ['Obsidian', 'Business Intelligence', 'Metadata', 'Python', 'Schema']
+tags: ["Obsidian", "Business Intelligence", "Metadata", "Python", "Schema"]
 created: 2025-05-09
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:05–23:05**  
 **🏷️ Labels**: Obsidian, Business Intelligence, Metadata, Python, Schema  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,13 +23,13 @@ The session aimed to develop a dual-layer classification system and a unified sc
 - **Obsidian Screening Schema**: Developed a structured [[JSON]] schema for Obsidian metadata management.
 - **Business Intelligence Schema**: Designed a [[JSON]] schema for extracting business and product intelligence.
 - **Jinja2 Templates**: Created prompt templates for memory curation and business intelligence.
-- **Dual-Schema Outputs**: Outlined the integration of dual-schema outputs for Obsidian and business intelligence.
+- **Dual-Schema Outputs**: Outlined the [[integration]] of dual-schema outputs for Obsidian and business intelligence.
 - **Script Enhancements**: Updated [[Python]] scripts for merging enriched files and transitioning to a flat directory structure for [[Markdown]] exports.
 - **Metadata Management**: Enhanced MemoryNote and register_embedding functions for better metadata handling in ChromaDB.
 
 ### Achievements
 - Successfully created and outlined dual-layer and unified schemas for Obsidian and business intelligence.
-- Developed and tested [[Python]] scripts for data processing and file structure optimization.
+- Developed and tested [[Python]] scripts for [[data processing]] and file structure [[optimization]].
 - Enhanced metadata management and retrieval processes in ChromaDB.
 
 ### Pending Tasks

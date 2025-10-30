@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Data Processing with Geo Personas and DBML Schema"
-tags: ['Python', 'DBML', 'Data Processing', 'Database Schema']
+tags: ["Python", "DBML", "Data Processing", "Database Schema"]
 created: 2023-08-17
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 18:15–19:05**  
 **🏷️ Labels**: Python, DBML, Data Processing, Database Schema  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to enhance data processing transparency and update database schemas for improved data management.
+The session aimed to enhance [[data processing]] transparency and update database schemas for improved [[data management]].
 
 ### Key Activities
 - Modified the `geo_personas` function to include a loop for printing column maximum values before merging datasets, aiding in data transparency.

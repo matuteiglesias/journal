@@ -1,6 +1,6 @@
 ---
 title: "Conducted Matrix Inversion and Group Evaluation Analysis"
-tags: ['Matrix Inversion', 'Group Evaluation', 'Error Analysis', 'Spectral Radius', 'Code Quality']
+tags: ["Matrix Inversion", "Group Evaluation", "Error Analysis", "Spectral Radius", "Code Quality"]
 created: 2024-11-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:30–17:00**  
 **🏷️ Labels**: Matrix Inversion, Group Evaluation, Error Analysis, Spectral Radius, Code Quality  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,7 +18,7 @@ The session aimed to analyze the convergence and error of the power series for m
 
 ### Key Activities
 - **Matrix Inversion Analysis**: Explored the convergence and error analysis of the power series for matrix inversion, including plotting the series and establishing convergence rules.
-- **Group Evaluations**: Conducted evaluations of group submissions focusing on code readability, visualization quality, discussion depth, and completeness. Multiple groups were ranked based on their strengths and weaknesses across different tasks such as Consigna 4 and Consigna 5.
+- **Group Evaluations**: Conducted evaluations of group submissions focusing on code readability, [[visualization]] quality, discussion depth, and completeness. Multiple groups were ranked based on their strengths and weaknesses across different tasks such as Consigna 4 and Consigna 5.
 
 ### Achievements
 - Completed a detailed convergence and error analysis for matrix inversion.

@@ -1,6 +1,6 @@
 ---
 title: "Optimized Storage and Managed Electoral Data"
-tags: ['Storage Optimization', 'Data Management', 'Disk Cleanup', 'File Recovery', 'Cloud Storage']
+tags: ["Storage Optimization", "Data Management", "Disk Cleanup", "File Recovery", "Cloud Storage"]
 created: 2025-02-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:25–21:05**  
 **🏷️ Labels**: Storage Optimization, Data Management, Disk Cleanup, File Recovery, Cloud Storage  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -30,5 +30,5 @@ The session aimed to optimize storage space and manage electoral data efficientl
 - Uploaded Census data to Google Cloud Storage efficiently.
 
 ### Pending Tasks
-- Further monitoring of storage space usage and potential automation of cleanup processes.
+- Further monitoring of storage space usage and potential [[automation]] of cleanup processes.
 - Continuous improvement of data organization strategies in the electoral data repository.

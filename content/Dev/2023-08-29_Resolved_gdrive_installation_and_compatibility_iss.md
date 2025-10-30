@@ -1,6 +1,6 @@
 ---
 title: "Resolved gdrive installation and compatibility issues"
-tags: ['Gdrive', 'Linux', 'Installation', 'Troubleshooting', 'Command Line']
+tags: ["Gdrive", "Linux", "Installation", "Troubleshooting", "Command Line"]
 created: 2023-08-29
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 07:20–07:40**  
 **🏷️ Labels**: Gdrive, Linux, Installation, Troubleshooting, Command Line  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Developed deterministic email classification rules"
-tags: ['Email Classification', 'Automation', 'Rules', 'Pseudocode']
+tags: ["Email Classification", "Automation", "Rules", "Pseudocode"]
 created: 2024-10-06
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 23:00–23:20**  
 **🏷️ Labels**: Email Classification, Automation, Rules, Pseudocode  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Dynamic Task Scheduling with Python"
-tags: ['Task Scheduling', 'Dynamic Constraints', 'Python', 'Automation', 'Gym']
+tags: ["Task Scheduling", "Dynamic Constraints", "Python", "Automation", "Gym"]
 created: 2024-10-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:40–18:40**  
 **🏷️ Labels**: Task Scheduling, Dynamic Constraints, Python, Automation, Gym  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

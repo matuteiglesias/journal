@@ -1,6 +1,6 @@
 ---
 title: "Developed strategies for political positioning and contact management"
-tags: ['Political Strategy', 'Contact Management', 'Trello', 'Network Mapping', 'Vehicle Repair']
+tags: ["Political Strategy", "Contact Management", "Trello", "Network Mapping", "Vehicle Repair"]
 created: 2024-05-24
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:55–15:35**  
 **🏷️ Labels**: Political Strategy, Contact Management, Trello, Network Mapping, Vehicle Repair  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -21,7 +21,7 @@ The session aimed to develop comprehensive strategies for political positioning 
 - **ECU Recalibration:** Outlined steps for ECU recalibration, electronic system resets, and additional adjustments post-engine changes.
 - **Political Positioning:** Mapped key personas and defined interaction strategies to enhance political positioning, identifying key groups and analyzing their influence.
 - **Network Mapping [[Strategy]]:** Explored network mapping using multiplicative and logarithmic relationships to identify primary and secondary nodes for maximizing interaction impact.
-- **Contact Management with Trello:** Provided a detailed guide on using Trello for managing contact networks and collaborations, including initial setup, list and card usage, automation, and teamwork.
+- **Contact Management with Trello:** Provided a detailed guide on using Trello for managing contact networks and collaborations, including initial setup, list and card usage, [[automation]], and teamwork.
 - **Contact Categorization:** Defined categories and tags for effective contact classification, including potential prospects, initial contacts, active collaborations, follow-ups, and strategic alliances.
 
 ### Achievements:

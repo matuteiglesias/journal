@@ -1,6 +1,6 @@
 ---
 title: "Explored Quantum Consciousness in Paranormal Phenomena"
-tags: ['Parapsychology', 'Quantum Theory', 'Consciousness', 'Paranormal', 'Theoretical Physics']
+tags: ["Parapsychology", "Quantum Theory", "Consciousness", "Paranormal", "Theoretical Physics"]
 created: 2024-04-25
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 03:45–04:20**  
 **🏷️ Labels**: Parapsychology, Quantum Theory, Consciousness, Paranormal, Theoretical Physics  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

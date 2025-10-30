@@ -1,6 +1,6 @@
 ---
 title: "Curated and Analyzed Madonna's Music Collaborations"
-tags: ['Madonna', 'Music Analysis', 'Collaboration', 'Underrated Songs']
+tags: ["Madonna", "Music Analysis", "Collaboration", "Underrated Songs"]
 created: 2025-08-12
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 00:55–01:10**  
 **🏷️ Labels**: Madonna, Music Analysis, Collaboration, Underrated Songs  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Diagnosed Firefox Input and Typing Lag Issues"
-tags: ['Firefox', 'Linux', 'Performance', 'Troubleshooting', 'Input Lag']
+tags: ["Firefox", "Linux", "Performance", "Troubleshooting", "Input Lag"]
 created: 2025-09-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:10–04:45**  
 **🏷️ Labels**: Firefox, Linux, Performance, Troubleshooting, Input Lag  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Developed Small Account Trading Strategy"
-tags: ['Trading', 'Risk Management', 'Small Accounts', 'Strategy', 'Visualization']
+tags: ["Trading", "Risk Management", "Small Accounts", "Strategy", "Visualization"]
 created: 2024-11-16
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 21:10–21:45**  
 **🏷️ Labels**: Trading, Risk Management, Small Accounts, Strategy, Visualization  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to develop a comprehensive strategy for growing small trading accounts through effective stock selection, disciplined execution, and strict risk management.
+The session aimed to develop a comprehensive [[strategy]] for growing small trading accounts through effective stock selection, disciplined execution, and strict risk management.
 
 ### Key Activities
 - Analyzed trader's strategies focusing on stock selection, entry and exit strategies, and emotional discipline.
@@ -30,5 +30,5 @@ The session aimed to develop a comprehensive strategy for growing small trading 
 - Created a plan for visualizing trading data to aid decision-making.
 
 ### Pending Tasks
-- Implement the [[Python]] visualization for candlestick data.
+- Implement the [[Python]] [[visualization]] for candlestick data.
 - Test the developed trading strategies in a proof-of-concept phase to validate effectiveness.

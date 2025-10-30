@@ -1,6 +1,6 @@
 ---
 title: "Resolved ogr2ogr GeoJSON processing errors"
-tags: ['Ogr2Ogr', 'Geojson', 'GIS', 'Error Handling', 'Python']
+tags: ["Ogr2Ogr", "Geojson", "GIS", "Error Handling", "Python"]
 created: 2023-02-23
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:10–19:30**  
 **🏷️ Labels**: Ogr2Ogr, Geojson, GIS, Error Handling, Python  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

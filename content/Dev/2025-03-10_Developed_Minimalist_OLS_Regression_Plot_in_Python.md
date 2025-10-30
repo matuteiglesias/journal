@@ -1,6 +1,6 @@
 ---
 title: "Developed Minimalist OLS Regression Plot in Python"
-tags: ['Python', 'Data Visualization', 'Regression', 'Numpy', 'Matplotlib']
+tags: ["Python", "Data Visualization", "Regression", "Numpy", "Matplotlib"]
 created: 2025-03-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 12:45–13:10**  
 **🏷️ Labels**: Python, Data Visualization, Regression, Numpy, Matplotlib  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -27,4 +27,4 @@ The session aimed to develop a minimalist version of Seaborn's `regplot` for Ord
 - Improved understanding of regression techniques and their statistical implications.
 
 ### Pending Tasks:
-- Further exploration of regression techniques and potential integration with additional statistical methods.
+- Further exploration of regression techniques and potential [[integration]] with additional statistical methods.

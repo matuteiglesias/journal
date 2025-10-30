@@ -1,6 +1,6 @@
 ---
 title: "Developed Fast Text Classifier with Scikit-Learn"
-tags: ['Text Classification', 'Scikit-Learn', 'Logistic Regression', 'Naïve Bayes', 'Deep Learning']
+tags: ["Text Classification", "Scikit-Learn", "Logistic Regression", "Na\u00efve Bayes", "Deep Learning"]
 created: 2025-02-18
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:10–21:55**  
 **🏷️ Labels**: Text Classification, Scikit-Learn, Logistic Regression, Naïve Bayes, Deep Learning  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

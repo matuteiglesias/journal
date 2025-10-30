@@ -1,6 +1,6 @@
 ---
 title: "Structured Consultancy and Personal Development Planning"
-tags: ['Consultancy', 'Application Strategy', 'Personal Development', 'World Bank', 'Poverty Measurement']
+tags: ["Consultancy", "Application Strategy", "Personal Development", "World Bank", "Poverty Measurement"]
 created: 2025-07-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 05:10–05:40**  
 **🏷️ Labels**: Consultancy, Application Strategy, Personal Development, World Bank, Poverty Measurement  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,10 +25,10 @@ The session aimed to develop a tactical overnight plan focusing on personal deve
 
 ### Achievements
 - Developed a structured overnight plan with actionable steps for consultancy and personal development.
-- Created a comprehensive application strategy for a World Bank consultancy role.
-- Formulated a professional outreach strategy and refined communication templates.
+- Created a comprehensive application [[strategy]] for a World Bank consultancy role.
+- Formulated a professional outreach [[strategy]] and refined [[communication]] templates.
 
 ### Pending Tasks
 - Finalize and send the application for the World Bank consultancy role.
-- Implement the outreach strategy for the poverty measurement role.
+- Implement the outreach [[strategy]] for the poverty measurement role.
 - Review and adjust the overnight plan as needed for ongoing personal development.

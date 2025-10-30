@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Economic Dynamics and Fluctuations"
-tags: ['Economic Dynamics', 'Firm Sales', 'Fluctuations', 'Aggregate Behavior', 'Economic Modeling']
+tags: ["Economic Dynamics", "Firm Sales", "Fluctuations", "Aggregate Behavior", "Economic Modeling"]
 created: 2023-10-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:40–03:00**  
 **🏷️ Labels**: Economic Dynamics, Firm Sales, Fluctuations, Aggregate Behavior, Economic Modeling  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

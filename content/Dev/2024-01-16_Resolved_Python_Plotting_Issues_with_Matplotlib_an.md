@@ -1,6 +1,6 @@
 ---
 title: "Resolved Python Plotting Issues with Matplotlib and Backtrader"
-tags: ['Python', 'Matplotlib', 'Backtrader', 'Plotting', 'Troubleshooting']
+tags: ["Python", "Matplotlib", "Backtrader", "Plotting", "Troubleshooting"]
 created: 2024-01-16
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:20–17:50**  
 **🏷️ Labels**: Python, Matplotlib, Backtrader, Plotting, Troubleshooting  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -27,7 +27,7 @@ The session aimed to troubleshoot and resolve issues related to displaying and s
 ### Achievements
 - Successfully resolved plotting issues in [[Python]] using [[Matplotlib]] and Backtrader.
 - Improved code for handling and saving plot figures.
-- Enhanced plotting configuration for time series and financial data visualization.
+- Enhanced plotting [[configuration]] for time series and financial [[data [[visualization]]]].
 
 ### Pending Tasks
 - Further testing of customized plotting configurations to ensure robustness across different datasets.

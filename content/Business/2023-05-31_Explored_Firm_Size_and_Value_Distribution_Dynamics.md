@@ -1,6 +1,6 @@
 ---
 title: "Explored Firm Size and Value Distribution Dynamics"
-tags: ['Firm Size', 'Value Distribution', 'Log-Normal Distribution', 'Economic Analysis', 'Partitions']
+tags: ["Firm Size", "Value Distribution", "Log-Normal Distribution", "Economic Analysis", "Partitions"]
 created: 2023-05-31
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:45–06:05**  
 **🏷️ Labels**: Firm Size, Value Distribution, Log-Normal Distribution, Economic Analysis, Partitions  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

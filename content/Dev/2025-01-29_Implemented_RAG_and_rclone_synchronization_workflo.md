@@ -1,6 +1,6 @@
 ---
 title: "Implemented RAG and rclone synchronization workflows"
-tags: ['Rclone', 'RAG', 'Synchronization', 'Folder Structure', 'Automation']
+tags: ["Rclone", "RAG", "Synchronization", "Folder Structure", "Automation"]
 created: 2025-01-29
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 21:30–22:25**  
 **🏷️ Labels**: Rclone, RAG, Synchronization, Folder Structure, Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to implement and optimize synchronization workflows using rclone and enhance Retrieval-Augmented Generation (RAG) systems for efficient data management and [[AI]] retrieval.
+The session aimed to implement and optimize synchronization workflows using rclone and enhance Retrieval-Augmented Generation (RAG) systems for efficient [[data management]] and [[AI]] retrieval.
 
 **Key Activities:**
 - Set up synchronization between local directories and Google Drive using rclone, including handling of empty directories and deletion issues.
@@ -23,10 +23,10 @@ The session aimed to implement and optimize synchronization workflows using rclo
 - Integrated bi-directional syncing in RAG pipelines for seamless data ingestion and management.
 
 **Achievements:**
-- Successfully synchronized local files with Google Drive using rclone, ensuring data integrity and efficient file management.
+- Successfully synchronized local files with Google Drive using rclone, ensuring data integrity and efficient [[file management]].
 - Established a comprehensive RAG bucket design, enhancing [[AI]] retrieval capabilities.
 - Created a robust folder structure for teaching and academic resources, improving usability and scalability.
 
 **Pending Tasks:**
-- Further automation of the RAG system alignment with academic folders.
-- [[Optimization]] of the RAG pipeline for enhanced [[AI]] integration and retrieval.
+- Further [[automation]] of the RAG system alignment with academic folders.
+- [[Optimization]] of the RAG pipeline for enhanced [[AI]] [[integration]] and retrieval.

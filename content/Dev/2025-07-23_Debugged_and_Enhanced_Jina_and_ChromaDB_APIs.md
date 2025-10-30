@@ -1,6 +1,6 @@
 ---
 title: "Debugged and Enhanced Jina and ChromaDB APIs"
-tags: ['Jina Api', 'Chromadb', 'Error Handling', 'Debugging', 'Data Retrieval']
+tags: ["Jina Api", "Chromadb", "Error Handling", "Debugging", "Data Retrieval"]
 created: 2025-07-23
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 08:00–08:15**  
 **🏷️ Labels**: Jina Api, Chromadb, Error Handling, Debugging, Data Retrieval  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to address and resolve various issues related to the Jina [[API]] and ChromaDB, focusing on error handling, debugging, and data retrieval.
+The session aimed to address and resolve various issues related to the Jina [[API]] and ChromaDB, focusing on [[error handling]], [[debugging]], and data retrieval.
 
 ### Key Activities
 - Implemented a try-catch mechanism in the `ingest_paths` function of the Jina [[API]] to handle oversized embeddings, ensuring problematic entries are skipped and logged for review.
@@ -25,7 +25,7 @@ The session aimed to address and resolve various issues related to the Jina [[AP
 - Troubleshot ChromaDB internal errors, identifying potential causes like index corruption and state inconsistencies, and suggested strategies like batching fetch requests and rebuilding collections.
 
 ### Achievements
-- Enhanced error handling in Jina [[API]] for oversized embeddings.
+- Enhanced [[error handling]] in Jina [[API]] for oversized embeddings.
 - Resolved Chroma backend errors by diagnosing and fixing metadata issues.
 - Corrected data retrieval methods in [[Python]] for more efficient access.
 - Improved ChromaDB reliability by addressing ID retrieval and internal error issues.

@@ -1,6 +1,6 @@
 ---
 title: "Updated CSS for PDF and Web Styling"
-tags: ['CSS', 'Web_Design', 'PDF', 'Styling']
+tags: ["CSS", "Web_Design", "PDF", "Styling"]
 created: 2024-03-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:20–21:40**  
 **🏷️ Labels**: CSS, Web_Design, PDF, Styling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

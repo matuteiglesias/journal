@@ -1,6 +1,6 @@
 ---
 title: "Developed Legal Strategies for Property Reclamation"
-tags: ['Legal Strategy', 'Property Reclamation', 'CPCCBA', 'Legal Research', 'Case Management']
+tags: ["Legal Strategy", "Property Reclamation", "CPCCBA", "Legal Research", "Case Management"]
 created: 2025-08-14
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:40–20:30**  
 **🏷️ Labels**: Legal Strategy, Property Reclamation, CPCCBA, Legal Research, Case Management  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,16 +18,16 @@ The session aimed to develop comprehensive legal strategies and responses for va
 
 ### Key Activities
 - Conducted legal research on CPCCBA and civil procedure in Buenos Aires, focusing on spontaneous presentations and mandatory interventions.
-- Developed a strategy for responding to a claim in a property reclamation case, including drafting legal arguments and checklists.
+- Developed a [[strategy]] for responding to a claim in a property reclamation case, including drafting legal arguments and checklists.
 - Analyzed legal objections and proposed probatory measures for property reclamation cases.
 - Formulated strategies to oppose third-party citations and enhance the plaintiff's position in judicial responses.
-- Conducted detailed analysis and provided templates for legal documentation and case management.
+- Conducted detailed analysis and provided templates for legal [[documentation]] and case management.
 
 ### Achievements
-- Created a detailed legal strategy for property reclamation, addressing issues of passive legitimation and third-party citations.
+- Created a detailed legal [[strategy]] for property reclamation, addressing issues of passive legitimation and third-party citations.
 - Developed actionable templates and checklists for legal responses and case management.
 - Enhanced understanding of procedural management through a control tower system for legal case management.
 
 ### Pending Tasks
 - Further research on specific CPCCBA articles related to ordinary processes and exceptions.
-- Continue refining legal strategies and documentation templates for ongoing cases.
+- Continue refining legal strategies and [[documentation]] templates for ongoing cases.

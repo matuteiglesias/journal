@@ -1,6 +1,6 @@
 ---
 title: "Developed Personal Narrative for Blog Post"
-tags: ['Narrative', 'Storytelling', 'Blog', 'Character Development', 'Mental Health']
+tags: ["Narrative", "Storytelling", "Blog", "Character Development", "Mental Health"]
 created: 2025-01-08
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 04:55–05:05**  
 **🏷️ Labels**: Narrative, Storytelling, Blog, Character Development, Mental Health  
 **📂 Project**: Branding  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

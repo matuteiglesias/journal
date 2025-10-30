@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Plant Care and Propagation Guides"
-tags: ['Plant Care', 'Propagation', 'Gardening', 'Houseplants', 'Succulents']
+tags: ["Plant Care", "Propagation", "Gardening", "Houseplants", "Succulents"]
 created: 2024-06-15
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 18:10–19:50**  
 **🏷️ Labels**: Plant Care, Propagation, Gardening, Houseplants, Succulents  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

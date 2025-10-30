@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Unsolved Physics Problems and Gaming Strategies"
-tags: ['Physics', 'Gaming', 'Strategy', 'Research', 'Age Of Empires']
+tags: ["Physics", "Gaming", "Strategy", "Research", "Age Of Empires"]
 created: 2025-07-18
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 03:10–03:50**  
 **🏷️ Labels**: Physics, Gaming, Strategy, Research, Age Of Empires  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal:

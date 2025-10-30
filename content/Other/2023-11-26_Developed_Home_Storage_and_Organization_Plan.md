@@ -1,6 +1,6 @@
 ---
 title: "Developed Home Storage and Organization Plan"
-tags: ['Home Organization', 'Storage Solutions', 'Visual Layout', 'DIY', 'Ai Prompts']
+tags: ["Home Organization", "Storage Solutions", "Visual Layout", "DIY", "Ai Prompts"]
 created: 2023-11-26
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 03:15–04:05**  
 **🏷️ Labels**: Home Organization, Storage Solutions, Visual Layout, DIY, Ai Prompts  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

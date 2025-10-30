@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Python Regex for Section Parsing"
-tags: ['Python', 'Regex', 'Text Parsing', 'Error Handling', 'Code Improvement']
+tags: ["Python", "Regex", "Text Parsing", "Error Handling", "Code Improvement"]
 created: 2023-11-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:15–02:00**  
 **🏷️ Labels**: Python, Regex, Text Parsing, Error Handling, Code Improvement  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -28,7 +28,7 @@ The primary aim was to refine a [[Python]] script using regular expressions to a
 
 ### Achievements
 - Successfully enhanced the regex pattern for capturing section headers and their content.
-- Improved error handling in the parsing function, ensuring robust text processing.
+- Improved [[error handling]] in the parsing function, ensuring robust text processing.
 - Confirmed the correct structure of parsing and fixing functions through testing.
 
 ### Pending Tasks

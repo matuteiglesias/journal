@@ -1,6 +1,6 @@
 ---
 title: "Explored Autoencoders for Dimensionality Reduction"
-tags: ['Autoencoders', 'Dimensionality Reduction', 'Machine Learning', 'Deep Learning', 'Luciana Ferrer']
+tags: ["Autoencoders", "Dimensionality Reduction", "Machine Learning", "Deep Learning", "Luciana Ferrer"]
 created: 2025-04-04
 publish: true
 ---
@@ -10,16 +10,16 @@ publish: true
 **🕒 16:45–19:30**  
 **🏷️ Labels**: Autoencoders, Dimensionality Reduction, Machine Learning, Deep Learning, Luciana Ferrer  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to explore the use of autoencoders for dimensionality reduction in demographic datasets and compare it with Luciana Ferrer's work in machine learning applied to speech processing.
+The session aimed to explore the use of autoencoders for dimensionality reduction in demographic datasets and compare it with Luciana Ferrer's work in [[machine learning]] applied to speech processing.
 
 ### Key Activities
 - Reviewed protocols for gastric tube replacement by nurses in Brazil, focusing on institutional guidelines and COFEN regulations.
 - Conducted a comparative analysis of autoencoders and Luciana Ferrer's research, highlighting differences in application and focus areas.
-- Reflected on Luciana Ferrer's expertise in machine learning, particularly in signal classification and natural language processing, and its potential insights into dimensionality reduction.
+- Reflected on Luciana Ferrer's expertise in [[machine learning]], particularly in signal classification and natural language processing, and its potential insights into dimensionality reduction.
 - Reviewed articles on the application of autoencoders in demographic data, identifying key references for further exploration.
 - Compiled a list of relevant authors with expertise in autoencoders and related deep learning topics.
 
@@ -29,5 +29,5 @@ The session aimed to explore the use of autoencoders for dimensionality reductio
 - Identified key authors and articles for further reading on autoencoders and deep learning.
 
 ### Pending Tasks
-- Further explore the identified articles and authors to deepen understanding of autoencoders in demographic data processing.
+- Further explore the identified articles and authors to deepen understanding of autoencoders in demographic [[data processing]].
 - Consider potential collaborations or consultations with experts like Luciana Ferrer to enhance research depth.

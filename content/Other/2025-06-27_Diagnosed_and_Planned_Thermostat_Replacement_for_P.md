@@ -1,6 +1,6 @@
 ---
 title: "Diagnosed and Planned Thermostat Replacement for Peugeot 207"
-tags: ['Peugeot 207', 'Thermostat', 'Cooling System', 'Automotive Repair']
+tags: ["Peugeot 207", "Thermostat", "Cooling System", "Automotive Repair"]
 created: 2025-06-27
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 20:10–20:40**  
 **🏷️ Labels**: Peugeot 207, Thermostat, Cooling System, Automotive Repair  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

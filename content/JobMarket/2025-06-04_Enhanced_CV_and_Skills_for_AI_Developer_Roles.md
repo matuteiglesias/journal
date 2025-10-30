@@ -1,6 +1,6 @@
 ---
 title: "Enhanced CV and Skills for AI Developer Roles"
-tags: ['CV', 'AI', 'Data Science', 'Resume', 'Job Application']
+tags: ["CV", "AI", "Data Science", "Resume", "Job Application"]
 created: 2025-06-04
 publish: false
 ---
@@ -10,29 +10,29 @@ publish: false
 **🕒 03:10–06:40**  
 **🏷️ Labels**: CV, AI, Data Science, Resume, Job Application  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to refine and enhance Matías's CV and skills representation for roles in [[AI]], data science, and development, ensuring alignment with industry standards and job market expectations.
+The session aimed to refine and enhance Matías's CV and skills representation for roles in [[AI]], [[data science]], and development, ensuring alignment with industry standards and job market expectations.
 
 ### Key Activities
 - Developed a structured approach to represent consulting roles on a CV, emphasizing transparency and contributions.
 - Outlined a targeted skill set for [[Data Science]], [[AI]], [[Machine Learning]], and Full-Stack Development roles.
-- Compiled a comprehensive list of technologies and frameworks for CV optimization, focusing on ATS keyword filtering.
-- Customized a list of technical skills and tools for Matías's CV, aligning with his expertise in data science and cloud technologies.
+- Compiled a comprehensive list of technologies and frameworks for CV [[optimization]], focusing on ATS keyword filtering.
+- Customized a list of technical skills and tools for Matías's CV, aligning with his expertise in [[data science]] and cloud technologies.
 - Updated the LaTeX CV structure to improve readability and flow, adding a new section for technical skills.
 - Provided a LaTeX snippet for keyword grouping to enhance CV formatting.
 - Drafted a concise 'Professional Experience' section for the CV, suitable for quick recruiter scans.
-- Refined the upper section of the CV to highlight Matías's skills in [[AI]], data science, and automation.
+- Refined the upper section of the CV to highlight Matías's skills in [[AI]], [[data science]], and [[automation]].
 - Created a draft of skills and experience for an [[AI]] Agent Developer role, including certifications.
 - Streamlined a skills summary for the [[AI]] Agent Developer position, focusing on essential technologies.
-- Highlighted proficiency in [[Python]] and [[AI]] frameworks, emphasizing tools for development and deployment.
+- Highlighted proficiency in [[Python]] and [[AI]] frameworks, emphasizing tools for development and [[deployment]].
 - Reflected on the relevance of including specific frameworks like PyTorch and TensorFlow in [[AI]] roles.
 
 ### Achievements
 - Successfully enhanced the CV structure and content to better reflect Matías's skills and experiences.
-- Improved the alignment of the CV with job market requirements for [[AI]] and data science roles.
+- Improved the alignment of the CV with job market requirements for [[AI]] and [[data science]] roles.
 
 ### Pending Tasks
 - Further refine the CV content based on feedback from industry professionals.

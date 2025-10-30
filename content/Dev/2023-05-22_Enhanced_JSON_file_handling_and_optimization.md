@@ -1,6 +1,6 @@
 ---
 title: "Enhanced JSON file handling and optimization"
-tags: ['Python', 'JSON', 'File Handling', 'Code Optimization']
+tags: ["Python", "JSON", "File Handling", "Code Optimization"]
 created: 2023-05-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:00–03:20**  
 **🏷️ Labels**: Python, JSON, File Handling, Code Optimization  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -22,8 +22,8 @@ The session aimed to enhance and optimize [[Python]] code for handling [[JSON]] 
 - Implemented string manipulation to load base names from a string into a list.
 - Optimized code for editing [[JSON]] style objects, removing unnecessary iterations.
 - Updated [[Python]] code to modify [[JSON]] objects based on base names, ensuring each has a unique edited file.
-- Illustrated using the `json.dump()` function with indentation for better [[JSON]] readability.
-- Explained the use of `json.dumps()` for printing indented [[JSON]] objects.
+- Illustrated using the `[[json]].dump()` function with indentation for better [[JSON]] readability.
+- Explained the use of `[[json]].dumps()` for printing indented [[JSON]] objects.
 
 ### Achievements
 - Successfully optimized [[JSON]] handling code, improving efficiency and readability.

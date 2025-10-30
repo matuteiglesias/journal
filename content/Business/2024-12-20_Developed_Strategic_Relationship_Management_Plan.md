@@ -1,6 +1,6 @@
 ---
 title: "Developed Strategic Relationship Management Plan"
-tags: ['Relationship Management', 'CRM', 'Networking', 'Strategy', 'Coaching']
+tags: ["Relationship Management", "CRM", "Networking", "Strategy", "Coaching"]
 created: 2024-12-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 02:40–02:50**  
 **🏷️ Labels**: Relationship Management, CRM, Networking, Strategy, Coaching  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -24,7 +24,7 @@ The session aimed to develop a strategic plan for enhancing Matías' social and 
 - Presented a structured three-step approach for improving personal and professional relationships, including identifying key contacts, reactivating latent relationships, and managing conflicts.
 
 ### Achievements
-- A comprehensive strategy for relationship management was developed, integrating CRM practices and coaching to support social and professional goals.
+- A comprehensive [[strategy]] for relationship management was developed, integrating CRM practices and coaching to support social and professional goals.
 
 ### Pending Tasks
 - Implement the outlined strategies and frameworks in real-world scenarios.

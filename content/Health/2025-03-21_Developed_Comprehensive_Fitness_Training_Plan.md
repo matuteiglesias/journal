@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Fitness Training Plan"
-tags: ['Fitness', 'Training', 'Health', 'Motivation', 'Antibiotics']
+tags: ["Fitness", "Training", "Health", "Motivation", "Antibiotics"]
 created: 2025-03-21
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 08:40–13:50**  
 **🏷️ Labels**: Fitness, Training, Health, Motivation, Antibiotics  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Developed Dynamic Programming Solutions for Cutting and Stacking"
-tags: ['Dynamic Programming', 'Algorithm', 'Latex', 'Code Translation']
+tags: ["Dynamic Programming", "Algorithm", "Latex", "Code Translation"]
 created: 2023-07-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:10–16:55**  
 **🏷️ Labels**: Dynamic Programming, Algorithm, Latex, Code Translation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -28,5 +28,5 @@ The session aimed to explore and develop dynamic programming solutions for two c
 - Improved LaTeX document formatting skills, particularly in handling indentation.
 
 **Pending Tasks:**
-- Further optimization of the box stacking solution to improve efficiency.
+- Further [[optimization]] of the box stacking solution to improve efficiency.
 - Explore additional LaTeX packages for advanced document formatting.

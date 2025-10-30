@@ -1,6 +1,6 @@
 ---
 title: "Consolidated TOC and Data for Poverty Atlas"
-tags: ['TOC', 'Atlas Of Poverty', 'Data Consolidation', 'Implementation Guides', 'Literature Harvesting']
+tags: ["TOC", "Atlas Of Poverty", "Data Consolidation", "Implementation Guides", "Literature Harvesting"]
 created: 2025-08-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 08:35–09:30**  
 **🏷️ Labels**: TOC, Atlas Of Poverty, Data Consolidation, Implementation Guides, Literature Harvesting  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,15 +21,15 @@ The session aimed to consolidate various components of the Atlas of Poverty, inc
 - Completed consolidation of Part 1 of the Atlas of Poverty, ensuring structured and non-repetitive data organization.
 - Developed a unified TOC for Part 1, focusing on functional clarity and thematic organization.
 - Created Book 2 with implementation guides, including ETL playbooks and poverty metrics.
-- Outlined a strategy for authoring data documentation, with templates and author-level contracts.
+- Outlined a [[strategy]] for authoring data [[documentation]], with templates and author-level contracts.
 - Compiled recent research queries on tabular data techniques, including autoencoders and diffusion models.
 - Designed a targeted literature harvester for academic papers using OpenAlex and Crossref.
 
 ### Achievements
 - Successfully consolidated and organized critical sections of the Atlas of Poverty.
-- Developed a comprehensive authoring strategy for data documentation.
+- Developed a comprehensive authoring [[strategy]] for data [[documentation]].
 - Identified and documented recent research insights and methodologies for poverty measurement.
 
 ### Pending Tasks
 - Implement the literature harvester framework and test its retrieval effectiveness.
-- Further explore and integrate recent research findings into the Atlas documentation.
+- Further explore and integrate recent research findings into the Atlas [[documentation]].

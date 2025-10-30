@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Compared Activism Documents"
-tags: ['Activism', 'Document Analysis', 'Storytelling', 'Community Engagement', 'Political Theory']
+tags: ["Activism", "Document Analysis", "Storytelling", "Community Engagement", "Political Theory"]
 created: 2025-01-14
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:15–00:30**  
 **🏷️ Labels**: Activism, Document Analysis, Storytelling, Community Engagement, Political Theory  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

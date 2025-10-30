@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Excel and Google Sheets Formula Techniques"
-tags: ['Excel', 'Google Sheets', 'VLOOKUP', 'Formulas', 'Data Validation']
+tags: ["Excel", "Google Sheets", "VLOOKUP", "Formulas", "Data Validation"]
 created: 2024-07-16
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:30–20:10**  
 **🏷️ Labels**: Excel, Google Sheets, VLOOKUP, Formulas, Data Validation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

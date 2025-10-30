@@ -1,6 +1,6 @@
 ---
 title: "Updated Strategic Contact Management Summaries"
-tags: ['Contactos', 'Networking', 'Estrategia', 'Relaciones']
+tags: ["Contactos", "Networking", "Estrategia", "Relaciones"]
 created: 2024-12-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:40–01:10**  
 **🏷️ Labels**: Contactos, Networking, Estrategia, Relaciones  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

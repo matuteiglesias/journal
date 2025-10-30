@@ -1,6 +1,6 @@
 ---
 title: "Implemented Bootstrap Methods for Economic Analysis"
-tags: ['Bootstrap Methods', 'Economic Analysis', 'Cross Covariance', 'Python', 'Statistical Methods']
+tags: ["Bootstrap Methods", "Economic Analysis", "Cross Covariance", "Python", "Statistical Methods"]
 created: 2024-06-24
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:50–01:15**  
 **🏷️ Labels**: Bootstrap Methods, Economic Analysis, Cross Covariance, Python, Statistical Methods  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Developed and Refined Fish Recipes and Safety Guidelines"
-tags: ['Cooking', 'Recipes', 'Seafood', 'Food Safety', 'Fish Preparation']
+tags: ["Cooking", "Recipes", "Seafood", "Food Safety", "Fish Preparation"]
 created: 2024-10-26
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 00:20–23:55**  
 **🏷️ Labels**: Cooking, Recipes, Seafood, Food Safety, Fish Preparation  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

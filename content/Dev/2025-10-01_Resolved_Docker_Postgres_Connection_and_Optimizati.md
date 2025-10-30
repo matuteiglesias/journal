@@ -1,6 +1,6 @@
 ---
 title: "Resolved Docker Postgres Connection and Optimization Issues"
-tags: ['Docker', 'Postgresql', 'SSL', 'JSON', 'Python']
+tags: ["Docker", "Postgresql", "SSL", "JSON", "Python"]
 created: 2025-10-01
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:20–01:10**  
 **🏷️ Labels**: Docker, Postgresql, SSL, JSON, Python  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Explored Legal and Practical Aspects of Handling Abandoned Property"
-tags: ['Abandoned Property', 'Legal Advice', 'Home Improvement', 'Safety', 'Usucapión']
+tags: ["Abandoned Property", "Legal Advice", "Home Improvement", "Safety", "Usucapi\u00f3n"]
 created: 2024-09-21
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 05:35–06:05**  
 **🏷️ Labels**: Abandoned Property, Legal Advice, Home Improvement, Safety, Usucapión  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Clustering with HDBSCAN and UMAP Techniques"
-tags: ['HDBSCAN', 'UMAP', 'Clustering', 'Data Visualization', 'Parameter Tuning']
+tags: ["HDBSCAN", "UMAP", "Clustering", "Data Visualization", "Parameter Tuning"]
 created: 2025-05-17
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:30–23:25**  
 **🏷️ Labels**: HDBSCAN, UMAP, Clustering, Data Visualization, Parameter Tuning  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,7 +26,7 @@ The session aimed to enhance clustering techniques using HDBSCAN and UMAP to exp
 
 ### Achievements
 - Successfully adjusted HDBSCAN parameters and explored UMAP projections, improving clustering insights.
-- Resolved visualization conflicts and enhanced data representation through iterative plotting.
+- Resolved [[visualization]] conflicts and enhanced data representation through iterative plotting.
 - Developed a robust framework for exploring clustering configurations and optimizing HDBSCAN parameters.
 
 ### Pending Tasks

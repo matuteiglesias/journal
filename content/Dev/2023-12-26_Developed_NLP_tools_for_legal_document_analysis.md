@@ -1,6 +1,6 @@
 ---
 title: "Developed NLP tools for legal document analysis"
-tags: ['Python', 'NLP', 'Spacy', 'Legal Documents', 'Data Extraction']
+tags: ["Python", "NLP", "Spacy", "Legal Documents", "Data Extraction"]
 created: 2023-12-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:00–21:50**  
 **🏷️ Labels**: Python, NLP, Spacy, Legal Documents, Data Extraction  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The session aimed to enhance natural language processing (NLP) capabilities for 
 - Implemented [[Python]] code to extract resolutions and dispositions from summaries using regex and structured storage.
 - Addressed challenges in word frequency analysis due to missing summary examples and connectivity issues with downloading Spanish stopwords.
 - Developed [[Python]] scripts to eliminate stopwords and convert text to uppercase for better analysis.
-- Utilized spaCy for extracting verbs and objects, integrating these functions into data extraction workflows.
+- Utilized spaCy for extracting verbs and objects, integrating these functions into [[data extraction]] workflows.
 - Explored improvements in spaCy's language model performance for better verb and object identification in bureaucratic texts.
 
 ### Achievements

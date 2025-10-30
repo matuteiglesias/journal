@@ -1,6 +1,6 @@
 ---
 title: "Optimized Plant Care and Watering Techniques"
-tags: ['Cannabis', 'Plant Care', 'Watering', 'Fertilization', 'Gardening']
+tags: ["Cannabis", "Plant Care", "Watering", "Fertilization", "Gardening"]
 created: 2023-10-12
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 08:50–09:30**  
 **🏷️ Labels**: Cannabis, Plant Care, Watering, Fertilization, Gardening  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

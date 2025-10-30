@@ -1,6 +1,6 @@
 ---
 title: "Explored Data Manipulation and Sleep Enhancement Techniques"
-tags: ['Python', 'Dataframe', 'Sleep', 'Binaural Beats', 'Nature Sounds']
+tags: ["Python", "Dataframe", "Sleep", "Binaural Beats", "Nature Sounds"]
 created: 2023-07-23
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:30–08:20**  
 **🏷️ Labels**: Python, Dataframe, Sleep, Binaural Beats, Nature Sounds  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,7 +18,7 @@ The session aimed to explore various data manipulation techniques in [[Python]] 
 
 ### Key Activities
 - **Data Manipulation in [[Python]]:**
-  - Removed rows from a DataFrame containing specific coordinates using a boolean mask in pandas.
+  - Removed rows from a [[DataFrame]] containing specific coordinates using a boolean mask in [[pandas]].
   - Developed a nested loop structure for processing areas in [[Python]].
   - Utilized command-line operations to search substrings in [[Jupyter]] Notebooks on Ubuntu.
 - **Email Correspondence:**
@@ -30,7 +30,7 @@ The session aimed to explore various data manipulation techniques in [[Python]] 
 
 ### Achievements
 - Successfully implemented data manipulation techniques in [[Python]].
-- Drafted a comprehensive email addressing data analysis inquiries.
+- Drafted a comprehensive email addressing [[data analysis]] inquiries.
 - Gained insights into the potential effects of auditory stimuli on sleep, including binaural beats and nature sounds.
 
 ### Pending Tasks

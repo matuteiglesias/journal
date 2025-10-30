@@ -1,6 +1,6 @@
 ---
 title: "Developed Instagram strategy for personal branding"
-tags: ['Instagram', 'Personal Branding', 'Social Media', 'Ai-Generated Content']
+tags: ["Instagram", "Personal Branding", "Social Media", "Ai-Generated Content"]
 created: 2024-12-26
 publish: false
 ---
@@ -10,11 +10,11 @@ publish: false
 **🕒 21:35–21:50**  
 **🏷️ Labels**: Instagram, Personal Branding, Social Media, Ai-Generated Content  
 **📂 Project**: Branding  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The primary goal of this session was to develop a comprehensive Instagram strategy that balances Matías' dual identity as a developer and a government official while enhancing his personal brand.
+The primary goal of this session was to develop a comprehensive Instagram [[strategy]] that balances Matías' dual identity as a developer and a government official while enhancing his personal brand.
 
 ### Key Activities
 - **Instagram [[Strategy]] Planning:** Explored strategies to curate Instagram content that reflects Matías' professional roles and personal interests without conflict.
@@ -28,5 +28,5 @@ The primary goal of this session was to develop a comprehensive Instagram strate
 - Identified key content themes and engagement strategies to enhance Matías' Instagram presence.
 
 ### Pending Tasks
-- Implement the outlined Instagram strategy and content plan.
+- Implement the outlined Instagram [[strategy]] and content plan.
 - Evaluate the effectiveness of [[AI]]-generated images in achieving personal branding goals.

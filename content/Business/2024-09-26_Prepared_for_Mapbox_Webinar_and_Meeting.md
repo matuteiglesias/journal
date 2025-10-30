@@ -1,6 +1,6 @@
 ---
 title: "Prepared for Mapbox Webinar and Meeting"
-tags: ['Mapbox', 'Webinar', 'Preparation', 'Presentation', 'Meeting']
+tags: ["Mapbox", "Webinar", "Preparation", "Presentation", "Meeting"]
 created: 2024-09-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:15–14:30**  
 **🏷️ Labels**: Mapbox, Webinar, Preparation, Presentation, Meeting  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

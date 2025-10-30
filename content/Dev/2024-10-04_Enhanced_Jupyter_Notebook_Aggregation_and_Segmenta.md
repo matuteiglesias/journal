@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Jupyter Notebook Aggregation and Segmentation"
-tags: ['Python', 'Jupyter', 'Notebook', 'Aggregation', 'Debugging']
+tags: ["Python", "Jupyter", "Notebook", "Aggregation", "Debugging"]
 created: 2024-10-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:45–20:55**  
 **🏷️ Labels**: Python, Jupyter, Notebook, Aggregation, Debugging  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,7 +19,7 @@ The primary goal of this session was to enhance the aggregation and segmentation
 ### Key Activities
 - **Updated [[Python]] Script**: Implemented an updated script to aggregate responses from multiple groups into single notebooks, removing previous memory cap logic.
 - **[[Troubleshooting]]**: Addressed duplication issues in notebook processing, ensuring proper segmentation by 'Consigna' markers.
-- **Verbose Logging**: Added print statements to `aggregate_and_save_consignas` for better debugging and tracking.
+- **Verbose Logging**: Added print statements to `aggregate_and_save_consignas` for better [[debugging]] and tracking.
 - **Processing Plan**: Developed a plan to handle `_nout` versions to avoid duplication and fix group name issues.
 - **Refinement of Splitting Logic**: Improved boundary detection and metadata handling for consigna splitting.
 - **Code Comparison**: Conducted a code review for Diffchecker application to address client-side exception errors.
@@ -28,9 +28,9 @@ The primary goal of this session was to enhance the aggregation and segmentation
 
 ### Achievements
 - Successfully updated and refined the notebook aggregation and segmentation logic.
-- Implemented debugging features for better tracking and error resolution.
+- Implemented [[debugging]] features for better tracking and error resolution.
 - Developed a robust plan for handling notebook versions and directory structures.
 
 ### Pending Tasks
 - Further testing of the refined logic to ensure all edge cases are covered.
-- Implementation of additional error handling mechanisms for robustness.
+- Implementation of additional [[error handling]] mechanisms for robustness.

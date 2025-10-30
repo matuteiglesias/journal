@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Academic Curriculum Plans"
-tags: ['Curriculum Development', 'Education', 'Interdisciplinary', 'AI', 'Machine Learning', 'Data Science']
+tags: ["Curriculum Development", "Education", "Interdisciplinary", "AI", "Machine Learning", "Data Science"]
 created: 2024-10-17
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:30–15:45**  
 **🏷️ Labels**: Curriculum Development, Education, Interdisciplinary, AI, Machine Learning, Data Science  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,7 +23,7 @@ The session aimed to develop comprehensive academic curriculum plans to fulfill 
 - Designed a curriculum in [[Optimization]] and Logistics with [[AI]] for industrial and logistical applications.
 - Suggested a 640-hour curriculum for Image Processing and Simulation, incorporating satellite image processing and complex systems modeling.
 - Developed an interdisciplinary [[Data Science]] curriculum with Behavioral Sciences, focusing on [[AI]] applications in understanding human behavior.
-- Proposed a curriculum for [[Data [[Visualization]]]] and Management, totaling 640 hours, aimed at advanced data visualization and large-scale data management.
+- Proposed a curriculum for [[Data [[Visualization]]]] and Management, totaling 640 hours, aimed at advanced [[data [[visualization]]]] and large-scale [[data management]].
 
 ### Achievements
 Successfully outlined multiple curriculum plans, each tailored to specific interdisciplinary domains, ensuring they meet the required educational hours and provide a comprehensive learning path.

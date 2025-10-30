@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Planned Treatment for Syphilis"
-tags: ['Syphilis', 'Treatment', 'VDRL', 'Penicillin', 'Healthcare']
+tags: ["Syphilis", "Treatment", "VDRL", "Penicillin", "Healthcare"]
 created: 2025-06-27
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 19:25–19:50**  
 **🏷️ Labels**: Syphilis, Treatment, VDRL, Penicillin, Healthcare  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

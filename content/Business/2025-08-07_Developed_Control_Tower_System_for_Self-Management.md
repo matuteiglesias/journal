@@ -1,6 +1,6 @@
 ---
 title: "Developed Control Tower System for Self-Management"
-tags: ['Control Tower', 'Self-Management', 'Organization', 'Productivity', 'Planning']
+tags: ["Control Tower", "Self-Management", "Organization", "Productivity", "Planning"]
 created: 2025-08-07
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 20:20–22:20**  
 **🏷️ Labels**: Control Tower, Self-Management, Organization, Productivity, Planning  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
-The session aimed to develop a Control Tower system using spatial metaphors to organize self-management tasks and enhance productivity.
+The session aimed to develop a Control Tower system using spatial metaphors to organize self-management tasks and enhance [[productivity]].
 
 ### Key Activities:
 - Explored the concept of a 'Control Tower' system to manage various life domains using spatial metaphors.
@@ -26,7 +26,7 @@ The session aimed to develop a Control Tower system using spatial metaphors to o
 ### Achievements:
 - Successfully outlined the framework for the Control Tower system.
 - Defined specific zones and their purposes within the system.
-- Developed templates for print use, including an Index Sheet for organization and productivity.
+- Developed templates for print use, including an Index Sheet for organization and [[productivity]].
 
 ### Pending Tasks:
 - Implement the Control Tower system in daily routines.

@@ -1,6 +1,6 @@
 ---
 title: "Developed and Enhanced FAISS Query Toolkit"
-tags: ['FAISS', 'Langchain', 'Querying', 'Text Processing', 'Error Handling']
+tags: ["FAISS", "Langchain", "Querying", "Text Processing", "Error Handling"]
 created: 2025-02-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:20–19:40**  
 **🏷️ Labels**: FAISS, Langchain, Querying, Text Processing, Error Handling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

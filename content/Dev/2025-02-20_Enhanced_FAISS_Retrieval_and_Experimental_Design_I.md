@@ -1,6 +1,6 @@
 ---
 title: "Enhanced FAISS Retrieval and Experimental Design Insights"
-tags: ['FAISS', 'Vectorstore', 'Experimental Design', 'Retrieval', 'Deep Learning']
+tags: ["FAISS", "Vectorstore", "Experimental Design", "Retrieval", "Deep Learning"]
 created: 2025-02-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:50–15:30**  
 **🏷️ Labels**: FAISS, Vectorstore, Experimental Design, Retrieval, Deep Learning  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

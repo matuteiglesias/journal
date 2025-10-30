@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Analysis of AIOS Codebase and Architecture"
-tags: ['AIOS', 'Code Analysis', 'Software Architecture', 'Modularization', 'Scheduling']
+tags: ["AIOS", "Code Analysis", "Software Architecture", "Modularization", "Scheduling"]
 created: 2025-05-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 06:25–06:40**  
 **🏷️ Labels**: AIOS, Code Analysis, Software Architecture, Modularization, Scheduling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

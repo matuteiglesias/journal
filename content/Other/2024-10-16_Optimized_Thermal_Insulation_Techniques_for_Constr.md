@@ -1,6 +1,6 @@
 ---
 title: "Optimized Thermal Insulation Techniques for Construction"
-tags: ['Aislamiento Térmico', 'Construcción', 'Telgopor', 'Lámina Reflectiva', 'Eficiencia Energética']
+tags: ["Aislamiento T\u00e9rmico", "Construcci\u00f3n", "Telgopor", "L\u00e1mina Reflectiva", "Eficiencia Energ\u00e9tica"]
 created: 2024-10-16
 publish: false
 ---
@@ -10,14 +10,14 @@ publish: false
 **🕒 19:25–19:45**  
 **🏷️ Labels**: Aislamiento Térmico, Construcción, Telgopor, Lámina Reflectiva, Eficiencia Energética  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to explore and optimize techniques for thermal insulation using various materials and methods, focusing on construction applications.
 
 ### Key Activities
-- Developed a detailed strategy for installing polystyrene panels using T-profiles and aluminum strips to optimize material usage and avoid unnecessary cuts.
+- Developed a detailed [[strategy]] for installing polystyrene panels using T-profiles and aluminum strips to optimize material usage and avoid unnecessary cuts.
 - Explored techniques and materials for improving thermal insulation with polystyrene panels, including the use of polyurethane foam, reflective layers, and methods for sealing joints and structures.
 - Analyzed the impact of infrared radiation on thermal insulation, comparing the effectiveness of placing reflective sheets directly under metal sheets versus over polystyrene panels.
 - Detailed best practices for thermal insulation in metal roofs, emphasizing the importance of an air chamber and the use of reflective and insulating materials.

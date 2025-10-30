@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Article Detection in Legal Texts"
-tags: ['Python', 'Regex', 'Legal Text', 'Function Adjustment']
+tags: ["Python", "Regex", "Legal Text", "Function Adjustment"]
 created: 2023-12-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 07:05–07:28**  
 **🏷️ Labels**: Python, Regex, Legal Text, Function Adjustment  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

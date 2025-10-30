@@ -1,6 +1,6 @@
 ---
 title: "Reviewed staffing needs for Mathematics Department"
-tags: ['Matemáticas', 'Jubilaciones', 'Cargos Docentes', 'Coordinación Académica']
+tags: ["Matem\u00e1ticas", "Jubilaciones", "Cargos Docentes", "Coordinaci\u00f3n Acad\u00e9mica"]
 created: 2023-11-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:15–17:25**  
 **🏷️ Labels**: Matemáticas, Jubilaciones, Cargos Docentes, Coordinación Académica  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

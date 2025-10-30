@@ -1,6 +1,6 @@
 ---
 title: "Developed Cooperation Framework between Ministry and UBA"
-tags: ['Cooperation', 'Technology', 'Training', 'Interoperability', 'Compliance']
+tags: ["Cooperation", "Technology", "Training", "Interoperability", "Compliance"]
 created: 2024-02-03
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:15–19:01**  
 **🏷️ Labels**: Cooperation, Technology, Training, Interoperability, Compliance  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

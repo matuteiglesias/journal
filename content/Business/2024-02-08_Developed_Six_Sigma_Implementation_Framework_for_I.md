@@ -1,6 +1,6 @@
 ---
 title: "Developed Six Sigma Implementation Framework for IT"
-tags: ['Six Sigma', 'It Management', 'Training', 'Metrics', 'Operational Excellence']
+tags: ["Six Sigma", "It Management", "Training", "Metrics", "Operational Excellence"]
 created: 2024-02-08
 publish: true
 ---
@@ -10,17 +10,17 @@ publish: true
 **🕒 15:55–18:20**  
 **🏷️ Labels**: Six Sigma, It Management, Training, Metrics, Operational Excellence  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
-The session aimed to develop a comprehensive framework for implementing Six Sigma principles within IT management, focusing on improving quality and productivity.
+The session aimed to develop a comprehensive framework for implementing Six Sigma principles within IT management, focusing on improving quality and [[productivity]].
 
 ### Key Activities:
 - Outlined a structured timeline for implementing Six Sigma in IT, detailing phases from alignment to maturity over a two-year period.
 - Developed a guide for integrating Six Sigma principles within the General Directorate of Informatics, emphasizing leadership commitment and continuous training.
 - Proposed a hierarchical index of key metrics to monitor Six Sigma initiatives, covering efficiency, quality, and user satisfaction.
-- Reflected on the impact of IT on organizational efficiency, including cost reduction and process optimization.
+- Reflected on the impact of IT on organizational efficiency, including cost reduction and process [[optimization]].
 - Discussed specific indicators for improving operational efficiency in police administration.
 - Outlined roles and responsibilities for a virtual Six Sigma team to support operational excellence.
 - Designed a six-week Six Sigma Black Belt training curriculum tailored for police IT operations.

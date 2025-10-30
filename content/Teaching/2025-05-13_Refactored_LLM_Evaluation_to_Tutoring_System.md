@@ -1,6 +1,6 @@
 ---
 title: "Refactored LLM Evaluation to Tutoring System"
-tags: ['LLM', 'Jinja2', 'Python', 'Tutoring', 'Pedagogy']
+tags: ["LLM", "Jinja2", "Python", "Tutoring", "Pedagogy"]
 created: 2025-05-13
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:05–00:20**  
 **🏷️ Labels**: LLM, Jinja2, Python, Tutoring, Pedagogy  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -28,4 +28,4 @@ The primary goal of this session was to refactor the existing LLM evaluation sys
 - Developed a refined prompt structure that supports both evaluation and tutoring.
 
 ### Pending Tasks
-- Further testing and integration of the new tutoring-focused prompts with existing LLM tools to ensure compatibility and effectiveness.
+- Further testing and [[integration]] of the new tutoring-focused prompts with existing LLM tools to ensure compatibility and effectiveness.

@@ -1,6 +1,6 @@
 ---
 title: "Automated Rsync Setup for Web Page Updates"
-tags: ['Rsync', 'Automation', 'File Sync', 'Cron', 'Web Development']
+tags: ["Rsync", "Automation", "File Sync", "Cron", "Web Development"]
 created: 2024-08-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:23–17:37**  
 **🏷️ Labels**: Rsync, Automation, File Sync, Cron, Web Development  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** The primary goal of this session was to automate the synchronization of local web pages to a server using `rsync` and `cron`, ensuring efficient updates without unnecessary overwrites.
@@ -22,9 +22,9 @@ publish: true
 - Set up a `cron` job to automate the `rsync` command to run daily at 9 AM.
 
 **Achievements:**
-- Successfully created a workflow for automated file synchronization between local and server environments.
+- Successfully created a [[workflow]] for automated file synchronization between local and server environments.
 - Improved efficiency in web page updates by focusing on transferring only newer file versions.
 
 **Pending Tasks:**
 - Monitor the automated system for any synchronization issues and optimize further if needed.
-- Explore additional logging and monitoring options to ensure robust operation of the automation system.
+- Explore additional logging and monitoring options to ensure robust operation of the [[automation]] system.

@@ -1,6 +1,6 @@
 ---
 title: "Compiled nutritional and medication insights"
-tags: ['Nutrition', 'Medications', 'Health', 'Diet', 'Dermatology']
+tags: ["Nutrition", "Medications", "Health", "Diet", "Dermatology"]
 created: 2024-04-25
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 22:20–23:55**  
 **🏷️ Labels**: Nutrition, Medications, Health, Diet, Dermatology  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal**: To gather and document detailed nutritional information for various foods and provide insights on dermatological medications.

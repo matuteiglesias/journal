@@ -1,6 +1,6 @@
 ---
 title: "Optimized diet plan using Python for macro balance"
-tags: ['Diet', 'Nutrition', 'Python', 'Optimization', 'Health']
+tags: ["Diet", "Nutrition", "Python", "Optimization", "Health"]
 created: 2024-04-27
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 18:10–20:35**  
 **🏷️ Labels**: Diet, Nutrition, Python, Optimization, Health  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,8 +20,8 @@ The session aimed to analyze and optimize a daily diet plan focusing on macronut
 - Conducted a comprehensive analysis of a daily diet plan, focusing on macronutrient and micronutrient intake, hydration, fatty acid balance, and cholesterol levels.
 - Provided dietary recommendations for Omega-3, fiber, and sodium management to improve health outcomes.
 - Developed and executed a [[Python]] script to fine-tune diets by creating variations of food items within specified nutritional targets, particularly focusing on protein intake.
-- Formulated an optimization problem using [[Python]] to adjust food item weights in a diet dataframe to meet target macro profiles, utilizing libraries like numpy and scipy.optimize.
-- Debugged and optimized the routine for dietary weights, ensuring proper setup and no negative weights in the optimization problem.
+- Formulated an [[optimization]] problem using [[Python]] to adjust food item weights in a diet [[dataframe]] to meet target macro profiles, utilizing libraries like numpy and scipy.optimize.
+- Debugged and optimized the routine for dietary weights, ensuring proper setup and no negative weights in the [[optimization]] problem.
 
 ### Achievements
 - Successfully analyzed and provided recommendations for improving dietary balance.

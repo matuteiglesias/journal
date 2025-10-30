@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Analysis on Infrastructure Investment"
-tags: ['Data Processing', 'Regression Analysis', 'Infrastructure Investment', 'Developer Responsibilities', 'Matching Algorithm']
+tags: ["Data Processing", "Regression Analysis", "Infrastructure Investment", "Developer Responsibilities", "Matching Algorithm"]
 created: 2023-06-11
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 20:30–21:30**  
 **🏷️ Labels**: Data Processing, Regression Analysis, Infrastructure Investment, Developer Responsibilities, Matching Algorithm  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to explore various aspects of data processing, integration, and analysis related to infrastructure investment and its impacts.
+The session aimed to explore various aspects of [[data processing]], [[integration]], and analysis related to infrastructure investment and its impacts.
 
 ### Key Activities
 - **Developer Responsibilities**: Clarified the completion of developer roles and the availability of code for user empowerment.
@@ -27,10 +27,10 @@ The session aimed to explore various aspects of data processing, integration, an
 ### Achievements
 - Successfully clarified developer responsibilities and code availability.
 - Implemented effective diagnostics for matching algorithms.
-- Planned and outlined data processing for a key project.
+- Planned and outlined [[data processing]] for a key project.
 - Merged datasets to support comprehensive analysis.
 - Conducted regression analysis to derive insights on infrastructure investment impacts.
 
 ### Pending Tasks
-- Further exploration of data analysis techniques to refine the understanding of infrastructure investment impacts.
+- Further exploration of [[data analysis]] techniques to refine the understanding of infrastructure investment impacts.
 - Additional robustness checks and validation of regression models.

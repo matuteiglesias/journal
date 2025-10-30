@@ -1,6 +1,6 @@
 ---
 title: "Explored AI Capabilities in Vocal Coaching"
-tags: ['AI', 'Vocal Coaching', 'Feedback', 'Japanese', 'Singing']
+tags: ["AI", "Vocal Coaching", "Feedback", "Japanese", "Singing"]
 created: 2025-01-04
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 09:20–09:30**  
 **🏷️ Labels**: AI, Vocal Coaching, Feedback, Japanese, Singing  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

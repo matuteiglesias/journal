@@ -1,6 +1,6 @@
 ---
 title: "Compiled research queries on multidimensional poverty"
-tags: ['Multidimensional Poverty', 'Research Queries', 'Maria Emma Santos', 'Argentina', 'Collaboration']
+tags: ["Multidimensional Poverty", "Research Queries", "Maria Emma Santos", "Argentina", "Collaboration"]
 created: 2025-08-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 06:05–06:30**  
 **🏷️ Labels**: Multidimensional Poverty, Research Queries, Maria Emma Santos, Argentina, Collaboration  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

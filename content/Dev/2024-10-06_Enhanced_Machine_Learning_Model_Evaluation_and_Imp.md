@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Machine Learning Model Evaluation and Improvement"
-tags: ['Machine Learning', 'Classification', 'Model Evaluation', 'Python', 'Feature Engineering']
+tags: ["Machine Learning", "Classification", "Model Evaluation", "Python", "Feature Engineering"]
 created: 2024-10-06
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 00:00–00:20**  
 **🏷️ Labels**: Machine Learning, Classification, Model Evaluation, Python, Feature Engineering  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to resolve issues related to machine learning model evaluation and to propose enhancements for an email classification model.
+The session aimed to resolve issues related to [[machine learning]] model evaluation and to propose enhancements for an email classification model.
 
 ### Key Activities
-- **Fixing CountVectorizer Input Error**: Addressed an error in [[Python]] where multiple DataFrame columns needed to be combined for text vectorization using CountVectorizer.
+- **Fixing CountVectorizer Input Error**: Addressed an error in [[Python]] where multiple [[DataFrame]] columns needed to be combined for text vectorization using CountVectorizer.
 - **Classifier Performance Analysis**: Conducted a detailed analysis of a classifier's performance, identifying strengths and weaknesses, and provided recommendations for accuracy improvement.
 - **Identifying Misclassified Cases**: Implemented a [[Python]] script to list cases with prediction errors by comparing true and predicted labels.
 - **Handling Sparse Matrices**: Developed a method to maintain index integrity during train-test splits to better handle misclassified samples in sparse matrices.

@@ -1,6 +1,6 @@
 ---
 title: "Implemented entity resolution with Dedupe in Jupyter"
-tags: ['Entity Resolution', 'Dedupe', 'Data Cleaning', 'Jupyter', 'Python']
+tags: ["Entity Resolution", "Dedupe", "Data Cleaning", "Jupyter", "Python"]
 created: 2025-03-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:05–22:40**  
 **🏷️ Labels**: Entity Resolution, Dedupe, Data Cleaning, Jupyter, Python  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

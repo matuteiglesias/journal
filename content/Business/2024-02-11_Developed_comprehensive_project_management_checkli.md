@@ -1,6 +1,6 @@
 ---
 title: "Developed comprehensive project management checklists"
-tags: ['Checklist', 'Project Management', 'Trello', 'Construction', 'Assistant']
+tags: ["Checklist", "Project Management", "Trello", "Construction", "Assistant"]
 created: 2024-02-11
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 12:05–13:15**  
 **🏷️ Labels**: Checklist, Project Management, Trello, Construction, Assistant  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to develop and refine checklists for effective project management across various domains, including construction and team management using Trello.
+The session aimed to develop and refine checklists for effective [[project management]] across various domains, including construction and team management using Trello.
 
 **Key Activities:**
 - Created Construction and Submittal Schedule Checklists for Iteration 0, detailing tasks, responsible parties, and update mechanisms.
@@ -26,7 +26,7 @@ The session aimed to develop and refine checklists for effective project managem
 - Provided a checklist structure for an Executive Assistant to manage tasks monthly, weekly, and daily.
 
 **Achievements:**
-- Successfully developed templates and guides for project management checklists and Trello board structures.
+- Successfully developed templates and guides for [[project management]] checklists and Trello board structures.
 - Clarified roles and responsibilities for an Executive Assistant, enhancing organizational efficiency.
 
 **Pending Tasks:**

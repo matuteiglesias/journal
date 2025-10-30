@@ -1,6 +1,6 @@
 ---
 title: "Resolved Python errors and optimized code"
-tags: ['Python', 'Error Handling', 'Code Optimization', 'Import Error', 'File Management']
+tags: ["Python", "Error Handling", "Code Optimization", "Import Error", "File Management"]
 created: 2023-03-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 07:25–07:40**  
 **🏷️ Labels**: Python, Error Handling, Code Optimization, Import Error, File Management  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -24,7 +24,7 @@ The session aimed to resolve several [[Python]] programming errors and optimize 
 - **File Path [[Troubleshooting]]**: Provided guidance on verifying and correcting file paths in [[Python]] scripts, focusing on the `data_process.py` file.
 
 ### Achievements
-- Successfully resolved multiple [[Python]] errors and optimized code for error handling, year calculation, and file management.
+- Successfully resolved multiple [[Python]] errors and optimized code for [[error handling]], year calculation, and [[file management]].
 
 ### Pending Tasks
 - Further testing of the corrected scripts to ensure robustness in different environments.

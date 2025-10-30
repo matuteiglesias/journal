@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Setup and Optimization for Upwork Freelancing"
-tags: ['Upwork', 'Freelancing', 'Profile Setup', 'Ai Automation', 'Pricing Strategy']
+tags: ["Upwork", "Freelancing", "Profile Setup", "Ai Automation", "Pricing Strategy"]
 created: 2025-04-28
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 17:45–18:20**  
 **🏷️ Labels**: Upwork, Freelancing, Profile Setup, Ai Automation, Pricing Strategy  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,8 +21,8 @@ The session aimed to establish a comprehensive understanding of setting up and o
 - **Email Verification Issue**: Addressed ProtonMail restrictions by setting up a new Gmail account to facilitate Upwork account creation.
 - **Skill [[Optimization]]**: Analyzed trending skills for 2025 to enhance project attraction and market positioning on Upwork.
 - **[[SEO]] and Title [[Optimization]]**: Reviewed strategies for crafting effective job titles and bios to improve [[SEO]] and client engagement.
-- **CV and Experience Presentation**: Provided guidance on optimizing CVs and presenting work experience effectively, focusing on data science and [[AI]] automation.
-- **Pricing [[Strategy]]**: Developed a smart pricing strategy for [[AI]] automation services, considering competitive rates and value justification.
+- **CV and Experience Presentation**: Provided guidance on optimizing CVs and presenting work experience effectively, focusing on [[data science]] and [[AI]] [[automation]].
+- **Pricing [[Strategy]]**: Developed a smart pricing [[strategy]] for [[AI]] [[automation]] services, considering competitive rates and value justification.
 
 ### Achievements
 - Established a clear roadmap for setting up and optimizing an Upwork profile and agency.
@@ -30,6 +30,6 @@ The session aimed to establish a comprehensive understanding of setting up and o
 - Identified key skills and strategies for enhancing visibility and client attraction on Upwork.
 
 ### Pending Tasks
-- Implement the developed pricing strategy on the Upwork profile.
+- Implement the developed pricing [[strategy]] on the Upwork profile.
 - Further refine the freelancer bio and job titles based on the latest trends.
 - Continue monitoring Upwork trends to adjust skills and strategies accordingly.

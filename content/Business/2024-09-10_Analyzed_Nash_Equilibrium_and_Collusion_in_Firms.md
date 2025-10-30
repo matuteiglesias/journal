@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Nash Equilibrium and Collusion in Firms"
-tags: ['Nash Equilibrium', 'Collusion', 'Game Theory', 'Python', 'Profit Calculation']
+tags: ["Nash Equilibrium", "Collusion", "Game Theory", "Python", "Profit Calculation"]
 created: 2024-09-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:00–00:15**  
 **🏷️ Labels**: Nash Equilibrium, Collusion, Game Theory, Python, Profit Calculation  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Resolved Cerebrum SDK and Python Packaging Issues"
-tags: ['SDK', 'Python', 'Packaging', 'Cerebrum', 'Installation', 'Debugging']
+tags: ["SDK", "Python", "Packaging", "Cerebrum", "Installation", "Debugging"]
 created: 2025-05-03
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 02:00–02:15**  
 **🏷️ Labels**: SDK, Python, Packaging, Cerebrum, Installation, Debugging  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The primary objective of this session was to resolve installation and pathing is
 - **SDK Installation Issues**: Explored reasons for the `aios-agent-sdk` package failure and discussed three installation options, including local installation and bundling.
 - **[[Python]] Package Errors**: Addressed errors in installing the 'cerebrum' folder by creating a minimal `pyproject.toml` file and ensuring installation from the parent directory.
 - **Multi-Module Packaging**: Provided a solution for packaging multiple top-level modules using setuptools by specifying an explicit packages list.
-- **Local Testing**: Conducted local tests on DemoAgent, including setup, execution, and troubleshooting.
+- **Local Testing**: Conducted local tests on DemoAgent, including setup, execution, and [[troubleshooting]].
 - **Pathing and Import Issues**: Solved pathing problems for [[Python]] scripts and [[Jupyter]] Notebooks by adjusting `sys.path` and correcting import statements.
 
 ### Achievements

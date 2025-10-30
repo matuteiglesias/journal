@@ -1,6 +1,6 @@
 ---
 title: "Reviewed and organized CRM card deck"
-tags: ['CRM', 'Contact Management', 'Organization', 'Review']
+tags: ["CRM", "Contact Management", "Organization", "Review"]
 created: 2025-05-29
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:30–22:25**  
 **🏷️ Labels**: CRM, Contact Management, Organization, Review  
 **📂 Project**: CRM  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

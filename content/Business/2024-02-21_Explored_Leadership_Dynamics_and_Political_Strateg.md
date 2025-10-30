@@ -1,6 +1,6 @@
 ---
 title: "Explored Leadership Dynamics and Political Strategy"
-tags: ['Leadership', 'Political Strategy', 'Perón', 'Public Policy', 'Course Development']
+tags: ["Leadership", "Political Strategy", "Per\u00f3n", "Public Policy", "Course Development"]
 created: 2024-02-21
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:00–06:00**  
 **🏷️ Labels**: Leadership, Political Strategy, Perón, Public Policy, Course Development  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** The session aimed to explore leadership dynamics, particularly focusing on moral leadership and political group challenges, drawing insights from historical figures like Juan Domingo Perón.

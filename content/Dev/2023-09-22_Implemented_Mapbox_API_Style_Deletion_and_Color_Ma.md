@@ -1,6 +1,6 @@
 ---
 title: "Implemented Mapbox API Style Deletion and Color Management"
-tags: ['Mapbox', 'API', 'Python', 'Color Management', 'Data Visualization']
+tags: ["Mapbox", "API", "Python", "Color Management", "Data Visualization"]
 created: 2023-09-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:45–15:35**  
 **🏷️ Labels**: Mapbox, API, Python, Color Management, Data Visualization  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** The session aimed to enhance the Mapbox Styles [[API]] management by deleting outdated styles based on [[CSV]] data and improving color management for data visualizations.
@@ -24,7 +24,7 @@ publish: true
 
 **Achievements:**
 - Successfully implemented a method to manage and delete Mapbox styles efficiently.
-- Enhanced color management capabilities for data visualization, ensuring accurate color representation.
+- Enhanced color management capabilities for [[data [[visualization]]]], ensuring accurate color representation.
 
 **Pending Tasks:**
 - Re-run tests with corrected variable definitions to validate the color extraction and manipulation functions.

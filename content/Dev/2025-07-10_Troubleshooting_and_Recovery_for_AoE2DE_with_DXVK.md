@@ -1,6 +1,6 @@
 ---
 title: "Troubleshooting and Recovery for AoE2DE with DXVK"
-tags: ['DXVK', 'Protontricks', 'Aoe2De', 'Troubleshooting', 'Gaming']
+tags: ["DXVK", "Protontricks", "Aoe2De", "Troubleshooting", "Gaming"]
 created: 2025-07-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:05–03:40**  
 **🏷️ Labels**: DXVK, Protontricks, Aoe2De, Troubleshooting, Gaming  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

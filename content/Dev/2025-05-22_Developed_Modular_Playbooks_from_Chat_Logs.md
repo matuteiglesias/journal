@@ -1,6 +1,6 @@
 ---
 title: "Developed Modular Playbooks from Chat Logs"
-tags: ['Playbooks', 'Knowledge Management', 'Semantic Clustering', 'NLP', 'Automation']
+tags: ["Playbooks", "Knowledge Management", "Semantic Clustering", "NLP", "Automation"]
 created: 2025-05-22
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 00:10–00:40**  
 **🏷️ Labels**: Playbooks, Knowledge Management, Semantic Clustering, NLP, Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to transform chat logs into modular playbooks using semantic clustering and embedding techniques to enhance knowledge management and narrative recovery.
 
 ### Key Activities
-- **Playbook Development**: Established a structured approach to convert chat logs into modular playbooks, focusing on narrative recovery and cognitive labor documentation.
+- **Playbook Development**: Established a structured approach to convert chat logs into modular playbooks, focusing on narrative recovery and cognitive labor [[documentation]].
 - **Log Distribution**: Implemented techniques for distributing logs into playbooks using semantic clustering and embedding.
 - **Knowledge Graph Development**: Planned a system for creating a living knowledge graph to externalize tacit knowledge through playbooks and chat logs.
 - **Research Guidance**: Clarified questions regarding text clustering for research purposes.

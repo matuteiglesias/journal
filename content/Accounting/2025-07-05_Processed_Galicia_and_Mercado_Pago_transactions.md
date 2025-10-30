@@ -1,6 +1,6 @@
 ---
 title: "Processed Galicia and Mercado Pago transactions"
-tags: ['Transactions', 'Data Processing', 'Python', 'ETL', 'Financial Reporting']
+tags: ["Transactions", "Data Processing", "Python", "ETL", "Financial Reporting"]
 created: 2025-07-05
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:05–20:50**  
 **🏷️ Labels**: Transactions, Data Processing, Python, ETL, Financial Reporting  
 **📂 Project**: Accounting  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,7 +18,7 @@ The session aimed to map and process transactions from Galicia and Mercado Pago 
 
 ### Key Activities
 - **Mapping and Processing**: Mapped Galicia transactions into a `raw_transactions` table, detailing transaction types, column mappings, and parser scripts.
-- **Library Imports**: Imported essential [[Python]] libraries for data manipulation and file handling, including pandas, os, json, math, textwrap, and random.
+- **Library Imports**: Imported essential [[Python]] libraries for data manipulation and file handling, including [[pandas]], os, [[json]], math, textwrap, and random.
 - **Data Loading**: Loaded [[CSV]] data into [[Pandas]] DataFrames and performed initial data exploration using `head()` and transaction type counting.
 - **Data Grouping and Analysis**: Grouped data by transaction type and payment method, calculated sums of real amounts, and analyzed positive and negative values in financial data.
 - **ETL Guide**: Developed an ETL guide for Mercado Pago transactions, including mapping to a universal schema and outlining sanity checks.
@@ -30,5 +30,5 @@ The session aimed to map and process transactions from Galicia and Mercado Pago 
 - Established a robust ETL process for financial data ingestion and reporting.
 
 ### Pending Tasks
-- Finalize the implementation of the 7-stage pipeline for full automation of financial data processing.
+- Finalize the implementation of the 7-stage pipeline for full [[automation]] of financial [[data processing]].
 - Conduct further testing on the ETL process to ensure data integrity and accuracy.

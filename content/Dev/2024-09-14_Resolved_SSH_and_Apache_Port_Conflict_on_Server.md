@@ -1,6 +1,6 @@
 ---
 title: "Resolved SSH and Apache Port Conflict on Server"
-tags: ['SSH', 'Apache', 'Configuration', 'Troubleshooting', 'Web Services']
+tags: ["SSH", "Apache", "Configuration", "Troubleshooting", "Web Services"]
 created: 2024-09-14
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:35–18:45**  
 **🏷️ Labels**: SSH, Apache, Configuration, Troubleshooting, Web Services  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,11 +21,11 @@ The primary goal of this session was to resolve a server misconfiguration issue 
 - **Technical [[Documentation]]**: A technical memo was created to outline the steps for resolving the website issue caused by the port misconfiguration.
 - **SSH Connection Setup**: Provided essential connection details for server access via SSH, including IP address, port, and username.
 - **Service Verification**: Restarted the SSH service and verified it was listening on the correct port (65432), including ensuring the port was open.
-- **Remote Access Guide**: Developed a guide for connecting to remote machines using SSH through AWS EC2, Google Cloud, and other providers, including troubleshooting tips.
+- **Remote Access Guide**: Developed a guide for connecting to remote machines using SSH through AWS EC2, Google Cloud, and other providers, including [[troubleshooting]] tips.
 
 ### Achievements
 - Successfully resolved the port conflict between SSH and Apache, restoring web service functionality.
-- Created comprehensive technical documentation for future reference.
+- Created comprehensive technical [[documentation]] for future reference.
 - Ensured SSH service was correctly configured and accessible on the designated port.
 
 ### Pending Tasks

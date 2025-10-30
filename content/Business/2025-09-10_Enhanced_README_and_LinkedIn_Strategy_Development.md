@@ -1,6 +1,6 @@
 ---
 title: "Enhanced README and LinkedIn Strategy Development"
-tags: ['README', 'Linkedin', 'Engagement', 'Strategy', 'Communication']
+tags: ["README", "Linkedin", "Engagement", "Strategy", "Communication"]
 created: 2025-09-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:15–21:50**  
 **🏷️ Labels**: README, Linkedin, Engagement, Strategy, Communication  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,14 +21,14 @@ The session aimed to update the README in the canvas to ensure coherence and pra
 2. **LinkedIn Engagement Analysis**: Analyzed the impact of high-engagement comments on LinkedIn, focusing on metrics, risks, and strategies to maintain professional integrity.
 3. **LinkedIn Algorithm Insights**: Compiled search queries on LinkedIn's algorithm focusing on comments ranking, dwell time, content quality, and optimal posting times.
 4. **LinkedIn Community Guidelines**: Explored LinkedIn's community policies on harassment and notification settings.
-5. **[[Communication]] [[Strategy]] for CyT Ecosystem**: Developed a structured communication strategy for interacting in the Science and Technology ecosystem, considering Argentine subtext.
-6. **Technical Advocacy and [[Communication]] Plan**: Proposed an editorial strategy for technical advocacy, focusing on transparency and reproducibility of public data.
+5. **[[Communication]] [[Strategy]] for CyT Ecosystem**: Developed a structured [[communication]] [[strategy]] for interacting in the Science and Technology ecosystem, considering Argentine subtext.
+6. **Technical Advocacy and [[Communication]] Plan**: Proposed an editorial [[strategy]] for technical advocacy, focusing on transparency and reproducibility of public data.
 
 ### Achievements
 - Successfully updated the README with a comprehensive and practical structure.
 - Developed a nuanced understanding of LinkedIn's algorithm and community policies.
-- Established a communication strategy for LinkedIn engagement in the CyT ecosystem.
+- Established a [[communication]] [[strategy]] for LinkedIn engagement in the CyT ecosystem.
 
 ### Pending Tasks
 - Implement the proposed LinkedIn strategies and monitor their effectiveness.
-- Finalize the editorial strategy for technical advocacy and begin execution.
+- Finalize the editorial [[strategy]] for technical advocacy and begin execution.

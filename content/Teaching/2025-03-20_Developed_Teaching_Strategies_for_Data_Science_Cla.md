@@ -1,6 +1,6 @@
 ---
 title: "Developed Teaching Strategies for Data Science Class"
-tags: ['Data Science', 'Teaching', 'Education', 'Checklists', 'Engagement']
+tags: ["Data Science", "Teaching", "Education", "Checklists", "Engagement"]
 created: 2025-03-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 06:10–06:20**  
 **🏷️ Labels**: Data Science, Teaching, Education, Checklists, Engagement  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

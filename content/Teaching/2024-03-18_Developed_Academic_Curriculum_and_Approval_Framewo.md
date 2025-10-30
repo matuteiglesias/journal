@@ -1,6 +1,6 @@
 ---
 title: "Developed Academic Curriculum and Approval Framework"
-tags: ['Curriculum', 'Algorithms', 'Education', 'Approval Framework', 'Consultation Protocol']
+tags: ["Curriculum", "Algorithms", "Education", "Approval Framework", "Consultation Protocol"]
 created: 2024-03-18
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:55–21:45**  
 **🏷️ Labels**: Curriculum, Algorithms, Education, Approval Framework, Consultation Protocol  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

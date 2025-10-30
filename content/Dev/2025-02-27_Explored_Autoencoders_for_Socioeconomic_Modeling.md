@@ -1,6 +1,6 @@
 ---
 title: "Explored Autoencoders for Socioeconomic Modeling"
-tags: ['Autoencoders', 'Socioeconomic', 'Latent Variables', 'Census Data', 'Benchmarking']
+tags: ["Autoencoders", "Socioeconomic", "Latent Variables", "Census Data", "Benchmarking"]
 created: 2025-02-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:30–02:00**  
 **🏷️ Labels**: Autoencoders, Socioeconomic, Latent Variables, Census Data, Benchmarking  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,7 +21,7 @@ The session aimed to explore the application of autoencoders in socioeconomic mo
 - **Understanding Log-Likelihood**: Delved into the relationship between autoencoders and probabilistic generative models, focusing on log-likelihood decomposition.
 - **Socioeconomic Statistics**: Discussed the use of log-likelihood decomposition in estimating socioeconomic statistics like the Gini index.
 - **Benchmarking Plan**: Outlined a plan for benchmarking the reconstruction of socioeconomic traits using learned representations.
-- **Data [[Integration]]**: Planned the integration of census and survey data for training autoencoders, emphasizing income prediction and structured latent spaces.
+- **Data [[Integration]]**: Planned the [[integration]] of census and survey data for training autoencoders, emphasizing income prediction and structured latent spaces.
 
 ### Achievements
 - Clarified the role of latent structures in socioeconomic analysis using autoencoders.

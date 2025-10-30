@@ -1,6 +1,6 @@
 ---
 title: "Developed Mold Removal and Wall Art Design Concepts"
-tags: ['Mold Removal', 'Wall Art Design', 'Home Improvement', 'Minimalism', 'Album Covers']
+tags: ["Mold Removal", "Wall Art Design", "Home Improvement", "Minimalism", "Album Covers"]
 created: 2024-09-16
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 03:00–04:30**  
 **🏷️ Labels**: Mold Removal, Wall Art Design, Home Improvement, Minimalism, Album Covers  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

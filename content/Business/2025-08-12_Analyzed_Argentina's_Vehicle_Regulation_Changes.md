@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Argentina's Vehicle Regulation Changes"
-tags: ['Argentina', 'Cédula Azul', 'DNU 70/2023', 'Traffic Regulations', 'Legal Strategy']
+tags: ["Argentina", "C\u00e9dula Azul", "DNU 70/2023", "Traffic Regulations", "Legal Strategy"]
 created: 2025-08-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:15–17:30**  
 **🏷️ Labels**: Argentina, Cédula Azul, DNU 70/2023, Traffic Regulations, Legal Strategy  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

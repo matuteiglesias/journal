@@ -1,6 +1,6 @@
 ---
 title: "Prepared Job Applications for Engineering Roles"
-tags: ['Job Applications', 'CV', 'Data Engineering', 'Backend Engineering', 'Visa Sponsorship']
+tags: ["Job Applications", "CV", "Data Engineering", "Backend Engineering", "Visa Sponsorship"]
 created: 2025-08-07
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 03:05–03:25**  
 **🏷️ Labels**: Job Applications, CV, Data Engineering, Backend Engineering, Visa Sponsorship  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Developed diverse recipes and meal planning strategies"
-tags: ['Cooking', 'Recipes', 'Meal Planning', 'Nutrition']
+tags: ["Cooking", "Recipes", "Meal Planning", "Nutrition"]
 created: 2024-11-01
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 20:30–21:30**  
 **🏷️ Labels**: Cooking, Recipes, Meal Planning, Nutrition  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,7 +26,7 @@ The session aimed to create and refine a variety of recipes and meal planning st
 
 ### Achievements
 - Successfully developed and documented multiple recipes, enhancing the culinary repertoire.
-- Established a comprehensive meal planning strategy with a focus on nutrition and cost-effectiveness.
+- Established a comprehensive meal planning [[strategy]] with a focus on nutrition and cost-effectiveness.
 
 ### Pending Tasks
 - Further exploration of ingredient combinations and new recipe development to continue expanding culinary skills.

@@ -1,8 +1,8 @@
 ---
 title: "Communication"
 tags: []
-created: 2025-10-07
+created: 2025-10-30
 publish: true
 ---
 
-_Auto-generated page for keyword `[[Communication]]`._
+_Auto-generated page for keyword [[Communication]]_

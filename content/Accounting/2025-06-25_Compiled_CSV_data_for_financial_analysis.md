@@ -1,6 +1,6 @@
 ---
 title: "Compiled CSV data for financial analysis"
-tags: ['CSV', 'Financial Data', 'Data Compilation', 'Debt Analysis']
+tags: ["CSV", "Financial Data", "Data Compilation", "Debt Analysis"]
 created: 2025-06-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:45–17:55**  
 **🏷️ Labels**: CSV, Financial Data, Data Compilation, Debt Analysis  
 **📂 Project**: Accounting  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -24,7 +24,7 @@ The session aimed to compile and structure [[CSV]] data for financial transactio
 
 **Achievements:**
 - Successfully compiled [[CSV]] data for financial transactions and debt records for 2022, 2023, and 2024.
-- Established a structured format for financial transactions, aiding in future data analysis and reporting.
+- Established a structured format for financial transactions, aiding in future [[data analysis]] and reporting.
 
 **Pending Tasks:**
 - Decide whether to continue compiling data for 2020 or consolidate existing data into a single [[CSV]] block.

@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Reddit Activity and Explored Design Concepts"
-tags: ['Reddit', 'Design', 'Personal Insights', 'Futuristic', 'Branding']
+tags: ["Reddit", "Design", "Personal Insights", "Futuristic", "Branding"]
 created: 2025-01-19
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 17:35–18:10**  
 **🏷️ Labels**: Reddit, Design, Personal Insights, Futuristic, Branding  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

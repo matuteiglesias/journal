@@ -1,6 +1,6 @@
 ---
 title: "Refinement of Nested Logit Model for Bus Choices"
-tags: ['Nested Logit Model', 'Probability', 'Transportation', 'Correlation Parameter', 'Logsum']
+tags: ["Nested Logit Model", "Probability", "Transportation", "Correlation Parameter", "Logsum"]
 created: 2024-09-05
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:25–23:05**  
 **🏷️ Labels**: Nested Logit Model, Probability, Transportation, Correlation Parameter, Logsum  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

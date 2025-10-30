@@ -1,6 +1,6 @@
 ---
 title: "Developed Advanced AI Prompt Strategies"
-tags: ['Ai Prompt Engineering', 'Model Evaluation', 'Education', 'Ai Training']
+tags: ["Ai Prompt Engineering", "Model Evaluation", "Education", "Ai Training"]
 created: 2025-03-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:50–16:45**  
 **🏷️ Labels**: Ai Prompt Engineering, Model Evaluation, Education, Ai Training  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** To explore and develop strategies for creating advanced [[AI]] prompts and evaluate their effectiveness.

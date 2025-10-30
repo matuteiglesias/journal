@@ -1,6 +1,6 @@
 ---
 title: "Implementing and Debugging Python Scheduling Scripts"
-tags: ['Python', 'Scheduling', 'Apscheduler', 'Email Automation', 'Ai Model']
+tags: ["Python", "Scheduling", "Apscheduler", "Email Automation", "Ai Model"]
 created: 2024-12-17
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 21:40–22:20**  
 **🏷️ Labels**: Python, Scheduling, Apscheduler, Email Automation, Ai Model  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to enhance email automation with [[Markdown]] support, explore [[AI]] model upgrade options, and refine [[Python]] scheduling scripts for task automation.
+The session aimed to enhance email [[automation]] with [[Markdown]] support, explore [[AI]] model upgrade options, and refine [[Python]] scheduling scripts for task [[automation]].
 
 ### Key Activities
 - Developed a [[Python]] script to send emails with [[Markdown]] content, converting it to HTML to ensure proper rendering across email clients.
@@ -26,7 +26,7 @@ The session aimed to enhance email automation with [[Markdown]] support, explore
 - Corrected the usage of the `day_of_week` parameter in APScheduler to ensure accurate task scheduling.
 
 ### Achievements
-- Successfully implemented email automation with [[Markdown]] support.
+- Successfully implemented email [[automation]] with [[Markdown]] support.
 - Clarified [[AI]] model upgrade options for future decision-making.
 - Debugged and refined scheduling scripts, ensuring accurate task execution in local timezones.
 

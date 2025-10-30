@@ -1,6 +1,6 @@
 ---
 title: "Curated Art Suggestions for Staircase Enhancement"
-tags: ['Art', 'Interior Design', 'Staircase', 'Home Decor', 'Creativity']
+tags: ["Art", "Interior Design", "Staircase", "Home Decor", "Creativity"]
 created: 2024-03-31
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 05:15–05:45**  
 **🏷️ Labels**: Art, Interior Design, Staircase, Home Decor, Creativity  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

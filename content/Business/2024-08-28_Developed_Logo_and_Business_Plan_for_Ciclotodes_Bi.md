@@ -1,6 +1,6 @@
 ---
 title: "Developed Logo and Business Plan for Ciclotodes Bike Shop"
-tags: ['Ciclotodes', 'Logo Design', 'Business Planning', 'Bicycle Shop', 'Branding']
+tags: ["Ciclotodes", "Logo Design", "Business Planning", "Bicycle Shop", "Branding"]
 created: 2024-08-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 09:30–13:30**  
 **🏷️ Labels**: Ciclotodes, Logo Design, Business Planning, Bicycle Shop, Branding  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

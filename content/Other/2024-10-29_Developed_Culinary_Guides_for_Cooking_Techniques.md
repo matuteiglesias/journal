@@ -1,6 +1,6 @@
 ---
 title: "Developed Culinary Guides for Cooking Techniques"
-tags: ['Cooking', 'Culinary Guides', 'Pressure Cooking', 'Frozen Hamburgers', 'Spiciness Reduction']
+tags: ["Cooking", "Culinary Guides", "Pressure Cooking", "Frozen Hamburgers", "Spiciness Reduction"]
 created: 2024-10-29
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 02:10–02:50**  
 **🏷️ Labels**: Cooking, Culinary Guides, Pressure Cooking, Frozen Hamburgers, Spiciness Reduction  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal:

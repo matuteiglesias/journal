@@ -1,6 +1,6 @@
 ---
 title: "Developed Dynamic Programming Solutions for Rhyme Minimization"
-tags: ['Dynamic Programming', 'Recursion', 'Algorithm', 'Python', 'Memoization']
+tags: ["Dynamic Programming", "Recursion", "Algorithm", "Python", "Memoization"]
 created: 2023-08-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 05:10–06:10**  
 **🏷️ Labels**: Dynamic Programming, Recursion, Algorithm, Python, Memoization  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

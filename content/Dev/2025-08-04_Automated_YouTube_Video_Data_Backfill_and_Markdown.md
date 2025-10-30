@@ -1,6 +1,6 @@
 ---
 title: "Automated YouTube Video Data Backfill and Markdown Generation"
-tags: ['Python', 'Youtube', 'CSV', 'Markdown', 'Automation']
+tags: ["Python", "Youtube", "CSV", "Markdown", "Automation"]
 created: 2025-08-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:10–19:55**  
 **🏷️ Labels**: Python, Youtube, CSV, Markdown, Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -23,13 +23,13 @@ The session aimed to automate the process of backfilling YouTube video data into
 4. Updated command-line interface options for enhanced usability, changing positional arguments to required options.
 5. Curated political video content for the PoliticalSpeeches.app, establishing criteria for selecting genuine political speeches and interviews.
 6. Adapted YAML configurations for JSONL processing in Azure ML, improving functionality by detailing changes in flow and run files.
-7. Developed a [[Python]] script to convert [[Markdown]] stubs into JSONL format for data processing pipelines.
+7. Developed a [[Python]] script to convert [[Markdown]] stubs into JSONL format for [[data processing]] pipelines.
 
 **Achievements:**
-- Successfully automated the backfilling of YouTube video data and the generation of [[Markdown]] files, streamlining data processing workflows.
-- Enhanced usability of scripts through improved command-line interfaces and file management.
-- Established a structured workflow for curating political content, ensuring relevance and quality.
+- Successfully automated the backfilling of YouTube video data and the generation of [[Markdown]] files, streamlining [[data processing]] workflows.
+- Enhanced usability of scripts through improved command-line interfaces and [[file management]].
+- Established a structured [[workflow]] for curating political content, ensuring relevance and quality.
 
 **Pending Tasks:**
-- Validate the JSONL outputs in the PromptFlow pipeline to ensure data integrity.
+- Validate the JSONL outputs in the [[PromptFlow]] pipeline to ensure data integrity.
 - Further refine the criteria for political content selection to improve accuracy and relevance.

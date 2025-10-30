@@ -1,6 +1,6 @@
 ---
 title: "Developed Email Normalization and Reporting Scripts"
-tags: ['Email Normalization', 'Csv Processing', 'Python Scripting', 'Data Automation']
+tags: ["Email Normalization", "Csv Processing", "Python Scripting", "Data Automation"]
 created: 2025-10-01
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 18:20–19:55**  
 **🏷️ Labels**: Email Normalization, Csv Processing, Python Scripting, Data Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to develop robust [[Python]] scripts for normalizing email data from [[CSV]] files and generating actionable communication reports.
+The session aimed to develop robust [[Python]] scripts for normalizing email data from [[CSV]] files and generating actionable [[communication]] reports.
 
 **Key Activities:**
 - Explored alternatives to SHA256 for unique ID generation, including MD5 and blake2b.
@@ -25,8 +25,8 @@ The session aimed to develop robust [[Python]] scripts for normalizing email dat
 - Addressed issues related to NaN handling in [[CSV]] processing, ensuring robust data normalization.
 
 **Achievements:**
-- Successfully created scripts for email normalization and communication analytics, enhancing data processing and reporting capabilities.
+- Successfully created scripts for email normalization and [[communication]] analytics, enhancing [[data processing]] and reporting capabilities.
 
 **Pending Tasks:**
-- Further optimization of communication analytics scripts and integration with additional data sources.
+- Further [[optimization]] of [[communication]] analytics scripts and [[integration]] with additional data sources.
 - Exploration of additional heuristics for more accurate email threading and clustering.

@@ -1,6 +1,6 @@
 ---
 title: "Setup and Integration of GCP Pub/Sub Publishers"
-tags: ['GCP', 'Pub/Sub', 'Automation', 'Data Streams', 'Integration']
+tags: ["GCP", "Pub/Sub", "Automation", "Data Streams", "Integration"]
 created: 2024-09-30
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:50–04:10**  
 **🏷️ Labels**: GCP, Pub/Sub, Automation, Data Streams, Integration  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -29,4 +29,4 @@ The session aimed to organize and implement the setup of multiple publishers for
 
 ### Pending Tasks
 - Further testing and validation of the setup to ensure all data streams are correctly published and received.
-- [[Optimization]] of the integration process for additional data sources.
+- [[Optimization]] of the [[integration]] process for additional data sources.

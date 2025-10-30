@@ -1,6 +1,6 @@
 ---
 title: "Explored Proportional Effect and Log Transformations"
-tags: ['Proportional Effect', 'Logarithmic Transformations', 'Pareto Distribution', 'Economic Systems', 'Statistical Modeling']
+tags: ["Proportional Effect", "Logarithmic Transformations", "Pareto Distribution", "Economic Systems", "Statistical Modeling"]
 created: 2023-10-19
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 19:20–20:45**  
 **🏷️ Labels**: Proportional Effect, Logarithmic Transformations, Pareto Distribution, Economic Systems, Statistical Modeling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to explore the proportional effect mechanism in distributions and the application of logarithmic transformations in data analysis.
+The session aimed to explore the proportional effect mechanism in distributions and the application of logarithmic transformations in [[data analysis]].
 
 ### Key Activities
 - **Proportional Effect Mechanism:** Examined its relationship with lognormal and Pareto distributions, and its role in modeling real-world phenomena.
@@ -25,7 +25,7 @@ The session aimed to explore the proportional effect mechanism in distributions 
 
 ### Achievements
 - Clarified the role of the proportional effect mechanism in statistical modeling.
-- Gained insights into the application of logarithmic transformations in data analysis.
+- Gained insights into the application of logarithmic transformations in [[data analysis]].
 - Identified challenges and potential alternatives for transformations near critical points.
 
 ### Pending Tasks

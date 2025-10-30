@@ -1,6 +1,6 @@
 ---
 title: "Diagnosed and Planned Maintenance for Peugeot 207"
-tags: ['Transmission', 'Peugeot 207', 'Maintenance', 'Diagnosis', 'Automotive']
+tags: ["Transmission", "Peugeot 207", "Maintenance", "Diagnosis", "Automotive"]
 created: 2024-09-20
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 03:00–04:10**  
 **🏷️ Labels**: Transmission, Peugeot 207, Maintenance, Diagnosis, Automotive  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,7 +25,7 @@ The goal of this session was to diagnose and plan maintenance for a Peugeot 207 
 ### Achievements
 - Developed a clear understanding of the transmission problems and potential solutions.
 - Established a detailed maintenance plan for the Peugeot 207.
-- Organized a strategy for efficient maintenance task delegation to specialized workshops.
+- Organized a [[strategy]] for efficient maintenance task delegation to specialized workshops.
 
 ### Pending Tasks
 - Conduct the planned diagnostic and maintenance activities at the workshops.

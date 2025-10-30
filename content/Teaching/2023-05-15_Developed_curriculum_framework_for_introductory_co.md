@@ -1,6 +1,6 @@
 ---
 title: "Developed curriculum framework for introductory computer science course"
-tags: ['Curriculum', 'Computer Science', 'Education', 'Course Design', 'Programming']
+tags: ["Curriculum", "Computer Science", "Education", "Course Design", "Programming"]
 created: 2023-05-15
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 06:05–06:15**  
 **🏷️ Labels**: Curriculum, Computer Science, Education, Course Design, Programming  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

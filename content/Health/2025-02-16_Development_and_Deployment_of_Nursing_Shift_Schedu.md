@@ -1,6 +1,6 @@
 ---
 title: "Development and Deployment of Nursing Shift Schedules"
-tags: ['Nursing Schedules', '12X36 Model', 'Excel Templates', 'Pandas', 'Ilpis']
+tags: ["Nursing Schedules", "12X36 Model", "Excel Templates", "Pandas", "Ilpis"]
 created: 2025-02-16
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 20:00–21:55**  
 **🏷️ Labels**: Nursing Schedules, 12X36 Model, Excel Templates, Pandas, Ilpis  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,7 +26,7 @@ The session aimed to develop and deploy various 12x36 work schedules, particular
 
 ### Achievements
 - Successfully created and deployed multiple work schedule templates for 2025, including those tailored for nursing.
-- Developed a [[Pandas]] DataFrame structure to replicate nursing schedules, facilitating data management.
+- Developed a [[Pandas]] [[DataFrame]] structure to replicate nursing schedules, facilitating [[data management]].
 - Provided insights into the role of nursing in ILPIs, enhancing understanding of healthcare management.
 
 ### Pending Tasks

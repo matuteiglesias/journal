@@ -1,6 +1,6 @@
 ---
 title: "Strategic Planning for Academic Publication in Economics"
-tags: ['Academic Publishing', 'Economics', 'Strategy', 'Manuscript Preparation', 'Time Management']
+tags: ["Academic Publishing", "Economics", "Strategy", "Manuscript Preparation", "Time Management"]
 created: 2024-06-05
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:20–16:10**  
 **🏷️ Labels**: Academic Publishing, Economics, Strategy, Manuscript Preparation, Time Management  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Advanced Graph Theory Demonstrations and Algorithm Analysis"
-tags: ['Graph Theory', 'Algorithms', 'Demonstrations', 'Latex', 'DFS', 'CSS']
+tags: ["Graph Theory", "Algorithms", "Demonstrations", "Latex", "DFS", "CSS"]
 created: 2023-09-26
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 14:40–17:20**  
 **🏷️ Labels**: Graph Theory, Algorithms, Demonstrations, Latex, DFS, CSS  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

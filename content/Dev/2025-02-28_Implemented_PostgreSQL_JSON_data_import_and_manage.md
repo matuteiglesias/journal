@@ -1,6 +1,6 @@
 ---
 title: "Implemented PostgreSQL JSON data import and management"
-tags: ['Postgresql', 'JSON', 'Database Management', 'Python', 'Data Import']
+tags: ["Postgresql", "JSON", "Database Management", "Python", "Data Import"]
 created: 2025-02-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:35–21:15**  
 **🏷️ Labels**: Postgresql, JSON, Database Management, Python, Data Import  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -22,7 +22,7 @@ The primary goal of this session was to establish a robust method for importing 
 - **Database Management**: Assessed the current databases and tables, identified the need for a new 'emails' table, and discussed cleaning up unused tables.
 - **Importing [[JSON]] Data**: Detailed steps to create a table and import [[JSON]] data using PostgreSQL commands and a [[Python]] script for enhanced control.
 - **Testing [[JSON]] Import**: Provided a lightweight [[JSON]] structure for testing the email data import process.
-- **Creating an Email Storage Table**: Developed a flexible SQL table using JSONB to store email data, allowing efficient querying and data extraction.
+- **Creating an Email Storage Table**: Developed a flexible SQL table using JSONB to store email data, allowing efficient querying and [[data extraction]].
 - **Force Dropping Tables**: Outlined procedures to forcefully drop the 'emails' table in both Supabase and PostgreSQL environments, addressing potential constraints and security issues.
 - **Batch Insertion with [[Python]]**: Implemented a [[Python]] script for batch inserting [[JSON]] data into PostgreSQL, using `psycopg2` for synchronous and `asyncpg` for asynchronous operations.
 - **Installing psycopg2 and Alternatives**: Provided guidance on installing the `psycopg2` library and its alternatives, addressing dependency issues.

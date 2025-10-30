@@ -1,6 +1,6 @@
 ---
 title: "Developed Photography Strategy for Honda Wave Promotion"
-tags: ['Photography', 'Honda Wave', 'Motorcycle', 'Product Display', 'Sales']
+tags: ["Photography", "Honda Wave", "Motorcycle", "Product Display", "Sales"]
 created: 2024-12-22
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 18:40–18:50**  
 **🏷️ Labels**: Photography, Honda Wave, Motorcycle, Product Display, Sales  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to develop a comprehensive photography strategy for promoting the Honda Wave motorcycle, focusing on capturing high-quality images for sales and marketing purposes.
+The session aimed to develop a comprehensive photography [[strategy]] for promoting the Honda Wave motorcycle, focusing on capturing high-quality images for sales and marketing purposes.
 
 **Key Activities:**
 - Reflected on the elements of professional product display photography, particularly for the Honda Wave motorcycle, emphasizing details against a neutral background.
@@ -28,5 +28,5 @@ The session aimed to develop a comprehensive photography strategy for promoting 
 - Identified key photo elements and settings to enhance the motorcycle's appeal in promotional materials.
 
 **Pending Tasks:**
-- Further adjustments and refinements of the existing images may be needed to align with the promotional strategy.
+- Further adjustments and refinements of the existing images may be needed to align with the promotional [[strategy]].
 - Additional exploration of lighting and background settings to optimize photo quality.

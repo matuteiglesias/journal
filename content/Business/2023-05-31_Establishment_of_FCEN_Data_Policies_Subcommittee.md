@@ -1,6 +1,6 @@
 ---
 title: "Establishment of FCEN Data Policies Subcommittee"
-tags: ['Data Policies', 'FCEN', 'Subcommittee', 'Data Governance']
+tags: ["Data Policies", "FCEN", "Subcommittee", "Data Governance"]
 created: 2023-05-31
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 12:45–13:10**  
 **🏷️ Labels**: Data Policies, FCEN, Subcommittee, Data Governance  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

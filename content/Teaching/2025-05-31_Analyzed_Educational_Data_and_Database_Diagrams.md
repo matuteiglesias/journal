@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Educational Data and Database Diagrams"
-tags: ['Evaluation', 'Database Design', 'Education', 'Data Analysis', 'DER', 'Functional Dependencies']
+tags: ["Evaluation", "Database Design", "Education", "Data Analysis", "DER", "Functional Dependencies"]
 created: 2025-05-31
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:00–21:30**  
 **🏷️ Labels**: Evaluation, Database Design, Education, Data Analysis, DER, Functional Dependencies  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

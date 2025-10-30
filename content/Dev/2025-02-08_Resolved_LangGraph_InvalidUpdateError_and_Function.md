@@ -1,6 +1,6 @@
 ---
 title: "Resolved LangGraph InvalidUpdateError and Function Fixes"
-tags: ['Langgraph', 'Invalidupdateerror', 'Python', 'Chunk_Ids', 'Function Fixes']
+tags: ["Langgraph", "Invalidupdateerror", "Python", "Chunk_Ids", "Function Fixes"]
 created: 2025-02-08
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:40–01:00**  
 **🏷️ Labels**: Langgraph, Invalidupdateerror, Python, Chunk_Ids, Function Fixes  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -27,4 +27,4 @@ The primary aim of this session was to address and fix various issues related to
 - Improved the architecture of the `save_enrichment()` function, enhancing its efficiency and reliability.
 
 ### Pending Tasks
-- Further testing of the updated functions in different scenarios to ensure comprehensive error handling and performance optimization.
+- Further testing of the updated functions in different scenarios to ensure comprehensive [[error handling]] and performance [[optimization]].

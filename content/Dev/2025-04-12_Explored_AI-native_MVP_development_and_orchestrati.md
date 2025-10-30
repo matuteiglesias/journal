@@ -1,6 +1,6 @@
 ---
 title: "Explored AI-native MVP development and orchestration"
-tags: ['Ai Development', 'MVP', 'Prompt Engineering', 'Langchain', 'DSL']
+tags: ["Ai Development", "MVP", "Prompt Engineering", "Langchain", "DSL"]
 created: 2025-04-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:20–05:10**  
 **🏷️ Labels**: Ai Development, MVP, Prompt Engineering, Langchain, DSL  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The session aimed to explore various aspects of [[AI]]-native MVP development, o
 - Reviewed a lightweight MVP boilerplate for FastAPI and Next.js, including tech stack and usage instructions.
 - Discussed leveraging existing workflows to maintain momentum in MVP development.
 - Reflected on the transformation from MVP makers to [[AI]] system orchestrators, emphasizing skill development.
-- Explored designing Domain-Specific Languages (DSLs) for [[AI]] workflows to enable complex automation.
+- Explored designing Domain-Specific Languages (DSLs) for [[AI]] workflows to enable complex [[automation]].
 - Considered integrating LangChain's [[JSON]] prompt schema for standardization in [[AI]] projects.
 - Envisioned an [[AI]]-native development platform for application creation through [[AI]] prompting.
 - Investigated LangChain's `ChatPromptTemplate` for modular prompt engineering in [[AI]] applications.

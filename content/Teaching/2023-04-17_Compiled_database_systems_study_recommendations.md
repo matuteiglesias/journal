@@ -1,6 +1,6 @@
 ---
 title: "Compiled database systems study recommendations"
-tags: ['Database', 'SQL', 'Curriculum', 'RDBMS', 'Data Modeling']
+tags: ["Database", "SQL", "Curriculum", "RDBMS", "Data Modeling"]
 created: 2023-04-17
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 02:30–02:55**  
 **🏷️ Labels**: Database, SQL, Curriculum, RDBMS, Data Modeling  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

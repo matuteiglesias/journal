@@ -1,6 +1,6 @@
 ---
 title: "Developed Legal Framework for Family Property Management"
-tags: ['Legal', 'Property Management', 'Family Agreement', 'Business Plan', 'Financial Strategy']
+tags: ["Legal", "Property Management", "Family Agreement", "Business Plan", "Financial Strategy"]
 created: 2024-11-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:40–02:30**  
 **🏷️ Labels**: Legal, Property Management, Family Agreement, Business Plan, Financial Strategy  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

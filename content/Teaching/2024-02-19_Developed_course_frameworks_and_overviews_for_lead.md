@@ -1,6 +1,6 @@
 ---
 title: "Developed course frameworks and overviews for leadership"
-tags: ['Course Design', 'Leadership', 'Social Entrepreneurship', 'Negotiation', 'Group Dynamics']
+tags: ["Course Design", "Leadership", "Social Entrepreneurship", "Negotiation", "Group Dynamics"]
 created: 2024-02-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:50–23:15**  
 **🏷️ Labels**: Course Design, Leadership, Social Entrepreneurship, Negotiation, Group Dynamics  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

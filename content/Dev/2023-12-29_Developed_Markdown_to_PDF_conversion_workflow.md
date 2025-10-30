@@ -1,6 +1,6 @@
 ---
 title: "Developed Markdown to PDF conversion workflow"
-tags: ['Markdown', 'Pdf Conversion', 'CSS', 'Pandoc', 'Wkhtmltopdf']
+tags: ["Markdown", "Pdf Conversion", "CSS", "Pandoc", "Wkhtmltopdf"]
 created: 2023-12-29
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 00:00–03:00**  
 **🏷️ Labels**: Markdown, Pdf Conversion, CSS, Pandoc, Wkhtmltopdf  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to develop a comprehensive workflow for converting [[Markdown]] documents to PDF, focusing on styling and error handling.
+The session aimed to develop a comprehensive [[workflow]] for converting [[Markdown]] documents to PDF, focusing on styling and [[error handling]].
 
 ### Key Activities
 - **[[Markdown]] Book Design**: Created templates for book cover and copyright pages in [[Markdown]], ensuring proper structure and legal compliance.
@@ -25,10 +25,10 @@ The session aimed to develop a comprehensive workflow for converting [[Markdown]
 - **Styling Enhancements**: Provided CSS examples for styling [[Markdown]] documents and handling vertical spacing in HTML.
 
 ### Achievements
-- Established a robust workflow for converting [[Markdown]] to PDF using Pandoc and CSS.
+- Established a robust [[workflow]] for converting [[Markdown]] to PDF using Pandoc and CSS.
 - Successfully addressed common errors in PDF conversion processes.
 - Developed templates for book design in [[Markdown]].
 
 ### Pending Tasks
-- Further testing of the conversion workflow with different [[Markdown]] documents to ensure robustness.
+- Further testing of the conversion [[workflow]] with different [[Markdown]] documents to ensure robustness.
 - Exploration of additional styling options for enhanced PDF aesthetics.

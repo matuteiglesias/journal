@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Diagnosed Compression in .rxdb Files"
-tags: ['Compression', 'Data Extraction', 'Rxdb', 'LZ4', 'Diagnosis']
+tags: ["Compression", "Data Extraction", "Rxdb", "LZ4", "Diagnosis"]
 created: 2025-05-15
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:05–00:30**  
 **🏷️ Labels**: Compression, Data Extraction, Rxdb, LZ4, Diagnosis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** The session aimed to explore and diagnose compression issues in `.rxdb` files, focusing on extracting embedded dictionaries and analyzing file structures.
@@ -25,7 +25,7 @@ publish: true
 **Achievements:**
 - Confirmed the presence of compression or encryption in `.rxdb` files.
 - Suggested strategies for decompression and further analysis, including the use of specific tools and scripts.
-- Identified potential causes for LZ4 decoding errors and provided troubleshooting steps.
+- Identified potential causes for LZ4 decoding errors and provided [[troubleshooting]] steps.
 
 **Pending Tasks:**
 - Further investigation into the decompression of specific blocks using alternative methods.

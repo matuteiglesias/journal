@@ -1,6 +1,6 @@
 ---
 title: "Developed narratives on injustice and resilience"
-tags: ['Narrative', 'Storytelling', 'Injustice', 'Resilience', 'Personal Growth']
+tags: ["Narrative", "Storytelling", "Injustice", "Resilience", "Personal Growth"]
 created: 2025-01-08
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 05:00–05:15**  
 **🏷️ Labels**: Narrative, Storytelling, Injustice, Resilience, Personal Growth  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

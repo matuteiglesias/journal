@@ -1,6 +1,6 @@
 ---
 title: "Installation and Thermal Insulation with Telgopor"
-tags: ['Techo Verde', 'Aislamiento Térmico', 'Telgopor', 'Construcción', 'DIY']
+tags: ["Techo Verde", "Aislamiento T\u00e9rmico", "Telgopor", "Construcci\u00f3n", "DIY"]
 created: 2024-10-16
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 18:40–19:10**  
 **🏷️ Labels**: Techo Verde, Aislamiento Térmico, Telgopor, Construcción, DIY  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

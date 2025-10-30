@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Corrected Aviation Resistance Formulas"
-tags: ['Aviation', 'Formulas', 'Resistance', 'Dynamic Programming', 'Memoization']
+tags: ["Aviation", "Formulas", "Resistance", "Dynamic Programming", "Memoization"]
 created: 2023-10-06
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 15:53–16:38**  
 **🏷️ Labels**: Aviation, Formulas, Resistance, Dynamic Programming, Memoization  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

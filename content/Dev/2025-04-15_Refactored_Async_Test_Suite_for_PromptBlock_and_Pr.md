@@ -1,6 +1,6 @@
 ---
 title: "Refactored Async Test Suite for PromptBlock and PromptFlowRunner"
-tags: ['Python', 'Testing', 'Pytest', 'Asyncio', 'Promptflowrunner']
+tags: ["Python", "Testing", "Pytest", "Asyncio", "Promptflowrunner"]
 created: 2025-04-15
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:30–17:10**  
 **🏷️ Labels**: Python, Testing, Pytest, Asyncio, Promptflowrunner  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,7 +19,7 @@ The primary goal of this session was to refactor and ensure the robustness of th
 ### Key Activities
 - Developed [[Python]] test code to validate the functionality of `PromptBlock` and `PromptFlowRunner` using `unittest` and `pytest` frameworks.
 - Addressed `PYTHONPATH` issues that were causing `ModuleNotFoundError` by setting environment variables and ensuring proper module paths.
-- Diagnosed and fixed import errors related to `PromptFlowRunner`, including correcting import statements and refactoring test files.
+- Diagnosed and fixed import errors related to `PromptFlowRunner`, including correcting import statements and [[refactoring]] test files.
 - Refactored the test suite to handle asynchronous functions properly using `asyncio` and `pytest`.
 - Installed necessary plugins and configured `pytest` for handling async test cases.
 
@@ -28,5 +28,5 @@ The primary goal of this session was to refactor and ensure the robustness of th
 - Resolved all import and module path issues, enhancing the reliability of the test execution environment.
 
 ### Pending Tasks
-- Further refactoring may be needed as new features are added to `PromptBlock` and `PromptFlowRunner`.
-- Continuous integration setup to automate testing with the updated suite.
+- Further [[refactoring]] may be needed as new features are added to `PromptBlock` and `PromptFlowRunner`.
+- Continuous [[integration]] setup to automate testing with the updated suite.

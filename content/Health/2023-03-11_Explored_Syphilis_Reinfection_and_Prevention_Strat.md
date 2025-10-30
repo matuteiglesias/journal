@@ -1,6 +1,6 @@
 ---
 title: "Explored Syphilis Reinfection and Prevention Strategies"
-tags: ['Syphilis', 'Sti Prevention', 'Safe Sex', 'Health Education', 'Public Health']
+tags: ["Syphilis", "Sti Prevention", "Safe Sex", "Health Education", "Public Health"]
 created: 2023-03-11
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 02:20–02:40**  
 **🏷️ Labels**: Syphilis, Sti Prevention, Safe Sex, Health Education, Public Health  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

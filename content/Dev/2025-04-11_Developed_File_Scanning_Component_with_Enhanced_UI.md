@@ -1,6 +1,6 @@
 ---
 title: "Developed File Scanning Component with Enhanced UI"
-tags: ['React', 'File Scanning', 'Typescript', 'UI/UX', 'Component Development']
+tags: ["React", "File Scanning", "Typescript", "UI/UX", "Component Development"]
 created: 2025-04-11
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 21:40–22:10**  
 **🏷️ Labels**: React, File Scanning, Typescript, UI/UX, Component Development  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to develop and enhance a file scanning component in a React application, focusing on improving user experience and handling technical issues.
 
 ### Key Activities
-- Developed a complete working component for scanning folders and dynamically displaying file lists with error handling and state management.
+- Developed a complete working component for scanning folders and dynamically displaying file lists with [[error handling]] and state management.
 - Fixed TypeScript type errors related to the `ScanFolderBox` component and `useState` hook.
 - Planned UX improvements for the Scanned Files view by transitioning from floating file cards to a structured table format.
 - Integrated a `FileListTable` component in React to transform raw file paths into a structured display format.

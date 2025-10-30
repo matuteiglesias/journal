@@ -1,6 +1,6 @@
 ---
 title: "Audit and Revamp of Data Projects"
-tags: ['Project Audit', 'Data Processing', 'Population Estimation', 'Census', 'Strategic Planning']
+tags: ["Project Audit", "Data Processing", "Population Estimation", "Census", "Strategic Planning"]
 created: 2025-07-15
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 02:15–02:45**  
 **🏷️ Labels**: Project Audit, Data Processing, Population Estimation, Census, Strategic Planning  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -27,11 +27,11 @@ The session aimed to audit and revamp existing data projects, focusing on strate
 
 ### Achievements
 - Completed a strategic audit framework for existing projects.
-- Developed a detailed analysis and refactor strategy for samplerCensoARG.
+- Developed a detailed analysis and refactor [[strategy]] for samplerCensoARG.
 - Established a conceptual framework for a new population projection repository.
 - Reviewed and documented various population estimation techniques.
 
 ### Pending Tasks
-- Further documentation and audits for samplerCensoARG.
+- Further [[documentation]] and audits for samplerCensoARG.
 - Implementation of the proposed population projection repository.
 - Refinement of population estimation models and scaling methods.

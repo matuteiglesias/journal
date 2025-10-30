@@ -1,6 +1,6 @@
 ---
 title: "Structured Evening Routine and Exercise Planning"
-tags: ['Evening Routine', 'Exercise Planning', 'Fitness', 'Task Management', 'Health']
+tags: ["Evening Routine", "Exercise Planning", "Fitness", "Task Management", "Health"]
 created: 2025-07-04
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 22:35–22:50**  
 **🏷️ Labels**: Evening Routine, Exercise Planning, Fitness, Task Management, Health  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,7 +25,7 @@ The session aimed to establish a structured evening routine and explore various 
 
 ### Achievements
 - Created a comprehensive evening routine checklist.
-- Developed a balanced 50-minute exercise strategy.
+- Developed a balanced 50-minute exercise [[strategy]].
 - Provided detailed comparisons and guidelines for various exercises, enhancing understanding of their benefits and execution.
 
 ### Pending Tasks

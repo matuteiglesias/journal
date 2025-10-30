@@ -1,6 +1,6 @@
 ---
 title: "Developed interior design and art concepts for corridors"
-tags: ['Interior Design', 'Art', 'Corridor', 'Modern', 'Botanical', 'Geometric']
+tags: ["Interior Design", "Art", "Corridor", "Modern", "Botanical", "Geometric"]
 created: 2024-03-31
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 03:35–04:00**  
 **🏷️ Labels**: Interior Design, Art, Corridor, Modern, Botanical, Geometric  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

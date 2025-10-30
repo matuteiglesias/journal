@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Cryptocurrency Platforms and Transfer Procedures"
-tags: ['Cryptocurrency', 'Argentina', 'Exchange Rate', 'Fund Transfer', 'Prepaid Cards']
+tags: ["Cryptocurrency", "Argentina", "Exchange Rate", "Fund Transfer", "Prepaid Cards"]
 created: 2023-10-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:10–22:25**  
 **🏷️ Labels**: Cryptocurrency, Argentina, Exchange Rate, Fund Transfer, Prepaid Cards  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,7 +18,7 @@ The session aimed to analyze various cryptocurrency platforms in Argentina, focu
 
 ### Key Activities
 - **Analysis of Cryptocurrency Platforms**: Evaluated different platforms such as AirTM, Paxful, Binance P2P, and others, focusing on their operation with official and parallel exchange rates.
-- **Transfer Procedure**: Detailed a workflow for transferring funds from Brazil to Argentina using cryptocurrencies, covering purchase, transfer, and sale steps.
+- **Transfer Procedure**: Detailed a [[workflow]] for transferring funds from Brazil to Argentina using cryptocurrencies, covering purchase, transfer, and sale steps.
 - **Withdrawal Options**: Explored methods to withdraw funds in Argentina without a bank account, including the use of Bitcoin ATMs, P2P platforms, and prepaid cards.
 - **Prepaid Card Overview**: Provided insights into cryptocurrency prepaid cards, their benefits, and examples, particularly for users in Argentina.
 - **Cryptocurrency Card Analysis**: Compared various cryptocurrency cards available in Argentina, highlighting their features and exchange rates.

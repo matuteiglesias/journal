@@ -1,6 +1,6 @@
 ---
 title: "Deseasonalized and Interpolated Quarterly Time Series Data"
-tags: ['Time Series', 'Deseasonalization', 'Interpolation', 'Python', 'Data Analysis']
+tags: ["Time Series", "Deseasonalization", "Interpolation", "Python", "Data Analysis"]
 created: 2024-09-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:30–20:55**  
 **🏷️ Labels**: Time Series, Deseasonalization, Interpolation, Python, Data Analysis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

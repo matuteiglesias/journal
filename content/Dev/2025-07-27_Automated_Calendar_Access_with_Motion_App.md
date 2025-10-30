@@ -1,6 +1,6 @@
 ---
 title: "Automated Calendar Access with Motion App"
-tags: ['Automation', 'Calendar', 'Keyboard Shortcuts', 'Authentication', 'Motion']
+tags: ["Automation", "Calendar", "Keyboard Shortcuts", "Authentication", "Motion"]
 created: 2025-07-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:30–22:40**  
 **🏷️ Labels**: Automation, Calendar, Keyboard Shortcuts, Authentication, Motion  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,13 +18,13 @@ The session aimed to automate the process of accessing a web calendar applicatio
 
 ### Key Activities
 - Developed a sequence of keyboard shortcuts to quickly access a web calendar application via URL.
-- Implemented a workflow to manage actions, including a wait state for further instructions.
+- Implemented a [[workflow]] to manage actions, including a wait state for further instructions.
 - Recorded user interactions, such as mouse clicks, to track interface engagement.
 - Executed login authentication for the Motion app using Take Over mode.
 - Investigated a Google sign-in error encountered during calendar access with the Motion app, exploring alternative login methods.
 
 ### Achievements
-- Successfully automated the calendar access workflow with keyboard shortcuts.
+- Successfully automated the calendar access [[workflow]] with keyboard shortcuts.
 - Established a method for tracking user interactions within the interface.
 
 ### Pending Tasks

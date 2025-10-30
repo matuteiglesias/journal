@@ -1,6 +1,6 @@
 ---
 title: "Explored GDEBA System for Document Management"
-tags: ['GDEBA', 'Document Management', 'Resolutions', 'Access', 'GEDO']
+tags: ["GDEBA", "Document Management", "Resolutions", "Access", "GEDO"]
 created: 2023-12-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:20–15:50**  
 **🏷️ Labels**: GDEBA, Document Management, Resolutions, Access, GEDO  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

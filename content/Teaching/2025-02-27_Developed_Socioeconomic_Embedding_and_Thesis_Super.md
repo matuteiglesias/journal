@@ -1,6 +1,6 @@
 ---
 title: "Developed Socioeconomic Embedding and Thesis Supervision Plan"
-tags: ['Socioeconomic Embeddings', 'Thesis Supervision', 'Autoencoder', 'Feature Selection', 'Machine Learning']
+tags: ["Socioeconomic Embeddings", "Thesis Supervision", "Autoencoder", "Feature Selection", "Machine Learning"]
 created: 2025-02-27
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 03:00–05:15**  
 **🏷️ Labels**: Socioeconomic Embeddings, Thesis Supervision, Autoencoder, Feature Selection, Machine Learning  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The main objective was to develop a comprehensive plan for training machine learning models using socioeconomic data embeddings, and to outline a structured supervision plan for thesis development.
+The main objective was to develop a comprehensive plan for training [[machine learning]] models using socioeconomic data embeddings, and to outline a structured supervision plan for thesis development.
 
 **Key Activities:**
 - Explored training methodologies for Random Forest models on autoencoder-generated embeddings, focusing on high-dimensional socioeconomic data.

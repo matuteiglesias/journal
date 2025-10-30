@@ -1,6 +1,6 @@
 ---
 title: "Evaluated and Enhanced Educational Materials for Data Science"
-tags: ['Evaluación Pedagógica', 'Machine Learning', 'Educación', 'Ciencia De Datos', 'Material Didáctico']
+tags: ["Evaluaci\u00f3n Pedag\u00f3gica", "Machine Learning", "Educaci\u00f3n", "Ciencia De Datos", "Material Did\u00e1ctico"]
 created: 2025-06-23
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 05:50–06:10**  
 **🏷️ Labels**: Evaluación Pedagógica, Machine Learning, Educación, Ciencia De Datos, Material Didáctico  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

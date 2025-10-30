@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Enhanced RAG Pipeline for Contact Management"
-tags: ['RAG', 'Retrieval', 'Contact Management', 'Automation', 'Prompt Engineering']
+tags: ["RAG", "Retrieval", "Contact Management", "Automation", "Prompt Engineering"]
 created: 2025-05-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:30–04:00**  
 **🏷️ Labels**: RAG, Retrieval, Contact Management, Automation, Prompt Engineering  
 **📂 Project**: CRM  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,8 +25,8 @@ The session aimed to analyze and enhance the Retrieval-Augmented Generation (RAG
 
 ### Achievements
 - Identified key problems in the RAG pipeline and proposed actionable strategies to address them.
-- Developed templates and strategies for query optimization and retrieval enhancement.
+- Developed templates and strategies for query [[optimization]] and retrieval enhancement.
 
 ### Pending Tasks
 - Implement the proposed strategies and templates to test their effectiveness in real-world scenarios.
-- Further explore the integration of fuzzy matching techniques to enhance retrieval quality.
+- Further explore the [[integration]] of fuzzy matching techniques to enhance retrieval quality.

@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Vacio and White Beans Recipes"
-tags: ['Vacio', 'Recipes', 'Cooking', 'Argentine Cuisine', 'Pressure Cooking']
+tags: ["Vacio", "Recipes", "Cooking", "Argentine Cuisine", "Pressure Cooking"]
 created: 2024-10-29
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 00:05–01:10**  
 **🏷️ Labels**: Vacio, Recipes, Cooking, Argentine Cuisine, Pressure Cooking  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

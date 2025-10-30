@@ -1,6 +1,6 @@
 ---
 title: "Prepared for CCM Quantitative Analyst Interview"
-tags: ['CCM', 'Quantitative Analyst', 'Interview Preparation', 'Game Theory', 'Bayesian Reasoning']
+tags: ["CCM", "Quantitative Analyst", "Interview Preparation", "Game Theory", "Bayesian Reasoning"]
 created: 2024-12-04
 publish: false
 ---
@@ -10,14 +10,14 @@ publish: false
 **🕒 03:20–04:30**  
 **🏷️ Labels**: CCM, Quantitative Analyst, Interview Preparation, Game Theory, Bayesian Reasoning  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to prepare for a CCM Quantitative Analyst interview by addressing knowledge gaps and outlining a comprehensive preparation plan.
 
 ### Key Activities
-- Developed a structured plan to secure a Quant Analyst position, focusing on key areas such as data analysis, game theory, Bayesian reasoning, and presentation skills.
+- Developed a structured plan to secure a Quant Analyst position, focusing on key areas such as [[data analysis]], game theory, Bayesian reasoning, and presentation skills.
 - Curated study resources for Game Theory and Bayesian Reasoning, including books and chapters for effective learning.
 - Explored financial analysis topics, such as correlation in finance and volatility metrics, to provide insights for investment strategies and risk management.
 - Created core visualizations for hedge fund investment analysis, focusing on rolling correlations and their implications.

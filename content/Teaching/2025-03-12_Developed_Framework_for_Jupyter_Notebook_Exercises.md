@@ -1,6 +1,6 @@
 ---
 title: "Developed Framework for Jupyter Notebook Exercises"
-tags: ['Jupyter Notebooks', 'Education', 'Python', 'Automation', 'Exercise Design']
+tags: ["Jupyter Notebooks", "Education", "Python", "Automation", "Exercise Design"]
 created: 2025-03-12
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 20:55–21:25**  
 **🏷️ Labels**: Jupyter Notebooks, Education, Python, Automation, Exercise Design  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
-The session aimed to develop a structured framework for creating educational [[Jupyter]] Notebooks, focusing on problem definition, code integration, and pedagogical clarity.
+The session aimed to develop a structured framework for creating educational [[Jupyter]] Notebooks, focusing on problem definition, code [[integration]], and pedagogical clarity.
 
 ### Key Activities:
 - Successfully reset a [[Git]] repository to a stable state, ensuring a clean working environment for development.

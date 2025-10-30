@@ -1,6 +1,6 @@
 ---
 title: "Developed Action Plans for Buenos Aires Public Administration"
-tags: ['Public Administration', 'Cybersecurity', 'Interoperability', 'SINDMA', 'Buenos Aires']
+tags: ["Public Administration", "Cybersecurity", "Interoperability", "SINDMA", "Buenos Aires"]
 created: 2024-02-03
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 23:05–00:00**  
 **🏷️ Labels**: Public Administration, Cybersecurity, Interoperability, SINDMA, Buenos Aires  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Exploration of Fashion Concepts and Political Strategies"
-tags: ['Fashion', 'Political Strategy', 'Meal Planning', 'Eye Aesthetics']
+tags: ["Fashion", "Political Strategy", "Meal Planning", "Eye Aesthetics"]
 created: 2024-05-25
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 00:00–01:30**  
 **🏷️ Labels**: Fashion, Political Strategy, Meal Planning, Eye Aesthetics  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

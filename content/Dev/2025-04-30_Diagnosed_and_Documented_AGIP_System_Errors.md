@@ -1,6 +1,6 @@
 ---
 title: "Diagnosed and Documented AGIP System Errors"
-tags: ['AGIP', 'Error Analysis', 'Technical Documentation', 'Legal Compliance', 'Support']
+tags: ["AGIP", "Error Analysis", "Technical Documentation", "Legal Compliance", "Support"]
 created: 2025-04-30
 publish: true
 ---
@@ -10,17 +10,17 @@ publish: true
 **🕒 19:40–20:10**  
 **🏷️ Labels**: AGIP, Error Analysis, Technical Documentation, Legal Compliance, Support  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to identify, diagnose, and document critical errors in the AGIP payment system and provide technical and legal insights for resolution and accountability.
 
 ### Key Activities
-- Conducted a thorough error analysis of the AGIP website, identifying missing files and backend errors indicative of a faulty deployment.
+- Conducted a thorough error analysis of the AGIP website, identifying missing files and backend errors indicative of a faulty [[deployment]].
 - Developed a checklist for diagnosing connection issues with AGIP, including testing across different browsers, devices, and networks.
 - Analyzed the legal and technical implications of AGIP system failures on taxpayers, providing a framework for claims and state accountability.
-- Created a detailed guide for generating technical error reports, including documentation steps, screenshot capture, and formal complaint submission.
+- Created a detailed guide for generating technical error reports, including [[documentation]] steps, screenshot capture, and formal complaint submission.
 - Compiled a technical error report template for AGIP, detailing system failures and structuring formal complaints.
 
 ### Achievements

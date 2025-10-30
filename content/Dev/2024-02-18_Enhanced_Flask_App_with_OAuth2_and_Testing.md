@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Flask App with OAuth2 and Testing"
-tags: ['Flask', 'Oauth2', 'Testing', 'Python', 'Web Development']
+tags: ["Flask", "Oauth2", "Testing", "Python", "Web Development"]
 created: 2024-02-18
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:20–23:35**  
 **🏷️ Labels**: Flask, Oauth2, Testing, Python, Web Development  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -19,7 +19,7 @@ The session aimed to enhance a [[Flask]] application by refining its structure, 
 ### Key Activities:
 - **[[Flask]] Application Structure**: Addressed common errors in [[Flask]] applications using the factory pattern and provided guidelines for organizing the application in `main.py`.
 - **OAuth2 [[Integration]]**: Explained the callback function's role in Google authentication and detailed the `/login/callback` route's functionality, including token exchange and session management.
-- **Testing and [[Debugging]]**: Provided instructions for importing [[Flask]] apps for testing, troubleshooting `ModuleNotFoundError`, and improving test coverage for unit and integration tests. Detailed debugging of test failures and implementation of the `MockResponse` class for simulating HTTP responses.
+- **Testing and [[Debugging]]**: Provided instructions for importing [[Flask]] apps for testing, [[troubleshooting]] `ModuleNotFoundError`, and improving test coverage for unit and [[integration]] tests. Detailed [[debugging]] of test failures and implementation of the `MockResponse` class for simulating HTTP responses.
 
 ### Achievements:
 - Successfully refined the [[Flask]] application setup with OAuth2, consolidating configurations and enhancing security and maintainability.
@@ -27,4 +27,4 @@ The session aimed to enhance a [[Flask]] application by refining its structure, 
 
 ### Pending Tasks:
 - Further enhance test coverage for specific modules like `evaluator.py` and `main.py` to ensure comprehensive testing.
-- Continue refining the OAuth2 integration to handle edge cases and improve user experience.
+- Continue refining the OAuth2 [[integration]] to handle edge cases and improve user experience.

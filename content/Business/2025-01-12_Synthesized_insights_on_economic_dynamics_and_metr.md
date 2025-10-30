@@ -1,6 +1,6 @@
 ---
 title: "Synthesized insights on economic dynamics and metrics"
-tags: ['Economic Dynamics', 'Micro-Macro', 'Economic Metrics', 'Trade Dynamics', 'Interdisciplinary']
+tags: ["Economic Dynamics", "Micro-Macro", "Economic Metrics", "Trade Dynamics", "Interdisciplinary"]
 created: 2025-01-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:45–22:30**  
 **🏷️ Labels**: Economic Dynamics, Micro-Macro, Economic Metrics, Trade Dynamics, Interdisciplinary  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

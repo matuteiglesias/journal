@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Encryption and Key Management Study Plan"
-tags: ['Encryption', 'GCP', 'Key Management', 'Data Security', 'Study Plan']
+tags: ["Encryption", "GCP", "Key Management", "Data Security", "Study Plan"]
 created: 2024-01-31
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 12:55–14:10**  
 **🏷️ Labels**: Encryption, GCP, Key Management, Data Security, Study Plan  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

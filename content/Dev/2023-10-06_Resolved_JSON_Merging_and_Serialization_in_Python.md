@@ -1,6 +1,6 @@
 ---
 title: "Resolved JSON Merging and Serialization in Python"
-tags: ['Python', 'JSON', 'Merging', 'Serialization', 'Customencoder']
+tags: ["Python", "JSON", "Merging", "Serialization", "Customencoder"]
 created: 2023-10-06
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:40–23:40**  
 **🏷️ Labels**: Python, JSON, Merging, Serialization, Customencoder  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal**: The primary goal was to address and resolve issues related to merging [[JSON]] structures in [[Python]] and to implement custom serialization and deserialization techniques.

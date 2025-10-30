@@ -1,6 +1,6 @@
 ---
 title: "Translation and Code Analysis Session Summary"
-tags: ['Translation', 'Hokkien Min', 'Legal Documents', 'C++', 'CSS', 'Algorithms']
+tags: ["Translation", "Hokkien Min", "Legal Documents", "C++", "CSS", "Algorithms"]
 created: 2023-12-06
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:00–15:20**  
 **🏷️ Labels**: Translation, Hokkien Min, Legal Documents, C++, CSS, Algorithms  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,9 +19,9 @@ The session aimed to address translation challenges in legal documents for the H
 ### Key Activities
 - Discussed the limitations of translating legal documents into Hokkien Min due to its lack of standardized written form, recommending professional translation services.
 - Created simplified versions of 'comodato' and 'mutuo' contracts in Hokkien Min, with a focus on maintaining core messages and legal clarity.
-- Analyzed student assignments related to algorithms, graph theory, and optimization, providing insights into real-time constraint handling.
+- Analyzed student assignments related to algorithms, graph theory, and [[optimization]], providing insights into real-time constraint handling.
 - Reviewed and provided feedback on coding solutions for exercises like 'Malvinas' and 'Ambulancia', focusing on code structure, efficiency, and best practices.
-- Offered a CSS styling guide for [[Markdown]] to HTML conversion, emulating GitHub's design.
+- Offered a CSS styling guide for [[Markdown]] to HTML conversion, emulating [[GitHub]]'s design.
 
 ### Achievements
 - Developed simplified contract templates for Hokkien Min, highlighting the need for professional translation.

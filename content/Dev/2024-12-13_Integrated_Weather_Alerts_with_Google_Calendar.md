@@ -1,6 +1,6 @@
 ---
 title: "Integrated Weather Alerts with Google Calendar"
-tags: ['N8N', 'Google Calendar', 'Weather Alerts', 'Automation']
+tags: ["N8N", "Google Calendar", "Weather Alerts", "Automation"]
 created: 2024-12-13
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:25–15:40**  
 **🏷️ Labels**: N8N, Google Calendar, Weather Alerts, Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,10 +18,10 @@ The session aimed to integrate weather alerts into Google Calendar using n8n, en
 
 ### Key Activities
 - **[[Integration]] Setup**: Followed a guide to integrate weather alerts into Google Calendar using n8n.
-- **Dynamic Event [[Configuration]]**: Configured Google Calendar events with dynamic titles and end times using JavaScript expressions.
+- **Dynamic Event [[Configuration]]**: Configured Google Calendar events with dynamic titles and end times using [[JavaScript]] expressions.
 - **Time Zone [[Debugging]]**: Identified and fixed time zone issues between n8n and Google Calendar.
 - **[[API]] Time Zone Handling**: Addressed time zone mismatches in timestamps from the OpenWeatherMap [[API]].
-- **JavaScript Scripting**: Developed a script for calculating start and end times for weather notifications, adjusting for time zones.
+- **[[JavaScript]] Scripting**: Developed a script for calculating start and end times for weather notifications, adjusting for time zones.
 - **Event Transparency**: Configured events in Google Calendar to appear as 'free' by setting the transparency property in n8n.
 
 ### Achievements
@@ -30,5 +30,5 @@ The session aimed to integrate weather alerts into Google Calendar using n8n, en
 - Implemented dynamic event titles and end times.
 
 ### Pending Tasks
-- Further testing of the workflow to ensure all edge cases are handled.
-- Explore additional automation possibilities with n8n and Google Calendar.
+- Further testing of the [[workflow]] to ensure all edge cases are handled.
+- Explore additional [[automation]] possibilities with n8n and Google Calendar.

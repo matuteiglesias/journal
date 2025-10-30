@@ -1,6 +1,6 @@
 ---
 title: "Refactored Python Scripts for Code Analysis"
-tags: ['Python', 'AST', 'CFG', 'Code Analysis', 'Refactoring']
+tags: ["Python", "AST", "CFG", "Code Analysis", "Refactoring"]
 created: 2025-02-18
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:00–23:50**  
 **🏷️ Labels**: Python, AST, CFG, Code Analysis, Refactoring  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -24,12 +24,12 @@ The session aimed to enhance [[Python]] scripts for code analysis, focusing on g
 - Suggested alternatives for CFG generation using `pyflowchart`, `networkx`, and LLVM/Clang.
 - Improved code structure representation for LLMs, optimizing AST for token efficiency.
 - Enhanced function metadata extraction in [[Python]] and suggested improvements for code structure and execution flow.
-- Developed a refactoring plan for organizing [[Python]] scripts into modular subsystems.
+- Developed a [[refactoring]] plan for organizing [[Python]] scripts into modular subsystems.
 
 ### Achievements
 - Successfully implemented and tested [[Python]] scripts for AST and CFG extraction.
 - Resolved import conflicts and improved metadata extraction functions.
-- Developed a high-level refactoring plan for better code organization and scalability.
+- Developed a high-level [[refactoring]] plan for better code organization and scalability.
 
 ### Pending Tasks
 - Further testing of the refactored scripts in different environments.

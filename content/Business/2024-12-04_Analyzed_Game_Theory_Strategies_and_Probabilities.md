@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Game Theory Strategies and Probabilities"
-tags: ['Game Theory', 'Decision-Making', 'Probability', 'Strategy', 'Bayesian Reasoning']
+tags: ["Game Theory", "Decision-Making", "Probability", "Strategy", "Bayesian Reasoning"]
 created: 2024-12-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:50–21:20**  
 **🏷️ Labels**: Game Theory, Decision-Making, Probability, Strategy, Bayesian Reasoning  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -27,7 +27,7 @@ The session aimed to explore and analyze decision-making strategies and probabil
 
 ### Achievements
 - Clarified the role of naive strategies in decision-making and their application as benchmarks.
-- Resolved coding issues in the `f_uniform()` function, improving error handling.
+- Resolved coding issues in the `f_uniform()` function, improving [[error handling]].
 - Identified optimal strategies and calculated expected values in game theory scenarios.
 
 ### Pending Tasks

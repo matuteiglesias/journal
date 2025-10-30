@@ -1,6 +1,6 @@
 ---
 title: "Developed IT Management Transition Framework"
-tags: ['It Management', 'Digital Transformation', 'Change Management', 'Security Innovation', 'Public Security']
+tags: ["It Management", "Digital Transformation", "Change Management", "Security Innovation", "Public Security"]
 created: 2024-02-13
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:55–04:35**  
 **🏷️ Labels**: It Management, Digital Transformation, Change Management, Security Innovation, Public Security  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,7 +18,7 @@ The session aimed to develop a comprehensive framework for managing and transiti
 
 ### Key Activities
 - Proposed a structured program for IT management and transition, including evaluation, process establishment, team strengthening, tool implementation, continuity planning, and fostering interdepartmental collaboration.
-- Generated 20 innovative ideas for digital transformation within a provincial police force in Latin America, emphasizing technology implementation and community communication improvements.
+- Generated 20 innovative ideas for digital transformation within a provincial police force in Latin America, emphasizing technology implementation and community [[communication]] improvements.
 - Explored a holistic approach to digital transformation, targeting operational efficiency, security, community relations, and institutional transparency.
 - Described a multidisciplinary team structure for a security innovation program, covering roles from emerging technology research to facial recognition system implementation.
 - Detailed a transition and reconfiguration plan for the Directorate General of Informatics, including audits, team reconfiguration, and new policy establishment.

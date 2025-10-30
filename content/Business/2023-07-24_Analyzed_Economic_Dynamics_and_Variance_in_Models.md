@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Economic Dynamics and Variance in Models"
-tags: ['Economic Dynamics', 'Variance', 'Firm Size', 'Economic Models', 'Covariance']
+tags: ["Economic Dynamics", "Variance", "Firm Size", "Economic Models", "Covariance"]
 created: 2023-07-24
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:40–19:45**  
 **🏷️ Labels**: Economic Dynamics, Variance, Firm Size, Economic Models, Covariance  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -30,4 +30,4 @@ The session aimed to explore the dynamics of firm size and value distribution am
 
 ### Pending Tasks
 - Further research on the implications of variance decay and micro fluctuations in economic models.
-- Retry the extraction process for section text to ensure complete data analysis.
+- Retry the extraction process for section text to ensure complete [[data analysis]].

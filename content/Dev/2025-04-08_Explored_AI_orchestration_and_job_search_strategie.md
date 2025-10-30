@@ -1,6 +1,6 @@
 ---
 title: "Explored AI orchestration and job search strategies"
-tags: ['Ai Orchestration', 'Job Search', 'Productivity', 'Automation', 'Context Architecture']
+tags: ["Ai Orchestration", "Job Search", "Productivity", "Automation", "Context Architecture"]
 created: 2025-04-08
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 11:50–14:15**  
 **🏷️ Labels**: Ai Orchestration, Job Search, Productivity, Automation, Context Architecture  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,10 +18,10 @@ The session aimed to explore the distinction between using [[AI]] as a simple to
 
 ### Key Activities
 - Discussed [[AI]] orchestration and the emergence of context architecture in [[AI]] systems.
-- Explored the transformative potential of [[AI]] as a multiplier in productivity systems.
+- Explored the transformative potential of [[AI]] as a multiplier in [[productivity]] systems.
 - Reviewed job application strategies through a structured check-in framework.
 - Reflected on [[AI]]'s role in codebase analysis and product management.
-- Considered systemic uses of semi-structured tables in data automation.
+- Considered systemic uses of semi-structured tables in data [[automation]].
 
 ### Achievements
 - Clarified the concept of 'Context Architecture' for [[AI]]-native tools.

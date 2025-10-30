@@ -1,6 +1,6 @@
 ---
 title: "Transferred and Managed Domain with AWS Route 53"
-tags: ['AWS', 'Route 53', 'Domain Management', 'Namecheap', 'DNS']
+tags: ["AWS", "Route 53", "Domain Management", "Namecheap", "DNS"]
 created: 2023-04-17
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 13:05–13:25**  
 **🏷️ Labels**: AWS, Route 53, Domain Management, Namecheap, DNS  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

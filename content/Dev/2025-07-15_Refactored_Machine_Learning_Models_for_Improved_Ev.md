@@ -1,6 +1,6 @@
 ---
 title: "Refactored Machine Learning Models for Improved Evaluation"
-tags: ['Machine Learning', 'Model Evaluation', 'Random Forest', 'Python', 'Classification']
+tags: ["Machine Learning", "Model Evaluation", "Random Forest", "Python", "Classification"]
 created: 2025-07-15
 publish: true
 ---
@@ -10,15 +10,15 @@ publish: true
 **🕒 19:00–19:30**  
 **🏷️ Labels**: Machine Learning, Model Evaluation, Random Forest, Python, Classification  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to refine machine learning models by integrating robust evaluation metrics and handling multiclass and multi-target classification challenges.
+The session aimed to refine [[machine learning]] models by integrating robust evaluation metrics and handling multiclass and multi-target classification challenges.
 
 ### Key Activities
 - Refined the `fit_model` function to incorporate model evaluation metrics tailored for both classification and regression tasks.
-- Implemented 1-vs-Rest classification strategy to enhance performance in multiclass scenarios using Scikit-learn.
+- Implemented 1-vs-Rest classification [[strategy]] to enhance performance in multiclass scenarios using Scikit-learn.
 - Refactored code to support multi-target classification, focusing on RandomForestClassifier, and improved diagnostics for feature importance.
 - Analyzed class imbalance issues within the model, providing insights and remediation strategies.
 - Conducted a detailed performance analysis of a classifier predicting marital status, identifying challenges with specific categories.

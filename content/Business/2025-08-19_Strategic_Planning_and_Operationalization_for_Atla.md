@@ -1,6 +1,6 @@
 ---
 title: "Strategic Planning and Operationalization for Atlas de Pobreza"
-tags: ['Atlas De Pobreza', 'Strategic Planning', 'Data Science', 'Poverty Measurement', 'Ai Pipeline']
+tags: ["Atlas De Pobreza", "Strategic Planning", "Data Science", "Poverty Measurement", "Ai Pipeline"]
 created: 2025-08-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:30–01:40**  
 **🏷️ Labels**: Atlas De Pobreza, Strategic Planning, Data Science, Poverty Measurement, Ai Pipeline  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -23,7 +23,7 @@ The session aimed to develop a strategic and operational framework for the Atlas
 - Created a structured agent prompt template for organizing poverty measurement data.
 - Designed an [[AI]]-powered pipeline for transforming poverty measurement data into various outputs.
 - Proposed research-to-production strategies for poverty measurement, focusing on transparency and authority-building.
-- Explored graduate thesis topics related to poverty measurement and data science.
+- Explored graduate thesis topics related to poverty measurement and [[data science]].
 
 ### Achievements:
 - Established a comprehensive strategic framework for the Atlas de Pobreza project.

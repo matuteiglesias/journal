@@ -1,6 +1,6 @@
 ---
 title: "Explored Future Directions in HIV Treatment"
-tags: ['HIV', 'Treatment', 'Biotechnology', 'AI', 'Healthcare']
+tags: ["HIV", "Treatment", "Biotechnology", "AI", "Healthcare"]
 created: 2025-03-26
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 19:35–21:50**  
 **🏷️ Labels**: HIV, Treatment, Biotechnology, AI, Healthcare  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

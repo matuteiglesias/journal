@@ -1,6 +1,6 @@
 ---
 title: "Diagnosed and Troubleshot Vehicle Overheating Issues"
-tags: ['Vehicle Diagnostics', 'Coolant System', 'Engine Temperature', 'Troubleshooting', 'Automotive']
+tags: ["Vehicle Diagnostics", "Coolant System", "Engine Temperature", "Troubleshooting", "Automotive"]
 created: 2025-06-25
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 21:20–21:40**  
 **🏷️ Labels**: Vehicle Diagnostics, Coolant System, Engine Temperature, Troubleshooting, Automotive  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

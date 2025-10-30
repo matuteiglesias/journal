@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Enhanced RAGFlow Multimodal Ingestion Modules"
-tags: ['Ragflow', 'Infiniflow', 'Document Ingestion', 'Chunking', 'Semantic Enrichment']
+tags: ["Ragflow", "Infiniflow", "Document Ingestion", "Chunking", "Semantic Enrichment"]
 created: 2025-05-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:10–04:35**  
 **🏷️ Labels**: Ragflow, Infiniflow, Document Ingestion, Chunking, Semantic Enrichment  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -28,7 +28,7 @@ The session aimed to analyze and enhance the multimodal ingestion modules in RAG
 - Analyzed the `do_handle_task` function in InfiniFlow, identifying strengths and technical risks.
 - Evaluated an advanced RAG system, outlining areas for improvement in streaming execution and embedding strategies.
 - Analyzed LLM interaction and prompt engineering in a document processing codebase, suggesting improvements.
-- Reviewed the `llm/chat_model.py` module for LLM [[API]] abstraction, focusing on error handling and token management.
+- Reviewed the `llm/chat_model.py` module for LLM [[API]] abstraction, focusing on [[error handling]] and token management.
 
 ### Achievements
 - Completed the analysis and enhancement of multimodal ingestion modules in RAGFlow.

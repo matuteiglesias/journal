@@ -1,6 +1,6 @@
 ---
 title: "Resolved PostgreSQL authentication and permission errors"
-tags: ['Postgresql', 'Authentication', 'Permissions', 'Troubleshooting', 'Database']
+tags: ["Postgresql", "Authentication", "Permissions", "Troubleshooting", "Database"]
 created: 2023-01-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:45–21:25**  
 **🏷️ Labels**: Postgresql, Authentication, Permissions, Troubleshooting, Database  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,7 +25,7 @@ The session aimed to address various PostgreSQL authentication and permission er
 - Resolved permission issues when accessing the PostgreSQL server by using 'sudo', setting a new password for the 'postgres' user, and checking the service status.
 - Created a PostgreSQL role for 'matias' and granted necessary permissions for database access.
 - Managed command history in the shell environment using the `history` command.
-- Troubleshot PostgreSQL installation issues, including checking service status, log files, permissions, and configuration files.
+- Troubleshot PostgreSQL installation issues, including checking service status, log files, permissions, and [[configuration]] files.
 - Checked PostgreSQL log files for monitoring PostGIS installations using command-line tools.
 
 ### Achievements

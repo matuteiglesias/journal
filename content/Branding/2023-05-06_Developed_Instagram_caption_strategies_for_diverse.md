@@ -1,6 +1,6 @@
 ---
 title: "Developed Instagram caption strategies for diverse themes"
-tags: ['Instagram', 'Captions', 'Social Media', 'Branding', 'Cultural Fusion']
+tags: ["Instagram", "Captions", "Social Media", "Branding", "Cultural Fusion"]
 created: 2023-05-06
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 19:00–19:10**  
 **🏷️ Labels**: Instagram, Captions, Social Media, Branding, Cultural Fusion  
 **📂 Project**: Branding  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

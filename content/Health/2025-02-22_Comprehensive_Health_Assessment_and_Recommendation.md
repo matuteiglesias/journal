@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Health Assessment and Recommendations"
-tags: ['Health', 'Dermatology', 'Urology', 'Treatment', 'Consultation']
+tags: ["Health", "Dermatology", "Urology", "Treatment", "Consultation"]
 created: 2025-02-22
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 10:20–12:00**  
 **🏷️ Labels**: Health, Dermatology, Urology, Treatment, Consultation  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

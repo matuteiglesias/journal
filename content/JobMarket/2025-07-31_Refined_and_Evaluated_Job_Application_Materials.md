@@ -1,6 +1,6 @@
 ---
 title: "Refined and Evaluated Job Application Materials"
-tags: ['Application', 'Feedback', 'Revision', 'Writing', 'Evaluation']
+tags: ["Application", "Feedback", "Revision", "Writing", "Evaluation"]
 created: 2025-07-31
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 20:50–21:55**  
 **🏷️ Labels**: Application, Feedback, Revision, Writing, Evaluation  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Configured web hosting and automated file synchronization"
-tags: ['Server', 'Web Hosting', 'Rsync', 'Automation', 'CSS']
+tags: ["Server", "Web Hosting", "Rsync", "Automation", "CSS"]
 created: 2024-08-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:50–19:25**  
 **🏷️ Labels**: Server, Web Hosting, Rsync, Automation, CSS  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -23,12 +23,12 @@ The session aimed to configure server settings for hosting a personal webpage an
 - Improved the HTML structure for a PhD thesis, publications, and course notes, maintaining original style and providing placeholders for future links.
 - Enhanced CSS for better readability and layout of the webpage, focusing on font sizes, line heights, margins, and link styles.
 - Made specific CSS improvements to the contact section for better appearance and readability.
-- Updated GitHub profile to include new research papers and course notes, providing a structured format for presenting information.
+- Updated [[GitHub]] profile to include new research papers and course notes, providing a structured format for presenting information.
 
 **Achievements:**
-- Successful configuration of server settings and automation of file synchronization.
+- Successful [[configuration]] of server settings and [[automation]] of file synchronization.
 - Improved webpage readability and layout through CSS enhancements.
-- Updated GitHub profile with new content.
+- Updated [[GitHub]] profile with new content.
 
 **Pending Tasks:**
 - Further testing and validation of the automated synchronization process.

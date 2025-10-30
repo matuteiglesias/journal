@@ -1,6 +1,6 @@
 ---
 title: "Enhanced AI Image Prompts for James Franco"
-tags: ['AI', 'Prompt Engineering', 'Image Generation', 'James Franco', 'Creative Prompts']
+tags: ["AI", "Prompt Engineering", "Image Generation", "James Franco", "Creative Prompts"]
 created: 2023-08-30
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:40–04:40**  
 **🏷️ Labels**: AI, Prompt Engineering, Image Generation, James Franco, Creative Prompts  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -22,7 +22,7 @@ The session focused on developing and refining prompts for [[AI]] image generati
 - Developed a condensed version of negative prompts to group undesirable traits effectively.
 - Created tailored social media photo prompts for James Franco, suitable for platforms like Instagram, Facebook, and LinkedIn.
 - Compiled concise, keyword-driven prompts for generating images of James Franco in diverse settings.
-- Provided keyword-driven prompts for creative visualization projects featuring James Franco.
+- Provided keyword-driven prompts for creative [[visualization]] projects featuring James Franco.
 
 **Achievements:**
 - Successfully created a comprehensive set of prompts that can be used for both [[AI]] image generation and social media contexts.

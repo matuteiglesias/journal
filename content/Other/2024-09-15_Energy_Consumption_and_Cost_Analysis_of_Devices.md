@@ -1,6 +1,6 @@
 ---
 title: "Energy Consumption and Cost Analysis of Devices"
-tags: ['Energy Consumption', 'Cost Analysis', 'Efficiency', 'Monitor', 'Led Bulbs']
+tags: ["Energy Consumption", "Cost Analysis", "Efficiency", "Monitor", "Led Bulbs"]
 created: 2024-09-15
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 20:00–20:55**  
 **🏷️ Labels**: Energy Consumption, Cost Analysis, Efficiency, Monitor, Led Bulbs  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

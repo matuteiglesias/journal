@@ -1,6 +1,6 @@
 ---
 title: "Implemented OCR and pdfminer for PDF data extraction"
-tags: ['Pdf Processing', 'OCR', 'Data Extraction', 'Python', 'Text Parsing']
+tags: ["Pdf Processing", "OCR", "Data Extraction", "Python", "Text Parsing"]
 created: 2023-08-07
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 15:10–16:10**  
 **🏷️ Labels**: Pdf Processing, OCR, Data Extraction, Python, Text Parsing  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to improve the extraction of structured data from PDF documents, focusing on overcoming challenges with text encoding and font management.
 
 ### Key Activities
-- Explored the structure of PDF documents to identify methods for data extraction.
+- Explored the structure of PDF documents to identify methods for [[data extraction]].
 - Discussed the use of Optical Character Recognition (OCR) to handle non-standard symbols and images within PDFs.
 - Analyzed PDF encoding and font issues, including errors in accessing font information using PyPDF2.
 - Transitioned from PyPDF2 to the pdfminer library for robust text extraction, providing code snippets for implementation.
@@ -31,4 +31,4 @@ The session aimed to improve the extraction of structured data from PDF document
 
 ### Pending Tasks
 - Further refinement of OCR techniques to enhance accuracy and efficiency.
-- Exploration of additional libraries or tools to streamline PDF data extraction processes.
+- Exploration of additional libraries or tools to streamline PDF [[data extraction]] processes.

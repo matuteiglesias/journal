@@ -1,6 +1,6 @@
 ---
 title: "Refactored Python functions for error handling and optimization"
-tags: ['Python', 'Error Handling', 'Optimization', 'Algorithm', 'Debugging']
+tags: ["Python", "Error Handling", "Optimization", "Algorithm", "Debugging"]
 created: 2023-09-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:30–19:30**  
 **🏷️ Labels**: Python, Error Handling, Optimization, Algorithm, Debugging  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

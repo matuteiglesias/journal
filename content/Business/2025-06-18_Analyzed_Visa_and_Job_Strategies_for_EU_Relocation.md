@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Visa and Job Strategies for EU Relocation"
-tags: ['Visa Strategy', 'Job Application', 'Data Engineering', 'Digital Nomad', 'Eu Relocation']
+tags: ["Visa Strategy", "Job Application", "Data Engineering", "Digital Nomad", "Eu Relocation"]
 created: 2025-06-18
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:40–02:55**  
 **🏷️ Labels**: Visa Strategy, Job Application, Data Engineering, Digital Nomad, Eu Relocation  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

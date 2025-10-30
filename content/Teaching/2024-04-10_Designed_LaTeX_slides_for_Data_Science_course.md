@@ -1,6 +1,6 @@
 ---
 title: "Designed LaTeX slides for Data Science course"
-tags: ['Latex', 'Education', 'Data Science', 'Presentations', 'Course Design']
+tags: ["Latex", "Education", "Data Science", "Presentations", "Course Design"]
 created: 2024-04-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 12:00–12:50**  
 **🏷️ Labels**: Latex, Education, Data Science, Presentations, Course Design  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,7 +19,7 @@ The session aimed to design and structure presentation slides in LaTeX for a [[D
 ### Key Activities
 - **Normalización en Diseño de Bases de Datos Relacionales**: Reviewed the concept of normalization in relational database design, emphasizing its role in data integrity and efficiency.
 - **LaTeX Slide Examples**: Developed several LaTeX slide templates for presenting class objectives, course structure, teaching methodology, and course resources.
-  - **Objectives Slide**: Included topics like data processing, manipulation, visualization, and storage.
+  - **Objectives Slide**: Included topics like [[data processing]], manipulation, [[visualization]], and storage.
   - **Class Structure Slide**: Detailed the timing and specific topics for each class segment.
   - **Teaching Methodology Slide**: Focused on active and applied learning, integrating theory and practice.
   - **Course Resources Slide**: Linked to relevant documents, programs, repositories, notebooks, and bibliographies.

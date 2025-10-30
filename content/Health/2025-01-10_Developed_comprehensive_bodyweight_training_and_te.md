@@ -1,6 +1,6 @@
 ---
 title: "Developed comprehensive bodyweight training and technique guides"
-tags: ['Training', 'Bodyweight', 'Fitness', 'Exercise', 'Strength', 'Muscle Development']
+tags: ["Training", "Bodyweight", "Fitness", "Exercise", "Strength", "Muscle Development"]
 created: 2025-01-10
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 23:00–23:40**  
 **🏷️ Labels**: Training, Bodyweight, Fitness, Exercise, Strength, Muscle Development  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

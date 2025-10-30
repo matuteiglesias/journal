@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Email Classification with TF-IDF and Naive Bayes"
-tags: ['Email_Classification', 'TF-IDF', 'Naive Bayes', 'Machine_Learning', 'NLP']
+tags: ["Email_Classification", "TF-IDF", "Naive Bayes", "Machine_Learning", "NLP"]
 created: 2024-10-06
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 01:00–02:00**  
 **🏷️ Labels**: Email_Classification, TF-IDF, Naive Bayes, Machine_Learning, NLP  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to enhance email classification techniques using machine learning, focusing on TF-IDF feature extraction and Naive Bayes classifier optimization.
+The session aimed to enhance email classification techniques using [[machine learning]], focusing on TF-IDF feature extraction and Naive Bayes classifier [[optimization]].
 
 **Key Activities:**
 1. Explored effective approaches for email classification, including feature extraction, algorithm selection, and data preprocessing.
@@ -26,7 +26,7 @@ The session aimed to enhance email classification techniques using machine learn
 7. Corrected and combined Spanish and English stopwords in TF-IDF vectorization using scikit-learn and NLTK.
 
 **Achievements:**
-- Developed a comprehensive strategy for email classification improvement.
+- Developed a comprehensive [[strategy]] for email classification improvement.
 - Implemented TF-IDF feature extraction and addressed preprocessing challenges.
 - Corrected input errors in Naive Bayes classifier.
 

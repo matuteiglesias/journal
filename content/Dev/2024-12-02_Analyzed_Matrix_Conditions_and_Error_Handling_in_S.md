@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Matrix Conditions and Error Handling in SymPy"
-tags: ['Matrices', 'Sympy', 'Numerical Analysis', 'Programming', 'Condition Numbers']
+tags: ["Matrices", "Sympy", "Numerical Analysis", "Programming", "Condition Numbers"]
 created: 2024-12-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:35–17:45**  
 **🏷️ Labels**: Matrices, Sympy, Numerical Analysis, Programming, Condition Numbers  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

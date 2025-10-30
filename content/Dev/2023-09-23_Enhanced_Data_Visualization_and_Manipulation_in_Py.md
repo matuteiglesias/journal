@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Data Visualization and Manipulation in Python"
-tags: ['Python', 'Data Visualization', 'Pandas', 'Matplotlib', 'Seaborn']
+tags: ["Python", "Data Visualization", "Pandas", "Matplotlib", "Seaborn"]
 created: 2023-09-23
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 19:00–19:30**  
 **🏷️ Labels**: Python, Data Visualization, Pandas, Matplotlib, Seaborn  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to enhance data visualization techniques and manipulate data effectively using [[Python]] libraries such as [[Pandas]], [[Matplotlib]], and Seaborn.
+The session aimed to enhance [[data [[visualization]]]] techniques and manipulate data effectively using [[Python]] libraries such as [[Pandas]], [[Matplotlib]], and Seaborn.
 
 ### Key Activities
-- **Data Manipulation**: Inserted and updated DataFrame values, removed NaN entries, and recomputed derived metrics using [[Pandas]].
+- **Data Manipulation**: Inserted and updated [[DataFrame]] values, removed NaN entries, and recomputed derived metrics using [[Pandas]].
 - **[[Data [[Visualization]]]]**: Customized bar plots in [[Matplotlib]] and Seaborn, including adjusting bar widths and positions, and rendering bars as hollow for better visual distinction.
 - **Code [[Optimization]]**: Modified the monthly payment structure to handle lists of payments and simulated debt payments with inflation adjustments.
 
@@ -27,5 +27,5 @@ The session aimed to enhance data visualization techniques and manipulate data e
 - Optimized payment handling code for better financial simulations.
 
 ### Pending Tasks
-- Further exploration of advanced visualization techniques in Seaborn.
-- Additional optimization of data manipulation scripts for larger datasets.
+- Further exploration of advanced [[visualization]] techniques in Seaborn.
+- Additional [[optimization]] of data manipulation scripts for larger datasets.

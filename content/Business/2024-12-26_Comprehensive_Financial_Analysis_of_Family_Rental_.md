@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Financial Analysis of Family Rental Business"
-tags: ['Financial Analysis', 'Rental Business', 'Annual Balance', 'Profitability', 'Liquidity']
+tags: ["Financial Analysis", "Rental Business", "Annual Balance", "Profitability", "Liquidity"]
 created: 2024-12-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 23:25–00:10**  
 **🏷️ Labels**: Financial Analysis, Rental Business, Annual Balance, Profitability, Liquidity  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

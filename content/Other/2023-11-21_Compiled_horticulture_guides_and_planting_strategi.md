@@ -1,6 +1,6 @@
 ---
 title: "Compiled horticulture guides and planting strategies"
-tags: ['Horticulture', 'Plant Care', 'Propagation', 'Gardening', 'Argentina']
+tags: ["Horticulture", "Plant Care", "Propagation", "Gardening", "Argentina"]
 created: 2023-11-21
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 15:00–15:50**  
 **🏷️ Labels**: Horticulture, Plant Care, Propagation, Gardening, Argentina  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 **Session Goal:**

@@ -1,6 +1,6 @@
 ---
 title: "Evaluated Group Reports and Binary Classification"
-tags: ['Evaluation', 'EDA', 'Binary Classification', 'Feedback', 'Data Analysis']
+tags: ["Evaluation", "EDA", "Binary Classification", "Feedback", "Data Analysis"]
 created: 2025-07-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 02:00–02:15**  
 **🏷️ Labels**: Evaluation, EDA, Binary Classification, Feedback, Data Analysis  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

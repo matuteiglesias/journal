@@ -1,6 +1,6 @@
 ---
 title: "Analyzed R Markdown for CSV file paths"
-tags: ['Rmarkdown', 'File Analysis', 'Csv Paths', 'Error Handling']
+tags: ["Rmarkdown", "File Analysis", "Csv Paths", "Error Handling"]
 created: 2023-09-24
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:45–01:00**  
 **🏷️ Labels**: Rmarkdown, File Analysis, Csv Paths, Error Handling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -24,7 +24,7 @@ The session aimed to read and analyze the contents of an R [[Markdown]] (.Rmd) f
 
 ### Achievements:
 - Completed the extraction of [[CSV]] file paths from the R [[Markdown]] document.
-- Prepared the extracted paths for integration into a new directory structure, ensuring no errors in file management.
+- Prepared the extracted paths for [[integration]] into a new directory structure, ensuring no errors in [[file management]].
 
 ### Pending Tasks:
 - Review and adjust the extracted [[CSV]] paths according to the updated directory structure.

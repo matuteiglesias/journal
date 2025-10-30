@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Implemented DFS for Bridge Detection"
-tags: ['DFS', 'Graph Theory', 'Student Evaluation', 'Algorithms', 'Bridges']
+tags: ["DFS", "Graph Theory", "Student Evaluation", "Algorithms", "Bridges"]
 created: 2023-10-09
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:40–20:45**  
 **🏷️ Labels**: DFS, Graph Theory, Student Evaluation, Algorithms, Bridges  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

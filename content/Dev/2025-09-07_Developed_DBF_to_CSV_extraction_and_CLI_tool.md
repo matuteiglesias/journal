@@ -1,6 +1,6 @@
 ---
 title: "Developed DBF to CSV extraction and CLI tool"
-tags: ['Python', 'DBF', 'CSV', 'CLI', 'Data Extraction']
+tags: ["Python", "DBF", "CSV", "CLI", "Data Extraction"]
 created: 2025-09-07
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 19:05–19:15**  
 **🏷️ Labels**: Python, DBF, CSV, CLI, Data Extraction  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to develop a comprehensive tool for extracting DBF files and converting them into [[CSV]] format, along with implementing a command-line interface for managing data extraction tasks.
+The session aimed to develop a comprehensive tool for extracting DBF files and converting them into [[CSV]] format, along with implementing a command-line interface for managing [[data extraction]] tasks.
 
 ### Key Activities
 - Developed a [[Python]] script for extracting DBF files from specified input directories, applying optional column exclusions, and generating corresponding [[CSV]] files in organized output directories.

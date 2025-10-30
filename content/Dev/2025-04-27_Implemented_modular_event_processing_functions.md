@@ -1,6 +1,6 @@
 ---
 title: "Implemented modular event processing functions"
-tags: ['Event Processing', 'Automation', 'Jinja2', 'Python', 'Ai Agents']
+tags: ["Event Processing", "Automation", "Jinja2", "Python", "Ai Agents"]
 created: 2025-04-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:00–04:00**  
 **🏷️ Labels**: Event Processing, Automation, Jinja2, Python, Ai Agents  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,7 +18,7 @@ The session aimed to develop and implement modular event processing functions to
 
 ### Key Activities
 - Developed a structured approach to encapsulate event processing logic into reusable functions using [[Python]].
-- Implemented the `EventProcessorAgent` to enrich email data into structured event information for calendar integration.
+- Implemented the `EventProcessorAgent` to enrich email data into structured event information for calendar [[integration]].
 - Utilized Jinja2 templates for dynamic and modular prompt creation to improve the quality and scalability of LLM calls.
 - Upgraded `TaskProcessorAgent` and `JobPostingProcessorAgent` to use Jinja2 templates, enhancing maintainability and modularity.
 

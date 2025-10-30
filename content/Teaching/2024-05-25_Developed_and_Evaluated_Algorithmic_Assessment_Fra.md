@@ -1,6 +1,6 @@
 ---
 title: "Developed and Evaluated Algorithmic Assessment Framework"
-tags: ['Algorithms', 'Evaluation', 'Education', 'Graph Theory', 'Student Assessment']
+tags: ["Algorithms", "Evaluation", "Education", "Graph Theory", "Student Assessment"]
 created: 2024-05-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:30–18:30**  
 **🏷️ Labels**: Algorithms, Evaluation, Education, Graph Theory, Student Assessment  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

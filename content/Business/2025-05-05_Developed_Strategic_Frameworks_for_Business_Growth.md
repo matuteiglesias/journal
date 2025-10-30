@@ -1,6 +1,6 @@
 ---
 title: "Developed Strategic Frameworks for Business Growth"
-tags: ['Business Strategy', 'Automation', 'Email Marketing', 'Linkedin', 'Ai Agency']
+tags: ["Business Strategy", "Automation", "Email Marketing", "Linkedin", "Ai Agency"]
 created: 2025-05-05
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 23:05–00:00**  
 **🏷️ Labels**: Business Strategy, Automation, Email Marketing, Linkedin, Ai Agency  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-To explore and develop strategic frameworks for business growth, focusing on revenue generation, freelancing leverage, email marketing, and LinkedIn automation.
+To explore and develop strategic frameworks for business growth, focusing on revenue generation, freelancing leverage, email marketing, and LinkedIn [[automation]].
 
 ### Key Activities
 - **Revenue Machine Framework**: Outlined essential structures and daily operations for creating a repeatable revenue machine.
@@ -25,10 +25,10 @@ To explore and develop strategic frameworks for business growth, focusing on rev
 
 ### Achievements
 - Clarified strategic distinctions for business growth and freelancing.
-- Established frameworks for email marketing and LinkedIn automation.
+- Established frameworks for email marketing and LinkedIn [[automation]].
 - Gained insights from industry experts like Matt Larsson and Alex Berman.
 
 ### Pending Tasks
-- Implement the cold email strategy and monitor results.
+- Implement the cold email [[strategy]] and monitor results.
 - Set up high-deliverability mailboxes for email campaigns.
-- Test LinkedIn automation tools like Expandi for outreach campaigns.
+- Test LinkedIn [[automation]] tools like Expandi for outreach campaigns.

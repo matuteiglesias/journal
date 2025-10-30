@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Security and Debugging in FastAPI and Uvicorn"
-tags: ['Fastapi', 'Uvicorn', 'Security', 'Debugging', 'Development']
+tags: ["Fastapi", "Uvicorn", "Security", "Debugging", "Development"]
 created: 2025-04-17
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 01:55–02:10**  
 **🏷️ Labels**: Fastapi, Uvicorn, Security, Debugging, Development  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to enhance security practices in local development environments using Uvicorn and FastAPI, and to debug [[JSON]] parsing errors in FastAPI applications.
 
 ### Key Activities
-- **[[Documentation]] in Healthcare**: Explored templates for SOAP format nursing documentation and electronic medical records using Tasy.
+- **[[Documentation]] in Healthcare**: Explored templates for SOAP format nursing [[documentation]] and electronic medical records using Tasy.
 - **FastAPI YAML Serving**: Confirmed the ability of FastAPI to serve YAML content, facilitating frontend interactions and suggesting improvements for YAML handling.
 - **Security in Local Development**: Discussed best practices for securing local development environments, focusing on file access and server exposure.
 - **Uvicorn Server Security**: Verified Uvicorn server exposure, ensuring it is securely bound to localhost to prevent unauthorized access.
@@ -25,7 +25,7 @@ The session aimed to enhance security practices in local development environment
 
 ### Achievements
 - Successfully confirmed secure server configurations for Uvicorn, ensuring a safe local development environment.
-- Identified and outlined steps to debug [[JSON]] parsing errors in FastAPI applications, enhancing error handling and route management.
+- Identified and outlined steps to debug [[JSON]] parsing errors in FastAPI applications, enhancing [[error handling]] and route management.
 
 ### Pending Tasks
 - Implement recommended YAML handling improvements in FastAPI.

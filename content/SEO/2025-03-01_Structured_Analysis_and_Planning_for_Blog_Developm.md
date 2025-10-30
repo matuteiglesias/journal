@@ -1,6 +1,6 @@
 ---
 title: "Structured Analysis and Planning for Blog Development"
-tags: ['Blogging', 'Content Strategy', 'AI', 'Politics', 'SEO']
+tags: ["Blogging", "Content Strategy", "AI", "Politics", "SEO"]
 created: 2025-03-01
 publish: true
 ---
@@ -10,16 +10,16 @@ publish: true
 **🕒 14:40–15:00**  
 **🏷️ Labels**: Blogging, Content Strategy, AI, Politics, SEO  
 **📂 Project**: SEO  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to analyze and structure blog topics related to data science, [[AI]], and the integration of political dimensions into blogging.
+The session aimed to analyze and structure blog topics related to [[data science]], [[AI]], and the [[integration]] of political dimensions into blogging.
 
 ### Key Activities
 - Provided insights on image analysis support, focusing on converting image descriptions into text for further analysis.
-- Conducted a detailed analysis of blog topics in data science and [[AI]], identifying major themes, redundancies, and opportunities for expansion.
-- Developed a concept map based on [[SEO]] keywords to categorize the blog's scope into areas related to [[AI]], automation, and data-driven decision-making.
+- Conducted a detailed analysis of blog topics in [[data science]] and [[AI]], identifying major themes, redundancies, and opportunities for expansion.
+- Developed a concept map based on [[SEO]] keywords to categorize the blog's scope into areas related to [[AI]], [[automation]], and data-driven decision-making.
 - Planned the incorporation of a political dimension into the blog, focusing on professional political practice and efficiency systems.
 
 ### Achievements

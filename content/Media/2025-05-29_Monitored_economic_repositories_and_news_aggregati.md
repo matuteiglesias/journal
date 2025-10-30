@@ -1,6 +1,6 @@
 ---
 title: "Monitored economic repositories and news aggregation"
-tags: ['Economic Data', 'News Aggregation', 'Repository Monitoring', 'Trend Analysis']
+tags: ["Economic Data", "News Aggregation", "Repository Monitoring", "Trend Analysis"]
 created: 2025-05-29
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:40–04:10**  
 **🏷️ Labels**: Economic Data, News Aggregation, Repository Monitoring, Trend Analysis  
 **📂 Project**: Media  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal**: The primary objective of this session was to monitor economic data repositories and aggregate relevant news for further analysis.

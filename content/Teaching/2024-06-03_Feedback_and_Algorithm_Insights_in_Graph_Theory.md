@@ -1,6 +1,6 @@
 ---
 title: "Feedback and Algorithm Insights in Graph Theory"
-tags: ['Graph Theory', 'Feedback', 'Algorithms', 'DAG', 'DFS', 'Productivity']
+tags: ["Graph Theory", "Feedback", "Algorithms", "DAG", "DFS", "Productivity"]
 created: 2024-06-03
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:10–02:15**  
 **🏷️ Labels**: Graph Theory, Feedback, Algorithms, DAG, DFS, Productivity  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -24,7 +24,7 @@ The session aimed to provide detailed feedback and insights on various aspects o
 
 ### Achievements
 - Clarified and enhanced explanations for graph theory concepts, particularly around acyclic graphs and cycle detection.
-- Developed a structured weekly task plan to improve productivity and task management.
+- Developed a structured weekly task plan to improve [[productivity]] and [[task management]].
 
 ### Pending Tasks
 - Further refinement of algorithm explanations and student feedback to ensure comprehensive understanding and clarity.

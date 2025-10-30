@@ -1,6 +1,6 @@
 ---
 title: "Developed Household Task Tracking System"
-tags: ['Household', 'Tasks', 'Tracking', 'Cleaning', 'Organization']
+tags: ["Household", "Tasks", "Tracking", "Cleaning", "Organization"]
 created: 2025-01-15
 publish: false
 ---
@@ -10,16 +10,16 @@ publish: false
 **🕒 03:15–03:40**  
 **🏷️ Labels**: Household, Tasks, Tracking, Cleaning, Organization  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal
-The session aimed to develop a structured system for tracking weekly and daily household tasks to enhance organization and task management at home.
+The session aimed to develop a structured system for tracking weekly and daily household tasks to enhance organization and [[task management]] at home.
 
 ### Key Activities
 - Created a structured document for tracking household tasks, including sections for general cleaning, kitchen duties, and outdoor maintenance.
 - Developed a tracking sheet with sections for weekly and daily tasks, responsibility assignments, and completion tracking.
-- Converted the tracking sheet into a [[CSV]] format for easier data management, removing unnecessary columns like 'Date'.
+- Converted the tracking sheet into a [[CSV]] format for easier [[data management]], removing unnecessary columns like 'Date'.
 - Outlined a comprehensive list of cleaning tasks, categorized by frequency and area, suitable for task assignment and tracking.
 
 ### Achievements

@@ -1,6 +1,6 @@
 ---
 title: "Implemented RAGFlow trial paywall and tenant model"
-tags: ['RAG', 'Monetization', 'Architecture', 'Paywall', 'Stripe', 'Usertenant']
+tags: ["RAG", "Monetization", "Architecture", "Paywall", "Stripe", "Usertenant"]
 created: 2025-05-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:45–23:05**  
 **🏷️ Labels**: RAG, Monetization, Architecture, Paywall, Stripe, Usertenant  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal**: The session aimed to refine and implement strategic architectural and monetization enhancements for the RAG system, focusing on retrieval-augmented generation (RAG) and service architecture.
@@ -20,7 +20,7 @@ publish: true
 - Summarized insights and recommendations for improving RAG architecture, identifying redundancies and functionality enhancements.
 - Outlined strategic refinements for database and service architecture, focusing on user access, billing, and monetization.
 - Synthesized insights on system runtime, file handling, and user management, detailing tenant-user linkage and quota enforcement.
-- Developed strategic insights for enhancing the UserTenant model and implementing a paywall strategy, focusing on trial logic, Stripe integration, and monetization.
+- Developed strategic insights for enhancing the UserTenant model and implementing a paywall [[strategy]], focusing on trial logic, Stripe [[integration]], and monetization.
 - Created an implementation plan for a trial paywall wrapper on RAGFlow, detailing team roles, task breakdowns, and necessary code snippets.
 
 **Achievements**:
@@ -30,4 +30,4 @@ publish: true
 
 **Pending Tasks**:
 - Execute the implementation plan for the trial paywall and UserTenant model enhancements.
-- Monitor the integration of Stripe for payment processing and ensure seamless user transition from trial to paid services.
+- Monitor the [[integration]] of Stripe for payment processing and ensure seamless user transition from trial to paid services.

@@ -1,6 +1,6 @@
 ---
 title: "Developed Advanced Economic Questions for AI Challenge"
-tags: ['Economic Questions', 'Ai Challenge', 'Quantitative Easing', 'Interest Rates', 'Financial Analysis']
+tags: ["Economic Questions", "Ai Challenge", "Quantitative Easing", "Interest Rates", "Financial Analysis"]
 created: 2024-09-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:20–16:25**  
 **🏷️ Labels**: Economic Questions, Ai Challenge, Quantitative Easing, Interest Rates, Financial Analysis  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

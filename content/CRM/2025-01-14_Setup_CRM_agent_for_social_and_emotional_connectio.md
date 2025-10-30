@@ -1,6 +1,6 @@
 ---
 title: "Setup CRM agent for social and emotional connections"
-tags: ['CRM', 'Social Connections', 'Engagement', 'Automation']
+tags: ["CRM", "Social Connections", "Engagement", "Automation"]
 created: 2025-01-14
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:45–20:15**  
 **🏷️ Labels**: CRM, Social Connections, Engagement, Automation  
 **📂 Project**: CRM  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -24,8 +24,8 @@ The goal of this session was to set up a CRM agent focused on enhancing social a
 
 ### Achievements
 - Established a framework for organizing contacts and scheduling engagements.
-- Tailored communication strategies were outlined and partially implemented.
+- Tailored [[communication]] strategies were outlined and partially implemented.
 
 ### Pending Tasks
-- Complete the implementation of communication tracking systems.
-- Finalize the tailoring of communication strategies for all contacts.
+- Complete the implementation of [[communication]] tracking systems.
+- Finalize the tailoring of [[communication]] strategies for all contacts.

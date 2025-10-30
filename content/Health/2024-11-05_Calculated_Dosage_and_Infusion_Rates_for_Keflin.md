@@ -1,6 +1,6 @@
 ---
 title: "Calculated Dosage and Infusion Rates for Keflin"
-tags: ['Keflin', 'Dosage', 'Infusion', 'Calculation', 'Health']
+tags: ["Keflin", "Dosage", "Infusion", "Calculation", "Health"]
 created: 2024-11-05
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 14:55–15:50**  
 **🏷️ Labels**: Keflin, Dosage, Infusion, Calculation, Health  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

@@ -1,6 +1,6 @@
 ---
 title: "Explored UI Factory and Indie Dev Strategies"
-tags: ['Ui Automation', 'Indie Development', 'Ai Tools', 'Monetization', 'Product Strategies']
+tags: ["Ui Automation", "Indie Development", "Ai Tools", "Monetization", "Product Strategies"]
 created: 2025-04-15
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 22:30–22:55**  
 **🏷️ Labels**: Ui Automation, Indie Development, Ai Tools, Monetization, Product Strategies  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to explore innovative strategies in UI automation and indie development, focusing on creating efficient development processes and sustainable business models.
+The session aimed to explore innovative strategies in UI [[automation]] and indie development, focusing on creating efficient development processes and sustainable business models.
 
 ### Key Activities
 - **UI Factory Concept**: Discussed the analogy of a UI factory using PromptBlocks and YAML flows to streamline frontend development, drawing parallels to Fordism in manufacturing.

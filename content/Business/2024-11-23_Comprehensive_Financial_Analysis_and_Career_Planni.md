@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Financial Analysis and Career Planning"
-tags: ['Financial Analysis', 'Quantitative Finance', 'Career Planning', 'Income Statement', 'Cash Flow']
+tags: ["Financial Analysis", "Quantitative Finance", "Career Planning", "Income Statement", "Cash Flow"]
 created: 2024-11-23
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:20–20:35**  
 **🏷️ Labels**: Financial Analysis, Quantitative Finance, Career Planning, Income Statement, Cash Flow  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

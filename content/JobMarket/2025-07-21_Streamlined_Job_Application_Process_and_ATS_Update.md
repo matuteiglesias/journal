@@ -1,6 +1,6 @@
 ---
 title: "Streamlined Job Application Process and ATS Updates"
-tags: ['Job Applications', 'ATS', 'Data Engineering', 'Machine Learning', 'Career Strategy']
+tags: ["Job Applications", "ATS", "Data Engineering", "Machine Learning", "Career Strategy"]
 created: 2025-07-21
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 16:00–17:00**  
 **🏷️ Labels**: Job Applications, ATS, Data Engineering, Machine Learning, Career Strategy  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

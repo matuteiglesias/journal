@@ -1,6 +1,6 @@
 ---
 title: "Reviewed and optimized Python data scripts"
-tags: ['Python', 'Ubuntu', 'Data Manipulation', 'Installation', 'Environment Setup']
+tags: ["Python", "Ubuntu", "Data Manipulation", "Installation", "Environment Setup"]
 created: 2023-02-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:00–21:00**  
 **🏷️ Labels**: Python, Ubuntu, Data Manipulation, Installation, Environment Setup  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,7 +25,7 @@ The session aimed to review and optimize [[Python]] scripts for data aggregation
 
 ### Achievements
 - Improved [[Python]] scripts for data aggregation and manipulation, enhancing performance and code quality.
-- Successfully installed and configured essential software on Ubuntu, resolving dependency and configuration issues.
+- Successfully installed and configured essential software on Ubuntu, resolving dependency and [[configuration]] issues.
 - Established a robust [[Python]] development environment using Anaconda and Visual Studio Code.
 
 ### Pending Tasks

@@ -1,6 +1,6 @@
 ---
 title: "Linear Algebra Exercises and Insights Compilation"
-tags: ['Linear Algebra', 'Matrices', 'Condition Numbers', 'Projections', 'Diagonalization']
+tags: ["Linear Algebra", "Matrices", "Condition Numbers", "Projections", "Diagonalization"]
 created: 2024-11-26
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 18:35–18:55**  
 **🏷️ Labels**: Linear Algebra, Matrices, Condition Numbers, Projections, Diagonalization  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

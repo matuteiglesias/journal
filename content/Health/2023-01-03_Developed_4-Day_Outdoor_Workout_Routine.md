@@ -1,6 +1,6 @@
 ---
 title: "Developed 4-Day Outdoor Workout Routine"
-tags: ['Workout', 'Fitness', 'Outdoor', 'Exercise', 'Bodyweight']
+tags: ["Workout", "Fitness", "Outdoor", "Exercise", "Bodyweight"]
 created: 2023-01-03
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 09:20–09:45**  
 **🏷️ Labels**: Workout, Fitness, Outdoor, Exercise, Bodyweight  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

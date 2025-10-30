@@ -1,6 +1,6 @@
 ---
 title: "Diagnosed and Analyzed Temperature Issues in Vehicles"
-tags: ['Diagnóstico', 'Vehículos', 'Sensor Cts', 'Peugeot 207', 'Mantenimiento']
+tags: ["Diagn\u00f3stico", "Veh\u00edculos", "Sensor Cts", "Peugeot 207", "Mantenimiento"]
 created: 2025-06-27
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 17:45–18:05**  
 **🏷️ Labels**: Diagnóstico, Vehículos, Sensor Cts, Peugeot 207, Mantenimiento  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

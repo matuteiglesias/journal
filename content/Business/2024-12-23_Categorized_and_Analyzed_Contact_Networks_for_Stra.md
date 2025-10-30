@@ -1,6 +1,6 @@
 ---
 title: "Categorized and Analyzed Contact Networks for Strategic Management"
-tags: ['Contact Management', 'CRM', 'Network Analysis', 'Strategic Planning']
+tags: ["Contact Management", "CRM", "Network Analysis", "Strategic Planning"]
 created: 2024-12-23
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:40–18:25**  
 **🏷️ Labels**: Contact Management, CRM, Network Analysis, Strategic Planning  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,7 +23,7 @@ The session aimed to categorize and analyze various contact networks to enhance 
 - Mapped political networks to identify medium-relevance contacts and outlined strategies for leveraging these relationships to enhance political influence.
 
 ### Achievements
-- Successfully categorized contacts to improve management and strategic planning.
+- Successfully categorized contacts to improve management and [[strategic planning]].
 - Provided actionable insights and recommendations for CRM and political networks to optimize relationship management.
 
 ### Pending Tasks

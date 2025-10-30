@@ -1,6 +1,6 @@
 ---
 title: "Setup and Deployment of Stable Diffusion Web UI"
-tags: ['Stable Diffusion', 'Web Ui', 'Python', 'Troubleshooting', 'Deployment']
+tags: ["Stable Diffusion", "Web Ui", "Python", "Troubleshooting", "Deployment"]
 created: 2025-06-30
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 13:40–15:10**  
 **🏷️ Labels**: Stable Diffusion, Web Ui, Python, Troubleshooting, Deployment  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The main goal of this session was to set up and deploy the Stable Diffusion Web UI using AUTOMATIC1111's interface on a local environment, ensuring all dependencies are met and troubleshooting any issues that arise.
+The main goal of this session was to set up and deploy the Stable Diffusion Web UI using AUTOMATIC1111's interface on a local environment, ensuring all dependencies are met and [[troubleshooting]] any issues that arise.
 
 ### Key Activities
 - **Environment Setup**: Successfully rebuilt the [[Python]] virtual environment, installed necessary dependencies, and launched the UI with `launch.py`. A warning about `jsonmerge` was noted but was non-blocking.
@@ -24,7 +24,7 @@ The main goal of this session was to set up and deploy the Stable Diffusion Web 
 
 ### Achievements
 - Successfully installed and launched the Stable Diffusion Web UI.
-- Resolved multiple setup and dependency issues, ensuring a smooth deployment process.
+- Resolved multiple setup and dependency issues, ensuring a smooth [[deployment]] process.
 
 ### Pending Tasks
 - Monitor for any further issues with `jsonmerge` and address if it becomes blocking.

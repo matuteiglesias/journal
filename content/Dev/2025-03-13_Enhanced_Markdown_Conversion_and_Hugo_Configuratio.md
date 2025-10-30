@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Markdown Conversion and Hugo Configuration"
-tags: ['Markdown', 'Hugo', 'Jupyter', 'Web Development', 'Python']
+tags: ["Markdown", "Hugo", "Jupyter", "Web Development", "Python"]
 created: 2025-03-13
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 04:15–04:55**  
 **🏷️ Labels**: Markdown, Hugo, Jupyter, Web Development, Python  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to improve the conversion of [[Jupyter]] notebooks to [[Markdown]] and ensure proper configuration of Hugo static site generator for accurate content representation and navigation.
+The session aimed to improve the conversion of [[Jupyter]] notebooks to [[Markdown]] and ensure proper [[configuration]] of Hugo static site generator for accurate content representation and navigation.
 
 ### Key Activities
 - **Title Extraction Fix**: Updated the script to extract titles from [[Jupyter]] notebook metadata for accurate [[Markdown]] conversion.

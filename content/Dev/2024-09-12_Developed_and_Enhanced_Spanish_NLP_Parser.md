@@ -1,6 +1,6 @@
 ---
 title: "Developed and Enhanced Spanish NLP Parser"
-tags: ['NLP', 'Spacy', 'Spanish', 'Parser', 'Entity Extraction']
+tags: ["NLP", "Spacy", "Spanish", "Parser", "Entity Extraction"]
 created: 2024-09-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:15–01:05**  
 **🏷️ Labels**: NLP, Spacy, Spanish, Parser, Entity Extraction  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

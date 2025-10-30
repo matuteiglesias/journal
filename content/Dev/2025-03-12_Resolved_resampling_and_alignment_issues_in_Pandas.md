@@ -1,6 +1,6 @@
 ---
 title: "Resolved resampling and alignment issues in Pandas"
-tags: ['Pandas', 'Data Alignment', 'Resampling', 'Python', 'Data Analysis']
+tags: ["Pandas", "Data Alignment", "Resampling", "Python", "Data Analysis"]
 created: 2025-03-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:00–04:10**  
 **🏷️ Labels**: Pandas, Data Alignment, Resampling, Python, Data Analysis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

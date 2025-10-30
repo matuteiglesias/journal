@@ -1,6 +1,6 @@
 ---
 title: "Installed and Troubleshot SQLite Studio on Linux"
-tags: ['Sqlitestudio', 'Linux', 'Installation', 'Troubleshooting', 'Database Management']
+tags: ["Sqlitestudio", "Linux", "Installation", "Troubleshooting", "Database Management"]
 created: 2023-04-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:40–20:50**  
 **🏷️ Labels**: Sqlitestudio, Linux, Installation, Troubleshooting, Database Management  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

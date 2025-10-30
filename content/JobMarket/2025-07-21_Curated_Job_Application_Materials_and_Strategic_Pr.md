@@ -1,6 +1,6 @@
 ---
 title: "Curated Job Application Materials and Strategic Profiles"
-tags: ['Job Search', 'Career Advice', 'AI', 'Backend Engineering', 'Professional Profile']
+tags: ["Job Search", "Career Advice", "AI", "Backend Engineering", "Professional Profile"]
 created: 2025-07-21
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 22:00–22:50**  
 **🏷️ Labels**: Job Search, Career Advice, AI, Backend Engineering, Professional Profile  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

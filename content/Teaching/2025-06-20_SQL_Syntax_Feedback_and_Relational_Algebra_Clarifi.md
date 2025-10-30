@@ -1,6 +1,6 @@
 ---
 title: "SQL Syntax Feedback and Relational Algebra Clarification"
-tags: ['SQL', 'Relational Algebra', 'Feedback', 'Pedagogy', 'Data Manipulation']
+tags: ["SQL", "Relational Algebra", "Feedback", "Pedagogy", "Data Manipulation"]
 created: 2025-06-20
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 17:50–22:10**  
 **🏷️ Labels**: SQL, Relational Algebra, Feedback, Pedagogy, Data Manipulation  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
-The session aimed to provide feedback on SQL syntax understanding, clarify relational algebra concepts, and explore SQL and pandas data manipulation techniques.
+The session aimed to provide feedback on SQL syntax understanding, clarify relational algebra concepts, and explore SQL and [[pandas]] data manipulation techniques.
 
 ### Key Activities:
 - **Feedback on SQL Syntax Understanding:** Provided insights into a student's SQL syntax comprehension, highlighting areas for improvement and suggesting a more concise pedagogical approach.
@@ -33,4 +33,4 @@ The session aimed to provide feedback on SQL syntax understanding, clarify relat
 - Enhanced understanding of SQL functions and their correct usage.
 
 ### Pending Tasks:
-- Further exploration of SQL and pandas data manipulation techniques is needed, particularly in handling intermediate calculations.
+- Further exploration of SQL and [[pandas]] data manipulation techniques is needed, particularly in handling intermediate calculations.

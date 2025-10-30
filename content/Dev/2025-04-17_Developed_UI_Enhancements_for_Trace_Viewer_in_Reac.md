@@ -1,6 +1,6 @@
 ---
 title: "Developed UI Enhancements for Trace Viewer in React"
-tags: ['React', 'UI', 'Layout', 'Next.Js', 'Tailwind Css']
+tags: ["React", "UI", "Layout", "Next.Js", "Tailwind Css"]
 created: 2025-04-17
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:50–04:00**  
 **🏷️ Labels**: React, UI, Layout, Next.Js, Tailwind Css  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

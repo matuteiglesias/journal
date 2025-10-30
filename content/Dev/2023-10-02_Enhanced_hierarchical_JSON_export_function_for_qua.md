@@ -1,6 +1,6 @@
 ---
 title: "Enhanced hierarchical JSON export function for quarterly data"
-tags: ['Python', 'JSON', 'Data Export', 'Error Handling', 'Code Optimization']
+tags: ["Python", "JSON", "Data Export", "Error Handling", "Code Optimization"]
 created: 2023-10-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:50–18:35**  
 **🏷️ Labels**: Python, JSON, Data Export, Error Handling, Code Optimization  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

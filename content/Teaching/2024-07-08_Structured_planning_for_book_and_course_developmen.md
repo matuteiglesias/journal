@@ -1,6 +1,6 @@
 ---
 title: "Structured planning for book and course development"
-tags: ['Book Writing', 'Course Development', "O'Reilly", 'Education', 'Curriculum']
+tags: ["Book Writing", "Course Development", "O'Reilly", "Education", "Curriculum"]
 created: 2024-07-08
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:10–15:25**  
 **🏷️ Labels**: Book Writing, Course Development, O'Reilly, Education, Curriculum  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,7 +21,7 @@ The session aimed to structure and plan content for both book publishing and edu
 - Offered assistance for LCD - Materias, indicating readiness to support inquiries related to specific topics.
 - Saved curriculum details for the 'Licenciatura en Ciencias de Datos' at FCEN UBA, ensuring preparedness for future educational support.
 - Developed a course outline for 'Introducción al Modelado Continuo', detailing prerequisites and modules on differential equations, Fourier analysis, and numerical methods.
-- Expanded the course outline to include comprehensive modules and assessment methods for a robust education in continuous modeling.
+- Expanded the course outline to include comprehensive modules and assessment methods for a robust [[education]] in continuous modeling.
 
 ### Achievements
 - Established a clear plan for managing book content and structuring future writing sessions.

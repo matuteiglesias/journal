@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Aggregate Volatility and Sales Dynamics"
-tags: ['Volatility', 'Sales Dynamics', 'Economic Analysis', 'Mathematics', 'Statistics']
+tags: ["Volatility", "Sales Dynamics", "Economic Analysis", "Mathematics", "Statistics"]
 created: 2023-10-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:05–06:30**  
 **🏷️ Labels**: Volatility, Sales Dynamics, Economic Analysis, Mathematics, Statistics  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

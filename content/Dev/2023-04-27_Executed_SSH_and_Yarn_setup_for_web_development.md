@@ -1,6 +1,6 @@
 ---
 title: "Executed SSH and Yarn setup for web development"
-tags: ['SSH', 'Yarn', 'Web Development', 'Command Line', 'Build Process']
+tags: ["SSH", "Yarn", "Web Development", "Command Line", "Build Process"]
 created: 2023-04-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 23:30–23:50**  
 **🏷️ Labels**: SSH, Yarn, Web Development, Command Line, Build Process  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,7 +19,7 @@ The session aimed to configure remote server access and set up a development env
 ### Key Activities
 - **SSH Login Instructions:** Detailed guide on logging into a server using SSH, including command syntax and necessary credentials.
 - **Directory Management:** Renamed the 'matiascv' directory to 'cv' using the `mv` command.
-- **Web Project Build Steps:** Explored the build steps in web projects, focusing on identifying and executing scripts in the `package.json` file.
+- **Web Project Build Steps:** Explored the build steps in web projects, focusing on identifying and executing scripts in the `package.[[json]]` file.
 - **Yarn Setup:** Verified Yarn installation and resolved lockfile errors by running `yarn install`. Started a development server using Yarn.
 
 ### Achievements

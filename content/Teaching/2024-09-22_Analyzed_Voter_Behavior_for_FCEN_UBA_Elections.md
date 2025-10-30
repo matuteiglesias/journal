@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Voter Behavior for FCEN UBA Elections"
-tags: ['Elections', 'Data Analysis', 'Voter Behavior', 'FCEN UBA']
+tags: ["Elections", "Data Analysis", "Voter Behavior", "FCEN UBA"]
 created: 2024-09-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 05:35–06:00**  
 **🏷️ Labels**: Elections, Data Analysis, Voter Behavior, FCEN UBA  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

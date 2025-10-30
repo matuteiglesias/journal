@@ -1,6 +1,6 @@
 ---
 title: "Analysis and Enhancement of Gauss-Seidel Method"
-tags: ['Gauss-Seidel', 'Convergence', 'Numerical Methods', 'Python', 'Algorithm Improvement']
+tags: ["Gauss-Seidel", "Convergence", "Numerical Methods", "Python", "Algorithm Improvement"]
 created: 2024-11-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:30–19:00**  
 **🏷️ Labels**: Gauss-Seidel, Convergence, Numerical Methods, Python, Algorithm Improvement  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

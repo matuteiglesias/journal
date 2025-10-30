@@ -1,6 +1,6 @@
 ---
 title: "Enhanced CRM and Marketplace Communication Strategies"
-tags: ['CRM', 'Marketplace', 'Lead Management', 'Communication', 'Productivity']
+tags: ["CRM", "Marketplace", "Lead Management", "Communication", "Productivity"]
 created: 2025-07-04
 publish: true
 ---
@@ -10,16 +10,16 @@ publish: true
 **🕒 19:30–20:05**  
 **🏷️ Labels**: CRM, Marketplace, Lead Management, Communication, Productivity  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to optimize CRM lead management and enhance marketplace communication strategies.
+The session aimed to optimize CRM lead management and enhance marketplace [[communication]] strategies.
 
 ### Key Activities
-- Developed a structured checklist for mid-day productivity resets, focusing on physiological resets, prioritization, and time management.
+- Developed a structured checklist for mid-day [[productivity]] resets, focusing on physiological resets, prioritization, and time management.
 - Created a micro-plan for catching up on Rental-CRM leads, detailing steps for triage, messaging, and follow-ups.
-- Outlined recommended columns for a lead tracking table to improve lead management and automation.
+- Outlined recommended columns for a lead tracking table to improve lead management and [[automation]].
 - Designed a [[CSV]] structure for lead management, specifying required fields and formats for data export.
 - Logged marketplace inquiries and follow-up actions, including contact details and requirements.
 - Documented follow-up communications with marketplace contacts regarding contract details and visit confirmations.

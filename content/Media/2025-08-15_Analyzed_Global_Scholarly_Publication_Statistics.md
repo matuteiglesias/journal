@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Global Scholarly Publication Statistics"
-tags: ['Scholarly Articles', 'Data Analysis', 'Python', 'Data Storage', 'Publication Statistics']
+tags: ["Scholarly Articles", "Data Analysis", "Python", "Data Storage", "Publication Statistics"]
 created: 2025-08-15
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 11:55–12:05**  
 **🏷️ Labels**: Scholarly Articles, Data Analysis, Python, Data Storage, Publication Statistics  
 **📂 Project**: Media  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,7 +25,7 @@ The session aimed to analyze global scholarly publication statistics, focusing o
 
 ### Achievements
 - Successfully gathered and analyzed data on scholarly article publications, providing insights into historical and current trends.
-- Developed a comprehensive set of [[Python]] functions and scripts to facilitate data analysis and storage estimation.
+- Developed a comprehensive set of [[Python]] functions and scripts to facilitate [[data analysis]] and storage estimation.
 
 ### Pending Tasks
 - Further analysis is needed to refine projections for future scholarly outputs and their storage implications.

@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Dendrogram Visualization and Wiki Structuring"
-tags: ['Dendrogram', 'Visualization', 'Docusaurus', 'Clustering', 'Semantic Embeddings']
+tags: ["Dendrogram", "Visualization", "Docusaurus", "Clustering", "Semantic Embeddings"]
 created: 2025-05-22
 publish: true
 ---
@@ -10,15 +10,15 @@ publish: true
 **🕒 06:25–07:25**  
 **🏷️ Labels**: Dendrogram, Visualization, Docusaurus, Clustering, Semantic Embeddings  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session focused on enhancing dendrogram visualization techniques and structuring a [[Docusaurus]] wiki for better knowledge management and user interaction.
+The session focused on enhancing dendrogram [[visualization]] techniques and structuring a [[Docusaurus]] wiki for better knowledge management and user interaction.
 
 ### Key Activities
-- Improved dendrogram visualization by refining cluster separation, tick label readability, and layout.
-- Refined TF-IDF vectorization and dendrogram visualization code for clarity in clustering.
+- Improved dendrogram [[visualization]] by refining cluster separation, tick label readability, and layout.
+- Refined TF-IDF vectorization and dendrogram [[visualization]] code for clarity in clustering.
 - Discussed the use of Chroma embeddings for clustering, emphasizing semantic over TF-IDF methods.
 - Provided [[Python]] code for hierarchical clustering using semantic embeddings.
 - Extracted sorted IDs from hierarchical clustering using `scipy`.
@@ -28,7 +28,7 @@ The session focused on enhancing dendrogram visualization techniques and structu
 - Mapped dendrogram entries to proposed wiki sections, aligning with strategic content framing.
 
 ### Achievements
-- Enhanced dendrogram visualization techniques were developed and documented.
+- Enhanced dendrogram [[visualization]] techniques were developed and documented.
 - A comprehensive plan for [[Docusaurus]] wiki structuring was created, including section architecture and content mapping.
 
 ### Pending Tasks

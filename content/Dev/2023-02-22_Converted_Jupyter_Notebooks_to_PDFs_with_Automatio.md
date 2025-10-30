@@ -1,6 +1,6 @@
 ---
 title: "Converted Jupyter Notebooks to PDFs with Automation"
-tags: ['Jupyter', 'PDF', 'Automation', 'Command Line', 'Team Communication']
+tags: ["Jupyter", "PDF", "Automation", "Command Line", "Team Communication"]
 created: 2023-02-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:55–15:45**  
 **🏷️ Labels**: Jupyter, PDF, Automation, Command Line, Team Communication  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -22,13 +22,13 @@ The primary goal of this session was to automate the conversion of [[Jupyter]] N
 3. **[[Troubleshooting]] nbconvert**: Addressed errors in the nbconvert command by verifying commands, checking directories, and updating versions.
 4. **Directory Structure Preservation**: Used a bash command to ensure the directory structure is maintained during PDF conversion.
 5. **Tree Command Usage**: Explained the use of the `tree` command to display subdirectory structures and save them to a file.
-6. **Team [[Communication]]**: Uploaded code to Dropbox and offered to enhance communication regarding code updates, including scheduling a call with Eric.
+6. **Team [[Communication]]**: Uploaded code to Dropbox and offered to enhance [[communication]] regarding code updates, including scheduling a call with Eric.
 
 ### Achievements
 - Successfully automated the conversion of [[Jupyter]] Notebooks to PDFs while preserving directory structures.
 - Resolved nbconvert command errors and ensured smooth execution of the conversion process.
-- Enhanced team communication by sharing code updates and scheduling further discussions.
+- Enhanced team [[communication]] by sharing code updates and scheduling further discussions.
 
 ### Pending Tasks
 - Further exploration of parameter p1's impact on treatment assignment in future sessions.
-- Follow-up on the scheduled call with Eric to discuss code communication improvements.
+- Follow-up on the scheduled call with Eric to discuss code [[communication]] improvements.

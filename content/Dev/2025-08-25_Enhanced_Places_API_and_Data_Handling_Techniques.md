@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Places API and Data Handling Techniques"
-tags: ['Places Api', 'Data Cleaning', 'Google Cloud', 'Csv Handling', 'Python']
+tags: ["Places Api", "Data Cleaning", "Google Cloud", "Csv Handling", "Python"]
 created: 2025-08-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:35–22:50**  
 **🏷️ Labels**: Places Api, Data Cleaning, Google Cloud, Csv Handling, Python  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,7 +19,7 @@ The session aimed to refine the handling of Google Cloud's Places [[API]] and im
 ### Key Activities
 - **[[API]] Management**: Adjusted the field mask and flatten logic for the Places [[API]] v1 by replacing `places.placeId` with `places.name` and deriving Place IDs accordingly.
 - **[[API]] Usage [[Optimization]]**: Explored SKU tiers in Google Cloud's Places [[API]] to understand billing impacts and optimize [[API]] usage.
-- **Data Loading and Cleaning**: Loaded a [[CSV]] file of Buenos Aires restaurant data into a [[Pandas]] DataFrame, displaying initial data insights and performing data cleaning to address missing values.
+- **Data Loading and Cleaning**: Loaded a [[CSV]] file of Buenos Aires restaurant data into a [[Pandas]] [[DataFrame]], displaying initial data insights and performing data cleaning to address missing values.
 - **[[CSV]] Data Retrieval**: Provided guidance on field masking for [[CSV]] data retrieval to ensure completeness of desired fields.
 
 ### Achievements
@@ -29,4 +29,4 @@ The session aimed to refine the handling of Google Cloud's Places [[API]] and im
 
 ### Pending Tasks
 - Further refine [[API]] usage strategies to minimize costs while maximizing data retrieval efficiency.
-- Continue data analysis on the cleaned restaurant dataset to extract actionable insights.
+- Continue [[data analysis]] on the cleaned restaurant dataset to extract actionable insights.

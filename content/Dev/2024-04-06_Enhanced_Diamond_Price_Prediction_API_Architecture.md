@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Diamond Price Prediction API Architecture"
-tags: ['API', 'Machine Learning', 'Python', 'Data Preprocessing', 'Software Architecture']
+tags: ["API", "Machine Learning", "Python", "Data Preprocessing", "Software Architecture"]
 created: 2024-04-06
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:50–17:30**  
 **🏷️ Labels**: API, Machine Learning, Python, Data Preprocessing, Software Architecture  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

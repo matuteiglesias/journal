@@ -1,6 +1,6 @@
 ---
 title: "Strategic Proposals for LCD Program Enhancement"
-tags: ['Community Engagement', 'Transparency', 'Interdisciplinary Collaboration', 'Ethical Practice', 'Curriculum Development']
+tags: ["Community Engagement", "Transparency", "Interdisciplinary Collaboration", "Ethical Practice", "Curriculum Development"]
 created: 2024-11-05
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 12:05–13:20**  
 **🏷️ Labels**: Community Engagement, Transparency, Interdisciplinary Collaboration, Ethical Practice, Curriculum Development  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

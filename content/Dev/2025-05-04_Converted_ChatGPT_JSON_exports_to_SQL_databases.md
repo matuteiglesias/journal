@@ -1,6 +1,6 @@
 ---
 title: "Converted ChatGPT JSON exports to SQL databases"
-tags: ['Chatgpt', 'SQL', 'JSON', 'Database', 'Python']
+tags: ["Chatgpt", "SQL", "JSON", "Database", "Python"]
 created: 2025-05-04
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 00:45–00:55**  
 **🏷️ Labels**: Chatgpt, SQL, JSON, Database, Python  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The primary goal of this session was to explore and execute the conversion of ChatGPT conversation data exports into structured SQL databases, facilitating enhanced data management and querying capabilities.
+The primary goal of this session was to explore and execute the conversion of ChatGPT conversation data exports into structured SQL databases, facilitating enhanced [[data management]] and querying capabilities.
 
 ### Key Activities
 - **Data Export and Processing**: Initiated with a comprehensive guide on exporting ChatGPT data, understanding file formats, and cleaning the data for further use.
@@ -32,5 +32,5 @@ The primary goal of this session was to explore and execute the conversion of Ch
 - Enhanced understanding of database design and interaction methods for [[AI]] development workflows.
 
 ### Pending Tasks
-- Further automation of the conversion process to streamline future data handling sessions.
-- Exploration of additional database optimization techniques for improved performance and scalability.
+- Further [[automation]] of the conversion process to streamline future data handling sessions.
+- Exploration of additional database [[optimization]] techniques for improved performance and scalability.

@@ -1,6 +1,6 @@
 ---
 title: "Explored Plant Protection and Cursor Diagnostics"
-tags: ['Gardening', 'Pest Control', 'Hardware', 'Troubleshooting', 'Natural Repellents']
+tags: ["Gardening", "Pest Control", "Hardware", "Troubleshooting", "Natural Repellents"]
 created: 2023-10-12
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 09:50–10:20**  
 **🏷️ Labels**: Gardening, Pest Control, Hardware, Troubleshooting, Natural Repellents  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -33,4 +33,4 @@ The session aimed to explore various strategies for plant protection from pests 
 
 ### Pending Tasks:
 - Further exploration of additional plant protection methods and their effectiveness.
-- Continued troubleshooting of hardware-related cursor issues to identify more precise solutions.
+- Continued [[troubleshooting]] of hardware-related cursor issues to identify more precise solutions.

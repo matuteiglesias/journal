@@ -1,6 +1,6 @@
 ---
 title: "Developed comprehensive calisthenics workout routine"
-tags: ['Fitness', 'Workout', 'Calisthenics', 'Cardio', 'Strength Training']
+tags: ["Fitness", "Workout", "Calisthenics", "Cardio", "Strength Training"]
 created: 2025-03-20
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 23:00–23:10**  
 **🏷️ Labels**: Fitness, Workout, Calisthenics, Cardio, Strength Training  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -22,7 +22,7 @@ The goal of this session was to develop a comprehensive calisthenics workout rou
 - Designed a simple exercise circuit including squats, push-ups, and bench dips, with structured rest periods.
 - Recommended a full-body workout routine targeting legs, upper body, triceps, and core for balanced strength training.
 - Suggested a basic training routine with options to increase repetitions or add lunges for variety.
-- Planned a balanced fitness strategy combining calisthenics and cardio exercises like running or sprints.
+- Planned a balanced fitness [[strategy]] combining calisthenics and cardio exercises like running or sprints.
 
 ### Achievements
 - Successfully created a structured workout plan that includes both strength and cardio components, ensuring a holistic approach to fitness.

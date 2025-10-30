@@ -1,6 +1,6 @@
 ---
 title: "Explored Decision-Making Practices and Tools"
-tags: ['Decision-Making', 'Strategic Thinking', 'Leadership', 'Self-Improvement', 'Executive Effectiveness']
+tags: ["Decision-Making", "Strategic Thinking", "Leadership", "Self-Improvement", "Executive Effectiveness"]
 created: 2024-02-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:15–19:50**  
 **🏷️ Labels**: Decision-Making, Strategic Thinking, Leadership, Self-Improvement, Executive Effectiveness  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

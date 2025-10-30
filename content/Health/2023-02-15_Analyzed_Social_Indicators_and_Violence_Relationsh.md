@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Social Indicators and Violence Relationship"
-tags: ['Violence', 'Social Indicators', 'Research Methodology', 'Propensity Score Matching', 'Confounding Variables']
+tags: ["Violence", "Social Indicators", "Research Methodology", "Propensity Score Matching", "Confounding Variables"]
 created: 2023-02-15
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 03:15–04:00**  
 **🏷️ Labels**: Violence, Social Indicators, Research Methodology, Propensity Score Matching, Confounding Variables  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

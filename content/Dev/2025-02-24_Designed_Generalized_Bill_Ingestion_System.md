@@ -1,6 +1,6 @@
 ---
 title: "Designed Generalized Bill Ingestion System"
-tags: ['Bill Ingestion', 'Data Parsing', 'Automation', 'Financial Reporting', 'Pdf Processing']
+tags: ["Bill Ingestion", "Data Parsing", "Automation", "Financial Reporting", "Pdf Processing"]
 created: 2025-02-24
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:15–21:50**  
 **🏷️ Labels**: Bill Ingestion, Data Parsing, Automation, Financial Reporting, Pdf Processing  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,7 +25,7 @@ The session aimed to design a generalized bill ingestion system capable of parsi
 - Conducted a deep dive into property tax bills, analyzing their structures and suggesting parser creation.
 
 ### Achievements
-- Established a comprehensive framework for bill ingestion and financial data processing.
+- Established a comprehensive framework for bill ingestion and financial [[data processing]].
 - Clarified the differences and data structure needs for various financial documents.
 
 ### Pending Tasks

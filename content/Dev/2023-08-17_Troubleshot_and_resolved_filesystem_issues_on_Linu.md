@@ -1,6 +1,6 @@
 ---
 title: "Troubleshot and resolved filesystem issues on Linux"
-tags: ['Filesystem', 'Troubleshooting', 'Linux', 'Data Recovery', 'External Drive']
+tags: ["Filesystem", "Troubleshooting", "Linux", "Data Recovery", "External Drive"]
 created: 2023-08-17
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:00–03:35**  
 **🏷️ Labels**: Filesystem, Troubleshooting, Linux, Data Recovery, External Drive  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -22,7 +22,7 @@ The session aimed to troubleshoot and resolve various filesystem-related issues 
 - Addressing file access issues by diagnosing potential causes such as corrupted filesystems, symbolic links, hardware problems, and network drive issues.
 - Safely removing problematic files using command-line instructions, including navigation, verification, and deletion.
 - Resolving 'Input/output error' issues by deleting files using inode numbers, performing filesystem checks, and checking for hardware issues.
-- Systematically troubleshooting filesystem corruption, including backing up data, checking the filesystem, assessing hardware health, and considering reformatting.
+- Systematically [[troubleshooting]] filesystem corruption, including backing up data, checking the filesystem, assessing hardware health, and considering reformatting.
 
 **Achievements:**
 - Successfully identified and addressed various filesystem issues, improving system stability and data accessibility.

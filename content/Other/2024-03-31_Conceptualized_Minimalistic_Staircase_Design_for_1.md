@@ -1,6 +1,6 @@
 ---
 title: "Conceptualized Minimalistic Staircase Design for 1960s Apartment"
-tags: ['Architecture', 'Minimalism', 'Interior Design', 'Visualization', '1960S']
+tags: ["Architecture", "Minimalism", "Interior Design", "Visualization", "1960S"]
 created: 2024-03-31
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 04:15–04:30**  
 **🏷️ Labels**: Architecture, Minimalism, Interior Design, Visualization, 1960S  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

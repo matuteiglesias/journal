@@ -1,6 +1,6 @@
 ---
 title: "Explored project focus, data science, and personal growth"
-tags: ['Projects', 'Data_Science', 'Personal_Growth', 'Content_Creation', 'Political_Analysis']
+tags: ["Projects", "Data_Science", "Personal_Growth", "Content_Creation", "Political_Analysis"]
 created: 2025-01-08
 publish: true
 ---
@@ -10,15 +10,15 @@ publish: true
 **🕒 04:15–04:35**  
 **🏷️ Labels**: Projects, Data_Science, Personal_Growth, Content_Creation, Political_Analysis  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to explore various aspects of project focus, data science career path, personal growth, and content creation strategies.
+The session aimed to explore various aspects of project focus, [[data science]] career path, personal growth, and content creation strategies.
 
 ### Key Activities
 - Discussed ongoing projects, including an online portfolio and updates to a poverty section, emphasizing the need for improved coordination within a career commission.
-- Explored personal experiences in data science and artificial intelligence, reflecting on university trajectory and involvement in academic committees.
+- Explored personal experiences in [[data science]] and artificial intelligence, reflecting on university trajectory and involvement in academic committees.
 - Reflected on unfulfilled dreams and goals as a starting point for deeper personal exploration.
 - Discussed the combination of politics and narrative to transform defeat into inspiration.
 - Suggested structuring personal experiences with political analysis for unique content creation.

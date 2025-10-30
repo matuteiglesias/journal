@@ -1,6 +1,6 @@
 ---
 title: "Developed RAGFlow SaaS Monetization Strategy"
-tags: ['Ragflow', 'Saas', 'Monetization', 'Business Model', 'Team Planning']
+tags: ["Ragflow", "Saas", "Monetization", "Business Model", "Team Planning"]
 created: 2025-05-20
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 21:20–21:40**  
 **🏷️ Labels**: Ragflow, Saas, Monetization, Business Model, Team Planning  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to develop a comprehensive strategy for converting the RAGFlow-based system into a paywalled SaaS product.
+The session aimed to develop a comprehensive [[strategy]] for converting the RAGFlow-based system into a paywalled SaaS product.
 
 ### Key Activities
 - **Checklist Creation**: Developed detailed checklists for minimal code changes required to implement access control, billing logic, branding, analytics, and hardening measures.

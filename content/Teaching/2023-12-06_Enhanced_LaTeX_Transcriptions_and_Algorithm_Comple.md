@@ -1,6 +1,6 @@
 ---
 title: "Enhanced LaTeX Transcriptions and Algorithm Complexity Analysis"
-tags: ['Latex', 'Np Problems', 'Algorithm Complexity', 'DISCO-DOM', 'Student Evaluation']
+tags: ["Latex", "Np Problems", "Algorithm Complexity", "DISCO-DOM", "Student Evaluation"]
 created: 2023-12-06
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:20–21:30**  
 **🏷️ Labels**: Latex, Np Problems, Algorithm Complexity, DISCO-DOM, Student Evaluation  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

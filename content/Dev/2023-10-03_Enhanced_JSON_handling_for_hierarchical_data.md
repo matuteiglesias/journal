@@ -1,6 +1,6 @@
 ---
 title: "Enhanced JSON handling for hierarchical data"
-tags: ['JSON', 'Python', 'Data Processing', 'Time Series', 'Debugging']
+tags: ["JSON", "Python", "Data Processing", "Time Series", "Debugging"]
 created: 2023-10-03
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:45–22:50**  
 **🏷️ Labels**: JSON, Python, Data Processing, Time Series, Debugging  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -22,11 +22,11 @@ The session aimed to enhance the handling of [[JSON]] data structures, focusing 
 - **Redesign of [[JSON]] Export Functions:** Redesigned the `exportar_a_json_jerarquico` and `merge_jsons` functions to create hierarchical [[JSON]] structures for compressed time series data.
 - **Incorporation of Metadata:** Updated the `exportar_a_json_jerarquico` function to include metadata fields like `last_updated`, `frecuencia`, and `frac`.
 - **Function to Merge [[JSON]] Structures:** Developed a function to merge [[JSON]] structures, preserving existing data and appending new entries.
-- **Verbose Logging:** Implemented logging in the `merge_jsons` function to aid debugging.
+- **Verbose Logging:** Implemented logging in the `merge_jsons` function to aid [[debugging]].
 
 ### Achievements
 - Successfully redesigned and implemented functions for exporting and merging hierarchical [[JSON]] structures.
-- Enhanced [[JSON]] functions with metadata incorporation and improved debugging capabilities.
+- Enhanced [[JSON]] functions with metadata incorporation and improved [[debugging]] capabilities.
 
 ### Pending Tasks
 - Further testing and validation of the [[JSON]] functions in diverse data scenarios to ensure robustness and accuracy.

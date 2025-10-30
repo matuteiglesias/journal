@@ -1,6 +1,6 @@
 ---
 title: "Conducted literature review on economic shocks"
-tags: ['Economic Shocks', 'Literature Review', 'Econometrics', 'Simulation Techniques', 'Research Gaps']
+tags: ["Economic Shocks", "Literature Review", "Econometrics", "Simulation Techniques", "Research Gaps"]
 created: 2024-06-24
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:30–02:10**  
 **🏷️ Labels**: Economic Shocks, Literature Review, Econometrics, Simulation Techniques, Research Gaps  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The session aimed to conduct a comprehensive literature review on economic shock
 - Reviewed key literature on economic shocks, highlighting significant contributions and existing research gaps.
 - Analyzed Laura Mayoral's paper on shock persistence and its implications for economic simulations using bootstrap methods.
 - Explored various econometric identification methods, such as Cholesky decompositions and SVAR, for enhancing economic shock research.
-- Discussed the integration of FAVARs and DSGE models in economic shock analysis, focusing on impulse response estimation and nonlinearities.
+- Discussed the [[integration]] of FAVARs and DSGE models in economic shock analysis, focusing on impulse response estimation and nonlinearities.
 - Differentiated between theoretical identification and empirical accounting of economic shocks, emphasizing practical policy implications.
 
 ### Achievements

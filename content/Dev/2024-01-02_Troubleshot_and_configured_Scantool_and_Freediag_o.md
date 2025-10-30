@@ -1,6 +1,6 @@
 ---
 title: "Troubleshot and configured Scantool and Freediag on Linux"
-tags: ['Scantool', 'Freediag', 'Linux', 'Troubleshooting', 'OBD-II']
+tags: ["Scantool", "Freediag", "Linux", "Troubleshooting", "OBD-II"]
 created: 2024-01-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:50–16:15**  
 **🏷️ Labels**: Scantool, Freediag, Linux, Troubleshooting, OBD-II  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Developed Framework for Secure Electronic Voting"
-tags: ['Electronic Voting', 'University', 'Security', 'Codep', 'Governance']
+tags: ["Electronic Voting", "University", "Security", "Codep", "Governance"]
 created: 2024-03-09
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:20–00:50**  
 **🏷️ Labels**: Electronic Voting, University, Security, Codep, Governance  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

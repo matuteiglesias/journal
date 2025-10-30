@@ -1,6 +1,6 @@
 ---
 title: "Developed Research Paper Outlines for Econometrica"
-tags: ['Economic Volatility', 'Firm Dynamics', 'Econometrica', 'Research Paper', 'Collaboration']
+tags: ["Economic Volatility", "Firm Dynamics", "Econometrica", "Research Paper", "Collaboration"]
 created: 2023-10-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:05–23:58**  
 **🏷️ Labels**: Economic Volatility, Firm Dynamics, Econometrica, Research Paper, Collaboration  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

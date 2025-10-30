@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Workplace and Group Dynamics for Improvement"
-tags: ['Workplace Harassment', 'Organizational Psychology', 'Group Dynamics', 'Communication', 'Conflict Management']
+tags: ["Workplace Harassment", "Organizational Psychology", "Group Dynamics", "Communication", "Conflict Management"]
 created: 2023-12-08
 publish: false
 ---
@@ -10,16 +10,16 @@ publish: false
 **🕒 17:45–20:05**  
 **🏷️ Labels**: Workplace Harassment, Organizational Psychology, Group Dynamics, Communication, Conflict Management  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to analyze workplace interactions and group dynamics to identify issues such as harassment, communication problems, and interpersonal conflicts within organizational settings.
+The session aimed to analyze workplace interactions and group dynamics to identify issues such as harassment, [[communication]] problems, and interpersonal conflicts within organizational settings.
 
 **Key Activities:**
 - Developed a structured prompt for analyzing workplace interactions, focusing on identifying signs of harassment and problematic behaviors using principles from organizational psychology.
 - Conducted an analysis of workplace dialogues to detect signs of harassment or inappropriate behavior.
-- Reflected on interpersonal dynamics, identifying communication issues, lack of recognition, defensive attitudes, and conflict management difficulties.
+- Reflected on interpersonal dynamics, identifying [[communication]] issues, lack of recognition, defensive attitudes, and conflict management difficulties.
 - Suggested strategies for conflict resolution and professional counseling.
 - Analyzed group dynamics, highlighting discrepancies in expectations and the importance of conflict and emotion management.
 - Provided steps for personal reflection to improve group dynamics through self-assessment and constructive feedback.
@@ -30,4 +30,4 @@ The session aimed to analyze workplace interactions and group dynamics to identi
 
 **Pending Tasks:**
 - Implement suggested conflict resolution strategies and professional counseling.
-- Encourage personal reflection and feedback mechanisms within teams to enhance communication and support.
+- Encourage personal reflection and feedback mechanisms within teams to enhance [[communication]] and support.

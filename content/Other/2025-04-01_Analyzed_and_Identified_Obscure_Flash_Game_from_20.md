@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Identified Obscure Flash Game from 2000s"
-tags: ['Flash Games', 'Game Identification', 'Nostalgia', 'Music', 'Snowcraft']
+tags: ["Flash Games", "Game Identification", "Nostalgia", "Music", "Snowcraft"]
 created: 2025-04-01
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 04:40–05:00**  
 **🏷️ Labels**: Flash Games, Game Identification, Nostalgia, Music, Snowcraft  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

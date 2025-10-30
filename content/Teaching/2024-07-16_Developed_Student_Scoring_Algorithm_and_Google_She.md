@@ -1,6 +1,6 @@
 ---
 title: "Developed Student Scoring Algorithm and Google Sheets Integration"
-tags: ['Algorithm', 'Google Sheets', 'Scoring', 'Education', 'Formulas']
+tags: ["Algorithm", "Google Sheets", "Scoring", "Education", "Formulas"]
 created: 2024-07-16
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:10–00:35**  
 **🏷️ Labels**: Algorithm, Google Sheets, Scoring, Education, Formulas  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

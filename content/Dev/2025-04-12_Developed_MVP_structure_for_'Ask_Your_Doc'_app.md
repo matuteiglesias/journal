@@ -1,6 +1,6 @@
 ---
 title: "Developed MVP structure for 'Ask Your Doc' app"
-tags: ['MVP', 'Development', 'AI', 'React', 'Fastapi']
+tags: ["MVP", "Development", "AI", "React", "Fastapi"]
 created: 2025-04-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:30–17:40**  
 **🏷️ Labels**: MVP, Development, AI, React, Fastapi  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,7 +21,7 @@ The primary goal of this session was to design and plan the development of a min
 - **React Hooks Overview:** Reviewed `useState` and `useEffect` hooks in React to enhance interactive component development.
 - **LangChain Prompt Engine:** Designed a LangChain-compatible prompt engine to be integrated into the MVP, focusing on modularity and interoperability.
 - **Frontend and Backend Setup:** Provided a step-by-step guide for setting up the project using Next.js, Tailwind, and FastAPI.
-- **[[Integration]] [[Strategy]]:** Developed a strategy for integrating LangUI components into the app, ensuring a clean structure.
+- **[[Integration]] [[Strategy]]:** Developed a [[strategy]] for integrating LangUI components into the app, ensuring a clean structure.
 
 ### Achievements
 - Established a comprehensive plan for the 'Ask Your Doc' MVP, detailing both frontend and backend components.
@@ -30,5 +30,5 @@ The primary goal of this session was to design and plan the development of a min
 
 ### Pending Tasks
 - Implement the backend [[API]] endpoints and frontend components as per the outlined plan.
-- Finalize the integration of LangUI components into the app.
+- Finalize the [[integration]] of LangUI components into the app.
 - Conduct testing and validation of the MVP features.

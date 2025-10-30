@@ -1,6 +1,6 @@
 ---
 title: "Implemented MOSS for plagiarism detection in assignments"
-tags: ['MOSS', 'Python', 'Plagiarism Detection', 'Automation', 'Scripting']
+tags: ["MOSS", "Python", "Plagiarism Detection", "Automation", "Scripting"]
 created: 2024-06-24
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:35–16:35**  
 **🏷️ Labels**: MOSS, Python, Plagiarism Detection, Automation, Scripting  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

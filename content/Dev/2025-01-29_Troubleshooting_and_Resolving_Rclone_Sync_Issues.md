@@ -1,6 +1,6 @@
 ---
 title: "Troubleshooting and Resolving Rclone Sync Issues"
-tags: ['Rclone', 'Google Drive', 'Sync', 'Troubleshooting', 'Automation']
+tags: ["Rclone", "Google Drive", "Sync", "Troubleshooting", "Automation"]
 created: 2025-01-29
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:15–19:05**  
 **🏷️ Labels**: Rclone, Google Drive, Sync, Troubleshooting, Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

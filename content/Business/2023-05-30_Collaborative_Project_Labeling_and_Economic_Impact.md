@@ -1,6 +1,6 @@
 ---
 title: "Collaborative Project Labeling and Economic Impact Analysis"
-tags: ['Project Management', 'Machine Learning', 'Economic Impact', 'Job Creation', 'International Development']
+tags: ["Project Management", "Machine Learning", "Economic Impact", "Job Creation", "International Development"]
 created: 2023-05-30
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 08:15–08:50**  
 **🏷️ Labels**: Project Management, Machine Learning, Economic Impact, Job Creation, International Development  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to collaborate on project labeling for a machine learning dataset and reflect on the economic impact of various international development projects.
+The session aimed to collaborate on project labeling for a [[machine learning]] dataset and reflect on the economic impact of various international development projects.
 
 **Key Activities:**
 - Collaborated with Eric and Liwen to manually review and label development projects related to social stability using the AidData database.
@@ -24,7 +24,7 @@ The session aimed to collaborate on project labeling for a machine learning data
 - Categorized initiatives into job-creating and non-job-creating, discussing their economic impacts.
 
 **Achievements:**
-- Successfully outlined a collaborative workflow for project labeling.
+- Successfully outlined a collaborative [[workflow]] for project labeling.
 - Gained insights into the job creation potential of various international development projects.
 - Developed a comprehensive guide on economic impact analysis.
 

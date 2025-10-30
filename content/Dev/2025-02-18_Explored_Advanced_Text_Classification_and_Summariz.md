@@ -1,6 +1,6 @@
 ---
 title: "Explored Advanced Text Classification and Summarization Techniques"
-tags: ['Text Classification', 'Summarization', 'Hugging Face', 'NLP', 'Optimization']
+tags: ["Text Classification", "Summarization", "Hugging Face", "NLP", "Optimization"]
 created: 2025-02-18
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:50–19:50**  
 **🏷️ Labels**: Text Classification, Summarization, Hugging Face, NLP, Optimization  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,8 +23,8 @@ The session aimed to explore advanced techniques in text classification and summ
 - Examined fast large-scale summarization methods using DistilBART and BERT.
 - Set up RunPod for GPU-accelerated summarization, detailing dependency installation and script execution.
 - Analyzed performance slowdowns in summarization, identifying model downloading as a bottleneck and suggesting optimizations.
-- Analyzed BART model performance issues, offering strategies for runtime optimization.
-- Reflected on the computational costs of text summarization versus classification, providing insights into optimization strategies.
+- Analyzed BART model performance issues, offering strategies for runtime [[optimization]].
+- Reflected on the computational costs of text summarization versus classification, providing insights into [[optimization]] strategies.
 - Provided guidelines for ideal length ratios in summarization.
 
 ### Achievements

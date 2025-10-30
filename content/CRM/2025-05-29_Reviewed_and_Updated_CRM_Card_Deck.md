@@ -1,6 +1,6 @@
 ---
 title: "Reviewed and Updated CRM Card Deck"
-tags: ['CRM', 'Cleanup', 'News Integration', 'Card Deck']
+tags: ["CRM", "Cleanup", "News Integration", "Card Deck"]
 created: 2025-05-29
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:20–21:20**  
 **🏷️ Labels**: CRM, Cleanup, News Integration, Card Deck  
 **📂 Project**: CRM  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

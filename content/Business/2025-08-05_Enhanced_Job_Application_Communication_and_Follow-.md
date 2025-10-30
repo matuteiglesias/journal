@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Job Application Communication and Follow-Up"
-tags: ['Job Application', 'Communication', 'Portfolio', 'Snowflake', 'Data Engineering']
+tags: ["Job Application", "Communication", "Portfolio", "Snowflake", "Data Engineering"]
 created: 2025-08-05
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 21:20–21:50**  
 **🏷️ Labels**: Job Application, Communication, Portfolio, Snowflake, Data Engineering  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to enhance the professionalism and clarity of communication in job applications, focusing on email drafting, follow-ups, and addressing skill gaps.
+The session aimed to enhance the professionalism and clarity of [[communication]] in job applications, focusing on email drafting, follow-ups, and addressing skill gaps.
 
 ### Key Activities
-- Reviewed and improved an email draft to enhance professionalism in communication regarding job opportunities.
+- Reviewed and improved an email draft to enhance professionalism in [[communication]] regarding job opportunities.
 - Followed up on job applications by sharing an interactive journal and portfolio link, showcasing relevant work and seeking feedback.
 - Discussed strategies for addressing the lack of direct Snowflake experience, emphasizing transferable skills and proactive learning.
 
@@ -28,4 +28,4 @@ The session aimed to enhance the professionalism and clarity of communication in
 
 ### Pending Tasks
 - Continue to seek feedback on the alignment of qualifications with job requirements through interactive journal presentations.
-- Further refine communication strategies to address specific job application challenges.
+- Further refine [[communication]] strategies to address specific job application challenges.

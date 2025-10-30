@@ -1,6 +1,6 @@
 ---
 title: "Explored Stable Diffusion Model Resource Options"
-tags: ['Stable Diffusion', 'Model Training', 'Dreambooth', 'Ai Services']
+tags: ["Stable Diffusion", "Model Training", "Dreambooth", "Ai Services"]
 created: 2025-09-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:25–17:35**  
 **🏷️ Labels**: Stable Diffusion, Model Training, Dreambooth, Ai Services  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -24,7 +24,7 @@ The session aimed to explore various resources and services for training and dow
 - Compiled a list of commercial options for creating and downloading custom Stable Diffusion checkpoints, considering aspects like VRAM, epochs, and file formats.
 
 ### Achievements
-- Identified multiple platforms and services (e.g., Dreamlook.ai, 88Stacks, Runway ML) that offer custom Stable Diffusion training and checkpoint downloads.
+- Identified multiple platforms and services (e.g., Dreamlook.[[ai]], 88Stacks, Runway ML) that offer custom Stable Diffusion training and checkpoint downloads.
 - Gained insights into the technical and commercial aspects of using these services, including VRAM requirements and file format considerations.
 
 ### Pending Tasks

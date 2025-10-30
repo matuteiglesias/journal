@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Analysis of Socio-Economic Data Research"
-tags: ['Socio-Economic Research', 'Deep Learning', 'Synthetic Data', 'Poverty Measurement', 'Literature Review']
+tags: ["Socio-Economic Research", "Deep Learning", "Synthetic Data", "Poverty Measurement", "Literature Review"]
 created: 2025-08-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 11:35–13:40**  
 **🏷️ Labels**: Socio-Economic Research, Deep Learning, Synthetic Data, Poverty Measurement, Literature Review  
 **📂 Project**: Data  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -26,7 +26,7 @@ The session aimed to explore and analyze various research methodologies and stra
 - Compiled surveys and methods related to deep learning and tabular data.
 - Analyzed SERP for generative methods in household data and mapped microsimulation with GAN approaches in poverty analysis.
 - Explored intersections of MPI with autoencoders and synthetic data evaluation metrics.
-- Analyzed the convergence of machine learning with official statistics in census data.
+- Analyzed the convergence of [[machine learning]] with official statistics in census data.
 
 ### Achievements:
 - Developed a comprehensive understanding of various research methodologies and their applications in socio-economic contexts.

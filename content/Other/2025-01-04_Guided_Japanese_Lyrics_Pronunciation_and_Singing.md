@@ -1,6 +1,6 @@
 ---
 title: "Guided Japanese Lyrics Pronunciation and Singing"
-tags: ['Japanese', 'Pronunciation', 'Singing', 'Collaboration', 'Music']
+tags: ["Japanese", "Pronunciation", "Singing", "Collaboration", "Music"]
 created: 2025-01-04
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 09:05–09:15**  
 **🏷️ Labels**: Japanese, Pronunciation, Singing, Collaboration, Music  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

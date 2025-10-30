@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Non-Linearities in Economic Variance Aggregation"
-tags: ['Variance Aggregation', 'Economic Systems', 'Policy Implications', 'Statistical Mechanics', 'Scaling Laws']
+tags: ["Variance Aggregation", "Economic Systems", "Policy Implications", "Statistical Mechanics", "Scaling Laws"]
 created: 2025-01-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 07:20–07:45**  
 **🏷️ Labels**: Variance Aggregation, Economic Systems, Policy Implications, Statistical Mechanics, Scaling Laws  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

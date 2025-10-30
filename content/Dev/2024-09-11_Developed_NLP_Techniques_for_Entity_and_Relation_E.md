@@ -1,6 +1,6 @@
 ---
 title: "Developed NLP Techniques for Entity and Relation Extraction"
-tags: ['NLP', 'Entity Extraction', 'Relation Extraction', 'Python', 'Spacy']
+tags: ["NLP", "Entity Extraction", "Relation Extraction", "Python", "Spacy"]
 created: 2024-09-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:10–23:20**  
 **🏷️ Labels**: NLP, Entity Extraction, Relation Extraction, Python, Spacy  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

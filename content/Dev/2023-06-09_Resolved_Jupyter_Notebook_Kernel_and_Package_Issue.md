@@ -1,6 +1,6 @@
 ---
 title: "Resolved Jupyter Notebook Kernel and Package Issues"
-tags: ['Jupyter', 'Kernel', 'Troubleshooting', 'Python', 'Package Management']
+tags: ["Jupyter", "Kernel", "Troubleshooting", "Python", "Package Management"]
 created: 2023-06-09
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:05–22:15**  
 **🏷️ Labels**: Jupyter, Kernel, Troubleshooting, Python, Package Management  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

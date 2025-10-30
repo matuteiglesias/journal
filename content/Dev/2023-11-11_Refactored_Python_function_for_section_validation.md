@@ -1,6 +1,6 @@
 ---
 title: "Refactored Python function for section validation"
-tags: ['Python', 'Functions', 'Regex', 'Debugging', 'Section Numbers']
+tags: ["Python", "Functions", "Regex", "Debugging", "Section Numbers"]
 created: 2023-11-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 02:40–02:55**  
 **🏷️ Labels**: Python, Functions, Regex, Debugging, Section Numbers  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

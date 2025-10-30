@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Household Management Protocols"
-tags: ['Household Management', 'Checklist', 'Personal Well-Being', 'Meal Planning', 'Financial Management']
+tags: ["Household Management", "Checklist", "Personal Well-Being", "Meal Planning", "Financial Management"]
 created: 2024-02-13
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 17:45–20:15**  
 **🏷️ Labels**: Household Management, Checklist, Personal Well-Being, Meal Planning, Financial Management  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

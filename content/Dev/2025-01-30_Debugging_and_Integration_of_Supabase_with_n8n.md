@@ -1,6 +1,6 @@
 ---
 title: "Debugging and Integration of Supabase with n8n"
-tags: ['Supabase', 'N8N', 'Debugging', 'Integration', 'API', 'Workflow']
+tags: ["Supabase", "N8N", "Debugging", "Integration", "API", "Workflow"]
 created: 2025-01-30
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 03:10–05:10**  
 **🏷️ Labels**: Supabase, N8N, Debugging, Integration, API, Workflow  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The primary goal of this session was to troubleshoot and integrate various components of Supabase with n8n workflows, focusing on file management, database integration, and [[API]] interactions.
+The primary goal of this session was to troubleshoot and integrate various components of Supabase with n8n workflows, focusing on [[file management]], database [[integration]], and [[API]] interactions.
 
 ### Key Activities
 - **[[Debugging]] n8n Download Node**: Verified URL, authentication, and object paths in Supabase.
@@ -29,12 +29,12 @@ The primary goal of this session was to troubleshoot and integrate various compo
 - **Resolving Storage Errors**: Troubleshot 'Bucket not found' and 404 errors in Supabase storage.
 - **Fixing Invalid File Path**: Corrected URL paths in Supabase storage.
 - **Handling Duplicate Key Errors**: Resolved primary key constraint violations in Supabase.
-- **[[Troubleshooting]] [[AI]] Context [[Integration]]**: Focused on embedding retrieval and configuration.
+- **[[Troubleshooting]] [[AI]] Context [[Integration]]**: Focused on embedding retrieval and [[configuration]].
 - **Fixing PostgreSQL Functions**: Verified and tested `match_documents` function in PostgreSQL.
 
 ### Achievements
 - Successfully debugged and integrated multiple components of Supabase with n8n workflows.
-- Resolved database schema and [[API]] interaction issues, leading to improved workflow efficiency.
+- Resolved database schema and [[API]] interaction issues, leading to improved [[workflow]] efficiency.
 
 ### Pending Tasks
 - Further testing of the `match_documents` function in various scenarios to ensure robustness.

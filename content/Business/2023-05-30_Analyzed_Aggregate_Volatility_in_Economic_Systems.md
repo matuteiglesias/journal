@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Aggregate Volatility in Economic Systems"
-tags: ['Aggregate Volatility', 'Economic Dynamics', 'Empirical Analysis', 'Gabaix Critique', 'Latex Citations']
+tags: ["Aggregate Volatility", "Economic Dynamics", "Empirical Analysis", "Gabaix Critique", "Latex Citations"]
 created: 2023-05-30
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:00–23:20**  
 **🏷️ Labels**: Aggregate Volatility, Economic Dynamics, Empirical Analysis, Gabaix Critique, Latex Citations  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** The session aimed to explore the dynamics of aggregate volatility in economic systems, focusing on the relationship between micro and macro dynamics, and the impact of agent characteristics on volatility.
@@ -28,4 +28,4 @@ publish: true
 
 **Pending Tasks:**
 - Further empirical testing of proposed models to validate findings.
-- Continued exploration of computational tools to enhance data analysis capabilities.
+- Continued exploration of computational tools to enhance [[data analysis]] capabilities.

@@ -1,6 +1,6 @@
 ---
 title: "Implemented Offline Access for Static Sites on Vercel"
-tags: ['Offline Access', 'Static Sites', 'Web Development', 'Vercel', 'Android']
+tags: ["Offline Access", "Static Sites", "Web Development", "Vercel", "Android"]
 created: 2025-08-08
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 09:00–10:00**  
 **🏷️ Labels**: Offline Access, Static Sites, Web Development, Vercel, Android  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -27,4 +27,4 @@ The session aimed to explore and implement strategies for managing and accessing
 - Implemented methods for serving static sites offline on both desktop and mobile platforms.
 
 ### Pending Tasks:
-- Further testing and optimization of offline access strategies, particularly focusing on user experience and edge cases.
+- Further testing and [[optimization]] of offline access strategies, particularly focusing on user experience and edge cases.

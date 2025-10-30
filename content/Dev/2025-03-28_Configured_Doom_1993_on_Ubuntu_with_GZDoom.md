@@ -1,6 +1,6 @@
 ---
 title: "Configured Doom 1993 on Ubuntu with GZDoom"
-tags: ['Doom', 'Ubuntu', 'Gzdoom', 'Gaming', 'Installation']
+tags: ["Doom", "Ubuntu", "Gzdoom", "Gaming", "Installation"]
 created: 2025-03-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:30–02:40**  
 **🏷️ Labels**: Doom, Ubuntu, Gzdoom, Gaming, Installation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

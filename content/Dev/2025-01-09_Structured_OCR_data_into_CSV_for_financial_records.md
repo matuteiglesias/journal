@@ -1,6 +1,6 @@
 ---
 title: "Structured OCR data into CSV for financial records"
-tags: ['OCR', 'CSV', 'Data Cleaning', 'Data Structuring', 'Financial Records']
+tags: ["OCR", "CSV", "Data Cleaning", "Data Structuring", "Financial Records"]
 created: 2025-01-09
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:00–20:15**  
 **🏷️ Labels**: OCR, CSV, Data Cleaning, Data Structuring, Financial Records  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -30,4 +30,4 @@ The primary goal of this session was to clean, structure, and convert OCR-extrac
 
 ### Pending Tasks
 - Review and verify the accuracy of the structured [[CSV]] files.
-- Continue to monitor and refine the OCR data extraction process for improved accuracy in future sessions.
+- Continue to monitor and refine the OCR [[data extraction]] process for improved accuracy in future sessions.

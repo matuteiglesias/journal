@@ -1,6 +1,6 @@
 ---
 title: "Resolved synchronization issues in Mapbox GL Compare plugin"
-tags: ['Mapbox', 'Javascript', 'Web Development', 'Synchronization', 'Troubleshooting']
+tags: ["Mapbox", "Javascript", "Web Development", "Synchronization", "Troubleshooting"]
 created: 2023-05-23
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 12:05–14:00**  
 **🏷️ Labels**: Mapbox, Javascript, Web Development, Synchronization, Troubleshooting  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,11 +18,11 @@ The primary goal of this session was to address and resolve synchronization issu
 
 ### Key Activities
 - Followed up on academic correspondence regarding PhD degree receipt and diploma verification.
-- Engaged in coding activities to comment HTML code, fix JavaScript errors, and troubleshoot CSS issues.
-- Resolved synchronization problems with the Mapbox GL Compare plugin by implementing manual comparison methods and troubleshooting steps.
-- Updated JavaScript functions to correctly construct `styleKey` and synchronize map styles between two menu groups.
+- Engaged in coding activities to comment HTML code, fix [[JavaScript]] errors, and troubleshoot CSS issues.
+- Resolved synchronization problems with the Mapbox GL Compare plugin by implementing manual comparison methods and [[troubleshooting]] steps.
+- Updated [[JavaScript]] functions to correctly construct `styleKey` and synchronize map styles between two menu groups.
 - Set up event listeners for menu groups to ensure changes trigger the `updateMapStyle` function.
-- Made necessary adjustments to HTML, CSS, and JavaScript for symmetrical menu group functionality.
+- Made necessary adjustments to HTML, CSS, and [[JavaScript]] for symmetrical menu group functionality.
 
 ### Achievements
 - Successfully fixed the synchronization issues with the Mapbox GL Compare plugin.

@@ -1,6 +1,6 @@
 ---
 title: "Developed Guidelines for Crafting STEM Questions"
-tags: ['STEM', 'Education', 'Question Design', 'Economics', 'Guidelines']
+tags: ["STEM", "Education", "Question Design", "Economics", "Guidelines"]
 created: 2024-09-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:50–02:50**  
 **🏷️ Labels**: STEM, Education, Question Design, Economics, Guidelines  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

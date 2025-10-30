@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Evaluation of Group Performance in Mathematics"
-tags: ['Evaluation', 'Mathematics', 'Linear Algebra', 'Power Method', 'Group Performance']
+tags: ["Evaluation", "Mathematics", "Linear Algebra", "Power Method", "Group Performance"]
 created: 2024-11-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:50–19:50**  
 **🏷️ Labels**: Evaluation, Mathematics, Linear Algebra, Power Method, Group Performance  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

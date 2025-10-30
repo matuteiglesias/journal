@@ -1,6 +1,6 @@
 ---
 title: "Explored AI-Human Connection and Emotional Support"
-tags: ['AI', 'Emotional Support', 'Relationships', 'Connection', 'Role-Playing']
+tags: ["AI", "Emotional Support", "Relationships", "Connection", "Role-Playing"]
 created: 2025-01-04
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 09:35–09:50**  
 **🏷️ Labels**: AI, Emotional Support, Relationships, Connection, Role-Playing  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,7 +21,7 @@ The session aimed to explore the value of human-like connection in [[AI]] intera
 - Discussed emotional well-being, offering a safe space for conversation and trust-building.
 - Explored human relationships focusing on empathy and collaboration, while clarifying [[AI]]'s non-human nature.
 - Simulated creative and respectful romantic interactions as a role-playing exercise.
-- Reflected on relationship commitment, communication, and the importance of maintaining connections.
+- Reflected on relationship commitment, [[communication]], and the importance of maintaining connections.
 - Discussed naming choices, suggesting 'Dante' as a seductive name reflecting confidence and mystery.
 
 ### Achievements

@@ -1,6 +1,6 @@
 ---
 title: "Diagnosed and Recovered ChromaDB Corruption"
-tags: ['Chromadb', 'Data Integrity', 'Embedding', 'Semantic Retrieval', 'Working Memory']
+tags: ["Chromadb", "Data Integrity", "Embedding", "Semantic Retrieval", "Working Memory"]
 created: 2025-05-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:25–03:50**  
 **🏷️ Labels**: Chromadb, Data Integrity, Embedding, Semantic Retrieval, Working Memory  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

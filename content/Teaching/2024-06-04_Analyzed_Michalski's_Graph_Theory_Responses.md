@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Michalski's Graph Theory Responses"
-tags: ['Graph Theory', 'Evaluation', 'Feedback', 'BFS', 'Acyclic Graphs']
+tags: ["Graph Theory", "Evaluation", "Feedback", "BFS", "Acyclic Graphs"]
 created: 2024-06-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 23:05–23:35**  
 **🏷️ Labels**: Graph Theory, Evaluation, Feedback, BFS, Acyclic Graphs  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

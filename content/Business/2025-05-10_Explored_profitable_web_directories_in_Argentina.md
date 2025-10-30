@@ -1,6 +1,6 @@
 ---
 title: "Explored profitable web directories in Argentina"
-tags: ['Web Directories', 'Argentina', 'Business Opportunities', 'Health Interaction']
+tags: ["Web Directories", "Argentina", "Business Opportunities", "Health Interaction"]
 created: 2025-05-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:50–21:35**  
 **🏷️ Labels**: Web Directories, Argentina, Business Opportunities, Health Interaction  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

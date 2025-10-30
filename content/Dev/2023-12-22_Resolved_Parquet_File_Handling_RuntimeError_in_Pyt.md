@@ -1,6 +1,6 @@
 ---
 title: "Resolved Parquet File Handling RuntimeError in Python"
-tags: ['Python', 'Dask', 'Parquet', 'Data Processing', 'CSV']
+tags: ["Python", "Dask", "Parquet", "Data Processing", "CSV"]
 created: 2023-12-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:05–21:55**  
 **🏷️ Labels**: Python, Dask, Parquet, Data Processing, CSV  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -22,7 +22,7 @@ The primary aim of this session was to resolve a `RuntimeError` encountered when
 
 ### Achievements:
 - Successfully provided solutions for the `RuntimeError` by guiding the installation of required libraries.
-- Clarified the differences between Dask and [[Pandas]] for saving DataFrames, enhancing understanding of data processing techniques.
+- Clarified the differences between Dask and [[Pandas]] for saving DataFrames, enhancing understanding of [[data processing]] techniques.
 
 ### Pending Tasks:
 - Verify the installation of `pyarrow` and `fastparquet` in the intended [[Python]] environment to ensure the error is resolved.

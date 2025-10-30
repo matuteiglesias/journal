@@ -1,6 +1,6 @@
 ---
 title: "Developed 6-Week Muscle Hypertrophy and Definition Plan"
-tags: ['Fitness', 'Muscle Tone', 'Training Plan', 'Nutrition', 'Exercise']
+tags: ["Fitness", "Muscle Tone", "Training Plan", "Nutrition", "Exercise"]
 created: 2025-01-10
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 22:30–22:50**  
 **🏷️ Labels**: Fitness, Muscle Tone, Training Plan, Nutrition, Exercise  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

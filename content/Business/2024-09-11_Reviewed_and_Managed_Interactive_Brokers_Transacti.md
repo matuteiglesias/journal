@@ -1,6 +1,6 @@
 ---
 title: "Reviewed and Managed Interactive Brokers Transactions"
-tags: ['Interactive Brokers', 'Transactions', 'Finance', 'Account Management', 'Merchant Identification']
+tags: ["Interactive Brokers", "Transactions", "Finance", "Account Management", "Merchant Identification"]
 created: 2024-09-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:00–04:00**  
 **🏷️ Labels**: Interactive Brokers, Transactions, Finance, Account Management, Merchant Identification  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

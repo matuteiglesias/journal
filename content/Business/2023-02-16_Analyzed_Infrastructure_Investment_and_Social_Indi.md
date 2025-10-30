@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Infrastructure Investment and Social Indicators"
-tags: ['Infrastructure', 'Social Indicators', 'Data Analysis', 'Open Data', 'World Bank', 'Python']
+tags: ["Infrastructure", "Social Indicators", "Data Analysis", "Open Data", "World Bank", "Python"]
 created: 2023-02-16
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:00–05:10**  
 **🏷️ Labels**: Infrastructure, Social Indicators, Data Analysis, Open Data, World Bank, Python  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,7 +18,7 @@ The session aimed to analyze the relationship between infrastructure investment 
 
 ### Key Activities
 - **Project Update**: Provided insights into the progress of analyzing infrastructure investment and social indicators.
-- **Email [[Communication]]**: Suggested effective email subject lines to enhance communication regarding the infrastructure project.
+- **Email [[Communication]]**: Suggested effective email subject lines to enhance [[communication]] regarding the infrastructure project.
 - **Statistical Evaluation**: Outlined evaluation tests for infrastructure investment studies, including various statistical analyses.
 - **Open Data Exploration**: Identified reliable open data sources and portals for researching infrastructure impacts on social indicators.
 - **[[API]] Utilization**: Demonstrated accessing World Bank data using [[Python]], including retrieving mean income and GDP data.

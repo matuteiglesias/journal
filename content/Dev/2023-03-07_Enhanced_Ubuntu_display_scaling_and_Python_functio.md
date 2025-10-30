@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Ubuntu display scaling and Python function development"
-tags: ['Ubuntu', 'Python', 'Nutrition', 'Display Scaling', 'Function Development']
+tags: ["Ubuntu", "Python", "Nutrition", "Display Scaling", "Function Development"]
 created: 2023-03-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:15–05:35**  
 **🏷️ Labels**: Ubuntu, Python, Nutrition, Display Scaling, Function Development  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

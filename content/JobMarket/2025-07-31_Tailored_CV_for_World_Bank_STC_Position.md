@@ -1,6 +1,6 @@
 ---
 title: "Tailored CV for World Bank STC Position"
-tags: ['CV', 'World Bank', 'Latex', 'Job Application', 'Professional Development']
+tags: ["CV", "World Bank", "Latex", "Job Application", "Professional Development"]
 created: 2025-07-31
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 22:25–22:55**  
 **🏷️ Labels**: CV, World Bank, Latex, Job Application, Professional Development  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,8 +18,8 @@ The primary objective of this session was to tailor a CV specifically for the Wo
 
 ### Key Activities
 - Developed strategies to reframe the CV to highlight expertise in household survey data, technical skills, and relevant deliverables.
-- Structured the CV to emphasize economic and policy narratives, minimizing [[AI]] and automation references.
-- Utilized a LaTeX document template to create a professional CV, including sections on professional summary, core skills, professional experience, education, and languages.
+- Structured the CV to emphasize economic and policy narratives, minimizing [[AI]] and [[automation]] references.
+- Utilized a LaTeX document template to create a professional CV, including sections on professional summary, core skills, professional experience, [[education]], and languages.
 - Made final refinements to the LaTeX document, ensuring optimal layout and readability using memoir and flowfram packages.
 
 ### Achievements

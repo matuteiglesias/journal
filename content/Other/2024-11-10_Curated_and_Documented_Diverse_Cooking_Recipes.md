@@ -1,6 +1,6 @@
 ---
 title: "Curated and Documented Diverse Cooking Recipes"
-tags: ['Cooking', 'Recipes', 'Culinary', 'Balanced Meals']
+tags: ["Cooking", "Recipes", "Culinary", "Balanced Meals"]
 created: 2024-11-10
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 01:10–02:00**  
 **🏷️ Labels**: Cooking, Recipes, Culinary, Balanced Meals  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 **Session Goal:**

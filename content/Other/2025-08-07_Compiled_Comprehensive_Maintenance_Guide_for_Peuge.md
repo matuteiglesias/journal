@@ -1,6 +1,6 @@
 ---
 title: "Compiled Comprehensive Maintenance Guide for Peugeot 207"
-tags: ['Peugeot 207', 'Engine Oil', 'Transmission Fluid', 'Vehicle Maintenance', 'Automotive', 'Argentina']
+tags: ["Peugeot 207", "Engine Oil", "Transmission Fluid", "Vehicle Maintenance", "Automotive", "Argentina"]
 created: 2025-08-07
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 11:20–11:30**  
 **🏷️ Labels**: Peugeot 207, Engine Oil, Transmission Fluid, Vehicle Maintenance, Automotive, Argentina  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

@@ -1,6 +1,6 @@
 ---
 title: "Developed Interactive Map Architecture with React"
-tags: ['React', 'Maps', 'Frontend', 'UX', 'Prototype']
+tags: ["React", "Maps", "Frontend", "UX", "Prototype"]
 created: 2025-09-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:55–02:15**  
 **🏷️ Labels**: React, Maps, Frontend, UX, Prototype  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

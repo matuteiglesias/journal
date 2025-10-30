@@ -1,6 +1,6 @@
 ---
 title: "Prepared candidacy documents for Data Science Commission"
-tags: ['Candidacy', 'Data Science', 'Email', 'Application', 'Guidelines']
+tags: ["Candidacy", "Data Science", "Email", "Application", "Guidelines"]
 created: 2024-11-01
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 17:00–17:45**  
 **🏷️ Labels**: Candidacy, Data Science, Email, Application, Guidelines  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,8 +25,8 @@ The goal of this session was to prepare and finalize the necessary documents and
 - Established guidelines for the email subject line in graduate applications to ensure proper categorization.
 
 ### Achievements
-- Completed all necessary documentation and templates for the candidacy application process.
-- Established clear guidelines and instructions for email communication related to the application.
+- Completed all necessary [[documentation]] and templates for the candidacy application process.
+- Established clear guidelines and instructions for email [[communication]] related to the application.
 
 ### Pending Tasks
 No pending tasks were identified in this session.

@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Monthly Financial Reporting and Ledger Management"
-tags: ['Financial Reporting', 'Python', 'Data Analysis', 'Property Management', 'Financial Strategy']
+tags: ["Financial Reporting", "Python", "Data Analysis", "Property Management", "Financial Strategy"]
 created: 2024-11-18
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 03:50–07:35**  
 **🏷️ Labels**: Financial Reporting, Python, Data Analysis, Property Management, Financial Strategy  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to enhance financial reporting and ledger management processes using [[Python]] and [[Pandas]], focusing on monthly summaries, data cleaning, and visualization.
+The session aimed to enhance financial reporting and ledger management processes using [[Python]] and [[Pandas]], focusing on monthly summaries, data cleaning, and [[visualization]].
 
 ### Key Activities
 - Analyzed financial imbalances and management issues within a family fund, providing insights for improved control.
@@ -22,7 +22,7 @@ The session aimed to enhance financial reporting and ledger management processes
 - Formalized property management systems to enhance transparency and accountability.
 - Outlined a monthly financial summary structure using Google Sheets/Excel and [[Python]].
 - Implemented [[Python]] code for calculating intra-account net flows, robust data aggregation, and generating monthly reports.
-- Addressed data processing challenges, including handling non-numeric columns and styling reports for clarity.
+- Addressed [[data processing]] challenges, including handling non-numeric columns and styling reports for clarity.
 - Developed strategies for clearing financial imbalances and proposed a redistribution plan.
 - Created a 12-month payment plan based on net balances.
 

@@ -1,6 +1,6 @@
 ---
 title: "Developed Exam Simulation for Matrix Diagonalization"
-tags: ['Matrices', 'Diagonalization', 'Education', 'Linear_Algebra', 'Exam_Simulation']
+tags: ["Matrices", "Diagonalization", "Education", "Linear_Algebra", "Exam_Simulation"]
 created: 2024-11-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:05–19:25**  
 **🏷️ Labels**: Matrices, Diagonalization, Education, Linear_Algebra, Exam_Simulation  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

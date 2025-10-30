@@ -1,6 +1,6 @@
 ---
 title: "Implemented and Refined PDF Text Chunking Tool"
-tags: ['Pdf Processing', 'Python', 'Automation', 'Text Chunking', 'Error Handling']
+tags: ["Pdf Processing", "Python", "Automation", "Text Chunking", "Error Handling"]
 created: 2025-01-27
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 21:40–22:25**  
 **🏷️ Labels**: Pdf Processing, Python, Automation, Text Chunking, Error Handling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to implement a tool for processing PDF files to extract text and chunk it into manageable pieces, ensuring proper formatting and error handling.
+The session aimed to implement a tool for processing PDF files to extract text and chunk it into manageable pieces, ensuring proper formatting and [[error handling]].
 
 **Key Activities:**
 - Developed a [[Python]] script using PyPDF2 and nltk to extract text from PDF files and chunk it into smaller, manageable pieces.

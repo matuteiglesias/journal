@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Decision Trees in Education Context"
-tags: ['Decisiontreeregressor', 'Education', 'Pedagogy', 'Leadership', 'Conflict Resolution']
+tags: ["Decisiontreeregressor", "Education", "Pedagogy", "Leadership", "Conflict Resolution"]
 created: 2025-06-23
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:10–04:25**  
 **🏷️ Labels**: Decisiontreeregressor, Education, Pedagogy, Leadership, Conflict Resolution  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

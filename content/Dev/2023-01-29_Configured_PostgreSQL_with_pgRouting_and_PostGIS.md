@@ -1,6 +1,6 @@
 ---
 title: "Configured PostgreSQL with pgRouting and PostGIS"
-tags: ['Postgresql', 'Pgrouting', 'Postgis', 'Database', 'Security']
+tags: ["Postgresql", "Pgrouting", "Postgis", "Database", "Security"]
 created: 2023-01-29
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:30–19:10**  
 **🏷️ Labels**: Postgresql, Pgrouting, Postgis, Database, Security  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

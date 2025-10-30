@@ -1,6 +1,6 @@
 ---
 title: "Developed Python scripts for financial data analysis"
-tags: ['Python', 'Pandas', 'Data Analysis', 'Accounting', 'Debt Management']
+tags: ["Python", "Pandas", "Data Analysis", "Accounting", "Debt Management"]
 created: 2023-12-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:40–16:10**  
 **🏷️ Labels**: Python, Pandas, Data Analysis, Accounting, Debt Management  
 **📂 Project**: Accounting  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,7 +21,7 @@ The primary objective was to develop [[Python]] scripts to facilitate the analys
 - **Data Grouping**: Implemented [[Python]] code using [[Pandas]] to group expenses and income from [[CSV]] files by month and category.
 - **Data Pivoting**: Utilized [[Pandas]] to pivot DataFrames, consolidating categories into columns and aggregating values by year and month.
 - **Debt Management**: Proposed a method for recording family debt payments, transforming them into debts and establishing a detailed recording system.
-- **Error Resolution**: Identified and addressed a list length mismatch error in data processing, ensuring uniformity before recalculating year-end balances.
+- **Error Resolution**: Identified and addressed a list length mismatch error in [[data processing]], ensuring uniformity before recalculating year-end balances.
 
 ### Achievements
 - Successfully created scripts for data grouping and pivoting using [[Pandas]].

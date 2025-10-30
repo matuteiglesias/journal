@@ -1,6 +1,6 @@
 ---
 title: "Configured OAuth and deployed app on Google App Engine"
-tags: ['Oauth', 'Google App Engine', 'N8N', 'Gmail', 'Automation']
+tags: ["Oauth", "Google App Engine", "N8N", "Gmail", "Automation"]
 created: 2024-12-12
 publish: true
 ---
@@ -10,16 +10,16 @@ publish: true
 **🕒 22:40–23:20**  
 **🏷️ Labels**: Oauth, Google App Engine, N8N, Gmail, Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The primary objective of this session was to set up a minimal application on Google App Engine and configure OAuth integration for n8n with Gmail.
+The primary objective of this session was to set up a minimal application on Google App Engine and configure OAuth [[integration]] for n8n with Gmail.
 
 ### Key Activities
 - **App Setup on Google App Engine:**
   - Utilized bash commands to create a minimal app directory structure.
-  - Configured deployment instructions for Google App Engine.
+  - Configured [[deployment]] instructions for Google App Engine.
 - **Resolved Permissions Error:**
   - Addressed a permissions error for the service account `media-monitor-tool@appspot.gserviceaccount.com` by granting necessary storage permissions and verifying project settings.
 - **OAuth [[Integration]] for n8n and Gmail:**
@@ -30,8 +30,8 @@ The primary objective of this session was to set up a minimal application on Goo
 ### Achievements
 - Successfully set up and deployed a minimal app on Google App Engine.
 - Resolved service account permissions issues.
-- Configured OAuth integration between n8n and Gmail, including testing the OAuth flow.
+- Configured OAuth [[integration]] between n8n and Gmail, including testing the OAuth flow.
 
 ### Pending Tasks
 - Further testing and validation of OAuth flows with different scenarios.
-- Streamlining the deployment process for n8n on Google App Engine.
+- Streamlining the [[deployment]] process for n8n on Google App Engine.

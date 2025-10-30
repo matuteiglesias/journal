@@ -1,6 +1,6 @@
 ---
 title: "Structured Algorithm Learning and Exercise Design"
-tags: ['Algorithms', 'Dynamic Programming', 'Greedy Algorithms', 'Education', 'Exercises']
+tags: ["Algorithms", "Dynamic Programming", "Greedy Algorithms", "Education", "Exercises"]
 created: 2023-08-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:50–18:30**  
 **🏷️ Labels**: Algorithms, Dynamic Programming, Greedy Algorithms, Education, Exercises  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

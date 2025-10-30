@@ -1,6 +1,6 @@
 ---
 title: "Strategic Planning and Relationship Management Initiatives"
-tags: ['Strategic Planning', 'Relationship Management', 'Collaboration', 'Innovation', 'Public Policy']
+tags: ["Strategic Planning", "Relationship Management", "Collaboration", "Innovation", "Public Policy"]
 created: 2024-11-28
 publish: true
 ---
@@ -10,17 +10,17 @@ publish: true
 **🕒 13:15–14:29**  
 **🏷️ Labels**: Strategic Planning, Relationship Management, Collaboration, Innovation, Public Policy  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session focused on strategic planning and relationship management within various business and government contexts.
+The session focused on [[strategic planning]] and relationship management within various business and government contexts.
 
 ### Key Activities
 - Analyzed and generated reports from regulatory data, exploring tools like NoSQL and MongoDB for data modeling and querying.
 - Planned professional development activities, including career evaluation for a Data Engineer position.
 - Structured a transition plan for the General Directorate of Informatics, detailing project priorities and team roles.
-- Proposed improvements for the Ministry of Security, emphasizing automation, training, and transparency.
+- Proposed improvements for the Ministry of Security, emphasizing [[automation]], training, and transparency.
 - Initiated a screening process for knowledge management.
 - Developed strategic proposals for collaboration between Exactas and the Ministry, focusing on innovation and joint research.
 - Outlined strategies for building relationships with key stakeholders, including Sebastián and the Technology Director.

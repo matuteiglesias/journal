@@ -1,6 +1,6 @@
 ---
 title: "Developed Funding Strategies for AI Projects"
-tags: ['AI', 'Funding', 'Grant Applications', 'Strategy', 'Development']
+tags: ["AI", "Funding", "Grant Applications", "Strategy", "Development"]
 created: 2025-04-14
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 10:05–11:05**  
 **🏷️ Labels**: AI, Funding, Grant Applications, Strategy, Development  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

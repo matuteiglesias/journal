@@ -1,6 +1,6 @@
 ---
 title: "Explored Leadership and Organizational Dynamics"
-tags: ['Leadership', 'Organizational Behavior', 'Data Science', 'Community Engagement', 'Communication']
+tags: ["Leadership", "Organizational Behavior", "Data Science", "Community Engagement", "Communication"]
 created: 2024-03-09
 publish: true
 ---
@@ -10,16 +10,16 @@ publish: true
 **🕒 20:00–20:50**  
 **🏷️ Labels**: Leadership, Organizational Behavior, Data Science, Community Engagement, Communication  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to explore leadership challenges and organizational dynamics, focusing on resistance to change, communication, and leadership improvement strategies.
+The session aimed to explore leadership challenges and organizational dynamics, focusing on resistance to change, [[communication]], and leadership improvement strategies.
 
 **Key Activities:**
-- Analyzed common challenges in organizational behavior, particularly resistance to change and communication issues.
+- Analyzed common challenges in organizational behavior, particularly resistance to change and [[communication]] issues.
 - Discussed structured approaches for leadership improvement, emphasizing constructive feedback and collaborative solutions.
-- Explored strategies for enhancing the electoral system and content production in data science education.
+- Explored strategies for enhancing the electoral system and content production in [[data science]] [[education]].
 - Proposed report titles to enrich the [[Data Science]] community, covering global trends and ethical considerations.
 - Discussed incorporating progressive perspectives in [[Data Science]] aligned with social justice and inclusion.
 - Suggested types of academic documents to promote [[Data Science]]'s impact on the university community.

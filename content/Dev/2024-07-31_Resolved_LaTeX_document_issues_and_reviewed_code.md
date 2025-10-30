@@ -1,6 +1,6 @@
 ---
 title: "Resolved LaTeX document issues and reviewed code"
-tags: ['Latex', 'Tikz', 'Code Review', 'Troubleshooting']
+tags: ["Latex", "Tikz", "Code Review", "Troubleshooting"]
 created: 2024-07-31
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:40–05:15**  
 **🏷️ Labels**: Latex, Tikz, Code Review, Troubleshooting  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -21,7 +21,7 @@ The session aimed to resolve common LaTeX document issues, specifically focusing
 - Resolved conflicts in LaTeX document compilation by adjusting package interactions and code structure.
 - Systematically approached TikZ errors by creating minimal working examples and identifying package conflicts.
 - Reviewed and revised LaTeX code related to minimum spanning trees, focusing on syntax, structure, and best practices.
-- Provided corrections for LaTeX code, including indentation, brace matching, and troubleshooting tips.
+- Provided corrections for LaTeX code, including indentation, brace matching, and [[troubleshooting]] tips.
 
 ### Achievements:
 - Successfully fixed LaTeX document issues related to package conflicts and TikZ errors.

@@ -1,6 +1,6 @@
 ---
 title: "Structured Financial Planning for Debt Management"
-tags: ['Financial Planning', 'Debt Management', 'Budgeting', 'Cash Flow', 'Savings']
+tags: ["Financial Planning", "Debt Management", "Budgeting", "Cash Flow", "Savings"]
 created: 2024-09-21
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:40–05:15**  
 **🏷️ Labels**: Financial Planning, Debt Management, Budgeting, Cash Flow, Savings  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

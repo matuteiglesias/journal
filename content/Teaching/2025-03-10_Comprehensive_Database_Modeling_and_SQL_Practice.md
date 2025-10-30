@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Database Modeling and SQL Practice"
-tags: ['Database Modeling', 'ERD', 'SQL', 'Education', 'Data Transformation']
+tags: ["Database Modeling", "ERD", "SQL", "Education", "Data Transformation"]
 created: 2025-03-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 10:00–10:50**  
 **🏷️ Labels**: Database Modeling, ERD, SQL, Education, Data Transformation  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

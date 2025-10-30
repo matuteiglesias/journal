@@ -1,6 +1,6 @@
 ---
 title: "Implemented RAG System with n8n and Supabase"
-tags: ['N8N', 'RAG', 'Supabase', 'Workflow', 'Vectorization']
+tags: ["N8N", "RAG", "Supabase", "Workflow", "Vectorization"]
 created: 2025-01-30
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 14:10–17:45**  
 **🏷️ Labels**: N8N, RAG, Supabase, Workflow, Vectorization  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to develop a Retrieval-Augmented Generation (RAG) system using n8n and Supabase, focusing on workflow setup, document processing, and vectorization.
+The session aimed to develop a Retrieval-Augmented Generation (RAG) system using n8n and Supabase, focusing on [[workflow]] setup, document processing, and vectorization.
 
 ### Key Activities
-- Set up the RAG system workflow using n8n and integrated it with Supabase for document processing.
+- Set up the RAG system [[workflow]] using n8n and integrated it with Supabase for document processing.
 - Developed a SQL function for similarity-based document retrieval using vector embeddings.
 - Evaluated the use of n8n versus [[Python]] for chunkization and vector storage.
 - Implemented dynamic vectorstore management, enabling on-the-fly updates without restarting the application.

@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Python Script for Survey Data Parsing"
-tags: ['Python', 'JSON', 'Data Parsing', 'Regular Expressions', 'Code Modification']
+tags: ["Python", "JSON", "Data Parsing", "Regular Expressions", "Code Modification"]
 created: 2023-03-23
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:30–22:45**  
 **🏷️ Labels**: Python, JSON, Data Parsing, Regular Expressions, Code Modification  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Mastered Unix and Shell Command Techniques"
-tags: ['Unix', 'Shell', 'Command Line', 'File Management', 'ZIP', 'Troubleshooting']
+tags: ["Unix", "Shell", "Command Line", "File Management", "ZIP", "Troubleshooting"]
 created: 2023-08-29
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:45–04:15**  
 **🏷️ Labels**: Unix, Shell, Command Line, File Management, ZIP, Troubleshooting  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,8 +25,8 @@ The session aimed to enhance proficiency in Unix and shell command techniques, f
 - Discussed using MD5 checksums for file integrity verification and alternative extraction methods when the `file` command is unavailable.
 
 ### Achievements
-- Gained comprehensive understanding of Unix and shell commands for file management and data extraction.
-- Developed skills for troubleshooting ZIP file issues and ensuring file integrity.
+- Gained comprehensive understanding of Unix and shell commands for [[file management]] and [[data extraction]].
+- Developed skills for [[troubleshooting]] ZIP file issues and ensuring file integrity.
 
 ### Pending Tasks
 - Further exploration of advanced file recovery techniques and command-line tool installations may be beneficial.

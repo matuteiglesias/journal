@@ -1,6 +1,6 @@
 ---
 title: "Developed MVP and Productization Roadmap"
-tags: ['Python', 'Fastapi', 'MVP', 'Data Pipeline', 'Ui Development']
+tags: ["Python", "Fastapi", "MVP", "Data Pipeline", "Ui Development"]
 created: 2025-07-09
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 20:55–21:10**  
 **🏷️ Labels**: Python, Fastapi, MVP, Data Pipeline, Ui Development  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to refine a [[Python]] function for data processing, develop a roadmap for UI control and cloud deployment, and plan for a Minimal Viable Product (MVP) development.
+The session aimed to refine a [[Python]] function for [[data processing]], develop a roadmap for UI control and cloud [[deployment]], and plan for a Minimal Viable Product (MVP) development.
 
 ### Key Activities
 - **Refined `filter_top_candidates` Function**: Improved the function to filter and group candidates by score with configurable limits.
@@ -24,7 +24,7 @@ The session aimed to refine a [[Python]] function for data processing, develop a
 - **Lean Job Discovery App Design**: Designed an app for job discovery, detailing core features and development timeline.
 
 ### Achievements
-- Successfully refined a key data processing function.
+- Successfully refined a key [[data processing]] function.
 - Developed comprehensive roadmaps and plans for productization and MVP development.
 
 ### Pending Tasks

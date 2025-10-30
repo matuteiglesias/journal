@@ -1,6 +1,6 @@
 ---
 title: "Implemented OCR for Grocery Store Tickets"
-tags: ['OCR', 'Python', 'Data Analysis', 'Tesseract', 'Easyocr']
+tags: ["OCR", "Python", "Data Analysis", "Tesseract", "Easyocr"]
 created: 2024-08-11
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 17:05–18:20**  
 **🏷️ Labels**: OCR, Python, Data Analysis, Tesseract, Easyocr  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The primary goal of this session was to implement Optical Character Recognition (OCR) for digitizing grocery store tickets to facilitate data analysis.
+The primary goal of this session was to implement Optical Character Recognition (OCR) for digitizing grocery store tickets to facilitate [[data analysis]].
 
 ### Key Activities
 - **Planning & Setup**: Initiated the session with a plan to use Tesseract OCR in [[Python]] for processing grocery store tickets.

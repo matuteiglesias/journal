@@ -1,6 +1,6 @@
 ---
 title: "Explored AI as Memory and Cognitive Tools"
-tags: ['AI', 'Memory', 'Cognition', 'Streamlit', 'Financial Documents']
+tags: ["AI", "Memory", "Cognition", "Streamlit", "Financial Documents"]
 created: 2025-05-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:20–04:40**  
 **🏷️ Labels**: AI, Memory, Cognition, Streamlit, Financial Documents  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,7 +18,7 @@ The session aimed to explore the role of [[AI]] in enhancing memory and managing
 
 ### Key Activities
 - Discussed the concept of semantic traces and the role of [[AI]] as a memory prosthetic to enhance introspection and strategic thinking.
-- Explored frameworks for managing cognitive load using [[AI]] to improve productivity and task management.
+- Explored frameworks for managing cognitive load using [[AI]] to improve [[productivity]] and [[task management]].
 - Developed a pedagogical structure for financial documents to diagnose financial problems with emotional intelligence.
 - Implemented strategies to prevent truncation in Streamlit applications using Haystack and OpenAIGenerator.
 - Created semantic retrieval queries for addressing family financial issues, focusing on legal, relational, financial, and strategic themes.

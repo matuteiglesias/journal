@@ -1,6 +1,6 @@
 ---
 title: "Documented and Structured Poverty Database for Argentina"
-tags: ['Poverty Index', 'Database Design', 'Data Analysis', 'Argentina', 'Documentation']
+tags: ["Poverty Index", "Database Design", "Data Analysis", "Argentina", "Documentation"]
 created: 2023-10-02
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 11:50–12:40**  
 **🏷️ Labels**: Poverty Index, Database Design, Data Analysis, Argentina, Documentation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to document and structure the database for the 'Índice de Pobreza en Argentina' project, focusing on data analysis and management.
+The session aimed to document and structure the database for the 'Índice de Pobreza en Argentina' project, focusing on [[data analysis]] and management.
 
 ### Key Activities
 - Created a README template for the project, detailing its importance and usage instructions.
@@ -28,7 +28,7 @@ The session aimed to document and structure the database for the 'Índice de Pob
 ### Achievements
 - Successfully documented the project with a comprehensive README.
 - Gained insights into the [[JSON]] data structure and economic observables.
-- Established a clear framework for database documentation and structuring.
+- Established a clear framework for database [[documentation]] and structuring.
 
 ### Pending Tasks
 - Finalize the database schema implementation and test for performance and accuracy.

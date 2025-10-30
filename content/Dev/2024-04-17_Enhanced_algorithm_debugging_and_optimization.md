@@ -1,6 +1,6 @@
 ---
 title: "Enhanced algorithm debugging and optimization"
-tags: ['Algorithm', 'Debugging', 'Optimization', 'Python', 'Error Handling']
+tags: ["Algorithm", "Debugging", "Optimization", "Python", "Error Handling"]
 created: 2024-04-17
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 19:05–19:40**  
 **🏷️ Labels**: Algorithm, Debugging, Optimization, Python, Error Handling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to analyze and optimize various algorithm implementations, focusing on debugging and improving error handling and output visualization.
+The session aimed to analyze and optimize various algorithm implementations, focusing on [[debugging]] and improving [[error handling]] and output [[visualization]].
 
 ### Key Activities
 - Conducted a comparative analysis of pointer adjustments in merged array implementations, focusing on decision-making processes and complexity reduction.
@@ -25,8 +25,8 @@ The session aimed to analyze and optimize various algorithm implementations, foc
 - Debugged the `diameter_of_binary_tree` function by adding print statements to visualize node traversal and diameter calculation.
 
 ### Achievements
-- Improved understanding and visualization of algorithm processes through added print statements.
-- Enhanced error handling in the `closest_split_pair` and `closest_pair_rec` functions.
+- Improved understanding and [[visualization]] of algorithm processes through added print statements.
+- Enhanced [[error handling]] in the `closest_split_pair` and `closest_pair_rec` functions.
 - Clarified decision-making strategies in pointer adjustments for merged arrays.
 
 ### Pending Tasks

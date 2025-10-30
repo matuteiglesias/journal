@@ -1,6 +1,6 @@
 ---
 title: "Developed Personal Finance Tracking System Framework"
-tags: ['Personal Finance', 'Accounting', 'Financial Tracking', 'Balance Sheet', 'Wealth Tracking']
+tags: ["Personal Finance", "Accounting", "Financial Tracking", "Balance Sheet", "Wealth Tracking"]
 created: 2025-03-14
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:20–20:50**  
 **🏷️ Labels**: Personal Finance, Accounting, Financial Tracking, Balance Sheet, Wealth Tracking  
 **📂 Project**: Accounting  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

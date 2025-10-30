@@ -1,6 +1,6 @@
 ---
 title: "Structured Financial Management and Reporting"
-tags: ['Finance', 'Budgeting', 'Household', 'Google Sheets', 'Accounting']
+tags: ["Finance", "Budgeting", "Household", "Google Sheets", "Accounting"]
 created: 2024-11-17
 publish: true
 ---
@@ -10,15 +10,15 @@ publish: true
 **🕒 20:20–21:35**  
 **🏷️ Labels**: Finance, Budgeting, Household, Google Sheets, Accounting  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
 The session aimed to establish a comprehensive framework for managing and reporting family and household financial activities, integrating business and personal expenses, and ensuring clarity and transparency among family members.
 
 **Key Activities:**
-- Developed a structured approach to divide monthly expenses among family members, including a communication strategy for transparency.
-- Outlined a method for organizing shared living costs using Google Sheets and automation tools.
+- Developed a structured approach to divide monthly expenses among family members, including a [[communication]] [[strategy]] for transparency.
+- Outlined a method for organizing shared living costs using Google Sheets and [[automation]] tools.
 - Created a comprehensive plan for managing household finances as a family business, detailing income, expenses, and roles.
 - Designed interconnected accounting systems for household and ownership accounting, focusing on income, expenses, and reporting.
 - Structured a financial ledger for household and property management, including transaction categorization and dashboard creation.
@@ -34,5 +34,5 @@ The session aimed to establish a comprehensive framework for managing and report
 
 **Pending Tasks:**
 - Further refinement of the financial ledger and transaction categorization to ensure accuracy and completeness.
-- Implementation of automation tools in Google Sheets for ongoing financial tracking and reporting.
+- Implementation of [[automation]] tools in Google Sheets for ongoing financial tracking and reporting.
 - Continuous update and maintenance of datasets for utilities and services.

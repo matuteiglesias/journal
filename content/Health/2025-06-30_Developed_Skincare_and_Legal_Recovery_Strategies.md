@@ -1,6 +1,6 @@
 ---
 title: "Developed Skincare and Legal Recovery Strategies"
-tags: ['Isotretinoin', 'Skincare', 'Legal', 'License Recovery', 'Fine Reduction']
+tags: ["Isotretinoin", "Skincare", "Legal", "License Recovery", "Fine Reduction"]
 created: 2025-06-30
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 17:30–18:10**  
 **🏷️ Labels**: Isotretinoin, Skincare, Legal, License Recovery, Fine Reduction  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

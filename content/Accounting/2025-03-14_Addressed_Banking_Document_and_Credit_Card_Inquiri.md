@@ -1,6 +1,6 @@
 ---
 title: "Addressed Banking Document and Credit Card Inquiries"
-tags: ['Banking', 'Documents', 'Credit Card', 'Erste Bank', 'Email Templates']
+tags: ["Banking", "Documents", "Credit Card", "Erste Bank", "Email Templates"]
 created: 2025-03-14
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:25–16:30**  
 **🏷️ Labels**: Banking, Documents, Credit Card, Erste Bank, Email Templates  
 **📂 Project**: Accounting  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,7 +25,7 @@ The session aimed to address multiple banking-related tasks, including document 
 ### Achievements
 - Clarified the next steps for estate-related inquiries with Erste Bank.
 - Ensured all necessary documents were submitted and reviewed in a timely manner.
-- Created and refined email templates for effective communication with Erste Bank regarding credit card applications.
+- Created and refined email templates for effective [[communication]] with Erste Bank regarding credit card applications.
 
 ### Pending Tasks
 - Follow up with Erste Bank to confirm details about estate matters and access for family members.

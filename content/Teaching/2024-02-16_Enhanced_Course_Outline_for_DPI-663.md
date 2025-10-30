@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Course Outline for DPI-663"
-tags: ['DPI-663', 'Course Design', 'Innovation', 'Government', 'Education']
+tags: ["DPI-663", "Course Design", "Innovation", "Government", "Education"]
 created: 2024-02-16
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 13:40–13:55**  
 **🏷️ Labels**: DPI-663, Course Design, Innovation, Government, Education  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

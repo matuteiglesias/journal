@@ -1,6 +1,6 @@
 ---
 title: "Session focused on life maintenance and focus"
-tags: ['Life Maintenance', 'Focus', 'Mindfulness', 'Personal Well-Being']
+tags: ["Life Maintenance", "Focus", "Mindfulness", "Personal Well-Being"]
 created: 2025-06-29
 publish: false
 ---
@@ -10,11 +10,11 @@ publish: false
 **🕒 20:10–20:25**  
 **🏷️ Labels**: Life Maintenance, Focus, Mindfulness, Personal Well-Being  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session was dedicated to life maintenance and focus, aiming to enhance personal well-being and productivity.
+The session was dedicated to life maintenance and focus, aiming to enhance personal well-being and [[productivity]].
 
 ### Key Activities
 - Engaged in a series of reflective practices and mindfulness exercises to improve focus and mental clarity.

@@ -1,6 +1,6 @@
 ---
 title: "Evaluated Optimal Solutions in Game Theory Scenarios"
-tags: ['Game Theory', 'Numerical Evaluation', 'Expected Payoff', 'Strategy', 'Optimization']
+tags: ["Game Theory", "Numerical Evaluation", "Expected Payoff", "Strategy", "Optimization"]
 created: 2024-12-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:55–20:20**  
 **🏷️ Labels**: Game Theory, Numerical Evaluation, Expected Payoff, Strategy, Optimization  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -31,5 +31,5 @@ The session aimed to evaluate optimal strategies and expected payoffs in various
 - Identified strategies for maximizing payoff based on opponent count.
 
 **Pending Tasks:**
-- Further refine numerical integration methods for handling edge cases in piecewise expressions.
-- Continue exploration of strategy shifts based on opponent count and risk management.
+- Further refine numerical [[integration]] methods for handling edge cases in piecewise expressions.
+- Continue exploration of [[strategy]] shifts based on opponent count and risk management.

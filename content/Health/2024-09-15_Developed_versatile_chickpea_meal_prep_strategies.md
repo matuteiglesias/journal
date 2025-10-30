@@ -1,6 +1,6 @@
 ---
 title: "Developed versatile chickpea meal prep strategies"
-tags: ['Chickpeas', 'Meal Prep', 'Recipes', 'Cooking', 'Healthy Eating']
+tags: ["Chickpeas", "Meal Prep", "Recipes", "Cooking", "Healthy Eating"]
 created: 2024-09-15
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 01:00–01:15**  
 **🏷️ Labels**: Chickpeas, Meal Prep, Recipes, Cooking, Healthy Eating  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

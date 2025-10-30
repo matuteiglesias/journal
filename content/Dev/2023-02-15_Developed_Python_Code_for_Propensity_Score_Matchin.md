@@ -1,6 +1,6 @@
 ---
 title: "Developed Python Code for Propensity Score Matching"
-tags: ['Python', 'Propensity Score Matching', 'Infrastructure Investment', 'Data Analysis']
+tags: ["Python", "Propensity Score Matching", "Infrastructure Investment", "Data Analysis"]
 created: 2023-02-15
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:10–16:15**  
 **🏷️ Labels**: Python, Propensity Score Matching, Infrastructure Investment, Data Analysis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** The session aimed to develop and refine [[Python]] code for implementing Propensity Score Matching (PSM) in infrastructure investment studies.

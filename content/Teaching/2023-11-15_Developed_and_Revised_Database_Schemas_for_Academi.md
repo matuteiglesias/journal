@@ -1,6 +1,6 @@
 ---
 title: "Developed and Revised Database Schemas for Academic Management"
-tags: ['Database Design', 'Academic Management', 'Data Management', 'Er Diagram', 'DBML', 'Graphviz']
+tags: ["Database Design", "Academic Management", "Data Management", "Er Diagram", "DBML", "Graphviz"]
 created: 2023-11-15
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:15–17:56**  
 **🏷️ Labels**: Database Design, Academic Management, Data Management, Er Diagram, DBML, Graphviz  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

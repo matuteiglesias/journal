@@ -1,6 +1,6 @@
 ---
 title: "Implemented DBF to CSV Extraction in Python"
-tags: ['Python', 'DBF', 'CSV', 'Data Processing', 'Automation']
+tags: ["Python", "DBF", "CSV", "Data Processing", "Automation"]
 created: 2025-09-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:05–19:15**  
 **🏷️ Labels**: Python, DBF, CSV, Data Processing, Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -28,4 +28,4 @@ The primary goal of this session was to implement a [[Python]] function and scri
 - Ensured the updated `extractor.py` code is ready for further development.
 
 ### Pending Tasks
-- Confirm the visualization and functionality of the scaffold for future improvements.
+- Confirm the [[visualization]] and functionality of the scaffold for future improvements.

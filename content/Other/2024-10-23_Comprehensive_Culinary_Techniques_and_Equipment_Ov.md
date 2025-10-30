@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Culinary Techniques and Equipment Overview"
-tags: ['Cooking', 'Culinary Arts', 'Techniques', 'Equipment', 'Recipes']
+tags: ["Cooking", "Culinary Arts", "Techniques", "Equipment", "Recipes"]
 created: 2024-10-23
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 00:20–02:15**  
 **🏷️ Labels**: Cooking, Culinary Arts, Techniques, Equipment, Recipes  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

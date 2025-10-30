@@ -1,6 +1,6 @@
 ---
 title: "Explored Interdisciplinary Organizational Dynamics"
-tags: ['Organizational Dynamics', 'Workplace Wellbeing', 'Interdisciplinary Strategies', 'Therapy', 'Personal Values']
+tags: ["Organizational Dynamics", "Workplace Wellbeing", "Interdisciplinary Strategies", "Therapy", "Personal Values"]
 created: 2023-12-08
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 01:15–01:40**  
 **🏷️ Labels**: Organizational Dynamics, Workplace Wellbeing, Interdisciplinary Strategies, Therapy, Personal Values  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to explore interdisciplinary strategies in organizational studies and their application to understanding workplace dynamics and psychological wellbeing.
 
 ### Key Activities
-- Reflected on various interdisciplinary branches contributing to organizational dynamics, including psychology, human resource management, communication, political science, sociology, leadership theory, social psychology, business ethics, and organizational development.
+- Reflected on various interdisciplinary branches contributing to organizational dynamics, including psychology, human resource management, [[communication]], political science, sociology, leadership theory, social psychology, business ethics, and organizational development.
 - Analyzed psychological workplace harassment within political and organizational contexts, focusing on recognition, power dynamics, mental health impacts, and strategies for promoting a healthy organizational culture.
 - Discussed therapeutic responses to political and personal challenges using cognitive-behavioral and humanistic approaches.
 - Explored cognitive behavioral therapy techniques for identifying and challenging negative thought patterns.

@@ -1,6 +1,6 @@
 ---
 title: "Developed educational activities on greedy algorithms"
-tags: ['Education', 'Greedy Algorithms', 'Python', 'Algorithm Efficiency', 'Critical Thinking']
+tags: ["Education", "Greedy Algorithms", "Python", "Algorithm Efficiency", "Critical Thinking"]
 created: 2023-08-08
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:50–22:25**  
 **🏷️ Labels**: Education, Greedy Algorithms, Python, Algorithm Efficiency, Critical Thinking  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -19,7 +19,7 @@ The session aimed to develop educational activities focusing on greedy algorithm
 ### Key Activities:
 - Introduced the problem of summing elements with specific cost functions, discussing constraints and requirements in various contexts.
 - Conducted a hands-on practice session analyzing algorithm efficiency, focusing on time and space complexity, potential challenges, and robustness.
-- Demonstrated a greedy strategy for minimum cost summation using [[Python]]'s min-heap data structure.
+- Demonstrated a greedy [[strategy]] for minimum cost summation using [[Python]]'s min-heap data structure.
 - Provided an overview of [[Python]]'s `heapq` module, detailing its methods and advantages for efficient element access.
 - Presented problems designed to encourage critical thinking and collaboration among students, covering topics like trip planning, project selection, and event organization.
 - Offered examples of greedy algorithm problems, such as coin distribution and conference scheduling.

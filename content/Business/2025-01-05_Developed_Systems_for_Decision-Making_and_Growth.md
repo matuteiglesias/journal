@@ -1,6 +1,6 @@
 ---
 title: "Developed Systems for Decision-Making and Growth"
-tags: ['Decision-Making', 'Risk Management', 'Personal Growth', 'Goal Setting', 'Political Strategy']
+tags: ["Decision-Making", "Risk Management", "Personal Growth", "Goal Setting", "Political Strategy"]
 created: 2025-01-05
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 07:45–07:55**  
 **🏷️ Labels**: Decision-Making, Risk Management, Personal Growth, Goal Setting, Political Strategy  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

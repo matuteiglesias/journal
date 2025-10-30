@@ -1,6 +1,6 @@
 ---
 title: "Conducted comprehensive job role assessments for AI and tech"
-tags: ['Job Assessment', 'AI', 'Data Engineering', 'Career Advice', 'Skills Evaluation']
+tags: ["Job Assessment", "AI", "Data Engineering", "Career Advice", "Skills Evaluation"]
 created: 2025-06-04
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 21:10–21:30**  
 **🏷️ Labels**: Job Assessment, AI, Data Engineering, Career Advice, Skills Evaluation  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

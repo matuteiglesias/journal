@@ -1,6 +1,6 @@
 ---
 title: "Developed and Debugged Email Automation Agents"
-tags: ['Email Automation', 'Python', 'Server Management', 'Debugging', 'Logging']
+tags: ["Email Automation", "Python", "Server Management", "Debugging", "Logging"]
 created: 2025-04-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:00–22:10**  
 **🏷️ Labels**: Email Automation, Python, Server Management, Debugging, Logging  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

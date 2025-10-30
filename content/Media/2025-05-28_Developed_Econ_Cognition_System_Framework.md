@@ -1,6 +1,6 @@
 ---
 title: "Developed Econ Cognition System Framework"
-tags: ['Econ Cognition', 'Yahoo Finance', 'Strategic Planning', 'Github', 'Data Management']
+tags: ["Econ Cognition", "Yahoo Finance", "Strategic Planning", "Github", "Data Management"]
 created: 2025-05-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 05:55–06:20**  
 **🏷️ Labels**: Econ Cognition, Yahoo Finance, Strategic Planning, Github, Data Management  
 **📂 Project**: Media  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -21,10 +21,10 @@ The session aimed to conceptualize and plan the development of an economic cogni
 - Analyzed Yahoo Finance's tech stack, focusing on frontend technologies like React, D3.js, and Highcharts, to understand real-time data handling and UI design.
 - Provided a technical breakdown of Yahoo Finance's right-hand sidebar, identifying key components and technologies.
 - Reflected on strategic evolution from December 2024 to May 2025, noting changes in emotional and professional states.
-- Proposed a structure for README.md files on GitHub to align author identity and project presentation.
-- Discussed a professional presentation combining economics, physics, and institutional development with a focus on automation and data accessibility.
-- Diagnosed the open data repository of Argentina's Ministry of Economy, suggesting improvements for optimization.
-- Offered a guide for diagnosing and solving common GitHub issues.
+- Proposed a structure for README.md files on [[GitHub]] to align author identity and project presentation.
+- Discussed a professional presentation combining economics, physics, and institutional development with a focus on [[automation]] and data accessibility.
+- Diagnosed the open data repository of Argentina's Ministry of Economy, suggesting improvements for [[optimization]].
+- Offered a guide for diagnosing and solving common [[GitHub]] issues.
 
 **Achievements:**
 - Established a foundational framework for the econ cognition system.
@@ -34,5 +34,5 @@ The session aimed to conceptualize and plan the development of an economic cogni
 **Pending Tasks:**
 - Further development and implementation of the econ cognition system.
 - Application of insights from Yahoo Finance analysis to personal projects.
-- Continued refinement of the README.md structure for GitHub projects.
+- Continued refinement of the README.md structure for [[GitHub]] projects.
 - Implementation of suggested improvements for Argentina's open data repository.

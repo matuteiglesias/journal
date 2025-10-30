@@ -1,6 +1,6 @@
 ---
 title: "Explored Health Implications of SARMs and Steroids"
-tags: ['Sarms', 'Steroids', 'Health', 'Supplements', 'Muscle Growth']
+tags: ["Sarms", "Steroids", "Health", "Supplements", "Muscle Growth"]
 created: 2023-09-06
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 04:30–06:20**  
 **🏷️ Labels**: Sarms, Steroids, Health, Supplements, Muscle Growth  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

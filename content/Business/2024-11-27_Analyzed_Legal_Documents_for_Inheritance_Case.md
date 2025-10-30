@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Legal Documents for Inheritance Case"
-tags: ['Legal Analysis', 'Inheritance', 'Document Review', 'Compliance', 'Asset Division']
+tags: ["Legal Analysis", "Inheritance", "Document Review", "Compliance", "Asset Division"]
 created: 2024-11-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 23:50–00:00**  
 **🏷️ Labels**: Legal Analysis, Inheritance, Document Review, Compliance, Asset Division  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** Analyze specific legal documents related to inheritance declarations to extract relevant information for a particular case.

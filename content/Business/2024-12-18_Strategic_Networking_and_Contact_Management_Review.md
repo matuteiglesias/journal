@@ -1,6 +1,6 @@
 ---
 title: "Strategic Networking and Contact Management Review"
-tags: ['Networking', 'Contact Management', 'Strategy', 'Relationship Management']
+tags: ["Networking", "Contact Management", "Strategy", "Relationship Management"]
 created: 2024-12-18
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 19:00–19:20**  
 **🏷️ Labels**: Networking, Contact Management, Strategy, Relationship Management  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to analyze and organize strategic contacts and relationships to enhance networking opportunities and collaboration.
+The session aimed to analyze and organize strategic contacts and relationships to enhance [[networking]] opportunities and collaboration.
 
 ### Key Activities
 - **Analysis of Strategic Contacts**: Reviewed a set of strategic and academic contacts, identifying latent or discarded ones, and suggesting actions to strengthen relationships.
@@ -24,7 +24,7 @@ The session aimed to analyze and organize strategic contacts and relationships t
 - **[[Optimization]] of Contact Categories**: Simplified the structure for managing contacts into four main categories and states, aiding prioritization of actions.
 
 ### Achievements
-- Established a comprehensive framework for contact management and strategic networking.
+- Established a comprehensive framework for contact management and strategic [[networking]].
 - Identified key actions to strengthen and maintain professional relationships.
 
 ### Pending Tasks

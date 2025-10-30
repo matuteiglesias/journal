@@ -1,6 +1,6 @@
 ---
 title: "Resolved linear algebra exercises using Python"
-tags: ['Linear Algebra', 'Gram-Schmidt', 'Python', 'Sympy', 'Orthogonal Projections']
+tags: ["Linear Algebra", "Gram-Schmidt", "Python", "Sympy", "Orthogonal Projections"]
 created: 2024-11-30
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 23:20–23:55**  
 **🏷️ Labels**: Linear Algebra, Gram-Schmidt, Python, Sympy, Orthogonal Projections  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

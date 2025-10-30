@@ -1,6 +1,6 @@
 ---
 title: "Critique and Planning of Economic Theories and Models"
-tags: ['Economic Theory', 'Macroeconomics', 'Firm Heterogeneity', 'Policy Implications', 'Blog Critique']
+tags: ["Economic Theory", "Macroeconomics", "Firm Heterogeneity", "Policy Implications", "Blog Critique"]
 created: 2025-01-13
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:45–19:40**  
 **🏷️ Labels**: Economic Theory, Macroeconomics, Firm Heterogeneity, Policy Implications, Blog Critique  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -21,7 +21,7 @@ The session aimed to critically assess existing economic theories and models, fo
 - Analyzed an article on small firms and macroeconomic stability, providing insights on potential improvements.
 - Proposed a blog post plan on economic volatility and its direct accounting.
 - Discussed topics aligning with economics writing expertise, focusing on quantitative analysis and innovative frameworks.
-- Evaluated blog recommendations for economics writers to guide content strategy.
+- Evaluated blog recommendations for economics writers to guide content [[strategy]].
 - Introduced a novel framework for understanding microeconomic volatility and macroeconomic stability.
 - Critiqued the Law of Large Numbers in economic aggregation, proposing the concept of 'postponement'.
 

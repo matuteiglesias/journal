@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Job Application Materials for STC Role"
-tags: ['Job Application', 'Cover Letter', 'Strategic Communication', 'Consultant Role', 'Professional Writing']
+tags: ["Job Application", "Cover Letter", "Strategic Communication", "Consultant Role", "Professional Writing"]
 created: 2025-07-31
 publish: false
 ---
@@ -10,11 +10,11 @@ publish: false
 **🕒 17:05–20:00**  
 **🏷️ Labels**: Job Application, Cover Letter, Strategic Communication, Consultant Role, Professional Writing  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
-The session aimed to develop comprehensive and tailored job application materials for a consultant role at STC, focusing on strategic communication and differentiation.
+The session aimed to develop comprehensive and tailored job application materials for a consultant role at STC, focusing on strategic [[communication]] and differentiation.
 
 ### Key Activities:
 - **Application [[Strategy]]:** Outlined a strategic plan for submitting core application materials and a supplementary dossier, emphasizing clarity and showcasing key professional dimensions.

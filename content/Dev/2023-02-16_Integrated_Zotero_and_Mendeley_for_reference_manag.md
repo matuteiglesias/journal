@@ -1,6 +1,6 @@
 ---
 title: "Integrated Zotero and Mendeley for reference management"
-tags: ['Zotero', 'Mendeley', 'Reference Management', 'Ubuntu', 'Citation']
+tags: ["Zotero", "Mendeley", "Reference Management", "Ubuntu", "Citation"]
 created: 2023-02-16
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 02:00–02:50**  
 **🏷️ Labels**: Zotero, Mendeley, Reference Management, Ubuntu, Citation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** The session aimed to streamline the reference management process by integrating Zotero and Mendeley tools, enhancing academic research workflows.
@@ -26,5 +26,5 @@ publish: true
 - Enabled seamless citation export and management, facilitating academic writing and research.
 
 **Pending Tasks:**
-- Explore further integration options between Zotero and Mendeley for enhanced functionality.
+- Explore further [[integration]] options between Zotero and Mendeley for enhanced functionality.
 - Investigate additional citation management tools that could complement the current setup.

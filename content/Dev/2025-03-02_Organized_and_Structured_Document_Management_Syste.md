@@ -1,6 +1,6 @@
 ---
 title: "Organized and Structured Document Management System"
-tags: ['Document Management', 'Organization', 'Google Drive', 'File Management', 'Productivity']
+tags: ["Document Management", "Organization", "Google Drive", "File Management", "Productivity"]
 created: 2025-03-02
 publish: true
 ---
@@ -10,15 +10,15 @@ publish: true
 **🕒 20:50–21:25**  
 **🏷️ Labels**: Document Management, Organization, Google Drive, File Management, Productivity  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
-The session aimed to organize and structure various documents and files across different domains, including automation, career development, finance, and productivity, to enhance accessibility and operational efficiency.
+The session aimed to organize and structure various documents and files across different domains, including [[automation]], career development, finance, and [[productivity]], to enhance accessibility and operational efficiency.
 
 ### Key Activities:
-- Conducted an overview of document contents, categorizing them into themes such as coding, productivity, career development, and economic research.
-- Summarized academic and professional reference materials related to data science and economics.
+- Conducted an overview of document contents, categorizing them into themes such as coding, [[productivity]], career development, and economic research.
+- Summarized academic and professional reference materials related to [[data science]] and economics.
 - Categorized miscellaneous files into specific categories like government contributions and contact lists.
 - Explored strategies for obtaining credit cards despite financial restrictions.
 - Suggested document titles for better organization and management.

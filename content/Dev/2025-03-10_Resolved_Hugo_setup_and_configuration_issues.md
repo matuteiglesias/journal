@@ -1,6 +1,6 @@
 ---
 title: "Resolved Hugo setup and configuration issues"
-tags: ['Hugo', 'Web Development', 'Jupyter Notebooks', 'Configuration', 'Debugging']
+tags: ["Hugo", "Web Development", "Jupyter Notebooks", "Configuration", "Debugging"]
 created: 2025-03-10
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 20:45–21:20**  
 **🏷️ Labels**: Hugo, Web Development, Jupyter Notebooks, Configuration, Debugging  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The primary goal of this session was to address and resolve multiple issues with a Hugo setup, focusing on configuration errors, path mismatches, and build warnings.
+The primary goal of this session was to address and resolve multiple issues with a Hugo setup, focusing on [[configuration]] errors, path mismatches, and build warnings.
 
 ### Key Activities
 - **Reconstructed Hugo Setup**: Addressed common issues such as correcting the `baseURL` and resolving path mismatches for [[Jupyter]] notebooks.
@@ -28,7 +28,7 @@ The primary goal of this session was to address and resolve multiple issues with
 - Successfully corrected the `baseURL` and path mismatches, ensuring proper site generation.
 - Eliminated build warnings by establishing necessary layout files.
 - Improved the organization and functionality of [[Jupyter]] notebooks within the Hugo site.
-- Resolved configuration issues, ensuring the site serves correctly on GitHub Pages.
+- Resolved [[configuration]] issues, ensuring the site serves correctly on [[GitHub]] Pages.
 
 ### Pending Tasks
-- Continuous monitoring and testing of the Hugo site to prevent future configuration and path issues.
+- Continuous monitoring and testing of the Hugo site to prevent future [[configuration]] and path issues.

@@ -1,6 +1,6 @@
 ---
 title: "Developed AI Framework for Text Comprehension"
-tags: ['AI', 'Text Analysis', 'Schema Design', 'Reading Comprehension']
+tags: ["AI", "Text Analysis", "Schema Design", "Reading Comprehension"]
 created: 2025-02-08
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:35–23:20**  
 **🏷️ Labels**: AI, Text Analysis, Schema Design, Reading Comprehension  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

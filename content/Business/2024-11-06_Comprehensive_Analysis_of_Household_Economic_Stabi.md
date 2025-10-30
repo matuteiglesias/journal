@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Analysis of Household Economic Stability"
-tags: ['DHS', 'Economic Stability', 'Data Analysis', 'Wealth Analysis', 'Public Health']
+tags: ["DHS", "Economic Stability", "Data Analysis", "Wealth Analysis", "Public Health"]
 created: 2024-11-06
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:30–17:05**  
 **🏷️ Labels**: DHS, Economic Stability, Data Analysis, Wealth Analysis, Public Health  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -23,7 +23,7 @@ The session aimed to explore various aspects of household economic stability usi
 - Integrated wealth-related variables into economic analysis to understand economic stability and inequality.
 - Analyzed living conditions and access to services, focusing on urban-rural disparities and public health implications.
 - Examined agricultural assets and livelihoods to assess economic resilience in rural areas.
-- Executed [[Python]] code for household demographic analysis and wealth index analysis using pandas.
+- Executed [[Python]] code for household demographic analysis and wealth index analysis using [[pandas]].
 
 **Achievements:**
 - Developed a comprehensive plan for analyzing household economic stability and socio-demographic factors.

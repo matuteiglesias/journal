@@ -1,6 +1,6 @@
 ---
 title: "Reviewed and Managed Tax Payment Issues and Reports"
-tags: ['Tax Management', 'ABL', 'Reporting', 'AGIP', 'Financial Transactions']
+tags: ["Tax Management", "ABL", "Reporting", "AGIP", "Financial Transactions"]
 created: 2024-11-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:50–18:15**  
 **🏷️ Labels**: Tax Management, ABL, Reporting, AGIP, Financial Transactions  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,7 +18,7 @@ The session aimed to review and manage issues related to tax payments, specifica
 
 ### Key Activities
 - Conducted detailed analysis of tax tickets related to the Impuesto Inmobiliario ABL, identifying errors and recommending process improvements.
-- Summarized various tax procedures and responses to taxpayers, emphasizing the use of the TAD platform and the importance of supporting documentation.
+- Summarized various tax procedures and responses to taxpayers, emphasizing the use of the TAD platform and the importance of supporting [[documentation]].
 - Analyzed discrepancies in 'Pago Doble' transactions, offering insights and suggestions for better management.
 - Developed a template for filing complaints to AGIP regarding duplicate charges.
 - Outlined a comprehensive summary report for socio-economic conditions in select African countries, integrating data from Afrobarometer, DHS, and ACLED.

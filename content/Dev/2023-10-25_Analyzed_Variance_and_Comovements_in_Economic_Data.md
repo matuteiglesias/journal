@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Variance and Comovements in Economic Data"
-tags: ['Variance', 'Comovements', 'Pandas', 'Econometrics', 'Data Analysis']
+tags: ["Variance", "Comovements", "Pandas", "Econometrics", "Data Analysis"]
 created: 2023-10-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:35–22:44**  
 **🏷️ Labels**: Variance, Comovements, Pandas, Econometrics, Data Analysis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

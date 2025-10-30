@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Diagnostic and Maintenance for Peugeot 207"
-tags: ['Peugeot 207', 'Cooling System', 'Transmission', 'Diagnostics', 'Automotive']
+tags: ["Peugeot 207", "Cooling System", "Transmission", "Diagnostics", "Automotive"]
 created: 2025-09-25
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 12:50–15:55**  
 **🏷️ Labels**: Peugeot 207, Cooling System, Transmission, Diagnostics, Automotive  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

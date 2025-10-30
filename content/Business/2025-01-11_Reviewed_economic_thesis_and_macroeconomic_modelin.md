@@ -1,6 +1,6 @@
 ---
 title: "Reviewed economic thesis and macroeconomic modeling insights"
-tags: ['Economics', 'Thesis', 'Macroeconomics', 'Volatility', 'Modeling']
+tags: ["Economics", "Thesis", "Macroeconomics", "Volatility", "Modeling"]
 created: 2025-01-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 06:55–07:15**  
 **🏷️ Labels**: Economics, Thesis, Macroeconomics, Volatility, Modeling  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

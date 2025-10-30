@@ -1,6 +1,6 @@
 ---
 title: "Established accounting and valuation systems for assets"
-tags: ['Accounting', 'Bookkeeping', 'Depreciation', 'Valuation', 'Debt Management']
+tags: ["Accounting", "Bookkeeping", "Depreciation", "Valuation", "Debt Management"]
 created: 2024-01-05
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:10–23:05**  
 **🏷️ Labels**: Accounting, Bookkeeping, Depreciation, Valuation, Debt Management  
 **📂 Project**: Accounting  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

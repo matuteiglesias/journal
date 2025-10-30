@@ -1,6 +1,6 @@
 ---
 title: "Designed AI Autocomplete and Event Bus Frameworks"
-tags: ['Emailwatcher', 'Gmail Copilot', 'Event Bus', 'Redis', 'Rabbitmq']
+tags: ["Emailwatcher", "Gmail Copilot", "Event Bus", "Redis", "Rabbitmq"]
 created: 2025-04-26
 publish: true
 ---
@@ -10,16 +10,16 @@ publish: true
 **🕒 00:00–00:05**  
 **🏷️ Labels**: Emailwatcher, Gmail Copilot, Event Bus, Redis, Rabbitmq  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to design a minimal EmailWatcher agent, explore the development of a Gmail-embedded sales copilot inspired by GitHub Copilot, and evaluate event bus design options.
+The session aimed to design a minimal EmailWatcher agent, explore the development of a Gmail-embedded sales copilot inspired by [[GitHub]] Copilot, and evaluate event bus design options.
 
 ### Key Activities
 - **EmailWatcher Agent**: Reflected on the core design principles for a minimal EmailWatcher agent focusing on simplicity and effectiveness.
-- **Gmail-Embedded Sales Copilot**: Planned the development of an autocomplete system for Gmail using open-source software, inspired by GitHub Copilot, to enhance email productivity.
-- **GitHub Copilot Research**: Investigated GitHub Copilot's integration in VS Code to inform the Gmail autocomplete system's design.
+- **Gmail-Embedded Sales Copilot**: Planned the development of an autocomplete system for Gmail using open-source software, inspired by [[GitHub]] Copilot, to enhance email [[productivity]].
+- **[[GitHub]] Copilot Research**: Investigated [[GitHub]] Copilot's [[integration]] in VS Code to inform the Gmail autocomplete system's design.
 - **Event Bus Design**: Compared Redis Pub/Sub and RabbitMQ for event bus architecture, providing a decision framework based on speed, simplicity, and scalability.
 - **[[AI]] Autocomplete for Gmail**: Developed a strategic plan for a Gmail autocomplete feature, focusing on real-time suggestions and user privacy.
 - **Scientific Event Bus Design**: Outlined the design for an ultra-simple scientific event bus, ensuring operational efficiency and scalability.

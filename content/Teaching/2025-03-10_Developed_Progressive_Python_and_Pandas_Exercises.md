@@ -1,6 +1,6 @@
 ---
 title: "Developed Progressive Python and Pandas Exercises"
-tags: ['Python', 'Pandas', 'Education', 'Exercises', 'Programming']
+tags: ["Python", "Pandas", "Education", "Exercises", "Programming"]
 created: 2025-03-10
 publish: true
 ---
@@ -10,16 +10,16 @@ publish: true
 **🕒 07:05–09:00**  
 **🏷️ Labels**: Python, Pandas, Education, Exercises, Programming  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
 The session aimed to develop a structured set of exercises for beginners in [[Python]] and [[Pandas]], focusing on foundational programming concepts and data manipulation skills.
 
 **Key Activities:**
-- Designed beginner-friendly [[Python]] exercises covering basic concepts to executable programs, including a 'Geringoso' translator and debugging tasks.
+- Designed beginner-friendly [[Python]] exercises covering basic concepts to executable programs, including a 'Geringoso' translator and [[debugging]] tasks.
 - Improved existing exercises to enhance learning, focusing on alternative approaches like using sums instead of multiplication.
-- Developed a coherent strategy for progressive [[Python]] exercises that reinforce learning through functions, classes, and executable scripts.
+- Developed a coherent [[strategy]] for progressive [[Python]] exercises that reinforce learning through functions, classes, and executable scripts.
 - Created exercises targeting common beginner errors in [[Python]], providing solutions and code examples.
 - Proposed a new structure for teaching [[Pandas]], dividing exercises into blocks covering fundamentals, indexing, data combination, and aggregation.
 - Implemented practical exercises for data conversion using [[Pandas]] and accessing Google Sheets via Google Cloud.

@@ -1,6 +1,6 @@
 ---
 title: "Culinary Exploration and Geospatial Mapping"
-tags: ['Cooking', 'Geospatial', 'Python', 'Recipes', 'Visualization']
+tags: ["Cooking", "Geospatial", "Python", "Recipes", "Visualization"]
 created: 2024-10-24
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 00:00–00:00**  
 **🏷️ Labels**: Cooking, Geospatial, Python, Recipes, Visualization  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal
@@ -24,12 +24,12 @@ The session aimed to explore advanced cooking techniques and geospatial mapping 
 - **Geospatial Mapping:**
   - Developed [[Python]] scripts using GeoPandas and [[Matplotlib]] for visualizing global study sites.
   - Focused on improving map aesthetics and functionality, particularly for African study locations.
-  - Implemented downloading and loading of Natural Earth datasets for shapefile visualization.
+  - Implemented downloading and loading of Natural Earth datasets for shapefile [[visualization]].
 
 ### Achievements
 - Successfully created and documented several recipes, enhancing culinary skills.
-- Developed and refined [[Python]] scripts for geospatial data visualization, improving map clarity and focus.
+- Developed and refined [[Python]] scripts for geospatial [[data [[visualization]]]], improving map clarity and focus.
 
 ### Pending Tasks
-- Further refinement of map visualization techniques to enhance clarity and aesthetic appeal.
+- Further refinement of map [[visualization]] techniques to enhance clarity and aesthetic appeal.
 - Experimentation with additional seasoning techniques for diverse dishes.

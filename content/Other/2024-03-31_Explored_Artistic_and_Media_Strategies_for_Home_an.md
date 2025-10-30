@@ -1,6 +1,6 @@
 ---
 title: "Explored Artistic and Media Strategies for Home and Business"
-tags: ['Artwork', 'Backyard', 'Mural', 'Media Relations', 'Home Improvement']
+tags: ["Artwork", "Backyard", "Mural", "Media Relations", "Home Improvement"]
 created: 2024-03-31
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 17:10–18:40**  
 **🏷️ Labels**: Artwork, Backyard, Mural, Media Relations, Home Improvement  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

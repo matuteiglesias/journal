@@ -1,6 +1,6 @@
 ---
 title: "Debugged ragflow and MySQL setup"
-tags: ['Debugging', 'Ragflow', 'Mysql', 'Git', 'Security']
+tags: ["Debugging", "Ragflow", "Mysql", "Git", "Security"]
 created: 2025-05-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:30–02:10**  
 **🏷️ Labels**: Debugging, Ragflow, Mysql, Git, Security  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,8 +18,8 @@ The session aimed to debug the `ragflow` application and set up MySQL to ensure 
 
 ### Key Activities
 - **[[Debugging]] ragflow and MySQL**: Focused on environment initialization and applied necessary fixes.
-- **Onboarding Checklist**: Created a comprehensive checklist for new developers to set up the local development environment, including MySQL configuration and Docker setup.
-- **[[Git]] [[Workflow]] Guidance**: Provided structured guides for committing local changes, resolving remote origin errors, and handling detected secrets in GitHub commits.
+- **Onboarding Checklist**: Created a comprehensive checklist for new developers to set up the local development environment, including MySQL [[configuration]] and Docker setup.
+- **[[Git]] [[Workflow]] Guidance**: Provided structured guides for committing local changes, resolving remote origin errors, and handling detected secrets in [[GitHub]] commits.
 - **[[Git]] Cleanup**: Offered practical options for cleaning up [[Git]] repositories, ensuring secure handling of sensitive information.
 
 ### Achievements

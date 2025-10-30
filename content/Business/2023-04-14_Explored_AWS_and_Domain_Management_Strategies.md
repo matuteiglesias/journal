@@ -1,6 +1,6 @@
 ---
 title: "Explored AWS and Domain Management Strategies"
-tags: ['AWS', 'Domain Management', 'Html Development', 'Billing', 'Web Hosting']
+tags: ["AWS", "Domain Management", "Html Development", "Billing", "Web Hosting"]
 created: 2023-04-14
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:50–01:45**  
 **🏷️ Labels**: AWS, Domain Management, Html Development, Billing, Web Hosting  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -27,7 +27,7 @@ The session aimed to explore domain registration alternatives, understand AWS bi
 - Identified viable alternatives for domain registration.
 - Clarified AWS billing procedures and accessed relevant resources.
 - Managed domain-related tasks efficiently, including potential domain transfers and recovery strategies.
-- Enhanced HTML development workflow with real-time editing and preview capabilities.
+- Enhanced HTML development [[workflow]] with real-time editing and preview capabilities.
 
 ### Pending Tasks:
 - Further exploration of AWS security groups and additional cloud resources.

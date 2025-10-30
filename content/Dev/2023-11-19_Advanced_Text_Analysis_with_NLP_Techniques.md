@@ -1,6 +1,6 @@
 ---
 title: "Advanced Text Analysis with NLP Techniques"
-tags: ['NLP', 'Python', 'Text Analysis', 'Spacy', 'NLTK', 'Docentes']
+tags: ["NLP", "Python", "Text Analysis", "Spacy", "NLTK", "Docentes"]
 created: 2023-11-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:15–22:25**  
 **🏷️ Labels**: NLP, Python, Text Analysis, Spacy, NLTK, Docentes  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

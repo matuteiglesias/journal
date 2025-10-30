@@ -1,6 +1,6 @@
 ---
 title: "Developed optimized backtracking for magic squares"
-tags: ['Magic Squares', 'Backtracking', 'Algorithm Optimization', 'Latex', 'Programming']
+tags: ["Magic Squares", "Backtracking", "Algorithm Optimization", "Latex", "Programming"]
 created: 2023-07-24
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:00–01:00**  
 **🏷️ Labels**: Magic Squares, Backtracking, Algorithm Optimization, Latex, Programming  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

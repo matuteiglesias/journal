@@ -1,6 +1,6 @@
 ---
 title: "Resolved server file access and SSH tunneling issues"
-tags: ['SSH', 'Troubleshooting', 'Server', 'Networking', 'Linux']
+tags: ["SSH", "Troubleshooting", "Server", "Networking", "Linux"]
 created: 2023-04-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:50–02:05**  
 **🏷️ Labels**: SSH, Troubleshooting, Server, Networking, Linux  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

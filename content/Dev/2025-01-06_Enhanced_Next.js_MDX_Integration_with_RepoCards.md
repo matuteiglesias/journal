@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Next.js MDX Integration with RepoCards"
-tags: ['MDX', 'Next.Js', 'Repocards', 'Automation', 'Data Fetching']
+tags: ["MDX", "Next.Js", "Repocards", "Automation", "Data Fetching"]
 created: 2025-01-06
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 15:20–16:00**  
 **🏷️ Labels**: MDX, Next.Js, Repocards, Automation, Data Fetching  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The primary goal of this session was to enhance the integration of MDX files with Next.js by utilizing `RepoCards` components, optimizing data fetching with `getStaticProps`, and addressing layout issues.
+The primary goal of this session was to enhance the [[integration]] of MDX files with Next.js by utilizing `RepoCards` components, optimizing data fetching with `getStaticProps`, and addressing layout issues.
 
 ### Key Activities
 - **Rendering RepoCards in MDX Pages**: Implemented a method to render `<RepoCards>` directly within `page.mdx` files, allowing for independent repository display and simplifying the wrapper component.
@@ -27,10 +27,10 @@ The primary goal of this session was to enhance the integration of MDX files wit
 - **Template-Driven MDX Generation**: Planned a template-driven approach for generating MDX files using [[Python]] scripts.
 
 ### Achievements
-- Successfully integrated `RepoCards` with MDX in Next.js, improving modularity and data management.
+- Successfully integrated `RepoCards` with MDX in Next.js, improving modularity and [[data management]].
 - Enhanced data fetching strategies using `getStaticProps`, resolving top-level `await` issues.
-- Improved workflow efficiency with automation scripts for [[JSON]] insertion and MDX file generation.
+- Improved [[workflow]] efficiency with [[automation]] scripts for [[JSON]] insertion and MDX file generation.
 
 ### Pending Tasks
 - Further testing of the template-driven MDX generation approach to ensure robustness and flexibility.
-- Exploration of additional automation opportunities in MDX and Next.js integration workflows.
+- Exploration of additional [[automation]] opportunities in MDX and Next.js [[integration]] workflows.

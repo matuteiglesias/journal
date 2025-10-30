@@ -1,6 +1,6 @@
 ---
 title: "Developed SEO and Google Ads strategies for poverty awareness"
-tags: ['SEO', 'Google Ads', 'Poverty', 'Argentina', 'Digital Marketing', 'Web Development']
+tags: ["SEO", "Google Ads", "Poverty", "Argentina", "Digital Marketing", "Web Development"]
 created: 2023-11-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:35–19:00**  
 **🏷️ Labels**: SEO, Google Ads, Poverty, Argentina, Digital Marketing, Web Development  
 **📂 Project**: SEO  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,7 +25,7 @@ The session aimed to enhance online visibility and engagement for a web project 
 - Provided instructions for inserting Google Analytics tracking code into HTML for data collection.
 
 ### Achievements
-- Formulated a comprehensive [[SEO]] strategy for a niche topic.
+- Formulated a comprehensive [[SEO]] [[strategy]] for a niche topic.
 - Created and refined Google Ads content to enhance campaign effectiveness.
 - Established a set of keyword themes to attract a relevant audience.
 - Implemented Google Analytics tracking for better data insights.

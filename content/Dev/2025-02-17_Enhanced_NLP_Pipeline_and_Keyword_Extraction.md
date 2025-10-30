@@ -1,6 +1,6 @@
 ---
 title: "Enhanced NLP Pipeline and Keyword Extraction"
-tags: ['NLP', 'RAKE', 'Tfidfvectorizer', 'Python', 'Keyword Extraction']
+tags: ["NLP", "RAKE", "Tfidfvectorizer", "Python", "Keyword Extraction"]
 created: 2025-02-17
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:00–16:30**  
 **🏷️ Labels**: NLP, RAKE, Tfidfvectorizer, Python, Keyword Extraction  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

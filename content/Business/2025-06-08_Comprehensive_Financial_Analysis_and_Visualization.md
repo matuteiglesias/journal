@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Financial Analysis and Visualization"
-tags: ['Financial Analysis', 'Debt Management', 'Data Visualization', 'Python', 'Pandas']
+tags: ["Financial Analysis", "Debt Management", "Data Visualization", "Python", "Pandas"]
 created: 2025-06-08
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:25–21:00**  
 **🏷️ Labels**: Financial Analysis, Debt Management, Data Visualization, Python, Pandas  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,10 +23,10 @@ The session aimed to analyze and visualize various aspects of financial manageme
 - Analyzed debt progression in pesos and USD, identifying trends, stability periods, and potential risks, along with strategic recommendations.
 - Developed a step-by-step guide for calculating net financial position using cumulative revenue and debt, supported by [[Python]] code.
 - Integrated Saldo PM MI into net position calculations and visualized the data using [[Python]] and [[Pandas]].
-- Resolved common overlap errors in [[Pandas]] DataFrame merges, providing solutions for effective data manipulation.
+- Resolved common overlap errors in [[Pandas]] [[DataFrame]] merges, providing solutions for effective data manipulation.
 
 ### Achievements
-- Successfully analyzed and provided insights into debt management and financial strategy.
+- Successfully analyzed and provided insights into debt management and financial [[strategy]].
 - Developed clear visualizations to aid in financial decision-making.
 - Addressed technical challenges in data manipulation with practical solutions.
 

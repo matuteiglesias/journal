@@ -1,6 +1,6 @@
 ---
 title: "Automated Space and Folder Management in Hugging Face"
-tags: ['Hugging Face', 'Automation', 'Python', 'Deployment', 'Dependency Management']
+tags: ["Hugging Face", "Automation", "Python", "Deployment", "Dependency Management"]
 created: 2025-05-03
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 08:45–09:25**  
 **🏷️ Labels**: Hugging Face, Automation, Python, Deployment, Dependency Management  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -31,4 +31,4 @@ The session aimed to automate the process of managing Spaces and folders in Hugg
 - Enhanced the robustness and user experience of the AgentLab setup process.
 
 ### Pending Tasks
-- Further testing and validation of the deployment strategies and dependency management solutions in various environments.
+- Further testing and validation of the [[deployment]] strategies and dependency management solutions in various environments.

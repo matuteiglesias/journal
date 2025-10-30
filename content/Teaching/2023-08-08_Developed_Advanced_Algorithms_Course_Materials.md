@@ -1,6 +1,6 @@
 ---
 title: "Developed Advanced Algorithms Course Materials"
-tags: ['Algorithms', 'Course Design', 'Teaching', 'Computational Geometry', 'Syllabus']
+tags: ["Algorithms", "Course Design", "Teaching", "Computational Geometry", "Syllabus"]
 created: 2023-08-08
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:15–21:45**  
 **🏷️ Labels**: Algorithms, Course Design, Teaching, Computational Geometry, Syllabus  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

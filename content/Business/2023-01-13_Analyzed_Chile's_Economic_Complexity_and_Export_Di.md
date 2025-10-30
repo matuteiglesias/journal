@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Chile's Economic Complexity and Export Diversification"
-tags: ['Economic Complexity', 'Chile', 'Export Diversification', 'Trade Agreements', 'Regional Development']
+tags: ["Economic Complexity", "Chile", "Export Diversification", "Trade Agreements", "Regional Development"]
 created: 2023-01-13
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:00–20:00**  
 **🏷️ Labels**: Economic Complexity, Chile, Export Diversification, Trade Agreements, Regional Development  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

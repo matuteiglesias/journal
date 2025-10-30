@@ -1,6 +1,6 @@
 ---
 title: "Developed Modular KnowledgeBaseSync for Gradio RAG App"
-tags: ['Gradio', 'Knowledgebasesync', 'Apache License', 'Productization', 'Mentorship']
+tags: ["Gradio", "Knowledgebasesync", "Apache License", "Productization", "Mentorship"]
 created: 2025-05-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:00–22:20**  
 **🏷️ Labels**: Gradio, Knowledgebasesync, Apache License, Productization, Mentorship  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** The session aimed to design a modular `KnowledgeBaseSync` component for a Gradio RAG application, focusing on efficient synchronization with ChromaDB and ensuring modularity from the UI.

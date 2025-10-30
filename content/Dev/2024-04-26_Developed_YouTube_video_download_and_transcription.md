@@ -1,6 +1,6 @@
 ---
 title: "Developed YouTube video download and transcription script"
-tags: ['Python', 'Youtube', 'Automation', 'Speech-To-Text', 'Yt-Dlp']
+tags: ["Python", "Youtube", "Automation", "Speech-To-Text", "Yt-Dlp"]
 created: 2024-04-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 12:25–12:50**  
 **🏷️ Labels**: Python, Youtube, Automation, Speech-To-Text, Yt-Dlp  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

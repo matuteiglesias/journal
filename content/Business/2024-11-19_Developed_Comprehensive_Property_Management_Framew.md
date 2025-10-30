@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Property Management Framework"
-tags: ['Property Management', 'Legal Framework', 'Financial Planning', 'Usufruct', 'Dividend Distribution']
+tags: ["Property Management", "Legal Framework", "Financial Planning", "Usufruct", "Dividend Distribution"]
 created: 2024-11-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 05:30–08:30**  
 **🏷️ Labels**: Property Management, Legal Framework, Financial Planning, Usufruct, Dividend Distribution  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

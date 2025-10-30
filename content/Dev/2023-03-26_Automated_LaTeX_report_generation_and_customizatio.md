@@ -1,6 +1,6 @@
 ---
 title: "Automated LaTeX report generation and customization"
-tags: ['Python', 'Latex', 'Automation', 'Scripting', 'Data Processing']
+tags: ["Python", "Latex", "Automation", "Scripting", "Data Processing"]
 created: 2023-03-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:50–20:30**  
 **🏷️ Labels**: Python, Latex, Automation, Scripting, Data Processing  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -24,7 +24,7 @@ The session aimed to automate the generation and customization of LaTeX reports 
 - Automated the compilation of LaTeX files into PDFs using [[Python]]'s subprocess module.
 
 **Achievements:**
-- Successfully created a workflow for generating and customizing LaTeX reports, including the automation of PDF compilation.
+- Successfully created a [[workflow]] for generating and customizing LaTeX reports, including the [[automation]] of PDF compilation.
 
 **Pending Tasks:**
-- Further testing of the automation scripts to ensure compatibility with different LaTeX templates and data sources.
+- Further testing of the [[automation]] scripts to ensure compatibility with different LaTeX templates and data sources.

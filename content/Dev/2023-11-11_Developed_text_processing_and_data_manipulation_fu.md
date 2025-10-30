@@ -1,6 +1,6 @@
 ---
 title: "Developed text processing and data manipulation functions"
-tags: ['Python', 'Text Processing', 'Data Manipulation', 'NLP', 'Automation']
+tags: ["Python", "Text Processing", "Data Manipulation", "NLP", "Automation"]
 created: 2023-11-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:00–04:40**  
 **🏷️ Labels**: Python, Text Processing, Data Manipulation, NLP, Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,12 +23,12 @@ The session aimed to develop and refine functions for text processing and data m
 - Developed [[Python]] rules for fixing parsing errors using `str.replace()` and regular expressions.
 - Created functions for text cleaning and standardization, focusing on punctuation, spacing, and spelling corrections.
 - Applied cleaning functions to merged sections and regenerated them from original data after a disconnection.
-- Converted cleaned text data into a [[Pandas]] DataFrame for further analysis.
+- Converted cleaned text data into a [[Pandas]] [[DataFrame]] for further analysis.
 - Counted word frequencies in Spanish text using NLTK, excluding stopwords.
 
 ### Achievements
 - Successfully developed and tested multiple text processing functions, improving data quality and consistency.
-- Enhanced data manipulation capabilities with [[Pandas]], facilitating structured data analysis.
+- Enhanced data manipulation capabilities with [[Pandas]], facilitating structured [[data analysis]].
 - Established a framework for semantic analysis, setting the stage for future NLP tasks.
 
 ### Pending Tasks

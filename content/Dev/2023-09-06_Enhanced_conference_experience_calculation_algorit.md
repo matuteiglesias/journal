@@ -1,6 +1,6 @@
 ---
 title: "Enhanced conference experience calculation algorithm"
-tags: ['Python', 'Algorithm', 'Optimization', 'Conferences', 'Rest Days']
+tags: ["Python", "Algorithm", "Optimization", "Conferences", "Rest Days"]
 created: 2023-09-06
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:10–19:35**  
 **🏷️ Labels**: Python, Algorithm, Optimization, Conferences, Rest Days  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

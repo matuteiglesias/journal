@@ -1,6 +1,6 @@
 ---
 title: "Explored Python Threading and Summarization Techniques"
-tags: ['Python', 'Threading', 'Summarization', 'PDF', 'Cloud Computing']
+tags: ["Python", "Threading", "Summarization", "PDF", "Cloud Computing"]
 created: 2025-02-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:40–21:48**  
 **🏷️ Labels**: Python, Threading, Summarization, PDF, Cloud Computing  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,7 +19,7 @@ The session aimed to explore best practices in [[Python]] threading and delve in
 ### Key Activities
 - Discussed thread safety in [[Python]], focusing on lock initialization and usage to prevent deadlocks and enhance performance.
 - Explored best practices for data operations in multi-threaded environments to ensure data integrity.
-- Developed an efficient PDF text extraction function with error handling and logging.
+- Developed an efficient PDF text extraction function with [[error handling]] and logging.
 - Analyzed interruptions in PDF text extraction, identifying specific failure points.
 - Engaged in a technical discussion on cloud provisioning and SaaS design, covering scalability, reliability, and security.
 - Implemented a customizable text summarizer using command-line arguments for flexibility.

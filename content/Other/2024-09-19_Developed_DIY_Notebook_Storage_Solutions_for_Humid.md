@@ -1,6 +1,6 @@
 ---
 title: "Developed DIY Notebook Storage Solutions for Humid Areas"
-tags: ['Storage', 'Notebooks', 'Humidity', 'DIY', 'Vacuum Sealing']
+tags: ["Storage", "Notebooks", "Humidity", "DIY", "Vacuum Sealing"]
 created: 2024-09-19
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 01:40–01:50**  
 **🏷️ Labels**: Storage, Notebooks, Humidity, DIY, Vacuum Sealing  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

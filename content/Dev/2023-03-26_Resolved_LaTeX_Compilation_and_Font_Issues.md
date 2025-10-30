@@ -1,6 +1,6 @@
 ---
 title: "Resolved LaTeX Compilation and Font Issues"
-tags: ['Latex', 'Python', 'Font Management', 'Automation', 'Error Resolution']
+tags: ["Latex", "Python", "Font Management", "Automation", "Error Resolution"]
 created: 2023-03-26
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 20:35–20:55**  
 **🏷️ Labels**: Latex, Python, Font Management, Automation, Error Resolution  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to address multiple issues related to LaTeX document compilation, focusing on script automation, missing style files, font errors, and image loading problems.
+The session aimed to address multiple issues related to LaTeX document compilation, focusing on script [[automation]], missing style files, font errors, and image loading problems.
 
 **Key Activities:**
 - Developed a [[Python]] script to automate the compilation of .tex files into PDFs and manage output directories.
@@ -30,4 +30,4 @@ The session aimed to address multiple issues related to LaTeX document compilati
 
 **Pending Tasks:**
 - Further testing of the [[Python]] script in different environments to ensure robustness.
-- Exploration of additional font compatibility and error handling strategies in LaTeX.
+- Exploration of additional font compatibility and [[error handling]] strategies in LaTeX.

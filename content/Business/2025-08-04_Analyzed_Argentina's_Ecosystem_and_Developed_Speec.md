@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Argentina's Ecosystem and Developed Speech Processing Pipeline"
-tags: ['Argentina', 'Ecosystem', 'RTTM', 'Speech Processing', 'Python']
+tags: ["Argentina", "Ecosystem", "RTTM", "Speech Processing", "Python"]
 created: 2025-08-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 12:50–13:10**  
 **🏷️ Labels**: Argentina, Ecosystem, RTTM, Speech Processing, Python  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The session aimed to explore the existing ecosystem in Argentina, focusing on id
 - Conducted research on Argentina's ecosystem, focusing on watchdogs and think tanks to identify potential competitors and collaborators.
 - Analyzed the landscape of archival and discourse platforms in Argentina, identifying opportunities for new initiatives.
 - Developed [[Python]] scripts to read RTTM files, handle file paths, and process data for speaker diarization.
-- Created a workflow for integrating RTTM diarization with ASR results to produce labeled transcripts.
+- Created a [[workflow]] for integrating RTTM diarization with ASR results to produce labeled transcripts.
 - Implemented a [[Jupyter]] notebook to facilitate the transcription and diarization alignment pipeline, using the Faster Whisper model.
 
 ### Achievements
@@ -29,5 +29,5 @@ The session aimed to explore the existing ecosystem in Argentina, focusing on id
 - Created reusable [[Python]] code and [[Jupyter]] notebooks for ongoing and future projects.
 
 ### Pending Tasks
-- Further validation and testing of the diarization and ASR integration process to ensure accuracy and reliability.
+- Further validation and testing of the diarization and ASR [[integration]] process to ensure accuracy and reliability.
 - Exploration of additional data tools and archival completeness in Argentina's ecosystem.

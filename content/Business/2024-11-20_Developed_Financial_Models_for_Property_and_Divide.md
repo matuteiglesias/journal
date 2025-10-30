@@ -1,6 +1,6 @@
 ---
 title: "Developed Financial Models for Property and Dividends"
-tags: ['Financial Modeling', 'Accounting', 'Dividends', 'Property Management', 'Argentina']
+tags: ["Financial Modeling", "Accounting", "Dividends", "Property Management", "Argentina"]
 created: 2024-11-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:30–02:55**  
 **🏷️ Labels**: Financial Modeling, Accounting, Dividends, Property Management, Argentina  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -23,7 +23,7 @@ The session aimed to develop comprehensive financial models and accounting syste
 - Updated and refined simulations for monthly dividend calculations using a floor function.
 - Developed a model for linear scaling and flooring of monthly dividends over a 36-month period.
 - Outlined effective accounting schemes for personal and business finances, emphasizing account separation and financial management workflows.
-- Provided guidelines for accounting in food retail businesses, focusing on automation and record-keeping.
+- Provided guidelines for accounting in food retail businesses, focusing on [[automation]] and record-keeping.
 - Explored methods for estimating Cost of Goods Sold (COGS) in Argentina, considering inflation and price fluctuations.
 - Proposed a structured approach to estimate inventory loss using markup and alpha coefficient.
 

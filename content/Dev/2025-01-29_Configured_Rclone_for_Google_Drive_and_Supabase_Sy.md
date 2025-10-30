@@ -1,6 +1,6 @@
 ---
 title: "Configured Rclone for Google Drive and Supabase Sync"
-tags: ['Rclone', 'Google Drive', 'Supabase', 'Automation', 'File Sync']
+tags: ["Rclone", "Google Drive", "Supabase", "Automation", "File Sync"]
 created: 2025-01-29
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:45–18:05**  
 **🏷️ Labels**: Rclone, Google Drive, Supabase, Automation, File Sync  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -24,8 +24,8 @@ The session aimed to configure and automate the synchronization of a local folde
 - **[[Automation]]**: Set up cron jobs to automate the sync process.
 
 ### Achievements:
-- Successfully configured Rclone for Google Drive and Supabase integration.
-- Resolved authentication and configuration issues, ensuring a seamless sync setup.
+- Successfully configured Rclone for Google Drive and Supabase [[integration]].
+- Resolved authentication and [[configuration]] issues, ensuring a seamless sync setup.
 
 ### Pending Tasks:
 - Verify the automated sync process over time to ensure reliability and consistency.

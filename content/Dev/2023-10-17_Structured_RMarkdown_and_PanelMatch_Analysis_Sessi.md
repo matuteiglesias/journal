@@ -1,6 +1,6 @@
 ---
 title: "Structured RMarkdown and PanelMatch Analysis Session"
-tags: ['Rmarkdown', 'Panelmatch', 'Modular Design', 'Data Analysis']
+tags: ["Rmarkdown", "Panelmatch", "Modular Design", "Data Analysis"]
 created: 2023-10-17
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:30–21:05**  
 **🏷️ Labels**: Rmarkdown, Panelmatch, Modular Design, Data Analysis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** The session aimed to explore and enhance understanding of RMarkdown file structures, causal analysis using PanelMatch in R, and modular code organization for data projects.
@@ -30,5 +30,5 @@ publish: true
 - Proposed a modular design framework for both RMarkdown and large project code structures.
 
 **Pending Tasks:**
-- Further exploration of modular design in RMarkdown for specific data analysis workflows.
+- Further exploration of modular design in RMarkdown for specific [[data analysis]] workflows.
 - Implementation of revised table of contents in ongoing analysis projects.

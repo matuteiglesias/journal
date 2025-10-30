@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Keyword Extraction and Text Processing"
-tags: ['Keyword_Extraction', 'Text_Processing', 'Python', 'TF-IDF', 'LDA']
+tags: ["Keyword_Extraction", "Text_Processing", "Python", "TF-IDF", "LDA"]
 created: 2025-02-17
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:20–15:50**  
 **🏷️ Labels**: Keyword_Extraction, Text_Processing, Python, TF-IDF, LDA  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,7 +26,7 @@ The session aimed to enhance keyword extraction and text processing techniques, 
 ### Achievements
 - Developed a comprehensive guide for keyword filtering and text processing.
 - Successfully implemented custom Spanish stopwords in TfidfVectorizer.
-- Created an optimized text processing workflow.
+- Created an optimized text processing [[workflow]].
 - Identified and resolved memory issues in [[Python]], enhancing code execution efficiency.
 
 ### Pending Tasks

@@ -1,6 +1,6 @@
 ---
 title: "Developed Feedback Framework for Algorithmic Solutions"
-tags: ['Feedback', 'Algorithm', 'Education', 'Programming', 'C++']
+tags: ["Feedback", "Algorithm", "Education", "Programming", "C++"]
 created: 2023-11-15
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:40–22:30**  
 **🏷️ Labels**: Feedback, Algorithm, Education, Programming, C++  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -21,7 +21,7 @@ The session aimed to develop a comprehensive framework for providing constructiv
 - Provided a structured framework for evaluating algorithm solutions, offering strengths, areas for improvement, and suggestions.
 - Addressed limitations in file handling, suggesting alternatives for code submission.
 - Offered feedback on multiple programming exercise solutions, highlighting strengths and areas for improvement.
-- Developed minimal solutions for specific programming exercises, focusing on best practices and optimization strategies.
+- Developed minimal solutions for specific programming exercises, focusing on best practices and [[optimization]] strategies.
 
 **Achievements:**
 - Successfully created a feedback framework that can be applied to various algorithmic solutions.

@@ -1,6 +1,6 @@
 ---
 title: "Structured Real Estate Visit and Lead Management"
-tags: ['Real Estate', 'Lead Management', 'Pdf Generation', 'Time Management']
+tags: ["Real Estate", "Lead Management", "Pdf Generation", "Time Management"]
 created: 2025-07-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:35–22:10**  
 **🏷️ Labels**: Real Estate, Lead Management, Pdf Generation, Time Management  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -26,8 +26,8 @@ The session aimed to organize and execute tasks related to real estate property 
 - Executed a [[Python]] script using the FPDF library to generate a PDF document for rental property listings, detailing property features and economic conditions.
 
 **Achievements:**
-- Successfully organized a visit pack for property viewing, ensuring all necessary documentation and economic conditions are clearly outlined.
-- Generated a PDF document for rental property listings, automating the documentation process.
+- Successfully organized a visit pack for property viewing, ensuring all necessary [[documentation]] and economic conditions are clearly outlined.
+- Generated a PDF document for rental property listings, automating the [[documentation]] process.
 - Managed and logged leads effectively, preparing for upcoming visits.
 
 **Pending Tasks:**

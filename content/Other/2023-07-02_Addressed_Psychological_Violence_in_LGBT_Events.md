@@ -1,6 +1,6 @@
 ---
 title: "Addressed Psychological Violence in LGBT Events"
-tags: ['LGBT', 'Psychological Violence', 'Diversity', 'Inclusion', 'Activism']
+tags: ["LGBT", "Psychological Violence", "Diversity", "Inclusion", "Activism"]
 created: 2023-07-02
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 19:30–20:55**  
 **🏷️ Labels**: LGBT, Psychological Violence, Diversity, Inclusion, Activism  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

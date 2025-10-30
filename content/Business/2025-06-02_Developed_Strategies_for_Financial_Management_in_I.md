@@ -1,6 +1,6 @@
 ---
 title: "Developed Strategies for Financial Management in Inflationary Context"
-tags: ['Finanzas', 'Estrategias', 'Gasto', 'Planificación Financiera', 'Protección Patrimonial']
+tags: ["Finanzas", "Estrategias", "Gasto", "Planificaci\u00f3n Financiera", "Protecci\u00f3n Patrimonial"]
 created: 2025-06-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:40–23:05**  
 **🏷️ Labels**: Finanzas, Estrategias, Gasto, Planificación Financiera, Protección Patrimonial  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

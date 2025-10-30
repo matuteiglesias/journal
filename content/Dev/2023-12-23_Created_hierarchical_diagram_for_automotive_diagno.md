@@ -1,6 +1,6 @@
 ---
 title: "Created hierarchical diagram for automotive diagnostics"
-tags: ['Automotive', 'Diagnostics', 'Fuel System', 'Engine Management']
+tags: ["Automotive", "Diagnostics", "Fuel System", "Engine Management"]
 created: 2023-12-23
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:30–15:10**  
 **🏷️ Labels**: Automotive, Diagnostics, Fuel System, Engine Management  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

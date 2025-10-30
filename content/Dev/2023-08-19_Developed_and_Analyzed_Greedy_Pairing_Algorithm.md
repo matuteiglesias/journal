@@ -1,6 +1,6 @@
 ---
 title: "Developed and Analyzed Greedy Pairing Algorithm"
-tags: ['Python', 'Greedy Algorithm', 'Backtracking', 'Optimization', 'Algorithm Analysis']
+tags: ["Python", "Greedy Algorithm", "Backtracking", "Optimization", "Algorithm Analysis"]
 created: 2023-08-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:55–19:30**  
 **🏷️ Labels**: Python, Greedy Algorithm, Backtracking, Optimization, Algorithm Analysis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

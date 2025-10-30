@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Analysis of Markov Matrix Dynamics"
-tags: ['Markov Matrix', 'Linear Algebra', 'Mathematics', 'Matrix Dynamics']
+tags: ["Markov Matrix", "Linear Algebra", "Mathematics", "Matrix Dynamics"]
 created: 2024-12-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:20–17:35**  
 **🏷️ Labels**: Markov Matrix, Linear Algebra, Mathematics, Matrix Dynamics  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal**: The primary aim was to analyze Markov matrices, focusing on their constraints, convergence behavior, and implications for steady-state solutions.

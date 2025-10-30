@@ -1,6 +1,6 @@
 ---
 title: "Evaluated Energy Subsidies and Consumption Strategies"
-tags: ['Energy Subsidies', 'Electricity Tariff', 'Energy Consumption', 'Led Bulbs', 'Energy Efficiency']
+tags: ["Energy Subsidies", "Electricity Tariff", "Energy Consumption", "Led Bulbs", "Energy Efficiency"]
 created: 2024-09-15
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:50–06:50**  
 **🏷️ Labels**: Energy Subsidies, Electricity Tariff, Energy Consumption, Led Bulbs, Energy Efficiency  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,7 +19,7 @@ The primary goal of this session was to evaluate energy subsidies related to ele
 ### Key Activities
 - **Subsidy Evaluation:** Reviewed guidelines to determine eligibility for electricity tariff subsidies based on household income, property ownership, and vehicle possession.
 - **Energy Consumption Analysis:** Analyzed user energy consumption and confirmed the application of state subsidies on utility bills. Suggested energy-saving actions.
-- **Recommendations for Electric Heaters:** Provided practical advice on reducing high energy consumption from electric heaters, including optimization tips, thermal insulation, alternative heating methods, and programmable thermostats.
+- **Recommendations for Electric Heaters:** Provided practical advice on reducing high energy consumption from electric heaters, including [[optimization]] tips, thermal insulation, alternative heating methods, and programmable thermostats.
 - **Appliance Energy Consumption:** Listed high-energy-consuming appliances and calculated the cost of a 60W bulb.
 
 ### Achievements

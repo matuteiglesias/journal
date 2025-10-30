@@ -1,6 +1,6 @@
 ---
 title: "Developed Job Application Strategies for Data and AI Roles"
-tags: ['Job Application', 'Resume Strategy', 'Data Engineering', 'Ai Roles', 'Career Advice']
+tags: ["Job Application", "Resume Strategy", "Data Engineering", "Ai Roles", "Career Advice"]
 created: 2025-08-07
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 01:30–02:20**  
 **🏷️ Labels**: Job Application, Resume Strategy, Data Engineering, Ai Roles, Career Advice  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,7 +23,7 @@ The session aimed to develop comprehensive job application strategies tailored f
 - **Comparative Job Analysis:** Conducted a comparative analysis of job announcements for Principal [[Python]] Engineer positions, focusing on technical challenges and role expectations.
 - **CV Recommendation:** Provided a tailored CV and cover note for a Backend Engineer role at Teramind.
 - **Self-Assessment:** Conducted a self-assessment of [[Python]] services experience, highlighting skills in [[Flask]], FastAPI, and CI/CD.
-- **Application [[Strategy]] for Bitso:** Developed a tailored application strategy for a Data Engineer role at Bitso, focusing on relevant experience and personalized cover letter.
+- **Application [[Strategy]] for Bitso:** Developed a tailored application [[strategy]] for a Data Engineer role at Bitso, focusing on relevant experience and personalized cover letter.
 
 ### Achievements
 - Developed tailored strategies for multiple job applications, enhancing the potential for successful applications.

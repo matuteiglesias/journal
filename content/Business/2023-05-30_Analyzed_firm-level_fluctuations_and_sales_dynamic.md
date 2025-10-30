@@ -1,6 +1,6 @@
 ---
 title: "Analyzed firm-level fluctuations and sales dynamics"
-tags: ['Firm Dynamics', 'Sales Analysis', 'Time Series', 'Economics', 'Statistics']
+tags: ["Firm Dynamics", "Sales Analysis", "Time Series", "Economics", "Statistics"]
 created: 2023-05-30
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 10:50–11:10**  
 **🏷️ Labels**: Firm Dynamics, Sales Analysis, Time Series, Economics, Statistics  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The session aimed to analyze firm-level fluctuations and sales dynamics using ec
 - **Analysis of Firm-Level Fluctuations**: Discussed the importance of analyzing sales dynamics using log differences and autocorrelation to understand economic fluctuations better.
 - **Expressing Firm-Level Information**: Explored the benefits of representing firm-level data as deviations from an average, using log-scale for enhanced analysis.
 - **Mathematical Framework for Teaching**: Developed a framework linking firm sizes to value distribution in economics for educational purposes.
-- **Understanding Volatility and Aggregate Variance**: Outlined concepts of volatility and aggregate variance, providing a mathematical framework for economic data analysis.
+- **Understanding Volatility and Aggregate Variance**: Outlined concepts of volatility and aggregate variance, providing a mathematical framework for economic [[data analysis]].
 - **Sample Covariance in Time Series**: Detailed explanation of sample covariance in time series analysis, including its computation and significance.
 - **Historical Contributions**: Discussed historical contributions to the understanding of covariance and variance aggregation.
 

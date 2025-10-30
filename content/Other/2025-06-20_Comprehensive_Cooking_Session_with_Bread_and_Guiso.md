@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Cooking Session with Bread and Guiso"
-tags: ['Cooking', 'Recipe', 'Bread', 'Guiso', 'Preparation']
+tags: ["Cooking", "Recipe", "Bread", "Guiso", "Preparation"]
 created: 2025-06-20
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 04:00–05:40**  
 **🏷️ Labels**: Cooking, Recipe, Bread, Guiso, Preparation  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal
@@ -29,4 +29,4 @@ The session aimed to explore and execute various cooking recipes, focusing on br
 - Achieved practical insights into dough rising conditions and garlic confit preparation.
 
 ### Pending Tasks
-- Further exploration of data analysis and machine learning topics was suggested but not pursued in this session.
+- Further exploration of [[data analysis]] and [[machine learning]] topics was suggested but not pursued in this session.

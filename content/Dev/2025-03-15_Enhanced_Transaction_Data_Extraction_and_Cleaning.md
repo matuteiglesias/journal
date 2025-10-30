@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Transaction Data Extraction and Cleaning"
-tags: ['Data Extraction', 'Csv Parsing', 'Pdf Issues', 'File Encoding']
+tags: ["Data Extraction", "Csv Parsing", "Pdf Issues", "File Encoding"]
 created: 2025-03-15
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 02:20–03:00**  
 **🏷️ Labels**: Data Extraction, Csv Parsing, Pdf Issues, File Encoding  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The session aimed to refine the transaction extraction process, address PDF text
 - Developed a plan to extract valid transaction rows by focusing on date patterns and necessary fields, ignoring irrelevant content.
 - Identified and addressed issues with PDF text extraction, such as multi-line descriptions and misplaced fields.
 - Successfully extracted and cleaned Mercado Pago transaction data, handling multi-line descriptions and ensuring correct parsing.
-- Resolved [[CSV]] parsing issues in pandas by wrapping text fields in double quotes to prevent errors.
+- Resolved [[CSV]] parsing issues in [[pandas]] by wrapping text fields in double quotes to prevent errors.
 - Corrected and re-saved the [[CSV]] file with properly quoted text fields, providing a download link.
 - Addressed file encoding issues by suggesting UTF-8 encoding and considering alternative encodings like latin1.
 

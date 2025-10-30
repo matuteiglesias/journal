@@ -1,6 +1,6 @@
 ---
 title: "Automated LinkedIn Data Download and Network Mapping"
-tags: ['Linkedin', 'Network Analysis', 'Automation', 'Python', 'Data Download']
+tags: ["Linkedin", "Network Analysis", "Automation", "Python", "Data Download"]
 created: 2024-07-13
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:20–01:40**  
 **🏷️ Labels**: Linkedin, Network Analysis, Automation, Python, Data Download  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

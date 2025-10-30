@@ -1,6 +1,6 @@
 ---
 title: "Explored Greedy Algorithms in Educational Context"
-tags: ['Greedy Algorithms', 'Education', 'Programming', 'Optimization', 'Student Activities']
+tags: ["Greedy Algorithms", "Education", "Programming", "Optimization", "Student Activities"]
 created: 2023-08-08
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:30–23:50**  
 **🏷️ Labels**: Greedy Algorithms, Education, Programming, Optimization, Student Activities  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

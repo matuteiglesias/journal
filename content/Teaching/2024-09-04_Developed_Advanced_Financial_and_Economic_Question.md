@@ -1,6 +1,6 @@
 ---
 title: "Developed Advanced Financial and Economic Questions"
-tags: ['Finance', 'Economics', 'Education', 'Quantitative Easing', 'Stochastic Processes']
+tags: ["Finance", "Economics", "Education", "Quantitative Easing", "Stochastic Processes"]
 created: 2024-09-04
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 03:00–06:30**  
 **🏷️ Labels**: Finance, Economics, Education, Quantitative Easing, Stochastic Processes  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to refine and develop advanced financial and economic questions suitable for postgraduate education, focusing on complex concepts such as stochastic processes and quantitative easing.
+The session aimed to refine and develop advanced financial and economic questions suitable for postgraduate [[education]], focusing on complex concepts such as stochastic processes and quantitative easing.
 
 ### Key Activities
 - **Feedback Analysis**: Reviewed feedback on the complexity of financial questions, noting that both original and revised versions were perceived as college-level.
@@ -26,7 +26,7 @@ The session aimed to refine and develop advanced financial and economic question
 - **Economic Theory Exploration**: Developed questions and explanations on quantitative easing, its impact on interest rates, and macroeconomic implications.
 
 ### Achievements
-- Successfully developed and refined advanced questions and guides for postgraduate-level financial and economic education.
+- Successfully developed and refined advanced questions and guides for postgraduate-level financial and economic [[education]].
 - Compiled comprehensive resources and references for further study and teaching.
 
 ### Pending Tasks

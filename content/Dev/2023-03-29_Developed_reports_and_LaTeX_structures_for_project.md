@@ -1,6 +1,6 @@
 ---
 title: "Developed reports and LaTeX structures for project analysis"
-tags: ['Reporting', 'Latex', 'Project Management', 'Volatility', 'Finance']
+tags: ["Reporting", "Latex", "Project Management", "Volatility", "Finance"]
 created: 2023-03-29
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 06:05–08:30**  
 **🏷️ Labels**: Reporting, Latex, Project Management, Volatility, Finance  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -29,4 +29,4 @@ The session aimed to develop structured reports for project improvement and anal
 
 ### Pending Tasks
 - Further refine the LaTeX document structure for the financial research paper.
-- Complete the integration of novel economic analysis techniques into broader project frameworks.
+- Complete the [[integration]] of novel economic analysis techniques into broader project frameworks.

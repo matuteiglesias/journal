@@ -1,6 +1,6 @@
 ---
 title: "Developed memory management tools for Python"
-tags: ['Python', 'Memory Management', 'Data Operations', 'Vs Code', 'Profiling']
+tags: ["Python", "Memory Management", "Data Operations", "Vs Code", "Profiling"]
 created: 2023-04-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:50–19:10**  
 **🏷️ Labels**: Python, Memory Management, Data Operations, Vs Code, Profiling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -30,4 +30,4 @@ The session aimed to enhance [[Python]] programming efficiency by exploring memo
 
 ### Pending Tasks
 - Submit code for evaluation to complete the review process.
-- Further explore and integrate VS Code extensions for memory optimization.
+- Further explore and integrate VS Code extensions for memory [[optimization]].

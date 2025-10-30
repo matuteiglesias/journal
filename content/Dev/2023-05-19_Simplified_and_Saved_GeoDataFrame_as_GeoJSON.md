@@ -1,6 +1,6 @@
 ---
 title: "Simplified and Saved GeoDataFrame as GeoJSON"
-tags: ['Geodataframe', 'Geojson', 'Python', 'Data Processing', 'Geospatial']
+tags: ["Geodataframe", "Geojson", "Python", "Data Processing", "Geospatial"]
 created: 2023-05-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:10–15:10**  
 **🏷️ Labels**: Geodataframe, Geojson, Python, Data Processing, Geospatial  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -32,4 +32,4 @@ The session aimed to refine the process of simplifying GeoDataFrames and saving 
 - Resolved multiple errors related to geometry conversion and attribute handling.
 
 ### Pending Tasks
-- Further optimization of the simplification process for large datasets may be explored in future sessions.
+- Further [[optimization]] of the simplification process for large datasets may be explored in future sessions.

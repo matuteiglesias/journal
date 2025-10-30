@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Educational Reports and Coin Cleaning Methods"
-tags: ['Coin Cleaning', 'Numismatics', 'Data Analysis', 'Education', 'Evaluation']
+tags: ["Coin Cleaning", "Numismatics", "Data Analysis", "Education", "Evaluation"]
 created: 2025-06-03
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 18:45–19:05**  
 **🏷️ Labels**: Coin Cleaning, Numismatics, Data Analysis, Education, Evaluation  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 **Session Goal:**

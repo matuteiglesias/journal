@@ -1,6 +1,6 @@
 ---
 title: "Resolved ADB and WhatsApp Data Extraction Issues"
-tags: ['ADB', 'Whatsapp', 'Data Extraction', 'Decryption', 'Sqlite']
+tags: ["ADB", "Whatsapp", "Data Extraction", "Decryption", "Sqlite"]
 created: 2025-09-30
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:20–18:30**  
 **🏷️ Labels**: ADB, Whatsapp, Data Extraction, Decryption, Sqlite  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,15 +21,15 @@ The primary objective of this session was to troubleshoot and resolve issues rel
 - **[[Data Extraction]]**: Explored methods for extracting WhatsApp data using ADB, with considerations for both rooted and non-rooted devices.
 - **Decryption Process**: Implemented steps to decrypt WhatsApp database files using [[Python]] and SQLite, including setting up the necessary tools and handling edge cases.
 - **[[Git]] Repository Management**: Encountered and resolved issues related to cloning the 'wa-crypt-tools' repository for decryption purposes.
-- **Database Analysis**: Analyzed the SQLite database structure and optimized queries for data extraction and performance.
+- **Database Analysis**: Analyzed the SQLite database structure and optimized queries for [[data extraction]] and performance.
 - **Data Export**: Developed scripts and workflows for exporting WhatsApp data to [[CSV]] files, ensuring data privacy and integrity.
 
 ### Achievements
-- Successfully established a workflow for extracting and decrypting WhatsApp data.
-- Resolved ADB access issues and set up a reliable environment for data extraction.
-- Completed the setup and execution of decryption tools, enabling further data analysis.
+- Successfully established a [[workflow]] for extracting and decrypting WhatsApp data.
+- Resolved ADB access issues and set up a reliable environment for [[data extraction]].
+- Completed the setup and execution of decryption tools, enabling further [[data analysis]].
 - Developed a robust method for exporting data to [[CSV]], addressing previous export issues.
 
 ### Pending Tasks
-- Further refine the DBML schema for WhatsApp message storage to enhance data integration.
+- Further refine the DBML schema for WhatsApp message storage to enhance data [[integration]].
 - Continue exploring identity resolution and metrics for the communications hub project.

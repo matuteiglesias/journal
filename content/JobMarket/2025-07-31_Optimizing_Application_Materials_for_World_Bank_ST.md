@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Application Materials for World Bank STC Role"
-tags: ['World Bank', 'Stc Application', 'Cv Optimization', 'Professional Writing']
+tags: ["World Bank", "Stc Application", "Cv Optimization", "Professional Writing"]
 created: 2025-07-31
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 00:00–23:50**  
 **🏷️ Labels**: World Bank, Stc Application, Cv Optimization, Professional Writing  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

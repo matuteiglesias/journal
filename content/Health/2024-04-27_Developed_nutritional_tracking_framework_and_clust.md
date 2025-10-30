@@ -1,6 +1,6 @@
 ---
 title: "Developed nutritional tracking framework and clustering analysis"
-tags: ['Nutrition', 'Diet', 'Clustering', 'Data Analysis', 'Food Tracking']
+tags: ["Nutrition", "Diet", "Clustering", "Data Analysis", "Food Tracking"]
 created: 2024-04-27
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 14:55–17:00**  
 **🏷️ Labels**: Nutrition, Diet, Clustering, Data Analysis, Food Tracking  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

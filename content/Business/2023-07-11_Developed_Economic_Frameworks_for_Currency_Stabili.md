@@ -1,6 +1,6 @@
 ---
 title: "Developed Economic Frameworks for Currency Stability"
-tags: ['Economics', 'Inflation', 'Currency Stability', 'Economic Indicators', 'Argentina']
+tags: ["Economics", "Inflation", "Currency Stability", "Economic Indicators", "Argentina"]
 created: 2023-07-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:50–06:20**  
 **🏷️ Labels**: Economics, Inflation, Currency Stability, Economic Indicators, Argentina  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

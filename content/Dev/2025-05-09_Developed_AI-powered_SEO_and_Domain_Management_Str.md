@@ -1,6 +1,6 @@
 ---
 title: "Developed AI-powered SEO and Domain Management Strategy"
-tags: ['AWS', 'SEO', 'Domain Management', 'Astro', 'Hugo']
+tags: ["AWS", "SEO", "Domain Management", "Astro", "Hugo"]
 created: 2025-05-09
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:00–16:10**  
 **🏷️ Labels**: AWS, SEO, Domain Management, Astro, Hugo  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -22,8 +22,8 @@ The session aimed to explore and plan the technical architecture for an [[AI]]-p
 - Explored the use of Amazon Textract and Comprehend for SERP analysis, noting their limitations and suggesting more effective alternatives.
 - Planned the development of [[SEO]]-friendly pages using Node.js, Next.js, and Astro, emphasizing server-side rendering and dynamic components.
 - Analyzed the adoption statistics of Astro and its appeal to high-performance sites.
-- Considered the strategic alignment of technology choices with personal strategy for technical builders.
-- Outlined the complementary use of Astro and Hugo in a tech stack for [[SEO]] optimization.
+- Considered the strategic alignment of technology choices with personal [[strategy]] for technical builders.
+- Outlined the complementary use of Astro and Hugo in a tech stack for [[SEO]] [[optimization]].
 
 ### Achievements
 - Identified key AWS services for [[SEO]] and domain management.

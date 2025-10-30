@@ -1,6 +1,6 @@
 ---
 title: "Optimized Email and Telegram Monitoring Systems"
-tags: ['Python', 'Testing', 'Optimization', 'Telegram', 'Email', 'Google Calendar']
+tags: ["Python", "Testing", "Optimization", "Telegram", "Email", "Google Calendar"]
 created: 2024-05-31
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:30–23:45**  
 **🏷️ Labels**: Python, Testing, Optimization, Telegram, Email, Google Calendar  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

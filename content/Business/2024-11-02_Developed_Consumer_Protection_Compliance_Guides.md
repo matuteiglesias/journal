@@ -1,6 +1,6 @@
 ---
 title: "Developed Consumer Protection Compliance Guides"
-tags: ['Consumer Protection', 'Legal Compliance', 'Documentation', 'Transaction Receipts', 'Mercado Pago']
+tags: ["Consumer Protection", "Legal Compliance", "Documentation", "Transaction Receipts", "Mercado Pago"]
 created: 2024-11-02
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 14:50–15:05**  
 **🏷️ Labels**: Consumer Protection, Legal Compliance, Documentation, Transaction Receipts, Mercado Pago  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
-The session aimed to develop comprehensive guides and templates for ensuring compliance with consumer protection laws, particularly focusing on transaction documentation and legal recourse.
+The session aimed to develop comprehensive guides and templates for ensuring compliance with consumer protection laws, particularly focusing on transaction [[documentation]] and legal recourse.
 
 ### Key Activities:
 1. **Exploration of Consumer Protection Legislation:**
@@ -22,7 +22,7 @@ The session aimed to develop comprehensive guides and templates for ensuring com
 2. **Instruction on Obtaining Transaction Receipts:**
    - Provided a detailed guide on how to obtain transaction receipts from COELSA and Mercado Pago, including necessary steps and legal considerations.
 3. **[[Documentation]] for AGIP Compliance:**
-   - Created instructions to align documentation for AGIP with information from Mercado Pago and COELSA, including steps for obtaining receipts and drafting explanatory notes.
+   - Created instructions to align [[documentation]] for AGIP with information from Mercado Pago and COELSA, including steps for obtaining receipts and drafting explanatory notes.
 4. **Template for Filing Complaints:**
    - Developed a template for filing complaints against Mercado Pago under the Consumer Defense Law, detailing legal steps and arguments.
 5. **Analysis of Transaction Receipt Issues:**

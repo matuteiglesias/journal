@@ -1,6 +1,6 @@
 ---
 title: "Configured and Tested Flask Application with Google OAuth"
-tags: ['Flask', 'Google Oauth', 'Testing', 'Cloud Hosting', 'Error Handling']
+tags: ["Flask", "Google Oauth", "Testing", "Cloud Hosting", "Error Handling"]
 created: 2024-02-16
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:55–18:45**  
 **🏷️ Labels**: Flask, Google Oauth, Testing, Cloud Hosting, Error Handling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -27,8 +27,8 @@ The primary objective of this session was to configure, test, and deploy a [[Fla
 
 ### Achievements
 - Successfully integrated Google OAuth into the [[Flask]] application.
-- Resolved key errors and configured the application for local and cloud deployment.
+- Resolved key errors and configured the application for local and cloud [[deployment]].
 
 ### Pending Tasks
-- Further testing of OAuth integration in different environments.
+- Further testing of OAuth [[integration]] in different environments.
 - Monitoring application performance on Google App Engine.

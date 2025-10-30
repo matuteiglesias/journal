@@ -1,7 +1,7 @@
 ---
 title: "Journal by Month"
 tags: []
-created: 2025-01-01
+created: 2025-10-30
 publish: true
 ---
 

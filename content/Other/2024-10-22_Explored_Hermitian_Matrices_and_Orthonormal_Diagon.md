@@ -1,6 +1,6 @@
 ---
 title: "Explored Hermitian Matrices and Orthonormal Diagonalization"
-tags: ['Matrices', 'Hermitianas', 'Diagonalización', 'Álgebra Lineal', 'Autovalores']
+tags: ["Matrices", "Hermitianas", "Diagonalizaci\u00f3n", "\u00c1lgebra Lineal", "Autovalores"]
 created: 2024-10-22
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 17:30–17:40**  
 **🏷️ Labels**: Matrices, Hermitianas, Diagonalización, Álgebra Lineal, Autovalores  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

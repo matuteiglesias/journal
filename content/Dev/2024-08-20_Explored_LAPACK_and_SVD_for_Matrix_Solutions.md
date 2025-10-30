@@ -1,6 +1,6 @@
 ---
 title: "Explored LAPACK and SVD for Matrix Solutions"
-tags: ['LAPACK', 'SVD', 'Matrix Algebra', 'Numerical Methods']
+tags: ["LAPACK", "SVD", "Matrix Algebra", "Numerical Methods"]
 created: 2024-08-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:40–06:30**  
 **🏷️ Labels**: LAPACK, SVD, Matrix Algebra, Numerical Methods  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

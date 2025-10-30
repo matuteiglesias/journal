@@ -1,6 +1,6 @@
 ---
 title: "Extracted and Analyzed PDF Transactions for Finance"
-tags: ['PDF', 'Text Extraction', 'Regex', 'Data Analysis', 'Automation']
+tags: ["PDF", "Text Extraction", "Regex", "Data Analysis", "Automation"]
 created: 2024-12-23
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:15–15:25**  
 **🏷️ Labels**: PDF, Text Extraction, Regex, Data Analysis, Automation  
 **📂 Project**: Accounting  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

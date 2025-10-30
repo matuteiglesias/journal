@@ -1,6 +1,6 @@
 ---
 title: "Compiled and Adapted Multiple Cooking Recipes"
-tags: ['Cooking', 'Recipes', 'Cleaning', 'Household', 'Adaptation']
+tags: ["Cooking", "Recipes", "Cleaning", "Household", "Adaptation"]
 created: 2023-10-12
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 02:15–22:10**  
 **🏷️ Labels**: Cooking, Recipes, Cleaning, Household, Adaptation  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 **Session Goal:**

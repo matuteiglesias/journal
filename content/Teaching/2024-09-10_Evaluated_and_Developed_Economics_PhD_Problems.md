@@ -1,6 +1,6 @@
 ---
 title: "Evaluated and Developed Economics PhD Problems"
-tags: ['Economics', 'Phd', 'Asset Pricing', 'Game Theory', 'Auction Theory']
+tags: ["Economics", "Phd", "Asset Pricing", "Game Theory", "Auction Theory"]
 created: 2024-09-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:00–06:30**  
 **🏷️ Labels**: Economics, Phd, Asset Pricing, Game Theory, Auction Theory  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,7 +19,7 @@ The session aimed to evaluate and develop complex problems suitable for PhD-leve
 ### Key Activities
 - Assessed the complexity of an advanced asset-pricing problem for PhD students, particularly focusing on consumption habits and risk aversion.
 - Outlined approaches to formulate PhD-level questions in consumption-based asset pricing, covering model dynamics, comparative statics, parameter calibration, empirical applications, and alternative model structures.
-- Analyzed job tenure using a Weibull distribution model, considering factors like education, sector, and gender.
+- Analyzed job tenure using a Weibull distribution model, considering factors like [[education]], sector, and gender.
 - Derived equilibrium bid strategies in auction theory, concluding that buyer 1 should bid half of the item's true value.
 - Presented abstract economic questions to stimulate deep conceptual thinking in game theory, stochastic control, and auction design.
 - Modeled a two-period bargaining game, detailing decision-making processes and optimal pricing strategies with a [[Python]] simulation.

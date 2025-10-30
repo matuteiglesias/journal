@@ -1,6 +1,6 @@
 ---
 title: "Critique and Analysis of Gabaix's Volatility Model"
-tags: ['Gabaix', 'Idiosyncratic Volatility', 'Economic Theory', 'Hyperbolic Functions', 'Thesis Review']
+tags: ["Gabaix", "Idiosyncratic Volatility", "Economic Theory", "Hyperbolic Functions", "Thesis Review"]
 created: 2023-05-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 10:25–11:30**  
 **🏷️ Labels**: Gabaix, Idiosyncratic Volatility, Economic Theory, Hyperbolic Functions, Thesis Review  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

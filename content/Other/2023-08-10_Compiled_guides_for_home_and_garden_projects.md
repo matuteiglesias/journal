@@ -1,6 +1,6 @@
 ---
 title: "Compiled guides for home and garden projects"
-tags: ['Home Improvement', 'Gardening', 'Painting', 'Tree Removal', 'Diy Projects']
+tags: ["Home Improvement", "Gardening", "Painting", "Tree Removal", "Diy Projects"]
 created: 2023-08-10
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 20:55–21:25**  
 **🏷️ Labels**: Home Improvement, Gardening, Painting, Tree Removal, Diy Projects  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

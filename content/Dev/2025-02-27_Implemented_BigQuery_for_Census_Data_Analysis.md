@@ -1,6 +1,6 @@
 ---
 title: "Implemented BigQuery for Census Data Analysis"
-tags: ['Bigquery', 'Census Data', 'Representation Learning', 'Autoencoder', 'Cost Management']
+tags: ["Bigquery", "Census Data", "Representation Learning", "Autoencoder", "Cost Management"]
 created: 2025-02-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:20–15:00**  
 **🏷️ Labels**: Bigquery, Census Data, Representation Learning, Autoencoder, Cost Management  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,13 +23,13 @@ The session aimed to explore and implement strategies for applying representatio
 - Provided a detailed guide for uploading a Census Database to BigQuery, covering project setup and data upload methods.
 - Developed strategies to manage BigQuery query costs, including using the free tier and visualizations.
 - Created a step-by-step roadmap for making census data publicly queryable in BigQuery.
-- Discussed handling table relationships and foreign key support in BigQuery for performance optimization.
+- Discussed handling table relationships and foreign key support in BigQuery for performance [[optimization]].
 - Provided methods for querying and exporting random samples in BigQuery for ML pipelines.
 
 ### Achievements
 - Established a comprehensive framework for uploading and querying census data in BigQuery.
 - Developed cost management strategies for BigQuery usage.
-- Enhanced understanding of representation learning applications in socioeconomic data analysis.
+- Enhanced understanding of representation learning applications in socioeconomic [[data analysis]].
 
 ### Pending Tasks
 - Validate the hypothesis of improved income prediction using representation learning.

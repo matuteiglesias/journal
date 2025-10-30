@@ -1,6 +1,6 @@
 ---
 title: "Refinement and Categorization of Strategic Contacts"
-tags: ['Contact Management', 'Networking', 'Strategy', 'Relationship Management', 'Business']
+tags: ["Contact Management", "Networking", "Strategy", "Relationship Management", "Business"]
 created: 2024-12-18
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:10–18:50**  
 **🏷️ Labels**: Contact Management, Networking, Strategy, Relationship Management, Business  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,7 +19,7 @@ The session aimed to refine and categorize a list of contacts into strategic, ac
 ### Key Activities
 - Refined and categorized contacts into personal, academic, and strategic groups.
 - Organized strategic contacts and outlined recommended actions for engagement.
-- Continued processing contacts, aiming to reach a target number or reevaluate strategy.
+- Continued processing contacts, aiming to reach a target number or reevaluate [[strategy]].
 - Developed a dynamic system for contact management, linking categories to actionable processes.
 - Proposed structured strategies for managing contacts and facilitating strategic decision-making.
 

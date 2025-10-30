@@ -1,6 +1,6 @@
 ---
 title: "Resolved Node.js and NPM Dependency Issues"
-tags: ['Node.Js', 'NPM', 'Troubleshooting', 'Dependencies', 'Error Resolution']
+tags: ["Node.Js", "NPM", "Troubleshooting", "Dependencies", "Error Resolution"]
 created: 2023-04-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:40–17:55**  
 **🏷️ Labels**: Node.Js, NPM, Troubleshooting, Dependencies, Error Resolution  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Explored Statistical Methods for Treatment Effects"
-tags: ['Linear Regression', 'Treatment Effect', 'Python', 'Statistics', 'Data Analysis']
+tags: ["Linear Regression", "Treatment Effect", "Python", "Statistics", "Data Analysis"]
 created: 2023-02-28
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 05:40–06:25**  
 **🏷️ Labels**: Linear Regression, Treatment Effect, Python, Statistics, Data Analysis  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to explore statistical methods for analyzing treatment effects, focusing on linear regression, treatment effects, confounding factors, and matching procedures. The session also covered relevant software tools for data analysis.
+The session aimed to explore statistical methods for analyzing treatment effects, focusing on linear regression, treatment effects, confounding factors, and matching procedures. The session also covered relevant software tools for [[data analysis]].
 
 **Key Activities:**
 - Discussed linear regression and treatment effects, including confounding factors and matching procedures.

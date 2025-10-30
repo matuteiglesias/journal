@@ -1,6 +1,6 @@
 ---
 title: "Executed BFG Repo-Cleaner for Git history cleanup"
-tags: ['Git', 'Bfg Repo-Cleaner', 'File Deletion', 'Security', 'Error Resolution']
+tags: ["Git", "Bfg Repo-Cleaner", "File Deletion", "Security", "Error Resolution"]
 created: 2025-05-13
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:00–01:10**  
 **🏷️ Labels**: Git, Bfg Repo-Cleaner, File Deletion, Security, Error Resolution  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

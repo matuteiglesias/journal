@@ -1,6 +1,6 @@
 ---
 title: "Developed FlowMaster Launch and Growth Plans"
-tags: ['Flowmaster', 'Launch Plan', 'Saas', 'Growth Strategy', 'Affiliate Marketing']
+tags: ["Flowmaster", "Launch Plan", "Saas", "Growth Strategy", "Affiliate Marketing"]
 created: 2025-04-18
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 11:50–12:40**  
 **🏷️ Labels**: Flowmaster, Launch Plan, Saas, Growth Strategy, Affiliate Marketing  
 **📂 Project**: Business  
-**⭐ Priority**: HIGH  
+
 
 
 ### Session Goal

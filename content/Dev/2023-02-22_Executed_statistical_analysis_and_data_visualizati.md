@@ -1,6 +1,6 @@
 ---
 title: "Executed statistical analysis and data visualization in Python"
-tags: ['Python', 'Statistics', 'Data Visualization', 'Parameter Sweeping']
+tags: ["Python", "Statistics", "Data Visualization", "Parameter Sweeping"]
 created: 2023-02-22
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 04:50–05:55**  
 **🏷️ Labels**: Python, Statistics, Data Visualization, Parameter Sweeping  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The primary objective of this session was to perform statistical analysis and data visualization using [[Python]]. The focus was on calculating treatment differences, performing linear regression, and sweeping parameters for Average Treatment Effect (ATE) calculations.
+The primary objective of this session was to perform statistical analysis and [[data [[visualization]]]] using [[Python]]. The focus was on calculating treatment differences, performing linear regression, and sweeping parameters for Average Treatment Effect (ATE) calculations.
 
 ### Key Activities
 - Implemented a loop to calculate and print the mean and standard deviation of treatment differences (`diff1` and `diff2`).
@@ -24,10 +24,10 @@ The primary objective of this session was to perform statistical analysis and da
 
 ### Achievements
 - Successfully calculated statistical measures for treatment differences.
-- Completed linear regression analysis and visualization with error bars.
+- Completed linear regression analysis and [[visualization]] with error bars.
 - Generated plots using [[Matplotlib]] for visual representation of data.
 - Executed parameter sweeping for ATE calculations, ensuring robust statistical analysis.
 
 ### Pending Tasks
 - Review and optimize the parameter sweeping code for efficiency.
-- Explore additional data visualization techniques to enhance clarity and presentation.
+- Explore additional [[data [[visualization]]]] techniques to enhance clarity and presentation.

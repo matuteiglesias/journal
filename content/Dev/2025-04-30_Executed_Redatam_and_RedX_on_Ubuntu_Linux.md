@@ -1,6 +1,6 @@
 ---
 title: "Executed Redatam and RedX on Ubuntu/Linux"
-tags: ['Redatam', 'Linux', 'Ubuntu', 'Data Processing', 'Redx', 'Troubleshooting']
+tags: ["Redatam", "Linux", "Ubuntu", "Data Processing", "Redx", "Troubleshooting"]
 created: 2025-04-30
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 21:15–21:45**  
 **🏷️ Labels**: Redatam, Linux, Ubuntu, Data Processing, Redx, Troubleshooting  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
-The session aimed to execute and troubleshoot Redatam and RedX software on Ubuntu/[[Linux]] systems, focusing on data processing and software execution.
+The session aimed to execute and troubleshoot Redatam and RedX software on Ubuntu/[[Linux]] systems, focusing on [[data processing]] and software execution.
 
 ### Key Activities:
 - Executed Redatam7 Process using Wine on Ubuntu/[[Linux]], exploring alternatives for handling Redatam files.
@@ -29,7 +29,7 @@ The session aimed to execute and troubleshoot Redatam and RedX software on Ubunt
 
 ### Achievements:
 - Successfully executed Redatam and RedX software on Ubuntu/[[Linux]], with documented solutions for common execution errors.
-- Established a clear workflow for data processing and export in Redatam environments.
+- Established a clear [[workflow]] for [[data processing]] and export in Redatam environments.
 - Developed a comprehensive data model for educational and library data.
 
 ### Pending Tasks:

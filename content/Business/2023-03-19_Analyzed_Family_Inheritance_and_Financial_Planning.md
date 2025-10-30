@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Family Inheritance and Financial Planning"
-tags: ['Inheritance', 'Family Dynamics', 'Financial Planning', 'Legal Advice', 'Asset Management']
+tags: ["Inheritance", "Family Dynamics", "Financial Planning", "Legal Advice", "Asset Management"]
 created: 2023-03-19
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 08:00–08:45**  
 **🏷️ Labels**: Inheritance, Family Dynamics, Financial Planning, Legal Advice, Asset Management  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to explore and provide insights into family dynamics, inheritance issues, and financial planning related to marital decisions and asset management.
 
 ### Key Activities
-- Discussed the importance of communication in navigating family inheritance and marital decisions, emphasizing legal advice and understanding motivations.
+- Discussed the importance of [[communication]] in navigating family inheritance and marital decisions, emphasizing legal advice and understanding motivations.
 - Structured a conversation around a parent's decision to remarry, focusing on financial implications and family dynamics, including suggested questions for open dialogue.
 - Presented key questions to address inheritance law in Argentina and family asset distribution, highlighting the need for legal advice.
 - Reflected on family asset division and preservation strategies, considering the impact of a new marriage on inheritance and proposing strategies to minimize losses.

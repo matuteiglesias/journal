@@ -1,6 +1,6 @@
 ---
 title: "Developed and refined AI message parsing schema"
-tags: ['Ai Parsing', 'Schema Design', 'Automation', 'Workflow Improvement']
+tags: ["Ai Parsing", "Schema Design", "Automation", "Workflow Improvement"]
 created: 2025-05-04
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 17:20–18:25**  
 **🏷️ Labels**: Ai Parsing, Schema Design, Automation, Workflow Improvement  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The primary goal of this session was to develop and refine a schema for parsing [[AI]]-generated messages, focusing on enhancing the structure for better classification and reusability.
 
 ### Key Activities
-- Reviewed strategies for improving [[AI]] interactions through systematic log parsing and workflow enhancements.
+- Reviewed strategies for improving [[AI]] interactions through systematic log parsing and [[workflow]] enhancements.
 - Outlined an initial parser plan for annotating [[AI]] messages, detailing preprocessing, structural classification, output chunking, and tagging phases.
 - Proposed enhancements for parser design by identifying additional dimensions such as response category, target tools, and technical depth.
 - Finalized the schema for Phase 1 Parser, detailing the structure and classification of parsed messages.
@@ -26,7 +26,7 @@ The primary goal of this session was to develop and refine a schema for parsing 
 - Provided specifications for structural fields in message parsing.
 - Defined a refined schema for `ParsedMessage`, facilitating retrieval, classification, and reuse.
 - Executed heuristic time-based session segmentation and aggregated session data using [[Pandas]].
-- Planned and executed a reliable PromptFlow setup for processing chat history.
+- Planned and executed a reliable [[PromptFlow]] setup for processing chat history.
 
 ### Achievements
 - Successfully developed a comprehensive schema for [[AI]] message parsing, incorporating multiple dimensions and enhancements.

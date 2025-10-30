@@ -1,6 +1,6 @@
 ---
 title: "Conducted comprehensive data scraping and analysis"
-tags: ['Data Analysis', 'JSON', 'Web Scraping', 'Semantic Analysis', 'Pandas']
+tags: ["Data Analysis", "JSON", "Web Scraping", "Semantic Analysis", "Pandas"]
 created: 2025-03-08
 publish: true
 ---
@@ -10,17 +10,17 @@ publish: true
 **🕒 00:40–02:30**  
 **🏷️ Labels**: Data Analysis, JSON, Web Scraping, Semantic Analysis, Pandas  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
 
 
-**Session Goal:** The session aimed to conduct a comprehensive analysis of various [[JSON]] files and datasets related to web scraping and data analysis, with a focus on understanding data structures, loading processes, and semantic analysis.
+
+**Session Goal:** The session aimed to conduct a comprehensive analysis of various [[JSON]] files and datasets related to [[web scraping]] and [[data analysis]], with a focus on understanding data structures, loading processes, and semantic analysis.
 
 **Key Activities:**
 - Compared [[JSON]] scraping files from Spider Cloud, analyzing data structures and use cases.
 - Explored legal aspects of recovering a stolen motorcycle and negotiation with insurers.
 - Analyzed Fundación Sadosky's [[JSON]] entry and web content for strategic insights.
 - Loaded [[JSON]] files into [[Pandas]] DataFrames and performed initial data manipulation.
-- Conducted exploratory data analysis on URL frequency and analyzed similarity distributions in web vs. personal notes.
+- Conducted exploratory [[data analysis]] on URL frequency and analyzed similarity distributions in web vs. personal notes.
 - Evaluated semantic trajectory of an academic dataset and analyzed indexed URL patterns.
 - Assessed dendrogram-based clustering techniques for semantic coherence.
 

@@ -1,6 +1,6 @@
 ---
 title: "Developed Jupyter scripts for session journal automation"
-tags: ['Jupyter', 'Markdown', 'Automation', 'Data Processing']
+tags: ["Jupyter", "Markdown", "Automation", "Data Processing"]
 created: 2025-07-29
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 02:30–03:00**  
 **🏷️ Labels**: Jupyter, Markdown, Automation, Data Processing  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to refine the process of managing session logs and artifacts through automation, focusing on structuring JSONL formats and integrating session metadata into a [[Markdown]] journal.
+The session aimed to refine the process of managing session logs and artifacts through [[automation]], focusing on structuring JSONL formats and integrating session metadata into a [[Markdown]] journal.
 
 ### Key Activities
 - Designed a dual-layer system for managing session logs and artifacts, emphasizing the need for a structured JSONL format.

@@ -1,6 +1,6 @@
 ---
 title: "Optimized Multi-Output Classification with XGBoost"
-tags: ['Xgboost', 'Multi-Output', 'Classification', 'Error Diagnosis', 'Machine Learning']
+tags: ["Xgboost", "Multi-Output", "Classification", "Error Diagnosis", "Machine Learning"]
 created: 2025-07-15
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 20:10–20:45**  
 **🏷️ Labels**: Xgboost, Multi-Output, Classification, Error Diagnosis, Machine Learning  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to diagnose and resolve errors in multi-output classification using XGBoost and other machine learning models, while also optimizing model performance through refactoring and evaluation.
+The session aimed to diagnose and resolve errors in multi-output classification using XGBoost and other [[machine learning]] models, while also optimizing model performance through [[refactoring]] and evaluation.
 
 ### Key Activities
 - Diagnosed and provided solutions for errors in XGBoost multi-output classification.
@@ -34,5 +34,5 @@ The session aimed to diagnose and resolve errors in multi-output classification 
 - Developed comprehensive strategies for optimizing multi-class classification.
 
 ### Pending Tasks
-- Further exploration of hyperparameter optimization for improved model performance.
+- Further exploration of hyperparameter [[optimization]] for improved model performance.
 - Implementation of recommended strategies for class imbalance in future models.

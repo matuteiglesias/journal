@@ -1,6 +1,6 @@
 ---
 title: "Enhanced NER with Optimized Transformers and Tokenization"
-tags: ['NER', 'Transformers', 'Tokenization', 'Python', 'Machine Learning']
+tags: ["NER", "Transformers", "Tokenization", "Python", "Machine Learning"]
 created: 2025-03-01
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:10–04:25**  
 **🏷️ Labels**: NER, Transformers, Tokenization, Python, Machine Learning  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

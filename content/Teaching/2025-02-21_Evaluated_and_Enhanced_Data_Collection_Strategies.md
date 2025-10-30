@@ -1,6 +1,6 @@
 ---
 title: "Evaluated and Enhanced Data Collection Strategies"
-tags: ['Data Collection', 'Retrieval', 'FAISS', 'Education', 'Langflow']
+tags: ["Data Collection", "Retrieval", "FAISS", "Education", "Langflow"]
 created: 2025-02-21
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:00–23:20**  
 **🏷️ Labels**: Data Collection, Retrieval, FAISS, Education, Langflow  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

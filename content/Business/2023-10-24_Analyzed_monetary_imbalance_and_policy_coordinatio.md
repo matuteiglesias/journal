@@ -1,6 +1,6 @@
 ---
 title: "Analyzed monetary imbalance and policy coordination"
-tags: ['Monetary Policy', 'Economic Analysis', 'Time Series', 'Inflation', 'Policy Coordination']
+tags: ["Monetary Policy", "Economic Analysis", "Time Series", "Inflation", "Policy Coordination"]
 created: 2023-10-24
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 07:00–08:40**  
 **🏷️ Labels**: Monetary Policy, Economic Analysis, Time Series, Inflation, Policy Coordination  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -31,4 +31,4 @@ The session aimed to analyze economic imbalances, specifically the disproportion
 
 ### Pending Tasks
 - Further exploration of monetary policy reforms to mitigate identified risks.
-- Continued development of analytical tools for economic data analysis.
+- Continued development of analytical tools for economic [[data analysis]].

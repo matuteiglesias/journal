@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Bias-Variance Tradeoff in Decision Trees"
-tags: ['Python', 'Machine Learning', 'Decision Trees', 'Bias-Variance']
+tags: ["Python", "Machine Learning", "Decision Trees", "Bias-Variance"]
 created: 2025-06-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 10:45–11:10**  
 **🏷️ Labels**: Python, Machine Learning, Decision Trees, Bias-Variance  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal**: The session aimed to explore the bias-variance tradeoff in decision tree regression models using [[Python]].

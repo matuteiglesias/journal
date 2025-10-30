@@ -1,6 +1,6 @@
 ---
 title: "Developed Standard Procedures for Nursing Calculations"
-tags: ['Nursing', 'Healthcare', 'SOP', 'Intravenous', 'Education']
+tags: ["Nursing", "Healthcare", "SOP", "Intravenous", "Education"]
 created: 2025-02-18
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 13:00–13:30**  
 **🏷️ Labels**: Nursing, Healthcare, SOP, Intravenous, Education  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

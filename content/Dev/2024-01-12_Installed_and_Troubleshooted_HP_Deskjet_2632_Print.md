@@ -1,6 +1,6 @@
 ---
 title: "Installed and Troubleshooted HP Deskjet 2632 Printer on Ubuntu"
-tags: ['HPLIP', 'Ubuntu', 'Printer Installation', 'Troubleshooting', 'Linux']
+tags: ["HPLIP", "Ubuntu", "Printer Installation", "Troubleshooting", "Linux"]
 created: 2024-01-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:15–23:55**  
 **🏷️ Labels**: HPLIP, Ubuntu, Printer Installation, Troubleshooting, Linux  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

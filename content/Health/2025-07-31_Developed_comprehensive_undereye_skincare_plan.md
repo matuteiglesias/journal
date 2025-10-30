@@ -1,6 +1,6 @@
 ---
 title: "Developed comprehensive undereye skincare plan"
-tags: ['Skincare', 'Undereye', 'Beauty', 'Routine', 'Health']
+tags: ["Skincare", "Undereye", "Beauty", "Routine", "Health"]
 created: 2025-07-31
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 01:55–02:10**  
 **🏷️ Labels**: Skincare, Undereye, Beauty, Routine, Health  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

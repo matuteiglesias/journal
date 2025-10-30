@@ -1,6 +1,6 @@
 ---
 title: "Developed Semantic Identity Framework for Content Playbooks"
-tags: ['Semantic Identity', 'Content Playbooks', 'Narrative Hooks', 'Modular Narratives', 'Semantic Analysis']
+tags: ["Semantic Identity", "Content Playbooks", "Narrative Hooks", "Modular Narratives", "Semantic Analysis"]
 created: 2025-05-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:00–01:30**  
 **🏷️ Labels**: Semantic Identity, Content Playbooks, Narrative Hooks, Modular Narratives, Semantic Analysis  
 **📂 Project**: SEO  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

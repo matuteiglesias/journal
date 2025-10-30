@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Investment and Trading Strategies"
-tags: ['Investment', 'Algorithmic Trading', 'Financial Data', 'Portfolio Management']
+tags: ["Investment", "Algorithmic Trading", "Financial Data", "Portfolio Management"]
 created: 2024-01-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:40–21:25**  
 **🏷️ Labels**: Investment, Algorithmic Trading, Financial Data, Portfolio Management  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,7 +23,7 @@ The session focused on developing comprehensive strategies for investment and al
 - **Algorithmic Trading Development**: Outlined software selection, algorithm development, and backtesting.
 - **Market Data Sources**: Explored free and paid sources for market data essential for trading.
 - **Financial Tools Comparison**: Compared Yahoo Finance and Google Finance for investment analysis.
-- **Financial Management Suite Setup**: Detailed integration of Google Finance with Google Sheets and [[Python]].
+- **Financial Management Suite Setup**: Detailed [[integration]] of Google Finance with Google Sheets and [[Python]].
 - **Data Fetching System**: Created a system to fetch financial data using [[Python]] and Google Sheets.
 - **Stock Data Downloading**: Provided [[Python]] scripts using `yfinance` for downloading stock data.
 

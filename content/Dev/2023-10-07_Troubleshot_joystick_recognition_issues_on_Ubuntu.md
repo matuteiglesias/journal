@@ -1,6 +1,6 @@
 ---
 title: "Troubleshot joystick recognition issues on Ubuntu"
-tags: ['Joystick', 'Ubuntu', 'Troubleshooting', 'USB', 'Drivers']
+tags: ["Joystick", "Ubuntu", "Troubleshooting", "USB", "Drivers"]
 created: 2023-10-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:55–22:05**  
 **🏷️ Labels**: Joystick, Ubuntu, Troubleshooting, USB, Drivers  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,7 +21,7 @@ The goal of this session was to troubleshoot and resolve joystick recognition is
 - **Functionality Testing**: Tested joystick functionality with `jstest` to ensure it was working correctly.
 - **[[Configuration]] in PCSX2**: Configured settings within the PCSX2 emulator to ensure proper joystick recognition.
 - **USB and Driver Checks**: Checked USB connections and installed necessary drivers to address any potential hardware or software issues.
-- **Hardware Diagnostics**: Conducted diagnostics to identify low-level communication errors and explored additional drivers for compatibility.
+- **Hardware Diagnostics**: Conducted diagnostics to identify low-level [[communication]] errors and explored additional drivers for compatibility.
 
 ### Achievements
 - Identified key areas where the joystick recognition was failing and implemented steps to address these issues.

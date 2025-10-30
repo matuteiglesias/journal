@@ -1,6 +1,6 @@
 ---
 title: "Analyzed laboratory results and medication effects"
-tags: ['Laboratory Results', 'Health', 'Medication Effects', 'Liver Function', 'Lipid Levels']
+tags: ["Laboratory Results", "Health", "Medication Effects", "Liver Function", "Lipid Levels"]
 created: 2024-05-23
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 20:10–20:30**  
 **🏷️ Labels**: Laboratory Results, Health, Medication Effects, Liver Function, Lipid Levels  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

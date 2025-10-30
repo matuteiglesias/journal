@@ -1,6 +1,6 @@
 ---
 title: "Design and Implementation of PEI Database Schema"
-tags: ['PEI', 'Database Design', 'DBML', 'Normalization', 'Data Architecture']
+tags: ["PEI", "Database Design", "DBML", "Normalization", "Data Architecture"]
 created: 2024-12-16
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 09:45–11:25**  
 **🏷️ Labels**: PEI, Database Design, DBML, Normalization, Data Architecture  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,7 +18,7 @@ The primary objective of this session was to design and implement a robust datab
 
 ### Key Activities
 - Analyzed and proposed a data schema framework to manage PEIs, focusing on necessary tables and their relationships.
-- Developed technical documentation for the PEI data schema, detailing requirements, models, specifications, and procedures for implementation.
+- Developed technical [[documentation]] for the PEI data schema, detailing requirements, models, specifications, and procedures for implementation.
 - Provided a DBML schema for PEI management, including tables for students, tutors, and subjects.
 - Addressed duplication issues in DBML relationships and offered solutions with code examples.
 - Emphasized the importance of using technical and descriptive names in database systems for better accessibility.
@@ -31,7 +31,7 @@ The primary objective of this session was to design and implement a robust datab
 
 ### Achievements
 - Successfully designed a comprehensive database schema for PEIs, addressing issues of normalization and scalability.
-- Developed clear technical documentation to guide future implementation and management.
+- Developed clear technical [[documentation]] to guide future implementation and management.
 
 ### Pending Tasks
 - Further testing and validation of the proposed schema with real-world data to ensure robustness and efficiency.

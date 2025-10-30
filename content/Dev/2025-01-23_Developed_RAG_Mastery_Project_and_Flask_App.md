@@ -1,6 +1,6 @@
 ---
 title: "Developed RAG Mastery Project and Flask App"
-tags: ['RAG', 'Flask', 'RAPTOR', 'Langchain', 'Development']
+tags: ["RAG", "Flask", "RAPTOR", "Langchain", "Development"]
 created: 2025-01-23
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 13:30–15:30**  
 **🏷️ Labels**: RAG, Flask, RAPTOR, Langchain, Development  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -31,5 +31,5 @@ The session focused on developing a Retrieval-Augmented Generation (RAG) applica
 - Established a comprehensive roadmap for the RAG Mastery project, integrating RAPTOR principles.
 
 ### Pending Tasks
-- Further refinement and scaling of the RAG system, focusing on optimization and modularization.
+- Further refinement and scaling of the RAG system, focusing on [[optimization]] and modularization.
 - Implementation of unit tests for the modularized RAPTOR pipeline.

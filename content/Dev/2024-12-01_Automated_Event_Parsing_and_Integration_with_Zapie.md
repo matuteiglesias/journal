@@ -1,6 +1,6 @@
 ---
 title: "Automated Event Parsing and Integration with Zapier"
-tags: ['Zapier', 'Python', 'Automation', 'Webhook', 'Email Parsing']
+tags: ["Zapier", "Python", "Automation", "Webhook", "Email Parsing"]
 created: 2024-12-01
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:00–22:20**  
 **🏷️ Labels**: Zapier, Python, Automation, Webhook, Email Parsing  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -22,11 +22,11 @@ The session aimed to automate the process of parsing events from emails and inte
 - Set up and tested a webhook trigger in Zapier to receive parsed email events.
 - Generated a webhook URL and sent test data using a [[Python]] script to verify the connection.
 - Fixed data structure errors in the webhook payload to ensure compatibility with Zapier's expected [[JSON]] format.
-- Updated the Zapier automation workflow to finalize the configuration and prepare for publishing.
+- Updated the Zapier [[automation]] [[workflow]] to finalize the [[configuration]] and prepare for publishing.
 
 ### Achievements
-- Successfully integrated [[Python]] scripts with Zapier for calendar automation.
+- Successfully integrated [[Python]] scripts with Zapier for calendar [[automation]].
 - Established a working webhook connection and corrected data structure issues.
 
 ### Pending Tasks
-- Finalize the Zapier configuration and publish the workflow for full automation.
+- Finalize the Zapier [[configuration]] and publish the [[workflow]] for full [[automation]].

@@ -1,6 +1,6 @@
 ---
 title: "Developed AI-driven content strategy and automation plan"
-tags: ['AI', 'Content Strategy', 'Automation', 'Passive Income', 'SEO']
+tags: ["AI", "Content Strategy", "Automation", "Passive Income", "SEO"]
 created: 2025-05-06
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 03:30–04:30**  
 **🏷️ Labels**: AI, Content Strategy, Automation, Passive Income, SEO  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to strategize and develop a comprehensive plan for [[AI]]-driven content generation and automation, targeting profitable niches and optimizing content operations to achieve significant passive income.
+The session aimed to strategize and develop a comprehensive plan for [[AI]]-driven content generation and [[automation]], targeting profitable niches and optimizing content operations to achieve significant passive income.
 
 ### Key Activities
 - **Content Generation Flywheel:** Created a strategic plan for generating content at scale using [[AI]] tools, focusing on profitable keywords and leveraging affiliate networks for monetization.

@@ -1,6 +1,6 @@
 ---
 title: "Developed and Analyzed Linear Algebra Exercise Scripts"
-tags: ['Linear Algebra', 'Python', 'Teaching', 'Scripting', 'Debugging']
+tags: ["Linear Algebra", "Python", "Teaching", "Scripting", "Debugging"]
 created: 2024-08-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:30–18:05**  
 **🏷️ Labels**: Linear Algebra, Python, Teaching, Scripting, Debugging  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,7 +21,7 @@ This session aimed to develop and analyze computational exercises related to lin
 - Developed a laboratory session focusing on linear independence and transformations with [[Python]] examples.
 - Implemented computational exercises to calculate matrix rank and dimensionality using Gaussian elimination and SVD.
 - Analyzed and recommended improvements for the sequence of exercises in linear algebra classes.
-- Created and debugged [[Python]] scripts to split exercises from a markdown file into separate files.
+- Created and debugged [[Python]] scripts to split exercises from a [[markdown]] file into separate files.
 
 ### Achievements
 - Successful implementation of [[Python]] exercises for linear algebra concepts.

@@ -1,6 +1,6 @@
 ---
 title: "Conceptualized AI Prompt Building Block Marketplace"
-tags: ['AI', 'Prompt Engineering', 'Ux Design', 'Modular Design', 'Interoperability']
+tags: ["AI", "Prompt Engineering", "Ux Design", "Modular Design", "Interoperability"]
 created: 2025-04-14
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 08:00–08:35**  
 **🏷️ Labels**: AI, Prompt Engineering, Ux Design, Modular Design, Interoperability  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

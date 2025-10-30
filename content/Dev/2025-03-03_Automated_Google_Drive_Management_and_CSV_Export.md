@@ -1,6 +1,6 @@
 ---
 title: "Automated Google Drive Management and CSV Export"
-tags: ['Google Drive', 'Automation', 'Python', 'CSV', 'API']
+tags: ["Google Drive", "Automation", "Python", "CSV", "API"]
 created: 2025-03-03
 publish: true
 ---
@@ -10,10 +10,10 @@ publish: true
 **🕒 00:05–23:50**  
 **🏷️ Labels**: Google Drive, Automation, Python, CSV, API  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
 
 
-**Session Goal:** The session aimed to enhance document management and automation processes using Google Drive [[API]] and related tools.
+
+**Session Goal:** The session aimed to enhance document management and [[automation]] processes using Google Drive [[API]] and related tools.
 
 **Key Activities:**
 1. **Document Title Refinement:** Improved clarity and organization for 30 documents by refining titles and categories.
@@ -27,8 +27,8 @@ publish: true
 - Successfully refined document titles and categories for better organization.
 - Developed robust scripts for managing Google Drive files and exporting directory trees.
 - Configured [[CLI]] tools for secure access to Google Drive.
-- Automated [[CSV]] generation from Google Drive data, ensuring accurate data extraction.
+- Automated [[CSV]] generation from Google Drive data, ensuring accurate [[data extraction]].
 
 **Pending Tasks:**
-- Further testing and optimization of the Google Drive automation scripts.
-- Implementation of additional error handling in [[CSV]] generation scripts to prevent empty outputs.
+- Further testing and [[optimization]] of the Google Drive [[automation]] scripts.
+- Implementation of additional [[error handling]] in [[CSV]] generation scripts to prevent empty outputs.

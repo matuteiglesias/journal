@@ -1,6 +1,6 @@
 ---
 title: "Explored Masculinity in Fourth Wave Feminism"
-tags: ['Feminism', 'Masculinity', 'Gender Equality', 'Patriarchy', 'Social Change']
+tags: ["Feminism", "Masculinity", "Gender Equality", "Patriarchy", "Social Change"]
 created: 2023-05-06
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 16:50–17:11**  
 **🏷️ Labels**: Feminism, Masculinity, Gender Equality, Patriarchy, Social Change  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

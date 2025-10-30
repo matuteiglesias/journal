@@ -1,6 +1,6 @@
 ---
 title: "Developed comprehensive home management checklists"
-tags: ['Checklist', 'Home Management', 'Organization', 'Cleaning', 'Maintenance']
+tags: ["Checklist", "Home Management", "Organization", "Cleaning", "Maintenance"]
 created: 2025-01-15
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 05:00–05:10**  
 **🏷️ Labels**: Checklist, Home Management, Organization, Cleaning, Maintenance  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

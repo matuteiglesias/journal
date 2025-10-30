@@ -1,6 +1,6 @@
 ---
 title: "Refactored AI and Research Functions"
-tags: ['Refactoring', 'Ai Integration', 'Economics', 'Json Schemas', 'Dynamic Functions']
+tags: ["Refactoring", "Ai Integration", "Economics", "Json Schemas", "Dynamic Functions"]
 created: 2025-02-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:50–19:30**  
 **🏷️ Labels**: Refactoring, Ai Integration, Economics, Json Schemas, Dynamic Functions  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

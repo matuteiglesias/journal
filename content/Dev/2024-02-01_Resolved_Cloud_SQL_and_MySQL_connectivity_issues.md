@@ -1,6 +1,6 @@
 ---
 title: "Resolved Cloud SQL and MySQL connectivity issues"
-tags: ['Cloud Sql', 'Mysql', 'Troubleshooting', 'Python', 'Database Connection']
+tags: ["Cloud Sql", "Mysql", "Troubleshooting", "Python", "Database Connection"]
 created: 2024-02-01
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:00–17:40**  
 **🏷️ Labels**: Cloud Sql, Mysql, Troubleshooting, Python, Database Connection  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

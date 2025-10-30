@@ -1,6 +1,6 @@
 ---
 title: "Explored Culinary Uses of Maicena and Yeast"
-tags: ['Cooking', 'Maicena', 'Yeast', 'Recipes', 'Culinary']
+tags: ["Cooking", "Maicena", "Yeast", "Recipes", "Culinary"]
 created: 2025-03-23
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 08:00–08:10**  
 **🏷️ Labels**: Cooking, Maicena, Yeast, Recipes, Culinary  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 **Session Goal:** To explore and document the culinary uses of maicena (cornstarch) and yeast in various recipes.

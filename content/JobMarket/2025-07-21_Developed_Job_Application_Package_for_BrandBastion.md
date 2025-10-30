@@ -1,6 +1,6 @@
 ---
 title: "Developed Job Application Package for BrandBastion AI Role"
-tags: ['Job Application', 'Ai Engineer', 'Brandbastion', 'NLP', 'Automation']
+tags: ["Job Application", "Ai Engineer", "Brandbastion", "NLP", "Automation"]
 created: 2025-07-21
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 18:15–18:40**  
 **🏷️ Labels**: Job Application, Ai Engineer, Brandbastion, NLP, Automation  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,7 +21,7 @@ The session aimed to develop a comprehensive job application package for the [[A
 - **Profile Summary**: Created a concise profile summary highlighting experience in NLP systems and modular architectures.
 - **Cover Letter**: Drafted a structured cover letter emphasizing relevant experience and skills.
 - **Salary Discussion**: Developed a strategic approach to salary negotiations, including suggested ranges and flexibility.
-- **Refinement**: Refined job application responses and experience statements to highlight skills in [[AI]] automation and workflow optimization.
+- **Refinement**: Refined job application responses and experience statements to highlight skills in [[AI]] [[automation]] and [[workflow]] [[optimization]].
 
 ### Achievements
 - Completed a tailored job application package including a cover letter, profile summary, and refined experience statement.

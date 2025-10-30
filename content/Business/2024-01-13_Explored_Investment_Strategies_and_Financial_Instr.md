@@ -1,6 +1,6 @@
 ---
 title: "Explored Investment Strategies and Financial Instruments"
-tags: ['Investment', 'Money Market Funds', 'Financial Derivatives', 'Interactive Brokers']
+tags: ["Investment", "Money Market Funds", "Financial Derivatives", "Interactive Brokers"]
 created: 2024-01-13
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:45–18:40**  
 **🏷️ Labels**: Investment, Money Market Funds, Financial Derivatives, Interactive Brokers  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,7 +18,7 @@ The session aimed to explore various investment strategies and financial instrum
 
 ### Key Activities
 - Discussed tactical asset allocation, rotational investing, and value investing, providing definitions and approaches.
-- Detailed a rotational investing strategy using momentum detection with [[Python]] and [[Pandas]].
+- Detailed a rotational investing [[strategy]] using momentum detection with [[Python]] and [[Pandas]].
 - Provided an overview of money market funds, including liquidity, regulatory framework, and their role in low-risk cash management.
 - Analyzed the impact of the Federal Reserve's monetary policy on money market funds and investment strategies for 2024.
 - Explored strategies for generating passive income from property in Argentina.

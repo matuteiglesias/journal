@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Semantic Search UI and Gradio Debugging"
-tags: ['Semantic Search', 'Gradio', 'Python', 'Debugging', 'Metadata']
+tags: ["Semantic Search", "Gradio", "Python", "Debugging", "Metadata"]
 created: 2025-05-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:00–00:30**  
 **🏷️ Labels**: Semantic Search, Gradio, Python, Debugging, Metadata  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

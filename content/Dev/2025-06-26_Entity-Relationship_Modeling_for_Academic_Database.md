@@ -1,6 +1,6 @@
 ---
 title: "Entity-Relationship Modeling for Academic Database Design"
-tags: ['Entity-Relationship', 'Database Design', 'Normalization', 'Academic System']
+tags: ["Entity-Relationship", "Database Design", "Normalization", "Academic System"]
 created: 2025-06-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:00–01:45**  
 **🏷️ Labels**: Entity-Relationship, Database Design, Normalization, Academic System  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

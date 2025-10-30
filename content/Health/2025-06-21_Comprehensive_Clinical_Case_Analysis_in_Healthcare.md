@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Clinical Case Analysis in Healthcare"
-tags: ['Clinical Analysis', 'Emergency Response', 'Risk Classification', 'Healthcare', 'Patient Safety']
+tags: ["Clinical Analysis", "Emergency Response", "Risk Classification", "Healthcare", "Patient Safety"]
 created: 2025-06-21
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 15:55–17:25**  
 **🏷️ Labels**: Clinical Analysis, Emergency Response, Risk Classification, Healthcare, Patient Safety  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** The session aimed to analyze and reflect on various clinical cases in the healthcare domain, focusing on risk classification, emergency response, and prioritization of medical care.
@@ -34,5 +34,5 @@ publish: false
 - Provided comprehensive insights into emergency medical response and prioritization.
 
 **Pending Tasks:**
-- Further exploration of effective communication strategies in emergency scenarios.
+- Further exploration of effective [[communication]] strategies in emergency scenarios.
 - Development of training materials for healthcare professionals on risk assessment protocols.

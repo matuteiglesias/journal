@@ -1,6 +1,6 @@
 ---
 title: "Developed data visualizations for project analysis"
-tags: ['Data Visualization', 'Python', 'Matplotlib', 'Bar Chart', 'Data Analysis']
+tags: ["Data Visualization", "Python", "Matplotlib", "Bar Chart", "Data Analysis"]
 created: 2023-03-31
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:05–18:30**  
 **🏷️ Labels**: Data Visualization, Python, Matplotlib, Bar Chart, Data Analysis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The session aimed to develop and refine data visualizations comparing Chinese an
 - Created stacked bar charts to display the number of projects by administrative area using [[Python]] and [[Matplotlib]].
 - Implemented techniques for rotating x-axis labels to improve readability.
 - Developed split bar plots to compare funding by recipient over multiple years.
-- Utilized pandas to enforce datetime data types when reading [[CSV]] files.
+- Utilized [[pandas]] to enforce datetime data types when reading [[CSV]] files.
 - Addressed mismatched tick locations and labels in [[Matplotlib]] plots, ensuring proper alignment and labeling.
 
 ### Achievements
@@ -29,4 +29,4 @@ The session aimed to develop and refine data visualizations comparing Chinese an
 - Resolved errors related to tick locations, ensuring accurate data representation.
 
 ### Pending Tasks
-- Further refinement of visualizations may be needed based on stakeholder feedback, particularly in terms of aesthetic adjustments and additional data integration.
+- Further refinement of visualizations may be needed based on stakeholder feedback, particularly in terms of aesthetic adjustments and additional data [[integration]].

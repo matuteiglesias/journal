@@ -1,6 +1,6 @@
 ---
 title: "Enhanced AI Exercise Metadata and Draft Handling"
-tags: ['Python', 'AI', 'Code Improvement', 'Markdown', 'Jupyter']
+tags: ["Python", "AI", "Code Improvement", "Markdown", "Jupyter"]
 created: 2025-03-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:55–22:35**  
 **🏷️ Labels**: Python, AI, Code Improvement, Markdown, Jupyter  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

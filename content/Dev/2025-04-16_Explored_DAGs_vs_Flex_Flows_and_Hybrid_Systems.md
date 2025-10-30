@@ -1,6 +1,6 @@
 ---
 title: "Explored DAGs vs Flex Flows and Hybrid Systems"
-tags: ['Dags', 'Flex Flows', 'Python', 'Ai Workflow', 'Developer Experience']
+tags: ["Dags", "Flex Flows", "Python", "Ai Workflow", "Developer Experience"]
 created: 2025-04-16
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:45–18:30**  
 **🏷️ Labels**: Dags, Flex Flows, Python, Ai Workflow, Developer Experience  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,15 +23,15 @@ The session aimed to evaluate architectural design choices between Directed Acyc
 - **Tiny Engine Loop Mindset**: Introduced a minimalist approach to modular and composable software using a simple execution loop.
 - **Guidelines for PythonBlock Protocol**: Defined best practices for PythonBlock execution contracts.
 - **Developer Experience**: Planned strategies for enhancing developer tools with validation and feedback.
-- **Empathetic [[Debugging]]**: Suggested creating 'FriendlyErrorCatcher' for better debugging experiences.
-- **OpenAI Tool Provider in PromptFlow**: Reviewed the architecture and features of a modular tool adapter for OpenAI integration.
+- **Empathetic [[Debugging]]**: Suggested creating 'FriendlyErrorCatcher' for better [[debugging]] experiences.
+- **[[OpenAI]] Tool Provider in [[PromptFlow]]**: Reviewed the architecture and features of a modular tool adapter for [[OpenAI]] [[integration]].
 
 ### Achievements
 - Clarified when to use DAGs vs Flex Flows and proposed enhancements for DAGs.
 - Developed a framework for hybrid systems with prompt and [[Python]] blocks.
-- Established guidelines for PythonBlock protocols and empathetic debugging tools.
+- Established guidelines for PythonBlock protocols and empathetic [[debugging]] tools.
 
 ### Pending Tasks
 - Implement the proposed enhancements for DAGs to incorporate looping and conditional logic.
-- Develop and test the 'FriendlyErrorCatcher' tool for [[Python]] debugging.
-- Further explore the integration of OpenAI tools within PromptFlow.
+- Develop and test the 'FriendlyErrorCatcher' tool for [[Python]] [[debugging]].
+- Further explore the [[integration]] of [[OpenAI]] tools within [[PromptFlow]].

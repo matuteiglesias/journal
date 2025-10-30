@@ -1,6 +1,6 @@
 ---
 title: "Managed and Automated Google Cloud Projects"
-tags: ['Google Cloud', 'Automation', 'IAM', 'Bash Scripting', 'Project Management']
+tags: ["Google Cloud", "Automation", "IAM", "Bash Scripting", "Project Management"]
 created: 2024-09-14
 publish: true
 ---
@@ -10,17 +10,17 @@ publish: true
 **🕒 00:20–00:40**  
 **🏷️ Labels**: Google Cloud, Automation, IAM, Bash Scripting, Project Management  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to enhance the management and automation of Google Cloud projects, focusing on hosting, project listing, IAM policy retrieval, and deletion.
+The session aimed to enhance the management and [[automation]] of Google Cloud projects, focusing on hosting, project listing, IAM policy retrieval, and deletion.
 
 ### Key Activities
-- **Hosting a Website:** Followed a guide to host a website using Google Cloud Platform's App Engine, including setup, SDK installation, application preparation, deployment, and custom domain mapping.
+- **Hosting a Website:** Followed a guide to host a website using Google Cloud Platform's App Engine, including setup, SDK installation, application preparation, [[deployment]], and custom domain mapping.
 - **[[Project Management]]:** Utilized guides and scripts to list and manage Google Cloud projects using both the Google Cloud Console and SDK.
 - **[[Automation]] with Bash:** Developed and executed Bash scripts for listing projects and retrieving IAM policy bindings, improving project visibility and security management.
-- **Security and Access Control:** Reviewed a comprehensive report on IAM bindings and access permissions, identifying issues and recommendations for better project management.
+- **Security and Access Control:** Reviewed a comprehensive report on IAM bindings and access permissions, identifying issues and recommendations for better [[project management]].
 - **Project Deletion:** Executed terminal commands to delete specific Google Cloud projects where necessary.
 
 ### Achievements

@@ -1,6 +1,6 @@
 ---
 title: "Configured HTML to PDF conversion with wkhtmltopdf"
-tags: ['HTML', 'CSS', 'Wkhtmltopdf', 'PDF', 'Margins']
+tags: ["HTML", "CSS", "Wkhtmltopdf", "PDF", "Margins"]
 created: 2023-12-29
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 03:05–03:30**  
 **🏷️ Labels**: HTML, CSS, Wkhtmltopdf, PDF, Margins  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to configure HTML documents for conversion to PDF using CSS styles and wkhtmltopdf, addressing both style application and troubleshooting.
+The session aimed to configure HTML documents for conversion to PDF using CSS styles and wkhtmltopdf, addressing both style application and [[troubleshooting]].
 
 ### Key Activities
 - Adjusted margins in HTML documents using CSS to ensure proper PDF conversion.

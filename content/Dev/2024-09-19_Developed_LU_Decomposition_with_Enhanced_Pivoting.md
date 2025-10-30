@@ -1,6 +1,6 @@
 ---
 title: "Developed LU Decomposition with Enhanced Pivoting"
-tags: ['Lu Decomposition', 'Python', 'Numerical Methods', 'Error Handling']
+tags: ["Lu Decomposition", "Python", "Numerical Methods", "Error Handling"]
 created: 2024-09-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:50–17:50**  
 **🏷️ Labels**: Lu Decomposition, Python, Numerical Methods, Error Handling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,7 +25,7 @@ The session aimed to enhance the LU decomposition algorithm by implementing part
 - Addressed and fixed errors such as 'LinAlgError: singular matrix' and `UFuncTypeError` by updating code examples and handling data types appropriately.
 
 ### Achievements
-- Successfully implemented LU decomposition with both partial and full pivoting, enhancing numerical stability and error handling.
+- Successfully implemented LU decomposition with both partial and full pivoting, enhancing numerical stability and [[error handling]].
 - Developed a comprehensive [[Python]] implementation for LU decomposition with detailed docstrings and code examples.
 
 ### Pending Tasks

@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Skincare and Dental Health Guidance"
-tags: ['Skincare', 'Acne', 'Isotretinoin', 'Dental Health', 'Routine']
+tags: ["Skincare", "Acne", "Isotretinoin", "Dental Health", "Routine"]
 created: 2024-12-09
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 15:20–15:55**  
 **🏷️ Labels**: Skincare, Acne, Isotretinoin, Dental Health, Routine  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

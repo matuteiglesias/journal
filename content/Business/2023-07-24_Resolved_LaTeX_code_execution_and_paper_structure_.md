@@ -1,6 +1,6 @@
 ---
 title: "Resolved LaTeX code execution and paper structure issues"
-tags: ['Latex', 'Economic Research', 'Paper Structure', 'Variance Analysis']
+tags: ["Latex", "Economic Research", "Paper Structure", "Variance Analysis"]
 created: 2023-07-24
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 08:00–08:30**  
 **🏷️ Labels**: Latex, Economic Research, Paper Structure, Variance Analysis  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

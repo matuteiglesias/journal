@@ -1,6 +1,6 @@
 ---
 title: "Automated Upwork Job Search and Proposal Drafting"
-tags: ['Upwork', 'Automation', 'Job Search', 'Graphql', 'Proposal Drafting']
+tags: ["Upwork", "Automation", "Job Search", "Graphql", "Proposal Drafting"]
 created: 2025-04-29
 publish: false
 ---
@@ -10,27 +10,27 @@ publish: false
 **🕒 18:50–19:40**  
 **🏷️ Labels**: Upwork, Automation, Job Search, Graphql, Proposal Drafting  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to streamline and automate the job search and application process on Upwork, focusing on [[API]] integrations, ETL automation, and proposal drafting.
+The session aimed to streamline and automate the job search and application process on Upwork, focusing on [[API]] integrations, ETL [[automation]], and proposal drafting.
 
 ### Key Activities
-- Conducted a strategic job triage for [[API]] integration opportunities, categorizing them by priority.
-- Developed a structured approach for job applications, enhancing productivity with tailored proposal templates.
-- Prioritized ETL automation jobs for efficient workload management.
-- Drafted customized proposals for QA Engineer and ETL Architect positions, emphasizing client communication.
+- Conducted a strategic job triage for [[API]] [[integration]] opportunities, categorizing them by priority.
+- Developed a structured approach for job applications, enhancing [[productivity]] with tailored proposal templates.
+- Prioritized ETL [[automation]] jobs for efficient workload management.
+- Drafted customized proposals for QA Engineer and ETL Architect positions, emphasizing client [[communication]].
 - Troubleshot issues with Upwork's save search feature, providing potential solutions.
-- Explored automation of Upwork job digests using [[Python]] and Google Sheets.
-- Analyzed Upwork's tech stack for job alert automation, focusing on web scraping and GraphQL [[API]] usage.
+- Explored [[automation]] of Upwork job digests using [[Python]] and Google Sheets.
+- Analyzed Upwork's tech stack for job alert [[automation]], focusing on [[web scraping]] and GraphQL [[API]] usage.
 - Implemented Upwork's job search functionality using GraphQL [[API]], including authentication and query construction.
 
 ### Achievements
 - Created actionable recommendations for [[API]] and ETL job applications.
 - Developed a comprehensive guide for automating job searches and proposal drafting on Upwork.
-- Provided insights into Upwork's tech stack and automation strategies.
+- Provided insights into Upwork's tech stack and [[automation]] strategies.
 
 ### Pending Tasks
-- Further refine automation scripts for job digests and alerts.
-- Explore additional [[AI]] tools for enhancing job search automation on Upwork.
+- Further refine [[automation]] scripts for job digests and alerts.
+- Explore additional [[AI]] tools for enhancing job search [[automation]] on Upwork.

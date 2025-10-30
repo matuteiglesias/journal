@@ -1,6 +1,6 @@
 ---
 title: "Resolved LangGraph chunk ID errors and enhanced concurrency"
-tags: ['Langgraph', 'Debugging', 'Python', 'Concurrency', 'Error Handling']
+tags: ["Langgraph", "Debugging", "Python", "Concurrency", "Error Handling"]
 created: 2025-02-08
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:10–01:35**  
 **🏷️ Labels**: Langgraph, Debugging, Python, Concurrency, Error Handling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

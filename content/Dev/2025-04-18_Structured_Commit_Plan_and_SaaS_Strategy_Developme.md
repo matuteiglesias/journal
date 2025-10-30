@@ -1,6 +1,6 @@
 ---
 title: "Structured Commit Plan and SaaS Strategy Development"
-tags: ['Git', 'Saas', 'Product Development', 'AI', 'Market Intelligence']
+tags: ["Git", "Saas", "Product Development", "AI", "Market Intelligence"]
 created: 2025-04-18
 publish: true
 ---
@@ -10,17 +10,17 @@ publish: true
 **🕒 01:00–01:45**  
 **🏷️ Labels**: Git, Saas, Product Development, AI, Market Intelligence  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
-The session aimed to address both software development tasks related to [[Git]] and strategic planning for SaaS product development.
+The session aimed to address both software development tasks related to [[Git]] and [[strategic planning]] for SaaS product development.
 
 ### Key Activities:
 - **Structured Commit Plan:** Developed a detailed commit plan for [[API]] and editor components to ensure a semantic and modular commit history.
 - **Resolving [[Git]] Branch Issues:** Provided a step-by-step guide to resolve divergent branches in [[Git]], including merging and configuring pull behavior.
-- **[[Markdown]] Image Embedding:** Discussed methods for embedding images in GitHub README files using URLs and relative paths.
-- **SaaS [[Strategy]] Development:** Outlined a strategic approach for leveraging [[AI]] in SaaS product development, focusing on unique strengths and a structured sales strategy.
+- **[[Markdown]] Image Embedding:** Discussed methods for embedding images in [[GitHub]] README files using URLs and relative paths.
+- **SaaS [[Strategy]] Development:** Outlined a strategic approach for leveraging [[AI]] in SaaS product development, focusing on unique strengths and a structured sales [[strategy]].
 - **1-Week SaaS Sprint Plan:** Created a plan for a 7-day sprint to develop MVPs using rapid experimentation.
 - **Market Intelligence for SaaS:** Developed a comprehensive guide for analyzing the SaaS market landscape, including competitive analysis and data sources.
 

@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Feedback Submission and Error Resolution"
-tags: ['Flask', 'AJAX', 'Firestore', 'Debugging', 'Web Development']
+tags: ["Flask", "AJAX", "Firestore", "Debugging", "Web Development"]
 created: 2024-03-15
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 22:00–23:40**  
 **🏷️ Labels**: Flask, AJAX, Firestore, Debugging, Web Development  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The primary objective of this session was to enhance the feedback submission process in a [[Flask]] web application, ensuring smooth integration with Firestore and resolving existing errors.
+The primary objective of this session was to enhance the feedback submission process in a [[Flask]] web application, ensuring smooth [[integration]] with Firestore and resolving existing errors.
 
 ### Key Activities
 - **Feedback Submission Modification:** Implemented changes to prevent redirection during feedback submission and fixed a KeyError related to teacher time submissions.
@@ -26,9 +26,9 @@ The primary objective of this session was to enhance the feedback submission pro
 ### Achievements
 - Successfully integrated AJAX for feedback submission, enhancing user experience.
 - Resolved URL endpoint mismatches and session key errors in [[Flask]].
-- Improved error handling and logging for Firestore operations.
+- Improved [[error handling]] and logging for Firestore operations.
 
 ### Pending Tasks
-- Conduct further integration testing to ensure all changes work seamlessly across different environments.
+- Conduct further [[integration]] testing to ensure all changes work seamlessly across different environments.
 - Review and optimize server-side logging for better error tracking and resolution.
 - Validate user session management to prevent unauthorized access during feedback submission.

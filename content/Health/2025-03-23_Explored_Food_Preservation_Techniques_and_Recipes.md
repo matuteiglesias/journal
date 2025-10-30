@@ -1,6 +1,6 @@
 ---
 title: "Explored Food Preservation Techniques and Recipes"
-tags: ['Food Preservation', 'Recipes', 'Fermentation', 'Cooking', 'Chutney', 'Pickling']
+tags: ["Food Preservation", "Recipes", "Fermentation", "Cooking", "Chutney", "Pickling"]
 created: 2025-03-23
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 08:10–08:35**  
 **🏷️ Labels**: Food Preservation, Recipes, Fermentation, Cooking, Chutney, Pickling  
 **📂 Project**: Health  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

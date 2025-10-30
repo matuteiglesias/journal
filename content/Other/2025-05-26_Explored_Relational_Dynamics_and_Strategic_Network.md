@@ -1,6 +1,6 @@
 ---
 title: "Explored Relational Dynamics and Strategic Networks"
-tags: ['Game Design', 'Strategic Networking', 'Power Dynamics', 'Relational Games']
+tags: ["Game Design", "Strategic Networking", "Power Dynamics", "Relational Games"]
 created: 2025-05-26
 publish: false
 ---
@@ -10,11 +10,11 @@ publish: false
 **🕒 21:40–22:10**  
 **🏷️ Labels**: Game Design, Strategic Networking, Power Dynamics, Relational Games  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to explore and refine concepts related to relational dynamics, strategic networking, and game design, with a focus on understanding interpersonal connections and power structures.
+The session aimed to explore and refine concepts related to relational dynamics, strategic [[networking]], and game design, with a focus on understanding interpersonal connections and power structures.
 
 ### Key Activities
 - **Game Design for 'Pasar los 50'**: Developed a relational game concept using cards and dice to encourage interpersonal engagement.
@@ -28,7 +28,7 @@ The session aimed to explore and refine concepts related to relational dynamics,
 - **Liberating Your Trajectory**: Developed a framework for personal network renewal and contact management.
 
 ### Achievements
-- Developed multiple frameworks and concepts for relational games and strategic networking.
+- Developed multiple frameworks and concepts for relational games and strategic [[networking]].
 - Enhanced understanding of power dynamics and strategic relational networks.
 
 ### Pending Tasks

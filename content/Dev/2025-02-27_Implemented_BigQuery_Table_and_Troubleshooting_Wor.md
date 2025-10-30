@@ -1,6 +1,6 @@
 ---
 title: "Implemented BigQuery Table and Troubleshooting Workflow"
-tags: ['Bigquery', 'Google Cloud', 'Data Loading', 'Troubleshooting']
+tags: ["Bigquery", "Google Cloud", "Data Loading", "Troubleshooting"]
 created: 2025-02-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:30–21:55**  
 **🏷️ Labels**: Bigquery, Google Cloud, Data Loading, Troubleshooting  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -28,5 +28,5 @@ The primary objective of this session was to create a BigQuery table for census 
 - Established procedures for granting data access without changing the project settings.
 
 ### Pending Tasks
-- Further optimization of data loading processes by converting [[CSV]] to Parquet for efficiency.
-- Continuous monitoring and troubleshooting of data upload issues as they arise.
+- Further [[optimization]] of data loading processes by converting [[CSV]] to Parquet for efficiency.
+- Continuous monitoring and [[troubleshooting]] of data upload issues as they arise.

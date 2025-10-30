@@ -1,6 +1,6 @@
 ---
 title: "Developed Bash Scripts for Git Automation"
-tags: ['Bash Scripting', 'Git Automation', 'Gedit', 'Linux Terminal']
+tags: ["Bash Scripting", "Git Automation", "Gedit", "Linux Terminal"]
 created: 2023-01-02
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 23:35–23:55**  
 **🏷️ Labels**: Bash Scripting, Git Automation, Gedit, Linux Terminal  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to enhance productivity by creating bash scripts to automate [[Git]] operations across multiple repositories.
+The session aimed to enhance [[productivity]] by creating bash scripts to automate [[Git]] operations across multiple repositories.
 
 ### Key Activities
 - **Commenting and Uncommenting in Gedit**: Reviewed methods to toggle comments in Gedit using menu options and keyboard shortcuts (`Ctrl + /`).

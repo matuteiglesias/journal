@@ -1,6 +1,6 @@
 ---
 title: "Standardized time execution in automation pipeline"
-tags: ['Automation', 'Scripting', 'Python', 'Pipeline', 'Standardization']
+tags: ["Automation", "Scripting", "Python", "Pipeline", "Standardization"]
 created: 2025-06-21
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 22:25–22:55**  
 **🏷️ Labels**: Automation, Scripting, Python, Pipeline, Standardization  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to standardize time-based execution parameters across an automation pipeline to enhance orchestration and reduce fragmentation.
+The session aimed to standardize time-based execution parameters across an [[automation]] pipeline to enhance orchestration and reduce fragmentation.
 
 ### Key Activities
 - Proposed the adoption of a consistent `--trigger-time` interface across scripts.
@@ -27,7 +27,7 @@ The session aimed to standardize time-based execution parameters across an autom
 
 ### Achievements
 - Established a unified approach to time-based execution in the pipeline.
-- Improved script compatibility and error handling.
+- Improved script compatibility and [[error handling]].
 - Enhanced filename generation and processing logic.
 
 ### Pending Tasks

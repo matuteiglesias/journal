@@ -1,6 +1,6 @@
 ---
 title: "Resolved UnicodeEncodeError in Python Geopandas"
-tags: ['Python', 'Geopandas', 'Error Handling', 'Data Processing', 'Markdown']
+tags: ["Python", "Geopandas", "Error Handling", "Data Processing", "Markdown"]
 created: 2023-05-18
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 16:30–18:30**  
 **🏷️ Labels**: Python, Geopandas, Error Handling, Data Processing, Markdown  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to resolve UnicodeEncodeError and DriverError issues in [[Python]], specifically when using Geopandas for geospatial data processing.
+The session aimed to resolve UnicodeEncodeError and DriverError issues in [[Python]], specifically when using Geopandas for geospatial [[data processing]].
 
 ### Key Activities
 - Addressed the UnicodeEncodeError related to the character 'ó' by using 'latin1' encoding in the `gpd.read_file()` function.

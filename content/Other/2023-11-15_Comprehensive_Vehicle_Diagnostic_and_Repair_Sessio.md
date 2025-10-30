@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Vehicle Diagnostic and Repair Session"
-tags: ['Vehicle Maintenance', 'Diagnostic', 'Repair', 'Safety', 'Automotive']
+tags: ["Vehicle Maintenance", "Diagnostic", "Repair", "Safety", "Automotive"]
 created: 2023-11-15
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 01:40–02:20**  
 **🏷️ Labels**: Vehicle Maintenance, Diagnostic, Repair, Safety, Automotive  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

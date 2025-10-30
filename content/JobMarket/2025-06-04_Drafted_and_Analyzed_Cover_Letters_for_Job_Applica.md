@@ -1,6 +1,6 @@
 ---
 title: "Drafted and Analyzed Cover Letters for Job Applications"
-tags: ['Cover Letters', 'Job Applications', 'Screening', 'AI', 'Career Development']
+tags: ["Cover Letters", "Job Applications", "Screening", "AI", "Career Development"]
 created: 2025-06-04
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 19:30–20:50**  
 **🏷️ Labels**: Cover Letters, Job Applications, Screening, AI, Career Development  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

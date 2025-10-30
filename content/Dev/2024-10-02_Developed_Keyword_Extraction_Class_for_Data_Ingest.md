@@ -1,6 +1,6 @@
 ---
 title: "Developed Keyword Extraction Class for Data Ingestion"
-tags: ['Keyword Extraction', 'Data Processing', 'Automation', 'NLP', 'Python']
+tags: ["Keyword Extraction", "Data Processing", "Automation", "NLP", "Python"]
 created: 2024-10-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:10–03:20**  
 **🏷️ Labels**: Keyword Extraction, Data Processing, Automation, NLP, Python  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,5 +26,5 @@ The session aimed to develop a keyword extraction class to process various data 
 - Established a clear plan for implementing keyword extraction and classification, setting the stage for further development.
 
 ### Pending Tasks
-- Begin the actual coding and integration of the keyword extraction class into the data ingestion pipeline.
+- Begin the actual coding and [[integration]] of the keyword extraction class into the data ingestion pipeline.
 - Test the system with real data sources to ensure functionality and performance.

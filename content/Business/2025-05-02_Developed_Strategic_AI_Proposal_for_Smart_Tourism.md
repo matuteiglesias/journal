@@ -1,6 +1,6 @@
 ---
 title: "Developed Strategic AI Proposal for Smart Tourism"
-tags: ['AI', 'Tourism', 'Proposal', 'Development', 'CSS', 'Quotation']
+tags: ["AI", "Tourism", "Proposal", "Development", "CSS", "Quotation"]
 created: 2025-05-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 05:00–05:30**  
 **🏷️ Labels**: AI, Tourism, Proposal, Development, CSS, Quotation  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -22,7 +22,7 @@ The session aimed to develop a strategic and technical proposal for a scalable s
 - Presented offers tailored to different budgets and functionalities for the [[AI]] travel planning module.
 - Developed a strategic proposal for a personalized [[AI]] engine focused on practical solutions for tourism planning.
 - Prepared a technical quotation for the [[AI]] tourism project, including objectives, functional scope, development stages, and implementation options with costs.
-- Designed a modern and elegant CSS style for web and PDF integration, enhancing aesthetic and formal presentation.
+- Designed a modern and elegant CSS style for web and PDF [[integration]], enhancing aesthetic and formal presentation.
 
 ### Achievements
 - Completed strategic and technical proposals for a smart tourism platform.

@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Convergence and Eigenvalue Computation"
-tags: ['Convergence', 'Eigenvalues', 'Sympy', 'Linear Algebra', 'Matrix Analysis']
+tags: ["Convergence", "Eigenvalues", "Sympy", "Linear Algebra", "Matrix Analysis"]
 created: 2024-12-08
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:55–15:05**  
 **🏷️ Labels**: Convergence, Eigenvalues, Sympy, Linear Algebra, Matrix Analysis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,7 +19,7 @@ The session aimed to analyze the convergence of iterative methods (Gauss-Seidel 
 ### Key Activities
 - **Convergence Analysis**: Explored necessary conditions for the convergence of Gauss-Seidel and Jacobi methods, focusing on matrix properties such as diagonal dominance and positive definiteness using SymPy.
 - **Implementation in SymPy**: Developed checks for diagonal dominance and positive definiteness in matrices through symbolic computation.
-- **Eigenvalue Computation**: Addressed issues with computing the characteristic polynomial and eigenvalues, including retrying computations and debugging the execution environment.
+- **Eigenvalue Computation**: Addressed issues with computing the characteristic polynomial and eigenvalues, including retrying computations and [[debugging]] the execution environment.
 - **Screening Agent Initialization**: Prepared the assistant to screen and annotate messages for organizational purposes.
 
 ### Achievements

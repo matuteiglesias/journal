@@ -1,6 +1,6 @@
 ---
 title: "Enhanced STAR Stories for Career Development"
-tags: ['STAR', 'Interview Preparation', 'Cv Enhancement', 'Career Development']
+tags: ["STAR", "Interview Preparation", "Cv Enhancement", "Career Development"]
 created: 2024-11-27
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 01:20–02:50**  
 **🏷️ Labels**: STAR, Interview Preparation, Cv Enhancement, Career Development  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

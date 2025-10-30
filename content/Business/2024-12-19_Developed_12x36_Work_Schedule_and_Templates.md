@@ -1,6 +1,6 @@
 ---
 title: "Developed 12x36 Work Schedule and Templates"
-tags: ['12X36 Schedule', 'Team Management', 'Templates', 'Work Schedule', 'Calendar']
+tags: ["12X36 Schedule", "Team Management", "Templates", "Work Schedule", "Calendar"]
 created: 2024-12-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 13:50–14:20**  
 **🏷️ Labels**: 12X36 Schedule, Team Management, Templates, Work Schedule, Calendar  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

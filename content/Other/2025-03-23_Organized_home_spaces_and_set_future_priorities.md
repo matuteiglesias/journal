@@ -1,6 +1,6 @@
 ---
 title: "Organized home spaces and set future priorities"
-tags: ['Home Organization', 'Cleaning', 'Interior Design', 'Task Management', 'Home Improvement']
+tags: ["Home Organization", "Cleaning", "Interior Design", "Task Management", "Home Improvement"]
 created: 2025-03-23
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 03:15–03:30**  
 **🏷️ Labels**: Home Organization, Cleaning, Interior Design, Task Management, Home Improvement  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

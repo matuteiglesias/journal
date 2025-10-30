@@ -1,6 +1,6 @@
 ---
 title: "Formulated AI-challenging economic questions on Keynes's theories"
-tags: ['Keynesian Economics', 'Ai Challenge', 'Question Design', 'Speculative Demand', 'Economic Theory']
+tags: ["Keynesian Economics", "Ai Challenge", "Question Design", "Speculative Demand", "Economic Theory"]
 created: 2024-09-05
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 13:40–17:27**  
 **🏷️ Labels**: Keynesian Economics, Ai Challenge, Question Design, Speculative Demand, Economic Theory  
 **📂 Project**: AI  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** The goal of this session was to formulate challenging economic questions based on Keynes's theories to test [[AI]]'s understanding and capabilities.

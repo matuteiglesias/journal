@@ -1,6 +1,6 @@
 ---
 title: "Developed versatile dressing recipes for cooking"
-tags: ['Cooking', 'Recipes', 'Dressings', 'Healthy', 'Yogurt']
+tags: ["Cooking", "Recipes", "Dressings", "Healthy", "Yogurt"]
 created: 2024-10-26
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 23:10–23:20**  
 **🏷️ Labels**: Cooking, Recipes, Dressings, Healthy, Yogurt  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

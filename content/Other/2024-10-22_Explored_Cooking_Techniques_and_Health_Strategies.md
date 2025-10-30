@@ -1,6 +1,6 @@
 ---
 title: "Explored Cooking Techniques and Health Strategies"
-tags: ['Cooking', 'Health', 'Sciatic Pain', 'Baking', 'Recipes']
+tags: ["Cooking", "Health", "Sciatic Pain", "Baking", "Recipes"]
 created: 2024-10-22
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 01:15–23:15**  
 **🏷️ Labels**: Cooking, Health, Sciatic Pain, Baking, Recipes  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

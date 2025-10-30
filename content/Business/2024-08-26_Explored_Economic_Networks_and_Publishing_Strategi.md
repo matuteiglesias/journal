@@ -1,6 +1,6 @@
 ---
 title: "Explored Economic Networks and Publishing Strategies"
-tags: ['Economic Networks', 'Leontieff Model', 'Publishing', 'Arxiv', 'Course Notes']
+tags: ["Economic Networks", "Leontieff Model", "Publishing", "Arxiv", "Course Notes"]
 created: 2024-08-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:10–18:20**  
 **🏷️ Labels**: Economic Networks, Leontieff Model, Publishing, Arxiv, Course Notes  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

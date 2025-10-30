@@ -1,6 +1,6 @@
 ---
 title: "Development of Task and Maintenance Checklists"
-tags: ['Checklists', 'Task Management', 'Home Maintenance', 'Personal Care', 'CSV']
+tags: ["Checklists", "Task Management", "Home Maintenance", "Personal Care", "CSV"]
 created: 2024-12-09
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 03:15–06:40**  
 **🏷️ Labels**: Checklists, Task Management, Home Maintenance, Personal Care, CSV  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -18,14 +18,14 @@ The session aimed to develop and organize various checklists for personal and ho
 
 **Key Activities:**
 1. Created a practical nursing evolution model for patient record-keeping.
-2. Discussed the Movements Useful Per Minute (MUPM) metric for productivity evaluation.
-3. Developed a structured plan for home task organization, including [[CSV]] files for task management.
+2. Discussed the Movements Useful Per Minute (MUPM) metric for [[productivity]] evaluation.
+3. Developed a structured plan for home task organization, including [[CSV]] files for [[task management]].
 4. Compiled checklists for home maintenance, plant and pet care, and financial management.
 5. Addressed personal management blindspots and outlined daily and weekly routines.
 
 **Achievements:**
 - Completed templates and checklists for nursing, home management, plant and pet care, and financial tasks.
-- Generated [[CSV]] files for organized task management.
+- Generated [[CSV]] files for organized [[task management]].
 - Provided insights into personal management areas that may need attention.
 
 **Pending Tasks:**

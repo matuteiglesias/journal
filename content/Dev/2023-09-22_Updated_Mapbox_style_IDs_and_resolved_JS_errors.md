@@ -1,6 +1,6 @@
 ---
 title: "Updated Mapbox style IDs and resolved JS errors"
-tags: ['Python', 'Mapbox', 'HTML', 'Javascript', 'Error Handling']
+tags: ["Python", "Mapbox", "HTML", "Javascript", "Error Handling"]
 created: 2023-09-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 06:25–08:10**  
 **🏷️ Labels**: Python, Mapbox, HTML, Javascript, Error Handling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

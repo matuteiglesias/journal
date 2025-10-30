@@ -1,6 +1,6 @@
 ---
 title: "Implementation and Testing of Graph Classes and Methods"
-tags: ['Graph Theory', 'Python', 'Timing Experiment', 'Error Handling']
+tags: ["Graph Theory", "Python", "Timing Experiment", "Error Handling"]
 created: 2023-09-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:30–18:50**  
 **🏷️ Labels**: Graph Theory, Python, Timing Experiment, Error Handling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,8 +26,8 @@ The session aimed to implement and test various graph representations and method
 ### Achievements
 - Successfully created and tested graph classes and methods, providing empirical insights into their performance.
 - Developed a flexible `timing_experiment()` function for performance analysis.
-- Identified optimization opportunities to improve experiment execution time.
+- Identified [[optimization]] opportunities to improve experiment execution time.
 
 ### Pending Tasks
 - Correct argument handling in `timing_experiment()` function to prevent duplication.
-- Implement error handling for `remove_edge` operation to check edge existence before deletion.
+- Implement [[error handling]] for `remove_edge` operation to check edge existence before deletion.

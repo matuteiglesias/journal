@@ -1,6 +1,6 @@
 ---
 title: "Structured Plant Dataset and Care Guidelines"
-tags: ['Plant Dataset', 'Botanical Family', 'Gardening', 'Plant Care', 'Ceropegia Woodii']
+tags: ["Plant Dataset", "Botanical Family", "Gardening", "Plant Care", "Ceropegia Woodii"]
 created: 2023-11-21
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 03:00–04:00**  
 **🏷️ Labels**: Plant Dataset, Botanical Family, Gardening, Plant Care, Ceropegia Woodii  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -23,7 +23,7 @@ The session aimed to organize and enhance a plant dataset while providing compre
 - **Plant Care**: Listed delicate plants requiring special care and provided a comprehensive care guide for Ceropegia woodii, covering aspects like lighting, watering, humidity, temperature, soil, fertilization, pruning, propagation, and common issues.
 
 ### Achievements:
-- Successfully structured plant dataset columns for improved data management.
+- Successfully structured plant dataset columns for improved [[data management]].
 - Enhanced understanding of botanical family information for plant identification.
 - Developed a detailed care guide for Ceropegia woodii.
 

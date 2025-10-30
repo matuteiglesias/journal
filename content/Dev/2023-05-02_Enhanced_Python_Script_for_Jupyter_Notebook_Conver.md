@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Python Script for Jupyter Notebook Conversion"
-tags: ['Python', 'Jupyter', 'Code Formatting', 'Regex', 'File Handling']
+tags: ["Python", "Jupyter", "Code Formatting", "Regex", "File Handling"]
 created: 2023-05-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:00–18:55**  
 **🏷️ Labels**: Python, Jupyter, Code Formatting, Regex, File Handling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The primary aim of this session was to enhance a [[Python]] script for convertin
 - Developed a comprehensive guide on SQL basics, covering database creation, table management, and data operations.
 - Modified [[Python]] scripts to ensure an empty line precedes each `# %%` cell indicator, enhancing readability for [[Jupyter]] notebook conversion.
 - Updated regex patterns to correctly handle newline characters before cell indicators.
-- Implemented scripts to read, modify, and save [[Python]] files as [[Jupyter]] notebooks, ensuring correct formatting for markdown and code cells.
+- Implemented scripts to read, modify, and save [[Python]] files as [[Jupyter]] notebooks, ensuring correct formatting for [[markdown]] and code cells.
 - Debugged and fixed issues related to newline handling and regex patterns.
 
 ### Achievements

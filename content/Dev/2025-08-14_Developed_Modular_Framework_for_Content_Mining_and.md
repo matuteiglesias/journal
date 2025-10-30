@@ -1,6 +1,6 @@
 ---
 title: "Developed Modular Framework for Content Mining and Transformation"
-tags: ['Modular Framework', 'Content Mining', 'Snippetflow', 'Code Organization', 'Python']
+tags: ["Modular Framework", "Content Mining", "Snippetflow", "Code Organization", "Python"]
 created: 2025-08-14
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:55–02:15**  
 **🏷️ Labels**: Modular Framework, Content Mining, Snippetflow, Code Organization, Python  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

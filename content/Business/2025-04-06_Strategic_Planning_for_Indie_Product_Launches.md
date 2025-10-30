@@ -1,6 +1,6 @@
 ---
 title: "Strategic Planning for Indie Product Launches"
-tags: ['Indie Hacking', 'Product Launch', 'Crowdfunding', 'Visibility', 'Entrepreneurship']
+tags: ["Indie Hacking", "Product Launch", "Crowdfunding", "Visibility", "Entrepreneurship"]
 created: 2025-04-06
 publish: true
 ---
@@ -10,18 +10,18 @@ publish: true
 **🕒 03:00–04:30**  
 **🏷️ Labels**: Indie Hacking, Product Launch, Crowdfunding, Visibility, Entrepreneurship  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to explore innovative strategies for launching indie products, focusing on visibility, crowdfunding, and strategic planning.
+The session aimed to explore innovative strategies for launching indie products, focusing on visibility, crowdfunding, and [[strategic planning]].
 
 **Key Activities:**
 - Discussed the concept of an 'air umbrella' for underwater use, highlighting its potential applications.
 - Explored frameworks for building impactful products and transitioning from product creation to user-centered solutions.
 - Reviewed various crowdfunding platforms and strategies, emphasizing 'Buy Me a Coffee' as a starting point.
 - Compared crowdfunding with direct product launching strategies, advocating for the latter's benefits in engagement.
-- Outlined a portfolio-style product launch strategy for indie hackers, focusing on simultaneous launches and traction measurement.
+- Outlined a portfolio-style product launch [[strategy]] for indie hackers, focusing on simultaneous launches and traction measurement.
 - Discussed modern strategies for indie hackers, emphasizing rapid launches and audience-driven validation.
 - Explored visibility strategies, including building in public and engaging with communities.
 - Initiated a 'Product Launch Academy' to systematically launch products, focusing on personal learning and iteration.

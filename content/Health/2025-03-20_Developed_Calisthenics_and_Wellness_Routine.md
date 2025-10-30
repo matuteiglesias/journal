@@ -1,6 +1,6 @@
 ---
 title: "Developed Calisthenics and Wellness Routine"
-tags: ['Calisthenics', 'Fitness', 'Health', 'Music', 'Wellness']
+tags: ["Calisthenics", "Fitness", "Health", "Music", "Wellness"]
 created: 2025-03-20
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 23:10–23:20**  
 **🏷️ Labels**: Calisthenics, Fitness, Health, Music, Wellness  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

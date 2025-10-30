@@ -1,6 +1,6 @@
 ---
 title: "Analyzed DM.txt and Academic Staffing Proposal"
-tags: ['Análisis', 'Dm.Txt', 'Propuesta Académica', 'Matemáticas', 'Docencia']
+tags: ["An\u00e1lisis", "Dm.Txt", "Propuesta Acad\u00e9mica", "Matem\u00e1ticas", "Docencia"]
 created: 2023-11-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:15–17:30**  
 **🏷️ Labels**: Análisis, Dm.Txt, Propuesta Académica, Matemáticas, Docencia  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

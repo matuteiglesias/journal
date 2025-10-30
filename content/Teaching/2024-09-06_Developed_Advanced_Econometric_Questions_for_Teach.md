@@ -1,6 +1,6 @@
 ---
 title: "Developed Advanced Econometric Questions for Teaching"
-tags: ['Econometrics', 'Nested Logit', 'Education', 'Binary Models', 'Python']
+tags: ["Econometrics", "Nested Logit", "Education", "Binary Models", "Python"]
 created: 2024-09-06
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:35–16:20**  
 **🏷️ Labels**: Econometrics, Nested Logit, Education, Binary Models, Python  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

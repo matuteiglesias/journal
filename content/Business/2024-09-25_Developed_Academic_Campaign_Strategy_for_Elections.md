@@ -1,6 +1,6 @@
 ---
 title: "Developed Academic Campaign Strategy for Elections"
-tags: ['Academic Elections', 'Campaign Strategy', 'Contact Management', 'Networking', 'Latex']
+tags: ["Academic Elections", "Campaign Strategy", "Contact Management", "Networking", "Latex"]
 created: 2024-09-25
 publish: true
 ---
@@ -10,18 +10,18 @@ publish: true
 **🕒 17:05–17:35**  
 **🏷️ Labels**: Academic Elections, Campaign Strategy, Contact Management, Networking, Latex  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to develop a comprehensive strategy for Matías' candidacy in the academic elections for the commission of the [[Data Science]] degree.
+The session aimed to develop a comprehensive [[strategy]] for Matías' candidacy in the academic elections for the commission of the [[Data Science]] degree.
 
 ### Key Activities
 - **Resolving LaTeX Font Issues**: Addressed font-related errors in LaTeX by suggesting alternative fonts and providing a script for PDF generation.
 - **Screening Process Initiation**: Initiated a process to organize and archive knowledge from [[AI]] sessions.
 - **Identification of Common Fly Species**: Explored characteristics of the *Muscoidea* superfamily for insect identification.
 - **Gestión de Relaciones Académicas**: Compiled a list of up to 100 individuals for managing academic relationships, focusing on the upcoming elections.
-- **Estrategias para la Gestión de Contactos Académicos**: Outlined steps for effective contact management, including segmentation, database creation, and follow-up automation.
+- **Estrategias para la Gestión de Contactos Académicos**: Outlined steps for effective contact management, including segmentation, database creation, and follow-up [[automation]].
 - **Candidatura de Matías**: Developed Matías' candidacy for the [[Data Science]] commission, focusing on his proposal and vision.
 - **Propuesta para Elecciones**: Formulated strategies for a solid electoral proposal, emphasizing personal experience and interdisciplinarity.
 - **Organización de Campaña Electoral**: Organized the electoral campaign, identifying key groups for support and planning a spreadsheet for contact organization.
@@ -33,4 +33,4 @@ The session aimed to develop a comprehensive strategy for Matías' candidacy in 
 
 ### Pending Tasks
 - Finalize the spreadsheet with detailed contact information.
-- Continue outreach and networking with identified key groups.
+- Continue outreach and [[networking]] with identified key groups.

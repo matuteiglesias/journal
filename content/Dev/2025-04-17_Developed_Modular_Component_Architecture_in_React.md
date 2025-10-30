@@ -1,6 +1,6 @@
 ---
 title: "Developed Modular Component Architecture in React"
-tags: ['React', 'Typescript', 'Component Design', 'Modularity', 'Ui Development']
+tags: ["React", "Typescript", "Component Design", "Modularity", "Ui Development"]
 created: 2025-04-17
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:30–17:45**  
 **🏷️ Labels**: React, Typescript, Component Design, Modularity, Ui Development  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

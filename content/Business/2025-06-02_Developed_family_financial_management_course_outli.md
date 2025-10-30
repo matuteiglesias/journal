@@ -1,6 +1,6 @@
 ---
 title: "Developed family financial management course outline"
-tags: ['Financial Management', 'Family Finance', 'Course Development', 'Digital Tools', 'Education']
+tags: ["Financial Management", "Family Finance", "Course Development", "Digital Tools", "Education"]
 created: 2025-06-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:05–22:00**  
 **🏷️ Labels**: Financial Management, Family Finance, Course Development, Digital Tools, Education  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** The session aimed to develop a comprehensive course outline for educating families on financial management and governance.
@@ -21,7 +21,7 @@ publish: true
 - Outlined a modular course for financial literacy, focusing on practical examples and progressive learning.
 - Created content for the first module on family administration, emphasizing the importance of managing assets and finances.
 - Structured a section on family financial management, including benefits and reflective questions.
-- Recommended section lengths for a financial education booklet to ensure engagement and readability.
+- Recommended section lengths for a financial [[education]] booklet to ensure engagement and readability.
 - Provided insights into the importance of family financial management, highlighting key concepts and benefits.
 - Developed a strategic plan for a course section on family wealth, focusing on objectives, structure, and style.
 - Analyzed family asset management, addressing internal tensions and the need for clear rules.

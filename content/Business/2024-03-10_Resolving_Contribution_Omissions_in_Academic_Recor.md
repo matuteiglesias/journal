@@ -1,6 +1,6 @@
 ---
 title: "Resolving Contribution Omissions in Academic Records"
-tags: ['Legal_Advice', 'Transparency', 'Academic_Regulations', 'Conflict_Resolution', 'Communication']
+tags: ["Legal_Advice", "Transparency", "Academic_Regulations", "Conflict_Resolution", "Communication"]
 created: 2024-03-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:05–17:40**  
 **🏷️ Labels**: Legal_Advice, Transparency, Academic_Regulations, Conflict_Resolution, Communication  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The session aimed to address the issue of omissions of contributions in meeting 
 - Discussed legal and ethical implications of omitting contributions in meeting minutes and academic records.
 - Analyzed hypothetical scenarios and compared them with real situations to highlight the severity of such omissions.
 - Provided structured guides and procedures for addressing these omissions within the FCEN UBA, including legal advice and formal consultation processes.
-- Emphasized the importance of constructive dialogue and communication strategies to resolve conflicts related to record omissions.
+- Emphasized the importance of constructive dialogue and [[communication]] strategies to resolve conflicts related to record omissions.
 
 ### Achievements
 - Developed a comprehensive understanding of the procedures and regulations to follow when addressing omissions in academic and meeting records.

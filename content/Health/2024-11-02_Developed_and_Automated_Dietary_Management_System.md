@@ -1,6 +1,6 @@
 ---
 title: "Developed and Automated Dietary Management System"
-tags: ['Dietary Management', 'Recipe Optimization', 'Stock Control', 'Automation', 'Nutrition']
+tags: ["Dietary Management", "Recipe Optimization", "Stock Control", "Automation", "Nutrition"]
 created: 2024-11-02
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 19:10–20:05**  
 **🏷️ Labels**: Dietary Management, Recipe Optimization, Stock Control, Automation, Nutrition  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -28,4 +28,4 @@ The primary goal of this session was to develop and automate a dietary managemen
 - Designed and partially implemented a stock control system using [[Python]] and Excel.
 
 ### Pending Tasks
-- Complete the implementation of the stock control system, focusing on automation and integration with existing dietary management tools.
+- Complete the implementation of the stock control system, focusing on [[automation]] and [[integration]] with existing dietary management tools.

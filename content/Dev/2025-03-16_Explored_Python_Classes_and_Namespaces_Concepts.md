@@ -1,6 +1,6 @@
 ---
 title: "Explored Python Classes and Namespaces Concepts"
-tags: ['Python', 'Classes', 'Namespaces', 'OOP', 'Scope']
+tags: ["Python", "Classes", "Namespaces", "OOP", "Scope"]
 created: 2025-03-16
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:00–22:00**  
 **🏷️ Labels**: Python, Classes, Namespaces, OOP, Scope  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

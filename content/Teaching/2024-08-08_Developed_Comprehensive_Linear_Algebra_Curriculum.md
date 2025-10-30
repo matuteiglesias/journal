@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Linear Algebra Curriculum"
-tags: ['Linear Algebra', 'Curriculum', 'Python', 'SVD', 'Education']
+tags: ["Linear Algebra", "Curriculum", "Python", "SVD", "Education"]
 created: 2024-08-08
 publish: true
 ---
@@ -10,20 +10,20 @@ publish: true
 **🕒 00:20–23:50**  
 **🏷️ Labels**: Linear Algebra, Curriculum, Python, SVD, Education  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to develop a comprehensive curriculum for a computational linear algebra course, focusing on repository structure, pedagogical strategies, and practical implementations in [[Python]].
 
 ### Key Activities
-- Created a detailed guide for structuring a [[Jupyter]] notebook repository, including folder architecture and README configuration.
+- Created a detailed guide for structuring a [[Jupyter]] notebook repository, including folder architecture and README [[configuration]].
 - Outlined a notebook plan on norms in vector spaces, covering definitions, properties, and exercises.
-- Conducted a pedagogical analysis of current linear algebra teaching strategies, identifying areas for improvement and integration of real-world applications.
+- Conducted a pedagogical analysis of current linear algebra teaching strategies, identifying areas for improvement and [[integration]] of real-world applications.
 - Defined learning objectives for norms in vector spaces, emphasizing [[Python]] implementations.
 - Explored condition number sensitivity analysis and regularization techniques for numerical stability in matrix operations.
-- Searched for examples of ill-conditioned matrices and their applications in data science and machine learning.
-- Discussed operator norms, singular values, and their significance in machine learning.
+- Searched for examples of ill-conditioned matrices and their applications in [[data science]] and [[machine learning]].
+- Discussed operator norms, singular values, and their significance in [[machine learning]].
 - Implemented Singular Value Decomposition (SVD) and visualized matrix transformations in [[Python]].
 - Improved [[Python]] code for SVD, enhancing clarity and accessibility.
 - Translated and improved the spectral theorem demonstration code.

@@ -1,6 +1,6 @@
 ---
 title: "Developed Creative Prompts for Midjourney and Poster Designs"
-tags: ['Midjourney', 'Poster Design', 'Creative Prompts', 'Cityscapes', 'Humor']
+tags: ["Midjourney", "Poster Design", "Creative Prompts", "Cityscapes", "Humor"]
 created: 2023-08-22
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 22:00–23:30**  
 **🏷️ Labels**: Midjourney, Poster Design, Creative Prompts, Cityscapes, Humor  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

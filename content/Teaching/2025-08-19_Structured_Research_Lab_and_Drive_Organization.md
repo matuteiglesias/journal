@@ -1,6 +1,6 @@
 ---
 title: "Structured Research Lab and Drive Organization"
-tags: ['Lab Organization', 'Shared Drive', 'Socio-Economic Research', 'Generative Ml', 'Csv Schema']
+tags: ["Lab Organization", "Shared Drive", "Socio-Economic Research", "Generative Ml", "Csv Schema"]
 created: 2025-08-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:20–23:05**  
 **🏷️ Labels**: Lab Organization, Shared Drive, Socio-Economic Research, Generative Ml, Csv Schema  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,7 +21,7 @@ The session aimed to design and organize a theoretical lab ensemble and shared d
 - **Shared Lab Folder Structuring**: Planned the organization of a shared lab folder with various artifacts to support students and future reference.
 - **[[CSV]] Schema Utilization**: Explored innovative uses of [[CSV]] schema for creating research artifacts, including visualizations and mentorship simulations.
 - **Shared Drive Design**: Outlined a structure for a shared drive to facilitate research on poverty and synthetic data, ensuring minimal user friction.
-- **Atlas de Investigación**: Provided guidelines for a collaborative research space on poverty measurement and machine learning, including next steps.
+- **Atlas de Investigación**: Provided guidelines for a collaborative research space on poverty measurement and [[machine learning]], including next steps.
 - **Drive and Lab Folder Proposals**: Suggested structures for Google Drive and lab folders to enhance navigation and resource access.
 - **Landing Page for Lab Orientation**: Proposed a landing page structure for guiding new lab members in navigating shared resources.
 - **[[CSV]] Conversion of SERP Tables**: Executed the conversion of SERP classification tables into a structured [[CSV]] format.

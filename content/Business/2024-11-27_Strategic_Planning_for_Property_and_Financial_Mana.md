@@ -1,6 +1,6 @@
 ---
 title: "Strategic Planning for Property and Financial Management"
-tags: ['Property Management', 'Financial Planning', 'Inheritance', 'Strategic Planning', 'Task Management']
+tags: ["Property Management", "Financial Planning", "Inheritance", "Strategic Planning", "Task Management"]
 created: 2024-11-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 06:00–06:15**  
 **🏷️ Labels**: Property Management, Financial Planning, Inheritance, Strategic Planning, Task Management  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,7 +19,7 @@ The session aimed to reflect on property management strategies, particularly foc
 ### Key Activities
 - Discussed the responsibilities and legal considerations of managing a property with negative net cash flow.
 - Proposed a restructuring of property management, including renegotiations with heirs and seeking legal advice.
-- Provided strategic and diplomatic advice for dealing with inheritance situations, focusing on communication and alliance-building.
+- Provided strategic and diplomatic advice for dealing with inheritance situations, focusing on [[communication]] and alliance-building.
 - Outlined a midweek strategic task plan, including preparation for a job interview and coordination for a family meeting.
 - Developed a detailed plan for family meeting preparation, emphasizing flexibility and relationship building.
 - Proposed the establishment of a $1,000 financial security fund to promote responsible saving habits among family members.

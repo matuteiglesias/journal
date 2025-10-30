@@ -1,6 +1,6 @@
 ---
 title: "Enhanced NoSQL Schemas for Diverse Applications"
-tags: ['Nosql', 'Schema', 'Adaptation', 'Flexibility', 'Scalability']
+tags: ["Nosql", "Schema", "Adaptation", "Flexibility", "Scalability"]
 created: 2024-09-16
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:35–18:25**  
 **🏷️ Labels**: Nosql, Schema, Adaptation, Flexibility, Scalability  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

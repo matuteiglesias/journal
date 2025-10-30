@@ -1,6 +1,6 @@
 ---
 title: "Enhanced RSS Data Processing and Debugging"
-tags: ['Python', 'Data Processing', 'Debugging', 'RSS', 'CSV']
+tags: ["Python", "Data Processing", "Debugging", "RSS", "CSV"]
 created: 2025-06-22
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 05:35–05:55**  
 **🏷️ Labels**: Python, Data Processing, Debugging, RSS, CSV  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
-The session aimed to refine and debug various [[Python]] scripts related to RSS data processing, enhancing functionality and resolving existing issues.
+The session aimed to refine and debug various [[Python]] scripts related to RSS [[data processing]], enhancing functionality and resolving existing issues.
 
 ### Key Activities:
 - **Processing All RSS Data:** Implemented a procedure to process all available RSS data by bypassing the `trigger_time` logic and utilizing manual slicing points.
@@ -29,4 +29,4 @@ The session aimed to refine and debug various [[Python]] scripts related to RSS 
 - Identified and proposed solutions for datetime parsing errors.
 
 ### Pending Tasks:
-- Further verification and testing of the `article_id` corrections in the data processing workflow.
+- Further verification and testing of the `article_id` corrections in the [[data processing]] [[workflow]].

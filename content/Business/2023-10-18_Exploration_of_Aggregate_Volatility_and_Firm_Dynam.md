@@ -1,6 +1,6 @@
 ---
 title: "Exploration of Aggregate Volatility and Firm Dynamics"
-tags: ['Aggregate Volatility', 'Firm Dynamics', 'Economic Modeling', 'Research Papers']
+tags: ["Aggregate Volatility", "Firm Dynamics", "Economic Modeling", "Research Papers"]
 created: 2023-10-18
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:20–06:10**  
 **🏷️ Labels**: Aggregate Volatility, Firm Dynamics, Economic Modeling, Research Papers  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -27,7 +27,7 @@ The session aimed to explore various aspects of aggregate volatility and firm dy
 - Proposed modularization of research papers, suggesting a breakdown of topics related to aggregate volatility.
 - Discussed relationships between sales levels and fluctuations, highlighting key equations for economic aggregates.
 - Analyzed modeling of human behavior in economics, focusing on game theory and chaos theory.
-- Explored mathematical structures in applied math and economics, emphasizing differential equations and optimization.
+- Explored mathematical structures in applied math and economics, emphasizing differential equations and [[optimization]].
 - Reviewed complexities of aggregate volatility and diversification issues, critiquing existing financial theories.
 - Outlined a series of research papers on aggregate economic volatility, detailing scopes and challenges.
 - Provided LaTeX templates and content for papers on aggregate volatility, focusing on micro and macroeconomic relationships.

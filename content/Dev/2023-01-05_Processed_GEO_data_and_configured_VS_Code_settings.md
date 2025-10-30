@@ -1,6 +1,6 @@
 ---
 title: "Processed GEO data and configured VS Code settings"
-tags: ['Python', 'Vs Code', 'Geo Data', 'File Management', 'Configuration']
+tags: ["Python", "Vs Code", "Geo Data", "File Management", "Configuration"]
 created: 2023-01-05
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:30–21:00**  
 **🏷️ Labels**: Python, Vs Code, Geo Data, File Management, Configuration  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -24,7 +24,7 @@ The session aimed to process GEO data files and configure Visual Studio Code set
 
 ### Achievements
 - Successfully processed GEO data and saved outputs in [[CSV]] format.
-- Configured VS Code for improved [[Python]] development workflow.
+- Configured VS Code for improved [[Python]] development [[workflow]].
 
 ### Pending Tasks
 - Review the processed GEO data for accuracy and completeness.

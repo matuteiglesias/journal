@@ -1,6 +1,6 @@
 ---
 title: "Developed Automated System for File Processing"
-tags: ['Python', 'Automation', 'File Processing', 'Jupyter', 'Scripting']
+tags: ["Python", "Automation", "File Processing", "Jupyter", "Scripting"]
 created: 2024-10-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:35–17:25**  
 **🏷️ Labels**: Python, Automation, File Processing, Jupyter, Scripting  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -24,7 +24,7 @@ The session aimed to develop an automated system that mimics human work in proce
 
 ### Achievements
 - Created a framework for an automated file processing system using [[Python]] scripts.
-- Enhanced [[Jupyter]] notebook processing by implementing output stripping and error handling.
+- Enhanced [[Jupyter]] notebook processing by implementing output stripping and [[error handling]].
 
 ### Pending Tasks
 - Further refine token estimation strategies for processing submissions.

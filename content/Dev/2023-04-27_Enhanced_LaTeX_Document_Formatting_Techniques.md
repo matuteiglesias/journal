@@ -1,6 +1,6 @@
 ---
 title: "Enhanced LaTeX Document Formatting Techniques"
-tags: ['Latex', 'Document Preparation', 'Formatting', 'Cv Design']
+tags: ["Latex", "Document Preparation", "Formatting", "Cv Design"]
 created: 2023-04-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:00–15:20**  
 **🏷️ Labels**: Latex, Document Preparation, Formatting, Cv Design  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

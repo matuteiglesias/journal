@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Solved Exam Programming Problems"
-tags: ['Algorithms', 'Exam', 'Graph Theory', 'Dynamic Programming', 'Education']
+tags: ["Algorithms", "Exam", "Graph Theory", "Dynamic Programming", "Education"]
 created: 2023-10-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 23:20–23:50**  
 **🏷️ Labels**: Algorithms, Exam, Graph Theory, Dynamic Programming, Education  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -28,5 +28,5 @@ The session aimed to analyze and solve various programming problems related to a
 - Enhanced understanding of recursive algorithms, graph connectivity, and bandwidth analysis.
 
 ### Pending Tasks:
-- Further explore optimization techniques for dynamic programming solutions.
+- Further explore [[optimization]] techniques for dynamic programming solutions.
 - Review additional exam questions to ensure comprehensive coverage of the subject matter.

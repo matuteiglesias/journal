@@ -1,6 +1,6 @@
 ---
 title: "Developed and Debugged SQLite Ingestion Pipeline"
-tags: ['Sqlite', 'Python', 'Database', 'Automation', 'Error Handling']
+tags: ["Sqlite", "Python", "Database", "Automation", "Error Handling"]
 created: 2025-05-06
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:40–21:20**  
 **🏷️ Labels**: Sqlite, Python, Database, Automation, Error Handling  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Developed Linear Algebra Course Curriculum with Python"
-tags: ['Linear Algebra', 'Python', 'Course Development', 'Education', 'Numerical Methods']
+tags: ["Linear Algebra", "Python", "Course Development", "Education", "Numerical Methods"]
 created: 2024-08-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:50–06:10**  
 **🏷️ Labels**: Linear Algebra, Python, Course Development, Education, Numerical Methods  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -27,5 +27,5 @@ The primary objective of this session was to develop and organize a comprehensiv
 - Integrated [[Python]] and MATLAB exercises to facilitate hands-on learning and better comprehension of theoretical concepts.
 
 ### Pending Tasks
-- Finalize the integration of exercises into the first class of the Linear Algebra course, ensuring a balance between theory and practice.
+- Finalize the [[integration]] of exercises into the first class of the Linear Algebra course, ensuring a balance between theory and practice.
 - Develop additional resources and materials to support the course curriculum, focusing on interactive and engaging content.

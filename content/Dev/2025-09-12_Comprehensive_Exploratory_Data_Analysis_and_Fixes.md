@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Exploratory Data Analysis and Fixes"
-tags: ['EDA', 'Python', 'Npmi', 'Pandas', 'Data Analysis']
+tags: ["EDA", "Python", "Npmi", "Pandas", "Data Analysis"]
 created: 2025-09-12
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 09:20–11:40**  
 **🏷️ Labels**: EDA, Python, Npmi, Pandas, Data Analysis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The primary goal of this session was to conduct a comprehensive exploratory data analysis (EDA) on mock session data and address various technical challenges related to data processing and analysis.
+The primary goal of this session was to conduct a comprehensive exploratory [[data analysis]] (EDA) on mock session data and address various technical challenges related to [[data processing]] and analysis.
 
 ### Key Activities
 - **Exploratory [[Data Analysis]]**: Initiated EDA on mock sessions, focusing on parsing [[JSON]] records, extracting tags, and building document-tag matrices.
@@ -32,5 +32,5 @@ The primary goal of this session was to conduct a comprehensive exploratory data
 - Enhanced strategies for document processing and tag analysis.
 
 ### Pending Tasks
-- Further validation of EDA outputs and integration with existing data pipelines.
+- Further validation of EDA outputs and [[integration]] with existing data pipelines.
 - Exploration of additional graph analysis techniques for improved corpus structuring.

@@ -1,6 +1,6 @@
 ---
 title: "Explored Numerical Error Mitigation Techniques"
-tags: ['Numerical Analysis', 'Error Propagation', 'Python', 'Data Science']
+tags: ["Numerical Analysis", "Error Propagation", "Python", "Data Science"]
 created: 2024-08-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:00–21:15**  
 **🏷️ Labels**: Numerical Analysis, Error Propagation, Python, Data Science  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -30,4 +30,4 @@ The session aimed to explore various numerical error mitigation techniques in co
 
 **Pending Tasks:**
 - Further exploration of advanced error mitigation techniques in numerical analysis.
-- Application of these techniques in real-world data science scenarios.
+- Application of these techniques in real-world [[data science]] scenarios.

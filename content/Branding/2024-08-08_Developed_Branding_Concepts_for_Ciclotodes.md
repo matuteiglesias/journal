@@ -1,6 +1,6 @@
 ---
 title: "Developed Branding Concepts for Ciclotodes"
-tags: ['Branding', 'Logo Design', 'Diversity', 'Inclusion', 'Graphic Design']
+tags: ["Branding", "Logo Design", "Diversity", "Inclusion", "Graphic Design"]
 created: 2024-08-08
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 20:10–20:25**  
 **🏷️ Labels**: Branding, Logo Design, Diversity, Inclusion, Graphic Design  
 **📂 Project**: Branding  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

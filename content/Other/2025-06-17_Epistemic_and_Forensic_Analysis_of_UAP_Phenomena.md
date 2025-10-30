@@ -1,6 +1,6 @@
 ---
 title: "Epistemic and Forensic Analysis of UAP Phenomena"
-tags: ['UAP', 'Epistemology', 'Forensics', 'Cultural Analysis', 'Anomalies']
+tags: ["UAP", "Epistemology", "Forensics", "Cultural Analysis", "Anomalies"]
 created: 2025-06-17
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 08:10–09:55**  
 **🏷️ Labels**: UAP, Epistemology, Forensics, Cultural Analysis, Anomalies  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

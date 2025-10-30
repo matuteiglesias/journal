@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Review and Categorization of Academic Papers"
-tags: ['Academic Review', 'Data Science', 'NLP', 'Semantic Web', 'Machine Learning']
+tags: ["Academic Review", "Data Science", "NLP", "Semantic Web", "Machine Learning"]
 created: 2025-08-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:00–04:10**  
 **🏷️ Labels**: Academic Review, Data Science, NLP, Semantic Web, Machine Learning  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -29,6 +29,6 @@ The session aimed to systematically review and categorize a large batch of acade
 - Identified strategic insights regarding international collaborations and co-affiliation patterns in fields like NLP and Semantic Web.
 
 ### Pending Tasks
-- Further exploration of visualization paths for understanding co-affiliations and clusters in NLP.
+- Further exploration of [[visualization]] paths for understanding co-affiliations and clusters in NLP.
 - Creation of a detailed map for the Semantic Web research network in Argentina.
 - Continued refinement of thematic maps to include emerging research trends and clusters.

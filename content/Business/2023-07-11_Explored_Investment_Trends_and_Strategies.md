@@ -1,6 +1,6 @@
 ---
 title: "Explored Investment Trends and Strategies"
-tags: ['Investment', 'Diversification', 'Etfs', 'Brokerage', 'Finance']
+tags: ["Investment", "Diversification", "Etfs", "Brokerage", "Finance"]
 created: 2023-07-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:45–16:55**  
 **🏷️ Labels**: Investment, Diversification, Etfs, Brokerage, Finance  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

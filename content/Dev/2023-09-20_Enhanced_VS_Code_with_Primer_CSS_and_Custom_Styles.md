@@ -1,6 +1,6 @@
 ---
 title: "Enhanced VS Code with Primer CSS and Custom Styles"
-tags: ['Vs Code', 'CSS', 'Customization', 'Primer Css', 'SCSS']
+tags: ["Vs Code", "CSS", "Customization", "Primer Css", "SCSS"]
 created: 2023-09-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:30–17:20**  
 **🏷️ Labels**: Vs Code, CSS, Customization, Primer Css, SCSS  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,11 +23,11 @@ The session aimed to enhance the user interface of Visual Studio Code by integra
 - **CSS [[Integration]]**: Detailed steps to integrate Primer CSS into VS Code using the vscode_custom_css extension.
 - **[[Troubleshooting]]**: Addressed SCSS compilation and import issues related to Primer CSS, providing solutions for dependency checks and import path modifications.
 - **Administrative Access**: Provided guidance on running VS Code with administrative privileges and safely using sudo.
-- **Custom CSS Application**: Configured custom CSS in elevated VS Code instances and addressed troubleshooting for custom styles in [[Markdown]] previews.
+- **Custom CSS Application**: Configured custom CSS in elevated VS Code instances and addressed [[troubleshooting]] for custom styles in [[Markdown]] previews.
 
 ### Achievements
 - Successfully integrated Primer CSS into Visual Studio Code, enhancing the visual appearance through custom themes and styles.
-- Resolved SCSS compilation and import issues, ensuring smooth integration of custom styles.
+- Resolved SCSS compilation and import issues, ensuring smooth [[integration]] of custom styles.
 
 ### Pending Tasks
 - Further exploration of function naming conventions for improved code clarity.

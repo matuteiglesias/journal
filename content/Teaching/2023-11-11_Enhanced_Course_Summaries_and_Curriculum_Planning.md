@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Course Summaries and Curriculum Planning"
-tags: ['Course Design', 'Education', 'Curriculum Planning', 'Course Summaries', 'Data Science']
+tags: ["Course Design", "Education", "Curriculum Planning", "Course Summaries", "Data Science"]
 created: 2023-11-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:35–19:55**  
 **🏷️ Labels**: Course Design, Education, Curriculum Planning, Course Summaries, Data Science  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,7 +26,7 @@ The session aimed to restructure and expand course summaries and plan curricula 
 ### Achievements
 - Completed templates and prompts for course summaries.
 - Expanded content for several key courses, aligning them with educational goals.
-- Proposed curriculum adjustments to better meet the needs of [[Data Science]] education.
+- Proposed curriculum adjustments to better meet the needs of [[Data Science]] [[education]].
 
 ### Pending Tasks
 - Implement the proposed curriculum changes and course renaming suggestions.

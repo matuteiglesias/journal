@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Greedy Algorithm for Balance Adjustment"
-tags: ['Greedy Algorithm', 'Optimization', 'Function Redefinition', 'Algorithm Comparison']
+tags: ["Greedy Algorithm", "Optimization", "Function Redefinition", "Algorithm Comparison"]
 created: 2023-09-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:30–16:40**  
 **🏷️ Labels**: Greedy Algorithm, Optimization, Function Redefinition, Algorithm Comparison  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -24,7 +24,7 @@ The objective of this session was to improve the greedy algorithm approach for a
 - **Function Redefinition**: Planned to redefine functions `saldos_sospechosos` and `brute_force_saldos` for accurate comparison.
 
 ### Achievements
-- Clarified the limitations of the greedy approach in optimization problems and identified potential alternative algorithms like dynamic programming and heuristic methods.
+- Clarified the limitations of the greedy approach in [[optimization]] problems and identified potential alternative algorithms like dynamic programming and heuristic methods.
 
 ### Pending Tasks
 - Redefine the functions `saldos_sospechosos` and `brute_force_saldos` for further comparison in future sessions.

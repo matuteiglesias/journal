@@ -1,6 +1,6 @@
 ---
 title: "Developed and Enhanced Flask Web Application"
-tags: ['Flask', 'Web Development', 'Onboarding', 'Collaboration', 'Education']
+tags: ["Flask", "Web Development", "Onboarding", "Collaboration", "Education"]
 created: 2025-05-13
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:55–18:25**  
 **🏷️ Labels**: Flask, Web Development, Onboarding, Collaboration, Education  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,14 +23,14 @@ The session aimed to enhance a web application to support multiple courses, impr
 - Resolved an AssertionError in [[Flask]] by renaming duplicate route handler names.
 - Explored solutions for accessing [[Flask]] routes directly as static files.
 - Proposed an improved homepage design in HTML and CSS for a collaborative educational environment.
-- Outlined an onboarding strategy for collaborative project contributions, including documentation structure.
+- Outlined an onboarding [[strategy]] for collaborative project contributions, including [[documentation]] structure.
 - Drafted an initial README.md for an interactive query platform.
 
 ### Achievements
 - Established a clear plan for app scaling and homepage enhancement.
 - Solved routing issues in [[Flask]], improving application robustness.
-- Created a welcoming README.md and onboarding strategy to facilitate collaboration.
+- Created a welcoming README.md and onboarding [[strategy]] to facilitate collaboration.
 
 ### Pending Tasks
 - Implement the proposed homepage design and course selector.
-- Finalize and integrate the onboarding strategy and README.md into the project.
+- Finalize and integrate the onboarding [[strategy]] and README.md into the project.

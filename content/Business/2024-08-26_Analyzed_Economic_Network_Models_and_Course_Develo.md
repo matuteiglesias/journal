@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Economic Network Models and Course Development"
-tags: ['Economic Networks', 'Variance', 'Academic Writing', 'Course Development', 'Input-Output Models']
+tags: ["Economic Networks", "Variance", "Academic Writing", "Course Development", "Input-Output Models"]
 created: 2024-08-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:20–17:45**  
 **🏷️ Labels**: Economic Networks, Variance, Academic Writing, Course Development, Input-Output Models  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

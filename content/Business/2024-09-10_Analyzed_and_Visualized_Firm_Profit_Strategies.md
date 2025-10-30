@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Visualized Firm Profit Strategies"
-tags: ['Game Theory', 'Profit Analysis', 'Python', 'Visualization', 'Collusion', 'Nash Equilibrium']
+tags: ["Game Theory", "Profit Analysis", "Python", "Visualization", "Collusion", "Nash Equilibrium"]
 created: 2024-09-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:25–00:45**  
 **🏷️ Labels**: Game Theory, Profit Analysis, Python, Visualization, Collusion, Nash Equilibrium  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -18,7 +18,7 @@ The session aimed to analyze and visualize firm profit strategies within the con
 
 **Key Activities:**
 - Conducted a detailed analysis of collusive profits and identified issues with negative profits, suggesting model assumption adjustments for realistic conditions.
-- Developed [[Python]] code using matplotlib to visualize profits for two firms under different strategic scenarios, including Nash equilibrium, collusive, and deviation strategies.
+- Developed [[Python]] code using [[matplotlib]] to visualize profits for two firms under different strategic scenarios, including Nash equilibrium, collusive, and deviation strategies.
 - Adjusted profit calculations based on output quantities, ensuring accurate representation of Nash, collusive, and deviation profits.
 - Simulated a two-spell duration model using a Weibull baseline hazard, generating covariates, parameters, and random effects with [[Python]] code.
 - Analyzed the impact of random effects and covariates on individual hazard rates in a Weibull distribution model.

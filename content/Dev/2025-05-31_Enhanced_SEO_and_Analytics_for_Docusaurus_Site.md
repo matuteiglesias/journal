@@ -1,6 +1,6 @@
 ---
 title: "Enhanced SEO and Analytics for Docusaurus Site"
-tags: ['SEO', 'Docusaurus', 'Google Analytics', 'Hreflang', 'GTM']
+tags: ["SEO", "Docusaurus", "Google Analytics", "Hreflang", "GTM"]
 created: 2025-05-31
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 23:30–00:00**  
 **🏷️ Labels**: SEO, Docusaurus, Google Analytics, Hreflang, GTM  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

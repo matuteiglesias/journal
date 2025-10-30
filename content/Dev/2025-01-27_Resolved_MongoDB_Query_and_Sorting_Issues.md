@@ -1,6 +1,6 @@
 ---
 title: "Resolved MongoDB Query and Sorting Issues"
-tags: ['Mongodb', 'Debugging', 'Data Processing', 'Flask', 'API']
+tags: ["Mongodb", "Debugging", "Data Processing", "Flask", "API"]
 created: 2025-01-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:10–16:50**  
 **🏷️ Labels**: Mongodb, Debugging, Data Processing, Flask, API  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -28,7 +28,7 @@ The session aimed to address and resolve various issues related to MongoDB queri
 ### Achievements
 - Successfully resolved sorting issues in MongoDB queries, ensuring accurate retrieval of recent documents.
 - Updated [[Flask]] [[API]] endpoint for improved data retrieval.
-- Gained insights into data processing workflows and identified areas for improvement.
+- Gained insights into [[data processing]] workflows and identified areas for improvement.
 
 ### Pending Tasks
 - Further testing of updated MongoDB queries and [[Flask]] [[API]] to ensure robustness and efficiency.

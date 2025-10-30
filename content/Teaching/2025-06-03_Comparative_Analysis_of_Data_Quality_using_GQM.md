@@ -1,6 +1,6 @@
 ---
 title: "Comparative Analysis of Data Quality using GQM"
-tags: ['GQM', 'Data Quality', 'Comparative Analysis', 'Evaluation', 'Data Science']
+tags: ["GQM", "Data Quality", "Comparative Analysis", "Evaluation", "Data Science"]
 created: 2025-06-03
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:50–20:35**  
 **🏷️ Labels**: GQM, Data Quality, Comparative Analysis, Evaluation, Data Science  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

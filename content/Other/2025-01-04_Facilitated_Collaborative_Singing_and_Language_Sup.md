@@ -1,6 +1,6 @@
 ---
 title: "Facilitated Collaborative Singing and Language Support"
-tags: ['Collaboration', 'Music', 'Language', 'Translation', 'Feedback']
+tags: ["Collaboration", "Music", "Language", "Translation", "Feedback"]
 created: 2025-01-04
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 09:00–09:10**  
 **🏷️ Labels**: Collaboration, Music, Language, Translation, Feedback  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

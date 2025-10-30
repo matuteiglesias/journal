@@ -1,6 +1,6 @@
 ---
 title: "Developed and Optimized Python Algorithms for Multiple Problems"
-tags: ['Python', 'Algorithms', 'Optimization', 'Error Correction', 'Greedy Algorithm']
+tags: ["Python", "Algorithms", "Optimization", "Error Correction", "Greedy Algorithm"]
 created: 2023-09-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 23:20–23:40**  
 **🏷️ Labels**: Python, Algorithms, Optimization, Error Correction, Greedy Algorithm  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,7 +21,7 @@ The goal of this session was to develop and optimize several [[Python]] algorith
 - Corrected an error in the `min_descontento` function related to variable usage, ensuring accurate computation of discontentment.
 - Developed the `saldos_sospechosos` function in [[Python]] to determine the nature of numbers in relation to a final balance, indicating if they should be positive, negative, or ambivalent.
 - Explored iterative and greedy approaches to the 'Suspicious Balances' problem, comparing their efficiency and limitations with dynamic programming and backtracking methods.
-- Designed a segmentation strategy for choripán vendor distribution, implementing a [[Python]] solution to divide stalls into segments and place vendors at midpoints.
+- Designed a segmentation [[strategy]] for choripán vendor distribution, implementing a [[Python]] solution to divide stalls into segments and place vendors at midpoints.
 - Analyzed a greedy algorithm approach for the choripán problem, discussing its efficiency and comparing it with other algorithmic strategies.
 
 ### Achievements

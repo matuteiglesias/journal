@@ -1,6 +1,6 @@
 ---
 title: "Resolved Apache Server Configuration Issues"
-tags: ['Apache', 'Troubleshooting', 'Server Configuration', 'Networking', 'Web Hosting']
+tags: ["Apache", "Troubleshooting", "Server Configuration", "Networking", "Web Hosting"]
 created: 2024-09-13
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 22:45–23:35**  
 **🏷️ Labels**: Apache, Troubleshooting, Server Configuration, Networking, Web Hosting  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The primary goal of this session was to troubleshoot and resolve various configuration issues with Apache servers, particularly focusing on SSH responses on HTTP requests, domain configuration, and port conflicts.
+The primary goal of this session was to troubleshoot and resolve various [[configuration]] issues with Apache servers, particularly focusing on SSH responses on HTTP requests, domain [[configuration]], and port conflicts.
 
 ### Key Activities
 - **[[Troubleshooting]] Apache Server [[Configuration]]:** Systematic approach to address SSH responding on port 80 instead of HTTP, including conflict checks and log analysis.

@@ -1,6 +1,6 @@
 ---
 title: "Legal and Technical Analysis of Argentine Legislation"
-tags: ['Python', 'PDF', 'Argentine Legislation', 'Law Analysis', 'Lobbying', 'Legal Reform']
+tags: ["Python", "PDF", "Argentine Legislation", "Law Analysis", "Lobbying", "Legal Reform"]
 created: 2023-12-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:35–06:45**  
 **🏷️ Labels**: Python, PDF, Argentine Legislation, Law Analysis, Lobbying, Legal Reform  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -24,7 +24,7 @@ The session aimed to explore and analyze various aspects of Argentine legislatio
 
 ### Achievements
 - Successfully created and refined [[Python]] scripts for handling PDF files, which can be used in future legal document processing tasks.
-- Provided comprehensive insights into the current state and potential reforms of Argentine commercial laws, aiding in strategic planning and policy development.
+- Provided comprehensive insights into the current state and potential reforms of Argentine commercial laws, aiding in [[strategic planning]] and policy development.
 
 ### Pending Tasks
 - Further analysis is needed to understand the motivations behind the lobbying efforts influencing the derogation of certain laws.

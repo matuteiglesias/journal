@@ -1,6 +1,6 @@
 ---
 title: "Organized Advanced Computer Science Course Exercises"
-tags: ['Education', 'Curriculum Mapping', 'Bash Scripting', 'Exercise Organization']
+tags: ["Education", "Curriculum Mapping", "Bash Scripting", "Exercise Organization"]
 created: 2024-02-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:40–17:20**  
 **🏷️ Labels**: Education, Curriculum Mapping, Bash Scripting, Exercise Organization  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -28,7 +28,7 @@ The session aimed to organize and categorize exercises for an advanced computer 
 
 ### Achievements
 - Successfully categorized and mapped exercises to curriculum units, enhancing course structure and alignment with educational goals.
-- Provided technical solutions for text processing tasks, improving workflow efficiency.
+- Provided technical solutions for text processing tasks, improving [[workflow]] efficiency.
 
 ### Pending Tasks
 - Further refinement of exercise categorization based on student feedback and course progression.

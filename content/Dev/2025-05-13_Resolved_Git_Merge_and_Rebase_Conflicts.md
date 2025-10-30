@@ -1,6 +1,6 @@
 ---
 title: "Resolved Git Merge and Rebase Conflicts"
-tags: ['Git', 'Rebase', 'Merge', 'Conflicts', 'Version Control']
+tags: ["Git", "Rebase", "Merge", "Conflicts", "Version Control"]
 created: 2025-05-13
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:40–01:00**  
 **🏷️ Labels**: Git, Rebase, Merge, Conflicts, Version Control  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -22,7 +22,7 @@ The session aimed to address and resolve various conflicts encountered during [[
 - Addressed divergence between local and remote commits using rebase and merge strategies.
 - Detailed the process for resolving conflicts during an interactive rebase, specifically involving files like `evaluator.py` and `requirements.txt`.
 - Outlined final steps for completing a [[Git]] rebase, managing untracked files, and ensuring safe push operations.
-- Explained the safe usage of `git push --force-with-lease` to protect remote changes.
+- Explained the safe usage of `[[git]] push --force-with-lease` to protect remote changes.
 
 ### Achievements
 - Successfully resolved conflicts in various [[Git]] operations, ensuring a clean rebase and merge process.

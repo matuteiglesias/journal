@@ -1,6 +1,6 @@
 ---
 title: "Developed and Optimized Graph Algorithms with DFS"
-tags: ['DFS', 'Graph Algorithms', 'Optimization', 'Memoization', 'Network Connectivity']
+tags: ["DFS", "Graph Algorithms", "Optimization", "Memoization", "Network Connectivity"]
 created: 2023-10-09
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 05:00–05:55**  
 **🏷️ Labels**: DFS, Graph Algorithms, Optimization, Memoization, Network Connectivity  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -30,4 +30,4 @@ The session aimed to develop and optimize graph algorithms using Depth-First Sea
 
 **Pending Tasks:**
 - Further testing and validation of the optimized algorithms in real-world scenarios.
-- Explore additional optimization techniques for large-scale graph data.
+- Explore additional [[optimization]] techniques for large-scale graph data.

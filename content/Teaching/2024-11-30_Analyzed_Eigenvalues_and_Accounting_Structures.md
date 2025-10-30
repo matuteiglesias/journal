@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Eigenvalues and Accounting Structures"
-tags: ['Eigenvalues', 'Linear Algebra', 'Accounting', 'Quadratic Equations', 'Property Management']
+tags: ["Eigenvalues", "Linear Algebra", "Accounting", "Quadratic Equations", "Property Management"]
 created: 2024-11-30
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 00:50–02:10**  
 **🏷️ Labels**: Eigenvalues, Linear Algebra, Accounting, Quadratic Equations, Property Management  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to explore advanced topics in linear algebra, specifically focusing on eigenvalues and diagonalizability of matrices, and to outline the structure of accounting records for property management.
 
 ### Key Activities
-- Developed a strategy for providing detailed solutions to academic exercises, emphasizing independent thinking.
+- Developed a [[strategy]] for providing detailed solutions to academic exercises, emphasizing independent thinking.
 - Analyzed the diagonalizability of a matrix and calculated eigenvalues using given eigenvectors, demonstrating linear independence.
 - Utilized the characteristic polynomial to systematically find matrix eigenvalues, detailing the calculation steps.
 - Solved quadratic equations, exploring the roots and relationships between variables.

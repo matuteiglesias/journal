@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Flowpower CLI and Python Utilities"
-tags: ['Python', 'CLI', 'Flowpower', 'Typer', 'Utilities']
+tags: ["Python", "CLI", "Flowpower", "Typer", "Utilities"]
 created: 2025-04-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:00–03:35**  
 **🏷️ Labels**: Python, CLI, Flowpower, Typer, Utilities  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,7 +23,7 @@ The session aimed to enhance the Flowpower project by implementing and refining 
 - Resolved an `AttributeError` in Typer [[CLI]] modules by ensuring each subcommand module defines a `typer.Typer()` instance named `app`.
 - Addressed [[CLI]] subcommand routing issues by offering solutions and recommendations for modular [[CLI]] design.
 - Created a checklist for correct [[CLI]] argument parsing in the Flowpower project.
-- Streamlined [[CLI]] command invocation by renaming the `cli()` function to `run()`.
+- Streamlined [[CLI]] command invocation by renaming the `[[cli]]()` function to `run()`.
 - Fixed Typer nesting behavior in [[CLI]] commands to improve command registration and structure.
 
 ### Achievements

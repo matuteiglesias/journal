@@ -1,6 +1,6 @@
 ---
 title: "Resolved OCR configuration and Bash scripting issues"
-tags: ['OCR', 'Bash', 'Web Security', 'Data Processing', 'File Management']
+tags: ["OCR", "Bash", "Web Security", "Data Processing", "File Management"]
 created: 2024-12-11
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 15:00–17:30**  
 **🏷️ Labels**: OCR, Bash, Web Security, Data Processing, File Management  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to address issues related to OCR configuration in Spanish, enhance text extraction processes, and explore file management using Bash scripting.
+The session aimed to address issues related to OCR [[configuration]] in Spanish, enhance text extraction processes, and explore [[file management]] using Bash scripting.
 
 ### Key Activities
 - **Web Security Insight**: Reviewed methods to identify fraudulent websites by checking domain authenticity, design analysis, and security certificates.
@@ -25,8 +25,8 @@ The session aimed to address issues related to OCR configuration in Spanish, enh
 
 ### Achievements
 - Gained insights into enhancing web security through domain verification and design analysis.
-- Clarified the OCR configuration issue and proposed preprocessing solutions to improve text extraction.
-- Successfully utilized Bash commands for file management and data processing tasks.
+- Clarified the OCR [[configuration]] issue and proposed preprocessing solutions to improve text extraction.
+- Successfully utilized Bash commands for [[file management]] and [[data processing]] tasks.
 
 ### Pending Tasks
 - Further testing of alternative OCR configurations and preprocessing methods to ensure robust text extraction.

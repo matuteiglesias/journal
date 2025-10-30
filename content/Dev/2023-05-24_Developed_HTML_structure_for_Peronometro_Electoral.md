@@ -1,6 +1,6 @@
 ---
 title: "Developed HTML structure for Peronometro Electoral"
-tags: ['HTML', 'Mapbox', 'Documentation', 'Electoral', 'Visualization']
+tags: ["HTML", "Mapbox", "Documentation", "Electoral", "Visualization"]
 created: 2023-05-24
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:45–21:30**  
 **🏷️ Labels**: HTML, Mapbox, Documentation, Electoral, Visualization  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,17 +18,17 @@ The session aimed to develop and document the HTML structure for the 'Peronometr
 
 ### Key Activities
 - Drafted the initial HTML file structure for the 'Peronometro Electoral' project.
-- Integrated Mapbox links and CSS styles for interactive map visualization.
+- Integrated Mapbox links and CSS styles for interactive map [[visualization]].
 - Documented the HTML file structure and usage in a guide format.
-- Overviewed the repository for electoral data analysis and visualization, focusing on data organization and web visualization tools.
-- Provided instructions for citing code contributions in README.md files, ensuring proper acknowledgment and linking to GitHub repositories.
+- Overviewed the repository for electoral [[data analysis]] and [[visualization]], focusing on data organization and web [[visualization]] tools.
+- Provided instructions for citing code contributions in README.md files, ensuring proper acknowledgment and linking to [[GitHub]] repositories.
 - Explained the creation of hyperlinks in [[Markdown]], complete with syntax and examples.
 
 ### Achievements
 - Successfully documented the HTML structure for the 'Peronometro Electoral' project.
 - Established a framework for integrating interactive maps using Mapbox.
-- Clarified the process for citing code contributions in project documentation.
+- Clarified the process for citing code contributions in project [[documentation]].
 
 ### Pending Tasks
 - Further development of the interactive map features and testing within the HTML structure.
-- [[Integration]] of additional data visualization tools as outlined in the repository overview.
+- [[Integration]] of additional [[data [[visualization]]]] tools as outlined in the repository overview.

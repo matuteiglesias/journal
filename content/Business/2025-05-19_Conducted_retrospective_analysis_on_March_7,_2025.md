@@ -1,6 +1,6 @@
 ---
 title: "Conducted retrospective analysis on March 7, 2025"
-tags: ['Data Recovery', 'Political Strategy', 'Education', 'Narrative Development', 'Clustering Analysis']
+tags: ["Data Recovery", "Political Strategy", "Education", "Narrative Development", "Clustering Analysis"]
 created: 2025-05-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:40–21:50**  
 **🏷️ Labels**: Data Recovery, Political Strategy, Education, Narrative Development, Clustering Analysis  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,4 +26,4 @@ The session aimed to reflect on the technical data recovery processes and strate
 - Consolidated political and technical infrastructure insights.
 
 ### Pending Tasks
-- Further exploration of narrative development strategies and their integration with data recovery processes.
+- Further exploration of narrative development strategies and their [[integration]] with data recovery processes.

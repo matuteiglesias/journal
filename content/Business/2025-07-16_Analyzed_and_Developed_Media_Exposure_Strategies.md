@@ -1,6 +1,6 @@
 ---
 title: "Analyzed and Developed Media Exposure Strategies"
-tags: ['Media Strategy', 'Narrative Development', 'Soap Model', 'Music Analysis', 'Reality Tv']
+tags: ["Media Strategy", "Narrative Development", "Soap Model", "Music Analysis", "Reality Tv"]
 created: 2025-07-16
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:00–23:50**  
 **🏷️ Labels**: Media Strategy, Narrative Development, Soap Model, Music Analysis, Reality Tv  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

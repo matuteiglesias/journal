@@ -1,6 +1,6 @@
 ---
 title: "Implemented Matching Algorithm for Treatment Evaluation"
-tags: ['Matching Algorithm', 'Treatment Evaluation', 'Data Preparation', 'Linear Assignment']
+tags: ["Matching Algorithm", "Treatment Evaluation", "Data Preparation", "Linear Assignment"]
 created: 2023-06-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 06:20–06:35**  
 **🏷️ Labels**: Matching Algorithm, Treatment Evaluation, Data Preparation, Linear Assignment  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

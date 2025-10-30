@@ -1,6 +1,6 @@
 ---
 title: "Scouted AI organizations for collaboration opportunities"
-tags: ['AI', 'Collaboration', 'Research', 'Governance', 'Networking']
+tags: ["AI", "Collaboration", "Research", "Governance", "Networking"]
 created: 2025-04-06
 publish: false
 ---
@@ -10,11 +10,11 @@ publish: false
 **🕒 19:00–19:40**  
 **🏷️ Labels**: AI, Collaboration, Research, Governance, Networking  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to scout relevant [[AI]] organizations and labs globally, focusing on governance, data science, and digital culture, to identify potential collaboration or postdoctoral opportunities for Matías.
+The session aimed to scout relevant [[AI]] organizations and labs globally, focusing on governance, [[data science]], and digital culture, to identify potential collaboration or postdoctoral opportunities for Matías.
 
 **Key Activities:**
 - Identified and categorized [[AI]] organizations across Europe and globally by thematic clusters.

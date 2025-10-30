@@ -1,6 +1,6 @@
 ---
 title: "Developed Python scripts for Twitter follower management"
-tags: ['Python', 'Tweepy', 'File Management', 'Automation', 'Twitter Api']
+tags: ["Python", "Tweepy", "File Management", "Automation", "Twitter Api"]
 created: 2023-01-14
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 21:20–22:20**  
 **🏷️ Labels**: Python, Tweepy, File Management, Automation, Twitter Api  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to develop [[Python]] scripts to manage Twitter followers efficiently using the Tweepy library. The focus was on file management, automation, and ensuring data integrity.
+The session aimed to develop [[Python]] scripts to manage Twitter followers efficiently using the Tweepy library. The focus was on [[file management]], [[automation]], and ensuring data integrity.
 
 **Key Activities:**
 - Implemented a [[Python]] function to write follower data to a file with a line limit to prevent file overflow.

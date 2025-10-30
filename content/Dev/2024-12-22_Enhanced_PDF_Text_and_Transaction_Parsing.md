@@ -1,6 +1,6 @@
 ---
 title: "Enhanced PDF Text and Transaction Parsing"
-tags: ['Pdf Parsing', 'Regex', 'OCR', 'Data Extraction', 'Python']
+tags: ["Pdf Parsing", "Regex", "OCR", "Data Extraction", "Python"]
 created: 2024-12-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 23:15–23:55**  
 **🏷️ Labels**: Pdf Parsing, Regex, OCR, Data Extraction, Python  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The session aimed to improve the parsing of financial statements, focusing on ex
 - Developed strategies for parsing financial statements using regex, targeting regular and installment transactions.
 - Debugged PDF parsing issues, addressing regex misalignment, and explored OCR for text extraction.
 - Implemented text extraction techniques using PyPDF2, pdfminer, and pdfplumber, focusing on maintaining layout and line breaks.
-- Updated regex patterns for transaction parsing, ensuring accurate data extraction and handling of installment transactions.
+- Updated regex patterns for transaction parsing, ensuring accurate [[data extraction]] and handling of installment transactions.
 - Resolved directory path errors in scripts and converted Spanish month abbreviations to datetime in [[Pandas]].
 
 ### Achievements

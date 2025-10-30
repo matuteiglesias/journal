@@ -1,6 +1,6 @@
 ---
 title: "Developed Workshop Evaluation and Proposal Guidelines"
-tags: ['Workshop', 'Proposal', 'Evaluation', 'Google Forms', 'Community']
+tags: ["Workshop", "Proposal", "Evaluation", "Google Forms", "Community"]
 created: 2023-02-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:05–00:30**  
 **🏷️ Labels**: Workshop, Proposal, Evaluation, Google Forms, Community  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -24,7 +24,7 @@ The session aimed to develop comprehensive guidelines and processes for evaluati
 
 ### Achievements
 - Established a clear process for anonymous evaluation of workshop proposals using Google Forms.
-- Developed comprehensive guidelines for proposal submissions, enhancing the quality and productivity of workshops.
+- Developed comprehensive guidelines for proposal submissions, enhancing the quality and [[productivity]] of workshops.
 
 ### Pending Tasks
 - Implement the Google Forms for evaluation and voting processes.

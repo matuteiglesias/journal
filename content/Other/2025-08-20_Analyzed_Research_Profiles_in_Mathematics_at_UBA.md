@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Research Profiles in Mathematics at UBA"
-tags: ['Mathematics', 'Research', 'Interdisciplinary', 'UBA', 'Doctoral Theses']
+tags: ["Mathematics", "Research", "Interdisciplinary", "UBA", "Doctoral Theses"]
 created: 2025-08-20
 publish: false
 ---
@@ -10,14 +10,14 @@ publish: false
 **🕒 05:25–05:50**  
 **🏷️ Labels**: Mathematics, Research, Interdisciplinary, UBA, Doctoral Theses  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
 The session aimed to analyze and document the professional trajectories and research interests of several prominent mathematicians associated with the Department of Mathematics at the University of Buenos Aires (UBA).
 
 ### Key Activities
-- **Pablo Groisman**: Reviewed his evolution from numerical analysis of differential equations to the application of machine learning in probabilistic problems.
+- **Pablo Groisman**: Reviewed his evolution from numerical analysis of differential equations to the application of [[machine learning]] in probabilistic problems.
 - **Pablo De Nápoli**: Analyzed his contributions to harmonic analysis, functional inequalities, and nonlinear differential equations.
 - **Pablo Amster**: Examined his research in nonlinear differential equations and his cultural dissemination work in mathematics, highlighting his multidisciplinary approach.
 - **Research Mapping**: Detailed mapping of research interests in probability and stochastic processes at UBA, focusing on interdisciplinary connections.

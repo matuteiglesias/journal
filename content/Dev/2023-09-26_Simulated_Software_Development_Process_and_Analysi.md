@@ -1,6 +1,6 @@
 ---
 title: "Simulated Software Development Process and Analysis"
-tags: ['Software Development', 'Ai Agents', 'Simulation', 'Data Analysis', 'Project Management']
+tags: ["Software Development", "Ai Agents", "Simulation", "Data Analysis", "Project Management"]
 created: 2023-09-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 02:30–03:00**  
 **🏷️ Labels**: Software Development, Ai Agents, Simulation, Data Analysis, Project Management  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -23,7 +23,7 @@ The session aimed to summarize and analyze the simulated software development pr
 - Evaluated project feasibility and categorized ideas based on practicality and innovation.
 - Simulated design and development strategies for various projects, including a virtual card deck, a time-tracking app, and a voice conversion chatbot.
 - Proposed innovative technology solutions for mental health, such as a virtual therapy platform and an [[AI]]-assisted meditation app.
-- Detailed a proposal for an interactive wildfire map for Argentina, including functionalities and development strategy.
+- Detailed a proposal for an interactive wildfire map for Argentina, including functionalities and development [[strategy]].
 
 ### Achievements
 - Summarized the software development process and identified key stages and activities.

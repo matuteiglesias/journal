@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Job Creation Potential in Global Projects"
-tags: ['Job Creation', 'Project Analysis', 'Economic Impact', 'Infrastructure', 'Construction']
+tags: ["Job Creation", "Project Analysis", "Economic Impact", "Infrastructure", "Construction"]
 created: 2023-06-09
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:45–02:05**  
 **🏷️ Labels**: Job Creation, Project Analysis, Economic Impact, Infrastructure, Construction  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

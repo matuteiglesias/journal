@@ -1,6 +1,6 @@
 ---
 title: "Guided Physics Problem Solving and Ethical Support"
-tags: ['Physics', 'Education', 'Ethical Support', 'Problem Solving', 'Calculation']
+tags: ["Physics", "Education", "Ethical Support", "Problem Solving", "Calculation"]
 created: 2025-03-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:00–19:30**  
 **🏷️ Labels**: Physics, Education, Ethical Support, Problem Solving, Calculation  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

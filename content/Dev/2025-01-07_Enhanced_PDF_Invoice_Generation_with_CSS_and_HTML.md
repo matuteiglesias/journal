@@ -1,6 +1,6 @@
 ---
 title: "Enhanced PDF Invoice Generation with CSS and HTML"
-tags: ['PDF', 'CSS', 'HTML', 'Python', 'Invoices']
+tags: ["PDF", "CSS", "HTML", "Python", "Invoices"]
 created: 2025-01-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:55–20:20**  
 **🏷️ Labels**: PDF, CSS, HTML, Python, Invoices  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -18,7 +18,7 @@ The primary goal of this session was to enhance the generation of PDF invoices f
 
 ### Key Activities
 - **Styling Modifications**: Instructions were provided for modifying spacing and indentation in HTML and [[Markdown]] documents, with CSS adjustments for signature presentation.
-- **PDF Generation**: Developed code for generating municipal invoices for 2025 using [[Python]], pandas, and pdfkit, focusing on formatting and style.
+- **PDF Generation**: Developed code for generating municipal invoices for 2025 using [[Python]], [[pandas]], and pdfkit, focusing on formatting and style.
 - **Invoice Alignment**: Implemented a method to align invoice details as text instead of tables to avoid formatting issues in PDFs, using [[Python]].
 - **Format Adjustments**: Proposed adjustments to ensure each invoice entry renders on a separate line with explicit line breaks for improved readability.
 - **LaTeX Table [[Integration]]**: Explored integrating LaTeX tables in PDFs using pdfkit, providing a code example for conversion and rendering.

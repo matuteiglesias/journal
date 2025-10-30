@@ -1,6 +1,6 @@
 ---
 title: "Enhanced SQL and Python error handling"
-tags: ['Python', 'SQL', 'Error Handling', 'Database', 'Sqlite']
+tags: ["Python", "SQL", "Error Handling", "Database", "Sqlite"]
 created: 2023-04-20
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 19:50–20:10**  
 **🏷️ Labels**: Python, SQL, Error Handling, Database, Sqlite  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to address and resolve various programming errors in [[Python]] functions and SQL queries, focusing on enhancing error handling and syntax correctness.
+The session aimed to address and resolve various programming errors in [[Python]] functions and SQL queries, focusing on enhancing [[error handling]] and syntax correctness.
 
 ### Key Activities
 - **[[Python]] [[Error Handling]]**: Updated the `find_superkey` function to handle `IndexError` by checking for empty lists in covering sets.
@@ -23,7 +23,7 @@ The session aimed to address and resolve various programming errors in [[Python]
 - **SQLite Enhancements**: Implemented parameterized queries to prevent SQL injection and used `executemany` for efficient batch inserts.
 
 ### Achievements
-- Successfully implemented error handling in [[Python]] functions to prevent `IndexError`.
+- Successfully implemented [[error handling]] in [[Python]] functions to prevent `IndexError`.
 - Corrected SQL syntax issues, ensuring proper execution of queries.
 - Enhanced database operations with improved security and efficiency through parameterized queries and batch processing.
 

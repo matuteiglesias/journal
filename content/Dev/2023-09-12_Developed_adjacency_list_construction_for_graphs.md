@@ -1,6 +1,6 @@
 ---
 title: "Developed adjacency list construction for graphs"
-tags: ['Grafos', 'Listas De Adyacencia', 'Algoritmos', 'Estructura De Datos']
+tags: ["Grafos", "Listas De Adyacencia", "Algoritmos", "Estructura De Datos"]
 created: 2023-09-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:30–21:00**  
 **🏷️ Labels**: Grafos, Listas De Adyacencia, Algoritmos, Estructura De Datos  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,4 +26,4 @@ The session aimed to explore and demonstrate the construction of adjacency lists
 - Clarified the differences in complexity and use cases between adjacency lists, hash tables, and adjacency matrices.
 
 ### Pending Tasks
-- Further exploration into optimization techniques for adjacency list construction in specific graph scenarios.
+- Further exploration into [[optimization]] techniques for adjacency list construction in specific graph scenarios.

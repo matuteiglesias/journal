@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Whisper Transcription and Diarization"
-tags: ['Whisper', 'Transcription', 'Audio Processing', 'Diarization', 'Automation']
+tags: ["Whisper", "Transcription", "Audio Processing", "Diarization", "Automation"]
 created: 2025-08-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 13:30–14:20**  
 **🏷️ Labels**: Whisper, Transcription, Audio Processing, Diarization, Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -31,4 +31,4 @@ The session aimed to improve transcription quality and diarization using the Whi
 
 ### Pending Tasks
 - Implement the recommended switch to a multilingual model for Spanish audio transcription.
-- Finalize the ingestion pipeline for daily content harvesting, ensuring seamless integration with existing systems.
+- Finalize the ingestion pipeline for daily content harvesting, ensuring seamless [[integration]] with existing systems.

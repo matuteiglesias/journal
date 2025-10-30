@@ -1,6 +1,6 @@
 ---
 title: "Developed and Refined Investment and Trading Strategies"
-tags: ['Investment', 'Trading', 'Data Analysis', 'Visualization', 'Python']
+tags: ["Investment", "Trading", "Data Analysis", "Visualization", "Python"]
 created: 2024-01-15
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 03:50–07:45**  
 **🏷️ Labels**: Investment, Trading, Data Analysis, Visualization, Python  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
-The session aimed to explore and refine various investment and trading strategies, focusing on leveraging data analysis and visualization techniques to enhance decision-making.
+The session aimed to explore and refine various investment and trading strategies, focusing on leveraging [[data analysis]] and [[visualization]] techniques to enhance decision-making.
 
 ### Key Activities:
 - **Investment Strategies**: Discussed key strategies like trend following, momentum investing, and dollar-cost averaging, emphasizing the importance of backtesting.
@@ -26,8 +26,8 @@ The session aimed to explore and refine various investment and trading strategie
 ### Achievements:
 - Developed a comprehensive framework for testing trading strategies using historical data.
 - Implemented [[Python]] code for calculating and visualizing stock returns.
-- Enhanced data visualization techniques with color gradients and scatter plots.
+- Enhanced [[data [[visualization]]]] techniques with color gradients and scatter plots.
 
 ### Pending Tasks:
-- Further refine backtesting methods to improve strategy effectiveness.
-- Explore additional visualization techniques for better data interpretation.
+- Further refine backtesting methods to improve [[strategy]] effectiveness.
+- Explore additional [[visualization]] techniques for better data interpretation.

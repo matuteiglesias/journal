@@ -1,6 +1,6 @@
 ---
 title: "Developed Python classes for motorcycle circuit analysis"
-tags: ['Python', 'Motorcycle', 'Physics', 'Interpolation', 'Circuit', 'Numerical Analysis']
+tags: ["Python", "Motorcycle", "Physics", "Interpolation", "Circuit", "Numerical Analysis"]
 created: 2023-09-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 06:55–10:15**  
 **🏷️ Labels**: Python, Motorcycle, Physics, Interpolation, Circuit, Numerical Analysis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -22,7 +22,7 @@ The session focused on enhancing the understanding and computational modeling of
 - Developed [[Python]] code for numerical analysis using `scipy` to calculate lean angles and time for half-circle curves.
 - Created a [[Python]] class `Circuito` for modeling motorcycle circuits, incorporating features like average speed, total time, and total distance calculations.
 - Implemented cubic spline and Akima interpolation methods for circuit speed profiles.
-- Addressed and corrected errors in the [[Python]] code related to velocity calculations and data visualization using [[Matplotlib]].
+- Addressed and corrected errors in the [[Python]] code related to velocity calculations and [[data [[visualization]]]] using [[Matplotlib]].
 
 ### Achievements
 - Successfully implemented and debugged [[Python]] code for complex motorcycle circuit analysis.
@@ -30,4 +30,4 @@ The session focused on enhancing the understanding and computational modeling of
 
 ### Pending Tasks
 - Further refine the interpolation models to enhance accuracy in different circuit conditions.
-- Explore additional error handling mechanisms for edge cases in velocity and distance calculations.
+- Explore additional [[error handling]] mechanisms for edge cases in velocity and distance calculations.

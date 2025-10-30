@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Regex Patterns for Transaction Parsing"
-tags: ['Regex', 'Transaction Parsing', 'Data Validation', 'Python']
+tags: ["Regex", "Transaction Parsing", "Data Validation", "Python"]
 created: 2024-12-23
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:00–01:00**  
 **🏷️ Labels**: Regex, Transaction Parsing, Data Validation, Python  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**

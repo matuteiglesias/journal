@@ -1,6 +1,6 @@
 ---
 title: "Developed Job Search Automation Pipeline MVP"
-tags: ['Job Search', 'Automation', 'Pipeline', 'MVP', 'Development']
+tags: ["Job Search", "Automation", "Pipeline", "MVP", "Development"]
 created: 2025-07-06
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 19:40–21:10**  
 **🏷️ Labels**: Job Search, Automation, Pipeline, MVP, Development  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The primary objective of this session was to develop a Minimal Viable Product (MVP) for a Job Search [[Automation]] Pipeline, focusing on key components such as job listing scoring, cover letter generation, and dynamic configuration.
+The primary objective of this session was to develop a Minimal Viable Product (MVP) for a Job Search [[Automation]] Pipeline, focusing on key components such as job listing scoring, cover letter generation, and dynamic [[configuration]].
 
 ### Key Activities
 - **Weekly Plan for Email Parsing Product Development**: Outlined a structured weekly plan for an email parsing product, focusing on user onboarding and background functionality.

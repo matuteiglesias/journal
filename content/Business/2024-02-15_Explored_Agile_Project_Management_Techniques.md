@@ -1,6 +1,6 @@
 ---
 title: "Explored Agile Project Management Techniques"
-tags: ['Agile', 'Project Management', 'Estimation Techniques', 'Collaboration', 'Story Points']
+tags: ["Agile", "Project Management", "Estimation Techniques", "Collaboration", "Story Points"]
 created: 2024-02-15
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 18:15–18:45**  
 **🏷️ Labels**: Agile, Project Management, Estimation Techniques, Collaboration, Story Points  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to explore various aspects of Agile project management, focusing on improving project planning and estimation techniques.
+The session aimed to explore various aspects of Agile [[project management]], focusing on improving project planning and estimation techniques.
 
 ### Key Activities
 - **Reflection on Traditional Project Planning:** Analyzed common pitfalls in traditional project planning and emphasized a customer-centric approach.
@@ -28,5 +28,5 @@ The session aimed to explore various aspects of Agile project management, focusi
 - Clarified the use of story points and ideal days in Agile estimation, enhancing understanding of their application in project planning.
 
 ### Pending Tasks
-- Further exploration of how to integrate Agile estimation techniques into existing project management practices.
+- Further exploration of how to integrate Agile estimation techniques into existing [[project management]] practices.
 - Develop strategies for teams to transition smoothly to Agile estimation methods, particularly in environments resistant to change.

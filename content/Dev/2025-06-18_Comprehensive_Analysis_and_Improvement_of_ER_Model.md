@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Analysis and Improvement of ER Models"
-tags: ['Er Model', 'SQL', 'Normalization', 'Machine Learning', 'Data Analysis']
+tags: ["Er Model", "SQL", "Normalization", "Machine Learning", "Data Analysis"]
 created: 2025-06-18
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:30–17:15**  
 **🏷️ Labels**: Er Model, SQL, Normalization, Machine Learning, Data Analysis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,9 +25,9 @@ The session aimed to analyze and improve Entity-Relationship (ER) models by comp
 ### Achievements
 - Completed the analysis of ER diagrams, confirming all entities as strong and suggesting improvements for the 'CUENTA' table.
 - Successfully mapped ER diagrams to relational models and normalized tables to 3NF.
-- Developed SQL scripts for comprehensive data analysis in e-commerce and product metrics.
-- Evaluated machine learning models, providing insights into parameter impacts and model evaluation strategies.
+- Developed SQL scripts for comprehensive [[data analysis]] in e-commerce and product metrics.
+- Evaluated [[machine learning]] models, providing insights into parameter impacts and model evaluation strategies.
 
 ### Pending Tasks
-- Further refine SQL queries for more complex data analysis scenarios.
+- Further refine SQL queries for more complex [[data analysis]] scenarios.
 - Continue exploration of threshold strategies in classification models to optimize performance.

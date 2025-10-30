@@ -1,6 +1,6 @@
 ---
 title: "Developed and Optimized Abstract Retrieval Pipeline"
-tags: ['API', 'Abstract Retrieval', 'AI', 'Pipeline', 'Crossref', 'Semantic Scholar']
+tags: ["API", "Abstract Retrieval", "AI", "Pipeline", "Crossref", "Semantic Scholar"]
 created: 2025-02-08
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:20–16:10**  
 **🏷️ Labels**: API, Abstract Retrieval, AI, Pipeline, Crossref, Semantic Scholar  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,10 +26,10 @@ The session aimed to develop and optimize a pipeline for retrieving and analyzin
 - **LLM Priming**: Reflected on effective priming strategies for large language models to enhance [[AI]] response quality.
 
 ### Achievements
-- Successfully created a detailed guide and workflow for abstract retrieval and analysis.
-- Enhanced the research pipeline with [[AI]] integration for improved abstract screening.
+- Successfully created a detailed guide and [[workflow]] for abstract retrieval and analysis.
+- Enhanced the research pipeline with [[AI]] [[integration]] for improved abstract screening.
 - Developed insights on [[API]] selection and [[AI]] priming strategies.
 
 ### Pending Tasks
 - Further refine [[AI]] agent prompts for abstract analysis.
-- Continue troubleshooting any remaining [[API]] connection issues.
+- Continue [[troubleshooting]] any remaining [[API]] connection issues.

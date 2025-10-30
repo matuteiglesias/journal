@@ -1,6 +1,6 @@
 ---
 title: "Compiled insights on fashion and fitness strategies"
-tags: ['Fashion', 'Fitness', 'Communication', 'Well-Being']
+tags: ["Fashion", "Fitness", "Communication", "Well-Being"]
 created: 2025-03-20
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 22:55–23:00**  
 **🏷️ Labels**: Fashion, Fitness, Communication, Well-Being  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

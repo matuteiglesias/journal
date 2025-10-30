@@ -1,6 +1,6 @@
 ---
 title: "Integrated Firebase into Flask and Web Applications"
-tags: ['Firebase', 'Flask', 'Web Development', 'Educational Platform', 'AI']
+tags: ["Firebase", "Flask", "Web Development", "Educational Platform", "AI"]
 created: 2024-03-05
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:20–05:50**  
 **🏷️ Labels**: Firebase, Flask, Web Development, Educational Platform, AI  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -27,12 +27,12 @@ The session aimed to integrate Firebase services into both [[Flask]] and web app
 - Discussed the benefits of integrating Google Analytics with Firebase for enhanced user engagement and data-driven decisions.
 
 ### Achievements
-- Successfully outlined the integration process for Firebase in both frontend and backend applications, providing detailed setup instructions and deployment guidance.
-- Developed strategies for using Firebase SDK in web apps and App Engine deployment.
-- Provided best practices for Firebase integration, including security and error handling.
+- Successfully outlined the [[integration]] process for Firebase in both frontend and backend applications, providing detailed setup instructions and [[deployment]] guidance.
+- Developed strategies for using Firebase SDK in web apps and App Engine [[deployment]].
+- Provided best practices for Firebase [[integration]], including security and [[error handling]].
 
 ### Pending Tasks
-- Further testing and refinement of Firebase integration in educational platforms.
+- Further testing and refinement of Firebase [[integration]] in educational platforms.
 - Continued evaluation of Firebase's scalability and cost-effectiveness for long-term use.
 - Implementation of proposed frontend improvements and ticket system.
 

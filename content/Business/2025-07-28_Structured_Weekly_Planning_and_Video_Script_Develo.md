@@ -1,6 +1,6 @@
 ---
 title: "Structured Weekly Planning and Video Script Development"
-tags: ['Video Script', 'Weekly Planning', 'Task Management', 'Calendar Optimization', 'Onboarding Manual']
+tags: ["Video Script", "Weekly Planning", "Task Management", "Calendar Optimization", "Onboarding Manual"]
 created: 2025-07-28
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 07:30–08:10**  
 **🏷️ Labels**: Video Script, Weekly Planning, Task Management, Calendar Optimization, Onboarding Manual  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to develop a structured video script and establish a comprehensive weekly planning framework to enhance productivity and task management.
+The session aimed to develop a structured video script and establish a comprehensive weekly planning framework to enhance [[productivity]] and [[task management]].
 
 ### Key Activities
 1. **Video Script Development**: A structured script for a video presentation by Matías Iglesias was outlined, focusing on a unique narrative tone and symbolic elements to create a compelling impression. The script included detailed segments with motivations and advice for delivery.
@@ -29,8 +29,8 @@ The session aimed to develop a structured video script and establish a comprehen
 
 ### Achievements
 - Completed a detailed video script structure for an upcoming presentation.
-- Established a comprehensive weekly planning framework to enhance productivity.
-- Developed a structured approach for task management and calendar optimization.
+- Established a comprehensive weekly planning framework to enhance [[productivity]].
+- Developed a structured approach for [[task management]] and calendar [[optimization]].
 - Created a detailed onboarding manual structure for pipeline orchestration.
 
 ### Pending Tasks

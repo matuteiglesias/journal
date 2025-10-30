@@ -1,6 +1,6 @@
 ---
 title: "Enhanced text extraction and processing functions"
-tags: ['Python', 'Text Processing', 'Function Improvement', 'Web Scraping', 'Legal Articles']
+tags: ["Python", "Text Processing", "Function Improvement", "Web Scraping", "Legal Articles"]
 created: 2023-12-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:50–20:20**  
 **🏷️ Labels**: Python, Text Processing, Function Improvement, Web Scraping, Legal Articles  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

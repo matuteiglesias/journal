@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Dask script with progress indicators"
-tags: ['Dask', 'Python', 'Data Processing', 'Progress Indicators', 'Pandas']
+tags: ["Dask", "Python", "Data Processing", "Progress Indicators", "Pandas"]
 created: 2023-08-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:15–18:35**  
 **🏷️ Labels**: Dask, Python, Data Processing, Progress Indicators, Pandas  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,7 +26,7 @@ The goal of this session was to enhance a Dask script by adding progress indicat
 ### Achievements
 - Successfully integrated progress indicators into the Dask script.
 - Resolved errors related to partitioned dataframes and age binning in both Dask and [[Pandas]].
-- Enhanced data processing techniques for counting unique values and avoiding common warnings in [[Pandas]].
+- Enhanced [[data processing]] techniques for counting unique values and avoiding common warnings in [[Pandas]].
 
 ### Pending Tasks
 - Further testing and validation of the modified Dask script in a production environment to ensure stability and performance.

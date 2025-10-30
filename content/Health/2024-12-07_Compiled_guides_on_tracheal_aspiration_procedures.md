@@ -1,6 +1,6 @@
 ---
 title: "Compiled guides on tracheal aspiration procedures"
-tags: ['Tracheal Aspiration', 'Healthcare', 'Medical Procedure', 'Patient Safety']
+tags: ["Tracheal Aspiration", "Healthcare", "Medical Procedure", "Patient Safety"]
 created: 2024-12-07
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 03:10–03:15**  
 **🏷️ Labels**: Tracheal Aspiration, Healthcare, Medical Procedure, Patient Safety  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:** To compile and detail medical procedures related to tracheal aspiration, focusing on both orotracheal and tracheostomy contexts.

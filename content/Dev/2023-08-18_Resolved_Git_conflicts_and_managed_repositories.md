@@ -1,6 +1,6 @@
 ---
 title: "Resolved Git conflicts and managed repositories"
-tags: ['Git', 'Version Control', 'Merge', 'Rebase', 'Conflict Resolution']
+tags: ["Git", "Version Control", "Merge", "Rebase", "Conflict Resolution"]
 created: 2023-08-18
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:30–22:40**  
 **🏷️ Labels**: Git, Version Control, Merge, Rebase, Conflict Resolution  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

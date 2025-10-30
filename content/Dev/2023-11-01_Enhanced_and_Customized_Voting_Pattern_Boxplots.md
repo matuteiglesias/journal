@@ -1,6 +1,6 @@
 ---
 title: "Enhanced and Customized Voting Pattern Boxplots"
-tags: ['Python', 'Data Visualization', 'Seaborn', 'Matplotlib', 'Boxplot', 'Voting Patterns']
+tags: ["Python", "Data Visualization", "Seaborn", "Matplotlib", "Boxplot", "Voting Patterns"]
 created: 2023-11-01
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:20–20:50**  
 **🏷️ Labels**: Python, Data Visualization, Seaborn, Matplotlib, Boxplot, Voting Patterns  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,8 +26,8 @@ The primary objective of this session was to enhance and customize data visualiz
 
 ### Achievements
 - Successfully created and customized boxplots for visualizing voting patterns, incorporating aesthetic improvements and resolving technical warnings.
-- Improved data analysis capabilities by adding new variables and managing datasets effectively.
+- Improved [[data analysis]] capabilities by adding new variables and managing datasets effectively.
 
 ### Pending Tasks
-- **Dataset Preparation**: Define or generate the `data_filtered` dataset to enable further analysis and visualization.
-- **Data Re-upload**: Ensure re-upload of `circuitos.csv` and `votos.csv` datasets to maintain analysis continuity.
+- **Dataset Preparation**: Define or generate the `data_filtered` dataset to enable further analysis and [[visualization]].
+- **Data Re-upload**: Ensure re-upload of `circuitos.[[csv]]` and `votos.[[csv]]` datasets to maintain analysis continuity.

@@ -1,6 +1,6 @@
 ---
 title: "Optimized Job Application and Data Management Strategy"
-tags: ['Job Applications', 'Data Management', 'Automation', 'CSV', 'Job Search']
+tags: ["Job Applications", "Data Management", "Automation", "CSV", "Job Search"]
 created: 2025-06-06
 publish: true
 ---
@@ -10,15 +10,15 @@ publish: true
 **🕒 13:45–14:50**  
 **🏷️ Labels**: Job Applications, Data Management, Automation, CSV, Job Search  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to enhance the strategic approach to job applications and optimize data management for job listings.
+The session aimed to enhance the strategic approach to job applications and optimize [[data management]] for job listings.
 
 ### Key Activities
 - **Strategic Analysis of Job Applications**: Focused on evaluating and optimizing job applications with an emphasis on quality, ATS visibility, and actionable improvement steps.
-- **Role Prioritization**: Developed a strategy for prioritizing job roles based on location, engagement potential, and role type.
+- **Role Prioritization**: Developed a [[strategy]] for prioritizing job roles based on location, engagement potential, and role type.
 - **Job Search [[Automation]]**: Transitioned from basic job-hunting to building an automated application pipeline, using data-driven analysis and strategic targeting.
 - **[[CSV]] [[Data Management]]**: Managed and formatted [[CSV]] datasets of recent job postings, ensuring they were filtered for relevance and consistency, and addressed issues with location data and ambiguity.
 

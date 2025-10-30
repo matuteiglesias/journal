@@ -1,6 +1,6 @@
 ---
 title: "Developed Social Media Content for Nursing Day"
-tags: ['Nursing Day', 'Social Media', 'Illustration', 'Italian Communication', 'Ai Embeddings']
+tags: ["Nursing Day", "Social Media", "Illustration", "Italian Communication", "Ai Embeddings"]
 created: 2025-05-12
 publish: false
 ---
@@ -10,11 +10,11 @@ publish: false
 **🕒 16:50–17:30**  
 **🏷️ Labels**: Nursing Day, Social Media, Illustration, Italian Communication, Ai Embeddings  
 **📂 Project**: Health  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal: 
-The session aimed to create engaging content for social media and explore communication strategies in Italian.
+The session aimed to create engaging content for social media and explore [[communication]] strategies in Italian.
 
 ### Key Activities:
 - Developed a respectful and engaging Instagram post template for Nursing Day, emphasizing the importance of nursing in healthcare.
@@ -26,7 +26,7 @@ The session aimed to create engaging content for social media and explore commun
 
 ### Achievements:
 - Successfully created content ideas for Nursing Day social media posts and illustrations.
-- Enhanced communication skills in Italian, particularly in professional and educational contexts.
+- Enhanced [[communication]] skills in Italian, particularly in professional and educational contexts.
 
 ### Pending Tasks:
 - Finalize and schedule the Instagram post and illustration for Nursing Day.

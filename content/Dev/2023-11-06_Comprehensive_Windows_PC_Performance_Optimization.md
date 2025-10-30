@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Windows PC Performance Optimization"
-tags: ['Windows', 'Performance', 'Optimization', 'Diagnostics', 'System Maintenance']
+tags: ["Windows", "Performance", "Optimization", "Diagnostics", "System Maintenance"]
 created: 2023-11-06
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:00–23:55**  
 **🏷️ Labels**: Windows, Performance, Optimization, Diagnostics, System Maintenance  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -27,7 +27,7 @@ The goal of this session was to diagnose and optimize the performance of Windows
 
 ### Achievements
 - Developed a comprehensive approach to diagnosing and optimizing Windows PC performance.
-- Identified potential bottlenecks in low-power systems and provided actionable optimization strategies.
+- Identified potential bottlenecks in low-power systems and provided actionable [[optimization]] strategies.
 - Enhanced understanding of Windows Defender's impact on system resources and how to mitigate it.
 
 ### Pending Tasks

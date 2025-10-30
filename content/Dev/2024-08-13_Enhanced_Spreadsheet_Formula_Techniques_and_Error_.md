@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Spreadsheet Formula Techniques and Error Handling"
-tags: ['Google Sheets', 'Excel', 'Formulas', 'Error Handling', 'Data Analysis']
+tags: ["Google Sheets", "Excel", "Formulas", "Error Handling", "Data Analysis"]
 created: 2024-08-13
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 04:20–05:20**  
 **🏷️ Labels**: Google Sheets, Excel, Formulas, Error Handling, Data Analysis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,8 +26,8 @@ The session aimed to explore and enhance skills in using spreadsheet formulas fo
 - **Average Calculation in Google Sheets**: Formulated a method to calculate the average of non-null values using `ARRAYFORMULA`, `FILTER`, and `AVERAGE` functions.
 
 ### Achievements
-- Successfully created and tested various formulas for string comparison, date calculations, and error handling in both Google Sheets and Excel.
-- Enhanced troubleshooting skills for spreadsheet formula syntax.
+- Successfully created and tested various formulas for string comparison, date calculations, and [[error handling]] in both Google Sheets and Excel.
+- Enhanced [[troubleshooting]] skills for spreadsheet formula syntax.
 
 ### Pending Tasks
-- Further exploration of advanced spreadsheet functions for more complex data analysis scenarios.
+- Further exploration of advanced spreadsheet functions for more complex [[data analysis]] scenarios.

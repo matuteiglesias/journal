@@ -1,6 +1,6 @@
 ---
 title: "Guides for Legal and Financial Procedures in Argentina"
-tags: ['TAD', 'Reintegros', 'Comprobantes', 'AGIP', 'Mercado Pago']
+tags: ["TAD", "Reintegros", "Comprobantes", "AGIP", "Mercado Pago"]
 created: 2024-11-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 13:10–13:45**  
 **🏷️ Labels**: TAD, Reintegros, Comprobantes, AGIP, Mercado Pago  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

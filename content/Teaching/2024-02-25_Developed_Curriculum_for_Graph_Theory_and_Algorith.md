@@ -1,6 +1,6 @@
 ---
 title: "Developed Curriculum for Graph Theory and Algorithms"
-tags: ['Graph Theory', 'Algorithms', 'Curriculum Design', 'Education', 'Optimization']
+tags: ["Graph Theory", "Algorithms", "Curriculum Design", "Education", "Optimization"]
 created: 2024-02-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:55–18:50**  
 **🏷️ Labels**: Graph Theory, Algorithms, Curriculum Design, Education, Optimization  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -21,7 +21,7 @@ The goal of this session was to develop a structured curriculum for teaching Uni
 - Developed a structured outline for teaching, including optional challenges and exercises tailored to different student readiness levels.
 - Revised a LaTeX document to improve clarity and structure for graph and algorithm-related content.
 - Organized graph theory exercises into thematic categories to enhance coherence and progression.
-- Proposed advanced graph algorithms and optimization techniques, focusing on innovative solutions and practical applications.
+- Proposed advanced graph algorithms and [[optimization]] techniques, focusing on innovative solutions and practical applications.
 
 ### Achievements
 - Successfully outlined a comprehensive curriculum for Unit 4, ensuring a logical progression from basic to advanced topics.
@@ -30,4 +30,4 @@ The goal of this session was to develop a structured curriculum for teaching Uni
 
 ### Pending Tasks
 - Finalize the curriculum details and prepare teaching materials for Unit 4.
-- Develop additional exercises and solutions for advanced graph algorithms and optimization techniques.
+- Develop additional exercises and solutions for advanced graph algorithms and [[optimization]] techniques.

@@ -1,6 +1,6 @@
 ---
 title: "Strategic Planning for Postdoc Opportunities"
-tags: ['Postdoc', 'Career Strategy', 'Interdisciplinary', 'Tech-Policy', 'Innovation']
+tags: ["Postdoc", "Career Strategy", "Interdisciplinary", "Tech-Policy", "Innovation"]
 created: 2025-04-06
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 13:50–14:25**  
 **🏷️ Labels**: Postdoc, Career Strategy, Interdisciplinary, Tech-Policy, Innovation  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -24,7 +24,7 @@ The session aimed to strategically plan and explore postdoc opportunities that a
 - Introduced the concept of a 'ghost strategist' to assist in crafting strategies and materials for applications.
 - Investigated a comprehensive list of 30 postdoc options, categorized by prestige and focus areas.
 - Mapped Tier A institutions known for openness to interdisciplinary work and creative postdoctoral opportunities.
-- Explored Tier B and Tier C institutions for creative and applied labs, focusing on civic tech, data science, and international development.
+- Explored Tier B and Tier C institutions for creative and applied labs, focusing on civic tech, [[data science]], and international development.
 
 ### Achievements:
 - Compiled a comprehensive list of potential postdoc opportunities tailored to Matías' profile.

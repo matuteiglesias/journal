@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Guide for Construction Material Application"
-tags: ['Construction', 'Waterproofing', 'Material Optimization', 'Repair', 'Guide']
+tags: ["Construction", "Waterproofing", "Material Optimization", "Repair", "Guide"]
 created: 2024-09-14
 publish: false
 ---
@@ -10,11 +10,11 @@ publish: false
 **🕒 20:15–20:50**  
 **🏷️ Labels**: Construction, Waterproofing, Material Optimization, Repair, Guide  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to compile a comprehensive set of guides and plans for the application and optimization of various construction materials, focusing on waterproofing and surface preparation.
+The session aimed to compile a comprehensive set of guides and plans for the application and [[optimization]] of various construction materials, focusing on waterproofing and surface preparation.
 
 ### Key Activities
 - **Sika MonoTop®-107 Application**: Detailed instructions for surface preparation, mixing, application, curing, and post-application care.
@@ -28,8 +28,8 @@ The session aimed to compile a comprehensive set of guides and plans for the app
 
 ### Achievements
 - Compiled detailed guides and plans for various construction material applications and repairs.
-- Provided insights into the optimization of material purchases and the adoption of advanced waterproofing technologies.
+- Provided insights into the [[optimization]] of material purchases and the adoption of advanced waterproofing technologies.
 
 ### Pending Tasks
-- Further exploration and documentation of new waterproofing technologies and their applications in different construction scenarios.
+- Further exploration and [[documentation]] of new waterproofing technologies and their applications in different construction scenarios.
 - Development of a cost-benefit analysis for the adoption of modern waterproofing solutions in construction projects.

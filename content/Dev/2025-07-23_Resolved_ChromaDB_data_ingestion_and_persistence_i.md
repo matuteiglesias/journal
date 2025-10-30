@@ -1,6 +1,6 @@
 ---
 title: "Resolved ChromaDB data ingestion and persistence issues"
-tags: ['Chromadb', 'Data Ingestion', 'Debugging', 'Python', 'Data Persistence']
+tags: ["Chromadb", "Data Ingestion", "Debugging", "Python", "Data Persistence"]
 created: 2025-07-23
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 07:10–07:35**  
 **🏷️ Labels**: Chromadb, Data Ingestion, Debugging, Python, Data Persistence  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

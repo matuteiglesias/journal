@@ -1,6 +1,6 @@
 ---
 title: "Resolved SCP and SSH connection issues"
-tags: ['Scp', 'SSH', 'File Transfer', 'Troubleshooting', 'Command Line']
+tags: ["Scp", "SSH", "File Transfer", "Troubleshooting", "Command Line"]
 created: 2023-04-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:30–20:40**  
 **🏷️ Labels**: Scp, SSH, File Transfer, Troubleshooting, Command Line  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -26,7 +26,7 @@ The goal of this session was to address and resolve issues related to using the 
 - Demonstrated using `scp` with a custom port number for file transfer over SSH.
 
 ### Achievements
-- Successfully outlined methods for resolving common SCP and SSH issues, enhancing server file management capabilities.
+- Successfully outlined methods for resolving common SCP and SSH issues, enhancing server [[file management]] capabilities.
 
 ### Pending Tasks
 - Further testing may be needed to ensure all edge cases are handled, particularly with custom network configurations.

@@ -1,6 +1,6 @@
 ---
 title: "Developed Curriculum for Computational Linear Algebra Course"
-tags: ['Education', 'Python', 'Course Planning', 'Linear Algebra', 'Development']
+tags: ["Education", "Python", "Course Planning", "Linear Algebra", "Development"]
 created: 2024-08-20
 publish: true
 ---
@@ -10,15 +10,15 @@ publish: true
 **🕒 00:05–23:10**  
 **🏷️ Labels**: Education, Python, Course Planning, Linear Algebra, Development  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to develop and refine the curriculum and preparation materials for a Computational Linear Algebra course targeted at data science graduates.
+The session aimed to develop and refine the curriculum and preparation materials for a Computational Linear Algebra course targeted at [[data science]] graduates.
 
 ### Key Activities
 - **Course Planning**: Detailed the structure and objectives for the first class, focusing on environment setup, coding practices, and key linear algebra concepts using [[Python]].
-- **Preparation Memos**: Created memos outlining necessary preparations for the first lab class, including content review, environment configuration, and class structure.
+- **Preparation Memos**: Created memos outlining necessary preparations for the first lab class, including content review, environment [[configuration]], and class structure.
 - **Programming Guides**: Provided guides for splitting images for Instagram, verifying linear independence in [[Python]], and solving quadratic equations using NumPy.
 - **Technical Instructions**: Offered detailed instructions on setting up [[Python]] development environments using Anaconda, VS Code, and Google Colab.
 

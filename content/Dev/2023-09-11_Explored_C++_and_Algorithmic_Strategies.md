@@ -1,6 +1,6 @@
 ---
 title: "Explored C++ and Algorithmic Strategies"
-tags: ['C++', 'Algorithm', 'Python', 'Brute Force', 'Dynamic Programming']
+tags: ["C++", "Algorithm", "Python", "Brute Force", "Dynamic Programming"]
 created: 2023-09-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:00–16:25**  
 **🏷️ Labels**: C++, Algorithm, Python, Brute Force, Dynamic Programming  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Exploration and Implementation of Greedy Algorithms"
-tags: ['Algorithms', 'Greedy', 'Education', 'Programming', 'Efficiency']
+tags: ["Algorithms", "Greedy", "Education", "Programming", "Efficiency"]
 created: 2023-08-09
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:00–00:50**  
 **🏷️ Labels**: Algorithms, Greedy, Education, Programming, Efficiency  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

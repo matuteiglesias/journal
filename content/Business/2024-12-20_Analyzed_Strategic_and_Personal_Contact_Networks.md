@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Strategic and Personal Contact Networks"
-tags: ['Contactos', 'Networking', 'Estrategia', 'Relaciones', 'Colaboración']
+tags: ["Contactos", "Networking", "Estrategia", "Relaciones", "Colaboraci\u00f3n"]
 created: 2024-12-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:15–02:15**  
 **🏷️ Labels**: Contactos, Networking, Estrategia, Relaciones, Colaboración  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

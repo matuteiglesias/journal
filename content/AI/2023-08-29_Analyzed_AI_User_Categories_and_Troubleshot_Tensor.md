@@ -1,6 +1,6 @@
 ---
 title: "Analyzed AI User Categories and Troubleshot TensorFlow"
-tags: ['AI', 'Tensorflow', 'Checkpoint', 'File Management', 'User Categories']
+tags: ["AI", "Tensorflow", "Checkpoint", "File Management", "User Categories"]
 created: 2023-08-29
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 19:10–22:50**  
 **🏷️ Labels**: AI, Tensorflow, Checkpoint, File Management, User Categories  
 **📂 Project**: AI  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -29,4 +29,4 @@ The session aimed to analyze [[AI]] user categories based on survey responses an
 
 ### Pending Tasks
 - Further exploration of [[AI]] user categories to refine suggestions.
-- Continuous monitoring and troubleshooting of TensorFlow checkpoints as new updates are released.
+- Continuous monitoring and [[troubleshooting]] of TensorFlow checkpoints as new updates are released.

@@ -1,8 +1,8 @@
 ---
 title: "SEO"
 tags: []
-created: 2025-10-07
+created: 2025-10-30
 publish: true
 ---
 
-_Auto-generated page for keyword `[[SEO]]`._
+_Auto-generated page for keyword [[SEO]]_

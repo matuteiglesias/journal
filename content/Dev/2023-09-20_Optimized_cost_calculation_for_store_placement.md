@@ -1,6 +1,6 @@
 ---
 title: "Optimized cost calculation for store placement"
-tags: ['Python', 'Optimization', 'Cost Calculation', 'Error Handling', 'Recursive Functions']
+tags: ["Python", "Optimization", "Cost Calculation", "Error Handling", "Recursive Functions"]
 created: 2023-09-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 18:00–18:20**  
 **🏷️ Labels**: Python, Optimization, Cost Calculation, Error Handling, Recursive Functions  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

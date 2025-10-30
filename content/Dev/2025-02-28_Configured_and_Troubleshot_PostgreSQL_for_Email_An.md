@@ -1,6 +1,6 @@
 ---
 title: "Configured and Troubleshot PostgreSQL for Email Analysis"
-tags: ['Postgresql', 'Elasticsearch', 'Email Analysis', 'Troubleshooting', 'Supabase']
+tags: ["Postgresql", "Elasticsearch", "Email Analysis", "Troubleshooting", "Supabase"]
 created: 2025-02-28
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:30–20:20**  
 **🏷️ Labels**: Postgresql, Elasticsearch, Email Analysis, Troubleshooting, Supabase  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,7 +19,7 @@ The goal of this session was to configure and troubleshoot PostgreSQL for email 
 ### Key Activities
 - **Database Selection**: Evaluated various databases like PostgreSQL, Elasticsearch, SQLite, and MongoDB for querying and analyzing emails.
 - **Setup Instructions**: Set up PostgreSQL for structured storage and Elasticsearch for full-text search, including installation and data synchronization using [[Python]].
-- **[[Troubleshooting]]**: Addressed PostgreSQL authentication and service issues through detailed troubleshooting steps, including checking service status, managing users, resetting passwords, and resolving startup issues.
+- **[[Troubleshooting]]**: Addressed PostgreSQL authentication and service issues through detailed [[troubleshooting]] steps, including checking service status, managing users, resetting passwords, and resolving startup issues.
 - **Supabase [[Integration]]**: Managed PostgreSQL instances with Supabase, resolving conflicts between Supabase's and system PostgreSQL installations.
 
 ### Achievements
@@ -29,4 +29,4 @@ The goal of this session was to configure and troubleshoot PostgreSQL for email 
 
 ### Pending Tasks
 - Further testing of the PostgreSQL and Elasticsearch setup to ensure seamless data synchronization and retrieval.
-- Explore additional database optimization techniques for handling large volumes of email data efficiently.
+- Explore additional database [[optimization]] techniques for handling large volumes of email data efficiently.

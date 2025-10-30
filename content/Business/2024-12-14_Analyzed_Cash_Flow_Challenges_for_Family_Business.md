@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Cash Flow Challenges for Family Business"
-tags: ['Cash Flow', 'Financial Analysis', 'Business Management', 'Data Visualization', 'Pandas']
+tags: ["Cash Flow", "Financial Analysis", "Business Management", "Data Visualization", "Pandas"]
 created: 2024-12-14
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:05–02:35**  
 **🏷️ Labels**: Cash Flow, Financial Analysis, Business Management, Data Visualization, Pandas  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -22,8 +22,8 @@ The session aimed to analyze the cash flow challenges faced by a family business
 - Outlined a financial scale illustrating scenarios from crisis to stability, detailing implications at each level of net cash flow.
 - Analyzed the current cash flow deficit of approximately -$5,000, identifying contributing factors and suggesting strategies for improvement.
 - Suggested tables and charts for presenting liabilities, enhancing understanding of financial challenges.
-- Outlined a structured approach to aggregate ledger data in pandas for monthly financial insights and visualizations.
-- Structured liabilities data in pandas for monthly and cumulative views, using [[Python]] for visualization.
+- Outlined a structured approach to aggregate ledger data in [[pandas]] for monthly financial insights and visualizations.
+- Structured liabilities data in [[pandas]] for monthly and cumulative views, using [[Python]] for [[visualization]].
 - Planned scenario analysis for financial liabilities, contributions, and revenues.
 
 ### Achievements

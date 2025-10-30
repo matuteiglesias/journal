@@ -1,6 +1,6 @@
 ---
 title: "Configured Visual Studio Code for HTML Editing"
-tags: ['Visual Studio Code', 'HTML', 'Server Operations', 'Web Hosting']
+tags: ["Visual Studio Code", "HTML", "Server Operations", "Web Hosting"]
 created: 2023-04-14
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:15–00:35**  
 **🏷️ Labels**: Visual Studio Code, HTML, Server Operations, Web Hosting  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The session aimed to enhance HTML editing efficiency using Visual Studio Code's 
 - Utilized the Split Editor feature in Visual Studio Code to edit HTML files while simultaneously viewing the rendered output using Live Server.
 - Upgraded Visual Studio Code to access the 'Split Editor Right' feature by checking for updates and installing the latest version.
 - Set up a split editor in Visual Studio Code to preview HTML files with real-time updates.
-- Managed a remote website through server-side operations, including SSH connections, file management, and [[Jupyter]] notebook conversion.
+- Managed a remote website through server-side operations, including SSH connections, [[file management]], and [[Jupyter]] notebook conversion.
 
 ### Achievements
 - Successfully configured Visual Studio Code for efficient HTML editing and previewing.

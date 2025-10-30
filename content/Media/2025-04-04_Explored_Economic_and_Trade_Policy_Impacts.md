@@ -1,6 +1,6 @@
 ---
 title: "Explored Economic and Trade Policy Impacts"
-tags: ['IEEPA', 'Tariffs', 'Argentina', 'Trade Policy', 'Global Markets']
+tags: ["IEEPA", "Tariffs", "Argentina", "Trade Policy", "Global Markets"]
 created: 2025-04-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:00–23:20**  
 **🏷️ Labels**: IEEPA, Tariffs, Argentina, Trade Policy, Global Markets  
 **📂 Project**: Media  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

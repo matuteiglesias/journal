@@ -1,6 +1,6 @@
 ---
 title: "Conducted cost and performance analysis for AI embeddings"
-tags: ['Ai Embeddings', 'Cost Analysis', 'Gpu Performance', 'Pricing', 'Python']
+tags: ["Ai Embeddings", "Cost Analysis", "Gpu Performance", "Pricing", "Python"]
 created: 2025-08-15
 publish: true
 ---
@@ -10,14 +10,14 @@ publish: true
 **🕒 12:00–12:10**  
 **🏷️ Labels**: Ai Embeddings, Cost Analysis, Gpu Performance, Pricing, Python  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to analyze pricing and performance metrics for [[AI]] embedding models from various providers, including OpenAI, Cohere, Google Vertex [[AI]], and AWS Titan, for the year 2025.
+The session aimed to analyze pricing and performance metrics for [[AI]] embedding models from various providers, including [[OpenAI]], Cohere, Google Vertex [[AI]], and AWS Titan, for the year 2025.
 
 ### Key Activities
-1. **Pricing Queries**: Gathered search queries related to the pricing of [[AI]] embedding models from OpenAI, Cohere, Google, and AWS.
+1. **Pricing Queries**: Gathered search queries related to the pricing of [[AI]] embedding models from [[OpenAI]], Cohere, Google, and AWS.
 2. **Cost Estimation**: Developed a [[Python]] script to estimate costs for processing abstracts using different [[AI]] models based on token consumption.
 3. **Time Calculations**: Created a function to calculate processing time for abstracts at various throughput rates.
 4. **GPU Performance**: Calculated throughput for different GPU configurations and their processing capabilities.

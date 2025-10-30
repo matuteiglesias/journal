@@ -1,6 +1,6 @@
 ---
 title: "Developed Excel-based financial tracking system"
-tags: ['Contabilidad', 'Finanzas', 'Excel', 'Gastos', 'Deudas']
+tags: ["Contabilidad", "Finanzas", "Excel", "Gastos", "Deudas"]
 created: 2023-12-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 08:05–08:25**  
 **🏷️ Labels**: Contabilidad, Finanzas, Excel, Gastos, Deudas  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

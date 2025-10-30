@@ -1,6 +1,6 @@
 ---
 title: "Analyzed Feedback Discrepancies and EDA for Groups"
-tags: ['Feedback Analysis', 'EDA', 'Data Evaluation', 'Csv Export']
+tags: ["Feedback Analysis", "EDA", "Data Evaluation", "Csv Export"]
 created: 2025-07-01
 publish: true
 ---
@@ -10,10 +10,10 @@ publish: true
 **🕒 20:05–20:20**  
 **🏷️ Labels**: Feedback Analysis, EDA, Data Evaluation, Csv Export  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
 
 
-**Session Goal:** The session aimed to analyze discrepancies in feedback between two groups and conduct exploratory data analysis (EDA) for multiple groups.
+
+**Session Goal:** The session aimed to analyze discrepancies in feedback between two groups and conduct exploratory [[data analysis]] (EDA) for multiple groups.
 
 **Key Activities:**
 - Analyzed an error in feedback verification between Group 02 and Group 03, suggesting a comparison of feedbacks and corresponding reports.

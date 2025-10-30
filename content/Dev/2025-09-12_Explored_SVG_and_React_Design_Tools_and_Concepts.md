@@ -1,6 +1,6 @@
 ---
 title: "Explored SVG and React Design Tools and Concepts"
-tags: ['SVG', 'React', 'UI/UX', 'Design', 'Graphic Design', 'Automation']
+tags: ["SVG", "React", "UI/UX", "Design", "Graphic Design", "Automation"]
 created: 2025-09-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:10–01:25**  
 **🏷️ Labels**: SVG, React, UI/UX, Design, Graphic Design, Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

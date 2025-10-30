@@ -1,6 +1,6 @@
 ---
 title: "Developed Comprehensive Plant Care Guides for June"
-tags: ['Plant Care', 'Gardening', 'June Tasks', 'Diagnosis', 'Tropical Plants', 'Succulents']
+tags: ["Plant Care", "Gardening", "June Tasks", "Diagnosis", "Tropical Plants", "Succulents"]
 created: 2024-06-15
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 16:45–17:25**  
 **🏷️ Labels**: Plant Care, Gardening, June Tasks, Diagnosis, Tropical Plants, Succulents  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

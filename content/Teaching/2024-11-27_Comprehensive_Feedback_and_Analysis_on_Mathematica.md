@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Feedback and Analysis on Mathematical Exercises"
-tags: ['Feedback', 'Mathematics', 'Education', 'Analysis', 'Improvement']
+tags: ["Feedback", "Mathematics", "Education", "Analysis", "Improvement"]
 created: 2024-11-27
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 20:40–22:15**  
 **🏷️ Labels**: Feedback, Mathematics, Education, Analysis, Improvement  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -20,9 +20,9 @@ The session aimed to analyze and provide feedback on various mathematical exerci
 - Conducted a detailed review of Consigna 6, offering observations and recommendations to enhance the understanding of mathematical concepts.
 - Outlined characteristics of effective feedback in Computational Linear Algebra, emphasizing clarity and constructiveness.
 - Developed a template for feedback memos to guide students on practical work, highlighting strengths and areas for improvement.
-- Provided structured feedback on data visualization exercises, focusing on clarity and appropriate visualization techniques.
+- Provided structured feedback on [[data [[visualization]]]] exercises, focusing on clarity and appropriate [[visualization]] techniques.
 - Evaluated exercises from multiple groups, identifying strengths, weaknesses, and offering specific improvement suggestions.
-- Suggested improvements to the Monte Carlo method for eigenvalue estimation, including convergence checks and optimization strategies.
+- Suggested improvements to the Monte Carlo method for eigenvalue estimation, including convergence checks and [[optimization]] strategies.
 - Corrected matrix inverse demonstration, focusing on convergence conditions.
 
 ### Achievements:

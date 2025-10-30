@@ -1,6 +1,6 @@
 ---
 title: "Developed and Patched Data Normalization Scripts"
-tags: ['Whatsapp', 'Instagram', 'Data Normalization', 'Python', 'CSV']
+tags: ["Whatsapp", "Instagram", "Data Normalization", "Python", "CSV"]
 created: 2025-10-01
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:20–18:00**  
 **🏷️ Labels**: Whatsapp, Instagram, Data Normalization, Python, CSV  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -19,7 +19,7 @@ The goal of this session was to develop and patch data normalization scripts for
 ### Key Activities:
 - Developed a self-contained script to normalize WhatsApp exports into four canonical [[CSV]] files: threads, messages, handles, and thread participants.
 - Patched the WhatsApp normalizer script to address issues such as column collision, DtypeWarnings, and ensuring numeric parsing for timestamps.
-- Addressed a pandas merge collision issue in the WhatsApp data normalization script, providing a solution to prevent column clashes and improve data type handling.
+- Addressed a [[pandas]] merge collision issue in the WhatsApp data normalization script, providing a solution to prevent column clashes and improve data type handling.
 - Created a [[Python]] script to normalize Instagram message exports into structured [[CSV]] files, handling both directory-based [[JSON]] files and a single extracted [[JSON]] file.
 
 ### Achievements:

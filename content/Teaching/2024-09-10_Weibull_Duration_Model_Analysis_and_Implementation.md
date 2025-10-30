@@ -1,6 +1,6 @@
 ---
 title: "Weibull Duration Model Analysis and Implementation"
-tags: ['Weibull Model', 'MLE', 'Python', 'Statistical Analysis', 'Education']
+tags: ["Weibull Model", "MLE", "Python", "Statistical Analysis", "Education"]
 created: 2024-09-10
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 01:50–03:00**  
 **🏷️ Labels**: Weibull Model, MLE, Python, Statistical Analysis, Education  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -22,7 +22,7 @@ The session aimed to explore and implement a Weibull duration model for analyzin
 - Designed a challenging question for PhD-level economics students, focusing on MLE in Weibull models with unobserved heterogeneity.
 - Analyzed vulnerabilities in statistical exercises and provided solutions to enhance complexity and critical thinking.
 - Addressed issues in Weibull model fitting, including coefficient magnitude and correlation, and provided updated simulation code.
-- Discussed parameter coherence in modeling and debugging log-likelihood estimation issues.
+- Discussed parameter coherence in modeling and [[debugging]] log-likelihood estimation issues.
 - Outlined PhD-level problems and educational puzzles to enhance critical thinking and problem-solving skills.
 
 ### Achievements
@@ -31,6 +31,6 @@ The session aimed to explore and implement a Weibull duration model for analyzin
 - Identified and addressed issues in model fitting and parameter coherence, improving the robustness of the analysis.
 
 ### Pending Tasks
-- Further review and interpretation of Weibull model results, focusing on covariates such as education, sector, and gender.
+- Further review and interpretation of Weibull model results, focusing on covariates such as [[education]], sector, and gender.
 - Continue developing educational problems that introduce uncertainty and require critical thinking.
-- Explore additional debugging techniques for log-likelihood estimation.
+- Explore additional [[debugging]] techniques for log-likelihood estimation.

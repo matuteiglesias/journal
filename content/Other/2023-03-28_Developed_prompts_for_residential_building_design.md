@@ -1,6 +1,6 @@
 ---
 title: "Developed prompts for residential building design"
-tags: ['Architecture', 'Blueprints', 'Midjourney', 'Residential', 'Design']
+tags: ["Architecture", "Blueprints", "Midjourney", "Residential", "Design"]
 created: 2023-03-28
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 11:55–12:30**  
 **🏷️ Labels**: Architecture, Blueprints, Midjourney, Residential, Design  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
@@ -26,7 +26,7 @@ The session aimed to develop and refine prompts for generating professional blue
 
 **Achievements:**
 - Successfully developed a series of prompts for various residential building designs.
-- Enhanced the use of Midjourney for architectural visualization and analysis.
+- Enhanced the use of Midjourney for architectural [[visualization]] and analysis.
 
 **Pending Tasks:**
 - Further refinement of prompts to include more specific design elements and requirements.

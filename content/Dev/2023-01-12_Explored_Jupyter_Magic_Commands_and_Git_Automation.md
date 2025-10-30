@@ -1,6 +1,6 @@
 ---
 title: "Explored Jupyter Magic Commands and Git Automation"
-tags: ['Jupyter', 'Python', 'Git', 'Automation', 'Vs Code']
+tags: ["Jupyter", "Python", "Git", "Automation", "Vs Code"]
 created: 2023-01-12
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:05–14:35**  
 **🏷️ Labels**: Jupyter, Python, Git, Automation, Vs Code  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

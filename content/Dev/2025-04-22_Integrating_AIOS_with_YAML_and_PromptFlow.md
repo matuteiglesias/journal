@@ -1,6 +1,6 @@
 ---
 title: "Integrating AIOS with YAML and PromptFlow"
-tags: ['AIOS', 'YAML', 'Promptflow', 'Integration', 'Automation']
+tags: ["AIOS", "YAML", "Promptflow", "Integration", "Automation"]
 created: 2025-04-22
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 19:20–21:10**  
 **🏷️ Labels**: AIOS, YAML, Promptflow, Integration, Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to explore and implement integrations between AIOS, LlamaIndex, and PromptFlow using YAML configurations to enhance workflow automation and agent management.
+The session aimed to explore and implement integrations between AIOS, LlamaIndex, and [[PromptFlow]] using YAML configurations to enhance [[workflow]] [[automation]] and agent management.
 
 ### Key Activities
 - Discussed the abstraction of LlamaIndex workflows into YAML configurations for a declarative approach.
@@ -28,7 +28,7 @@ The session aimed to explore and implement integrations between AIOS, LlamaIndex
 - Transitioned to declarative agent expressions using YAML for [[AI]] Habitat setup.
 
 ### Achievements
-- Established a clear framework for integrating AIOS with YAML and PromptFlow.
+- Established a clear framework for integrating AIOS with YAML and [[PromptFlow]].
 - Developed a modular approach for agent runtime and management using YAML.
 - Enhanced understanding of CrewAI's execution model and its application in AIOS.
 

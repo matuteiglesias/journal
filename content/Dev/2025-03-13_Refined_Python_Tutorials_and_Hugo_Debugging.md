@@ -1,6 +1,6 @@
 ---
 title: "Refined Python Tutorials and Hugo Debugging"
-tags: ['Python', 'Tutorials', 'Hugo', 'Debugging', 'Web Development']
+tags: ["Python", "Tutorials", "Hugo", "Debugging", "Web Development"]
 created: 2025-03-13
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 00:15–01:00**  
 **🏷️ Labels**: Python, Tutorials, Hugo, Debugging, Web Development  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to refine [[Python]] tutorials for educational purposes and troubleshoot issues with the Hugo web development framework.
+The session aimed to refine [[Python]] tutorials for educational purposes and troubleshoot issues with the Hugo [[web development]] framework.
 
 ### Key Activities
 - **[[Python]] Tutorials**: Refined the alignment of [[Python]] topics with the official [[Python]] User Guide to create a structured, beginner-friendly learning path. This involved organizing key concepts and keywords into a concise format for efficient learning.

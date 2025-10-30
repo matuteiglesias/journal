@@ -1,6 +1,6 @@
 ---
 title: "Developed Flag and Logo Designs for Unity and Diversity"
-tags: ['Flag Design', 'Logo Design', 'Unity', 'Diversity', 'Graphic Design']
+tags: ["Flag Design", "Logo Design", "Unity", "Diversity", "Graphic Design"]
 created: 2024-08-08
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 20:25–20:40**  
 **🏷️ Labels**: Flag Design, Logo Design, Unity, Diversity, Graphic Design  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

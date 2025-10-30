@@ -1,6 +1,6 @@
 ---
 title: "Enhanced LaTeX Table Integration in Jupyter Notebooks"
-tags: ['Latex', 'Jupyter', 'Data Visualization', 'Tables', 'Violence Analysis']
+tags: ["Latex", "Jupyter", "Data Visualization", "Tables", "Violence Analysis"]
 created: 2023-03-09
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 18:25–18:50**  
 **🏷️ Labels**: Latex, Jupyter, Data Visualization, Tables, Violence Analysis  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
-The primary goal of this session was to enhance the integration of LaTeX tables within [[Jupyter]] Notebooks, focusing on displaying data related to violent conflicts in Africa.
+The primary goal of this session was to enhance the [[integration]] of LaTeX tables within [[Jupyter]] Notebooks, focusing on displaying data related to violent conflicts in Africa.
 
 ### Key Activities:
 - **LaTeX Table Example**: Provided a structured LaTeX code template for summarizing violent conflicts in Africa, detailing countries, time periods, fatal victims, and displaced persons.
@@ -24,7 +24,7 @@ The primary goal of this session was to enhance the integration of LaTeX tables 
 - **[[Markdown]] Table Insertion**: Provided guidance on inserting tables in [[Jupyter]] Notebook [[Markdown]] cells.
 
 ### Achievements:
-- Successfully demonstrated the integration of LaTeX tables in [[Jupyter]] Notebooks using various methods.
+- Successfully demonstrated the [[integration]] of LaTeX tables in [[Jupyter]] Notebooks using various methods.
 - Clarified the limitations of UCDP and ACLED data in violence analysis, recognizing the potential for incomplete information.
 
 ### Pending Tasks:

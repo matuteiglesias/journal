@@ -1,6 +1,6 @@
 ---
 title: "Refined Regex for Cuota and Importe Parsing"
-tags: ['Regex', 'Data Parsing', 'Cuota', 'Importe', 'Debugging']
+tags: ["Regex", "Data Parsing", "Cuota", "Importe", "Debugging"]
 created: 2024-12-22
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 22:20–22:35**  
 **🏷️ Labels**: Regex, Data Parsing, Cuota, Importe, Debugging  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,7 +25,7 @@ The session aimed to address and refine the regex parsing logic for extracting '
 - Successfully parsed financial data, extracting key fields including date, code, description, current installment, total installments, amount, and currency.
 
 ### Achievements
-- Improved the accuracy of data extraction from financial documents by refining regex patterns and resolving parsing logic issues.
+- Improved the accuracy of [[data extraction]] from financial documents by refining regex patterns and resolving parsing logic issues.
 - Enhanced the function's robustness by addressing variable initialization and directory path errors.
 
 ### Pending Tasks

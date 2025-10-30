@@ -1,6 +1,6 @@
 ---
 title: "Refined Research Paper Introduction and Literature Review"
-tags: ['Research', 'Literature Review', 'Economic Volatility', 'Academic Writing', 'Journal Selection']
+tags: ["Research", "Literature Review", "Economic Volatility", "Academic Writing", "Journal Selection"]
 created: 2023-05-30
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 09:50–10:45**  
 **🏷️ Labels**: Research, Literature Review, Economic Volatility, Academic Writing, Journal Selection  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

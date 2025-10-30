@@ -1,6 +1,6 @@
 ---
 title: "Developed Modular Data Retrieval Scripts with FAISS"
-tags: ['FAISS', 'Hugging Face', 'Rag Model', 'Summarization', 'Retrieval']
+tags: ["FAISS", "Hugging Face", "Rag Model", "Summarization", "Retrieval"]
 created: 2025-02-18
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 14:20–16:10**  
 **🏷️ Labels**: FAISS, Hugging Face, Rag Model, Summarization, Retrieval  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -24,11 +24,11 @@ The session aimed to explore and implement advanced summarization and retrieval 
 - Addressed handling large text collections with FAISS and DPR, emphasizing scalability and memory requirements.
 - Created a Hugging Face Dataset with FAISS indexing, including embedding computation and dataset saving.
 - Corrected FAISS index argument usage and resolved saving errors in Hugging Face datasets.
-- Developed a modular script structure for data processing and retrieval, focusing on preprocessing, embedding, loading, and querying.
+- Developed a modular script structure for [[data processing]] and retrieval, focusing on preprocessing, embedding, loading, and querying.
 - Enhanced retrieval accuracy in FAISS by refining embedding models and normalizing data.
 
 ### Achievements
-- Successfully implemented a modular approach for data processing scripts using Hugging Face and FAISS.
+- Successfully implemented a modular approach for [[data processing]] scripts using Hugging Face and FAISS.
 - Corrected and optimized FAISS index handling and dataset saving processes.
 
 ### Pending Tasks

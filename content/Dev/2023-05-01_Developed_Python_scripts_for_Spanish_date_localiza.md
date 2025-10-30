@@ -1,6 +1,6 @@
 ---
 title: "Developed Python scripts for Spanish date localization"
-tags: ['Python', 'Localization', 'Date Formatting', 'Spanish', 'Datetime']
+tags: ["Python", "Localization", "Date Formatting", "Spanish", "Datetime"]
 created: 2023-05-01
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 05:00–06:45**  
 **🏷️ Labels**: Python, Localization, Date Formatting, Spanish, Datetime  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

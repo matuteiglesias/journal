@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Evaluation of Code and Reproducibility"
-tags: ['Evaluación', 'Código', 'Reproducibilidad', 'Grupos', 'CSV']
+tags: ["Evaluaci\u00f3n", "C\u00f3digo", "Reproducibilidad", "Grupos", "CSV"]
 created: 2025-07-02
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:50–20:10**  
 **🏷️ Labels**: Evaluación, Código, Reproducibilidad, Grupos, CSV  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,8 +20,8 @@ The primary goal of this session was to evaluate the code quality, presentation,
 - **Evaluated Groups 1 to 4:** Assessed the organization, explanation, reproducibility, and completeness of the code using a [[CSV]] format for scoring.
 - **Evaluated Groups 5 to 8:** Continued the evaluation process, providing scores and comments on code quality and reproducibility.
 - **Final Evaluation Process:** Outlined steps for evaluating the last 10 groups, including re-uploading of code and README files for groups 9 to 13.
-- **Evaluated Groups 9 to 13:** Conducted a detailed evaluation in [[CSV]] format, focusing on code quality and documentation.
-- **Evaluated Groups 14 to 18:** Completed the final evaluation for these groups, providing scores and comments on the code and documentation quality.
+- **Evaluated Groups 9 to 13:** Conducted a detailed evaluation in [[CSV]] format, focusing on code quality and [[documentation]].
+- **Evaluated Groups 14 to 18:** Completed the final evaluation for these groups, providing scores and comments on the code and [[documentation]] quality.
 
 ### Achievements
 - Successfully completed the evaluation of all student groups, providing detailed feedback on their projects.

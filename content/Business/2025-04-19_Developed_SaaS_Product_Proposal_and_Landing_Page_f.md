@@ -1,6 +1,6 @@
 ---
 title: "Developed SaaS Product Proposal and Landing Page for FlowPower"
-tags: ['Saas', 'AI', 'Product Development', 'Landing Page', 'Strategy']
+tags: ["Saas", "AI", "Product Development", "Landing Page", "Strategy"]
 created: 2025-04-19
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 03:30–03:50**  
 **🏷️ Labels**: Saas, AI, Product Development, Landing Page, Strategy  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -29,5 +29,5 @@ The session aimed to develop and refine a SaaS product proposal and its correspo
 
 ### Pending Tasks
 - Further refine the FlowPower Cloud proposal based on market feedback.
-- Develop a detailed marketing strategy for the landing page.
+- Develop a detailed marketing [[strategy]] for the landing page.
 - Address infrastructure ownership challenges in [[AI]] projects.

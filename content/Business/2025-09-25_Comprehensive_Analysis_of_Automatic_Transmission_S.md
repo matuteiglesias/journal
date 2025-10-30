@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Analysis of Automatic Transmission Service"
-tags: ['Mecánica', 'Diagnóstico', 'Transmisión', 'Costos', 'Servicio']
+tags: ["Mec\u00e1nica", "Diagn\u00f3stico", "Transmisi\u00f3n", "Costos", "Servicio"]
 created: 2025-09-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:15–17:50**  
 **🏷️ Labels**: Mecánica, Diagnóstico, Transmisión, Costos, Servicio  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

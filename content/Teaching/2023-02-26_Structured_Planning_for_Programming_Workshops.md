@@ -1,6 +1,6 @@
 ---
 title: "Structured Planning for Programming Workshops"
-tags: ['Workshops', 'Programming', 'Community', 'Methodology', 'Peer Review']
+tags: ["Workshops", "Programming", "Community", "Methodology", "Peer Review"]
 created: 2023-02-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:40–01:20**  
 **🏷️ Labels**: Workshops, Programming, Community, Methodology, Peer Review  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

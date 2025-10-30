@@ -1,6 +1,6 @@
 ---
 title: "Explored WhatsApp Stickers and LGBT Group Strategies"
-tags: ['Whatsapp', 'Stickers', 'LGBT', 'Community', 'Social Media']
+tags: ["Whatsapp", "Stickers", "LGBT", "Community", "Social Media"]
 created: 2023-03-11
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 15:00–15:10**  
 **🏷️ Labels**: Whatsapp, Stickers, LGBT, Community, Social Media  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

@@ -1,6 +1,6 @@
 ---
 title: "Drafted and Assessed Cover Letters for Multiple Roles"
-tags: ['Cover Letter', 'Job Assessment', 'AI', 'Data Science', 'Career Development']
+tags: ["Cover Letter", "Job Assessment", "AI", "Data Science", "Career Development"]
 created: 2025-07-21
 publish: false
 ---
@@ -10,11 +10,11 @@ publish: false
 **🕒 21:05–21:45**  
 **🏷️ Labels**: Cover Letter, Job Assessment, AI, Data Science, Career Development  
 **📂 Project**: JobMarket  
-**⭐ Priority**: MEDIUM  
+
 
 
 **Session Goal:**
-The session aimed to refine and create tailored cover letters for various technical roles, including positions in data and [[AI]], LLM engineering, backend development, and machine learning. Additionally, the session sought to assess Matías Iglesias' fit for senior roles at Trafilea.
+The session aimed to refine and create tailored cover letters for various technical roles, including positions in data and [[AI]], LLM engineering, backend development, and [[machine learning]]. Additionally, the session sought to assess Matías Iglesias' fit for senior roles at Trafilea.
 
 **Key Activities:**
 - Refined a cover letter for a Data & [[AI]] Specialist role at EY, emphasizing technical experience and leadership.
@@ -28,5 +28,5 @@ The session aimed to refine and create tailored cover letters for various techni
 - Provided detailed assessments of Matías Iglesias' qualifications for senior engineering roles, identifying strengths and areas for further exploration.
 
 **Pending Tasks:**
-- Further exploration and application to the identified job positions in [[AI]] and data science.
+- Further exploration and application to the identified job positions in [[AI]] and [[data science]].
 - Addressing open questions and strategic considerations for the roles assessed at Trafilea.

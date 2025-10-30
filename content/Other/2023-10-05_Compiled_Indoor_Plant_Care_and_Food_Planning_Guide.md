@@ -1,6 +1,6 @@
 ---
 title: "Compiled Indoor Plant Care and Food Planning Guides"
-tags: ['Gardening', 'Food Planning', 'DIY', 'Skincare', 'Checklists']
+tags: ["Gardening", "Food Planning", "DIY", "Skincare", "Checklists"]
 created: 2023-10-05
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 04:30–08:10**  
 **🏷️ Labels**: Gardening, Food Planning, DIY, Skincare, Checklists  
 **📂 Project**: Other  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

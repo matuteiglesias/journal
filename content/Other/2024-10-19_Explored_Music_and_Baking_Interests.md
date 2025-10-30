@@ -1,6 +1,6 @@
 ---
 title: "Explored Music and Baking Interests"
-tags: ['Music', 'Baking', 'Playlist', 'Recipe', 'Learning']
+tags: ["Music", "Baking", "Playlist", "Recipe", "Learning"]
 created: 2024-10-19
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 02:10–02:50**  
 **🏷️ Labels**: Music, Baking, Playlist, Recipe, Learning  
 **📂 Project**: Other  
-**⭐ Priority**: LOW  
+
 
 
 ### Session Goal

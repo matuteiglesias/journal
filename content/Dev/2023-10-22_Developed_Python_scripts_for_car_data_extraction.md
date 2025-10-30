@@ -1,6 +1,6 @@
 ---
 title: "Developed Python scripts for car data extraction"
-tags: ['Python', 'Web Scraping', 'Beautifulsoup', 'HTML', 'Data Extraction']
+tags: ["Python", "Web Scraping", "Beautifulsoup", "HTML", "Data Extraction"]
 created: 2023-10-22
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 00:30–00:45**  
 **🏷️ Labels**: Python, Web Scraping, Beautifulsoup, HTML, Data Extraction  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The primary aim of this session was to develop a [[Python]]-based workflow for extracting car information from HTML content using web scraping techniques.
+The primary aim of this session was to develop a [[Python]]-based [[workflow]] for extracting car information from HTML content using [[web scraping]] techniques.
 
 ### Key Activities
 - **Extracted Car Information**: Identified key elements such as title, description, specifications, image, and price from a car listing's HTML source code.
@@ -24,7 +24,7 @@ The primary aim of this session was to develop a [[Python]]-based workflow for e
 - **Code Correction and Enhancement**: Corrected and enhanced a BeautifulSoup function to improve the visibility of HTML tag structures, including tag names, associated classes, and direct text content.
 
 ### Achievements
-- Successfully developed and refined [[Python]] scripts for web scraping car information.
+- Successfully developed and refined [[Python]] scripts for [[web scraping]] car information.
 - Improved understanding and handling of HTML content and structure using BeautifulSoup.
 
 ### Pending Tasks

@@ -1,6 +1,6 @@
 ---
 title: "Designed Human+AI Decision System and Job Application DAG"
-tags: ['AI', 'Decision Making', 'Automation', 'DAG', 'Workflow']
+tags: ["AI", "Decision Making", "Automation", "DAG", "Workflow"]
 created: 2025-04-30
 publish: true
 ---
@@ -10,11 +10,11 @@ publish: true
 **🕒 01:25–01:50**  
 **🏷️ Labels**: AI, Decision Making, Automation, DAG, Workflow  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
-The session aimed to design a cooperative human+[[AI]] decision system and outline a structured workflow for job application management using Directed Acyclic Graphs (DAGs).
+The session aimed to design a cooperative human+[[AI]] decision system and outline a structured [[workflow]] for job application management using Directed Acyclic Graphs (DAGs).
 
 ### Key Activities
 - Developed a 3-stage pipeline for a human+[[AI]] decision system focusing on job intake, matching, and proposal drafting.
@@ -25,9 +25,9 @@ The session aimed to design a cooperative human+[[AI]] decision system and outli
 
 ### Achievements
 - Successfully designed a modular and human-involved decision system.
-- Created a comprehensive workflow for job application management using DAGs.
+- Created a comprehensive [[workflow]] for job application management using DAGs.
 - Clarified the execution process for flow management tools and improved YAML definitions.
 
 ### Pending Tasks
-- Implement the designed decision system and DAG workflow in a real-world scenario.
+- Implement the designed decision system and DAG [[workflow]] in a real-world scenario.
 - Test the output mapping and execution steps in a live environment to ensure effectiveness.

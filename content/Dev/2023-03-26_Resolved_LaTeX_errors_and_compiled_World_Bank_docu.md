@@ -1,6 +1,6 @@
 ---
 title: "Resolved LaTeX errors and compiled World Bank documents"
-tags: ['Latex', 'World Bank', 'Pdf Compilation', 'Error Resolution', 'Project Management']
+tags: ["Latex", "World Bank", "Pdf Compilation", "Error Resolution", "Project Management"]
 created: 2023-03-26
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:05–21:25**  
 **🏷️ Labels**: Latex, World Bank, Pdf Compilation, Error Resolution, Project Management  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

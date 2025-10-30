@@ -1,6 +1,6 @@
 ---
 title: "Strategic IT and Security Frameworks for Public Sector"
-tags: ['It Administration', 'ISO/IEC 27001', 'Law Enforcement', 'Public Sector', 'Technology']
+tags: ["It Administration", "ISO/IEC 27001", "Law Enforcement", "Public Sector", "Technology"]
 created: 2024-02-04
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 19:00–20:45**  
 **🏷️ Labels**: It Administration, ISO/IEC 27001, Law Enforcement, Public Sector, Technology  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

@@ -1,6 +1,6 @@
 ---
 title: "Processed and Organized Financial CSV Data"
-tags: ['CSV', 'Financial Data', 'Excel', 'Data Processing', 'Accounting']
+tags: ["CSV", "Financial Data", "Excel", "Data Processing", "Accounting"]
 created: 2025-06-25
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:30–17:35**  
 **🏷️ Labels**: CSV, Financial Data, Excel, Data Processing, Accounting  
 **📂 Project**: Accounting  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -20,7 +20,7 @@ The session aimed to process and organize financial data across multiple years i
 - Exported financial records for debts and payments into [[CSV]] format, with an inquiry about exporting to Excel.
 - Provided [[CSV]] data for new datasets, including original debts, payments, and interest charges, ready for import.
 - Delivered [[CSV]] files for financial periods in 2023, 2022, 2021, and 2020, detailing debts, interests, and transactions.
-- Posed questions regarding further data processing for 2021 and potential consolidation into Excel.
+- Posed questions regarding further [[data processing]] for 2021 and potential consolidation into Excel.
 
 ### Achievements
 - Successfully exported financial data into [[CSV]] formats for multiple years (2020-2023).

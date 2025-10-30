@@ -1,6 +1,6 @@
 ---
 title: "Explored REDATAM File Structures and Decoding Techniques"
-tags: ['REDATAM', 'Binary Files', 'Decoding', 'Reverse Engineering', 'Data Extraction']
+tags: ["REDATAM", "Binary Files", "Decoding", "Reverse Engineering", "Data Extraction"]
 created: 2025-05-15
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 05:40–06:30**  
 **🏷️ Labels**: REDATAM, Binary Files, Decoding, Reverse Engineering, Data Extraction  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

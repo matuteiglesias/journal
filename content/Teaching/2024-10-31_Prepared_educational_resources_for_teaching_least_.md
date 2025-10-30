@@ -1,6 +1,6 @@
 ---
 title: "Prepared educational resources for teaching least squares method"
-tags: ['Least Squares Method', 'Linear Algebra', 'SVD', 'Pseudoinverse', 'Education']
+tags: ["Least Squares Method", "Linear Algebra", "SVD", "Pseudoinverse", "Education"]
 created: 2024-10-31
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 15:20–15:30**  
 **🏷️ Labels**: Least Squares Method, Linear Algebra, SVD, Pseudoinverse, Education  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

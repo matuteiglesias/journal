@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Maintenance and Repair Guidance for Peugeot 207"
-tags: ['Peugeot 207', 'Maintenance', 'Repair', 'Insurance', 'Argentina']
+tags: ["Peugeot 207", "Maintenance", "Repair", "Insurance", "Argentina"]
 created: 2024-09-20
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 16:40–19:45**  
 **🏷️ Labels**: Peugeot 207, Maintenance, Repair, Insurance, Argentina  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:

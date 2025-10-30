@@ -1,6 +1,6 @@
 ---
 title: "Troubleshooting and Fixing ChromaDB Embedding Issues"
-tags: ['Chromadb', 'Debugging', 'Embedding', 'Troubleshooting']
+tags: ["Chromadb", "Debugging", "Embedding", "Troubleshooting"]
 created: 2025-05-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:00–00:35**  
 **🏷️ Labels**: Chromadb, Debugging, Embedding, Troubleshooting  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -25,7 +25,7 @@ The session aimed to troubleshoot and resolve issues related to ChromaDB, specif
 
 ### Achievements
 - Identified and outlined multiple potential causes and solutions for empty Chroma query results and database issues.
-- Developed a comprehensive troubleshooting and recovery guide for ChromaDB embedding issues.
+- Developed a comprehensive [[troubleshooting]] and recovery guide for ChromaDB embedding issues.
 
 ### Pending Tasks
 - Implement the outlined recovery steps to ensure all documents and embeddings are correctly stored and retrievable in ChromaDB.

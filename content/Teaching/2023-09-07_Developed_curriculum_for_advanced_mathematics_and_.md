@@ -1,6 +1,6 @@
 ---
 title: "Developed curriculum for advanced mathematics and graph theory"
-tags: ['Mathematics', 'Graph Theory', 'Education', 'Curriculum', 'Python']
+tags: ["Mathematics", "Graph Theory", "Education", "Curriculum", "Python"]
 created: 2023-09-07
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 21:30–22:20**  
 **🏷️ Labels**: Mathematics, Graph Theory, Education, Curriculum, Python  
 **📂 Project**: Teaching  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal
@@ -19,7 +19,7 @@ The session aimed to develop comprehensive curricula for advanced mathematics co
 ### Key Activities
 - Described an advanced mathematics course emphasizing analytical and calculus skills.
 - Discussed coding standards for mathematical rigor and complexity.
-- Associated practical exercises with advanced math classes, covering differentiation, integration, and differential equations.
+- Associated practical exercises with advanced math classes, covering differentiation, [[integration]], and differential equations.
 - Organized and associated exercises for graph theory classes, ensuring coverage of BFS, DFS, Dijkstra, and Ford-Fulkerson algorithms.
 - Developed exercises for graph modeling with AGM, focusing on different graph theory aspects.
 - Corrected information processing errors and acknowledged mistakes in exercise lists.

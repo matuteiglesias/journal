@@ -1,6 +1,6 @@
 ---
 title: "Explored Culinary Techniques for Champignon Pasta"
-tags: ['Cooking', 'Recipe', 'Pasta', 'Champignon', 'Sauce']
+tags: ["Cooking", "Recipe", "Pasta", "Champignon", "Sauce"]
 created: 2024-11-04
 publish: false
 ---
@@ -10,7 +10,7 @@ publish: false
 **🕒 00:00–01:10**  
 **🏷️ Labels**: Cooking, Recipe, Pasta, Champignon, Sauce  
 **📂 Project**: Health  
-**⭐ Priority**: LOW  
+
 
 
 **Session Goal:**

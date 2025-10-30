@@ -1,6 +1,6 @@
 ---
 title: "Formation and Planning of Data Policy Subcommittee"
-tags: ['Data Policy', 'Subcommittee', 'Collaboration', 'Timeline', 'Roles', 'Methodology']
+tags: ["Data Policy", "Subcommittee", "Collaboration", "Timeline", "Roles", "Methodology"]
 created: 2023-05-29
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 17:15–17:50**  
 **🏷️ Labels**: Data Policy, Subcommittee, Collaboration, Timeline, Roles, Methodology  
 **📂 Project**: Business  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal

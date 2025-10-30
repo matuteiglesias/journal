@@ -1,6 +1,6 @@
 ---
 title: "Enhanced JSONL Data Pipeline and Obsidian Export"
-tags: ['JSONL', 'Obsidian', 'Data Pipeline', 'Python', 'Automation']
+tags: ["JSONL", "Obsidian", "Data Pipeline", "Python", "Automation"]
 created: 2025-05-11
 publish: true
 ---
@@ -10,7 +10,7 @@ publish: true
 **🕒 00:40–01:20**  
 **🏷️ Labels**: JSONL, Obsidian, Data Pipeline, Python, Automation  
 **📂 Project**: Dev  
-**⭐ Priority**: MEDIUM  
+
 
 
 ### Session Goal:
@@ -20,7 +20,7 @@ The session aimed to enhance the JSONL data pipeline and improve the export proc
 - **RAG App Sprint Recap**: Reviewed the progress and identified a deferred issue for future resolution.
 - **Checklist Update**: Updated ongoing tasks checklist for the RAG app development.
 - **File Path Verification**: Identified a missing JSONL file and outlined potential checks for metadata issues.
-- **[[Error Handling]]**: Suggested solutions for JSONL file issues in the markdown export pipeline.
+- **[[Error Handling]]**: Suggested solutions for JSONL file issues in the [[markdown]] export pipeline.
 - **Data Process Pipeline Plan**: Outlined a plan to convert `.jsonl` logs into a structured Obsidian vault.
 - **Normalization of JSONL Logs**: Implemented [[Python]] functions for loading and normalizing `.jsonl` chat logs.
 - **Obsidian Export Pipeline**: Detailed the process for exporting notes to [[Markdown]] files for Obsidian.

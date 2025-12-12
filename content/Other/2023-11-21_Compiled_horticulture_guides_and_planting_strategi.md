@@ -19,10 +19,10 @@ The session aimed to compile and reflect on various horticultural techniques and
 **Key Activities:**
 1. Explored techniques for propagating indoor plants in water, providing species-specific instructions and general care tips.
 2. Proposed a watering schedule calendar, categorizing plants by watering frequency and botanical families.
-3. Reviewed a table listing common names and botanical families of seeds, with regional variations noted for Argentina.
+3. Reviewed a table listing common names and botanical families of seeds, with regional variations noted for [[Argentina]].
 4. Analyzed the benefits and limitations of introducing new plant species to a garden, considering biodiversity and maintenance challenges.
-5. Provided planting guides for November in Argentina, detailing suitable plants for the summer season and care instructions.
-6. Offered a comprehensive guide on seed planting conditions and post-germination care in Argentina.
+5. Provided planting guides for November in [[Argentina]], detailing suitable plants for the summer season and care instructions.
+6. Offered a comprehensive guide on seed planting conditions and post-germination care in [[Argentina]].
 
 **Achievements:**
 - Compiled a comprehensive set of guides and templates for plant care and propagation.

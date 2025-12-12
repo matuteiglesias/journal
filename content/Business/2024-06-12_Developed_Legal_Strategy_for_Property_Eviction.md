@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal:
-The session aimed to develop a comprehensive legal [[strategy]] for evicting an illegal occupant from a family property in Buenos Aires, Argentina.
+The session aimed to develop a comprehensive legal [[strategy]] for evicting an illegal occupant from a family property in Buenos Aires, [[Argentina]].
 
 ### Key Activities:
 - **Problem Identification:** Discussed the ongoing legal issue with an illegal occupant who has been in the property for 8 years.

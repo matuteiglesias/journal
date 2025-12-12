@@ -23,7 +23,7 @@ The session aimed to consolidate recent activities and insights related to [[dat
 - Enhanced assistant capabilities to track current date and time, improving task planning.
 - Reflected on the assistant's ability to track conversation flow, maintaining context effectively.
 - Shared [[productivity]] tips emphasizing the importance of breaks and gradual task resumption.
-- Summarized recent projects and activities, focusing on [[data analysis]] in Argentina, covering geographic analysis, linear algebra, and more.
+- Summarized recent projects and activities, focusing on [[data analysis]] in [[Argentina]], covering geographic analysis, linear algebra, and more.
 - Conducted [[data analysis]] and scraping for elections, with plans to establish additional systems.
 - Organized structured time slots for recent activities, highlighting focus areas like poverty index development and election work.
 

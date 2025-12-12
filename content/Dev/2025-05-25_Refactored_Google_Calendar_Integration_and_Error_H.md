@@ -18,7 +18,7 @@ The goal of this session was to enhance the [[integration]] of structured sessio
 
 ### Key Activities
 - Explored AutoMQ's relevance to current projects, focusing on cloud-native messaging systems.
-- Addressed [[Jupyter]] Notebook errors and [[pandas]] [[CSV]] export issues.
+- Addressed Jupyter Notebook errors and [[pandas]] [[CSV]] export issues.
 - Refactored enum lists and [[JSON]] schemas for clarity and scalability.
 - Developed a [[Python]] script for batch uploading events to Google Calendar, including [[error handling]] and deduplication strategies.
 - Improved [[Markdown]] formatting for Google Calendar descriptions.

@@ -27,7 +27,7 @@ The session aimed to enhance the Flowpower and [[PromptFlow]] systems, focusing 
 
 ### Achievements
 - Enhanced system diagnostics and [[CLI]] usability in Flowpower.
-- Redesigned Flowpower executor with FastAPI [[integration]] for improved [[error handling]] and async execution.
+- Redesigned Flowpower executor with [[FastAPI]] [[integration]] for improved [[error handling]] and async execution.
 
 ### Pending Tasks
 - Implement reclustering plan for Cluster -1 to preserve foundational insights.

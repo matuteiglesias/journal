@@ -27,7 +27,7 @@ The session aimed to diagnose and resolve persistent issues related to Avahi ser
 
 **Achievements:**
 - Successfully resolved Avahi service discovery and GStreamer errors, improving the functionality of gnome-network-displays and media streaming applications.
-- Enhanced understanding of network configurations and [[troubleshooting]] techniques for [[Linux]]-based systems.
+- Enhanced understanding of network configurations and [[troubleshooting]] techniques for Linux-based systems.
 
 **Pending Tasks:**
 - Continuous monitoring of Avahi-daemon and GStreamer performance to ensure stability.

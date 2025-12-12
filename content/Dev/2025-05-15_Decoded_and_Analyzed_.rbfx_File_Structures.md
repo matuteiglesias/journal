@@ -21,7 +21,7 @@ The primary objective of this session was to decode and analyze the structure of
 - **Decoding 10-bit Integers**: Developed a [[Python]] script to decode the first 561 values from a .rbfx file, detailing the extraction process and optional [[CSV]] saving.
 - **Histogram Analysis**: Analyzed a histogram of decoded 10-bit values, interpreting them as categorical variables and planning further decoding steps.
 - **Encoded Data Block Analysis**: Explored hypotheses regarding encoded data blocks, suggesting a bit-packed compound field hypothesis for further testing.
-- **Redatam Development Insight**: Reflected on the development and application of Redatam in Argentina's 2022 census, noting collaborations and tools.
+- **Redatam Development Insight**: Reflected on the development and application of Redatam in [[Argentina]]'s 2022 census, noting collaborations and tools.
 - **Open Source Tools for Redatam**: Discussed open-source projects facilitating interaction with Redatam databases, including Open Redatam and redatamx4r.
 - **Redatam [[API]] Analysis**: Analyzed an open-source C++ interface layer for Redatam, exploring its functionality and limitations.
 - **Redatam Query Limitations**: Examined the constraints of the Redatam query interface, focusing on aggregated data access and potential methods for individual-level data retrieval.

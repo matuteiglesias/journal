@@ -17,7 +17,7 @@ publish: true
 The session aimed to conceptualize and formalize the [[PromptFlow]] protocol, a minimal interface for [[AI]] workflows that utilizes YAML for [[workflow]] declaration and [[JSON]] for execution traces.
 
 ### Key Activities
-- Explored backend orchestration using FastAPI to serve as a bridge between the frontend and [[AI]] engine.
+- Explored backend orchestration using [[FastAPI]] to serve as a bridge between the frontend and [[AI]] engine.
 - Connected YAML configurations to LLM runs for improved traceability and [[debugging]].
 - Developed a lightweight [[AI]] product architecture emphasizing modularity and development-friendliness.
 - Articulated a new primitive for [[AI]] workflows using YAML and [[JSON]] to standardize [[AI]] logic.

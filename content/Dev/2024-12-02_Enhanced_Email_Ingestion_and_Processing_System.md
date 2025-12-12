@@ -23,7 +23,7 @@ The goal of this session was to enhance the email ingestion and processing syste
 - Analyzed MongoDB startup warnings and implemented recommendations for filesystem and security configurations.
 - Verified the email ingestion scheduler's functionality, ensuring emails are saved to MongoDB correctly.
 - Implemented deduplication logic in `email_ingestor.py` to prevent duplicate email entries in the database.
-- Developed a Processing Layer using [[Jupyter]] Notebooks with agents for classification, enrichment, and [[workflow]] management.
+- Developed a Processing Layer using Jupyter Notebooks with agents for classification, enrichment, and [[workflow]] management.
 - Refactored `classifier.py` to utilize [[OpenAI]]'s [[Python]] SDK, improving email classification with enhanced logging and modular design.
 
 ### Achievements

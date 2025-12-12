@@ -17,7 +17,7 @@ publish: true
 The objective of this session was to develop and refine [[Python]] scripts for processing and auditing column headers in text files, focusing on intersection and difference calculations, and handling corrupted or non-standard headers.
 
 ### Key Activities
-- Implemented a [[Jupyter]] notebook cell to process text files, extract headers, and generate [[JSON]] and [[Markdown]] outputs summarizing column intersections and differences.
+- Implemented a Jupyter notebook cell to process text files, extract headers, and generate [[JSON]] and [[Markdown]] outputs summarizing column intersections and differences.
 - Developed [[Python]] scripts to audit column headers, compute intersections, and identify outliers.
 - Addressed non-ASCII control characters in headers, ensuring proper alignment across files.
 - Created a byte-level tolerant parser to clean corrupted control characters from headers.

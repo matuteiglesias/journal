@@ -18,7 +18,7 @@ The session aimed to implement a Bring Your Own Key (BYOK) [[strategy]] for inte
 
 ### Key Activities
 - Developed a plan for BYOK implementation, ensuring secure handling of [[API]] keys by users.
-- Addressed keyring issues in [[Linux]] for [[PromptFlow]], recommending the use of environment variables.
+- Addressed keyring issues in Linux for [[PromptFlow]], recommending the use of environment variables.
 - Demonstrated detecting recent runs in [[PromptFlow]] using [[Python]].
 - Troubleshot [[PromptFlow]] runs issues, verifying directory structures and script variables.
 - Created and automated BYOK connections in [[PromptFlow]], including handling secrets and naming conventions.

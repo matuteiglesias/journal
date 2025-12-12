@@ -27,7 +27,7 @@ The goal of this session was to migrate a website from an old domain to a new on
 - Checked the directory for website accessibility issues and ensured necessary files were present.
 - Created a placeholder file to test website functionality and confirmed it was uploaded correctly.
 - Provided a basic HTML 'Hello, World!' example for testing purposes.
-- Discussed the use of `xdg-open` and alternatives for [[file management]] on [[Linux]].
+- Discussed the use of `xdg-open` and alternatives for [[file management]] on Linux.
 - Installed xdg-utils and nautilus to enhance file navigation capabilities.
 - Used the `mv` command to organize files within the new directory.
 

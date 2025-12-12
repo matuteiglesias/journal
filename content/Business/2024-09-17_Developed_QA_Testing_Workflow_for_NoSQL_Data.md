@@ -19,7 +19,7 @@ The session aimed to develop and refine a quality assurance (QA) testing [[workf
 ### Key Activities
 - Prepared a memo for the lead developer and project manager to finalize key points and assign QA tasks based on 50 parsed results.
 - Summarized progress on schema parsing and [[data processing]], outlining challenges and next steps for QA tasks involving [[AI]] agents.
-- Outlined the structure for a [[Jupyter]] notebook to perform QA testing on extracted NoSQL data, focusing on field validation and discrepancy identification.
+- Outlined the structure for a Jupyter notebook to perform QA testing on extracted NoSQL data, focusing on field validation and discrepancy identification.
 - Developed a [[Python]] [[workflow]] for QA testing of NoSQL data, emphasizing loading existing data and processing new resolutions.
 - Created a [[Python]] function to compare parsed data fields with original text, specifically checking references and licitations.
 - Provided a dynamic [[Python]] function for comprehensive QA comparison, handling lists, dictionaries, and simple values.

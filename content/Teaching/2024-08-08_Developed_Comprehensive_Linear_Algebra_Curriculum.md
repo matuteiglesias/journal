@@ -17,7 +17,7 @@ publish: true
 The session aimed to develop a comprehensive curriculum for a computational linear algebra course, focusing on repository structure, pedagogical strategies, and practical implementations in [[Python]].
 
 ### Key Activities
-- Created a detailed guide for structuring a [[Jupyter]] notebook repository, including folder architecture and README [[configuration]].
+- Created a detailed guide for structuring a Jupyter notebook repository, including folder architecture and README [[configuration]].
 - Outlined a notebook plan on norms in vector spaces, covering definitions, properties, and exercises.
 - Conducted a pedagogical analysis of current linear algebra teaching strategies, identifying areas for improvement and [[integration]] of real-world applications.
 - Defined learning objectives for norms in vector spaces, emphasizing [[Python]] implementations.

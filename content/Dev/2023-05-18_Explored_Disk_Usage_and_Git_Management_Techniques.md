@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to explore effective methods for managing disk usage and version control using command-line tools in [[Linux]].
+The session aimed to explore effective methods for managing disk usage and version control using command-line tools in Linux.
 
 ### Key Activities
 - **Sorting Search Results in Nautilus**: Discussed limitations and workarounds for sorting search results in Ubuntu's Nautilus file explorer.
@@ -29,4 +29,4 @@ The session aimed to explore effective methods for managing disk usage and versi
 
 ### Pending Tasks
 - Further exploration of advanced [[Git]] techniques for repository management.
-- Investigate additional command-line tools for optimizing [[file management]] in [[Linux]].
+- Investigate additional command-line tools for optimizing [[file management]] in Linux.

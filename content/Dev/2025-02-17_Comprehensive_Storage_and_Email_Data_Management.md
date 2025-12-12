@@ -22,7 +22,7 @@ The session aimed to enhance storage management techniques and explore email [[d
 - **Email [[Data Management]]**: Investigated methods for exploring and processing large MBOX files, including metadata extraction and handling encoding issues.
 
 ### Achievements
-- Developed a comprehensive understanding of [[Linux]] storage commands and NVMe technology.
+- Developed a comprehensive understanding of Linux storage commands and NVMe technology.
 - Successfully installed and utilized `smartmontools` for SSD health checks.
 - Established effective workflows for MBOX file exploration and email metadata extraction.
 

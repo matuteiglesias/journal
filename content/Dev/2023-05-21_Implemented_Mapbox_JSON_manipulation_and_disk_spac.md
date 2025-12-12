@@ -26,7 +26,7 @@ The session aimed to explore and implement techniques for manipulating Mapbox st
 
 ### Achievements
 - Successfully explored and documented methods for programmatically manipulating Mapbox style [[JSON]] files.
-- Developed a systematic approach for [[troubleshooting]] disk space issues on [[Linux]] systems.
+- Developed a systematic approach for [[troubleshooting]] disk space issues on Linux systems.
 
 ### Pending Tasks
 - Further exploration of advanced [[JSON]] manipulation techniques using external configurations and rule-based transformations.

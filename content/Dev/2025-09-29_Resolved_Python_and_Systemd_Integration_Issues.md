@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal:
-The session aimed to address several [[integration]] and [[deployment]] issues related to a Telegram bot using [[Python]] and systemd on a [[Linux]] environment.
+The session aimed to address several [[integration]] and [[deployment]] issues related to a Telegram bot using [[Python]] and systemd on a Linux environment.
 
 ### Key Activities:
 - **Telegram Bot Update Handling:** Implemented [[error handling]] using `update.effective_message` to manage user interactions without errors.

@@ -18,7 +18,7 @@ The session aimed to process GEO data files and configure Visual Studio Code set
 
 ### Key Activities
 - **GEO [[Data Processing]] Script**: Executed a [[Python]] script to read GEO data files, extract unique clusters, and save combined data into [[CSV]] files, handling missing values.
-- **VS Code [[Configuration]]**: Set the default [[Python]] interpreter for [[Jupyter]] notebooks and configured line start and end behavior in Visual Studio Code.
+- **VS Code [[Configuration]]**: Set the default [[Python]] interpreter for Jupyter notebooks and configured line start and end behavior in Visual Studio Code.
 - **[[File Management]]**: Used [[Python]]'s glob module to list GeoJSON files matching 'africa_*.geojson'.
 - **[[Python]] Libraries**: Imported the Path class from the pathlib module to manage file paths.
 

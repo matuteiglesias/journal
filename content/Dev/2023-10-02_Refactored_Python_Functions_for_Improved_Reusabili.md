@@ -25,7 +25,7 @@ The session focused on improving the modularity and reusability of [[Python]] co
 - Recommended [[documentation]] practices for census sample code.
 - Discussed [[refactoring]] strategies for [[Python]] functions to enhance readability and reusability by passing global variables as arguments.
 - Proposed the extraction and adaptation of functions to a separate [[Python]] file, `funciones.py`, to improve code organization.
-- Detailed a [[workflow]] for data collection and processing of socioeconomic statistics in Argentina.
+- Detailed a [[workflow]] for data collection and processing of socioeconomic statistics in [[Argentina]].
 
 ### Achievements:
 - Successfully refactored functions to improve code clarity and reusability.

@@ -20,7 +20,7 @@ The primary objective of this session was to address and resolve various Postgre
 - Followed a step-by-step guide to fix login issues for the `matias` user in PostgreSQL, including user creation and privilege granting.
 - Executed a [[workflow]] to reset the PostgreSQL password without login by temporarily bypassing password authentication for the `postgres` user.
 - Reflected on the meaning of 'local' in the `pg_hba.conf` file, understanding its role in Unix-domain socket connections.
-- Explored methods to connect PostgreSQL to Google Sheets using a REST [[API]] with FastAPI and direct connection through Google Apps Script.
+- Explored methods to connect PostgreSQL to Google Sheets using a REST [[API]] with [[FastAPI]] and direct connection through Google Apps Script.
 
 ### Achievements
 - Successfully resolved login issues for PostgreSQL users, ensuring smooth access and operations.

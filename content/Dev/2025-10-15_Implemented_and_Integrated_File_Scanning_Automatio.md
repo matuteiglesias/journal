@@ -18,7 +18,7 @@ The session aimed to implement and integrate a comprehensive file scanning and t
 
 ### Key Activities
 - **Project Ideas Assessment:** Evaluated several project ideas for maturity and feasibility, providing actionable recommendations for implementation.
-- **[[Jupyter]] Notebook Development:** Created a [[Jupyter]] notebook to scan directories and generate metadata inventories.
+- **Jupyter Notebook Development:** Created a Jupyter notebook to scan directories and generate metadata inventories.
 - **Folder Scanner Setup:** Detailed the setup process for a folder scanner, including metadata collection and enhancement suggestions.
 - **Triage Scanner Implementation:** Implemented a triage scanner with legacy module [[integration]], generating [[CSV]] reports.
 - **Legacy Module Loading:** Developed stubs for unavailable legacy modules to ensure smooth [[integration]].

@@ -18,7 +18,7 @@ The session aimed to enhance [[productivity]] by creating bash scripts to automa
 
 ### Key Activities
 - **Commenting and Uncommenting in Gedit**: Reviewed methods to toggle comments in Gedit using menu options and keyboard shortcuts (`Ctrl + /`).
-- **Setting Repository Name**: Learned how to set the `reponame` variable using `basename` in [[Linux]] and shell scripts.
+- **Setting Repository Name**: Learned how to set the `reponame` variable using `basename` in Linux and shell scripts.
 - **Retrieving [[Git]] Directory Name**: Explored commands to get the top-level directory name of a [[Git]] repository for use in scripts.
 - **Bash Script Development**: Created a bash script to automate updating [[Git]] repositories by reading directory paths, performing [[Git]] operations, and committing changes.
 

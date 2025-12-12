@@ -14,7 +14,7 @@ publish: true
 
 
 **Session Goal:**
-The session aimed to troubleshoot and resolve various filesystem-related issues on a [[Linux]] system, particularly focusing on an external drive and general filesystem errors.
+The session aimed to troubleshoot and resolve various filesystem-related issues on a Linux system, particularly focusing on an external drive and general filesystem errors.
 
 **Key Activities:**
 - [[Troubleshooting]] an external drive `/dev/sdb` and its partition `/dev/sdb1`, including confirming the filesystem type and using specific tools for manual mounting and system log review.

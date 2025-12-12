@@ -18,7 +18,7 @@ The primary goal of this session was to outline and initiate the development of 
 
 ### Key Activities
 - **MVP Scaffolding**: Defined core deliverables and goals for the PromptOps MVP, emphasizing strategic delegation and modularity using Next.js and [[Python]].
-- **[[Integration]] with ChatDev**: Outlined the [[integration]] process of ChatDev with PromptOps architecture, updating requirements for the ChatDev team and establishing a FastAPI endpoint for task execution.
+- **[[Integration]] with ChatDev**: Outlined the [[integration]] process of ChatDev with PromptOps architecture, updating requirements for the ChatDev team and establishing a [[FastAPI]] endpoint for task execution.
 - **[[AI]]-Powered Code Generation**: Leveraged ChatDev for generating backend code from natural language prompts, detailing its architecture and providing task examples.
 - **Frontend Development**: Utilized ChatDev to create a frontend scaffold for a SaaS application using React, TailwindCSS, and Next.js, integrating with a [[Python]] backend.
 - **[[Debugging]]**: Addressed a TypeError in `ChatMessage` construction related to unexpected `annotations` argument, providing steps for resolution and prevention.

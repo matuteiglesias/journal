@@ -18,13 +18,13 @@ The session aimed to develop an automated system that mimics human work in proce
 
 ### Key Activities
 - **System Design**: Explored the relationship between text, space, and tokens to improve language model efficiency, proposing task division and specialized agents.
-- **[[Python]] Scripting**: Developed scripts to calculate memory usage of [[Python]] files and process [[Jupyter]] notebooks by stripping outputs to reduce size.
+- **[[Python]] Scripting**: Developed scripts to calculate memory usage of [[Python]] files and process Jupyter notebooks by stripping outputs to reduce size.
 - **[[Error Handling]]**: Updated scripts to handle encoding errors and ignore hidden system files during processing.
 - **Outlier Investigation**: Analyzed outliers in notebook file sizes, identifying large embedded images or plot outputs as potential causes.
 
 ### Achievements
 - Created a framework for an automated file processing system using [[Python]] scripts.
-- Enhanced [[Jupyter]] notebook processing by implementing output stripping and [[error handling]].
+- Enhanced Jupyter notebook processing by implementing output stripping and [[error handling]].
 
 ### Pending Tasks
 - Further refine token estimation strategies for processing submissions.

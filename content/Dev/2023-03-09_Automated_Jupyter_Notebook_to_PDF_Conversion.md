@@ -14,10 +14,10 @@ publish: true
 
 
 **Session Goal:**
-The session aimed to automate the conversion of [[Jupyter]] Notebooks to PDF format, addressing potential errors and ensuring a seamless [[workflow]].
+The session aimed to automate the conversion of Jupyter Notebooks to PDF format, addressing potential errors and ensuring a seamless [[workflow]].
 
 **Key Activities:**
-- Utilized `[[jupyter]] nbconvert` for converting [[Jupyter]] Notebooks to PDF.
+- Utilized `jupyter nbconvert` for converting Jupyter Notebooks to PDF.
 - Implemented `nohup` to prevent interruptions during the conversion process.
 - Resolved `nbconvert` errors by installing the missing `pandoc` tool.
 - Managed `pandoc` versions using `conda`, including instructions for downgrading and upgrading.

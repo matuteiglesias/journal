@@ -19,7 +19,7 @@ The session aimed to troubleshoot and resolve issues related to the Stable Diffu
 ### Key Activities
 - **Stable Diffusion [[Troubleshooting]]**: Identified and addressed common errors in the Stable Diffusion model, focusing on corrupted model files and device mismatches.
 - **Model Loading Issues**: Analyzed critical issues in image generation model loading, specifically targeting device mismatch between CPU and GPU.
-- **Command-Line Interface**: Explored command-line interactions, particularly the use of the `tree` command in Unix/[[Linux]] environments.
+- **Command-Line Interface**: Explored command-line interactions, particularly the use of the `tree` command in Unix/Linux environments.
 - **File Transfer via SCP**: Provided instructions for transferring files to a container using the `scp` command.
 - **SSH Key Pair Setup**: Detailed the process of generating and configuring SSH key pairs for secure access.
 - **SSH Authentication [[Troubleshooting]]**: Addressed common SSH authentication issues, including public key setup and server [[configuration]] checks.

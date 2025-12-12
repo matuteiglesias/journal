@@ -19,7 +19,7 @@ The session aimed to develop and present a variety of thesis topics for undergra
 ### Key Activities:
 - Proposed several thesis topics related to [[data analysis]] in public health, predictive modeling of social issues, and more.
 - Outlined prestigious journals for publishing research on [[machine learning]] models applied to survey and census data, particularly in the context of economic policies in Latin America.
-- Provided a guide on key international and local journals impacting economic discourse in Argentina.
+- Provided a guide on key international and local journals impacting economic discourse in [[Argentina]].
 - Presented a manual for thesis directors in [[Data Science]], covering initial preparation to final evaluation.
 - Proposed a thesis on integrating survey and census data using [[machine learning]] models to enhance socio-economic analysis.
 

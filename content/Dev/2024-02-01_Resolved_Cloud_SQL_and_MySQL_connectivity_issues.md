@@ -17,7 +17,7 @@ publish: true
 The session aimed to troubleshoot and resolve various connectivity issues related to MySQL and Google Cloud SQL, ensuring stable database connections for applications.
 
 ### Key Activities
-- Utilized command-line tools to list largest subdirectories by disk usage in Unix/[[Linux]].
+- Utilized command-line tools to list largest subdirectories by disk usage in Unix/Linux.
 - Addressed `EOFError` in [[Python]] by clearing cache, reinstalling [[Flask]], and checking environment compatibility.
 - Troubleshot MySQL connection errors, focusing on server status, connection details, and Google Cloud SQL configurations.
 - Tested Cloud SQL connections using [[Python]] scripts and verified connectivity with the Cloud SQL Auth Proxy.

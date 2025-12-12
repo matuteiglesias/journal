@@ -19,9 +19,9 @@ The session aimed to explore and provide insights into family dynamics, inherita
 ### Key Activities
 - Discussed the importance of [[communication]] in navigating family inheritance and marital decisions, emphasizing legal advice and understanding motivations.
 - Structured a conversation around a parent's decision to remarry, focusing on financial implications and family dynamics, including suggested questions for open dialogue.
-- Presented key questions to address inheritance law in Argentina and family asset distribution, highlighting the need for legal advice.
+- Presented key questions to address inheritance law in [[Argentina]] and family asset distribution, highlighting the need for legal advice.
 - Reflected on family asset division and preservation strategies, considering the impact of a new marriage on inheritance and proposing strategies to minimize losses.
-- Analyzed the express divorce process in Argentina, covering divorce types, spousal rights, economic compensations, and asset division.
+- Analyzed the express divorce process in [[Argentina]], covering divorce types, spousal rights, economic compensations, and asset division.
 - Detailed matrimonial property regimes, including prenuptial agreements, donations, and financial responsibilities between spouses.
 
 ### Achievements

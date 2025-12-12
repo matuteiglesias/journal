@@ -14,13 +14,13 @@ publish: true
 
 
 ### Session Goal
-The session aimed to process and document GeoJSON files related to poverty metrics in Argentina, ensuring proper extraction, analysis, and [[documentation]] of geospatial data.
+The session aimed to process and document GeoJSON files related to poverty metrics in [[Argentina]], ensuring proper extraction, analysis, and [[documentation]] of geospatial data.
 
 ### Key Activities
 - **GeoJSON Column Extraction**: Utilized `ogrinfo` from the GDAL suite to extract column information from GeoJSON files.
 - **[[Error Handling]] in [[Python]]**: Addressed a KeyError in dictionary access by ensuring keys are strings.
 - **Dataset Overview and [[Documentation]]**: Provided an overview and [[documentation]] for datasets related to geographical information and synthetic populations.
-- **Poverty Metrics Analysis**: Documented and analyzed GeoJSON files containing poverty metrics for Argentina, focusing on data structure and geospatial variables.
+- **Poverty Metrics Analysis**: Documented and analyzed GeoJSON files containing poverty metrics for [[Argentina]], focusing on data structure and geospatial variables.
 - **Revised [[Documentation]]**: Updated [[documentation]] on [[data processing]] tools and methods, including geospatial [[integration]] and feature engineering.
 - **Algorithmic Evaluation**: Evaluated responses to algorithmic problems, focusing on graph theory and search algorithms.
 

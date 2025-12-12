@@ -14,14 +14,14 @@ publish: true
 
 
 ### Session Goal
-The session aimed to develop and enhance tools and structures for integrating computational linear algebra into educational courses, focusing on [[Jupyter]] Notebooks and [[Python]] scripts.
+The session aimed to develop and enhance tools and structures for integrating computational linear algebra into educational courses, focusing on Jupyter Notebooks and [[Python]] scripts.
 
 ### Key Activities
 - Explored LU and QR factorizations and their implementation in [[Python]] for solving linear systems.
-- Planned [[integration]] of computational linear algebra workbooks into course structures using [[Jupyter]] Notebooks.
+- Planned [[integration]] of computational linear algebra workbooks into course structures using Jupyter Notebooks.
 - Proposed repository structures for linear algebra courses, facilitating [[documentation]] and exercise organization.
 - Implemented [[Python]] classes (`EvaluatorClean` and `EvaluatorDeep`) for exercise evaluation using the [[OpenAI]] [[API]].
-- Developed a `NotebookCreator` class to generate [[Jupyter]] notebooks from [[markdown]] files, ensuring proper formatting and metadata.
+- Developed a `NotebookCreator` class to generate Jupyter notebooks from [[markdown]] files, ensuring proper formatting and metadata.
 - Enhanced educational exercises with detailed pedagogical analysis and [[Python]] implementations.
 
 ### Achievements

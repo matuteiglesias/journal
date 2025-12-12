@@ -24,11 +24,11 @@ The session aimed to develop comprehensive guides for using the inCarDoc Android
 - Connected the inCarDoc app to an OBD-II device using Bluetooth, including detailed [[troubleshooting]] steps.
 - Discussed maintenance of lambda sensors and catalytic converters, emphasizing cleaning methods and professional consultation.
 - Outlined guidelines and cautions for cleaning catalytic converters, including risks and methods.
-- Investigated the availability of catalytic converter cleaners in Argentina.
+- Investigated the availability of catalytic converter cleaners in [[Argentina]].
 
 ### Achievements
 - Successfully created and documented multiple guides for Android OBD-II connectivity and maintenance.
 - Clarified [[troubleshooting]] methods for Bluetooth connectivity issues.
 
 ### Pending Tasks
-- Further research on the availability of catalytic converter cleaners in Argentina is needed, including checking local automotive stores and online platforms.
+- Further research on the availability of catalytic converter cleaners in [[Argentina]] is needed, including checking local automotive stores and online platforms.

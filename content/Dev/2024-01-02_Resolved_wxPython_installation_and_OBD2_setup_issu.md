@@ -21,8 +21,8 @@ The session aimed to resolve installation issues related to wxPython on Ubuntu 2
 - **OBD2 Diagnostic Software Setup**: Provided a step-by-step guide for installing and running OBD2 diagnostic software using wxPython, including software installation, scanner connection, software [[configuration]], and [[troubleshooting]] tips.
 - **Running pyOBD Software**: Detailed instructions on making the pyOBD script executable, connecting an OBD2 scanner, and starting diagnostics.
 - **Resolved wxPython Error for pyOBD**: Offered a guide to fix the `ModuleNotFoundError: No module named 'wx'` by installing wxPython in a [[Python]] environment for the pyOBD application.
-- **[[Linux]] Subdirectory Sorting**: Explained the use of `du` and `sort` commands to sort subdirectories by size in [[Linux]].
-- **Resolved GTK+ Dependency Issues**: Provided guidance on resolving wxPython installation errors due to missing GTK+ development files on [[Linux]].
+- **Linux Subdirectory Sorting**: Explained the use of `du` and `sort` commands to sort subdirectories by size in Linux.
+- **Resolved GTK+ Dependency Issues**: Provided guidance on resolving wxPython installation errors due to missing GTK+ development files on Linux.
 
 ### Achievements
 - Successfully installed wxPython on Ubuntu 22, resolving dependency issues.

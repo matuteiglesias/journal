@@ -22,7 +22,7 @@ publish: true
 - Analyzed article titles related to Argentine politics, categorizing them into themes like economic policies and government actions.
 - Proposed and refined an article classification system using BERT, with steps for storing results in BigQuery.
 - Addressed [[Python]] library warnings and resolved import errors for BERT model [[deployment]].
-- Managed disk space using [[Linux]] commands and handled [[DataFrame]] text classification errors.
+- Managed disk space using Linux commands and handled [[DataFrame]] text classification errors.
 - Fine-tuned BERT for sequence classification, providing installation and usage guidance.
 
 **Achievements**:

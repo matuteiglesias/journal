@@ -14,10 +14,10 @@ publish: true
 
 
 **Session Goal:**
-The primary aim of this session was to conduct a thorough analysis of the new Statute of the Policía Federal Argentina, examining its structure, implications, and comparing it with previous regulations.
+The primary aim of this session was to conduct a thorough analysis of the new Statute of the Policía Federal [[Argentina]], examining its structure, implications, and comparing it with previous regulations.
 
 **Key Activities:**
-- Analyzed the new Statute of the Policía Federal Argentina, focusing on its mission, functions, and regulatory changes.
+- Analyzed the new Statute of the Policía Federal [[Argentina]], focusing on its mission, functions, and regulatory changes.
 - Conducted a comparative analysis between the new Statute 2024/2025 and the previous Decreto-Ley 333/1958.
 - Evaluated the strategic, political, and operational implications of the new statute.
 - Provided insights into the structural organization and the [[integration]] of the statute within the national security framework.

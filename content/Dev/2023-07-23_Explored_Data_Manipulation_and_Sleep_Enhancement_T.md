@@ -20,7 +20,7 @@ The session aimed to explore various data manipulation techniques in [[Python]] 
 - **Data Manipulation in [[Python]]:**
   - Removed rows from a [[DataFrame]] containing specific coordinates using a boolean mask in [[pandas]].
   - Developed a nested loop structure for processing areas in [[Python]].
-  - Utilized command-line operations to search substrings in [[Jupyter]] Notebooks on Ubuntu.
+  - Utilized command-line operations to search substrings in Jupyter Notebooks on Ubuntu.
 - **Email Correspondence:**
   - Drafted an email response regarding data file changes and analysis, including terrain ruggedness measures.
 - **Sleep Enhancement Exploration:**

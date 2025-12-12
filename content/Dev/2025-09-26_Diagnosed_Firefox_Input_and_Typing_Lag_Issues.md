@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to diagnose and troubleshoot input freezing and typing lag issues in Firefox on [[Linux]] systems.
+The session aimed to diagnose and troubleshoot input freezing and typing lag issues in Firefox on Linux systems.
 
 ### Key Activities
 - **Diagnosed Firefox Input Freezing**: Explored potential causes such as main-thread event loop issues, compositor stalls, disk/memory pressure, extensions, and known bugs.
@@ -24,4 +24,4 @@ The session aimed to diagnose and troubleshoot input freezing and typing lag iss
 - Developed a comprehensive understanding of the issues affecting Firefox's performance and identified actionable steps to mitigate them.
 
 ### Pending Tasks
-- Further testing of the proposed solutions in different [[Linux]] environments to ensure robustness.
+- Further testing of the proposed solutions in different Linux environments to ensure robustness.

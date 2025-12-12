@@ -13,7 +13,7 @@ publish: true
 
 
 
-**Session Goal:** The session aimed to develop a real-time monitoring dashboard for RabbitMQ queues, inspired by [[Linux]] Dash, using [[Flask]] for backend and plain HTML/[[JavaScript]] for frontend.
+**Session Goal:** The session aimed to develop a real-time monitoring dashboard for RabbitMQ queues, inspired by Linux Dash, using [[Flask]] for backend and plain HTML/[[JavaScript]] for frontend.
 
 **Key Activities:**
 - Planned and executed the design of a lightweight RabbitMQ dashboard.

@@ -23,7 +23,7 @@ The session aimed to enhance [[data processing]] capabilities by developing scri
 - Developed a script to convert DAT files to [[CSV]] format, utilizing DCT files for parsing.
 - Created a script to process HR data files, validating geographic codes and saving cleaned data as [[CSV]] files.
 - Processed GeoJSON files for cluster data, merging relevant information from [[CSV]] files based on geographic identifiers.
-- Listed [[Jupyter]] Notebook files in the current directory using the glob module.
+- Listed Jupyter Notebook files in the current directory using the glob module.
 
 ### Achievements
 - Successfully developed multiple scripts for [[data processing]] and [[file management]] tasks.

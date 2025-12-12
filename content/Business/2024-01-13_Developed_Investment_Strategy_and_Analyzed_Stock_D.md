@@ -18,7 +18,7 @@ The session aimed to develop a comprehensive investment [[strategy]], including 
 
 ### Key Activities
 - Outlined a comprehensive investment [[strategy]] development plan, focusing on [[data analysis]], [[strategy]] formulation, backtesting, and risk management.
-- Created a daily plan for setting up a backtesting environment for investment strategies using [[Python]] and [[Jupyter]] Notebook.
+- Created a daily plan for setting up a backtesting environment for investment strategies using [[Python]] and Jupyter Notebook.
 - Developed a financial ledger in Google Sheets for budgeting and financial planning.
 - Analyzed 5-year historical stock data for Apple Inc. (AAPL) using [[Python]], including data fetching, [[visualization]], and exponential model fitting.
 - Implemented stock analysis using the `yfinance` library in [[Python]], focusing on data fetching, plotting, and fitting an exponential model.

@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to troubleshoot and resolve issues related to PCSX2 BIOS files and analyze disk space usage on a [[Linux]] system.
+The session aimed to troubleshoot and resolve issues related to PCSX2 BIOS files and analyze disk space usage on a Linux system.
 
 ### Key Activities
 - **PCSX2 BIOS [[Troubleshooting]]**: Addressed issues with BIOS files appearing grayed out in PCSX2 by checking file permissions, formats, and configurations. Steps included restarting the application, verifying BIOS validity, and manually selecting the BIOS directory.

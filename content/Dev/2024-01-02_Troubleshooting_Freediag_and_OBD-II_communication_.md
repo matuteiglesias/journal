@@ -18,7 +18,7 @@ The session aimed to address and resolve various [[communication]] and compatibi
 
 ### Key Activities
 - **Interface Selection**: Reviewed different interfaces available for Freediag and provided guidance on selecting the appropriate one based on the scanner type.
-- **Error [[Troubleshooting]]**: Addressed common error messages related to permission issues and unsupported [[communication]] protocols with OBD-II adapters on [[Linux]] systems.
+- **Error [[Troubleshooting]]**: Addressed common error messages related to permission issues and unsupported [[communication]] protocols with OBD-II adapters on Linux systems.
 - **[[Communication]] Checklist**: Developed a comprehensive checklist for diagnosing [[communication]] issues between Freediag and vehicle ECUs, including compatibility checks and protocol identification.
 - **CAN 11-bit Protocol**: Provided a step-by-step guide for [[troubleshooting]] CAN 11-bit protocol [[communication]] issues.
 - **Compatibility Analysis**: Analyzed potential reasons for connection issues with Freediag, including protocol support limitations and hardware interface compatibility.

@@ -27,9 +27,9 @@ The session aimed to enhance the Precios Claros scraping pipeline to improve eff
 - Automated [[CSV]] management for price data using a [[Python]] script (`consolidar_precios.py`) for efficient consolidation and historical data storage.
 - Optimized daily ETL processes for time-series price data using advanced techniques like Change Data Capture and Delta Encoding.
 - Proposed a lightweight ETL process using [[Pandas]] for efficient management of price data changes.
-- Structured multiple Scrapy spiders execution from a [[Jupyter]] notebook in VS Code, processing data with [[Pandas]].
+- Structured multiple Scrapy spiders execution from a Jupyter notebook in VS Code, processing data with [[Pandas]].
 - Executed sequential Scrapy spiders for an ETL pipeline using Bash commands.
-- Provided instructions for using `ipdb` in non-cursor environments like [[Jupyter]] and VS Code.
+- Provided instructions for using `ipdb` in non-cursor environments like Jupyter and VS Code.
 
 ### Achievements
 - Successfully optimized the Precios Claros scraping pipeline and improved [[automation]] and [[data management]] processes.

@@ -17,7 +17,7 @@ publish: true
 The session aimed to develop and refine practical exercises and projects for [[data science]] [[education]], focusing on enhancing students' practical skills and understanding of data manipulation, analysis, and [[visualization]].
 
 ### Key Activities:
-- Explored strategies for claiming traffic fines in Argentina, including legal considerations and evidence preparation.
+- Explored strategies for claiming traffic fines in [[Argentina]], including legal considerations and evidence preparation.
 - Created a detailed plan for a competitive exam in computer science, covering topic selection and exercise design.
 - Developed recommendations for preparing and presenting classes for competitive exams, emphasizing pedagogical strategies.
 - Structured a 3-hour class on [[data processing]] techniques using tools like [[Pandas]], SQL, and MongoDB.

@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to develop a comprehensive implementation plan for the 'Índice de Pobreza UBA' project, which seeks to scientifically measure poverty in Argentina and enhance Matías' online presence.
+The session aimed to develop a comprehensive implementation plan for the 'Índice de Pobreza UBA' project, which seeks to scientifically measure poverty in [[Argentina]] and enhance Matías' online presence.
 
 ### Key Activities
 - Detailed a structured plan for the project's implementation and [[documentation]], focusing on organizing the project, reviewing [[documentation]], developing scripts, validating data, visualizing results, and fostering collaboration.

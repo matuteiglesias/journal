@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance [[file management]] capabilities for [[Jupyter]] Notebook files using command-line tools, focusing on listing, sorting, and searching files based on modification dates.
+The session aimed to enhance [[file management]] capabilities for Jupyter Notebook files using command-line tools, focusing on listing, sorting, and searching files based on modification dates.
 
 ### Key Activities
 - Developed a command to find and list all `.ipynb` files in the current directory and subdirectories, sorted by last edited time.
@@ -26,7 +26,7 @@ The session aimed to enhance [[file management]] capabilities for [[Jupyter]] No
 - Developed a Bash script for finding `.ipynb` files by date, ensuring compatibility across systems.
 
 ### Achievements
-- Successfully created and tested multiple commands and scripts for efficient [[file management]] of [[Jupyter]] Notebooks.
+- Successfully created and tested multiple commands and scripts for efficient [[file management]] of Jupyter Notebooks.
 - Improved understanding and handling of date and timestamp formatting in bash scripting.
 
 ### Pending Tasks

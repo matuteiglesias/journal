@@ -18,7 +18,7 @@ The session aimed to develop and refine educational exercises for a [[Data Scien
 
 ### Key Activities:
 1. **Creation of Scientific Graphs with [[Matplotlib]]**: Developed exercises for students to create high-quality scientific graphs using [[Matplotlib]] and Zipf's law, focusing on log-log scale [[visualization]].
-2. **Exploratory [[Data Analysis]] Report**: Guided students in selecting open datasets, documenting them, and performing exploratory [[data analysis]] (EDA) using [[Python]] and [[Markdown]] in [[Jupyter]] Notebook.
+2. **Exploratory [[Data Analysis]] Report**: Guided students in selecting open datasets, documenting them, and performing exploratory [[data analysis]] (EDA) using [[Python]] and [[Markdown]] in Jupyter Notebook.
 3. **Data Storytelling Exercise**: Designed a workshop for students to create narratives with data, using relevant topics like climate change and COVID-19, emphasizing the importance of storytelling in [[data [[visualization]]]].
 4. **Course Evaluation**: Conducted a detailed analysis of the [[Data Science]] course structure and content, identifying strengths and areas for improvement.
 5. **Probability and Statistics Module Evaluation**: Reviewed the Probability and Statistics module for [[Machine Learning]], providing insights and suggestions for enhancement.

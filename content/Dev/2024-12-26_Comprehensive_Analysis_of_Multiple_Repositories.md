@@ -24,7 +24,7 @@ The objective was to conduct comprehensive analyses of several repositories to u
 - Analyzed the `Labo_de_Datos_R` repository, focusing on its [[data analysis]] techniques.
 - Compared `matrix-algebra-test` and `labo-algebra-lineal` repositories for differences in linear algebra implementations.
 - Conducted a detailed analysis of the `joinACLED` repository, focusing on its data [[integration]] methods.
-- Reviewed the `IPC-Argentina` repository, evaluating its economic [[data analysis]] capabilities.
+- Reviewed the `IPC-[[Argentina]]` repository, evaluating its economic [[data analysis]] capabilities.
 - Analyzed the `indice-pobreza-UBA` repository, examining its poverty index calculations.
 
 ### Achievements

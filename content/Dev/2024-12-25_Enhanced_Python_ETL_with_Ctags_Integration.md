@@ -18,7 +18,7 @@ The primary objective of this session was to enhance [[Python]] scripts for ETL 
 
 ### Key Activities
 - Developed a [[Python]] script to traverse directories, generate Ctags, and convert them into [[Pandas]] DataFrames for ETL tasks.
-- Provided installation instructions for Ctags across different operating systems ([[Linux]], macOS, Windows).
+- Provided installation instructions for Ctags across different operating systems (Linux, macOS, Windows).
 - Initiated a structured annotation [[workflow]] for message screening.
 - Created a response template for engaging potential buyers of a Honda Wave 110s motorcycle.
 - Improved data generation code with detailed diagnostics and logging.

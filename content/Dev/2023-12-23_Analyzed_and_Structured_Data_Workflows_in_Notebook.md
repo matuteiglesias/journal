@@ -14,16 +14,16 @@ publish: true
 
 
 ### Session Goal
-The session aimed to analyze and enhance the data workflows within [[Jupyter]] notebooks, focusing on empirical [[data analysis]], [[file management]], and [[workflow]] structuring.
+The session aimed to analyze and enhance the data workflows within Jupyter notebooks, focusing on empirical [[data analysis]], [[file management]], and [[workflow]] structuring.
 
 ### Key Activities
-- **Empirical Analysis**: Reviewed the use of 'empirical' in [[Jupyter]] notebooks to understand its role in statistical analysis and [[visualization]].
+- **Empirical Analysis**: Reviewed the use of 'empirical' in Jupyter notebooks to understand its role in statistical analysis and [[visualization]].
 - **Bash Commands**: Explored the use of `ls -l` and file modification commands to manage and analyze files based on modification times.
 - **File Modification Analysis**: Conducted a reflective analysis on work patterns by examining file modification times and filenames.
 - **Directory Structuring**: Proposed a structured directory organization to improve project [[file management]].
-- **[[Jupyter]] [[Workflow]] Analysis**: Utilized `grep` commands to analyze data workflows in [[Jupyter]] notebooks, excluding checkpoint files for clarity.
+- **Jupyter [[Workflow]] Analysis**: Utilized `grep` commands to analyze data workflows in Jupyter notebooks, excluding checkpoint files for clarity.
 - **[[Data Processing]] [[Workflow]]**: Outlined high-level workflows for [[data processing]] in [[Python]] notebooks, including data import, analysis, and export.
-- **Data Export Methods**: Summarized common data export and plot saving methods in [[Jupyter]] notebooks.
+- **Data Export Methods**: Summarized common data export and plot saving methods in Jupyter notebooks.
 - **Proposed [[Workflow]] Structure**: Suggested a general [[workflow]] structure for data projects using Graphviz dot language.
 
 ### Achievements

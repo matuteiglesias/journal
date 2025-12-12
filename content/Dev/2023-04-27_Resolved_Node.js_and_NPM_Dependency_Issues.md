@@ -19,7 +19,7 @@ The main objective of this session was to troubleshoot and resolve various Node.
 ### Key Activities
 - **Cross-Env Package Error**: Installed the missing 'cross-env' package to set environment variables in an NPM project.
 - **ENOENT Error Resolution**: Addressed the 'ENOENT' error by modifying environment variables, clearing npm cache, and adjusting package versions.
-- **Node.js [[Troubleshooting]] on [[Linux]]**: Checked for port conflicts, reinstalled dependencies, downgraded react-scripts, and modified environment variables to resolve Node.js issues on [[Linux]].
+- **Node.js [[Troubleshooting]] on Linux**: Checked for port conflicts, reinstalled dependencies, downgraded react-scripts, and modified environment variables to resolve Node.js issues on Linux.
 - **Dependency Reinstallation**: Deleted existing Node.js dependencies and reinstalled them to resolve potential issues.
 - **Project Dependency Management**: Managed Node.js project dependencies by cleaning up the `node_modules` directory, lock files, and clearing the npm cache before reinstalling dependencies.
 - **React App Startup [[Troubleshooting]]**: Resolved startup issues in a React application by clearing cache, reinstalling dependencies, and downgrading 'react-scripts'.

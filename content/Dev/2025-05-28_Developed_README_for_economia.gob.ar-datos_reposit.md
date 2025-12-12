@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to develop a comprehensive README file for the `economia.gob.ar-datos` repository, which contains tools and scripts for downloading, processing, and analyzing economic data from Argentina.
+The primary goal of this session was to develop a comprehensive README file for the `economia.gob.ar-datos` repository, which contains tools and scripts for downloading, processing, and analyzing economic data from [[Argentina]].
 
 ### Key Activities
 - Proposed a README template in Spanish for the repository, focusing on [[data management]] aspects.

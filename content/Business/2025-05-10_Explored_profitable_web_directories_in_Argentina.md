@@ -14,14 +14,14 @@ publish: true
 
 
 ### Session Goal
-The session aimed to explore and identify profitable web directories in Argentina and investigate potential interactions between Dolutegravir and Isotretinoin.
+The session aimed to explore and identify profitable web directories in [[Argentina]] and investigate potential interactions between Dolutegravir and Isotretinoin.
 
 ### Key Activities
-- Conducted multiple searches on profitable web directories in Argentina to gather insights into potential business opportunities.
+- Conducted multiple searches on profitable web directories in [[Argentina]] to gather insights into potential business opportunities.
 - Briefly explored the interaction between Dolutegravir and Isotretinoin to understand any significant health implications.
 
 ### Achievements
-- Gathered initial data and insights on potential web directories that could be leveraged for business in Argentina.
+- Gathered initial data and insights on potential web directories that could be leveraged for business in [[Argentina]].
 - Identified the need for further research on the interaction between Dolutegravir and Isotretinoin.
 
 ### Pending Tasks

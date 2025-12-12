@@ -19,7 +19,7 @@ The session aimed to develop and refine strategies and protocols across health a
 ### Key Activities
 - **Business [[Communication]]**: Developed tactical observations for crafting professional messages for interactions with ZS, focusing on objectives, tone, and response proposals.
 - **Health Protocols**: Created a comprehensive protocol to manage symptoms of intense rhinitis and associated conditions, including medication, functional foods, and care techniques.
-- **Legal [[Strategy]]**: Explored the feasibility of using Google Maps Timeline as legal evidence, highlighting the need for certified [[data extraction]] and technical support for validity in Argentina and the USA.
+- **Legal [[Strategy]]**: Explored the feasibility of using Google Maps Timeline as legal evidence, highlighting the need for certified [[data extraction]] and technical support for validity in [[Argentina]] and the USA.
 - **Technical Report Writing**: Provided a detailed structure and principles for drafting a technical pre-report as an expert, including key sections and content examples.
 - **Medication Guidance**: Offered insights on loratadine dosage, with a focus on safety, and analyzed medications like Ibuprofen and Hyoscine for treating rhinitis symptoms.
 

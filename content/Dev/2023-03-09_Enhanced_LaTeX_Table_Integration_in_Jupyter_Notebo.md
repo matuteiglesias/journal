@@ -14,17 +14,17 @@ publish: true
 
 
 ### Session Goal:
-The primary goal of this session was to enhance the [[integration]] of LaTeX tables within [[Jupyter]] Notebooks, focusing on displaying data related to violent conflicts in Africa.
+The primary goal of this session was to enhance the [[integration]] of LaTeX tables within Jupyter Notebooks, focusing on displaying data related to violent conflicts in Africa.
 
 ### Key Activities:
 - **LaTeX Table Example**: Provided a structured LaTeX code template for summarizing violent conflicts in Africa, detailing countries, time periods, fatal victims, and displaced persons.
-- **Displaying LaTeX in [[Jupyter]]**: Explored methods to render LaTeX tables in [[Jupyter]] Notebooks using the IPython display module.
-- **Longtable for Multi-page Tables**: Implemented the `longtable` package to handle multi-page tables in [[Jupyter]] Notebooks.
-- **Using LaTeX `tabular` Environment**: Corrected and demonstrated the use of the LaTeX `tabular` environment for creating tables in [[Jupyter]].
-- **[[Markdown]] Table Insertion**: Provided guidance on inserting tables in [[Jupyter]] Notebook [[Markdown]] cells.
+- **Displaying LaTeX in Jupyter**: Explored methods to render LaTeX tables in Jupyter Notebooks using the IPython display module.
+- **Longtable for Multi-page Tables**: Implemented the `longtable` package to handle multi-page tables in Jupyter Notebooks.
+- **Using LaTeX `tabular` Environment**: Corrected and demonstrated the use of the LaTeX `tabular` environment for creating tables in Jupyter.
+- **[[Markdown]] Table Insertion**: Provided guidance on inserting tables in Jupyter Notebook [[Markdown]] cells.
 
 ### Achievements:
-- Successfully demonstrated the [[integration]] of LaTeX tables in [[Jupyter]] Notebooks using various methods.
+- Successfully demonstrated the [[integration]] of LaTeX tables in Jupyter Notebooks using various methods.
 - Clarified the limitations of UCDP and ACLED data in violence analysis, recognizing the potential for incomplete information.
 
 ### Pending Tasks:

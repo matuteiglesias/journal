@@ -19,7 +19,7 @@ The session aimed to manage Facebook account issues and customize user experienc
 ### Key Activities
 - Managed Facebook account issues by providing a guide on customizing user experience, learning new features, and protecting privacy.
 - Provided detailed steps for the recovery of old Facebook accounts, including password recovery and identity verification.
-- Evaluated [[Jupyter]] notebooks focused on economic [[data analysis]], assessing their content, methodological diversity, and potential for further development.
+- Evaluated Jupyter notebooks focused on economic [[data analysis]], assessing their content, methodological diversity, and potential for further development.
 - Proposed a thematic organization of analysis notebooks into clusters, detailing the flow from [[data extraction]] to [[visualization]].
 - Developed a step-by-step project organization plan for large-scale projects, covering [[documentation]], code review, and team collaboration.
 

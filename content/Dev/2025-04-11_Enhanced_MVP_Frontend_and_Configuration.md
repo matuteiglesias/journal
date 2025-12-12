@@ -23,7 +23,7 @@ The primary aim of this session was to enhance the MVP frontend by integrating c
 - **Switching Axios to Fetch**: Replaced Axios with Fetch [[API]] in Next.js, addressing CORS issues.
 - **Fixing TypeScript Type Definition Errors**: Resolved issues with missing type definitions and improved environment variable usage.
 - **[[Refactoring]] `handleRun` Function**: Updated the function to use environment variables for better configurability.
-- **Fixing CORS Issues in FastAPI**: Implemented CORS middleware to resolve cross-origin issues in a FastAPI application.
+- **Fixing CORS Issues in [[FastAPI]]**: Implemented CORS middleware to resolve cross-origin issues in a [[FastAPI]] application.
 - **Extracting Flow Logic Helpers**: Transitioned [[AI]] workflows to a more modular design by extracting reusable logic.
 
 ### Achievements

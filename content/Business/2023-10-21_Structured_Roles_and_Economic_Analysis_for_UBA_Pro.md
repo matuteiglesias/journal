@@ -23,7 +23,7 @@ The session aimed to define roles and team structures for the Indice de Pobreza 
 - Crafted a README section inviting diverse participation in the project.
 - Created casual job role descriptions tailored for the Argentine context.
 - Revised job descriptions for [[data science]], GIS, and development roles.
-- Conducted research on personal income and poverty in Argentina, linking to public policy.
+- Conducted research on personal income and poverty in [[Argentina]], linking to public policy.
 - Analyzed sectoral sales time series, focusing on decomposition and economic fluctuations.
 - Explored the impact of microshocks on sectoral sales through economic dynamics.
 - Discussed matrix notation for covariance representation in economic modeling.

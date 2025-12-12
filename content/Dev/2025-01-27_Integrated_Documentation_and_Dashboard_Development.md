@@ -19,7 +19,7 @@ The aim of this session was to enhance project [[documentation]] using tools lik
 ### Key Activities
 - **[[Documentation]] Generation**: Instructions were followed to verify and rebuild project [[documentation]] using Sphinx and MkDocs, focusing on search functionality and tool configurations.
 - **HTML [[File Management]]**: [[Python]] scripts were developed to combine and clean HTML files, utilizing BeautifulSoup for text extraction.
-- **Dashboard Planning**: A proposal was outlined for a custom dashboard using Streamlit or Dash to monitor RabbitMQ queues, inspired by [[Linux]] Dash, with detailed steps for frontend and backend [[integration]].
+- **Dashboard Planning**: A proposal was outlined for a custom dashboard using Streamlit or Dash to monitor RabbitMQ queues, inspired by Linux Dash, with detailed steps for frontend and backend [[integration]].
 
 ### Achievements
 - Successfully generated and updated project [[documentation]] with enhanced search capabilities.

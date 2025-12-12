@@ -29,7 +29,7 @@ The session aimed to design a modular and scalable [[AI]] application platform, 
 - Provided best practices for managing a 'sandbox' for core library development.
 - Introduced the concept of AppGun as a modular fullstack launcher using mvp.[[json]] manifests.
 - Discussed using monorepos for managing modular code in app development.
-- Explained frontend and backend referencing differences and best practices in FastAPI.
+- Explained frontend and backend referencing differences and best practices in [[FastAPI]].
 - Designed backend and frontend protocols for microservices architecture.
 - Developed a backend packaging and [[integration]] [[strategy]].
 - Enhanced frontend setup for optimal performance.

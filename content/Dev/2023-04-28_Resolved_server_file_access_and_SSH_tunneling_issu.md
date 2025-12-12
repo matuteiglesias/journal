@@ -21,7 +21,7 @@ The session aimed to troubleshoot and resolve file access issues on a server, se
 - **SSH Tunneling Setup**: Established an SSH tunnel to forward traffic from a local machine to a remote server, enabling local access to a hosted website.
 - **SSH Command Execution**: Provided and executed SSH commands for port forwarding, ensuring correct setup by replacing placeholders with user-specific information.
 - **[[Troubleshooting]] SSH Connections**: Addressed SSH connection issues by verifying SSH service status, security group settings, and local firewall configurations.
-- **SSH Service Installation**: Installed and started the OpenSSH server on a [[Linux]] machine, ensuring the SSH service was active.
+- **SSH Service Installation**: Installed and started the OpenSSH server on a Linux machine, ensuring the SSH service was active.
 - **Port Binding with Sudo**: Resolved permission issues for binding commands to port 80 using 'sudo'.
 
 ### Achievements

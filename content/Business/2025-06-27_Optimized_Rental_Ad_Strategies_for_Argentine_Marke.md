@@ -14,15 +14,15 @@ publish: true
 
 
 ### Session Goal
-The session aimed to critically analyze and optimize strategies for advertising rental properties, specifically commercial spaces, in Argentina.
+The session aimed to critically analyze and optimize strategies for advertising rental properties, specifically commercial spaces, in [[Argentina]].
 
 ### Key Activities
 - Reviewed effective tips for enhancing rental ads, focusing on visual presentation, legal aspects, and publishing strategies.
-- Conducted a critical analysis of major platforms for listing rental properties in Argentina, evaluating their features and strategic advantages.
+- Conducted a critical analysis of major platforms for listing rental properties in [[Argentina]], evaluating their features and strategic advantages.
 - Examined promotional strategies for commercial spaces, including highlighting packages, seasonal promotions, cross-posting, and leveraging data analytics.
 
 ### Achievements
-- Developed a comprehensive understanding of the rental advertising landscape in Argentina.
+- Developed a comprehensive understanding of the rental advertising landscape in [[Argentina]].
 - Identified key platforms and strategies to maximize visibility and effectiveness of rental ads.
 
 ### Pending Tasks

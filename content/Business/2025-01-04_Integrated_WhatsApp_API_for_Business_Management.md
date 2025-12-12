@@ -25,7 +25,7 @@ The session aimed to integrate and test the WhatsApp [[API]] for business manage
 - Corrected cURL command syntax for WhatsApp Cloud [[API]].
 - Successfully executed an [[API]] call to WhatsApp Cloud [[API]].
 - Configured webhook fields and integrated them into a [[Flask]] application.
-- Developed a [[Jupyter]] notebook for sending messages via WhatsApp Cloud [[API]].
+- Developed a Jupyter notebook for sending messages via WhatsApp Cloud [[API]].
 - Troubleshot message delivery issues in WhatsApp Business [[API]].
 
 ### Achievements

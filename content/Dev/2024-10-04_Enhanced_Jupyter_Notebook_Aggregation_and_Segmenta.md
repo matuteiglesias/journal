@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to enhance the aggregation and segmentation logic of [[Jupyter]] notebooks by consigna, ensuring accurate processing and storage.
+The primary goal of this session was to enhance the aggregation and segmentation logic of Jupyter notebooks by consigna, ensuring accurate processing and storage.
 
 ### Key Activities
 - **Updated [[Python]] Script**: Implemented an updated script to aggregate responses from multiple groups into single notebooks, removing previous memory cap logic.

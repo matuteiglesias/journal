@@ -22,7 +22,7 @@ The session aimed to enhance and expand the existing datasets related to grocery
 - Created and prepared multiple datasets for review, including those focused on cooking elements, spices, refrigerated items, and final grocery items.
 - Provided a detailed guide on pickling vegetables and analyzed jar contents based on visual characteristics.
 - Developed and shared traditional Brazilian recipes and essential ingredient lists for versatile cooking.
-- Addressed software issues by providing [[troubleshooting]] steps for an interrupted [[Linux]] system update.
+- Addressed software issues by providing [[troubleshooting]] steps for an interrupted Linux system update.
 
 ### Achievements:
 - Successfully updated and expanded several datasets, improving [[data management]] and accessibility for future use.

@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to optimize disk space on a [[Linux]] system and perform advanced data manipulation tasks using [[Python]]'s [[pandas]] library.
+The session aimed to optimize disk space on a Linux system and perform advanced data manipulation tasks using [[Python]]'s [[pandas]] library.
 
 ### Key Activities
 - **Disk Space Management**: Utilized terminal commands `df` and `du` to check disk usage and identify large files in the `/home` partition. Removed unnecessary files using `rm` to free up space.

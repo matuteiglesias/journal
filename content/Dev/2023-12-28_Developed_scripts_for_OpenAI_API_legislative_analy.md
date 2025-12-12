@@ -17,7 +17,7 @@ publish: true
 The session aimed to develop and refine [[Python]] scripts for processing legislative texts using the [[OpenAI]] [[API]], focusing on dynamic prompt [[integration]] and token management strategies.
 
 ### Key Activities
-- **Script Development**: Created scripts for processing [[Jupyter]] notebooks and legislative texts using the [[OpenAI]] [[API]], emphasizing [[error handling]] and [[data processing]].
+- **Script Development**: Created scripts for processing Jupyter notebooks and legislative texts using the [[OpenAI]] [[API]], emphasizing [[error handling]] and [[data processing]].
 - **Dynamic Prompt [[Integration]]**: Implemented dynamic [[integration]] of article numbers into prompts for legislative analysis, ensuring consistent output format.
 - **Token Management**: Developed strategies for managing token limits, including calculating token usage and adjusting text segment lengths.
 - **Model Selection**: Discussed factors for choosing [[OpenAI]] models based on token limits and prompt length [[optimization]].

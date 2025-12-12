@@ -14,19 +14,19 @@ publish: true
 
 
 ### Session Goal
-The primary aim of this session was to diagnose and resolve a `422 Unprocessable Entity` error occurring in a FastAPI application due to incorrect file handling in [[API]] requests.
+The primary aim of this session was to diagnose and resolve a `422 Unprocessable Entity` error occurring in a [[FastAPI]] application due to incorrect file handling in [[API]] requests.
 
 ### Key Activities
 - **Error Diagnosis**: Identified that the error was caused by sending a file path instead of file content in the POST request.
 - **Frontend Fixes**: Updated the frontend to correctly send the file path in the payload, ensuring compatibility with the backend.
-- **Backend Adjustments**: Modified the FastAPI backend to accept both `text` and `path` inputs in the Pydantic model, improving [[error handling]] and functionality.
+- **Backend Adjustments**: Modified the [[FastAPI]] backend to accept both `text` and `path` inputs in the Pydantic model, improving [[error handling]] and functionality.
 - **[[Strategy]] Evaluation**: Evaluated different strategies for file handling in [[API]] development, deciding on a default approach for local development.
 - **Flow [[Integration]]**: Implemented a flow execution feature in the Code Review Page using React and TypeScript.
 - **Code Analysis**: Analyzed the `runFlow` function for potential improvements in [[error handling]] and performance.
 
 ### Achievements
 - Successfully resolved the `422 Unprocessable Entity` error by aligning frontend and backend processes.
-- Improved the robustness of the FastAPI application by refining the `FlowRequest` model.
+- Improved the robustness of the [[FastAPI]] application by refining the `FlowRequest` model.
 - Enhanced the code review process with new flow execution capabilities.
 
 ### Pending Tasks

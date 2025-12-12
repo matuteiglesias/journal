@@ -17,7 +17,7 @@ publish: true
 The session aimed to explore various aspects of [[AI]]-native MVP development, orchestration, and the transformation of developer roles in [[AI]] systems.
 
 ### Key Activities
-- Reviewed a lightweight MVP boilerplate for FastAPI and Next.js, including tech stack and usage instructions.
+- Reviewed a lightweight MVP boilerplate for [[FastAPI]] and Next.js, including tech stack and usage instructions.
 - Discussed leveraging existing workflows to maintain momentum in MVP development.
 - Reflected on the transformation from MVP makers to [[AI]] system orchestrators, emphasizing skill development.
 - Explored designing Domain-Specific Languages (DSLs) for [[AI]] workflows to enable complex [[automation]].
@@ -28,7 +28,7 @@ The session aimed to explore various aspects of [[AI]]-native MVP development, o
 - Highlighted the innovative potential of treating prompt blocks as first-class software artifacts.
 - Discussed revolutionizing developer experience with prompt blocks as atomic units in [[AI]] workflows.
 - Reflected on the skills and mindset required for pioneering in [[AI]] development.
-- Reviewed a starter template for MVP development with FastAPI and Next.js.
+- Reviewed a starter template for MVP development with [[FastAPI]] and Next.js.
 - Reflected on practical learning experiences from building MVPs beyond academic learning.
 
 ### Achievements

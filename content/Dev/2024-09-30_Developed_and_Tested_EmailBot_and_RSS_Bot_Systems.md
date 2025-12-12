@@ -22,7 +22,7 @@ The session aimed to develop and test components for an EmailBot and RSS Bot sys
 - Resolved [[Python]] import issues by modifying `__init__.py` files and adjusting `PYTHONPATH`.
 - Fixed an argument error in the `fetch_emails()` method and improved email fetching logic with logging and [[error handling]].
 - Implemented a Telegram data ingestor bot using the Telethon library to fetch messages and save them to a SQLite database.
-- Addressed ArgumentError in [[Jupyter]] notebooks when using `unittest` and provided solutions for testing asynchronous code.
+- Addressed ArgumentError in Jupyter notebooks when using `unittest` and provided solutions for testing asynchronous code.
 - Developed an RSS Bot framework for parsing job postings and storing data in MongoDB, with a successful test of core logic.
 
 **Achievements:**

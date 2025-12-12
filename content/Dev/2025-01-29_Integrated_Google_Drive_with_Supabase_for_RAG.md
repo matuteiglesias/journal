@@ -19,7 +19,7 @@ The primary goal of this session was to integrate Google Drive with Supabase to 
 ### Key Activities
 - **[[Integration]] Setup**: Established a structured approach to integrate Google Drive with Supabase, detailing key considerations and best practices for syncing documents and managing metadata.
 - **Directory Management**: Created a directory structure in Google Drive using the Google Drive [[API]] with [[Python]] and the `gdrive` command-line tool, including step-by-step instructions and sample scripts.
-- **Tool Installation**: Installed `gdrive` and `rclone` for managing Google Drive files, providing alternative solutions for cloud storage management on [[Linux]].
+- **Tool Installation**: Installed `gdrive` and `rclone` for managing Google Drive files, providing alternative solutions for cloud storage management on Linux.
 - **Error Resolution**: Resolved the `redirect_uri_mismatch` error encountered with Google [[API]] credentials by ensuring the correct redirect URI was authorized in the Google Cloud Console.
 - **Synchronization**: Set up bidirectional synchronization between Google Drive and Supabase using n8n and rclone for [[automation]].
 

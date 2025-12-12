@@ -22,7 +22,7 @@ The session aimed to establish a comprehensive [[documentation]] [[strategy]] fo
 - **Command Update**: Updated the usage of the `pdoc` command by removing the obsolete `--html` flag, as the new version generates HTML by default.
 - **Name Collision Resolution**: Provided a solution for resolving name collisions in `pdoc` [[documentation]] generation by specifying the local folder path.
 - **[[Automation]] of Submodule [[Documentation]]**: Outlined methods and provided a script to automate [[documentation]] for all submodules within a [[Python]] package using `pdoc`.
-- **FastAPI [[Troubleshooting]]**: Addressed issues with autodocumentation in FastAPI projects, providing fixes for missing dependencies and suggestions for safer code imports.
+- **[[FastAPI]] [[Troubleshooting]]**: Addressed issues with autodocumentation in [[FastAPI]] projects, providing fixes for missing dependencies and suggestions for safer code imports.
 
 ### Achievements
 - Successfully outlined a [[documentation]] [[strategy]] for Terra.
@@ -31,4 +31,4 @@ The session aimed to establish a comprehensive [[documentation]] [[strategy]] fo
 
 ### Pending Tasks
 - Implement the outlined [[documentation]] [[strategy]] across the Terra system.
-- Further test and refine the [[documentation]] generation process for FastAPI projects.
+- Further test and refine the [[documentation]] generation process for [[FastAPI]] projects.

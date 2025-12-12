@@ -20,7 +20,7 @@ The session aimed to modularize and migrate the RAG (Retrieval-Augmented Generat
 - **[[Debugging]]**: Addressed `InvalidUpdateError` in Career Growth Mapping Flow, focusing on state updates and [[error handling]].
 - **Implementation**: Developed Network Activation & Outreach Flow and Freelance & Side Hustle Flow, leveraging [[automation]] and [[AI]].
 - **Planning**: Defined architectural overview for a modular [[workflow]] system and [[AI]]-powered career management systems.
-- **Execution**: Extracted function and class definitions from [[Python]] codebase and [[Jupyter]] Notebooks using command-line tools and scripts.
+- **Execution**: Extracted function and class definitions from [[Python]] codebase and Jupyter Notebooks using command-line tools and scripts.
 - **[[Refactoring]]**: Analyzed codebase fragmentation and proposed [[refactoring]] strategies for a clean, modular RAG pipeline.
 - **[[File Management]]**: Initialized [[Python]] files for the `v2/` directory and outlined a modular organization plan.
 - **Migration**: Completed migration of remaining components in the RAG codebase, ensuring all functions and classes are correctly placed.

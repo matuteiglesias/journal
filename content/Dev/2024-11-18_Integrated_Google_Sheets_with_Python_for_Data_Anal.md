@@ -20,7 +20,7 @@ The session aimed to integrate Google Sheets with [[Python]] for [[data analysis
 - **Google Sheets [[Integration]]**: Set up [[Python]] environment to access and manipulate Google Sheets using `gspread` and `google-auth` libraries. Implemented authentication and data manipulation code.
 - **Data Cleaning**: Addressed duplicate column names in Google Sheets and fetched raw data for analysis. Utilized [[Pandas]] for [[data processing]].
 - **Financial [[Data Analysis]]**: Analyzed account balances and aggregated financial data, focusing on credit and debit analysis, and recalculating quarterly totals.
-- **[[Troubleshooting]]**: Resolved Google Sheets [[API]] connection issues by resetting [[Jupyter]] kernel and optimizing code.
+- **[[Troubleshooting]]**: Resolved Google Sheets [[API]] connection issues by resetting Jupyter kernel and optimizing code.
 - **Financial Dynamics**: Explored financial dynamics of household and related accounts, including property management and family business.
 
 ### Achievements

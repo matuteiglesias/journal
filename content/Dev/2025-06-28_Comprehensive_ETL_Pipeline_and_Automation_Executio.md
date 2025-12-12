@@ -29,5 +29,5 @@ The primary objective of this session was to execute and refine a comprehensive 
 - Established a reproducible system for ETL and analysis regeneration, incorporating [[automation]] strategies.
 
 ### Pending Tasks
-- Further enhancements to the ETL pipeline, such as integrating a Makefile, scheduler, or [[Jupyter]] Notebook version for more robust [[automation]].
+- Further enhancements to the ETL pipeline, such as integrating a Makefile, scheduler, or Jupyter Notebook version for more robust [[automation]].
 - Continued refinement of [[data [[visualization]]]] strategies and plotting scripts for improved insights.

@@ -14,10 +14,10 @@ publish: true
 
 
 **Session Goal:**
-The session aimed to automate the conversion of [[Jupyter]] notebooks to [[Markdown]] format and enhance [[data processing]] techniques using [[Python]] and [[Pandas]].
+The session aimed to automate the conversion of Jupyter notebooks to [[Markdown]] format and enhance [[data processing]] techniques using [[Python]] and [[Pandas]].
 
 **Key Activities:**
-- Converted [[Jupyter]] notebook scripts to [[Markdown]], ensuring proper formatting with escaped code blocks.
+- Converted Jupyter notebook scripts to [[Markdown]], ensuring proper formatting with escaped code blocks.
 - Introduced a Data Cleaning Notebook for processing electoral data, detailing its structure and functionalities.
 - Provided [[Python]] code snippets for converting [[DataFrame]] column names to lowercase using [[Pandas]].
 - Demonstrated methods for storing and reading dictionaries in [[JSON]] and [[CSV]] formats.
@@ -28,7 +28,7 @@ The session aimed to automate the conversion of [[Jupyter]] notebooks to [[Markd
 - Demonstrated saving a [[Python]] dictionary to a [[JSON]] file using the [[json]] module.
 
 **Achievements:**
-- Successfully converted [[Jupyter]] notebooks to [[Markdown]] format.
+- Successfully converted Jupyter notebooks to [[Markdown]] format.
 - Enhanced [[data processing]] workflows with new scripts and methods.
 
 **Pending Tasks:**

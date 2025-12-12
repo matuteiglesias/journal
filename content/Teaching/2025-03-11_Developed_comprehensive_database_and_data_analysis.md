@@ -18,9 +18,9 @@ The session aimed to develop and refine educational exercises focused on databas
 
 ### Key Activities
 - Introduced pgAdmin for querying PostgreSQL databases, emphasizing practical skills for a [[Data Science]] course.
-- Conducted a practical exercise comparing [[Pandas]] and SQL operations in [[Jupyter]] Notebook to highlight syntax and performance differences.
+- Conducted a practical exercise comparing [[Pandas]] and SQL operations in Jupyter Notebook to highlight syntax and performance differences.
 - Designed a database modeling exercise using DBML, focusing on ER diagrams and SQL schema generation.
-- Developed a [[workflow]] for normalizing a geographic dataset from the 2010 Argentina Census in BigQuery.
+- Developed a [[workflow]] for normalizing a geographic dataset from the 2010 [[Argentina]] Census in BigQuery.
 - Compiled SQL and [[Python]] snippets for data transformation and [[visualization]] using [[Pandas]] and Seaborn.
 - Created a series of exercises for database modeling and SQL querying, covering various scenarios like sports leagues and airline databases.
 

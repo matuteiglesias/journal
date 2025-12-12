@@ -19,7 +19,7 @@ The objective of this session was to develop a comprehensive framework for cours
 ### Key Activities
 - Outlined a framework for course-overall materials, detailing specific documents required for stakeholders such as course overviews, instructor guides, and student handbooks.
 - Organized course materials by key outcomes, ensuring coverage of course foundations, teaching resources, evaluation methods, and technical infrastructure.
-- Explored state-of-the-art approaches for coding tutoring using [[Jupyter]] Notebooks, emphasizing [[automation]] and feedback mechanisms.
+- Explored state-of-the-art approaches for coding tutoring using Jupyter Notebooks, emphasizing [[automation]] and feedback mechanisms.
 - Developed a [[workflow]] for integrating Google Colab with [[GitHub]] for student management, facilitating real-time tracking and portfolio evaluation.
 - Drafted and refined the course overview and syllabus for the Laboratorio de Datos FCEN, including course structure, objectives, weekly topics, and grading criteria.
 - Integrated software [[documentation]] into the course content to enhance educational materials.

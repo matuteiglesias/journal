@@ -18,7 +18,7 @@ The session aimed to explore and analyze various aspects of Argentine legislatio
 
 ### Key Activities
 - Developed [[Python]] scripts for downloading and extracting text from PDF files using libraries like PyPDF2.
-- Analyzed economic decrees and commercial laws in Argentina, including the impact and modernization proposals for laws such as Ley N° 18.425 and Ley Nº 19.227.
+- Analyzed economic decrees and commercial laws in [[Argentina]], including the impact and modernization proposals for laws such as Ley N° 18.425 and Ley Nº 19.227.
 - Discussed the implications of law derogations, including Ley 26.736 and Ley 20.657, highlighting the influence of commercial interests and lobbying.
 - Outlined guidelines for researching specific laws and understanding the historical and economic context of Argentine legislation.
 

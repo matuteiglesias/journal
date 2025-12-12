@@ -18,7 +18,7 @@ The session aimed to enhance the [[data processing]] pipeline for clustering and
 
 ### Key Activities:
 - Identified potential sources for clustering scripts, focusing on documents with relevant code and concepts.
-- Utilized Bash and Unix commands to list and locate [[Jupyter]] notebooks modified recently or on specific dates.
+- Utilized Bash and Unix commands to list and locate Jupyter notebooks modified recently or on specific dates.
 - Discussed the current state and proposed modular evolution of the session processing pipeline.
 - Proposed a modular structure for Chroma [[data processing]] notebooks, detailing responsibilities and content.
 - Developed a notebook for [[data extraction]] and preprocessing from ChromaDB, saving processed data as [[CSV]].

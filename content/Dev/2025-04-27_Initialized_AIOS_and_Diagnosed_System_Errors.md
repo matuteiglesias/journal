@@ -18,7 +18,7 @@ The primary aim of this session was to initialize the AIOS system locally and di
 
 ### Key Activities
 - Successfully launched the AIOS system with all core components operational, including the dogfood_champion agent.
-- Discussed handling CTRL+C in Uvicorn/FastAPI to ensure graceful server shutdowns.
+- Discussed handling CTRL+C in Uvicorn/[[FastAPI]] to ensure graceful server shutdowns.
 - Conducted a detailed analysis of system errors in the DogfoodChampion agent, identifying causes and proposing solutions.
 - Outlined the design and operational plan for the Dogfeeder agent to support the Terra ecosystem.
 - Implemented a robust JSONL reader function in [[Python]] to handle file reading safely.

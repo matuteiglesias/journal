@@ -19,7 +19,7 @@ The primary goal of this session was to explore and enhance [[web scraping]] tec
 ### Key Activities
 - Explored methods for fetching content from Google News using RSS feed parsing and HTML scraping.
 - Developed a [[Python]] script for concatenating and deduplicating [[CSV]] files using [[Pandas]].
-- Implemented a web crawler in [[Jupyter]] Notebook, emphasizing scalability and error logging.
+- Implemented a web crawler in Jupyter Notebook, emphasizing scalability and error logging.
 - Analyzed and improved Selenium-based scripts for LinkedIn messaging [[automation]] and web page scraping.
 - Addressed technical issues like thread safety, timeout handling, and port conflicts in Selenium.
 - Proposed a robust solution involving a single-driver-per-page model for handling [[JavaScript]]-heavy pages.

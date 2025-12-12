@@ -18,14 +18,14 @@ The session aimed to integrate Google Drive with Supabase to streamline [[file m
 
 ### Key Activities
 - **[[Integration]] Setup**: Established [[integration]] between Google Drive and Supabase, focusing on folder mapping and metadata embedding.
-- **Supabase [[CLI]] Installation**: Installed and configured the Supabase [[CLI]] on [[Linux]], including locating and editing the `rclone.conf` file.
+- **Supabase [[CLI]] Installation**: Installed and configured the Supabase [[CLI]] on Linux, including locating and editing the `rclone.conf` file.
 - **Storage Management**: Executed commands for creating buckets and managing files within Supabase storage, tailored for academic purposes.
 - **[[Workflow]] [[Optimization]]**: Developed and tested workflows integrating Supabase with n8n for automated [[data processing]].
 - **[[Troubleshooting]]**: Addressed issues with the `npx supabase start` command and refined [[CLI]] commands for storage management.
 
 ### Achievements
 - Successfully integrated Google Drive with Supabase, facilitating efficient [[file management]] in RAG workflows.
-- Completed installation and [[configuration]] of the Supabase [[CLI]] on [[Linux]].
+- Completed installation and [[configuration]] of the Supabase [[CLI]] on Linux.
 - Developed a comprehensive plan for Supabase [[integration]] with n8n workflows, enhancing [[automation]] capabilities.
 
 ### Pending Tasks

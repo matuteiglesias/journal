@@ -24,7 +24,7 @@ The session aimed to explore various strategies for plant protection from pests 
 - Provided guidance on safe repellents and pesticides for flowering marijuana plants.
 - Detailed information on Glacoxan products and molluscicides.
 - Diagnosed erratic cursor issues related to hardware and software, focusing on the motherboard, USB ports, and system bus.
-- Offered a guide on using terminal commands to obtain system driver information on [[Linux]] and Windows.
+- Offered a guide on using terminal commands to obtain system driver information on Linux and Windows.
 
 ### Achievements:
 - Developed a comprehensive understanding of plant protection methods and their practical implementations.

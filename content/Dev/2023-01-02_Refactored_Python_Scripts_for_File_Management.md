@@ -17,7 +17,7 @@ publish: true
 The session aimed to enhance [[Python]] scripts for [[file management]] tasks, including downloading, extracting, moving, and renaming files, with a focus on code readability and efficiency.
 
 ### Key Activities
-- Converted [[Jupyter]] Notebooks to [[Python]] scripts using `nbconvert`.
+- Converted Jupyter Notebooks to [[Python]] scripts using `nbconvert`.
 - Developed [[Python]] functions for unzipping files and listing text files using list comprehensions.
 - Refactored code for downloading and extracting zip files, incorporating functions for better organization.
 - Provided code [[optimization]] suggestions, including the use of `itertools`, `pathlib`, and the `zipfile` module.

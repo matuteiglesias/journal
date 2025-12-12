@@ -22,7 +22,7 @@ The goal of this session was to enhance the financial document processing pipeli
 - Fixed errors in accessing YAML pipeline configurations in [[Python]], providing corrected code solutions and alternative methods.
 - Implemented dynamic [[configuration]] access in YAML for more maintainable and scalable multi-pipeline execution.
 - Refactored two similar functions into a single asynchronous function for processing financial documents using [[OpenAI]]'s [[API]].
-- Explained the correct usage of asynchronous functions in [[Jupyter]] Notebooks, promoting better practices for handling async code.
+- Explained the correct usage of asynchronous functions in Jupyter Notebooks, promoting better practices for handling async code.
 
 ### Achievements
 - Successfully updated and corrected pipeline configurations, enhancing the processing of financial documents.

@@ -24,11 +24,11 @@ The session aimed to refactor and modularize components of an [[AI]] development
 - Planned a 5-day [[strategy]] for developing [[AI]]-powered MVPs using shared components.
 - Proposed a custom flow engine inspired by LangChain for flexible [[AI]] [[workflow]] composition.
 - Reviewed and refactored the core [[AI]] modules, consolidating logic into two main files for better modularity.
-- Created HTTP endpoints in FastAPI to trigger [[AI]] flows, consolidating [[API]] route files for better management.
+- Created HTTP endpoints in [[FastAPI]] to trigger [[AI]] flows, consolidating [[API]] route files for better management.
 
 ### Achievements
 - Successfully refactored the core [[AI]] execution files for enhanced structure and modularity.
-- Developed a clear [[strategy]] for [[API]] route consolidation in FastAPI, aligning with best practices.
+- Developed a clear [[strategy]] for [[API]] route consolidation in [[FastAPI]], aligning with best practices.
 
 ### Pending Tasks
 - Implement the proposed modular refactor plan for the [[AI]] system architecture.

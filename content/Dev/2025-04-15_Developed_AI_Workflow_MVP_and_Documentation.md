@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal:
-The session aimed to develop and document the [[AI]] [[Workflow]] MVP, a minimalist framework using [[Python]] and FastAPI for building modular [[AI]] workflows with YAML and Prompty templates. The goal was to enhance developer [[productivity]] by providing a scalable solution for multi-step LLM pipelines.
+The session aimed to develop and document the [[AI]] [[Workflow]] MVP, a minimalist framework using [[Python]] and [[FastAPI]] for building modular [[AI]] workflows with YAML and Prompty templates. The goal was to enhance developer [[productivity]] by providing a scalable solution for multi-step LLM pipelines.
 
 ### Key Activities:
 - **[[AI]] [[Workflow]] MVP Framework**: Discussed the design and [[deployment]] of a developer-oriented orchestration engine for [[AI]] workflows.

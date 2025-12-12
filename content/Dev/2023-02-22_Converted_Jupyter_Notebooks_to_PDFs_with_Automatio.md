@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to automate the conversion of [[Jupyter]] Notebook files (.ipynb) into PDF format while preserving the directory structure, and to troubleshoot any issues encountered during the process.
+The primary goal of this session was to automate the conversion of Jupyter Notebook files (.ipynb) into PDF format while preserving the directory structure, and to troubleshoot any issues encountered during the process.
 
 ### Key Activities
 1. **Causal Analysis Reflection**: Discussed the impact of parameter p1 on treatment assignment and ATE estimation, considering its role as a potential confounding variable.
@@ -25,7 +25,7 @@ The primary goal of this session was to automate the conversion of [[Jupyter]] N
 6. **Team [[Communication]]**: Uploaded code to Dropbox and offered to enhance [[communication]] regarding code updates, including scheduling a call with Eric.
 
 ### Achievements
-- Successfully automated the conversion of [[Jupyter]] Notebooks to PDFs while preserving directory structures.
+- Successfully automated the conversion of Jupyter Notebooks to PDFs while preserving directory structures.
 - Resolved nbconvert command errors and ensured smooth execution of the conversion process.
 - Enhanced team [[communication]] by sharing code updates and scheduling further discussions.
 

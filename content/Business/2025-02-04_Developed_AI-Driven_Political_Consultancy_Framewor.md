@@ -23,7 +23,7 @@ The session aimed to explore and develop [[AI]]-driven workflows and business mo
 - **Organizational Plan**: Created a plan for [[AI]]-powered workflows, detailing steps for writing, research, software engineering, and more.
 - **Material Preparation**: Prepared a checklist for organizing materials for [[AI]] workflows in political narratives.
 - **[[Automation]] in Directory Management**: Automated the creation of directory structures and README files for organizing political narratives.
-- **[[File Management]] Enhancements**: Configured [[Markdown]] previews in file explorers and resolved issues in [[Linux]] file managers.
+- **[[File Management]] Enhancements**: Configured [[Markdown]] previews in file explorers and resolved issues in Linux file managers.
 
 ### Achievements
 - Developed a comprehensive framework for [[AI]]-driven political consultancy.

@@ -19,7 +19,7 @@ The primary goal of this session was to design and structure an analytical frame
 **Key Activities:**
 - Outlined the necessary datasets and their structures for electoral analysis, including ecological inference and voter participation.
 - Proposed various notebook structures for analyzing electoral results, covering geographic analysis, candidate performance, and voter behavior.
-- Discussed collaborative tools for [[Jupyter]] Notebooks, specifically focusing on Google Colab and Visual Studio Code's Live Share for enhanced teamwork.
+- Discussed collaborative tools for Jupyter Notebooks, specifically focusing on Google Colab and Visual Studio Code's Live Share for enhanced teamwork.
 - Provided detailed guides on using Google Colab for data handling, including [[CSV]] [[file management]] and Google Drive [[integration]].
 - Reflected on optimizing [[Pandas]] code for electoral [[data analysis]], focusing on data transformation and [[visualization]].
 

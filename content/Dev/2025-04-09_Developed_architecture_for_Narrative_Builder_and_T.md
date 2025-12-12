@@ -23,7 +23,7 @@ The session aimed to explore and develop architectural frameworks for two key [[
 - Refined the Narrative Builder for efficiency by reimagining backend scripts as configurable pipeline presets.
 - Provided an overview of a Code Intelligence Toolkit for developers and analysts, emphasizing its capabilities in managing codebases and data workflows.
 - Differentiated the KnowledgeOps Core from the [[AI]] Text Processor, detailing their functionalities and shared components.
-- Developed an [[integration]] plan for incorporating KnowledgeOps Core and [[AI]] Text Processor into the PromptOpsFrontend using React and FastAPI.
+- Developed an [[integration]] plan for incorporating KnowledgeOps Core and [[AI]] Text Processor into the PromptOpsFrontend using React and [[FastAPI]].
 
 **Achievements:**
 - Established a comprehensive architectural framework for the Narrative Builder and Text Intelligence Suite.

@@ -17,7 +17,7 @@ publish: true
 The session aimed to enhance and automate the process of [[AI]]-driven book creation and PDF compilation using [[Python]] and the [[OpenAI]] [[API]].
 
 ### Key Activities
-- Developed a structured process for utilizing [[AI]] agents in book content creation, including roles and [[automation]] in a [[Jupyter]] notebook.
+- Developed a structured process for utilizing [[AI]] agents in book content creation, including roles and [[automation]] in a Jupyter notebook.
 - Improved the `book_creation.ipynb` with structured agents for content generation, review, refinement, and final approval, incorporating logging and [[error handling]].
 - Demodularized scripts for content generation and review using [[OpenAI]]'s [[API]].
 - Updated [[OpenAI]] [[API]] usage to `[[openai]].ChatCompletion.create` to address deprecation issues.

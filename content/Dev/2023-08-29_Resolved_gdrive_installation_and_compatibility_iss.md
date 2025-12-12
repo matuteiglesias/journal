@@ -19,14 +19,14 @@ The primary goal of this session was to install and configure the `gdrive` comma
 ### Key Activities
 - **Installation and Authentication**: Followed a guide to install `gdrive` and authenticate it for use with Google Drive.
 - **Error Resolution**: Addressed an 'Exec format error' by checking system architecture and downloading the correct binary.
-- **Compatibility Checks**: Ensured the gdrive binary was compatible with a 64-bit [[Linux]] system.
+- **Compatibility Checks**: Ensured the gdrive binary was compatible with a 64-bit Linux system.
 - **PATH Diagnostics**: Diagnosed issues related to the `gdrive` executable not being found in the system PATH.
 - **Bash [[Troubleshooting]]**: Investigated bash execution issues and compatibility with the `gdrive` binary.
 - **Binary Compatibility**: Resolved compatibility issues related to the system's C library.
 - **Rust-based Installation**: Explored installing a Rust-based version of `gdrive` as an alternative.
 
 ### Achievements
-- Successfully installed and configured the `gdrive` tool on a 64-bit [[Linux]] system.
+- Successfully installed and configured the `gdrive` tool on a 64-bit Linux system.
 - Resolved multiple compatibility and execution issues, ensuring the tool operates smoothly.
 
 ### Pending Tasks

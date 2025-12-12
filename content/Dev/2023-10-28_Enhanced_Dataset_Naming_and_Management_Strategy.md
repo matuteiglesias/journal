@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to refine and implement effective file naming conventions for datasets related to poverty statistics and GeoJSON data in Argentina, ensuring clarity and consistency.
+The session aimed to refine and implement effective file naming conventions for datasets related to poverty statistics and GeoJSON data in [[Argentina]], ensuring clarity and consistency.
 
 ### Key Activities
 - Outlined conventions for generating filenames across various dataset families, including processed datasets and GeoJSON formats.

@@ -19,7 +19,7 @@ The session aimed to explore the concept of Prompt Runtime Contracts and their i
 ### Key Activities
 - **Understanding Prompt Runtime Contracts**: Discussed the structure and importance of Prompt Runtime Contracts in ensuring observability, reproducibility, and modularity in [[AI]] systems.
 - **Defining the Prompt Runtime Contract**: Emphasized the need for formal definitions and standards in prompt engineering, focusing on clarity and minimalism.
-- **Structuring Software Architecture for [[PromptFlow]]**: Outlined a layered approach to software architecture, detailing components such as the spec, [[Python]] library, FastAPI layer, and frontend interface.
+- **Structuring Software Architecture for [[PromptFlow]]**: Outlined a layered approach to software architecture, detailing components such as the spec, [[Python]] library, [[FastAPI]] layer, and frontend interface.
 - **Startup Potential of [[AI]] Infrastructure**: Explored business models and developer-native prompt runtime for [[AI]] infrastructure platforms.
 - **Building a Lean Protocol-Layer Business**: Discussed strategic approaches for developing a lean protocol-layer business, focusing on revenue streams and sustainable growth.
 

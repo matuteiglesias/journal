@@ -14,7 +14,7 @@ publish: true
 
 
 **Session Goal:**
-The session aimed to enhance the HTML structure and content for various sections of a web project, focusing on recent projects, thesis work, [[GitHub]] repositories, and data tools related to Argentina.
+The session aimed to enhance the HTML structure and content for various sections of a web project, focusing on recent projects, thesis work, [[GitHub]] repositories, and data tools related to [[Argentina]].
 
 **Key Activities:**
 - Modified HTML snippets to display recent projects such as a poverty map and an electoral map, with links to their respective pages.

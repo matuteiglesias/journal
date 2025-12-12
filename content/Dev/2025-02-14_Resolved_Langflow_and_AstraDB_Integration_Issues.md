@@ -17,7 +17,7 @@ publish: true
 The session aimed to resolve various [[integration]] issues between Langflow and AstraDB, focusing on [[debugging]], [[workflow]] generation, and database management.
 
 ### Key Activities
-- **[[Debugging]] Langflow Startup Issues**: Identified and resolved common startup issues involving FastAPI middleware and SQLAlchemy.
+- **[[Debugging]] Langflow Startup Issues**: Identified and resolved common startup issues involving [[FastAPI]] middleware and SQLAlchemy.
 - **LangChain [[Workflow]] Design**: Developed structured prompts for Langflow [[workflow]] generation using few-shot prompting techniques.
 - **AstraDB [[Error Handling]]**: Addressed issues related to AstraDB vector storage and [[integration]] with Langflow, including missing fields and node disconnections.
 - **[[Git]] Operations**: Explored methods for downloading specific directories from the Langflow [[GitHub]] repository.

@@ -22,7 +22,7 @@ The session aimed to integrate and initialize the Matías Dev Template, focusing
 - Reviewed project structure and suggested improvements such as adding a `.gitignore`, modifying `setup.sh`, and creating a default `README.md`.
 - Clarified correct usage of quotes in Bash scripts to ensure proper execution.
 - Conducted a script review and provided improvement suggestions for consistency and error prevention.
-- Introduced Appgun as a fullstack project generator to streamline project setup using Next.js and FastAPI.
+- Introduced Appgun as a fullstack project generator to streamline project setup using Next.js and [[FastAPI]].
 - Created and set up a [[Git]] repository for `matias-dev-template`, including version control preparations.
 - Optimized license generation using `npx` and addressed performance issues.
 - Implemented [[GitHub]] Push Protection to handle exposed [[API]] keys and secure commits.

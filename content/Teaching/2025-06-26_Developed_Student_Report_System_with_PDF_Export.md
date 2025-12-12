@@ -18,10 +18,10 @@ The session aimed to develop a comprehensive student-specific reporting system t
 
 **Key Activities:**
 - Designed a structured plan to generate student reports using [[Python]] DataFrames.
-- Created a custom [[Jupyter]] report template for student performance, formatted in HTML.
+- Created a custom Jupyter report template for student performance, formatted in HTML.
 - Improved [[DataFrame]] indexing for efficient [[data processing]].
 - Implemented PDF export functionality using WeasyPrint, including error correction and CSS styling for better aesthetics.
-- Clarified the use of different HTML classes for PDF generation and [[Jupyter]] rendering.
+- Clarified the use of different HTML classes for PDF generation and Jupyter rendering.
 - Enhanced report styling with CSS for improved readability and professional appearance.
 - Developed a script using PyPDF2 to merge multiple PDFs.
 

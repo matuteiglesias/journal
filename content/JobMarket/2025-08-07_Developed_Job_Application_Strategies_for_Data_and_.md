@@ -22,7 +22,7 @@ The session aimed to develop comprehensive job application strategies tailored f
 - **Role Suitability Analysis:** Analyzed [[AI]]/ML roles, recommending the Senior [[AI]] Engineer position due to alignment with experience in MLOps and backend [[Python]].
 - **Comparative Job Analysis:** Conducted a comparative analysis of job announcements for Principal [[Python]] Engineer positions, focusing on technical challenges and role expectations.
 - **CV Recommendation:** Provided a tailored CV and cover note for a Backend Engineer role at Teramind.
-- **Self-Assessment:** Conducted a self-assessment of [[Python]] services experience, highlighting skills in [[Flask]], FastAPI, and CI/CD.
+- **Self-Assessment:** Conducted a self-assessment of [[Python]] services experience, highlighting skills in [[Flask]], [[FastAPI]], and CI/CD.
 - **Application [[Strategy]] for Bitso:** Developed a tailored application [[strategy]] for a Data Engineer role at Bitso, focusing on relevant experience and personalized cover letter.
 
 ### Achievements

@@ -17,7 +17,7 @@ publish: true
 The session aimed to optimize disk space usage and manage [[Python]] packages efficiently across different environments.
 
 ### Key Activities
-- **[[Linux]] Cache Management**: Executed commands to list and clean cache directories on a [[Linux]] system, focusing on both user and system caches to free up disk space.
+- **Linux Cache Management**: Executed commands to list and clean cache directories on a Linux system, focusing on both user and system caches to free up disk space.
 - **[[Python]] Module Cleanup**: Identified and cleaned heavy [[Python]] modules in both global and virtual environments, including reviewing and uninstalling large packages.
 - **Package Management Triage**: Developed a [[strategy]] for reducing the size of [[Python]] package installations by removing large, unused packages.
 - **Disk Space Recovery Plan**: Implemented a multi-step plan to recover disk space by removing unnecessary environments, cleaning caches, and auditing installed packages in a Conda setup.

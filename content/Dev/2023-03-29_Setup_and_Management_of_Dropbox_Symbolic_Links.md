@@ -14,12 +14,12 @@ publish: true
 
 
 **Session Goal:**
-The primary objective of this session was to explore and implement techniques for managing symbolic links within Dropbox and [[Linux]] environments to enhance file synchronization and accessibility.
+The primary objective of this session was to explore and implement techniques for managing symbolic links within Dropbox and Linux environments to enhance file synchronization and accessibility.
 
 **Key Activities:**
 - Instructions were provided on creating links to shared folders in Dropbox using both the desktop and web interfaces.
 - Detailed steps were outlined for copying shortcuts in Windows and Dropbox, including permissions considerations.
-- Several guides were followed to create symbolic links for file synchronization between local directories and Dropbox, utilizing command-line operations in [[Linux]].
+- Several guides were followed to create symbolic links for file synchronization between local directories and Dropbox, utilizing command-line operations in Linux.
 - [[Troubleshooting]] guidance was sought for symlink visibility and readability issues in Dropbox.
 - An overview of [[data science]] project structure and organization was also discussed, focusing on enhancing collaboration and reproducibility.
 

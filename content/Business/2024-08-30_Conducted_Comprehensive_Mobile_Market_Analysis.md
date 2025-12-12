@@ -22,7 +22,7 @@ The session aimed to conduct a comprehensive analysis of the mobile phone market
 - **Brand Analysis**: Conducted a reflection on the competitive landscape of mobile brands by price segment, providing strategic recommendations.
 - **Quality Analysis**: Planned and executed an analysis to identify key hardware and software characteristics affecting mobile phone quality.
 - **Price Analysis**: Detailed key columns for analyzing mobile phone quality and price using [[pandas]].
-- **Market Analysis in Argentina**: Reflected on the phone market in Argentina, analyzing price distributions and identifying potential bargains.
+- **Market Analysis in [[Argentina]]**: Reflected on the phone market in [[Argentina]], analyzing price distributions and identifying potential bargains.
 - **Financing Options Evaluation**: Evaluated financing options by calculating the present value of installment plans using a 4% monthly interest rate.
 
 ### Achievements

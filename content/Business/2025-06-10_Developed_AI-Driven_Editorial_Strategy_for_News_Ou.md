@@ -24,7 +24,7 @@ The session aimed to evaluate and develop an [[AI]]-driven editorial [[strategy]
 - Analyzed the 'Article Stack' model for editorial operations, suggesting refinements for [[workflow]] efficiency and content quality.
 - Structured a simulated editorial agenda dashboard for article clustering and summarization.
 - Provided a structured analysis of retrospective datasets for editorial insights.
-- Developed seed cards for article drafting on economic topics, including Argentina's middle class and the Bonte 2030 bond.
+- Developed seed cards for article drafting on economic topics, including [[Argentina]]'s middle class and the Bonte 2030 bond.
 
 ### Achievements
 - Completed a comprehensive [[strategy]] for an [[AI]]-driven news outlet, integrating editorial workflows, value propositions, and content strategies.

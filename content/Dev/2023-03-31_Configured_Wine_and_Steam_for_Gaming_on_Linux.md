@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to configure and troubleshoot the installation of Wine and Steam on a [[Linux]] system to enable gaming, specifically focusing on running Age of Empires II: Definitive Edition.
+The session aimed to configure and troubleshoot the installation of Wine and Steam on a Linux system to enable gaming, specifically focusing on running Age of Empires II: Definitive Edition.
 
 ### Key Activities
 - Verified the installation of Wine and Steam using terminal commands and graphical user interfaces.
@@ -27,7 +27,7 @@ The session aimed to configure and troubleshoot the installation of Wine and Ste
 - Recommended using Proton 6.3-7 for better compatibility with Age of Empires II on Ubuntu 22.04.
 
 ### Achievements
-- Successfully installed and configured Wine and Steam for running Windows games on [[Linux]].
+- Successfully installed and configured Wine and Steam for running Windows games on Linux.
 - Resolved installation issues and dependency errors for Steam.
 - Optimized disk space by removing unnecessary packages and managing large directories.
 

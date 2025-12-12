@@ -23,7 +23,7 @@ The session focused on enhancing both the Retrieval-Augmented Generation (RAG) [
 - **Performance [[Optimization]]**: Explored best practices for optimizing RAG pipeline performance, focusing on practical approaches and standards for context portability and multi-domain adaptability.
 - **Hybrid Storage [[Strategy]]**: Implemented a hybrid storage and querying [[strategy]] using Supabase, detailing architecture and best practices for efficient retrieval and metadata management.
 - **CRAG System Analysis**: Conducted a detailed analysis of the CRAG system for [[integration]] into an existing RAG pipeline, suggesting modifications for effective [[integration]].
-- **Pydantic Models Overview**: Reviewed the use of Pydantic models for data validation and parsing in [[Python]], relevant to FastAPI and [[AI]] systems.
+- **Pydantic Models Overview**: Reviewed the use of Pydantic models for data validation and parsing in [[Python]], relevant to [[FastAPI]] and [[AI]] systems.
 
 ### Achievements
 - Completed a comprehensive analysis of the Document Processing and Retrieval System and HierarchicalRAG System, identifying strengths, weaknesses, and [[integration]] recommendations for RAG pipelines.

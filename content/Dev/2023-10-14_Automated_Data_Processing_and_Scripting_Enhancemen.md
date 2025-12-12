@@ -21,14 +21,14 @@ The session aimed to enhance and automate [[data processing]] workflows using [[
 - Integrated a command to execute the `samplear.py` script, including logging for [[data processing]].
 - Refactored code to generate quarterly dates and loop through years, utilizing the `subprocess` module for external script execution.
 - Ensured restoration of the original working directory post script execution.
-- Provided an overview of code structure for [[data processing]] in [[Jupyter]] Notebooks, covering [[configuration]] and auxiliary data loading.
-- Outlined a framework for descriptive statistics [[Jupyter]] notebooks, detailing data exploration and synthesis.
+- Provided an overview of code structure for [[data processing]] in Jupyter Notebooks, covering [[configuration]] and auxiliary data loading.
+- Outlined a framework for descriptive statistics Jupyter notebooks, detailing data exploration and synthesis.
 - Implemented a new convention for yearly and quarterly [[data processing]] using [[Python]].
 
 ### Achievements
 - Successfully automated the execution of [[data processing]] scripts with integrated logging and [[file management]].
 - Refactored and organized code for better maintainability and scalability.
-- Established a structured approach for descriptive statistics analysis in [[Jupyter]] Notebooks.
+- Established a structured approach for descriptive statistics analysis in Jupyter Notebooks.
 
 ### Pending Tasks
 - Further testing of the automated workflows to ensure robustness across different datasets.

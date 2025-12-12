@@ -22,12 +22,12 @@ The session aimed to enhance [[Python]] scripts by implementing dynamic module m
 - Utilized conditional statements to check for extraction directory existence, optimizing file handling processes.
 - Corrected path formation in [[Python]] scripts for accurate [[data extraction]] from URLs, emphasizing the use of relative paths.
 - Addressed directory name discrepancies in [[Python]] code, ensuring exact folder name matching for directory existence checks.
-- Interpreted and analyzed [[Jupyter]] notebooks related to geospatial [[data processing]], including downloading and manipulating census geometries using `geopandas`.
+- Interpreted and analyzed Jupyter notebooks related to geospatial [[data processing]], including downloading and manipulating census geometries using `geopandas`.
 
 ### Achievements
 - Successfully implemented dynamic module management and improved file handling in [[Python]] scripts.
-- Enhanced understanding of [[Jupyter]] notebooks for geospatial [[data analysis]], detailing steps for processing census geometries.
+- Enhanced understanding of Jupyter notebooks for geospatial [[data analysis]], detailing steps for processing census geometries.
 
 ### Pending Tasks
 - Further testing and validation of the implemented [[Python]] scripts in different environments to ensure robustness.
-- Exploration of additional geospatial [[data processing]] techniques in [[Jupyter]] notebooks.
+- Exploration of additional geospatial [[data processing]] techniques in Jupyter notebooks.

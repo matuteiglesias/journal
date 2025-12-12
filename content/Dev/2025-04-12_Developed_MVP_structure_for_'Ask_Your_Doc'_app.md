@@ -17,10 +17,10 @@ publish: true
 The primary goal of this session was to design and plan the development of a minimal viable product (MVP) named 'Ask Your Doc', which allows users to upload documents and ask questions about their content using [[AI]] services.
 
 ### Key Activities
-- **MVP Planning:** Outlined the development plan and project structure for 'Ask Your Doc', including backend [[API]] endpoints and frontend components using FastAPI and React.
+- **MVP Planning:** Outlined the development plan and project structure for 'Ask Your Doc', including backend [[API]] endpoints and frontend components using [[FastAPI]] and React.
 - **React Hooks Overview:** Reviewed `useState` and `useEffect` hooks in React to enhance interactive component development.
 - **LangChain Prompt Engine:** Designed a LangChain-compatible prompt engine to be integrated into the MVP, focusing on modularity and interoperability.
-- **Frontend and Backend Setup:** Provided a step-by-step guide for setting up the project using Next.js, Tailwind, and FastAPI.
+- **Frontend and Backend Setup:** Provided a step-by-step guide for setting up the project using Next.js, Tailwind, and [[FastAPI]].
 - **[[Integration]] [[Strategy]]:** Developed a [[strategy]] for integrating LangUI components into the app, ensuring a clean structure.
 
 ### Achievements

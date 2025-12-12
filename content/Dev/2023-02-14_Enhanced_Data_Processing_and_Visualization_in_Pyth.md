@@ -17,7 +17,7 @@ publish: true
 The session aimed to enhance [[data processing]] and [[visualization]] techniques using [[Python]] libraries such as [[pandas]] and NetworkX.
 
 ### Key Activities
-- Corrected [[Python]] code for extracting filenames and IO information, ensuring accurate data handling in [[Jupyter]] Notebooks.
+- Corrected [[Python]] code for extracting filenames and IO information, ensuring accurate data handling in Jupyter Notebooks.
 - Implemented data manipulation techniques using [[pandas]], including exploding lists within [[DataFrame]] columns to improve data structure.
 - Modified [[data processing]] logic to incorporate [[DataFrame]] explosion before concatenation, enhancing data [[workflow]] efficiency.
 - Enhanced code for detecting file operations, improving pattern recognition for [[CSV]] and geospatial files.

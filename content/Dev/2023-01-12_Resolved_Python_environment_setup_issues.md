@@ -19,7 +19,7 @@ The main goal of this session was to troubleshoot and resolve issues related to 
 ### Key Activities
 - **Scikit-learn Installation Check**: Verified the installation of the scikit-learn library in the [[Python]] environment using import statements and pip commands.
 - **ImportError [[Troubleshooting]]**: Addressed common causes of `ImportError` for scikit-learn, including environment checks and package reinstallation in a new virtual environment.
-- **[[Python]] Environment Verification**: Used [[Jupyter]] Notebook to check the current [[Python]] environment with the `sys` module and conda commands.
+- **[[Python]] Environment Verification**: Used Jupyter Notebook to check the current [[Python]] environment with the `sys` module and conda commands.
 - **Conda Command Error Resolution**: Provided solutions for the 'conda: command not found' error by checking installation and modifying the PATH variable.
 - **Environment Management with Anaconda**: Managed [[Python]] environments by identifying and switching between them using Anaconda commands.
 - **VS Code [[Python]] Environment [[Configuration]]**: Configured the default [[Python]] environment in Visual Studio Code by editing the settings.[[json]] file.

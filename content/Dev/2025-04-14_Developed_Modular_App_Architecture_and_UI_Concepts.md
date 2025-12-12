@@ -17,7 +17,7 @@ publish: true
 The session aimed to explore and develop a modular app architecture for prompt-driven applications, alongside designing a UI/UX framework for [[AI]] prompt pipelines.
 
 ### Key Activities
-- Implemented a FastAPI application with a summarization feature using Pydantic and [[OpenAI]] [[API]].
+- Implemented a [[FastAPI]] application with a summarization feature using Pydantic and [[OpenAI]] [[API]].
 - Outlined a roadmap for a modular app architecture, focusing on core components and [[integration]] steps.
 - Conceptualized a Stack-of-Blocks Interface for [[AI]] prompt pipelines, emphasizing UI/UX features.
 - Discussed the 'stacked blocks' interface concept for [[AI]] applications, comparing existing tools and highlighting unique features.

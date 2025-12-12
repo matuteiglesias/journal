@@ -18,7 +18,7 @@ The session aimed to develop structured exercises for teaching data cleaning, tr
 
 ### Key Activities:
 - Created a structured statement for an exercise involving the cleaning and conversion of geospatial data to `GeoDataFrame`, and its [[visualization]].
-- Developed exercises for cleaning and visualizing geospatial data using GeoPandas and Folium, with a dataset of WiFi access points in Argentina.
+- Developed exercises for cleaning and visualizing geospatial data using GeoPandas and Folium, with a dataset of WiFi access points in [[Argentina]].
 - Designed exercises for manipulating and visualizing temporal data using [[Pandas]], [[Matplotlib]], and Seaborn, based on real datasets such as recipes.
 - Updated and refined exercises on data manipulation, vectorized operations, and text manipulation in [[Pandas]], including exercises on survey [[data analysis]] and transportation data.
 - Created exercises for advanced [[Pandas]] operations using datasets like 'diamonds', focusing on grouping, aggregation, and transformation techniques.

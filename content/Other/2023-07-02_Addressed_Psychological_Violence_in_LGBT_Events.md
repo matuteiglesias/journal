@@ -23,7 +23,7 @@ The session aimed to explore and address issues related to psychological violenc
 - Developed a manifesto calling for action against exclusion and violence in LGBT events, proposing demands such as diversity in control personnel, training, and anti-violence protocols.
 
 ### Achievements
-- Clarified the connection between legal frameworks and gender issues in Argentina.
+- Clarified the connection between legal frameworks and gender issues in [[Argentina]].
 - Highlighted the importance of diversity and inclusion in event management to improve the experience of LGBT attendees.
 - Produced a manifesto denouncing psychological violence and advocating for change in LGBT event practices.
 

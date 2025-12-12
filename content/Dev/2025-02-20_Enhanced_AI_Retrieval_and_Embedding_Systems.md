@@ -17,7 +17,7 @@ publish: true
 The primary objective was to enhance [[AI]] retrieval and embedding systems by implementing dynamic model selection, efficient caching, and modular code structures.
 
 ### Key Activities
-- **Argument Parsing in [[Jupyter]] Notebooks:** Improved command-line argument handling for [[Jupyter]] notebooks to ensure proper execution of embedding functions.
+- **Argument Parsing in Jupyter Notebooks:** Improved command-line argument handling for Jupyter notebooks to ensure proper execution of embedding functions.
 - **Dynamic Embedding Model Selection:** Implemented dynamic selection and incremental FAISS updates to optimize embedding processes.
 - **Structuring Embedding Storage:** Organized embedding storage with FAISS and Parquet for efficient data retrieval.
 - **Caching Hugging Face Models:** Developed strategies for efficient caching of Hugging Face models to enhance performance.

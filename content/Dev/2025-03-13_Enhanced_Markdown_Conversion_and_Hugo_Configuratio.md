@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session aimed to improve the conversion of [[Jupyter]] notebooks to [[Markdown]] and ensure proper [[configuration]] of Hugo static site generator for accurate content representation and navigation.
+The session aimed to improve the conversion of Jupyter notebooks to [[Markdown]] and ensure proper [[configuration]] of Hugo static site generator for accurate content representation and navigation.
 
 ### Key Activities
-- **Title Extraction Fix**: Updated the script to extract titles from [[Jupyter]] notebook metadata for accurate [[Markdown]] conversion.
+- **Title Extraction Fix**: Updated the script to extract titles from Jupyter notebook metadata for accurate [[Markdown]] conversion.
 - **YAML Front Matter Correction**: Addressed and fixed errors in YAML front matter formatting to ensure compatibility with Hugo.
 - **Page Ordering in Hugo**: Implemented changes in Hugo templates to modify front matter, focusing on the `order` field for correct pagination and listing.
 - **Pagination and Menu Sorting**: Modified Hugo's `pagination.html` and global menu templates to ensure natural numeric ordering and correct navigation.

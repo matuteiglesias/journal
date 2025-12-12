@@ -14,12 +14,12 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to troubleshoot and resolve various issues related to [[Jupyter]] Notebook kernel failures and package compatibility, particularly focusing on the 'prompt_toolkit' module and Tornado package.
+The goal of this session was to troubleshoot and resolve various issues related to Jupyter Notebook kernel failures and package compatibility, particularly focusing on the 'prompt_toolkit' module and Tornado package.
 
 ### Key Activities
-- Addressed kernel startup issues in [[Jupyter]] Notebook by providing instructions for restarting the kernel, installing missing modules, and updating packages.
-- Outlined steps to troubleshoot [[Jupyter]] Notebook kernel not starting, including refreshing the page, clearing output, trying different browsers, and seeking technical support.
-- Provided solutions for updating the Tornado package to meet version requirements for [[Jupyter]] Notebook.
+- Addressed kernel startup issues in Jupyter Notebook by providing instructions for restarting the kernel, installing missing modules, and updating packages.
+- Outlined steps to troubleshoot Jupyter Notebook kernel not starting, including refreshing the page, clearing output, trying different browsers, and seeking technical support.
+- Provided solutions for updating the Tornado package to meet version requirements for Jupyter Notebook.
 - Offered guidance on fixing the `prompt_toolkit` module error, including installation commands and environment setup suggestions.
 
 ### Achievements
@@ -27,4 +27,4 @@ The goal of this session was to troubleshoot and resolve various issues related 
 - Addressed Tornado version compatibility issues by updating the package to the required version.
 
 ### Pending Tasks
-- Monitor the [[Jupyter]] Notebook environment for any recurring issues and ensure all packages remain up-to-date.
+- Monitor the Jupyter Notebook environment for any recurring issues and ensure all packages remain up-to-date.

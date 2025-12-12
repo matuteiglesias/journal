@@ -18,15 +18,15 @@ The session aimed to refine the process of managing session logs and artifacts t
 
 ### Key Activities
 - Designed a dual-layer system for managing session logs and artifacts, emphasizing the need for a structured JSONL format.
-- Developed a [[Jupyter]]-based script to compile session summaries into a [[Markdown]] journal, maintaining chronological order and modularity.
+- Developed a Jupyter-based script to compile session summaries into a [[Markdown]] journal, maintaining chronological order and modularity.
 - Integrated session metadata from `.jsonl` files with in-session artifacts from `.txt` files, organizing them into journal entries.
-- Enhanced [[Jupyter]] cells for exporting session summaries to [[Markdown]], ensuring clean formatting and handling missing fields.
-- Implemented custom [[Jupyter]] cells for extracting session data, sorting by date and time, and generating a [[Markdown]] journal with collapsible log snippets.
+- Enhanced Jupyter cells for exporting session summaries to [[Markdown]], ensuring clean formatting and handling missing fields.
+- Implemented custom Jupyter cells for extracting session data, sorting by date and time, and generating a [[Markdown]] journal with collapsible log snippets.
 
 ### Achievements
 - Successfully created a structured approach for session management, integrating metadata and artifacts into a cohesive [[Markdown]] journal.
-- Developed reusable [[Jupyter]] scripts for automating the compilation and formatting of session logs.
+- Developed reusable Jupyter scripts for automating the compilation and formatting of session logs.
 
 ### Pending Tasks
-- Further testing and validation of the [[Jupyter]] scripts in various scenarios to ensure robustness and flexibility.
+- Further testing and validation of the Jupyter scripts in various scenarios to ensure robustness and flexibility.
 - Exploration of additional features for enhancing the [[Markdown]] journal output.

@@ -22,7 +22,7 @@ The session focused on [[refactoring]] a [[Python]] `run()` function with archit
 - Utilized `pipreqs` to generate a `requirements.txt` file, ensuring clean dependency management.
 - Updated and optimized the `requirements.txt` for Cerebrum SDK [[deployment]], avoiding fragile import paths.
 - Set up a clean development environment for [[AI]] agents, including [[automation]] scripts for onboarding.
-- Provided guidance on best practices for file editing and directory management in Unix/[[Linux]].
+- Provided guidance on best practices for file editing and directory management in Unix/Linux.
 
 ### Achievements
 - Successfully refactored the `run()` function and created a unified setup for the AgentLab environment.

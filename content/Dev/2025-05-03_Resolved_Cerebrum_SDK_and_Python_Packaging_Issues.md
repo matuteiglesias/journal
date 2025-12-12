@@ -21,11 +21,11 @@ The primary objective of this session was to resolve installation and pathing is
 - **[[Python]] Package Errors**: Addressed errors in installing the 'cerebrum' folder by creating a minimal `pyproject.toml` file and ensuring installation from the parent directory.
 - **Multi-Module Packaging**: Provided a solution for packaging multiple top-level modules using setuptools by specifying an explicit packages list.
 - **Local Testing**: Conducted local tests on DemoAgent, including setup, execution, and [[troubleshooting]].
-- **Pathing and Import Issues**: Solved pathing problems for [[Python]] scripts and [[Jupyter]] Notebooks by adjusting `sys.path` and correcting import statements.
+- **Pathing and Import Issues**: Solved pathing problems for [[Python]] scripts and Jupyter Notebooks by adjusting `sys.path` and correcting import statements.
 
 ### Achievements
 - Successfully resolved SDK installation issues and [[Python]] packaging errors.
-- Clarified pathing and import errors in [[Python]] scripts and [[Jupyter]] Notebooks.
+- Clarified pathing and import errors in [[Python]] scripts and Jupyter Notebooks.
 
 ### Pending Tasks
 - Further testing of the Cerebrum SDK in different environments to ensure robustness.

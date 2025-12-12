@@ -22,7 +22,7 @@ The session aimed to develop and debug a robust ingestion pipeline for SQLite da
 - Developed a [[Python]] script to reset the SQLite database by dropping the existing 'messages' table and creating a new one with only assistant messages from a [[JSON]] file.
 - Proposed a modular ingestion pipeline structure with a controlled reset mechanism, message filters, and daily JSONL exports.
 - Fixed a [[JSON]] vs JSONL parsing error by providing a robust loader function capable of handling both formats.
-- Addressed a [[Jupyter]] runtime file error in the script, offering a quick fix and file type validation.
+- Addressed a Jupyter runtime file error in the script, offering a quick fix and file type validation.
 - Corrected the `extract_messages()` function to ensure proper filtering and scope access for assistant messages.
 
 ### Achievements

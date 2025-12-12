@@ -14,13 +14,13 @@ publish: true
 
 
 ### Session Goal
-The session aimed to design and execute a modular [[AI]] [[workflow]] architecture for a Minimum Viable Product (MVP) using FastAPI and Next.js, focusing on creating reusable components and ensuring future-proof [[integration]].
+The session aimed to design and execute a modular [[AI]] [[workflow]] architecture for a Minimum Viable Product (MVP) using [[FastAPI]] and Next.js, focusing on creating reusable components and ensuring future-proof [[integration]].
 
 ### Key Activities
 - **Modular App Architecture Design:** Explored strategies for building a flexible [[AI]] framework with reusable components.
 - **[[API]] Layer Understanding:** Detailed the components of the `/[[api]]/` layer, including routes and adapters.
 - **MVP Execution Checklist:** Developed a checklist for executing MVP #1, covering folder setup, prompt schema, flow logic, and more.
-- **Directory Tree Setup:** Provided instructions for scaffolding an MVP directory structure using [[Python]] and FastAPI.
+- **Directory Tree Setup:** Provided instructions for scaffolding an MVP directory structure using [[Python]] and [[FastAPI]].
 - **Phased Development [[Strategy]]:** Implemented a phased [[strategy]] to maintain momentum and clarity in project execution.
 - **Role Definition in [[AI]] [[Workflow]]:** Defined roles of `runner.py` and `adapters/local.py` in the modular architecture.
 - **Code Review [[Automation]]:** Created initial boilerplate code for automating code review processes.

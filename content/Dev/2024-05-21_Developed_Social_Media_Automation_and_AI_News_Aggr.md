@@ -18,7 +18,7 @@ The session aimed to develop a content agenda and [[automation]] script for soci
 
 ### Key Activities
 - Developed a content agenda and script for automating tweets using Tweepy, focusing on enhancing Twitter [[networking]] through profile [[optimization]] and content scheduling.
-- Planned the creation of a NoSQL database for collecting and structuring articles from major digital media in Argentina, with future [[integration]] of NLP and [[AI]].
+- Planned the creation of a NoSQL database for collecting and structuring articles from major digital media in [[Argentina]], with future [[integration]] of NLP and [[AI]].
 - Explored Google News functionalities for news aggregation, indexing, and personalization, with practical implementation examples in [[Python]].
 - Discussed leveraging Google News for [[AI]]-driven insights, focusing on applications for politicians, business professionals, and journalists.
 - Investigated creative [[AI]] applications in journalism, including content generation and predictive analysis.
@@ -28,5 +28,5 @@ The session aimed to develop a content agenda and [[automation]] script for soci
 - Outlined strategies for [[AI]]-driven news aggregation and processing, including potential monetization strategies.
 
 ### Pending Tasks
-- Implement the NoSQL database for article collection in Argentina.
+- Implement the NoSQL database for article collection in [[Argentina]].
 - Further develop [[AI]] applications for news processing and journalism.

@@ -22,7 +22,7 @@ The session aimed to develop a comprehensive legal and strategic framework for m
 - **Family and Property Management Planning**: Proposed work sessions for drafting a Family Management Agreement and a Business Plan.
 - **Legal and Strategic Summaries**: Compiled detailed summaries of family situations related to property management, including legal conflicts and strategies for asset protection.
 - **Drafting Business and Family Agreements**: Outlined a business plan and family agreement to address financial mismanagement and property issues.
-- **Financial and Legal Framework Development**: Structured a balance sheet for rental properties and proposed a legal framework for family agreements in Argentina.
+- **Financial and Legal Framework Development**: Structured a balance sheet for rental properties and proposed a legal framework for family agreements in [[Argentina]].
 
 ### Achievements
 - Developed drafts and templates for legal documents and business plans.

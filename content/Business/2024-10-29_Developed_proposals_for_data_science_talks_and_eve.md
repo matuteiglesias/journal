@@ -22,7 +22,7 @@ The session aimed to develop and refine proposals for talks and events in the fi
 - **Open Conversations:** Proposed transforming academic talks into open, collaborative conversations to encourage student and graduate participation in shaping the future of the [[data science]] field.
 - **Event Planning:** Developed a plan for an activity that involves students and graduates in co-designing the future of the [[data science]] program, culminating in a voting process.
 - **Community Engagement:** Detailed the structure and objectives of an open forum titled 'Building the Future of the LCD Together' to discuss the evolution of the [[data science]] degree.
-- **Inspirational Narrative:** Outlined an inspiring narrative for the LCD 2024 initiative, emphasizing innovation, inclusion, and professional development in [[data science]] [[education]] in Argentina.
+- **Inspirational Narrative:** Outlined an inspiring narrative for the LCD 2024 initiative, emphasizing innovation, inclusion, and professional development in [[data science]] [[education]] in [[Argentina]].
 - **Speech Refinement:** Presented a refined speech focusing on positioning the LCD as a hub of intelligent innovation in [[data science]].
 
 ### Achievements

@@ -21,7 +21,7 @@ The session aimed to resolve [[debugging]] issues, optimize embedding strategies
 - **Optimizing Embedding Strategies:** Explored strategies for embedding text data efficiently, focusing on on-demand embedding to reduce costs and improve storage management.
 - **Optimizing Vector Store Management:** Developed a systematic approach to managing vector store collections, emphasizing gradual information addition and retrieval [[optimization]].
 - **Dynamic Collection Management in Notebook:** Created a structured notebook cell for managing dynamic collections, including defining collections, adding/removing paths, and embedding chunks based on metadata filtering.
-- **[[Debugging]] [[Jupyter]] Notebook Import Issues:** Addressed common issues and solutions for importing [[Python]] modules in [[Jupyter]] Notebooks, ensuring proper module recognition and environment [[configuration]].
+- **[[Debugging]] Jupyter Notebook Import Issues:** Addressed common issues and solutions for importing [[Python]] modules in Jupyter Notebooks, ensuring proper module recognition and environment [[configuration]].
 - **Implementation of `get_chunks_for_collection`:** Implemented a function within the `TextManager` class to retrieve chunk IDs based on specified dataset paths.
 - **Fixing Metadata Loading:** Revised a function to ensure `self.chunks_metadata` is loaded as a dictionary from a [[JSON]] file.
 - **Fix Function Output and Iteration:** Corrected function outputs and iteration for the embedding pipeline, addressing issues with tuple unpacking and metadata extraction.

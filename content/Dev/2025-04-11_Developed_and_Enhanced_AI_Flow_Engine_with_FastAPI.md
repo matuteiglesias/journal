@@ -14,18 +14,18 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance the [[AI]] flow engine by developing a modular architecture using FastAPI, focusing on improving backend and frontend [[integration]] and resolving various programming issues.
+The session aimed to enhance the [[AI]] flow engine by developing a modular architecture using [[FastAPI]], focusing on improving backend and frontend [[integration]] and resolving various programming issues.
 
 ### Key Activities
 - **Fixing [[JSON]] Load Errors in [[Python]]:** Addressed [[JSON]] loading errors by ensuring proper file paths and valid [[JSON]] structure.
-- **Cleaning Up FastAPI Endpoints:** Improved [[API]] design by cleaning up redundant routes and organizing the [[API]] namespace.
+- **Cleaning Up [[FastAPI]] Endpoints:** Improved [[API]] design by cleaning up redundant routes and organizing the [[API]] namespace.
 - **MVP Completion Sprint Roadmap:** Developed a roadmap for completing the MVP of an [[AI]] flow engine, focusing on both backend and frontend enhancements.
 - **Designing a Declarative [[AI]] Pipeline:** Outlined a flexible architecture for an [[AI]] flow runner, emphasizing separation of flow definition from execution.
 - **Fixing TypeScript Error in React Component:** Resolved TypeScript errors in React components using the `useState` hook.
 - **Designing a Modular [[AI]] [[Workflow]] Engine:** Created a modular design for an [[AI]] [[Workflow]] Engine, detailing components and implementation.
 - **Enhancing [[AI]] Flow Engine with Dynamic Features:** Implemented a dynamic flow discovery [[API]] and adaptive frontend features.
 - **TypeScript Compiler Errors and Fixes:** Addressed TypeScript compiler errors related to dynamic schemas in frontend development.
-- **[[Refactoring]] [[API]] and Logic Structure:** Separated router and helper logic in FastAPI for cleaner code structure.
+- **[[Refactoring]] [[API]] and Logic Structure:** Separated router and helper logic in [[FastAPI]] for cleaner code structure.
 - **Resolving Namespace Confusion in [[Python]] Imports:** Solved namespace confusion in [[Python]] imports for correct module usage.
 - **Fixing Import Errors in [[Python]] Project:** Resolved ImportErrors by correcting module imports and project structure.
 - **[[API]] Routes Analysis and Suggestions:** Analyzed current [[API]] routes, identified bugs, and suggested improvements.

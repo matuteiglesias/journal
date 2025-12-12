@@ -18,16 +18,16 @@ The session aimed to organize and structure a [[GitHub]] repository for economic
 
 ### Key Activities
 - Reviewed and summarized the 'Count buyer-seller links.ipynb' notebook, highlighting datasets, methods, findings, and recommendations.
-- Developed prompts for generating technical summaries of [[Jupyter]] notebooks.
+- Developed prompts for generating technical summaries of Jupyter notebooks.
 - Created a [[Python]] script for processing notebooks with [[error handling]] using the [[OpenAI]] [[API]].
-- Designed prompts for organizing [[Jupyter]] notebooks by data pipeline stages and thematic areas.
+- Designed prompts for organizing Jupyter notebooks by data pipeline stages and thematic areas.
 - Proposed a structured organization for a [[GitHub]] repository, including directory structures for data preparation, economic network analysis, and growth and trade analysis.
 - Suggested a notebook renaming scheme using a bash script.
 - Drafted a comprehensive README.md template for the repository.
 
 ### Achievements
 - Established a clear organizational structure for the [[GitHub]] repository, enhancing clarity and usability.
-- Developed tools and scripts to automate and streamline the processing and categorization of [[Jupyter]] notebooks.
+- Developed tools and scripts to automate and streamline the processing and categorization of Jupyter notebooks.
 - Created templates and prompts to facilitate consistent technical [[documentation]] and categorization.
 
 ### Pending Tasks

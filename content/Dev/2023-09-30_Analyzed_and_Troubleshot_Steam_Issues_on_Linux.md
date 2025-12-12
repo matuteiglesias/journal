@@ -14,11 +14,11 @@ publish: true
 
 
 ### Session Goal
-The session aimed to analyze and troubleshoot various issues related to Steam installation and operation on [[Linux]] systems, particularly focusing on Ubuntu.
+The session aimed to analyze and troubleshoot various issues related to Steam installation and operation on Linux systems, particularly focusing on Ubuntu.
 
 ### Key Activities
 - Conducted a thorough analysis of Steam logs to identify errors related to exception handling, dependency issues, and interface overlay problems.
-- Reflected on Steam's behavior on [[Linux]], highlighting method call counts and runtime service behaviors.
+- Reflected on Steam's behavior on Linux, highlighting method call counts and runtime service behaviors.
 - Provided instructions for resolving Steam installation errors, including missing dependencies and GTK theme problems.
 - Compared errors across different Ubuntu machines running Steam, identifying common issues and providing resolution recommendations.
 - Compiled a step-by-step guide for installing and configuring Steam on Ubuntu, addressing package updates, GTK errors, and MESA settings.
@@ -27,7 +27,7 @@ The session aimed to analyze and troubleshoot various issues related to Steam in
 - Analyzed a [[GitHub]] issue related to Steam launch errors and discussed a critical segmentation fault bug affecting Steam on Ubuntu 20.04.5 LTS.
 
 ### Achievements
-- Successfully identified and documented several persistent issues and potential solutions for Steam installation and operation on [[Linux]].
+- Successfully identified and documented several persistent issues and potential solutions for Steam installation and operation on Linux.
 - Developed comprehensive guides and checklists for [[troubleshooting]] and resolving common Steam-related problems on Ubuntu.
 
 ### Pending Tasks

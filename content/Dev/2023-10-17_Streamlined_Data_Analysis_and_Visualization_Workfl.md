@@ -25,7 +25,7 @@ The session aimed to enhance the efficiency and effectiveness of [[data analysis
 - Clarified steps for constructing histograms from datasets and addressed [[visualization]] preferences.
 - Outlined a process for loading [[CSV]] data and creating stacked histograms using [[pandas]] and [[matplotlib]].
 - Enhanced [[data [[visualization]]]] code to include text information and value counts.
-- Developed a [[data analysis]] script for [[Jupyter]] Notebook with structured code and [[markdown]] headings.
+- Developed a [[data analysis]] script for Jupyter Notebook with structured code and [[markdown]] headings.
 
 **Achievements:**
 - Established a clear [[workflow]] for data preparation and [[visualization]].

@@ -18,7 +18,7 @@ The session aimed to outline a strategic vision for [[AI]] development, focusing
 
 ### Key Activities
 - Developed a strategic roadmap for [[AI]] workflows, emphasizing developer experience and [[integration]].
-- Planned the [[integration]] of Discord with FlowMaster for command execution using FastAPI.
+- Planned the [[integration]] of Discord with FlowMaster for command execution using [[FastAPI]].
 - Explored [[AI]] [[workflow]] [[deployment]] across messaging platforms with a YAML-first, modular approach.
 - Discussed the transformative impact of FlowMaster commands on user experience and [[workflow]] orchestration.
 - Analyzed the strategic use of branding elements like the devil emoji to boost user engagement.

@@ -20,7 +20,7 @@ The primary goal of this session was to set up a local web server using Node.js 
 - Developed a Nunjucks template for generating an XML sitemap within an 11ty project, including [[configuration]] and example code.
 - Provided a step-by-step guide to set up a local web server using Node.js and the `http-server` package.
 - Addressed the 'npm command not found' error, detailing the installation of npm and the `http-server` package.
-- Installed Node.js, including downloading from the official site and setting up environment variables on [[Linux]].
+- Installed Node.js, including downloading from the official site and setting up environment variables on Linux.
 - Configured the system's `PATH` environment variable to include the Node.js `bin` directory, allowing command usage from any terminal location.
 - Ran the `http-server` package to serve a local website and configured it to serve `.njk` files correctly.
 - Troubleshot server access issues by providing correct URL usage and browser cache clearing advice.

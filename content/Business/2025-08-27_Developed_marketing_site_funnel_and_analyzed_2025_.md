@@ -32,5 +32,5 @@ The session aimed to develop a comprehensive marketing site funnel checklist and
 - Implemented [[SEO]] and analytics features in a Next.js application.
 
 ### Pending Tasks
-- Further exploration of payment solutions in Argentina and [[integration]] with local platforms like Mercado Libre.
+- Further exploration of payment solutions in [[Argentina]] and [[integration]] with local platforms like Mercado Libre.
 - Continued [[optimization]] of subscription text for user engagement.

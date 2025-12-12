@@ -17,7 +17,7 @@ publish: true
 The session aimed to provide a comprehensive understanding of PostgreSQL installation across various operating systems and delve into [[networking]] concepts crucial for database management.
 
 ### Key Activities
-- Detailed step-by-step installation instructions for PostgreSQL on Windows, macOS, and [[Linux]] distributions were provided.
+- Detailed step-by-step installation instructions for PostgreSQL on Windows, macOS, and Linux distributions were provided.
 - A pre-installation assessment guide was explored, covering checks for existing installations, system compatibility, and other preparatory steps.
 - [[Networking]] concepts such as database ports, localhost, and security considerations were discussed.
 - A list of common network services and their default ports was compiled.

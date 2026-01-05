@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance the [[data processing]] pipeline by implementing project scaffolding, patching scripts, and fixing bugs to improve functionality and [[error handling]].
+The session aimed to enhance the [[data processing]] [[pipeline]] by implementing project scaffolding, patching scripts, and fixing bugs to improve functionality and [[error handling]].
 
 ### Key Activities
 - Developed a project scaffolding for a [[data processing]] project, including [[CLI]] interfaces and [[Python]] modules.
@@ -30,7 +30,7 @@ The session aimed to enhance the [[data processing]] pipeline by implementing pr
 - Improved MDX rendering and [[Markdown]] processing by addressing unclosed HTML tags and code detection issues.
 
 ### Achievements
-- Successfully implemented a robust [[data processing]] pipeline with enhanced [[error handling]] and functionality.
+- Successfully implemented a robust [[data processing]] [[pipeline]] with enhanced [[error handling]] and functionality.
 - Completed bug fixes and applied patches to improve the overall performance and reliability of the system.
 
 ### Pending Tasks

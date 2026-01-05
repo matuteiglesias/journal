@@ -21,7 +21,7 @@ The session aimed to enhance the article management system within [[PromptFlow]]
 - Proposed extensions to the relational model to manage articles, summaries, and ideas with new data structures.
 - Planned a [[strategy]] for integrating systems for article management, emphasizing deduplication and referencing.
 - Executed the [[integration]] of a global article reference layer using `article_index_map` to stabilize article ID traceability in [[PromptFlow]].
-- Implemented the [[integration]] of `article_index_map` into the [[PromptFlow]] pipeline, including data preprocessing and [[configuration]] updates.
+- Implemented the [[integration]] of `article_index_map` into the [[PromptFlow]] [[pipeline]], including data preprocessing and [[configuration]] updates.
 - Enriched PF articles with unique identifiers (UIDs) and additional metadata.
 - Developed a solution for using composite keys to join article metadata, addressing non-unique `article_id` values.
 

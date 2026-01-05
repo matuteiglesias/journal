@@ -20,12 +20,12 @@ The primary objective of this session was to enhance the processing of email dat
 - Developed one-liner computations using [[Pandas]] and NetworkX to analyze email networks, focusing on [[communication]] classification, active user identification, and detecting automated emails.
 - Implemented a [[Python]] script to clean and standardize messy email timestamps to UTC-3, improving data consistency.
 - Streamlined [[DataFrame]] date cleaning processes by optimizing [[Python]] code to eliminate unnecessary variable assignments.
-- Resolved issues with naive datetime objects by converting them to timezone-aware objects in [[Argentina]] local time.
+- Resolved issues with naive datetime objects by converting them to timezone-aware objects in Argentina local time.
 - Fixed a NameError related to the missing `pytz` library by adding the necessary import statement for time zone handling.
 - Addressed invalid email date formats using `dateutil.parser` to ensure robust timestamp parsing and conversion.
 
 ### Achievements
-- Successfully enhanced the email [[data processing]] pipeline with improved data cleaning and analysis techniques.
+- Successfully enhanced the email [[data processing]] [[pipeline]] with improved data cleaning and analysis techniques.
 - Resolved key errors and optimized code for better performance and accuracy.
 
 ### Pending Tasks

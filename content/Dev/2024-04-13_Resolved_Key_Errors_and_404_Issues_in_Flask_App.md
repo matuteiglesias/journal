@@ -17,7 +17,7 @@ publish: true
 The session aimed to troubleshoot and resolve various errors in a [[Flask]] web application, focusing on KeyErrors in prediction logic and 404 Not Found errors in [[API]] endpoints.
 
 ### Key Activities
-- **[[Troubleshooting]] KeyError**: Addressed a missing 'label' column in the [[data processing]] pipeline by enhancing data preparation and [[debugging]] techniques.
+- **[[Troubleshooting]] KeyError**: Addressed a missing 'label' column in the [[data processing]] [[pipeline]] by enhancing data preparation and [[debugging]] techniques.
 - **Resolving 404 Errors**: Implemented solutions for 404 Not Found errors in [[Flask]] [[API]], including route verification, blueprint registration, and AJAX request correction.
 - **Model Retrieval and Dropdown Population**: Updated the `get_models()` function and [[JavaScript]] code to dynamically populate dropdown menus with model filenames.
 - **[[Flask]] Endpoint [[Integration]]**: Modified the `/predict` endpoint to integrate data preprocessing and model prediction logic.

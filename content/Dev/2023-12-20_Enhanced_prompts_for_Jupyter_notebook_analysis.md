@@ -21,7 +21,7 @@ The session aimed to enhance and refine prompts for technical analysis of Jupyte
 - Created a prompt for restructuring Jupyter notebooks by theme and difficulty, providing specific tasks for thematic categorization and difficulty leveling.
 - Provided insights on adjusting the `max_tokens` parameter in the [[OpenAI]] [[API]] for optimal response length.
 - Outlined steps for checking [[OpenAI]] account balance and spending, enhancing understanding of billing and usage.
-- Designed a prompt for organizing Jupyter notebooks by data pipeline stages and thematic areas, suggesting methods for creating an organized collection.
+- Designed a prompt for organizing Jupyter notebooks by data [[pipeline]] stages and thematic areas, suggesting methods for creating an organized collection.
 
 ### Achievements
 - Successfully developed and refined multiple prompt templates for Jupyter notebook analysis and organization.

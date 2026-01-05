@@ -22,12 +22,12 @@ The session aimed to address [[Python]] import path issues and debug both fronte
 - **UI Diagnosis and Backend Bug Fixing**: Developed a systematic approach to diagnose UI issues and fix backend bugs, including a checklist for UI testing.
 - **[[Debugging]] 404 Errors**: Provided a diagnosis and potential fixes for 404 errors in frontend [[API]] calls, with a test plan for validation.
 - **Enhancing TEI Ingestion Logic**: Proposed enhancements to TEI ingestion logic for better metadata management, saving paper-level [[JSON]] files.
-- **Refined Pipeline Architecture**: Outlined a structured approach for managing metadata within a pipeline, integrating with Chroma vector stores.
+- **Refined [[Pipeline]] Architecture**: Outlined a structured approach for managing metadata within a [[pipeline]], integrating with Chroma vector stores.
 
 ### Achievements
 - Successfully configured [[Python]] import paths and resolved import errors.
 - Developed a comprehensive [[debugging]] plan for UI and backend issues.
-- Enhanced metadata ingestion logic and pipeline architecture.
+- Enhanced metadata ingestion logic and [[pipeline]] architecture.
 
 ### Pending Tasks
-- Further testing of the enhanced TEI ingestion logic and pipeline architecture to ensure full [[integration]] with existing systems.
+- Further testing of the enhanced TEI ingestion logic and [[pipeline]] architecture to ensure full [[integration]] with existing systems.

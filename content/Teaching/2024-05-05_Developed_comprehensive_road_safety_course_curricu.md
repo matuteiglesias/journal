@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The objective of this session was to develop a comprehensive curriculum for a road safety [[education]] course tailored for [[Argentina]], focusing on various aspects of road safety and accident prevention.
+The objective of this session was to develop a comprehensive curriculum for a road safety [[education]] course tailored for Argentina, focusing on various aspects of road safety and accident prevention.
 
 ### Key Activities
 - **Course Structure Planning:** Detailed proposal for a six-unit road safety [[education]] course, covering topics such as road risks, driver profile, vehicle maintenance, accident analysis, and traffic legislation.

@@ -17,7 +17,7 @@ publish: true
 The session aimed to integrate various components of the OpenAlex project, including [[data processing]] pipelines, web UI, and legal compliance strategies.
 
 ### Key Activities
-- Implemented an OpenAlex Snapshot Mapper to enhance the [[data processing]] pipeline, using [[Python]] and Makefile targets.
+- Implemented an OpenAlex Snapshot Mapper to enhance the [[data processing]] [[pipeline]], using [[Python]] and Makefile targets.
 - Developed an abstract aggregation [[strategy]] ensuring legal compliance and deterministic joins using identifiers like DOI and arXiv IDs.
 - Designed rights-aware metadata policies to ensure compliance with copyright laws while enhancing user experience.
 - Integrated OpenAlex Web UI with ORDER+ tiles, focusing on [[API]] [[integration]] and navigation.

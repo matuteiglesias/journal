@@ -31,4 +31,4 @@ The session aimed to develop and refine [[Python]] scripts for handling and proc
 
 ### Pending Tasks
 - Further testing and validation of the parsing scripts for different data sets.
-- [[Integration]] of the developed scripts into a larger [[data processing]] pipeline for automated financial reporting.
+- [[Integration]] of the developed scripts into a larger [[data processing]] [[pipeline]] for automated financial reporting.

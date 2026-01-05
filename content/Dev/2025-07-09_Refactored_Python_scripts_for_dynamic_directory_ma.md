@@ -14,12 +14,12 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to refactor [[Python]] scripts to enhance dynamic directory management and ensure modularity in the pipeline setup.
+The primary goal of this session was to refactor [[Python]] scripts to enhance dynamic directory management and ensure modularity in the [[pipeline]] setup.
 
 ### Key Activities
 - Implemented a fix for the `09_run_promptflow.py` script to generalize output directory lookup using dynamic glob patterns.
 - Updated scripts to parameterize legacy paths, ensuring compatibility with orchestrator-driven structures.
-- Revised the `main()` function in the pipeline orchestration block to eliminate hardcoded paths and centralize directory management.
+- Revised the `main()` function in the [[pipeline]] orchestration block to eliminate hardcoded paths and centralize directory management.
 - Developed a structured directory naming [[strategy]] for better project organization and [[file management]].
 - Defined necessary `Path` variables for organizing output directories in [[automation]] workflows.
 

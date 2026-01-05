@@ -22,7 +22,7 @@ The primary goal of this session was to fix and enhance the filename handling lo
 - **Updated [[CSV]] Filename Logic**: Revised the `__main__` block in [[Python]] to include window labels in [[CSV]] filenames, aiding consistent downstream processing.
 - **Corrected RSS [[Data Processing]] Filenames**: Made critical corrections to filename handling in RSS [[data processing]] scripts to preserve window labels.
 - **Fixed RSS Feed Processing Logic**: Restored filename return from the `fetch_and_save_news` function to ensure compatibility with downstream processes.
-- **Tested RSS Pipeline**: Conducted tests on the RSS pipeline using [[Python]] commands, detailing expected output files and processes.
+- **Tested RSS [[Pipeline]]**: Conducted tests on the RSS [[pipeline]] using [[Python]] commands, detailing expected output files and processes.
 - **Enhanced Script with Argument Parsing**: Implemented command-line argument parsing in a [[Python]] script using the argparse library.
 
 ### Achievements
@@ -30,5 +30,5 @@ The primary goal of this session was to fix and enhance the filename handling lo
 - Enhanced the [[Python]] scripts with command-line argument parsing for better flexibility and usability.
 
 ### Pending Tasks
-- Further testing of the RSS pipeline to ensure robustness and handle edge cases.
+- Further testing of the RSS [[pipeline]] to ensure robustness and handle edge cases.
 - Consider additional improvements in slicing logic based on feedback from testing.

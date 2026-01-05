@@ -22,7 +22,7 @@ The session aimed to develop [[Python]] scripts for processing and analyzing Jup
 - Developed scripts to read Jupyter Notebook files, extract code cells, and enumerate their contents.
 - Created workflows to iterate over and print specific cell contents for [[debugging]] and data inspection purposes.
 - Initiated an ETL scratch-pad for financial data aggregation, processing data to create inflow/outflow tables.
-- Designed a modular ETL blueprint for financial [[data processing]], detailing folder structure and pipeline scripts.
+- Designed a modular ETL blueprint for financial [[data processing]], detailing folder structure and [[pipeline]] scripts.
 
 ### Achievements:
 - Successfully set up a [[Python]] environment for Jupyter Notebook processing.

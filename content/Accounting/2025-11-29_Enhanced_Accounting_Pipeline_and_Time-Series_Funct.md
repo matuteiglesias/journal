@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to enhance the accounting pipeline and improve the handling of time-series data in [[Python]] scripts.
+The goal of this session was to enhance the accounting [[pipeline]] and improve the handling of time-series data in [[Python]] scripts.
 
 ### Key Activities
 - **File Handling and Code Navigation**: Utilized [[Python]] scripts to read and display contents of [[Python]] files, locate specific function definitions, and list files in directories.
@@ -23,7 +23,7 @@ The goal of this session was to enhance the accounting pipeline and improve the 
 - **Time-Series Update**: Modified `core_timeseries.py` to include deterministic functions for accounting time-series data, detailing input and output formats.
 
 ### Achievements
-- Successfully refactored the ingestion logic for the accounting pipeline.
+- Successfully refactored the ingestion logic for the accounting [[pipeline]].
 - Implemented robust functions for time-series data handling, enhancing [[data processing]] capabilities.
 
 ### Pending Tasks

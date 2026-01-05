@@ -14,11 +14,11 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance the research triage and screening process using OpenAlex for multidimensional poverty studies in [[Argentina]], and to optimize data export for efficient research triage.
+The session aimed to enhance the research triage and screening process using OpenAlex for multidimensional poverty studies in Argentina, and to optimize data export for efficient research triage.
 
 ### Key Activities
 - Developed a search [[strategy]] using OpenAlex to project multidimensional poverty lines and synthesize data on the Argentine ecosystem.
-- Created exploratory research queries to map research areas in [[Argentina]] via OpenAlex, focusing on major research institutions.
+- Created exploratory research queries to map research areas in Argentina via OpenAlex, focusing on major research institutions.
 - Optimized data export from OpenAlex to streamline research triage, categorizing fields for effective filtering and prioritization.
 - Executed a [[data science]] triage process to evaluate the relevance of research topics, categorizing them into 'keep' or 'discard'.
 - Conducted multiple screenings of research papers and academic documents, categorizing them based on relevance to [[data science]], econometrics, and socio-technical analysis.

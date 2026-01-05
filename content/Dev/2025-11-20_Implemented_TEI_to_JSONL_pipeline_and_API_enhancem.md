@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal:
-The session aimed to implement a pipeline for processing TEI files into JSONL format and enhance [[API]] endpoints for paper metadata retrieval and caching.
+The session aimed to implement a [[pipeline]] for processing TEI files into JSONL format and enhance [[API]] endpoints for paper metadata retrieval and caching.
 
 ### Key Activities:
 - Developed a `main()` function for converting TEI files to JSONL, including metadata handling and error management.
@@ -25,11 +25,11 @@ The session aimed to implement a pipeline for processing TEI files into JSONL fo
 - Debugged [[API]] fetch issues in Next.js, addressing hydration warnings with concrete solutions.
 
 ### Achievements:
-- Successfully implemented a robust TEI to JSONL processing pipeline.
+- Successfully implemented a robust TEI to JSONL processing [[pipeline]].
 - Enhanced [[API]] functionality with caching and admin controls.
 - Resolved [[API]] path mismatches and improved backend robustness.
 - Developed a functional React component for frontend [[integration]].
 
 ### Pending Tasks:
-- Further testing and [[optimization]] of the TEI to JSONL pipeline.
+- Further testing and [[optimization]] of the TEI to JSONL [[pipeline]].
 - Monitor and refine caching strategies for the [[API]] endpoints.

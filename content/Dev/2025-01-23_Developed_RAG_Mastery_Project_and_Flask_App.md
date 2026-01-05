@@ -22,8 +22,8 @@ The session focused on developing a Retrieval-Augmented Generation (RAG) applica
 - Conducted a rapid prototyping sprint for a minimum viable RAG application using [[Flask]] and [[FastAPI]].
 - Addressed common [[Flask]] errors such as `404`, `NameError`, and `TemplateNotFound`.
 - Outlined a project tree structure for a lightweight RAG application.
-- Prioritized tasks for RAG pipeline development and integrated RAPTOR features.
-- Explored modularization of the RAPTOR pipeline and LangChain architecture.
+- Prioritized tasks for RAG [[pipeline]] development and integrated RAPTOR features.
+- Explored modularization of the RAPTOR [[pipeline]] and LangChain architecture.
 
 ### Achievements
 - Completed the setup of a minimal [[Flask]] application with endpoints for file uploads and queries.
@@ -32,4 +32,4 @@ The session focused on developing a Retrieval-Augmented Generation (RAG) applica
 
 ### Pending Tasks
 - Further refinement and scaling of the RAG system, focusing on [[optimization]] and modularization.
-- Implementation of unit tests for the modularized RAPTOR pipeline.
+- Implementation of unit tests for the modularized RAPTOR [[pipeline]].

@@ -19,7 +19,7 @@ The session aimed to integrate [[OpenAI]]'s GPT models into an Evaluator class f
 ### Key Activities
 - Implemented [[OpenAI]] GPT model [[integration]] into the Evaluator class.
 - Managed [[API]] keys using environment variables and Google Cloud's Secret Manager.
-- Followed best practices for [[API]] key security, including exclusion from [[Git]] and CI/CD pipeline [[automation]].
+- Followed best practices for [[API]] key security, including exclusion from [[Git]] and CI/CD [[pipeline]] [[automation]].
 - Integrated Google Cloud Storage into applications for handling file operations.
 - Set up Google Cloud Storage with gcloud [[CLI]], configuring permissions and authentication.
 

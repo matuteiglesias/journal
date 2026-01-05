@@ -14,7 +14,7 @@ publish: false
 
 
 **Session Goal:**
-The goal of this session was to create a structured [[CSV]] table for managing job postings, specifically for [[data science]] and [[AI]] positions in [[Argentina]].
+The goal of this session was to create a structured [[CSV]] table for managing job postings, specifically for [[data science]] and [[AI]] positions in Argentina.
 
 **Key Activities:**
 - Created a [[CSV]]-style table from shared job postings, including data on company names, locations, and job titles, and displayed it using a [[Pandas]] [[DataFrame]].

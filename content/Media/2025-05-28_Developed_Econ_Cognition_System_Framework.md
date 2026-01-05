@@ -23,7 +23,7 @@ The session aimed to conceptualize and plan the development of an economic cogni
 - Reflected on strategic evolution from December 2024 to May 2025, noting changes in emotional and professional states.
 - Proposed a structure for README.md files on [[GitHub]] to align author identity and project presentation.
 - Discussed a professional presentation combining economics, physics, and institutional development with a focus on [[automation]] and data accessibility.
-- Diagnosed the open data repository of [[Argentina]]'s Ministry of Economy, suggesting improvements for [[optimization]].
+- Diagnosed the open data repository of Argentina's Ministry of Economy, suggesting improvements for [[optimization]].
 - Offered a guide for diagnosing and solving common [[GitHub]] issues.
 
 **Achievements:**
@@ -35,4 +35,4 @@ The session aimed to conceptualize and plan the development of an economic cogni
 - Further development and implementation of the econ cognition system.
 - Application of insights from Yahoo Finance analysis to personal projects.
 - Continued refinement of the README.md structure for [[GitHub]] projects.
-- Implementation of suggested improvements for [[Argentina]]'s open data repository.
+- Implementation of suggested improvements for Argentina's open data repository.

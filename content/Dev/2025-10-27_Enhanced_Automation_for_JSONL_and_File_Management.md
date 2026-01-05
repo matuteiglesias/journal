@@ -18,7 +18,7 @@ The primary objective of this session was to enhance and streamline [[automation
 
 ### Key Activities
 - Implemented a strict [[JSON]] Schema for data validation in triage flows, including a [[Python]] validator and strategies for schema compliance.
-- Addressed issues with `jq` quoting and developed a reliable shell pipeline for file movement based on metadata paths.
+- Addressed issues with `jq` quoting and developed a reliable shell [[pipeline]] for file movement based on metadata paths.
 - Created detailed shell and [[Python]] commands for file movement, ensuring metadata paths align with a specified base directory.
 - Developed a comprehensive plan to diagnose and resolve JSONL file handling issues, including a robust file mover in [[Python]] and schema enforcement for date formats.
 - Enhanced a [[Python]] script for file movement with safety features like dry-run, backup, and optional inbox wipe.

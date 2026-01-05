@@ -20,7 +20,7 @@ The session aimed to develop a Named Entity Recognition (NER) system to create a
 - Outlined methodologies for NER development focusing on Spanish text.
 - Conducted a diagnostic review of NER advancements from September 2024 to September 2025.
 - Analyzed improvements and challenges in the NER system.
-- Proposed a mini-pipeline for email NER and developed a runbook for execution.
+- Proposed a mini-[[pipeline]] for email NER and developed a runbook for execution.
 
 ### Achievements
 - Clarified the structured approach and methodologies for NER development.
@@ -28,5 +28,5 @@ The session aimed to develop a Named Entity Recognition (NER) system to create a
 - Developed a runbook to guide the implementation of the NER system.
 
 ### Pending Tasks
-- Further refine the mini-pipeline for email NER.
+- Further refine the mini-[[pipeline]] for email NER.
 - Implement the proposed fixes and test the updated NER system.

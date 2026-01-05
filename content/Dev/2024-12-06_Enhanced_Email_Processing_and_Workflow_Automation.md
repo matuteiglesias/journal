@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance the email processing pipeline by improving script modularity, correcting [[configuration]] files, and integrating workflows with [[automation]] tools.
+The session aimed to enhance the email processing [[pipeline]] by improving script modularity, correcting [[configuration]] files, and integrating workflows with [[automation]] tools.
 
 ### Key Activities
 - Refactored a [[Python]] script for email processing to enhance modularity and maintainability, focusing on centralized environment variable management and logging.

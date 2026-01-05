@@ -21,7 +21,7 @@ The session aimed to organize Matías's weekly schedule, enhance [[networking]] 
 - Developed an action plan for reconnecting with Seba Ciatti, focusing on [[communication]] and long-term engagement.
 - Reorganized weekly agenda to prioritize tasks, including meetings and project work.
 - Created a content agenda for Twitter and a blog, aligning thematic coherence.
-- Analyzed economic factors in [[Argentina]], focusing on supply and demand, inflation, and financial policies.
+- Analyzed economic factors in Argentina, focusing on supply and demand, inflation, and financial policies.
 - Explored workflows for [[AI]]-driven content generation, integrating RSS feeds and data-backed graphics.
 - Outlined career aspirations, balancing roles in data engineering, full-stack development, and public speaking.
 

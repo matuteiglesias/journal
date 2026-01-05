@@ -25,7 +25,7 @@ The session aimed to explore various aspects of Argentine insurance law, focusin
 - Discussed a specific case involving insurance coverage after policy cancellation, referencing Argentine insurance law.
 
 **Achievements:**
-- Clarified the legal framework surrounding insurance liability and prescription in [[Argentina]].
+- Clarified the legal framework surrounding insurance liability and prescription in Argentina.
 - Outlined procedures for consumer claims and legal strategies against insurers.
 
 **Pending Tasks:**

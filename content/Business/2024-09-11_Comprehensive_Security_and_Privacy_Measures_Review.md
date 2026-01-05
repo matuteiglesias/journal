@@ -18,7 +18,7 @@ The session aimed to explore and document comprehensive security and privacy mea
 
 ### Key Activities:
 - **Fraud Management:** Reviewed steps to take after falling for a task scam, emphasizing securing personal and financial information.
-- **Identity Theft Prevention:** Outlined methods to lock or freeze credit in [[Argentina]] to mitigate identity theft risks.
+- **Identity Theft Prevention:** Outlined methods to lock or freeze credit in Argentina to mitigate identity theft risks.
 - **Digital Security:** Discussed protection against SIM swap attacks and 2FA exploitation.
 - **Fraud Prevention:** Identified potential scam indicators to enhance online safety.
 - **Application Monitoring:** Explored techniques for monitoring app behavior on PCs to ensure security.

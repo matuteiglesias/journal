@@ -19,7 +19,7 @@ The session aimed to review and optimize various [[project management]] boards a
 ### Key Activities
 - Reviewed a project plan for establishing an online presence and reconnecting with professional relationships.
 - Evaluated a kanban board structure, identifying strengths and areas for improvement to enhance [[workflow]] efficiency.
-- Outlined a phase-based plan for Software & Systems Development, focusing on pipeline stability and [[deployment]] [[automation]].
+- Outlined a phase-based plan for Software & Systems Development, focusing on [[pipeline]] stability and [[deployment]] [[automation]].
 - Provided insights for refining project board structures, emphasizing task granularity and [[documentation]].
 - Developed a strategic learning and research project overview to enhance intellectual positioning through targeted readings and [[SEO]] strategies.
 - Reviewed and optimized a project board for content [[strategy]], focusing on targeted technical readings, competitor mapping, and [[SEO]].

@@ -27,4 +27,4 @@ publish: true
 
 **Pending Tasks:**
 - Further refinement of SQL queries to enhance clarity and consistency.
-- Continued assessment of data pipeline modularization and efficiency improvements.
+- Continued assessment of data [[pipeline]] modularization and efficiency improvements.

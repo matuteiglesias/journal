@@ -18,14 +18,14 @@ The session aimed to develop comprehensive guides for legal notifications relate
 
 ### Key Activities
 - Created a detailed guide for notifying tenants about outstanding debts, including drafting the notification, methods of delivery, and necessary supporting [[documentation]].
-- Developed insights into legal notifications in rental disputes, particularly in Buenos Aires, [[Argentina]], covering effective notification methods and legal consultation.
+- Developed insights into legal notifications in rental disputes, particularly in Buenos Aires, Argentina, covering effective notification methods and legal consultation.
 - Outlined essential elements for formal debt notification to tenants, ensuring legal clarity and proper [[documentation]].
-- Reviewed an economic analysis of [[Argentina]] by Marina del Polletto, discussing structural issues, fiscal policies, and the need for economic reforms.
+- Reviewed an economic analysis of Argentina by Marina del Polletto, discussing structural issues, fiscal policies, and the need for economic reforms.
 
 ### Achievements
 - Successfully created templates and guides for legal notifications in tenant debt situations.
-- Gained insights into the economic context of [[Argentina]], which may influence legal and business strategies.
+- Gained insights into the economic context of Argentina, which may influence legal and business strategies.
 
 ### Pending Tasks
 - Further refine the legal notification guides based on upcoming legal consultations.
-- Monitor economic developments in [[Argentina]] for potential impacts on legal practices.
+- Monitor economic developments in Argentina for potential impacts on legal practices.

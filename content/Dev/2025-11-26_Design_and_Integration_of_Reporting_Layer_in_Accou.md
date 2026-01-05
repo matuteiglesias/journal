@@ -18,7 +18,7 @@ The primary goal of this session was to design and integrate a reporting layer f
 
 ### Key Activities
 - Designed a reporting layer that reads materialized, validated aggregates, emphasizing separation of concerns between materialization and reporting.
-- Developed a lightweight [[Python]] reporting shim to integrate into the existing pipeline.
+- Developed a lightweight [[Python]] reporting shim to integrate into the existing [[pipeline]].
 - Conducted a codebase consistency check for the accounting system, ensuring function signatures and paths align correctly.
 - Outlined and executed queries for ledger management, focusing on building a ledger base and verifying core timeseries operations.
 - Assessed the codebase architecture, highlighting correctly wired components and proposing a design for a reporting layer, including a minimal stub for the `reports.py` module.

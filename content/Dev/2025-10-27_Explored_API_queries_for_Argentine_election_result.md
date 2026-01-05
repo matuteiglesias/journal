@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to explore and document [[API]] queries for retrieving election results and categories from the Ministry of the Interior in [[Argentina]].
+The session aimed to explore and document [[API]] queries for retrieving election results and categories from the Ministry of the Interior in Argentina.
 
 ### Key Activities
 - Conducted search queries related to the [[API]] endpoints for election results and categories on the Ministry of the Interior's website.

@@ -23,7 +23,7 @@ The session aimed to develop and integrate [[JSON]] Schemas for annotation in th
 - Explored two methods for injecting [[Markdown]] files into Jinja2 prompts, discussing pros and cons with code examples.
 - Integrated [[Markdown]] variables in [[PromptFlow]] using Jinja templates and YAML [[configuration]].
 - Redesigned [[workflow]] in [[PromptFlow]] using `FilePath` for managing `.md` files, enhancing usability and reproducibility.
-- Developed a [[Python]] mini-pipeline for exporting [[Markdown]] files to JSONL format, ensuring deduplication and metadata inclusion.
+- Developed a [[Python]] mini-[[pipeline]] for exporting [[Markdown]] files to JSONL format, ensuring deduplication and metadata inclusion.
 - Resolved parameter name mismatches in [[PromptFlow]] by aligning YAML inputs with [[Python]] function signatures.
 - Diagnosed and corrected output classification errors in [[PromptFlow]], improving semantic anchoring and ingestion accuracy.
 - Updated JSONL-driven run [[configuration]] for [[machine learning]] workflows, ensuring proper data flow and output formatting.

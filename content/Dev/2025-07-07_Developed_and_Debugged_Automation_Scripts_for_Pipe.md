@@ -23,9 +23,9 @@ The primary aim of this session was to develop and debug various [[automation]] 
 
 ### Achievements
 - Successfully outlined execution plans for [[automation]] agents and [[productivity]] tools.
-- Developed a comprehensive scaffold for the job search pipeline script.
+- Developed a comprehensive scaffold for the job search [[pipeline]] script.
 - Resolved multiple script-related issues, enhancing the robustness and functionality of the [[data processing]] pipelines.
 
 ### Pending Tasks
-- Implement the proposed solutions for the [[CSV]] input mismatch and JSONL output name mismatch in the data pipeline.
+- Implement the proposed solutions for the [[CSV]] input mismatch and JSONL output name mismatch in the data [[pipeline]].
 - Continue refining the [[productivity]] agent strategies and their implementation paths.

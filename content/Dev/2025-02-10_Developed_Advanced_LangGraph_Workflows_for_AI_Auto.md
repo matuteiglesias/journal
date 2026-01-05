@@ -22,7 +22,7 @@ The session aimed to develop and implement advanced workflows using LangGraph an
 - Developed advanced LangChain queries for knowledge retrieval and [[AI]]-powered workflows, including book transformation and research [[automation]].
 - Implemented LangGraph workflows for competitor analysis and [[AI]]-driven product development.
 - Enhanced [[Python]] code for robust [[JSON]] handling and error management in LangGraph workflows.
-- Developed a LangGraph pipeline for academic paper screening and book outline processing.
+- Developed a LangGraph [[pipeline]] for academic paper screening and book outline processing.
 - Built [[automation]] flows for career development and job search using Jupyter notebooks and [[Python]] scripts.
 
 ### Achievements:

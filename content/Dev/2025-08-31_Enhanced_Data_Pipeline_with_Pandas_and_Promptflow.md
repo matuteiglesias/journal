@@ -14,7 +14,7 @@ publish: true
 
 
 **Session Goal:**
-The goal of this session was to enhance the [[data processing]] pipeline by implementing robust data handling and [[automation]] scripts using [[Python]] and [[Pandas]].
+The goal of this session was to enhance the [[data processing]] [[pipeline]] by implementing robust data handling and [[automation]] scripts using [[Python]] and [[Pandas]].
 
 **Key Activities:**
 - Developed a master index update script to validate input data, manage directory structures, and write to [[CSV]] files. Implemented [[error handling]] by quarantining bad rows and logging updates for database consistency.
@@ -24,7 +24,7 @@ The goal of this session was to enhance the [[data processing]] pipeline by impl
 - Developed a contract-compliant [[PromptFlow]] runner script with comprehensive input/output management and [[error handling]].
 
 **Achievements:**
-- Successfully enhanced the [[data processing]] pipeline with improved [[error handling]] and [[automation]] capabilities.
+- Successfully enhanced the [[data processing]] [[pipeline]] with improved [[error handling]] and [[automation]] capabilities.
 - Ensured data integrity and efficient processing through updated scripts and robust error management.
 
 **Pending Tasks:**

@@ -29,4 +29,4 @@ The session aimed to implement and optimize synchronization workflows using rclo
 
 **Pending Tasks:**
 - Further [[automation]] of the RAG system alignment with academic folders.
-- [[Optimization]] of the RAG pipeline for enhanced [[AI]] [[integration]] and retrieval.
+- [[Optimization]] of the RAG [[pipeline]] for enhanced [[AI]] [[integration]] and retrieval.

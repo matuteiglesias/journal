@@ -31,5 +31,5 @@ The session aimed to automate the process of backfilling YouTube video data into
 - Established a structured [[workflow]] for curating political content, ensuring relevance and quality.
 
 **Pending Tasks:**
-- Validate the JSONL outputs in the [[PromptFlow]] pipeline to ensure data integrity.
+- Validate the JSONL outputs in the [[PromptFlow]] [[pipeline]] to ensure data integrity.
 - Further refine the criteria for political content selection to improve accuracy and relevance.

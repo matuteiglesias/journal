@@ -14,7 +14,7 @@ publish: false
 
 
 ### Session Goal
-The session aimed to evaluate and enhance the quality of annotations within the [[AI]] pipeline, focusing on algorithm [[optimization]] and health [[strategy]] components.
+The session aimed to evaluate and enhance the quality of annotations within the [[AI]] [[pipeline]], focusing on algorithm [[optimization]] and health [[strategy]] components.
 
 ### Key Activities
 - Loaded and parsed JSONL files using [[Python]] to extract essential information like message index, title, and role.
@@ -30,4 +30,4 @@ The session aimed to evaluate and enhance the quality of annotations within the 
 
 ### Pending Tasks
 - Further refinement of annotation strategies based on the evaluation insights.
-- Implementation of suggested improvements in the [[AI]] pipeline's annotation process.
+- Implementation of suggested improvements in the [[AI]] [[pipeline]]'s annotation process.

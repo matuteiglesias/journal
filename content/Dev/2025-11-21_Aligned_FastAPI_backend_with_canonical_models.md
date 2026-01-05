@@ -31,4 +31,4 @@ The session aimed to align backend, [[API]], and frontend systems using canonica
 - Resolved critical errors and [[integration]] issues in [[FastAPI]] and OpenAPI.
 
 ### Pending Tasks
-- Further testing and validation of the refactored TEI pipeline for robustness and [[error handling]] improvements.
+- Further testing and validation of the refactored TEI [[pipeline]] for robustness and [[error handling]] improvements.

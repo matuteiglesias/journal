@@ -20,7 +20,7 @@ The session aimed to develop a comprehensive [[strategy]] for identifying and ut
 - Compiled search queries for [[API]] [[documentation]] across platforms like OpenAlex, Crunchbase, LinkedIn, Apollo.io, and AngelList.
 - Focused on lead generation tools and sales [[automation]] features, specifically targeting LinkedIn Sales Navigator and Apollo.io.
 - Explored [[API]] resources related to Argentine tech companies, including those in Kaszek and NXTP portfolios.
-- Developed an operational [[strategy]] for identifying key decision-makers in the tech sector, involving a detailed pipeline, scoring functions, and recommended tools.
+- Developed an operational [[strategy]] for identifying key decision-makers in the tech sector, involving a detailed [[pipeline]], scoring functions, and recommended tools.
 - Outlined a contact management [[automation]] system using [[Python]] for enhanced outreach efficiency.
 - Provided a framework for refining social media follows to enhance a tech-policy advisor profile.
 

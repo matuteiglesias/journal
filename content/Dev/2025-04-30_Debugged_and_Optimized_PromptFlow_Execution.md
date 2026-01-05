@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to debug and optimize the execution of various nodes in a [[PromptFlow]] setup, focusing on improving logging, output declaration, and pipeline functionality.
+The session aimed to debug and optimize the execution of various nodes in a [[PromptFlow]] setup, focusing on improving logging, output declaration, and [[pipeline]] functionality.
 
 ### Key Activities
 - **[[Debugging]] Outputs**: Explored methods for inspecting intermediate values in [[PromptFlow]] [[Python]] tools, moving beyond `print()` to more robust logging strategies.

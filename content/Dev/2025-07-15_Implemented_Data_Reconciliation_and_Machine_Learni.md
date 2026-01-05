@@ -21,8 +21,8 @@ The session aimed to implement a data reconciliation layer for census data and s
 - Implemented a linear growth correction methodology for population data from 2010 to 2025.
 - Executed a [[Python]] script for sampling census data via command line.
 - Set up initial configurations for Random Forest models related to the EPH survey.
-- Analyzed the [[machine learning]] pipeline structure and provided recommendations.
-- Established a modular CI setup for the [[machine learning]] pipeline using [[GitHub]] Actions.
+- Analyzed the [[machine learning]] [[pipeline]] structure and provided recommendations.
+- Established a modular CI setup for the [[machine learning]] [[pipeline]] using [[GitHub]] Actions.
 
 ### Achievements
 - Successfully created a patch map and modular function for data preprocessing.
@@ -31,5 +31,5 @@ The session aimed to implement a data reconciliation layer for census data and s
 - Initiated setup for [[machine learning]] models and CI [[integration]].
 
 ### Pending Tasks
-- Further refine the [[machine learning]] model setup and evaluate the pipeline's performance.
-- Implement recommendations from the pipeline analysis for improved efficiency.
+- Further refine the [[machine learning]] model setup and evaluate the [[pipeline]]'s performance.
+- Implement recommendations from the [[pipeline]] analysis for improved efficiency.

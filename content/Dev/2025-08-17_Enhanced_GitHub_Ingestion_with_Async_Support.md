@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance the [[GitHub]] data ingestion pipeline by integrating asynchronous processing, improving [[error handling]], and ensuring compatibility with Jupyter notebooks.
+The session aimed to enhance the [[GitHub]] data ingestion [[pipeline]] by integrating asynchronous processing, improving [[error handling]], and ensuring compatibility with Jupyter notebooks.
 
 ### Key Activities
-- Integrated [[GitHub]] repositories into the existing data ingestion pipeline using a custom [[Python]] script.
+- Integrated [[GitHub]] repositories into the existing data ingestion [[pipeline]] using a custom [[Python]] script.
 - Conducted a smoke test of the [[GitHub]] repo ingestion process using an SQLite database.
 - Refactored the ingestion process to separate file conversion to `TextNode`s from embedding and upserting.
 - Addressed challenges of using asyncio in Jupyter notebooks, providing solutions for async ingestion pipelines.
@@ -28,7 +28,7 @@ The session aimed to enhance the [[GitHub]] data ingestion pipeline by integrati
 
 ### Achievements
 - Successfully integrated async support for [[GitHub]] ingestion in Jupyter environments.
-- Enhanced [[error handling]] and resilience in the ingestion pipeline.
+- Enhanced [[error handling]] and resilience in the ingestion [[pipeline]].
 - Improved metadata handling and ensured compatibility with both Jupyter and [[CLI]] environments.
 
 ### Pending Tasks

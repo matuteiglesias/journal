@@ -20,9 +20,9 @@ The session aimed to explore [[automation]] of micro-narratives from Argentine m
 - Developed a structured approach to automate micro-narratives from Argentine macroeconomic datasets, including examples and output formats.
 - Outlined methods for safely moving and syncing changes between `gh-pages` and `main` branches in [[Git]].
 - Created a Spanish README template for the `economia.gob.ar-datos` repository, detailing its purpose and structure.
-- Drafted a README for the `economía.gob.ar` repository, explaining the automated [[data processing]] pipeline.
+- Drafted a README for the `economía.gob.ar` repository, explaining the automated [[data processing]] [[pipeline]].
 - Discussed key questions for tailoring a report, focusing on requirements like programming languages and [[deployment]] methods.
-- Prepared a report on building a backend-focused news aggregator for economic news in [[Argentina]], detailing technical strategies and tool recommendations.
+- Prepared a report on building a backend-focused news aggregator for economic news in Argentina, detailing technical strategies and tool recommendations.
 
 **Achievements:**
 - Established a clear plan for automating micro-narratives.

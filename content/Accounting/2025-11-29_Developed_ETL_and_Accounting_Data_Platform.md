@@ -14,7 +14,7 @@ publish: true
 
 
 **Session Goal:**
-The session aimed to develop and integrate a defensive wrapper script for materializing accounting artifacts, review existing accounting scripts, and design a comprehensive ETL pipeline and accounting data platform.
+The session aimed to develop and integrate a defensive wrapper script for materializing accounting artifacts, review existing accounting scripts, and design a comprehensive ETL [[pipeline]] and accounting data platform.
 
 **Key Activities:**
 - Created a defensive wrapper script `scripts/materialize.py` for materializing accounting artifacts and integrated it into a Makefile.
@@ -27,10 +27,10 @@ The session aimed to develop and integrate a defensive wrapper script for materi
 
 **Achievements:**
 - Successfully created and integrated a defensive wrapper script for accounting artifact materialization.
-- Established a detailed plan for ETL pipeline assembly and accounting data platform design.
+- Established a detailed plan for ETL [[pipeline]] assembly and accounting data platform design.
 - Developed operational designs and playbooks to ensure auditability and governance.
 
 **Pending Tasks:**
-- Implement the full ETL pipeline based on the outlined plan.
+- Implement the full ETL [[pipeline]] based on the outlined plan.
 - Finalize the [[integration]] of all components into the accounting data platform.
 - Conduct thorough testing and validation of the entire system to ensure accuracy and reliability.

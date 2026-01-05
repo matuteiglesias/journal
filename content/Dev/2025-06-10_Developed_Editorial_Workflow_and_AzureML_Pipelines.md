@@ -17,7 +17,7 @@ publish: true
 The session aimed to develop structured workflows for editorial processes and enhance AzureML pipelines for [[data processing]] and [[automation]].
 
 **Key Activities:**
-- Designed a structured editorial [[workflow]] pipeline to process articles from raw input to publication, detailing each stage's inputs, processes, and outputs.
+- Designed a structured editorial [[workflow]] [[pipeline]] to process articles from raw input to publication, detailing each stage's inputs, processes, and outputs.
 - Defined systematic prompt templates for article processing, including [[CSV]] parsing, agenda generation, and annotation.
 - Explored function calling in the [[OpenAI]] [[API]], focusing on defining functions for structured data handling.
 - Implemented fuzzy row selection in AzureML using [[OpenAI]]'s function calling, modifying YAML-based DAGs.

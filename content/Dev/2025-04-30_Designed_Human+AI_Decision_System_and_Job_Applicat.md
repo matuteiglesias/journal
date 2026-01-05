@@ -17,7 +17,7 @@ publish: true
 The session aimed to design a cooperative human+[[AI]] decision system and outline a structured [[workflow]] for job application management using Directed Acyclic Graphs (DAGs).
 
 ### Key Activities
-- Developed a 3-stage pipeline for a human+[[AI]] decision system focusing on job intake, matching, and proposal drafting.
+- Developed a 3-stage [[pipeline]] for a human+[[AI]] decision system focusing on job intake, matching, and proposal drafting.
 - Outlined a structured [[JSON]] design for a DAG to process job listings, aiding freelance developers in managing applications.
 - Provided a step-by-step guide for executing a flow using the `flow-yaml-generator` tool from the command line.
 - Detailed the `flow.dag.yaml` definition, including structure, inputs, outputs, and suggestions for improvements.

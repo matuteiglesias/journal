@@ -18,7 +18,7 @@ The session aimed to develop a modular framework for content mining and transfor
 
 ### Key Activities:
 - **Framework Development**: Outlined a modular framework for content mining and transformation, detailing its architecture and core value propositions.
-- **SnippetFlow Analysis**: Proposed structure and purpose for SnippetFlow repositories, including 'snippetflow-core' and 'snippetflow-pipeline'.
+- **SnippetFlow Analysis**: Proposed structure and purpose for SnippetFlow repositories, including 'snippetflow-core' and 'snippetflow-[[pipeline]]'.
 - **Data File Pointers**: Identified relevant development notebook files for ongoing projects.
 - **Code Organization**: Structured approach to categorize code blocks into the `snippetflow/` layout for accurate functional placement.
 - **Module Distribution**: Detailed organization and distribution of code snippets across [[Python]] modules in the `snippetflow/` project.

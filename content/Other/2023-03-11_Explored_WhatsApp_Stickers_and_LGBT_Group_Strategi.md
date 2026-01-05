@@ -14,11 +14,11 @@ publish: false
 
 
 ### Session Goal
-The session focused on exploring strategies for acquiring popular WhatsApp stickers and building LGBT WhatsApp groups in [[Argentina]].
+The session focused on exploring strategies for acquiring popular WhatsApp stickers and building LGBT WhatsApp groups in Argentina.
 
 ### Key Activities
 - **WhatsApp Stickers**: Reviewed methods to acquire stickers, including using built-in packs, third-party downloads, custom creations, and sharing in groups.
-- **LGBT Groups**: Explored strategies to find or create LGBT WhatsApp groups in [[Argentina]] using social media, forums, and personal networks.
+- **LGBT Groups**: Explored strategies to find or create LGBT WhatsApp groups in Argentina using social media, forums, and personal networks.
 
 ### Achievements
 - Identified diverse methods for obtaining WhatsApp stickers.

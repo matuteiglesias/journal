@@ -22,7 +22,7 @@ The session aimed to deepen understanding of financial statements and analysis, 
 - **Cash Flow Statement Overview:** Reviewed the structure and significance of the Cash Flow Statement, and its relationship with the Income Statement.
 - **Career Skills for Quantitative Analysts:** Outlined key competencies for quantitative analysts, emphasizing statistical modeling, programming, and risk management.
 - **Job Application Strategies:** Developed tailored responses for job applications, particularly for Connective Capital Management.
-- **Salary Negotiation Insights:** Provided guidance on salary expectations for remote quantitative analyst roles in [[Argentina]].
+- **Salary Negotiation Insights:** Provided guidance on salary expectations for remote quantitative analyst roles in Argentina.
 
 ### Achievements
 - Clarified the roles of different financial statements in business analysis.

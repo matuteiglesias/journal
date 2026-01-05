@@ -19,7 +19,7 @@ The session aimed to develop tailored job applications for various tech companie
 ### Key Activities
 - **Job Applications:**
   - Created tailored responses and summaries for job applications at QuintoAndar, highlighting skills in economics, [[machine learning]], and data [[integration]].
-  - Developed a job application [[strategy]] and cover letter for an [[AI]] Engineer position at HyperionDev, focusing on [[Python]] proficiency and modular [[AI]] pipeline design.
+  - Developed a job application [[strategy]] and cover letter for an [[AI]] Engineer position at HyperionDev, focusing on [[Python]] proficiency and modular [[AI]] [[pipeline]] design.
   - Drafted and revised a cover letter for a Senior [[AI]] Engineer role at Motius, emphasizing experience in LLMs, mentorship, and a scientist mindset.
 - **Technical Scripts:**
   - Provided a [[Python]] script for merging JSONL files and instructions for saving [[Pandas]] DataFrames as [[JSON]] Lines.

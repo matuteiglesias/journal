@@ -22,7 +22,7 @@ The session aimed to develop detailed outlines for various books and guides rela
 - Outlined a book on 'Mastering Databases and Data Warehousing,' including SQL and NoSQL systems.
 - Drafted a comprehensive book on ETL processes, detailing tools like Apache NiFi and Talend.
 - Prepared an outline for 'Cloud Mastery for Data Engineers,' covering AWS, Azure, and Google Cloud.
-- Outlined a book on Data Pipeline Orchestration, utilizing Apache Airflow and Luigi.
+- Outlined a book on Data [[Pipeline]] Orchestration, utilizing Apache Airflow and Luigi.
 - Structured a book on integrating DevOps and MLOps practices, focusing on data engineering and [[machine learning]] operations.
 - Created an outline for 'Leading in the Big Data Era,' aimed at managers overseeing engineering teams.
 - Outlined strategies for recruiting and hiring data engineers, focusing on team building and interview processes.

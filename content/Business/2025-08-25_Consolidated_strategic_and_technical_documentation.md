@@ -19,7 +19,7 @@ The session aimed to consolidate recent journal learnings into transversal axes 
 **Key Activities:**
 - Proposed a framework to transform technical logs into more accessible and valuable content.
 - Analyzed the 'Octopus Mode' concept for organizing projects using a central [[automation]]/[[documentation]] stack.
-- Outlined a detailed plan for a knowledge infrastructure sprint to process academic papers through a reproducible pipeline.
+- Outlined a detailed plan for a knowledge infrastructure sprint to process academic papers through a reproducible [[pipeline]].
 - Developed a comprehensive media monitoring [[strategy]] to leverage data and integrate it into a broader media intelligence framework.
 - Identified high-risk open ends in projects, focusing on [[integration]] debt and pending tasks, and suggested reviewing specific logs for further insights.
 

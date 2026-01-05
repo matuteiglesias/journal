@@ -25,7 +25,7 @@ The session aimed to resolve errors with the [[Matplotlib]] `pyplot` module and 
 
 ### Achievements
 - Successfully resolved [[Matplotlib]] errors, enabling smooth [[data [[visualization]]]] workflows.
-- Implemented a robust audio processing pipeline for speech recognition, including format conversion and transcription.
+- Implemented a robust audio processing [[pipeline]] for speech recognition, including format conversion and transcription.
 
 ### Pending Tasks
 - Further testing of audio quality improvements for speech recognition accuracy.

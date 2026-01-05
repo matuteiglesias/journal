@@ -34,4 +34,4 @@ The session aimed to review and enhance financial management processes within a 
 ### Pending Tasks
 - Implement the developed templates and checklists for financial management improvements.
 - Execute the sprint plan for internal debt management.
-- Follow through with the recommended quick fixes for the ETL pipeline.
+- Follow through with the recommended quick fixes for the ETL [[pipeline]].

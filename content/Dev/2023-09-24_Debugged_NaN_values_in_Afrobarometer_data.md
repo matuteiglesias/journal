@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to identify and resolve NaN values in the datetime column of Afrobarometer datasets, and to implement a robust [[data processing]] pipeline using both R and [[Python]].
+The primary goal of this session was to identify and resolve NaN values in the datetime column of Afrobarometer datasets, and to implement a robust [[data processing]] [[pipeline]] using both R and [[Python]].
 
 ### Key Activities
 - Debugged NaN values in the Afrobarometer dataset, focusing on the datetime column.

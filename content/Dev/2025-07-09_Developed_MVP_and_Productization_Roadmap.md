@@ -18,9 +18,9 @@ The session aimed to refine a [[Python]] function for [[data processing]], devel
 
 ### Key Activities
 - **Refined `filter_top_candidates` Function**: Improved the function to filter and group candidates by score with configurable limits.
-- **Productization Roadmap**: Outlined a staged roadmap for transforming a backend pipeline into a UI application, including development, packaging, and cloud hosting phases.
+- **Productization Roadmap**: Outlined a staged roadmap for transforming a backend [[pipeline]] into a UI application, including development, packaging, and cloud hosting phases.
 - **5-Hour MVP Development Plan**: Created a structured plan for developing an MVP using [[FastAPI]] and React, with a detailed hour-by-hour breakdown.
-- **Data Model and Directory Structure**: Planned a data model and directory structure for a job query pipeline.
+- **Data Model and Directory Structure**: Planned a data model and directory structure for a job query [[pipeline]].
 - **Lean Job Discovery App Design**: Designed an app for job discovery, detailing core features and development timeline.
 
 ### Achievements

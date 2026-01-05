@@ -18,7 +18,7 @@ The session aimed to refine and analyze web crawling scripts to improve [[data e
 
 **Key Activities:**
 - Assisted with [[debugging]] and file uploads to ensure smooth operation of the web crawling scripts.
-- Conducted a web crawling experiment using the Spider [[API]], focusing on [[data extraction]] from academic and research websites in [[Argentina]].
+- Conducted a web crawling experiment using the Spider [[API]], focusing on [[data extraction]] from academic and research websites in Argentina.
 - Refactored the [[API]] crawling script to enhance modularity and [[error handling]], enabling efficient crawling of multiple URLs.
 - Analyzed the crawling outputs from several websites, including Conicet, UTN, ITBA, LIAA, Fundación Sadosky, and ICC, identifying issues and recommending solutions for improved [[data extraction]].
 - Summarized insights from the crawling outputs, highlighting the structure of the websites and proposing solutions for effective data retrieval.

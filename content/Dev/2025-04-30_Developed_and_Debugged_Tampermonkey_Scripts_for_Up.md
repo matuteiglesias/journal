@@ -23,13 +23,13 @@ The session aimed to develop and debug Tampermonkey scripts to automate job appl
 - Developed a checklist for [[troubleshooting]] script execution issues, including token validation and console log checks.
 - Debugged [[API]] [[integration]] issues related to Bearer tokens.
 - Utilized Upwork job data for [[automation]], including tagging jobs and designing an [[automation]] agent.
-- Outlined a job application [[automation]] pipeline and job funnel architecture, focusing on efficient job application processes.
+- Outlined a job application [[automation]] [[pipeline]] and job funnel architecture, focusing on efficient job application processes.
 
 ### Achievements
 - Successfully debugged and improved Tampermonkey scripts for Upwork.
 - Developed a comprehensive [[troubleshooting]] guide for script execution issues.
-- Designed a job application [[automation]] pipeline blueprint.
+- Designed a job application [[automation]] [[pipeline]] blueprint.
 
 ### Pending Tasks
-- Implement the outlined job application [[automation]] pipeline.
+- Implement the outlined job application [[automation]] [[pipeline]].
 - Further refine the job funnel architecture to enhance application relevance and efficiency.

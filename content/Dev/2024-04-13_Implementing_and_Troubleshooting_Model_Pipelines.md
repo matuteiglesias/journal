@@ -18,7 +18,7 @@ The session aimed to enhance and troubleshoot various aspects of [[machine learn
 
 ### Key Activities
 - Discussed best practices for naming conventions in model saving to ensure clarity and organization.
-- Outlined steps to fit a [[machine learning]] model using a pipeline, evaluate its performance, and save the trained model with a descriptive filename.
+- Outlined steps to fit a [[machine learning]] model using a [[pipeline]], evaluate its performance, and save the trained model with a descriptive filename.
 - Developed methods for saving model predictions to [[CSV]] files during retraining to enhance data accessibility.
 - Implemented dynamic model retraining and plot updating in web applications using [[JavaScript]] and [[Flask]].
 - Troubleshot issues related to undefined model names in [[API]] calls and float conversion errors in model predictions.
@@ -30,5 +30,5 @@ The session aimed to enhance and troubleshoot various aspects of [[machine learn
 - Enhanced [[API]] endpoints for better [[error handling]] and data preprocessing [[integration]].
 
 ### Pending Tasks
-- Further refine the preprocessing pipeline to handle new categories more gracefully.
+- Further refine the preprocessing [[pipeline]] to handle new categories more gracefully.
 - Continue testing and [[debugging]] [[API]] endpoints to ensure robust backend [[communication]] and frontend updates.

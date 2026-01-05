@@ -22,7 +22,7 @@ The session aimed to address various challenges related to processing and saving
 - **[[CSV]] Parsing and Saving**: Developed a script to parse multiple [[CSV]] files from Erste accounts, assign metadata, and save cleaned data.
 - **Encoding Detection**: Implemented automatic encoding detection for [[CSV]] files to prevent UnicodeDecodeErrors.
 - **File Processing [[Automation]]**: Ensured directories exist before saving processed CSVs, handling errors related to missing folders.
-- **Pipeline Development**: Created a notebook pipeline for processing Erste account statements, including reading CSVs, handling encodings, cleaning data, applying a canonical transaction schema, and exporting results.
+- **[[Pipeline]] Development**: Created a notebook [[pipeline]] for processing Erste account statements, including reading CSVs, handling encodings, cleaning data, applying a canonical transaction schema, and exporting results.
 - **[[CSV]] Comma Handling**: Addressed issues with unprotected commas in [[CSV]] fields, using tokenization to preserve data integrity.
 
 ### Achievements

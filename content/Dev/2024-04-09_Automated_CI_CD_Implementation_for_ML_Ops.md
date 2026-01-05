@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary objective was to establish a robust CI/CD pipeline for ML Ops using [[GitHub]] Actions, focusing on automating data updates, model retraining, and [[workflow]] orchestration.
+The primary objective was to establish a robust CI/CD [[pipeline]] for ML Ops using [[GitHub]] Actions, focusing on automating data updates, model retraining, and [[workflow]] orchestration.
 
 ### Key Activities
 - **Automatización de Actualizaciones en ML Ops**: Developed a [[strategy]] for automated [[workflow]] management in ML Ops, covering data detection to model updates.
@@ -28,7 +28,7 @@ The primary objective was to establish a robust CI/CD pipeline for ML Ops using 
 - **Limpiar Repositorio de [[Git]] y Actualizar .gitignore**: Outlined steps to clean [[Git]] repositories and update `.gitignore` files.
 
 ### Achievements
-- Established a comprehensive CI/CD pipeline using [[GitHub]] Actions for ML Ops.
+- Established a comprehensive CI/CD [[pipeline]] using [[GitHub]] Actions for ML Ops.
 - Enhanced script modularity and [[error handling]] in ML Ops projects.
 - Improved [[Git]] repository management and synchronization.
 

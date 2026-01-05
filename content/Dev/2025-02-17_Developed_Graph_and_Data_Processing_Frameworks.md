@@ -20,7 +20,7 @@ The session aimed to explore and develop frameworks for graph traversal, propert
 - Discussed the use of graph traversal queries using SPARQL and Cypher, emphasizing their roles in embedding-based and property graph models.
 - Outlined a property graph schema for managing contact networks, detailing node and edge schemas and [[AI]] [[workflow]] [[integration]].
 - Planned a scalable infrastructure for tracking interactions and relationships, focusing on [[automation]] and [[AI]]-assisted data curation.
-- Developed a [[data processing]] pipeline for Neo4j, including steps for data ingestion, entity extraction, and loading into a graph database.
+- Developed a [[data processing]] [[pipeline]] for Neo4j, including steps for data ingestion, entity extraction, and loading into a graph database.
 - Explored strategies for effective web crawling, including scope definition and filtering mechanisms.
 - Reviewed a list of online resources related to the Facultad de Ciencias Exactas y Naturales (UBA).
 - Reflected on optimizing text processing with RAKE and balancing detail in concept mapping.
@@ -31,5 +31,5 @@ The session aimed to explore and develop frameworks for graph traversal, propert
 - Developed strategies for efficient web crawling and text processing.
 
 ### Pending Tasks
-- Further development and testing of the [[data processing]] pipeline for Neo4j.
+- Further development and testing of the [[data processing]] [[pipeline]] for Neo4j.
 - Implementation of the outlined web crawling strategies in a practical setting.

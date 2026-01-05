@@ -18,7 +18,7 @@ The session aimed to develop [[automation]] pipelines and business strategies fo
 
 ### Key Activities
 - **[[Automation]] Pipelines**: Outlined a structured approach to creating reusable, demo-ready pipelines for creatives and developers using YAML recipes. This included twelve demo templates and orchestration details.
-- **Octopus Mode [[Automation]]**: Implemented five templates in an [[automation]] pipeline with detailed steps and code, including a minimal runner and helper scripts.
+- **Octopus Mode [[Automation]]**: Implemented five templates in an [[automation]] [[pipeline]] with detailed steps and code, including a minimal runner and helper scripts.
 - **[[AI]] Business Development**: Developed a strategic plan for an [[AI]]-driven business focused on automating research and triage processes, including target customer segments and go-to-market strategies.
 - **Market Opportunities**: Identified 15 high-signal markets for [[automation]] pipelines, detailing buyers, inputs, deliverables, and KPIs.
 - **Productized Service Plan**: Created a strategic plan to productize ideas into services, focusing on quick value validation.

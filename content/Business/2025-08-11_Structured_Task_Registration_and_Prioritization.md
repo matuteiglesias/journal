@@ -20,7 +20,7 @@ The session aimed to organize and prioritize tasks effectively by leveraging str
 - Discussed the importance of dictating tasks from a whiteboard for structured registration.
 - Explored the classification of tasks by urgency and type to enable prioritization and organization.
 - Recorded initial points for project [[documentation]], including a PDF guide for thesis students, a consultant dossier for the World Bank, and a [[strategy]] for engaging with the provincial Ministry of Security.
-- Described a pipeline for organizing and reconstructing GPT conversations using hierarchical embeddings in [[markdown]], applicable to policy manuals and academic compendiums.
+- Described a [[pipeline]] for organizing and reconstructing GPT conversations using hierarchical embeddings in [[markdown]], applicable to policy manuals and academic compendiums.
 - Planned a [[strategy]] to improve [[communication]] and physical presence in the Department of Computing through contact mapping and a reactivation campaign.
 - Outlined a plan for dedicating fixed weekly blocks to writing and reading related to a political project.
 - Registered 15 tasks and activities, proposing a prioritization matrix.

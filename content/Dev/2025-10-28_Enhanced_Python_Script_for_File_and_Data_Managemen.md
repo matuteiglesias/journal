@@ -26,12 +26,12 @@ The session aimed to enhance a [[Python]] script for effective file movement and
 - Outlined a structured [[JSON]] schema for the `issuer` object, including annotator instructions.
 - Explained the role of 'issuer' in financial documents for foldering and reconciliation.
 - Provided an implementation guide for `issuer_slug` [[JSON]] schema and mover updates.
-- Diagnosed and fixed PDF indexing issues in the [[automation]] pipeline.
+- Diagnosed and fixed PDF indexing issues in the [[automation]] [[pipeline]].
 
 ### Achievements
 - Successfully implemented enhancements in the [[Python]] script for better [[file management]].
 - Established a robust [[JSON]] schema for issuer slug handling.
-- Improved the [[automation]] pipeline's reliability and accuracy.
+- Improved the [[automation]] [[pipeline]]'s reliability and accuracy.
 
 ### Pending Tasks
 - Further testing and validation of the updated script and [[JSON]] schema implementations are needed to ensure full operational reliability.

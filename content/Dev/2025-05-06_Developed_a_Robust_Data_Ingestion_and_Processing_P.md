@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance and stabilize the data ingestion and processing pipeline for GPT chat data and daily logs.
+The session aimed to enhance and stabilize the data ingestion and processing [[pipeline]] for GPT chat data and daily logs.
 
 ### Key Activities
 - Translated and explained a Samsung battery warning to ensure device safety.
@@ -23,7 +23,7 @@ The session aimed to enhance and stabilize the data ingestion and processing pip
 - Defined the vision and identity of Matías as an [[AI]]-augmented entrepreneur.
 - Proposed a 30-day challenge framework for building a media-intelligence system.
 - Explored knowledge clustering and content generation for personal intelligence [[optimization]].
-- Designed a sustainable daily log pipeline and a durable daily intelligence system.
+- Designed a sustainable daily log [[pipeline]] and a durable daily intelligence system.
 - Developed a bulk processing script for yearly data ingestion.
 - Redesigned the ingestion layer for stability and future-proofing.
 - Addressed timestamp format inconsistencies in [[Pandas]] and benchmarked `chunksize` in `[[pandas]].read_csv`.
@@ -31,7 +31,7 @@ The session aimed to enhance and stabilize the data ingestion and processing pip
 - Managed output directories in [[PromptFlow]] and debugged hanging scripts.
 
 ### Achievements
-- Established a comprehensive approach to creating a sustainable ingestion layer and data pipeline.
+- Established a comprehensive approach to creating a sustainable ingestion layer and data [[pipeline]].
 - Improved [[error handling]] and logging in [[data processing]] scripts.
 - Enhanced the robustness and idempotency of [[Python]] loops for [[data processing]].
 

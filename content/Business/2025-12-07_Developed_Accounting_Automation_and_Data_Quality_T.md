@@ -19,9 +19,9 @@ The session aimed to enhance accounting [[automation]] and data quality processe
 ### Key Activities
 - **Accounting [[Automation]]**: Developed SQL and [[Python]] code snippets for ledger mapping and financial checks, including a checklist for monthly closing procedures.
 - **Time Series and Reporting**: Created a [[Pandas]] function for transaction data time series, and implemented a party timeseries view for financial reporting.
-- **Runbook and Diagnostics**: Compiled a runbook for monthly pipeline rebuilds and diagnostics, detailing preflight checks and validation steps.
+- **Runbook and Diagnostics**: Compiled a runbook for monthly [[pipeline]] rebuilds and diagnostics, detailing preflight checks and validation steps.
 - **Data Quality Checks**: Executed data quality diagnostics on financial tables, generating reports and cleaning scripts for [[CSV]] files.
-- **Currency [[Integration]]**: Discussed strategies for integrating currency systems, including FX pipeline design and [[error handling]] for currency data.
+- **Currency [[Integration]]**: Discussed strategies for integrating currency systems, including FX [[pipeline]] design and [[error handling]] for currency data.
 
 ### Achievements
 - Successfully implemented [[automation]] scripts and diagnostic tools for financial [[data processing]].

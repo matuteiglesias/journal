@@ -17,7 +17,7 @@ publish: true
 The session aimed to develop content strategies for a technical book on data engineering and [[machine learning]] on Google Cloud Platform, and to evaluate [[AI]] tools for content generation.
 
 ### Key Activities
-- Created a guide on the legal process of succession in [[Argentina]], detailing steps and costs.
+- Created a guide on the legal process of succession in Argentina, detailing steps and costs.
 - Outlined the procedure to check the registration of a Declaratoria de Herederos.
 - Evaluated [[AI]] tools like GPT-3, Jasper, Manuscriptr, and AX Semantics for content generation.
 - Developed a structured prompting system for technical book writing using GPT-3.

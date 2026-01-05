@@ -28,4 +28,4 @@ The primary goal of this session was to draft and refine cover letters for vario
 
 **Pending Tasks:**
 - Further refinement of cover letters for additional positions.
-- Continuous update of the job screening pipeline to incorporate new job opportunities.
+- Continuous update of the job screening [[pipeline]] to incorporate new job opportunities.

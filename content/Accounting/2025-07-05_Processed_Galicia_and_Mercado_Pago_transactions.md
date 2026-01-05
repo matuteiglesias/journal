@@ -22,7 +22,7 @@ The session aimed to map and process transactions from Galicia and Mercado Pago 
 - **Data Loading**: Loaded [[CSV]] data into [[Pandas]] DataFrames and performed initial data exploration using `head()` and transaction type counting.
 - **Data Grouping and Analysis**: Grouped data by transaction type and payment method, calculated sums of real amounts, and analyzed positive and negative values in financial data.
 - **ETL Guide**: Developed an ETL guide for Mercado Pago transactions, including mapping to a universal schema and outlining sanity checks.
-- **7-Stage Pipeline**: Outlined a comprehensive 7-stage pipeline for financial data ingestion, from parsing to output generation.
+- **7-Stage [[Pipeline]]**: Outlined a comprehensive 7-stage [[pipeline]] for financial data ingestion, from parsing to output generation.
 - **Schema Planning**: Planned a canonical column set for storing atomic transaction data, focusing on essential columns for reporting.
 
 ### Achievements
@@ -30,5 +30,5 @@ The session aimed to map and process transactions from Galicia and Mercado Pago 
 - Established a robust ETL process for financial data ingestion and reporting.
 
 ### Pending Tasks
-- Finalize the implementation of the 7-stage pipeline for full [[automation]] of financial [[data processing]].
+- Finalize the implementation of the 7-stage [[pipeline]] for full [[automation]] of financial [[data processing]].
 - Conduct further testing on the ETL process to ensure data integrity and accuracy.

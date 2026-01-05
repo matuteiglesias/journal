@@ -14,7 +14,7 @@ publish: false
 
 
 ### Session Goal:
-The session aimed to enhance the efficiency of the job application process for [[data science]] roles by developing an automated data pipeline.
+The session aimed to enhance the efficiency of the job application process for [[data science]] roles by developing an automated data [[pipeline]].
 
 ### Key Activities:
 - **[[Strategy]] Analysis:** Reviewed and refined the application [[strategy]] for [[data science]] and consulting roles, focusing on grouping, prioritizing applications, and establishing a tracking system.

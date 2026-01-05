@@ -28,5 +28,5 @@ The session aimed to conduct a comprehensive analysis of specific police reports
 - Developed a comprehensive data [[strategy]] for criminal analysis, including dataset design and a two-step extraction process.
 
 ### Pending Tasks
-- Implement the proposed data pipeline and extraction [[strategy]].
+- Implement the proposed data [[pipeline]] and extraction [[strategy]].
 - Validate the corrections and recommendations made for the police reports.

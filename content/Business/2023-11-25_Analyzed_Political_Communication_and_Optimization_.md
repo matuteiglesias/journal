@@ -17,12 +17,12 @@ publish: true
 The session aimed to analyze political [[communication]] strategies and explore [[optimization]] algorithms for transportation.
 
 ### Key Activities
-- **Political Analysis**: Conducted a reflection on the post-electoral context in [[Argentina]], focusing on Javier Milei's victory and the implications for the Peronist movement.
+- **Political Analysis**: Conducted a reflection on the post-electoral context in Argentina, focusing on Javier Milei's victory and the implications for the Peronist movement.
 - **[[Communication]] [[Strategy]]**: Analyzed Javier Milei's economic discourse and [[communication]] [[strategy]], highlighting the use of simplification and confusion in public perception.
 - **[[Optimization]] Algorithms**: Developed and refined algorithms for optimizing public transportation routes, particularly focusing on Dijkstra's algorithm for bus route [[optimization]].
 
 ### Achievements
-- Gained insights into the political landscape in [[Argentina]] and the [[communication]] techniques used by Javier Milei.
+- Gained insights into the political landscape in Argentina and the [[communication]] techniques used by Javier Milei.
 - Improved understanding of [[optimization]] algorithms and implemented [[Python]] versions of Dijkstra's algorithm for bus route [[optimization]].
 
 ### Pending Tasks

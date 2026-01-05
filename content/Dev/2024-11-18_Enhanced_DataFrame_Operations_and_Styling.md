@@ -27,7 +27,7 @@ The session aimed to enhance [[DataFrame]] operations and styling techniques in 
 
 ### Achievements
 - Successfully fixed [[DataFrame]] summation errors and improved time index management.
-- Developed a comprehensive data preprocessing pipeline.
+- Developed a comprehensive data preprocessing [[pipeline]].
 - Enhanced ETL processes with effective currency management.
 - Improved report styling with modular and compatible code.
 

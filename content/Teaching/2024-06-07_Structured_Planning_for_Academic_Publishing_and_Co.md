@@ -20,7 +20,7 @@ The session aimed to outline a structured plan for upcoming research publishing 
 - Developed a detailed schedule for the next ten sessions focused on refining and publishing research papers.
 - Created an outline for a graduate course titled 'Advanced Empirical Methods and Nonlinear Dynamics in Trade Economics'.
 - Provided a guide on publishing strategies for textbooks and academic papers in economics.
-- Analyzed author-friendly publishers in Latin America, focusing on [[Argentina]].
+- Analyzed author-friendly publishers in Latin America, focusing on Argentina.
 - Drafted a conceptual framework for writing a book on academia, combining personal narrative with philosophical critiques.
 - Outlined a publication [[strategy]] for an academic narrative book and essays.
 

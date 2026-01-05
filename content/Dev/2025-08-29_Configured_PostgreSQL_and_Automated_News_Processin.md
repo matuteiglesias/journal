@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to configure PostgreSQL for secure user authentication, execute database migrations, and set up an automated news processing pipeline using systemd timers.
+The session aimed to configure PostgreSQL for secure user authentication, execute database migrations, and set up an automated news processing [[pipeline]] using systemd timers.
 
 ### Key Activities
 - Configured PostgreSQL authentication using SCRAM over MD5 for enhanced security.
@@ -23,7 +23,7 @@ The session aimed to configure PostgreSQL for secure user authentication, execut
 - Designed a [[data management]] framework with operational planes and failure mitigation strategies.
 - Set up a control-plane for job processing and automated news processing system using systemd timers.
 - Explored the principles of stateless workers and work queues for [[workflow]] management.
-- Reviewed concurrency insights for a modular and scalable news pipeline.
+- Reviewed concurrency insights for a modular and scalable news [[pipeline]].
 
 ### Achievements
 - Successfully configured PostgreSQL for secure authentication.
@@ -31,5 +31,5 @@ The session aimed to configure PostgreSQL for secure user authentication, execut
 - Established a structured approach for [[data management]] and [[workflow]] [[automation]].
 
 ### Pending Tasks
-- Further testing of the news processing pipeline to ensure stability and performance.
+- Further testing of the news processing [[pipeline]] to ensure stability and performance.
 - Implementation of stateless workers and work queues in the [[automation]] framework.

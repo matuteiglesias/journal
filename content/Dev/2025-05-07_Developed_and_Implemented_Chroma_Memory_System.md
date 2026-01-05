@@ -30,4 +30,4 @@ The primary goal of this session was to troubleshoot, understand, and implement 
 - Developed a structured approach for session detection using hybrid clustering methods.
 
 ### Pending Tasks:
-- Further testing and [[optimization]] of the hybrid clustering pipeline for enhanced session detection.
+- Further testing and [[optimization]] of the hybrid clustering [[pipeline]] for enhanced session detection.

@@ -20,16 +20,16 @@ The session aimed to address and resolve issues related to corrupted entries in 
 - **Corruption Handling**: Identified and implemented a method to safely scan ChromaDB collections, skipping corrupted entries to maintain data integrity.
 - **Diagnosis and Recovery**: Diagnosed corruption in ChromaDB, confirming validity of initial documents, and outlined steps for exporting valid data, rebuilding collections, and re-embedding entries.
 - **Embedding Management**: Discussed conditions for re-embedding entries to ensure semantic retrieval is effective after collection deletions.
-- **Pipeline Overview**: Reviewed a notebook pipeline for data ingestion and analysis, emphasizing modularity.
-- **Progress Update**: Reflected on the embedding pipeline's status, highlighting successful implementations and warnings.
+- **[[Pipeline]] Overview**: Reviewed a notebook [[pipeline]] for data ingestion and analysis, emphasizing modularity.
+- **Progress Update**: Reflected on the embedding [[pipeline]]'s status, highlighting successful implementations and warnings.
 - **Enhancements**: Suggested improvements for a working memory system to enhance daily scaling and clarity.
 - **Semantic Search Insights**: Analyzed semantic search results, identifying metadata issues and steps to improve retrieval quality.
 
 ### Achievements
 - Successfully diagnosed and outlined recovery steps for ChromaDB corruption.
-- Implemented a robust embedding pipeline with noted areas for improvement.
+- Implemented a robust embedding [[pipeline]] with noted areas for improvement.
 - Provided insights into enhancing semantic search and working memory systems.
 
 ### Pending Tasks
-- Further investigation into telemetry warnings in the embedding pipeline.
+- Further investigation into telemetry warnings in the embedding [[pipeline]].
 - Implement suggested improvements for the working memory system.

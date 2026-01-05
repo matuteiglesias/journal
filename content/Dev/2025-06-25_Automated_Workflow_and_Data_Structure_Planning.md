@@ -20,7 +20,7 @@ The session aimed to explore and plan various [[automation]] workflows and data 
 - **Reconstruction of Whiteboard Notes**: Reviewed notes related to knowledge management and ATS issues, identifying areas for improvement.
 - **Framework for News Feed [[Automation]]**: Outlined a structured framework for automating news feed processing, including stages and stress tests.
 - **Blueprint for GPT-Chats Stream [[Automation]]**: Developed a blueprint for automating GPT chat streams into calendar sessions, content generation, and onboarding instructions.
-- **ATS [[Workflow]] [[Integration]]**: Designed a mini-pipeline for job offer management using ATS, focusing on filtering, prioritization, and privacy considerations.
+- **ATS [[Workflow]] [[Integration]]**: Designed a mini-[[pipeline]] for job offer management using ATS, focusing on filtering, prioritization, and privacy considerations.
 - **Monthly Backlog Review**: Conducted a review of project statuses, risks, and immediate actions needed for [[workflow]] enhancement.
 - **Data Structure Modeling**: Discussed modeling educational data structures, focusing on entities like students, subjects, and teachers.
 

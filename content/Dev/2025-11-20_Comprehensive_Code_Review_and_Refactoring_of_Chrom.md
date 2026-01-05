@@ -23,7 +23,7 @@ The session aimed to conduct a thorough adversarial review and [[refactoring]] o
 - Extracted and debugged code snippets related to 'get_or_create_collection' and other functions, improving understanding and [[debugging]] capabilities.
 - Implemented actionable fixes for identified bugs in the Chroma helper module, including root cause analysis and corrected code snippets.
 - Enhanced the upsert functionality in a [[Python]] module by critiquing the `_resolve_upsert_fn` implementation and replacing it with a more robust `_default_upsert` function.
-- Provided refactor recommendations for the Chroma ingestion pipeline, focusing on performance and [[error handling]] improvements.
+- Provided refactor recommendations for the Chroma ingestion [[pipeline]], focusing on performance and [[error handling]] improvements.
 - Refactored the `shared/chroma_helpers.py` module, improving singleton management, [[API]] normalization, and [[error handling]].
 - Enhanced the TEI parser with improvements in upsert functionality and metadata handling.
 

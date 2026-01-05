@@ -23,7 +23,7 @@ The session aimed to integrate the LinkedIn [[API]] for automating scheduled pos
 - **[[Git]] Operations**: Conducted various [[Git]] operations, including history rewriting, remote [[configuration]], and repository cleaning.
 
 ### Achievements
-- Successfully integrated LinkedIn [[API]] into an [[automation]] pipeline.
+- Successfully integrated LinkedIn [[API]] into an [[automation]] [[pipeline]].
 - Identified causes of increased LinkedIn profile views and suggested strategies to leverage this interest.
 - Developed a comprehensive [[SEO]] [[strategy]] to improve online presence and personal branding.
 - Completed several [[Git]] operations to maintain clean and efficient repositories.

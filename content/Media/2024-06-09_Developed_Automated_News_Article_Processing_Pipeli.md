@@ -13,7 +13,7 @@ publish: true
 
 
 
-**Session Goal**: The session aimed to develop a comprehensive automated pipeline for processing news articles, including scraping, extraction, classification, and analysis.
+**Session Goal**: The session aimed to develop a comprehensive automated [[pipeline]] for processing news articles, including scraping, extraction, classification, and analysis.
 
 **Key Activities**:
 - Explored techniques for summarizing news articles and extracting relevant information using both extractive and abstractive methods.
@@ -26,9 +26,9 @@ publish: true
 - Fine-tuned BERT for sequence classification, providing installation and usage guidance.
 
 **Achievements**:
-- Successfully set up an automated pipeline for news article processing, including scraping, extraction, classification, and analysis.
+- Successfully set up an automated [[pipeline]] for news article processing, including scraping, extraction, classification, and analysis.
 - Resolved technical issues related to [[Python]] libraries and model [[deployment]].
 
 **Pending Tasks**:
-- Implement entity recognition and summarization enhancements in the pipeline.
+- Implement entity recognition and summarization enhancements in the [[pipeline]].
 - Continue refining classification models and workflows for better accuracy and efficiency.

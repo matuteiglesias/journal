@@ -17,7 +17,7 @@ publish: true
 The objective of this session was to enhance a news scraping setup by expanding content extraction capabilities, implementing unstructured data storage with MongoDB, integrating NLP for keyword extraction and classification, and automating the triage of news articles.
 
 ### Key Activities
-- Developed a comprehensive plan for a news processing pipeline, focusing on [[automation]] and NLP [[integration]].
+- Developed a comprehensive plan for a news processing [[pipeline]], focusing on [[automation]] and NLP [[integration]].
 - Outlined the implementation plan for a `NewsDataCollector` bot to scrape news from RSS feeds and store them in a SQLite database.
 - Implemented verbose testing for the `NewsDataCollector` to ensure data integrity and trace execution flow.
 - Enhanced a [[Python]] function for news collection with verbose print statements for [[debugging]].
@@ -31,4 +31,4 @@ The objective of this session was to enhance a news scraping setup by expanding 
 ### Pending Tasks
 - Complete the [[integration]] of NLP for keyword extraction and classification.
 - Finalize the [[automation]] of news article triage.
-- Conduct further testing to ensure the robustness of the entire pipeline.
+- Conduct further testing to ensure the robustness of the entire [[pipeline]].

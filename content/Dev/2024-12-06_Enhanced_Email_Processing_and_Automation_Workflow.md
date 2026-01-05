@@ -19,7 +19,7 @@ The session aimed to enhance the email processing [[workflow]] by improving the 
 ### Key Activities
 - Updated the EmailBot class to sort emails by date, enhance logging for better traceability, and improve [[error handling]] during email fetching and storage in MongoDB.
 - Observed and suggested improvements for the email processing [[workflow]], focusing on gatekeeping mechanisms, classification flow issues, and error management.
-- Successfully completed the email processing pipeline, noting the roles of various agents and connection setups.
+- Successfully completed the email processing [[pipeline]], noting the roles of various agents and connection setups.
 - Addressed email sorting issues by suggesting fixes for proper chronological order processing.
 - Developed a [[Python]] function to process and filter messages in MongoDB, ensuring sorting by the 'Received At' timestamp.
 - Enhanced event management and processor functions with extensive logging for [[task management]] and Google Calendar [[integration]].
@@ -27,7 +27,7 @@ The session aimed to enhance the email processing [[workflow]] by improving the 
 
 ### Achievements
 - Improved the email processing [[workflow]] with better sorting, logging, and [[error handling]].
-- Completed the email processing pipeline successfully with noted improvements.
+- Completed the email processing [[pipeline]] successfully with noted improvements.
 - Enhanced [[task management]] and event processing with robust logging.
 - Resolved [[API]] [[integration]] issues, ensuring smooth operation.
 

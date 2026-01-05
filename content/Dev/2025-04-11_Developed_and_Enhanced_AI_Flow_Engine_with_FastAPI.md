@@ -20,7 +20,7 @@ The session aimed to enhance the [[AI]] flow engine by developing a modular arch
 - **Fixing [[JSON]] Load Errors in [[Python]]:** Addressed [[JSON]] loading errors by ensuring proper file paths and valid [[JSON]] structure.
 - **Cleaning Up [[FastAPI]] Endpoints:** Improved [[API]] design by cleaning up redundant routes and organizing the [[API]] namespace.
 - **MVP Completion Sprint Roadmap:** Developed a roadmap for completing the MVP of an [[AI]] flow engine, focusing on both backend and frontend enhancements.
-- **Designing a Declarative [[AI]] Pipeline:** Outlined a flexible architecture for an [[AI]] flow runner, emphasizing separation of flow definition from execution.
+- **Designing a Declarative [[AI]] [[Pipeline]]:** Outlined a flexible architecture for an [[AI]] flow runner, emphasizing separation of flow definition from execution.
 - **Fixing TypeScript Error in React Component:** Resolved TypeScript errors in React components using the `useState` hook.
 - **Designing a Modular [[AI]] [[Workflow]] Engine:** Created a modular design for an [[AI]] [[Workflow]] Engine, detailing components and implementation.
 - **Enhancing [[AI]] Flow Engine with Dynamic Features:** Implemented a dynamic flow discovery [[API]] and adaptive frontend features.

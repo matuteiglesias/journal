@@ -17,7 +17,7 @@ publish: true
 The main goal of this session was to explore and transition mapping projects from ARCGIS to Mapbox, focusing on cost [[optimization]] and improving [[workflow]] efficiency.
 
 ### Key Activities
-- Reviewed the 'Mapa Estadístico de la Pobreza' project, which uses interactive web maps to visualize socioeconomic data in [[Argentina]].
+- Reviewed the 'Mapa Estadístico de la Pobreza' project, which uses interactive web maps to visualize socioeconomic data in Argentina.
 - Transitioned from ARCGIS to Mapbox due to cost concerns, with a focus on using Mapbox for its affordability and functionality.
 - Encountered initial challenges with the Mapbox [[CLI]] that led to unexpected costs, but learned to optimize the [[workflow]] to prevent future issues.
 - Explored Mapbox's features, learning experiences, and best practices compared to competitors in the geospatial mapping space.

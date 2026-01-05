@@ -30,5 +30,5 @@ The session aimed to systematically review and categorize a large batch of acade
 
 ### Pending Tasks
 - Further exploration of [[visualization]] paths for understanding co-affiliations and clusters in NLP.
-- Creation of a detailed map for the Semantic Web research network in [[Argentina]].
+- Creation of a detailed map for the Semantic Web research network in Argentina.
 - Continued refinement of thematic maps to include emerging research trends and clusters.

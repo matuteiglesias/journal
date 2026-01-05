@@ -14,17 +14,17 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to refactor an existing ETL pipeline to enforce a canonical ledger schema, improve [[data processing]] functions, and implement a layered architecture.
+The goal of this session was to refactor an existing ETL [[pipeline]] to enforce a canonical ledger schema, improve [[data processing]] functions, and implement a layered architecture.
 
 ### Key Activities
-- Reviewed [[Python]] scripts related to file handling and script reading to ensure compatibility with the refactored ETL pipeline.
+- Reviewed [[Python]] scripts related to file handling and script reading to ensure compatibility with the refactored ETL [[pipeline]].
 - Developed a [[strategy]] for code migration, focusing on enforcing a canonical ledger schema and improving [[data processing]] functions.
-- Outlined a pragmatic plan for ETL pipeline [[refactoring]], including architectural guidelines and specific file modifications.
+- Outlined a pragmatic plan for ETL [[pipeline]] [[refactoring]], including architectural guidelines and specific file modifications.
 
 ### Achievements
-- Successfully outlined a structured approach for ETL pipeline [[refactoring]].
+- Successfully outlined a structured approach for ETL [[pipeline]] [[refactoring]].
 - Developed a checklist and template for code migration, ensuring smooth transition and maintainability.
 
 ### Pending Tasks
-- Implement the [[refactoring]] plan in the actual ETL pipeline.
+- Implement the [[refactoring]] plan in the actual ETL [[pipeline]].
 - Conduct testing to validate the new architecture and processing functions.

@@ -22,7 +22,7 @@ The session aimed to explore [[strategic planning]] within the [[Data Science]] 
 - **Screening Agent:** Prepared an [[automation]] agent for organizing [[AI]] session knowledge, focusing on semantic memory.
 - **Academic and Political Challenges:** Summarized discussions on challenges and proposed blog content structure.
 - **Thesis Development:** Reviewed Matías Iglesias's research focus, thesis proposals, and publication strategies.
-- **Relationship Mapping Project:** Outlined a data pipeline for classmate relationship mapping based on shared courses.
+- **Relationship Mapping Project:** Outlined a data [[pipeline]] for classmate relationship mapping based on shared courses.
 - **Curriculum Analysis:** Analyzed specialization paths and course categorization for [[Data Science]] students.
 - **Electoral Campaigns:** Developed strategies for voter mobilization and narrative development for the LCD.
 - **Team Role Structuring:** Proposed role structures for campaign teams to optimize mobilization and [[communication]].

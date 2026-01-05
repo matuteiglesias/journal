@@ -25,13 +25,13 @@ The session aimed to develop a structured video script and establish a comprehen
 
 4. **Monday Schedule [[Optimization]]**: A detailed breakdown of the Monday schedule was created, categorizing tasks into 'Keep as-is', 'Reschedule/Adapt', and 'Critical Focus'.
 
-5. **Onboarding Manual Structure**: An onboarding manual for pipeline orchestration was structured, covering project overview, folder structure, pipeline flow, execution instructions, and more.
+5. **Onboarding Manual Structure**: An onboarding manual for [[pipeline]] orchestration was structured, covering project overview, folder structure, [[pipeline]] flow, execution instructions, and more.
 
 ### Achievements
 - Completed a detailed video script structure for an upcoming presentation.
 - Established a comprehensive weekly planning framework to enhance [[productivity]].
 - Developed a structured approach for [[task management]] and calendar [[optimization]].
-- Created a detailed onboarding manual structure for pipeline orchestration.
+- Created a detailed onboarding manual structure for [[pipeline]] orchestration.
 
 ### Pending Tasks
 - Finalize the video script with additional content and review.

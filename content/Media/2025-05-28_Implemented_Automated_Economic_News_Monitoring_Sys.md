@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal:
-The primary aim of this session was to design and implement an automated system for monitoring economic news, focusing on inflation and related economic indicators in [[Argentina]].
+The primary aim of this session was to design and implement an automated system for monitoring economic news, focusing on inflation and related economic indicators in Argentina.
 
 ### Key Activities:
-- Conducted an analysis of news articles concerning inflation in [[Argentina]], exploring content strategies and [[automation]] for daily processing.
+- Conducted an analysis of news articles concerning inflation in Argentina, exploring content strategies and [[automation]] for daily processing.
 - Developed criteria for filtering economic notes, emphasizing quantitative data and excluding non-numerical opinions.
 - Established a framework for selecting relevant economic notes, focusing on inflation, reserves, debt, and international comparisons.
 - Mapped an editorial schema to Google News RSS feeds, creating specific feeds for topics like inflation, exchange rates, debt, and employment.

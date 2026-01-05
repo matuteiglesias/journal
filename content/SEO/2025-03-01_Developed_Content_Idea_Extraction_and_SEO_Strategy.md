@@ -23,7 +23,7 @@ The session aimed to develop a comprehensive [[strategy]] for extracting content
 - **[[SEO]] Tutorial [[Strategy]]**: Created a plan for publishing [[SEO]]-optimized tutorials, including [[optimization]] techniques and platform selection.
 
 ### Achievements
-- Successfully outlined a sustainable content pipeline for idea generation and selection.
+- Successfully outlined a sustainable content [[pipeline]] for idea generation and selection.
 - Resolved technical issues related to file access, ensuring smooth script execution.
 - Established a structured plan for consistent [[SEO]] tutorial publication.
 

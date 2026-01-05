@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to document and structure the database for the 'Índice de Pobreza en [[Argentina]]' project, focusing on [[data analysis]] and management.
+The session aimed to document and structure the database for the 'Índice de Pobreza en Argentina' project, focusing on [[data analysis]] and management.
 
 ### Key Activities
 - Created a README template for the project, detailing its importance and usage instructions.

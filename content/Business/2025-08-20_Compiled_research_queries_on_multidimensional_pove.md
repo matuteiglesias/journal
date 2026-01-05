@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal:
-The session aimed to compile and organize research queries related to multidimensional poverty, focusing on key researchers and publications in [[Argentina]] and Latin America.
+The session aimed to compile and organize research queries related to multidimensional poverty, focusing on key researchers and publications in Argentina and Latin America.
 
 ### Key Activities:
 - Reviewed the academic trajectories of Gabriel Mindlin and Rodrigo Laje, emphasizing their interdisciplinary contributions.

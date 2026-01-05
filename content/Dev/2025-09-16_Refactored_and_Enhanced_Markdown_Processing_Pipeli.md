@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to refactor and enhance several components of a [[Markdown]] processing pipeline, focusing on code [[refactoring]], data filtering, and [[automation]] tasks.
+The session aimed to refactor and enhance several components of a [[Markdown]] processing [[pipeline]], focusing on code [[refactoring]], data filtering, and [[automation]] tasks.
 
 ### Key Activities
 - **Refactored `materialize_bag_markdown` Function**: Improved snippet rendering using `_render_snippet` and enhanced handling of plain prose with blockquote styling.
@@ -28,7 +28,7 @@ The session aimed to refactor and enhance several components of a [[Markdown]] p
 - **Implemented Cohorts in Review Systems**: Explored the concept of cohorts for organizing activities in a time-based format.
 
 ### Achievements
-- Successfully refactored and enhanced the [[Markdown]] processing pipeline.
+- Successfully refactored and enhanced the [[Markdown]] processing [[pipeline]].
 - Improved code readability and functionality for various functions and commands.
 - Established a clearer understanding of data filtering and [[automation]] processes.
 

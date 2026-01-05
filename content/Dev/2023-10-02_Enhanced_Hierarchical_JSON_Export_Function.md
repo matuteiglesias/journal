@@ -17,7 +17,7 @@ publish: true
 The session aimed to improve the handling and exportation of hierarchical [[JSON]] data structures, particularly focusing on time series data and metadata management.
 
 ### Key Activities
-- Reviewed a guide on time series analysis related to poverty data in [[Argentina]], utilizing [[Python]] and [[pandas]].
+- Reviewed a guide on time series analysis related to poverty data in Argentina, utilizing [[Python]] and [[pandas]].
 - Explored data efficiency strategies including normalization and compression.
 - Developed a [[Python]] script to analyze [[JSON]] files, extracting unique and maximum values.
 - Proposed modifications to the `exportar_a_json` function to support hierarchical structures and metadata inclusion.

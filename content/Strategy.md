@@ -1,7 +1,7 @@
 ---
 title: "Strategy"
 tags: []
-created: 2025-12-12
+created: 2026-01-05
 publish: true
 ---
 

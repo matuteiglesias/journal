@@ -26,7 +26,7 @@ The session aimed to resolve [[OpenAI]] [[API]] key recognition issues and enhan
 
 **Achievements:**
 - Successfully resolved [[API]] key issues, enabling seamless [[integration]] with the [[OpenAI]] library.
-- Established a comprehensive thesis management pipeline, improving content organization and retrieval.
+- Established a comprehensive thesis management [[pipeline]], improving content organization and retrieval.
 - Enhanced document processing capabilities with updated [[Python]] scripts.
 
 **Pending Tasks:**

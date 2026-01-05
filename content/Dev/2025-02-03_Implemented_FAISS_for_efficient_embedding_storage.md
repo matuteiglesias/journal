@@ -20,7 +20,7 @@ The session aimed to explore and implement FAISS for efficient storage and retri
 - Discussed the advantages of using FAISS over [[CSV]]/[[JSON]] for embedding storage, focusing on speed, efficiency, and scalability.
 - Provided detailed steps for building and querying a FAISS index.
 - Explored solutions for installing FAISS in environments with GLIBC incompatibilities using Conda, Docker, and source building.
-- Compared FAISS with [[OpenAI]] tools for managing embeddings within a Retrieval-Augmented Generation (RAG) pipeline.
+- Compared FAISS with [[OpenAI]] tools for managing embeddings within a Retrieval-Augmented Generation (RAG) [[pipeline]].
 - Confirmed successful installation of FAISS and provided a testing guide.
 - Discussed when to use FAISS, [[OpenAI]] RAG, or a hybrid approach in workflows.
 

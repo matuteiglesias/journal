@@ -18,7 +18,7 @@ The session aimed to address and resolve various issues in [[Python]] data pipel
 
 ### Key Activities
 - **Fixing `unit_ts` Crash:** Addressed a crash in the `pairs-from-logs` process by implementing a solution to hydrate L2 files fully.
-- **Patching Timestamp Handling:** Applied patches to the bags pipeline to fix `unit_ts` handling, including modifications in `quick.py` and `select.py`.
+- **Patching Timestamp Handling:** Applied patches to the bags [[pipeline]] to fix `unit_ts` handling, including modifications in `quick.py` and `select.py`.
 - **Enhanced `write_l2` Function:** Improved the `write_l2` function to handle digest formats more flexibly and safely.
 - **Robust Filtering for Unit Constructor:** Enhanced the `_filter_for_unit` function to exclude unnecessary fields and ensure robustness.
 - **Fix for AttributeError:** Resolved an `AttributeError` in the `l2-build` command by implementing a tolerant getter function.

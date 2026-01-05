@@ -18,7 +18,7 @@ The session aimed to design a generalized bill ingestion system capable of parsi
 
 ### Key Activities
 - Developed a plan for a unified table format and custom parsers for different bill types.
-- Analyzed directory structure for organizing raw data and recommended improvements for an automated ingestion pipeline.
+- Analyzed directory structure for organizing raw data and recommended improvements for an automated ingestion [[pipeline]].
 - Explored differences between AySA documents (CuponPago vs Factura) and proposed a data structure for managing these documents.
 - Outlined the process for extracting and structuring data from credit card statements, including Visa and Mastercard.
 - Designed a general schema for managing financial documents, including bills and credit card transactions.

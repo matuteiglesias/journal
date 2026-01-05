@@ -20,7 +20,7 @@ publish: false
 - Developed a strategic postdoc viability index, shifting focus from Iceland to India based on specific conditions.
 - Compiled a dataset of postdoc opportunities, excluding Iceland, to facilitate application screening and [[strategy]] preparation.
 - Outlined a master dataset structure for automating postdoc intel collection, framing it as an intelligence campaign.
-- Set up an intel-gathering pipeline with detailed phases for creating Institutions and Opportunities Tables.
+- Set up an intel-gathering [[pipeline]] with detailed phases for creating Institutions and Opportunities Tables.
 - Updated criteria for selecting institutions for the dataset, focusing on [[AI]]-heavy and fellowship-track opportunities.
 - Compiled lists of Tier A and B institutions, formatted for easy transfer to spreadsheet applications.
 

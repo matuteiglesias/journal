@@ -18,7 +18,7 @@ The primary goal of this session was to enhance and refactor the Chunk & Abstrac
 
 ### Key Activities
 - Developed a technical report detailing the system architecture to aid new developers in understanding the [[workflow]].
-- Outlined strategic processing components aimed at optimizing data pipeline cross-flow efficiency.
+- Outlined strategic processing components aimed at optimizing data [[pipeline]] cross-flow efficiency.
 - Analyzed script architecture and function relationships to identify areas for improvement.
 - Proposed a [[refactoring]] plan for a modular code structure, suggesting file organization for better maintainability.
 - Implemented [[automation]] for fetching and processing abstracts, removing the need for manual DOI definitions.

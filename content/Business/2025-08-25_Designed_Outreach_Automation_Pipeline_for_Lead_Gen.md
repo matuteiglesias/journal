@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to design an outreach [[automation]] pipeline focusing on lead generation, personalization, and campaign management.
+The session aimed to design an outreach [[automation]] [[pipeline]] focusing on lead generation, personalization, and campaign management.
 
 ### Key Activities
 - Developed a comprehensive [[strategy]] for automating outreach processes, including lead filtering, enrichment, visual intelligence, personalized messaging, and campaign management.
@@ -23,10 +23,10 @@ The session aimed to design an outreach [[automation]] pipeline focusing on lead
 - Summarized the services offered by digital marketing agency seonet.com.ar.
 
 ### Achievements
-- Outlined specific tasks and deliverables for each component of the outreach pipeline.
+- Outlined specific tasks and deliverables for each component of the outreach [[pipeline]].
 - Gained strategic insights into competitor positioning and tactics, aiding in differentiation and [[strategy]] formulation.
 - Analyzed technology stacks of Seonet and Buffalo, providing recommendations for agency tech foundations.
 
 ### Pending Tasks
-- Implement the designed outreach [[automation]] pipeline.
+- Implement the designed outreach [[automation]] [[pipeline]].
 - Further explore and refine competitor intelligence strategies.

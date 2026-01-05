@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to standardize time-based execution parameters across an [[automation]] pipeline to enhance orchestration and reduce fragmentation.
+The session aimed to standardize time-based execution parameters across an [[automation]] [[pipeline]] to enhance orchestration and reduce fragmentation.
 
 ### Key Activities
 - Proposed the adoption of a consistent `--trigger-time` interface across scripts.
@@ -26,9 +26,9 @@ The session aimed to standardize time-based execution parameters across an [[aut
 - Refactored the `STAGES` list into a function for dynamic timestamp handling.
 
 ### Achievements
-- Established a unified approach to time-based execution in the pipeline.
+- Established a unified approach to time-based execution in the [[pipeline]].
 - Improved script compatibility and [[error handling]].
 - Enhanced filename generation and processing logic.
 
 ### Pending Tasks
-- Further monitoring and validation of pipeline outputs to ensure ongoing improvements.
+- Further monitoring and validation of [[pipeline]] outputs to ensure ongoing improvements.

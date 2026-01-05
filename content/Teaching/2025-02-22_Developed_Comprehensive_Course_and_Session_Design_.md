@@ -17,7 +17,7 @@ publish: true
 The session aimed to enhance the design and generation of educational materials, focusing on course and session planning, blueprint generation, and pedagogical strategies.
 
 **Key Activities:**
-- Refined the Langflow pipeline to improve modularity and efficiency for course and session material generation.
+- Refined the Langflow [[pipeline]] to improve modularity and efficiency for course and session material generation.
 - Developed zero-shot preparator prompts for course blueprint generation, focusing on learning objectives and pedagogical coherence.
 - Created detailed prompts for course blueprint generation, integrating objectives, structure, and pedagogical approaches.
 - Designed pedagogical [[strategy]] and bibliography query prompts for curriculum design.
@@ -34,5 +34,5 @@ The session aimed to enhance the design and generation of educational materials,
 - Created structured workflows and prompts for efficient material generation and session planning.
 
 **Pending Tasks:**
-- Further testing and refinement of the Langflow pipeline in real-world educational settings.
+- Further testing and refinement of the Langflow [[pipeline]] in real-world educational settings.
 - Validation of the designed frameworks and prompts with actual student feedback to ensure effectiveness.

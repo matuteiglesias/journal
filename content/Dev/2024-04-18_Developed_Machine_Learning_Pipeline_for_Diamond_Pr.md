@@ -14,12 +14,12 @@ publish: true
 
 
 ### Session Goal
-The primary goal of this session was to develop a comprehensive [[machine learning]] pipeline for predicting diamond prices, focusing on data preprocessing, feature engineering, and model [[optimization]].
+The primary goal of this session was to develop a comprehensive [[machine learning]] [[pipeline]] for predicting diamond prices, focusing on data preprocessing, feature engineering, and model [[optimization]].
 
 ### Key Activities
 - **[[Data [[Visualization]]]]**: Created scatter plots to visualize geometric log variables and their relationship with price.
 - **Feature Engineering**: Evaluated feature relevance for model development, particularly for diamond pricing, using exploratory [[data analysis]].
-- **Data Preprocessing**: Implemented a data preprocessing pipeline using [[Python]] and scikit-learn, including outlier removal and feature transformations.
+- **Data Preprocessing**: Implemented a data preprocessing [[pipeline]] using [[Python]] and scikit-learn, including outlier removal and feature transformations.
 - **Preprocessor Understanding**: Explained the importance of saving preprocessors like StandardScaler and OneHotEncoder for consistent data transformation.
 - **Model Implementation**: Developed a Random Forest model with hyperparameter tuning using GridSearchCV.
 - **Log Transformation**: Applied logarithmic transformation for regression modeling to handle target variables spanning multiple orders of magnitude.
@@ -28,7 +28,7 @@ The primary goal of this session was to develop a comprehensive [[machine learni
 - **[[Data [[Visualization]]]] with [[Matplotlib]]**: Used `plt.plot` for line plots to visualize training and test errors.
 
 ### Achievements
-- Successfully developed a robust [[machine learning]] pipeline for diamond pricing, incorporating data preprocessing, feature engineering, and model evaluation techniques.
+- Successfully developed a robust [[machine learning]] [[pipeline]] for diamond pricing, incorporating data preprocessing, feature engineering, and model evaluation techniques.
 
 ### Pending Tasks
 - Further refinement of feature selection criteria based on exploratory [[data analysis]].

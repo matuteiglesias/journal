@@ -25,7 +25,7 @@ The session aimed to enhance [[automation]] processes by developing tools for RE
 - Fixed output references in [[PromptFlow]] to ensure correct output handling.
 - Audited and updated README [[documentation]] to align with actual flow designs and functionalities.
 - Proposed a self-healing packaging system, 'flow fixer', to automate detection and repair of [[configuration]] inconsistencies.
-- Designed a modular flow fixer pipeline using a DAG architecture with [[Python]], Jinja, and LLM components.
+- Designed a modular flow fixer [[pipeline]] using a DAG architecture with [[Python]], Jinja, and LLM components.
 
 ### Achievements
 - Successfully developed and refined tools for automated README generation and flow fixing.
@@ -33,4 +33,4 @@ The session aimed to enhance [[automation]] processes by developing tools for RE
 
 ### Pending Tasks
 - Further testing and validation of the self-healing packaging system to ensure robustness.
-- [[Integration]] of the modular flow fixer pipeline into existing workflows.
+- [[Integration]] of the modular flow fixer [[pipeline]] into existing workflows.

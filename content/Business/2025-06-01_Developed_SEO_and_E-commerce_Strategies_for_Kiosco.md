@@ -22,7 +22,7 @@ The session aimed to analyze and develop strategies for improving kiosco-related
 - Created an FAQ for the 'Va Bene Dolce Pilar' kiosk, detailing product offerings and services.
 - Analyzed the architecture of open25.com.ar, focusing on WooCommerce, AWS, and analytics tools, and explored replicating the setup using Node.js.
 - Evaluated the Catalyst template by BigCommerce for a kiosco website, discussing features and implementation plans.
-- Identified datasets for sourcing kiosco products in [[Argentina]], including Mercado Libre and FooDI-ML.
+- Identified datasets for sourcing kiosco products in Argentina, including Mercado Libre and FooDI-ML.
 
 ### Achievements
 - Developed a comprehensive [[SEO]] [[strategy]] for kiosco terms.

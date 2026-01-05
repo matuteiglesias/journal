@@ -17,8 +17,8 @@ publish: true
 The session aimed to finalize and correct the DBML schema for a media monitoring system, ensuring it accurately represents the data flow and relationships necessary for processing economic and political news articles.
 
 ### Key Activities
-- Overview of the modular media monitoring pipeline, detailing the architecture and components for fetching, processing, and enriching news articles.
-- Design of a database schema for the article processing pipeline, focusing on the structure and relationships of core tables.
+- Overview of the modular media monitoring [[pipeline]], detailing the architecture and components for fetching, processing, and enriching news articles.
+- Design of a database schema for the article processing [[pipeline]], focusing on the structure and relationships of core tables.
 - Refinement and correction of the DBML diagram to ensure consistent keys, improved typing, and clarified relations.
 - Review and finalization of the DBML schema, incorporating necessary fixes and adjustments for consistency and clarity.
 

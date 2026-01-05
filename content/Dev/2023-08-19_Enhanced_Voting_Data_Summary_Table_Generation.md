@@ -30,5 +30,5 @@ The session aimed to develop a robust method for generating summary tables that 
 - Improved data manipulation techniques using [[pandas]] for more accurate and readable outputs.
 
 ### Pending Tasks
-- Further optimize the [[data processing]] pipeline for efficiency and scalability.
+- Further optimize the [[data processing]] [[pipeline]] for efficiency and scalability.
 - Investigate additional [[error handling]] strategies to prevent future execution issues.

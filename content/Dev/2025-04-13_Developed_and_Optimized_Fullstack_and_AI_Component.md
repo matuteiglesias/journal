@@ -31,5 +31,5 @@ The session aimed at finalizing and optimizing the development setup for fullsta
 
 ### Pending Tasks
 - Generate auto-tests for [[AI]] components.
-- Build a component pipeline and create a manifest for tracking progress.
+- Build a component [[pipeline]] and create a manifest for tracking progress.
 - Continue refining the UX structure for the 'Ask Your Doc' app.

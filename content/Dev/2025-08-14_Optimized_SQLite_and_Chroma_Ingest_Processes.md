@@ -21,7 +21,7 @@ The session aimed to optimize the SQLite schema and the ingest process for a doc
 - Addressed Chroma metadata issues by sanitizing metadata to prevent `None` values and reusing the embedding cache.
 - Integrated metadata sanitization into the Chroma `upsert_node_chroma` function to ensure consistent data integrity.
 - Implemented a sanitization function to resolve Chroma's metadata validation errors and updated the `upsert_node_chroma` function accordingly.
-- Conducted a wrap-up of the [[automation]] pipeline, reviewing current module roles and identifying next steps for storage design.
+- Conducted a wrap-up of the [[automation]] [[pipeline]], reviewing current module roles and identifying next steps for storage design.
 
 ### Achievements
 - Successfully optimized the SQLite schema and ingest process, enhancing data integrity.
@@ -29,4 +29,4 @@ The session aimed to optimize the SQLite schema and the ingest process for a doc
 - Established a clear plan for future storage design decisions.
 
 ### Pending Tasks
-- Further refine storage design decisions based on the [[automation]] pipeline wrap-up insights.
+- Further refine storage design decisions based on the [[automation]] [[pipeline]] wrap-up insights.

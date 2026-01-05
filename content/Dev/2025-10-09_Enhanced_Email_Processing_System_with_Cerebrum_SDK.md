@@ -27,7 +27,7 @@ The session aimed to enhance the email processing system by integrating the Cere
 ### Achievements
 - Successfully installed and configured the Cerebrum SDK, integrating it into the email processing system.
 - Identified and addressed critical structural issues in the email management system, enhancing its functionality.
-- Improved the email processing pipeline with optimized code and better [[configuration]] management.
+- Improved the email processing [[pipeline]] with optimized code and better [[configuration]] management.
 
 ### Pending Tasks
 - Further testing and validation of the new email processing system to ensure stability and performance.

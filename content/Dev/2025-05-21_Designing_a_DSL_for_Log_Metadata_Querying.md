@@ -18,7 +18,7 @@ The session aimed to design a domain-specific language (DSL) for querying log me
 
 ### Key Activities
 - Outlined foundational steps for creating a DSL, including a core column schema and supported operators.
-- Discussed the implementation of a batch [[data processing]] pipeline using [[Python]]'s [[pandas]] and pathlib.
+- Discussed the implementation of a batch [[data processing]] [[pipeline]] using [[Python]]'s [[pandas]] and pathlib.
 - Explored options for loading and concatenating individual daily files into a merged dataset.
 - Addressed a missing dataset file issue with potential solutions.
 - Analyzed semantic terrain for knowledge management, focusing on semantic linking and content generation.

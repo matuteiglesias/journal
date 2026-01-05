@@ -18,8 +18,8 @@ publish: true
 **Key Activities**:
 - Implemented a [[JSON]] schema editor in Streamlit for better [[configuration]] management.
 - Centralized path management in Streamlit apps using a `paths.py` file.
-- Fixed pipeline execution issues in Streamlit, enhancing the UI and button functionality.
-- Developed a monetization [[strategy]] for a job parsing pipeline, including cloud and local distribution.
+- Fixed [[pipeline]] execution issues in Streamlit, enhancing the UI and button functionality.
+- Developed a monetization [[strategy]] for a job parsing [[pipeline]], including cloud and local distribution.
 - Proposed a directory structure for [[Python]] packaging and created an installable package.
 - Used pipreqs to generate `requirements.txt` and optimized Streamlit app structure.
 - Addressed [[Python]] and Streamlit issues on Ubuntu, fixing import errors and subprocess invocation.
@@ -34,6 +34,6 @@ publish: true
 - Improved [[error handling]] and modularity in [[Python]] scripts.
 
 **Pending Tasks**:
-- Further refinement of the monetization [[strategy]] for the job parsing pipeline.
+- Further refinement of the monetization [[strategy]] for the job parsing [[pipeline]].
 - Additional testing of the new directory structure and packaging process.
 - Continued [[optimization]] of subprocess management in [[Python]] scripts.

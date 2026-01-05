@@ -26,7 +26,7 @@ The session aimed to refactor the [[AI]] service architecture for improved modul
 ### Achievements
 - Successfully refactored the [[AI]] service architecture and designed a modular orchestration system.
 - Implemented a YAML-based [[AI]] prompt engine compatible with Vertex [[AI]].
-- Resolved multiple [[debugging]] issues, enhancing the robustness of the [[AI]] pipeline.
+- Resolved multiple [[debugging]] issues, enhancing the robustness of the [[AI]] [[pipeline]].
 
 ### Pending Tasks
 - Further enhancements in logging, caching, and UI improvements for the prompt-chain execution.

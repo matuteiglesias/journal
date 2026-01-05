@@ -21,7 +21,7 @@ The session aimed to explore Unix command-line tools for disk usage analysis and
 - **Remote Access:** Reflected on the use of SCP and SSH for secure file transfer and remote server access, discussing best practices for data storage solutions.
 - **Google Cloud [[Integration]]:** Implemented solutions using Google Cloud Storage and SQL with [[Python]] and [[pandas]], covering setup, library installation, and data handling.
 - **Cloud Storage Recommendation:** Evaluated Google Cloud Storage for its accessibility, scalability, and simplicity.
-- **Project Naming:** Suggested names for a Google Cloud project focused on poverty mapping in [[Argentina]].
+- **Project Naming:** Suggested names for a Google Cloud project focused on poverty mapping in Argentina.
 
 ### Achievements:
 - Enhanced understanding of Unix disk usage commands and their practical applications.

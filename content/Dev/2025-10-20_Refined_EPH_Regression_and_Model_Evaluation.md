@@ -21,7 +21,7 @@ The session aimed to refine the EPH regression [[workflow]] and evaluate model p
 - Configured test matrices for model predictions using [[Python]], handling DataFrames and NumPy arrays.
 - Adjusted [[visualization]] techniques for RegressorChain models to improve metrics clarity.
 - Analyzed model performance for income prediction, identifying biases and outlining future refinement plans.
-- Summarized the EPH regression [[workflow]], detailing the predictive pipeline and recent developments.
+- Summarized the EPH regression [[workflow]], detailing the predictive [[pipeline]] and recent developments.
 - Reviewed the HistGradientBoostingRegressor, highlighting its advantages for specific modeling scenarios.
 - Structured project briefings and runbooks for multi-system projects, focusing on operational clarity.
 - Enhanced definitions for 'Briefing' and 'Runbook' in multi-system contexts, emphasizing [[integration]] and consistency.

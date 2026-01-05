@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance online visibility and engagement for a web project focused on poverty in [[Argentina]] through [[SEO]] and Google Ads strategies.
+The session aimed to enhance online visibility and engagement for a web project focused on poverty in Argentina through [[SEO]] and Google Ads strategies.
 
 ### Key Activities
-- Explored detailed [[SEO]] strategies to improve web visibility on poverty-related searches in [[Argentina]].
+- Explored detailed [[SEO]] strategies to improve web visibility on poverty-related searches in Argentina.
 - Discussed the creation of effective headlines and descriptions for advertisements, focusing on tailored messaging.
 - Developed Google Ad campaign content, including headlines and descriptions in Spanish, targeting poverty metrics and interactive maps.
 - Revised Google Ads content to meet character limits while ensuring engagement.

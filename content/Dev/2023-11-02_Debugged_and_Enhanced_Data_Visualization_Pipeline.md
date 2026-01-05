@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to debug and enhance a [[data [[visualization]]]] pipeline using [[Matplotlib]] in [[Python]], focusing on custom y-axis formatting and resolving errors in data handling and plotting functions.
+The session aimed to debug and enhance a [[data [[visualization]]]] [[pipeline]] using [[Matplotlib]] in [[Python]], focusing on custom y-axis formatting and resolving errors in data handling and plotting functions.
 
 ### Key Activities
 - Implemented a custom y-axis formatter for [[Matplotlib]] to improve tick label readability by using abbreviations for thousands and millions.
@@ -30,4 +30,4 @@ The session aimed to debug and enhance a [[data [[visualization]]]] pipeline usi
 
 ### Pending Tasks
 - Further testing of the updated plotting functions with diverse datasets to ensure robustness.
-- [[Optimization]] of the [[data [[visualization]]]] pipeline for performance improvements.
+- [[Optimization]] of the [[data [[visualization]]]] [[pipeline]] for performance improvements.

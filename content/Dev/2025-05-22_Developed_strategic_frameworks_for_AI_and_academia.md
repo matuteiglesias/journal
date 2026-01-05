@@ -28,7 +28,7 @@ The session aimed to explore strategic frameworks and methodologies for [[AI]] s
 - Designed a modular [[AI]] [[integration]] handbook framework.
 - Planned a meta-playbook for [[AI]] systems architectural unification.
 - Proposed a method for converting logs into a [[Docusaurus]] wiki.
-- Designed a pipeline for [[Docusaurus]] wiki creation.
+- Designed a [[pipeline]] for [[Docusaurus]] wiki creation.
 - Explored knowledge graph reconstruction using Obsidian link targets.
 
 ### Achievements
@@ -37,6 +37,6 @@ The session aimed to explore strategic frameworks and methodologies for [[AI]] s
 - Proposed innovative methods for knowledge representation and [[documentation]].
 
 ### Pending Tasks
-- Implement the proposed [[Docusaurus]] wiki pipeline.
+- Implement the proposed [[Docusaurus]] wiki [[pipeline]].
 - Execute the strategic content rollout for Cerebrum SDK.
 - Develop the modular [[AI]] [[integration]] handbook based on outlined frameworks.

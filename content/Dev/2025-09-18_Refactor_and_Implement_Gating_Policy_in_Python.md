@@ -34,4 +34,4 @@ The session aimed to refactor and implement a gating policy for [[data processin
 ### Pending Tasks
 - Further refine gating thresholds based on additional data insights.
 - Expand [[CLI]] functionality to support more user-defined parameters.
-- Continue improving data pipeline [[automation]] and [[integration]].
+- Continue improving data [[pipeline]] [[automation]] and [[integration]].

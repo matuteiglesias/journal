@@ -23,13 +23,13 @@ The session aimed to explore the feasibility and methods of adapting air compres
 - Detailed the materials and tools necessary for wall repair, optimizing for budget constraints.
 - Provided a [[Python]] script template for searching painting and construction items on Mercado Libre.
 - Implemented a custom function in [[Pandas]] for calculating the first quartile (Q1) in a [[DataFrame]], enhancing [[data analysis]] capabilities.
-- Outlined legal guidelines for acquiring abandoned property in [[Argentina]], focusing on inheritance law and usucapión.
+- Outlined legal guidelines for acquiring abandoned property in Argentina, focusing on inheritance law and usucapión.
 
 ### Achievements
 - Clarified the limitations and risks of adapting non-dedicated compressors for painting tasks.
 - Developed a [[Python]] script template for e-commerce searches.
 - Enhanced [[data analysis]] skills with custom [[Pandas]] functions.
-- Gained insights into legal processes for property acquisition in [[Argentina]].
+- Gained insights into legal processes for property acquisition in Argentina.
 
 ### Pending Tasks
 - Further research on alternative methods for adapting compressors efficiently for painting.

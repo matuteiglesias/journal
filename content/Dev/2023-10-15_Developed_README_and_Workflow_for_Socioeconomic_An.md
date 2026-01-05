@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to create a comprehensive README for a socioeconomic analysis project focused on [[Argentina]], and to enhance the project's [[documentation]] with visual elements and [[workflow]] diagrams.
+The session aimed to create a comprehensive README for a socioeconomic analysis project focused on Argentina, and to enhance the project's [[documentation]] with visual elements and [[workflow]] diagrams.
 
 ### Key Activities
 - Created a README template in Spanish for a socioeconomic analysis project, including sections on methodology, datasets, results, and contributions.

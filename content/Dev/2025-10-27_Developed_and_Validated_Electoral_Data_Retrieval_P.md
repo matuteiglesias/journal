@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to develop and validate a comprehensive data retrieval pipeline for the 2025 electoral results, utilizing both Bash and [[Python]] scripts to automate data capture and normalization processes.
+The session aimed to develop and validate a comprehensive data retrieval [[pipeline]] for the 2025 electoral results, utilizing both Bash and [[Python]] scripts to automate data capture and normalization processes.
 
 ### Key Activities
 - **Data Capture and Normalization**: Implemented scripts in Bash and [[Python]] to capture raw electoral data and normalize it into [[CSV]] format.
@@ -27,7 +27,7 @@ The session aimed to develop and validate a comprehensive data retrieval pipelin
 - **[[API]] [[Data Analysis]]**: Investigated the [[API]]'s data population, noting the absence of data beyond 2023.
 
 ### Achievements
-- Successfully developed a robust pipeline for capturing and normalizing electoral data.
+- Successfully developed a robust [[pipeline]] for capturing and normalizing electoral data.
 - Created effective [[API]] queries and retrieval plans for comprehensive data collection.
 - Automated the data retrieval process, improving efficiency and accuracy.
 - Identified and addressed key [[API]] interaction issues, enhancing data reliability.

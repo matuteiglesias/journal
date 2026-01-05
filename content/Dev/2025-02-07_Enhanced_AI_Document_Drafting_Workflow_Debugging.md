@@ -25,7 +25,7 @@ The primary goal of this session was to enhance the [[debugging]] and state trac
 - Refactored the `ChunkHandler` class to log [[AI]] outputs, improving tracking and [[debugging]] during chunk processing.
 
 ### Achievements
-- Successfully enhanced the [[debugging]] capabilities of the [[AI]] document drafting pipeline.
+- Successfully enhanced the [[debugging]] capabilities of the [[AI]] document drafting [[pipeline]].
 - Improved logging and state management for better [[workflow]] transparency.
 
 ### Pending Tasks

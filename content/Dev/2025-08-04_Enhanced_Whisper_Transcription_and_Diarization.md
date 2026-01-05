@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to improve transcription quality and diarization using the Whisper model, focusing on Spanish audio and optimizing the transcription pipeline.
+The session aimed to improve transcription quality and diarization using the Whisper model, focusing on Spanish audio and optimizing the transcription [[pipeline]].
 
 ### Key Activities
 - Updated the Whisper transcription cell to disable timestamp post-processing and avoid slice-index errors.
@@ -22,7 +22,7 @@ The session aimed to improve transcription quality and diarization using the Whi
 - Explored leveraging diarization for automatic speech recognition (ASR) to enhance transcription segmentation.
 - Conducted a quality assessment of transcription outputs, comparing diarization-driven small-model runs against web app outputs.
 - Outlined an end-to-end architecture for audio/video processing, converting content into [[AI]]-curated [[Markdown]] pages.
-- Developed a robust ingestion pipeline for daily content harvesting, including subscription management and a daily scheduler.
+- Developed a robust ingestion [[pipeline]] for daily content harvesting, including subscription management and a daily scheduler.
 
 ### Achievements
 - Successfully updated the Whisper transcription settings to improve segment output.
@@ -31,4 +31,4 @@ The session aimed to improve transcription quality and diarization using the Whi
 
 ### Pending Tasks
 - Implement the recommended switch to a multilingual model for Spanish audio transcription.
-- Finalize the ingestion pipeline for daily content harvesting, ensuring seamless [[integration]] with existing systems.
+- Finalize the ingestion [[pipeline]] for daily content harvesting, ensuring seamless [[integration]] with existing systems.

@@ -17,7 +17,7 @@ publish: true
 The session aimed to resolve various programming challenges related to LlamaIndex and RAPTOR, focusing on [[error handling]], serialization, and [[integration]] issues.
 
 ### Key Activities
-- Addressed `FileNotFoundError` in LlamaIndex's `StorageContext` by providing a canonical pipeline for consistent storage practices.
+- Addressed `FileNotFoundError` in LlamaIndex's `StorageContext` by providing a canonical [[pipeline]] for consistent storage practices.
 - Fixed [[integration]] issues between TreeIndex and LLM, including upgrading [[OpenAI]] packages and using local dummy models.
 - Resolved `UnicodeEncodeError` in [[OpenAI]] [[API]] calls by adjusting the User-Agent header and providing robust document ingestion scripts.
 - Handled `TypeError` in ChromaDB path handling by ensuring paths are correctly formatted as strings.

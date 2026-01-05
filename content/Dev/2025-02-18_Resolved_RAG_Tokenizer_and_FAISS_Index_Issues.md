@@ -27,8 +27,8 @@ The session aimed to resolve multiple errors encountered during the [[configurat
 ### Achievements
 - Successfully resolved tokenizer and FAISS index loading issues.
 - Corrected RAG model usage and dataset embedding errors.
-- Established a functional pipeline for RAG retriever initialization.
+- Established a functional [[pipeline]] for RAG retriever initialization.
 
 ### Pending Tasks
 - Further [[integration]] of the corrected RAG implementation with text generation capabilities.
-- Validation of the entire pipeline with additional datasets to ensure robustness.
+- Validation of the entire [[pipeline]] with additional datasets to ensure robustness.

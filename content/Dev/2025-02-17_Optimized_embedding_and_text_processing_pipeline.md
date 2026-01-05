@@ -23,9 +23,9 @@ The session aimed to explore innovative techniques in ML/[[AI]] systems, focusin
 - **Text Processing with spaCy:** Improved text processing by utilizing spaCy's `nlp.pipe` for batch processing, significantly reducing processing time.
 
 ### Achievements
-- Developed a comprehensive pipeline for embedding computation and storage.
+- Developed a comprehensive [[pipeline]] for embedding computation and storage.
 - Enhanced text processing efficiency using spaCy, reducing processing time and improving performance.
 
 ### Pending Tasks
-- Further testing and validation of the optimized pipeline in a production environment.
+- Further testing and validation of the optimized [[pipeline]] in a production environment.
 - Explore additional [[optimization]] techniques for large-scale [[data processing]].

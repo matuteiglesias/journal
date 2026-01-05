@@ -18,13 +18,13 @@ The session aimed to develop and refine [[data processing]] pipelines for [[CSV]
 
 ### Key Activities:
 - Resolved a [[CSV]] file encoding error by changing the encoding to 'utf-16', providing a [[Python]] code snippet for implementation.
-- Outlined a complete pipeline for reading, cleaning, and exporting Erste Bank [[CSV]] files, ensuring proper handling of irregular fields.
+- Outlined a complete [[pipeline]] for reading, cleaning, and exporting Erste Bank [[CSV]] files, ensuring proper handling of irregular fields.
 - Validated transaction data structures and suggested further analysis and [[automation]] steps.
 - Processed Galicia transaction data from Excel files, normalizing financial figures and standardizing dates.
 - Inspected [[DataFrame]] column names to diagnose issues with the expected 'Fecha' column.
 - Adjusted file loading to correctly set column names and process data without standard headers.
 - Reimported 'ace_tools' and displayed corrected [[DataFrame]] of Galicia transactions.
-- Completed the transformation of Galicia tables, offering options to add data to [[CSV]] pipeline or review them.
+- Completed the transformation of Galicia tables, offering options to add data to [[CSV]] [[pipeline]] or review them.
 - Provided a [[Python]] script to process Banco Galicia extracts, converting data into a standardized format.
 
 ### Achievements:

@@ -20,7 +20,7 @@ The session aimed to develop structured frameworks for data normalization and le
 - Normalized enumerations and developed a mapping table to ensure model selection of valid values, using regex rules for automatic mapping.
 - Created a canonical mapping for legal terms, including a lookup table and regex rules for classification.
 - Developed [[JSON]] schemas for parsed P.U. records, detailing required fields and validation patterns.
-- Conducted search queries on juvenile justice in [[Argentina]] and differentiated legal terminologies for normalization.
+- Conducted search queries on juvenile justice in Argentina and differentiated legal terminologies for normalization.
 - Compiled structured incident reports from San Martín Police Department and corrected [[JSON]] linting errors.
 
 **Achievements:**

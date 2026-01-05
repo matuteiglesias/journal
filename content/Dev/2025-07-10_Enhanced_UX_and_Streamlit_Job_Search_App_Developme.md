@@ -19,10 +19,10 @@ The session aimed to redesign the UX for the search jobs tab and enhance the Str
 ### Key Activities
 - Proposed a UX redesign for the search jobs tab, analyzing current strengths and gaps, and suggesting changes to file structure and code implementation.
 - Implemented a Streamlit application for job searching using the Remotive [[API]], facilitating user input for job queries and locations.
-- Enhanced the `query_tab.py` file to include unique `run_uid` creation, metadata storage, immediate result display, optional full pipeline launch, and recent runs listing.
+- Enhanced the `query_tab.py` file to include unique `run_uid` creation, metadata storage, immediate result display, optional full [[pipeline]] launch, and recent runs listing.
 - Diagnosed and resolved Streamlit installation issues related to [[Python]] environment mismatches.
-- Developed a Streamlit UI for pipeline observability, allowing execution and monitoring of [[data processing]] steps.
-- Outlined improvements for an observability UI in a Streamlit app, including structured sections for pipeline steps and execution controls.
+- Developed a Streamlit UI for [[pipeline]] observability, allowing execution and monitoring of [[data processing]] steps.
+- Outlined improvements for an observability UI in a Streamlit app, including structured sections for [[pipeline]] steps and execution controls.
 - Designed a plan for an observability tab interface, detailing logic, layout, and helper functions.
 - Refined a [[Python]] loop for the `01_serp_scraper.py` script to handle mandatory arguments and manage output paths.
 - Outlined refinements for Streamlit scripts, including loading environment variables, modifying script arguments, and fixing errors.

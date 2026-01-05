@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to resolve technical issues related to YAML parsing in [[Markdown]] front matter and broken internal links in a [[Docusaurus]] site. Additionally, it focused on enhancing the [[Docusaurus]] content pipeline and addressing [[Python]] environment problems.
+The session aimed to resolve technical issues related to YAML parsing in [[Markdown]] front matter and broken internal links in a [[Docusaurus]] site. Additionally, it focused on enhancing the [[Docusaurus]] content [[pipeline]] and addressing [[Python]] environment problems.
 
 ### Key Activities
 - **YAML Parsing Errors**: Identified and corrected YAML parsing errors in [[Markdown]] front matter, implementing preventive checks for future reliability.

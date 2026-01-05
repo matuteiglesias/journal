@@ -27,4 +27,4 @@ The session aimed to implement a regex-based solution for extracting phone numbe
 
 ### Pending Tasks
 - Further testing with diverse text samples to ensure regex pattern robustness.
-- [[Integration]] of the script into a larger [[data processing]] pipeline if needed.
+- [[Integration]] of the script into a larger [[data processing]] [[pipeline]] if needed.

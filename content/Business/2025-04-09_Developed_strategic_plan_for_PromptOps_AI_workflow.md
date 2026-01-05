@@ -22,7 +22,7 @@ publish: true
 - Curated resources for ShadCN + Tailwind + Prompt Flow Builder UI.
 - Explored [[GitHub]] projects for prompt-based [[workflow]] builders using shadcn/ui, Tailwind CSS, and Next.js.
 - Introduced LangUI, an open-source collection of Tailwind CSS components for [[AI]] projects.
-- Outlined the payment and monetization pipeline for SaaS applications, including tools and key actions.
+- Outlined the payment and monetization [[pipeline]] for SaaS applications, including tools and key actions.
 - Developed naming suggestions for an [[AI]] prompting tool and introduced PromptOps as a new category in [[AI]] [[workflow]] [[automation]].
 - Estimated website popularity for PromptOps.com and crafted landing page copy.
 - Outlined strategic pricing structures and equity splits for growth and startup [[strategy]].

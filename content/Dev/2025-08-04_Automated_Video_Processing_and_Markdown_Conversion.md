@@ -19,9 +19,9 @@ The session aimed to develop and refine scripts and workflows for automating vid
 ### Key Activities
 - Developed a [[Python]] script to convert JSONL files containing speech data into [[Markdown]] with Quartz-compatible frontmatter and YouTube embeds.
 - Outlined an automated [[workflow]] for video ingestion, processing transcriptions, and publishing content, integrating job scheduling and CI/CD strategies.
-- Created a shell script (`run_daily.sh`) to automate a daily pipeline for processing data, including backfilling videos and generating [[Markdown]] files.
+- Created a shell script (`run_daily.sh`) to automate a daily [[pipeline]] for processing data, including backfilling videos and generating [[Markdown]] files.
 - Implemented a Bash script to manage [[PromptFlow]] outputs with custom naming and directory management.
-- Adjusted the backfill pipeline script to use the '--date' flag, ensuring proper argument handling.
+- Adjusted the backfill [[pipeline]] script to use the '--date' flag, ensuring proper argument handling.
 - Proposed solutions for the `backfill.py` script to handle duplicate date issues in file naming.
 
 ### Achievements

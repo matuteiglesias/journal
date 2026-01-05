@@ -27,7 +27,7 @@ The session aimed to improve the architecture of a diamond price prediction [[AP
 
 ### Achievements
 - Successfully outlined a scalable and maintainable architecture for the diamond price prediction [[API]].
-- Enhanced the model training pipeline with hyperparameter tuning and evaluation metrics.
+- Enhanced the model training [[pipeline]] with hyperparameter tuning and evaluation metrics.
 - Improved data preprocessing techniques for better model performance.
 
 ### Pending Tasks

@@ -20,7 +20,7 @@ The goal of this session was to enhance [[data [[visualization]]]] techniques us
 - Customized the placement of boxplots in [[Matplotlib]] to overcome Seaborn's limitations, including handling missing data points.
 - Implemented conditional x-axis ticks and labels for subplots in [[Matplotlib]], allowing for dynamic adjustments based on row indices.
 - Added annotations and epigraphs to graphs to highlight voting trends, particularly in the AMBA region, using [[Matplotlib]] and Seaborn.
-- Developed a structured epigraph template for analyzing vote distributions by income and party in [[Argentina]], emphasizing geographical and socioeconomic patterns.
+- Developed a structured epigraph template for analyzing vote distributions by income and party in Argentina, emphasizing geographical and socioeconomic patterns.
 - Adjusted graph sizes and spacing using [[Matplotlib]] and Seaborn to improve [[data [[visualization]]]] aesthetics.
 
 ### Achievements

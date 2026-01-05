@@ -29,4 +29,4 @@ The session aimed to enhance a [[Flask]] application by addressing 404 errors, i
 
 ### Pending Tasks
 - Further exploration of containerization with Docker for the [[Flask]] [[API]].
-- Implementation of an automated pipeline for model re-training in [[machine learning]].
+- Implementation of an automated [[pipeline]] for model re-training in [[machine learning]].

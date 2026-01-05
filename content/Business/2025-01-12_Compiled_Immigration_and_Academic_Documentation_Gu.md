@@ -21,7 +21,7 @@ The session aimed to compile and clarify [[documentation]] requirements for work
 - Provided a checklist for tourists seeking employment in Brazil, detailing required documents such as passports and academic certificates.
 - Discussed steps to validate a university degree from UBA for use domestically and internationally.
 - Explored the interpretation of Base64 encoded strings from QR codes and their potential cryptographic uses.
-- Clarified the elements and verification processes of diploma certificates from the Ministry of [[Education]] in [[Argentina]].
+- Clarified the elements and verification processes of diploma certificates from the Ministry of [[Education]] in Argentina.
 - Analyzed and drafted follow-up communications regarding the shipment of PhD diplomas, including the certification process in Italy.
 
 ### Achievements

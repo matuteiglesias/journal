@@ -22,7 +22,7 @@ The goal of this session was to compile a comprehensive guide for maintaining a 
 - **Maintenance Tips:** Offered practical advice on oil top-ups without filter changes and the implications of mixing synthetic and semi-synthetic oils.
 
 ### Achievements:
-- Successfully compiled a detailed guide covering oil and transmission fluid specifications, maintenance practices, and regional recommendations for [[Argentina]].
+- Successfully compiled a detailed guide covering oil and transmission fluid specifications, maintenance practices, and regional recommendations for Argentina.
 
 ### Pending Tasks:
 - Further exploration into alternative oil brands and their availability in different regions could enhance the guide's applicability.

@@ -21,14 +21,14 @@ The session focused on diagnosing, fixing, and optimizing issues related to [[Da
 - Enriched articles data using `master_ref.[[csv]]` by constructing keys and merging data.
 - Debugged key mismatches during [[DataFrame]] merges, ensuring consistent data types and key existence.
 - Resolved a KeyError in [[DataFrame]] processing by correctly constructing necessary columns.
-- Finalized data merging steps in the pipeline using `index_id`.
+- Finalized data merging steps in the [[pipeline]] using `index_id`.
 - Addressed NaN values in [[DataFrame]] columns when using regex, ensuring safe handling of nulls.
 - Optimized [[DataFrame]] merge operations in [[Pandas]] to prevent column duplication and maintain relevant values.
 
 ### Achievements
 - Successfully resolved technical issues related to [[DataFrame]] operations, ensuring data integrity and process efficiency.
-- Enhanced the data pipeline by implementing robust data enrichment and merging strategies.
+- Enhanced the data [[pipeline]] by implementing robust data enrichment and merging strategies.
 
 ### Pending Tasks
-- Further validation of the data pipeline to ensure all edge cases are handled effectively.
+- Further validation of the data [[pipeline]] to ensure all edge cases are handled effectively.
 - Continuous monitoring of data integrity post-merge operations.

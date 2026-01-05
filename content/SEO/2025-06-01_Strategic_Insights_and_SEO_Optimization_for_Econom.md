@@ -23,7 +23,7 @@ The session aimed to explore strategic insights in economics research and enhanc
 - Developed a link-building [[strategy]] for personal website visibility and a strategic [[SEO]] plan for [[data science]] expertise.
 - Identified suitable outlets for [[data science]] articles and analyzed successful Medium articles for content ideas.
 - Outlined a profile listing [[strategy]] for enhanced professional visibility and drafted an impactful 'About Me' section.
-- Designed an [[AI]]-powered content creation pipeline and defined end goals in [[AI]]-driven writing.
+- Designed an [[AI]]-powered content creation [[pipeline]] and defined end goals in [[AI]]-driven writing.
 
 ### Achievements
 - Gained insights into economics publishing and research trends.

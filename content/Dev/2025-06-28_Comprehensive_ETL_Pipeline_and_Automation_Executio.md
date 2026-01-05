@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The primary objective of this session was to execute and refine a comprehensive ETL (Extract, Transform, Load) pipeline using [[Python]], with a focus on [[automation]] and [[data processing]] for financial reporting.
+The primary objective of this session was to execute and refine a comprehensive ETL (Extract, Transform, Load) [[pipeline]] using [[Python]], with a focus on [[automation]] and [[data processing]] for financial reporting.
 
 ### Key Activities
 - Developed and executed [[Python]] scripts for ETL processes, handling data from Google Sheets and generating [[CSV]] reports.
@@ -24,10 +24,10 @@ The primary objective of this session was to execute and refine a comprehensive 
 - Provided solutions for improving timestamp indexing in financial pivot generation.
 
 ### Achievements
-- Successfully created and executed a full ETL pipeline script, generating various reports and time series outputs.
+- Successfully created and executed a full ETL [[pipeline]] script, generating various reports and time series outputs.
 - Enhanced [[data processing]] accuracy by addressing indexing and column selection issues.
 - Established a reproducible system for ETL and analysis regeneration, incorporating [[automation]] strategies.
 
 ### Pending Tasks
-- Further enhancements to the ETL pipeline, such as integrating a Makefile, scheduler, or Jupyter Notebook version for more robust [[automation]].
+- Further enhancements to the ETL [[pipeline]], such as integrating a Makefile, scheduler, or Jupyter Notebook version for more robust [[automation]].
 - Continued refinement of [[data [[visualization]]]] strategies and plotting scripts for improved insights.

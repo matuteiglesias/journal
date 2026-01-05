@@ -21,7 +21,7 @@ The session aimed to enhance data loading capabilities from SQLite databases, fo
 - Addressed an OperationalError by inspecting database schemas and updating queries.
 - Implemented a loader function for key-value tables with pickled objects, including usability simplifications.
 - Debugged table name mismatches in SQLite, particularly with the `processed_files` table.
-- Explored options to resolve loading failures in the `docstore` by adjusting the loading logic or fixing the ingestion pipeline.
+- Explored options to resolve loading failures in the `docstore` by adjusting the loading logic or fixing the ingestion [[pipeline]].
 - Proposed a method to handle UnpicklingError by returning raw binary data.
 - Reconfigured the loader to handle invalid `docstore` entries and probed blobs for valid entries.
 - Built and persisted `docstore` and `index_store` for the `summarize_nodes` function, including testing examples.

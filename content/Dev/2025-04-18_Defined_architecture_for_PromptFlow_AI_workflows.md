@@ -23,7 +23,7 @@ The goal of this session was to define and outline the architecture of the [[Pro
 - Analyzed and decomposed scripts into executable snippets, tagging them according to the [[PromptFlow]] pillars and suggesting [[refactoring]] directions.
 - Mapped [[AI]] [[workflow]] scripts to the architectural pillars, highlighting the purpose and functionality of each code segment.
 - Outlined the mapping of a blog clustering and deduplication script to the [[PromptFlow]] pillars, detailing the script's execution and organization.
-- Implemented a structured [[PromptFlow]] pipeline for extracting structured metadata from blog post ideas.
+- Implemented a structured [[PromptFlow]] [[pipeline]] for extracting structured metadata from blog post ideas.
 - Organized [[Python]] blocks for use within an [[AI]] flow engine, categorizing them by functional roles.
 
 ### Achievements
@@ -33,5 +33,5 @@ The goal of this session was to define and outline the architecture of the [[Pro
 
 ### Pending Tasks
 - Further refinement of script decomposition and [[refactoring]] directions.
-- Additional testing and validation of the [[PromptFlow]] pipeline for [[AI]] extraction.
+- Additional testing and validation of the [[PromptFlow]] [[pipeline]] for [[AI]] extraction.
 - Continued development of developer interfaces and [[documentation]].

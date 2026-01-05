@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to develop a robust pipeline for generating individualized student reports from Google Sheets data, focusing on transparency, personalization, and pedagogical value.
+The session aimed to develop a robust [[pipeline]] for generating individualized student reports from Google Sheets data, focusing on transparency, personalization, and pedagogical value.
 
 ### Key Activities
 - Reflected on emotional [[communication]] and self-voice in personal relationships.
@@ -32,4 +32,4 @@ The session aimed to develop a robust pipeline for generating individualized stu
 
 ### Pending Tasks
 - Implement the report generation code using the outlined methodologies.
-- Test the pipeline with real student data to ensure accuracy and efficiency.
+- Test the [[pipeline]] with real student data to ensure accuracy and efficiency.

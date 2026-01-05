@@ -25,7 +25,7 @@ The session aimed to enhance [[documentation]] processes using [[Docusaurus]] an
 - Provided [[documentation]] for running the Job Explorer app via Streamlit.
 - Established a file organization structure for [[documentation]] with a recommended numbering scheme.
 - Provided instructions for setting up the Job Searcher tool locally using [[Python]] and Streamlit.
-- Designed the Job Searcher Pipeline page to create a clear mental model of the job search process.
+- Designed the Job Searcher [[Pipeline]] page to create a clear mental model of the job search process.
 
 ### Achievements:
 - Successfully created templates and scripts for [[Docusaurus]] [[documentation]].
@@ -33,5 +33,5 @@ The session aimed to enhance [[documentation]] processes using [[Docusaurus]] an
 - Established a structured approach to [[documentation]] file organization.
 
 ### Pending Tasks:
-- Finalize the Job Searcher Pipeline page for non-technical users.
+- Finalize the Job Searcher [[Pipeline]] page for non-technical users.
 - Continue the writing sprint to complete [[documentation]] for all user profiles.

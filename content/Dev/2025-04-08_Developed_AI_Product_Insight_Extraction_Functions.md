@@ -21,7 +21,7 @@ The session aimed to enhance [[AI]]-driven product management capabilities by de
 - Created a [[JSON]] schema for product discovery to analyze code from a product manager's perspective.
 - Discussed improvements to the output layer for better data persistence and management.
 - Refactored existing [[Python]] scripts to improve modularity and maintainability.
-- Integrated [[file management]] enhancements into the [[data processing]] pipeline, including emulating Bash commands in [[Python]].
+- Integrated [[file management]] enhancements into the [[data processing]] [[pipeline]], including emulating Bash commands in [[Python]].
 
 ### Achievements
 - Successfully implemented the `ai_extract_product_insights` function, enhancing the ability to derive structured insights from project texts.

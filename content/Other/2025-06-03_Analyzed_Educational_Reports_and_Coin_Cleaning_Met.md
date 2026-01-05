@@ -20,7 +20,7 @@ The session aimed to explore two main topics: cleaning and restoration technique
 1. Reviewed guidelines for cleaning old coins, emphasizing the preservation of numismatic value and providing a critical view on home remedies.
 2. Provided a step-by-step guide for cleaning modern pocket change, focusing on low-risk methods.
 3. Outlined DIY restoration techniques for coins, prioritizing aesthetic restoration over numismatic preservation.
-4. Conducted a comparative analysis of reports on educational institutions and public libraries in [[Argentina]], focusing on methodology and insights for a practical work assignment.
+4. Conducted a comparative analysis of reports on educational institutions and public libraries in Argentina, focusing on methodology and insights for a practical work assignment.
 5. Analyzed the rubric and evaluation statement for educational projects, evaluating coherence, data quality, and implementation in [[Python]] and SQL.
 6. Critically analyzed a rubric for [[Data Science]], focusing on evaluation criteria and their relevance in training data analysts.
 7. Evaluated data quality across study groups, applying the GQM technique and aligning with the [[Data Science]] rubric.

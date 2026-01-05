@@ -17,7 +17,7 @@ publish: true
 The session aimed to analyze and enhance the multimodal ingestion modules in RAGFlow, focusing on document processing, chunking, and semantic enrichment.
 
 ### Key Activities
-- Conducted a detailed analysis of the `app/paper.py` and `app/table.py` modules, assessing their objectives and limitations within the RAGFlow pipeline.
+- Conducted a detailed analysis of the `app/paper.py` and `app/table.py` modules, assessing their objectives and limitations within the RAGFlow [[pipeline]].
 - Reviewed multimodal chunking modules (`one.py`, `book.py`, `presentation.py`) in InfiniFlow/RAGFlow, focusing on functionalities and chunking heuristics.
 - Outlined specialized modules (`resume.py`, `laws.py`, `tag.py`) for semantic document ingestion, detailing their architectural roles.
 - Completed the catalog of chunkers in RAGFlow, emphasizing the impact of `resume.py`, `laws.py`, and `tag.py` on document preprocessing.

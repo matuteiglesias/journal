@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to develop a [[machine learning]] pipeline using the diamonds dataset, restructure the [[Git]] repository, and troubleshoot [[Git]] errors.
+The goal of this session was to develop a [[machine learning]] [[pipeline]] using the diamonds dataset, restructure the [[Git]] repository, and troubleshoot [[Git]] errors.
 
 ### Key Activities
 - **Model Development Plan**: Outlined a structured plan for developing a [[machine learning]] model, including data preprocessing, model training, evaluation, and addressing production issues.

@@ -13,7 +13,7 @@ publish: true
 
 
 
-**Session Goal:** The primary aim of this session was to develop an [[AI]]-driven pipeline for evaluating job applications using [[OpenAI]]'s [[API]].
+**Session Goal:** The primary aim of this session was to develop an [[AI]]-driven [[pipeline]] for evaluating job applications using [[OpenAI]]'s [[API]].
 
 **Key Activities:**
 - **Planning:** Outlined a structured approach to create an [[AI]]-based HR team for evaluating candidate profiles against job offers.

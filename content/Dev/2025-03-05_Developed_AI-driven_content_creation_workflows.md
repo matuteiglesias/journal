@@ -18,7 +18,7 @@ The session aimed to develop and refine [[AI]]-driven workflows for content crea
 
 ### Key Activities
 - **Content Creation [[Workflow]]**: Developed a robust, scalable [[workflow]] integrating human and [[AI]] efforts.
-- **[[AI]] Pipeline Breakdown**: Detailed a within-cluster [[AI]] pipeline for refining content at the article level.
+- **[[AI]] [[Pipeline]] Breakdown**: Detailed a within-cluster [[AI]] [[pipeline]] for refining content at the article level.
 - **Langflow Architecture Design**: Outlined design principles for Langflow architecture to improve [[AI]] processing.
 - **FAISS Clustering**: Implemented text data clustering using FAISS and SBERT, including similarity searches and embeddings.
 - **Data [[Integration]]**: Loaded Google Sheets data into [[Pandas]] for processing.

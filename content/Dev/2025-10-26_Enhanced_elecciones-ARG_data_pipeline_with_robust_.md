@@ -14,24 +14,24 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance the `elecciones-ARG` data pipeline by implementing robust Makefile configurations and improving [[data processing]] scripts.
+The session aimed to enhance the `elecciones-ARG` data [[pipeline]] by implementing robust Makefile configurations and improving [[data processing]] scripts.
 
 ### Key Activities
-- Developed a detailed runbook for setting up and executing the `elecciones-ARG` data pipeline, including prerequisites and [[troubleshooting]] tips.
+- Developed a detailed runbook for setting up and executing the `elecciones-ARG` data [[pipeline]], including prerequisites and [[troubleshooting]] tips.
 - Enhanced the [[data processing]] runbook with recommendations for ID stability, deduplication, and data contracts.
 - Implemented QA checks in the `70_qa_checks.py` script to handle unknown keys and conservation mismatches.
-- Created a structured Makefile for managing the data pipeline, including commands for running stages and resetting QA baselines.
+- Created a structured Makefile for managing the data [[pipeline]], including commands for running stages and resetting QA baselines.
 - Addressed Makefile compatibility issues with Bash, ensuring proper logging and execution.
 - Provided solutions for [[Python]]'s buffered stdout in Makefile to ensure live log streaming.
 - Improved [[CSV]] processing with enhanced logging and deduplication.
-- Analyzed logs for the [[data processing]] pipeline, identifying issues and providing fixes for logging redundancy and manifest entries.
+- Analyzed logs for the [[data processing]] [[pipeline]], identifying issues and providing fixes for logging redundancy and manifest entries.
 
 ### Achievements
-- Successfully created and updated Makefiles for efficient pipeline management.
+- Successfully created and updated Makefiles for efficient [[pipeline]] management.
 - Implemented robust QA checks and improved logging mechanisms.
 - Enhanced [[data processing]] scripts for better performance and reliability.
 
 ### Pending Tasks
-- Further [[optimization]] of the data pipeline's performance.
+- Further [[optimization]] of the data [[pipeline]]'s performance.
 - Continuous monitoring and adjustment of logging mechanisms to avoid redundancy.
 - Final validation of all implemented changes in a production environment.

@@ -23,7 +23,7 @@ The session aimed to explore and document various [[AI]]-powered techniques for 
 - Reflected on [[AI]] transformations in book production, including automated content generation and educational technology.
 - Outlined recent [[AI]]-driven book production techniques, highlighting niche-specific outlining and interactive content creation.
 - Planned sessions for content creation and review using [[AI]], including prompt design and final editing.
-- Provided a guide for publishing a book in [[Argentina]], covering traditional and self-publishing options.
+- Provided a guide for publishing a book in Argentina, covering traditional and self-publishing options.
 
 ### Achievements
 - Compiled insights on [[AI]]'s role in book production and content creation.

@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to create and refine guides for various legal and financial procedures in [[Argentina]], focusing on online platforms and digital transactions.
+The session aimed to create and refine guides for various legal and financial procedures in Argentina, focusing on online platforms and digital transactions.
 
 ### Key Activities
 - Developed a step-by-step guide for requesting reimbursements through the Trámites a Distancia (TAD) platform, covering access, form filling, and submission.
@@ -22,7 +22,7 @@ The session aimed to create and refine guides for various legal and financial pr
 - Created a detailed guide for claiming a charge of 120,000 pesos with AGIP using a Mercado Pago receipt, detailing steps for document download, validation, and presentation.
 
 ### Achievements
-- Completed comprehensive guides for three critical processes involving digital platforms and legal compliance in [[Argentina]].
+- Completed comprehensive guides for three critical processes involving digital platforms and legal compliance in Argentina.
 
 ### Pending Tasks
 - None identified in this session.

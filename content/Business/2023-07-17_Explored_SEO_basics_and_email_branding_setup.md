@@ -18,7 +18,7 @@ The session aimed to explore foundational concepts of Search Engine [[Optimizati
 
 ### Key Activities
 - Reviewed a guide on [[SEO]] fundamentals, covering keyword usage, content quality, and other [[optimization]] techniques.
-- Reflected on a job opportunity with UNICEF [[Argentina]], noting key responsibilities and contract conditions.
+- Reflected on a job opportunity with UNICEF Argentina, noting key responsibilities and contract conditions.
 - Followed instructions to set up an email footer in Gmail, including adding clickable links.
 - Evaluated three variations of professional email signatures for Matías Nehuen Iglesias, focusing on branding and qualifications.
 - Implemented a guide to create clickable phone number links in email signatures using the 'tel' URI scheme.
@@ -31,4 +31,4 @@ The session aimed to explore foundational concepts of Search Engine [[Optimizati
 
 ### Pending Tasks
 - Further customization of email signatures with personal contact information.
-- Consider applying for the UNICEF [[Argentina]] consultancy position.
+- Consider applying for the UNICEF Argentina consultancy position.

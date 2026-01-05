@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session aimed to validate and enhance the [[PromptFlow]] pipeline for semantic analysis of assistant chat logs, focusing on metadata tagging and [[automation]].
+The session aimed to validate and enhance the [[PromptFlow]] [[pipeline]] for semantic analysis of assistant chat logs, focusing on metadata tagging and [[automation]].
 
 ### Key Activities
-- **Validation**: Reviewed the [[PromptFlow]] pipeline setup for semantic analysis, ensuring metadata tagging for reuse and [[automation]].
+- **Validation**: Reviewed the [[PromptFlow]] [[pipeline]] setup for semantic analysis, ensuring metadata tagging for reuse and [[automation]].
 - **Setup Guide Creation**: Developed a comprehensive guide for setting up new [[PromptFlow]] pipelines, detailing folder structures, required files, YAML configurations, and run commands.
 - **[[Automation]] Transition**: Outlined a transition plan from manual runs to a production-grade periodic processing loop, including data aggregation strategies.
 - **Script Development**: Created a [[Python]] script for daily message export, processing DataFrames into JSONL files.
@@ -25,7 +25,7 @@ The session aimed to validate and enhance the [[PromptFlow]] pipeline for semant
 - **Output Management**: Implemented methods to append outputs to `results.jsonl` and filter null-structured [[JSON]] entries.
 
 ### Achievements
-- Successfully validated the [[PromptFlow]] pipeline and created reusable guides and scripts for future use.
+- Successfully validated the [[PromptFlow]] [[pipeline]] and created reusable guides and scripts for future use.
 - Established a clear plan for automating periodic processing and [[data management]] tasks.
 
 ### Pending Tasks

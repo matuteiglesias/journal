@@ -17,13 +17,13 @@ publish: true
 The session aimed to refactor and optimize various components of the [[data processing]] pipelines, focusing on canonicalization, embedding, and cache management.
 
 **Key Activities:**
-- Designed and implemented a canonicalizer module for the [[data processing]] pipeline, integrating it with existing components and providing unit tests.
-- Developed a detailed [[refactoring]] plan for the TEI pipeline, identifying areas for improvement and providing a prioritized checklist.
+- Designed and implemented a canonicalizer module for the [[data processing]] [[pipeline]], integrating it with existing components and providing unit tests.
+- Developed a detailed [[refactoring]] plan for the TEI [[pipeline]], identifying areas for improvement and providing a prioritized checklist.
 - Outlined a [[refactoring]] [[strategy]] for the `services/papers` module, focusing on separation of concerns and clean architecture.
 - Implemented a disk fast-path in the file system layer for managing papers, including patches for helper functions.
 - Refactored the `app/services/papers.py` file to streamline code and improve maintainability by delegating operations to helper modules.
-- Provided a complete replacement for the `pipeline/embedding/engine.py` file, standardizing the embedding [[API]].
-- Designed and implemented [[CLI]] scripts for the [[data processing]] pipeline, focusing on TEI parsing, embedding, and Chroma [[integration]].
+- Provided a complete replacement for the `[[pipeline]]/embedding/engine.py` file, standardizing the embedding [[API]].
+- Designed and implemented [[CLI]] scripts for the [[data processing]] [[pipeline]], focusing on TEI parsing, embedding, and Chroma [[integration]].
 - Developed an orchestration script for [[FastAPI]] data ingestion, including environment setup and health checks.
 
 **Achievements:**
@@ -33,4 +33,4 @@ The session aimed to refactor and optimize various components of the [[data proc
 
 **Pending Tasks:**
 - Further testing and validation of the refactored components to ensure stability and performance.
-- Continue unifying ingestion flows for enhanced predictability and idempotency in the pipeline.
+- Continue unifying ingestion flows for enhanced predictability and idempotency in the [[pipeline]].

@@ -19,7 +19,7 @@ The session aimed to establish a structured project plan for enhancing online pr
 ### Key Activities
 - Developed a project description outlining phases and session-level activities for online presence and relationship management.
 - Reviewed a kanban board, providing feedback on [[workflow]] efficiency and suggesting improvements.
-- Outlined a Software & Systems Development track focusing on pipeline stability and [[deployment]] [[automation]].
+- Outlined a Software & Systems Development track focusing on [[pipeline]] stability and [[deployment]] [[automation]].
 - Provided insights for refining project board structure, emphasizing task granularity and [[documentation]].
 - Created a strategic learning and research project overview to enhance intellectual positioning through competitor analysis and [[SEO]] strategies.
 - Reviewed and optimized a project board for targeted technical readings, competitor mapping, and [[SEO]] mapping.

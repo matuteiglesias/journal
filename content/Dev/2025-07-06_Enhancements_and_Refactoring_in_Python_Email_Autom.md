@@ -28,7 +28,7 @@ The goal of this session was to enhance and refactor various components of a [[P
 - Implemented message triage limits in `EmailOrchestrator` and updated it to support triage caps.
 - Reviewed `load_all_emails()` implementation for compatibility with the triage [[strategy]].
 - Planned method name [[refactoring]] in `TriageStateManager` with a deprecation [[strategy]].
-- Developed a system recovery and productization roadmap for the email triage pipeline.
+- Developed a system recovery and productization roadmap for the email triage [[pipeline]].
 - Outlined the transition from a notebook to a modular email service with a config-driven runtime.
 
 ### Achievements

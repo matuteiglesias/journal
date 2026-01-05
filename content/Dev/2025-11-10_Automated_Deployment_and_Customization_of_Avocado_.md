@@ -19,8 +19,8 @@ The session aimed to automate the [[deployment]] and customization of the 'Avoca
 ### Key Activities
 - **HTML Template Origin Identification**: Utilized command-line tools to trace the origin of a free HTML template and retrieve Firefox browsing history using SQLite.
 - **Customization and [[Deployment]]**: Developed a runbook for customizing the 'Avocado' hotel template, including content replacement, site building, and [[deployment]].
-- **[[Automation]] with [[Python]] and Gulp**: Automated the [[deployment]] process using [[Python]] scripts for token replacement and a Gulp-based build pipeline.
-- **Gulp Migration Queries**: Investigated Gulp's end of life and compatibility issues for future-proofing the [[deployment]] pipeline.
+- **[[Automation]] with [[Python]] and Gulp**: Automated the [[deployment]] process using [[Python]] scripts for token replacement and a Gulp-based build [[pipeline]].
+- **Gulp Migration Queries**: Investigated Gulp's end of life and compatibility issues for future-proofing the [[deployment]] [[pipeline]].
 - **Template Rendering**: Created a structured HTML template with placeholders and a [[Python]] renderer for dynamic content generation.
 - **Asset Management System**: Outlined a [[Python]]-based system for managing customer assets and batch rendering web pages.
 - **Tech Stack Recommendations**: Provided recommendations for tech stacks focusing on [[automation]] capabilities for client work.

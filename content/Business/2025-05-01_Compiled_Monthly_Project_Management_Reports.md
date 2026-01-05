@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to compile and reflect on various work sessions conducted throughout the month, focusing on [[debugging]], prompt refinement, output quality review, and strategic proposal upgrades within the [[project management]] pipeline.
+The session aimed to compile and reflect on various work sessions conducted throughout the month, focusing on [[debugging]], prompt refinement, output quality review, and strategic proposal upgrades within the [[project management]] [[pipeline]].
 
 ### Key Activities
 - Reviewed and summarized work sessions related to GraphQL [[automation]], including scripting for job searches on Upwork.

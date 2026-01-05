@@ -20,7 +20,7 @@ The session aimed to analyze various political and institutional dynamics, focus
 - Examined the impact of Decreto 54/2009 on road financing and related corruption cases.
 - Analyzed mechanisms of corruption and money laundering involving political figures.
 - Conducted comparative analysis of SOCMA's financial activities and Macri's concessions.
-- Explored the political implications of Cristina Kirchner's detention and the selectivity of justice in [[Argentina]].
+- Explored the political implications of Cristina Kirchner's detention and the selectivity of justice in Argentina.
 - Discussed institutional interventions in academic settings and their legitimacy.
 - Analyzed ADHD programming course advertisement and its ethical implications.
 - Investigated Rodrigo's strategic [[communication]] and involvement in educational services.

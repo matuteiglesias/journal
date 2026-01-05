@@ -20,9 +20,9 @@ The session aimed to enhance and develop memory management pipelines, focusing o
 - Resolved issues related to missing `aios` package and directory structure in [[Python]] environments.
 - Developed scripts for embedding and storing memory notes, ensuring efficient memory management with BaseMemoryManager.
 - Implemented observability cells for embedding verification, providing insights into embedding processes.
-- Built a working memory pipeline integrating log management, embedding, and retrieval functionalities.
+- Built a working memory [[pipeline]] integrating log management, embedding, and retrieval functionalities.
 - Explored high-leverage ideas for memory utilization in various projects.
-- Outlined a production-ready daily-memory ingestion pipeline, emphasizing code [[refactoring]] for robustness.
+- Outlined a production-ready daily-memory ingestion [[pipeline]], emphasizing code [[refactoring]] for robustness.
 - Extended memory management toolkit with functions for metadata retrieval and querying embeddings.
 - Discussed incremental embedding with persistent access, and designed a PersistentMemoryManager using ChromaDB.
 - Limited JSONL file processing for testing purposes, ensuring efficient data handling.
@@ -32,6 +32,6 @@ The session aimed to enhance and develop memory management pipelines, focusing o
 - Established a roadmap for future enhancements and [[refactoring]] to ensure robustness and usability.
 
 ### Pending Tasks
-- Further [[refactoring]] of the daily-memory ingestion pipeline for enhanced robustness.
+- Further [[refactoring]] of the daily-memory ingestion [[pipeline]] for enhanced robustness.
 - Implementation of high-leverage ideas for memory utilization in projects.
 - Continued development of the PersistentMemoryManager for extended functionality.

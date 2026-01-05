@@ -19,18 +19,18 @@ The session aimed to enhance the job search [[automation]] project by structurin
 ### Key Activities
 - Set up a structured project directory for the job search [[automation]] using terminal commands.
 - Analyzed the evolution of ATS and ATS2 workspaces to understand project progression and file structure.
-- Updated the scope of the job search pipeline to ensure portability and ease of use.
+- Updated the scope of the job search [[pipeline]] to ensure portability and ease of use.
 - Implemented a numbered script convention to improve clarity and modularity.
 - Planned the [[refactoring]] of legacy notebooks into [[Python]] scripts for better [[automation]].
 - Refined the module mapping and folder structure for a lean MVP.
 - Designed a modular script for merging job postings from LLM evaluations and scraped data.
-- Developed a [[Python]] wrapper for [[PromptFlow]] to enhance job application pipeline usability.
+- Developed a [[Python]] wrapper for [[PromptFlow]] to enhance job application [[pipeline]] usability.
 - Diagnosed and resolved a `FileNotFoundError` in a [[Python]] script, offering solutions for path management.
 - Analyzed a traceback for manual interruption and provided [[debugging]] insights.
 
 ### Achievements
 - Successfully set up a modular and robust directory structure for job search [[automation]].
-- Enhanced the job search pipeline with improved modularity and clarity.
+- Enhanced the job search [[pipeline]] with improved modularity and clarity.
 - Developed scripts to manage [[PromptFlow]] outputs and integrate job postings efficiently.
 - Addressed technical issues, including [[error handling]] and [[debugging]] interruptions.
 

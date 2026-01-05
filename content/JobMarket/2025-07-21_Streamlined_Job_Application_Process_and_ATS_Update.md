@@ -20,7 +20,7 @@ The goal of this session was to streamline the job application process by curati
 - **Curated Job Application Targets**: A structured list of job positions was curated, organized by company, with deduplication and inferred titles, along with links and notes for each position.
 - **Transition to Apply Phase**: Outlined the transition into the Apply Phase of job applications, detailing completed tasks, a structured execution plan with priority jobs, and efficiency tactics.
 - **Assessment and Alignment**: Conducted assessments for roles such as Lead Data Engineer at EPAM and positions at OneSix, evaluating fit and alignment with the user's skills and experience.
-- **Capability Statements and Messages**: Created tailored capability statements for roles at OneSix, Caylent, and EY [[Argentina]], highlighting relevant experience and skills.
+- **Capability Statements and Messages**: Created tailored capability statements for roles at OneSix, Caylent, and EY Argentina, highlighting relevant experience and skills.
 - **ATS Tracker Updates**: Updated the ATS tracker with corrected job application details for multiple companies, including new entries with alignment and submission status.
 
 ### Achievements

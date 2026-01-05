@@ -17,9 +17,9 @@ publish: true
 The main objective was to diagnose and fix issues related to metadata loading and [[CLI]] argument handling in a [[Python]]-based job fetching script.
 
 ### Key Activities
-- Diagnosed pipeline metadata loading issues, identifying missing `input_csv` fields and providing fixes.
+- Diagnosed [[pipeline]] metadata loading issues, identifying missing `input_csv` fields and providing fixes.
 - Enhanced [[CLI]] argument handling to ensure compatibility with existing patterns and introduced error management.
-- Clarified design constraints for pipeline execution, recommending optional `--query` argument.
+- Clarified design constraints for [[pipeline]] execution, recommending optional `--query` argument.
 - Refactored [[CLI]] argument handling to reduce redundancy and improve metadata management.
 - Debugged script execution failures by capturing standard output and error messages.
 - Refined [[Python]] script's `__main__` block for better structure and [[error handling]].
@@ -29,7 +29,7 @@ The main objective was to diagnose and fix issues related to metadata loading an
 - Identified and resolved [[API]] query issues in the job fetching script, improving handling of location suffixes.
 
 ### Achievements
-- Improved [[CLI]] and metadata handling in the pipeline execution context.
+- Improved [[CLI]] and metadata handling in the [[pipeline]] execution context.
 - Enhanced [[error handling]] and script execution reliability.
 - Optimized query construction and [[API]] interaction, leading to more accurate job search results.
 

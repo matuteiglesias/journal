@@ -19,7 +19,7 @@ The session aimed to audit and revamp existing data projects, focusing on strate
 ### Key Activities
 - **Strategic Project Audit:** Developed a checklist to audit old projects, assessing inventory, strategic value, technical health, and upgrade paths.
 - **Project Analysis for samplerCensoARG:** Conducted a comprehensive analysis of the samplerCensoARG project, detailing its architecture, technical health, and suggesting a refactor plan.
-- **Project Concept for [[Argentina]] Population Projection:** Outlined the creation of a new repository for [[Argentina]]'s population data, including historical census data and projections.
+- **Project Concept for Argentina Population Projection:** Outlined the creation of a new repository for Argentina's population data, including historical census data and projections.
 - **Modeling Techniques for Population Estimation:** Reviewed various modeling techniques for estimating population data, focusing on demographic mechanics and administrative boundaries.
 - **INDEC's Population Estimation Methods:** Analyzed INDEC's methods for small-area population estimation, detailing their formulations and assumptions.
 - **Scaling INDEC Population Curves:** Proposed a method to adjust INDEC's projected population curves to align with 2022 census data.

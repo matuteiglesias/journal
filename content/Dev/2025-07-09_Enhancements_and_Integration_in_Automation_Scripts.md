@@ -21,14 +21,14 @@ The session aimed to enhance and integrate various [[automation]] scripts and wo
 - **[[PromptFlow]] Schema Design:** Enhanced [[PromptFlow]] outputs and schemas for better data auditability and [[integration]] into modular pipelines.
 - **Stable UID Implementation:** Incorporated stable `page_uid` for tracking and deduplication in [[web scraping]] and labeling scripts.
 - **Legal Content Analysis:** Analyzed and proposed reforms for Article 18 and unified legal writing on information access.
-- **Pipeline Diagnostics:** Conducted a diagnostic walkthrough of a pipeline run, suggesting improvements and naming conventions.
-- **Roadmap Revision:** Revised the weekly roadmap for backend pipeline implementation, detailing completed tasks and future milestones.
+- **[[Pipeline]] Diagnostics:** Conducted a diagnostic walkthrough of a [[pipeline]] run, suggesting improvements and naming conventions.
+- **Roadmap Revision:** Revised the weekly roadmap for backend [[pipeline]] implementation, detailing completed tasks and future milestones.
 
 ### Achievements:
 - Successfully enhanced multiple scripts and workflows, leading to improved data handling and [[integration]].
 - Established a stable UID system for consistent data tracking across processes.
-- Developed a comprehensive diagnostic report for pipeline management.
+- Developed a comprehensive diagnostic report for [[pipeline]] management.
 
 ### Pending Tasks:
 - Further refinement of [[PromptFlow]] schemas and UID [[integration]] in additional scripts.
-- Continued development of the backend pipeline as per the revised roadmap.
+- Continued development of the backend [[pipeline]] as per the revised roadmap.

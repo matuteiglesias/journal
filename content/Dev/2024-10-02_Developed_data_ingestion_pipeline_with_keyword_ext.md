@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to develop a data ingestion pipeline integrating keyword extraction and classification to organize data from various sources like RSS feeds and emails.
+The session aimed to develop a data ingestion [[pipeline]] integrating keyword extraction and classification to organize data from various sources like RSS feeds and emails.
 
 ### Key Activities
 - Developed a `NewsDataCollector` to parse news into a SQLite database.
@@ -25,7 +25,7 @@ The session aimed to develop a data ingestion pipeline integrating keyword extra
 - Provided [[Python]] code for loading email data from a SQLite database into a [[Pandas]] [[DataFrame]] for analysis.
 
 ### Achievements
-- Successfully integrated keyword extraction and classification into the data ingestion pipeline.
+- Successfully integrated keyword extraction and classification into the data ingestion [[pipeline]].
 - Developed a structured approach for data triage and email processing.
 - Resolved technical issues related to query timeouts during email processing.
 

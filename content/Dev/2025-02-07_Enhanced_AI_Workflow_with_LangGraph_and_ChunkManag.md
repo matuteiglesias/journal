@@ -17,7 +17,7 @@ publish: true
 The session aimed to enhance [[AI]] workflows by integrating LangGraph for stateful, multi-actor applications and optimizing chunk processing for book drafting.
 
 ### Key Activities
-- **Graph-Based Prompt Engineering**: Explored principles and pipeline abstraction for LLM workflows.
+- **Graph-Based Prompt Engineering**: Explored principles and [[pipeline]] abstraction for LLM workflows.
 - **[[Workflow]] Models**: Developed models for task [[automation]], emphasizing modularity and human oversight.
 - **Storage [[Strategy]] [[Optimization]]**: Differentiated VectorDB for [[AI]] retrieval and local storage for human-readable content.
 - **[[Workflow]] Step Mapping**: Mapped [[workflow]] steps to input/output directories for [[file management]].

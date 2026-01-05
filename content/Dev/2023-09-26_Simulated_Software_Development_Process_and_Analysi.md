@@ -23,7 +23,7 @@ The session aimed to summarize and analyze the simulated software development pr
 - Evaluated project feasibility and categorized ideas based on practicality and innovation.
 - Simulated design and development strategies for various projects, including a virtual card deck, a time-tracking app, and a voice conversion chatbot.
 - Proposed innovative technology solutions for mental health, such as a virtual therapy platform and an [[AI]]-assisted meditation app.
-- Detailed a proposal for an interactive wildfire map for [[Argentina]], including functionalities and development [[strategy]].
+- Detailed a proposal for an interactive wildfire map for Argentina, including functionalities and development [[strategy]].
 
 ### Achievements
 - Summarized the software development process and identified key stages and activities.
@@ -33,4 +33,4 @@ The session aimed to summarize and analyze the simulated software development pr
 ### Pending Tasks
 - Complete the data reloading and analysis of the first 1000 rows of logs.
 - Further develop the currency converter tool based on initial observations.
-- Implement the proposed technology solutions for mental health and the interactive wildfire map for [[Argentina]].
+- Implement the proposed technology solutions for mental health and the interactive wildfire map for Argentina.

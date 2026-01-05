@@ -17,7 +17,7 @@ publish: true
 The session aimed to address and refine the filtering logic for [[Git]]-related files in the indexing process to ensure proper exclusion and improve [[workflow]] efficiency.
 
 ### Key Activities
-- Implemented [[error handling]] for large files in Spacy processing to maintain pipeline stability.
+- Implemented [[error handling]] for large files in Spacy processing to maintain [[pipeline]] stability.
 - Developed a try-except block to gracefully handle Spacy's text length limit errors.
 - Analyzed duplicate SHA-256 hashes in repositories to optimize [[file management]].
 - Refactored [[Python]] code for modular file indexing and chunking.

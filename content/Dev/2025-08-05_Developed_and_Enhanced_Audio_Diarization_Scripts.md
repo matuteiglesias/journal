@@ -29,4 +29,4 @@ The session aimed to develop and enhance scripts for audio diarization and trans
 
 ### Pending Tasks
 - Further testing and [[optimization]] of the diarization scripts to handle larger datasets efficiently.
-- [[Integration]] of the developed scripts into a larger audio processing pipeline for automated workflows.
+- [[Integration]] of the developed scripts into a larger audio processing [[pipeline]] for automated workflows.

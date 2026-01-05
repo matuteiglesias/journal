@@ -14,12 +14,12 @@ publish: true
 
 
 ### Session Goal
-The primary aim of this session was to refactor and automate the accounting ETL pipeline, ensuring modularity, efficiency, and [[integration]] with CI systems.
+The primary aim of this session was to refactor and automate the accounting ETL [[pipeline]], ensuring modularity, efficiency, and [[integration]] with CI systems.
 
 ### Key Activities
 - **Diagnosis of Accounting System Files**: Analyzed specific accounting files to understand their functions and capabilities, focusing on time series and transaction computations.
 - **[[Automation]] Commands**: Developed [[automation]] commands for [[data processing]] tasks, including assembling tables and exporting data to Google Sheets.
-- **Refactor Plan**: Created a comprehensive plan for [[refactoring]] the accounting pipeline, with steps for modular development and addressing potential defects.
+- **Refactor Plan**: Created a comprehensive plan for [[refactoring]] the accounting [[pipeline]], with steps for modular development and addressing potential defects.
 - **[[Python]] File Analysis**: Conducted a detailed analysis of [[Python]] files to extract information on imports, functions, and [[CSV]] operations.
 - **Code [[Refactoring]] and Dependency Mapping**: Mapped current code structure and dependencies, centralizing utility functions to enhance maintainability.
 - **Makefile [[Workflow]]**: Designed a Makefile-driven [[workflow]] for ETL processes, report generation, and CI [[integration]].
@@ -29,10 +29,10 @@ The primary aim of this session was to refactor and automate the accounting ETL 
 - **Testing Scripts**: Developed scripts for local Makefile testing to ensure robustness.
 
 ### Achievements
-- Successfully refactored the accounting pipeline to be more modular and efficient.
+- Successfully refactored the accounting [[pipeline]] to be more modular and efficient.
 - Implemented [[automation]] workflows using Makefiles and [[Python]] scripts.
 - Enhanced the development environment with new tools and [[configuration]] designs.
 
 ### Pending Tasks
-- Further testing and validation of the new ETL pipeline setup.
+- Further testing and validation of the new ETL [[pipeline]] setup.
 - Continuous monitoring and [[troubleshooting]] to ensure smooth operation.

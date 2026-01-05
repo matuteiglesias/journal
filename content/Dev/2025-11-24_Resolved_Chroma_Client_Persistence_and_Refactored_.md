@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal:
-The session aimed to diagnose and resolve persistence issues with the Chroma client in a data pipeline and refactor the `add_chunks_batch` function for improved reliability.
+The session aimed to diagnose and resolve persistence issues with the Chroma client in a data [[pipeline]] and refactor the `add_chunks_batch` function for improved reliability.
 
 ### Key Activities:
 - Diagnosed an `ls` error in a backup script and provided a hardened replacement with enhanced [[error handling]].

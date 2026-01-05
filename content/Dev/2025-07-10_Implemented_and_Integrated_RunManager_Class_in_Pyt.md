@@ -21,7 +21,7 @@ The primary goal of this session was to implement and integrate a `RunManager` c
 - Implemented the `RunManager` class in [[Python]], managing file paths, checking file existence, reading logs, and handling metadata.
 - Successfully generated the `RunManager` class and located it in `/utils/run_manager.py`.
 - Refactored `query_tab.py` to integrate `RunManager` functionality, including creating a `run_uid`, saving metadata, and storing the `run_uid` in session state.
-- Centralized and refined path management in the [[data processing]] pipeline to prevent fragility and ensure multi-user compatibility.
+- Centralized and refined path management in the [[data processing]] [[pipeline]] to prevent fragility and ensure multi-user compatibility.
 - Conducted an architectural review and outlined [[integration]] steps for `RunManager` in the app and backend.
 - Refactored `10_run_full_pipeline.py` script to implement a `RunManager`-based structure with modular paths and run-specific handling.
 - Made final adjustments to improve the robustness of [[Python]] scripts, including fixing variable references and organizing logs.

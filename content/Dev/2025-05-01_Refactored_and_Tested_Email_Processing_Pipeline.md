@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to enhance the email processing system by [[refactoring]] the existing codebase for improved modularity and reliability, and to validate the [[integration]] of various components in the pipeline.
+The goal of this session was to enhance the email processing system by [[refactoring]] the existing codebase for improved modularity and reliability, and to validate the [[integration]] of various components in the [[pipeline]].
 
 ### Key Activities
 - Developed a detailed checklist for the [[integration]] test phase to ensure proper validation of individual classes and their orchestration.
@@ -27,7 +27,7 @@ The goal of this session was to enhance the email processing system by [[refacto
 - Implemented the `EmailOrchestrator` class to automate fetching, parsing, and storing unseen emails.
 
 ### Achievements
-- The email processing pipeline was successfully refactored and tested, confirming that the system functions correctly.
+- The email processing [[pipeline]] was successfully refactored and tested, confirming that the system functions correctly.
 - Improved code modularity and readability, enhancing the maintainability and testability of the system.
 
 ### Pending Tasks

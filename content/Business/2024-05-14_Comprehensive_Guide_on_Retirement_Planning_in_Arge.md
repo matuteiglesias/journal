@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session aimed to create a comprehensive guide on retirement planning in [[Argentina]], focusing on the necessary [[documentation]], financial planning, and verification of contributions.
+The session aimed to create a comprehensive guide on retirement planning in Argentina, focusing on the necessary [[documentation]], financial planning, and verification of contributions.
 
 ### Key Activities
-- **[[Documentation]] Guide**: Developed a detailed guide on the steps and [[documentation]] required for retirement in [[Argentina]], covering aspects like work history, contributions as a self-employed (monotributista), and data verification with ANSES.
+- **[[Documentation]] Guide**: Developed a detailed guide on the steps and [[documentation]] required for retirement in Argentina, covering aspects like work history, contributions as a self-employed (monotributista), and data verification with ANSES.
 - **AFIP Registration Insight**: Provided crucial information on the importance of AFIP registration for retirement planning, including CUIT verification and ensuring proper registration of contributions.
 - **ANSES History Verification**: Offered instructions on how to verify pension contributions through ANSES, including accessing accounts, reviewing work history, and correcting contribution errors.
 - **Labor History Analysis**: Conducted an analysis of labor history recorded in ANSES, highlighting employer diversity and contribution consistency, with recommendations for retirement planning.
@@ -25,7 +25,7 @@ The session aimed to create a comprehensive guide on retirement planning in [[Ar
 - **Monotributo System Analysis**: Detailed the categories of the Argentine monotributo system, its impact on retirement contributions, and recommendations for verification and regularization of contributions.
 
 ### Achievements
-- Developed a comprehensive guide covering all aspects of retirement planning in [[Argentina]].
+- Developed a comprehensive guide covering all aspects of retirement planning in Argentina.
 - Clarified the importance of proper [[documentation]] and registration with AFIP and ANSES.
 - Provided actionable insights and instructions for verifying and correcting pension contributions.
 

@@ -20,7 +20,7 @@ The session aimed to develop and finalize the website structure for a project de
 - Reviewed and outlined the proposed website structure, including sections such as Home Page, Interactive Maps, About Us, and Contact Us.
 - Designed HTML page structures to support the website's functionality, ensuring user-friendly navigation and interaction.
 - Discussed the [[integration]] of interactive maps and other multimedia elements to enhance user engagement.
-- Explored the 'Peronómetro' project, which involves estimating poverty levels in [[Argentina]] using [[machine learning]] models, and outlined its HTML structure.
+- Explored the 'Peronómetro' project, which involves estimating poverty levels in Argentina using [[machine learning]] models, and outlined its HTML structure.
 
 **Achievements:**
 - Successfully defined the website's main sections and their respective purposes.

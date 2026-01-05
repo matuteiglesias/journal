@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to develop a comprehensive product taxonomy and establish a robust [[data processing]] pipeline for product comparison and analysis.
+The session aimed to develop a comprehensive product taxonomy and establish a robust [[data processing]] [[pipeline]] for product comparison and analysis.
 
 ### Key Activities
 - **Merging Data Files**: Implemented [[Python]] scripts to merge price, product, and store data files, ensuring outputs are saved in the correct directories.

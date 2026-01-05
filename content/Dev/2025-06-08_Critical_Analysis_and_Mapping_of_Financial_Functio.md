@@ -25,7 +25,7 @@ The session aimed to critically analyze and map financial [[data processing]] fu
 
 ### Achievements
 - Identified key areas for improvement in financial [[data processing]] and calculation functions.
-- Developed a framework for diagnosing and mapping a financial monitoring pipeline.
+- Developed a framework for diagnosing and mapping a financial monitoring [[pipeline]].
 
 ### Pending Tasks
 - Implement the suggested improvements and optimizations for the analyzed functions.

@@ -23,7 +23,7 @@ The session aimed to enhance the Retrieval-Augmented Generation (RAG) system and
 - Fixed bugs in the RAG UI, including missing functions and tab [[configuration]] issues.
 - Updated the `run_llm()` function to comply with [[OpenAI]] [[API]] version 1.0.0.
 - Explored manual vs. native in-model RAG retrieval methods.
-- Created a starter script for an [[OpenAI]]-native Assistant-based RAG pipeline.
+- Created a starter script for an [[OpenAI]]-native Assistant-based RAG [[pipeline]].
 - Updated [[OpenAI]] Assistants [[API]] tool types and methods for message creation with attachments.
 - Addressed file attachment limits in the Assistants v2 [[API]] and proposed a hybrid RAG approach using a vector database.
 

@@ -21,8 +21,8 @@ The goal of this session was to enhance the efficiency and reliability of a [[Py
 - Fixed logic for digest ID matching in [[CSV]] files using regex for precision.
 - Resolved directory mismatch issues and updated file naming conventions for digest IDs.
 - Improved `create_digest_jsonl()` function to correctly match [[markdown]] files by implementing a manual filter.
-- Developed a reliable execution daemon for pipeline [[automation]], incorporating idempotency checks and a daemon loop.
-- Structured the daemon orchestration for efficient pipeline execution, including [[CLI]] argument handling.
+- Developed a reliable execution daemon for [[pipeline]] [[automation]], incorporating idempotency checks and a daemon loop.
+- Structured the daemon orchestration for efficient [[pipeline]] execution, including [[CLI]] argument handling.
 - Addressed import errors and timezone-aware datetime handling in [[Python]] scripts.
 - Implemented a backfill mode in the daemon for robust [[data processing]].
 - Optimized loop logic for hourly processing to avoid redundancy.

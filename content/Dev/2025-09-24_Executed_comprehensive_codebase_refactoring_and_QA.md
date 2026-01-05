@@ -23,7 +23,7 @@ The session aimed to enhance code quality and robustness through a series of [[r
 - Diagnosed and resolved data duplication issues in Chroma by analyzing parquet files and implementing content fingerprinting for deduplication.
 - Conducted a code review to highlight improvements and unresolved issues, providing a structured plan for further [[refactoring]].
 - Developed a robust clustering script for daily [[data processing]], ensuring data integrity through deduplication and filtering.
-- Reviewed the system architecture of an email processing pipeline, identifying key roles, mismatches, and failure points, and offering recommendations for improvements.
+- Reviewed the system architecture of an email processing [[pipeline]], identifying key roles, mismatches, and failure points, and offering recommendations for improvements.
 
 ### Achievements
 - Successfully reorganized the codebase, improving maintainability and clarity.
@@ -32,4 +32,4 @@ The session aimed to enhance code quality and robustness through a series of [[r
 
 ### Pending Tasks
 - Further [[refactoring]] based on code review recommendations to enhance code quality and maintainability.
-- Implementing the recommended changes to the email processing pipeline architecture.
+- Implementing the recommended changes to the email processing [[pipeline]] architecture.

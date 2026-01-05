@@ -22,7 +22,7 @@ The session aimed to enhance the [[data processing]] pipelines for both email an
 - Conducted a review of email [[data processing]], identifying and fixing issues with timestamp population and participant schema.
 - Implemented bug fixes and improvements to the email [[CSV]] processing script, enhancing participant tracking and timestamp handling.
 - Explored WhatsApp [[data processing]] queries, focusing on adapter design and data cleaning strategies.
-- Planned and executed a hardening plan for the WhatsApp pipeline, ensuring schema compliance and data integrity.
+- Planned and executed a hardening plan for the WhatsApp [[pipeline]], ensuring schema compliance and data integrity.
 - Developed a script to normalize WhatsApp text exports into a structured [[CSV]] format, considering edge cases for participant identification.
 - Addressed issues with WA adapter data handling, implementing fixes for JID normalization and data integrity.
 - Corrected handle ID processing for WhatsApp data, ensuring valid phone formats and data integrity.

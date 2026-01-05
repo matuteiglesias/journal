@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to design and implement [[FastAPI]] endpoints for Chroma [[integration]], review existing RAG pipeline scripts, and develop a prompt builder utility for LLMs.
+The session aimed to design and implement [[FastAPI]] endpoints for Chroma [[integration]], review existing RAG [[pipeline]] scripts, and develop a prompt builder utility for LLMs.
 
 ### Key Activities
 - Designed [[FastAPI]] endpoints to interact with Chroma and LLMs, focusing on architecture responsibilities and [[error handling]].

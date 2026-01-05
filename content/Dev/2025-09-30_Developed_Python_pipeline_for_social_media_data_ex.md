@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance and streamline a [[Python]]-based data export pipeline for Instagram and Facebook HTML data, converting it into clean [[CSV]] and [[JSON]] formats.
+The session aimed to enhance and streamline a [[Python]]-based data export [[pipeline]] for Instagram and Facebook HTML data, converting it into clean [[CSV]] and [[JSON]] formats.
 
 ### Key Activities
 - Developed a script to export Instagram and Facebook data into [[CSV]] and [[JSON]], ensuring parameterization and modularity.

@@ -19,7 +19,7 @@ The session aimed to load, process, and summarize JSONL log files from April to 
 **Key Activities:**
 - Loaded and summarized log entries from mid-April to early May 2023, focusing on [[automation]] and data operations.
 - Processed and summarized May 2023 logs, highlighting developments in [[Python]] scripting and curriculum design.
-- Analyzed logs from June to early July 2023, emphasizing curriculum development and data pipeline enhancements.
+- Analyzed logs from June to early July 2023, emphasizing curriculum development and data [[pipeline]] enhancements.
 - Summarized July 2023 logs, focusing on job market analysis and economic modeling.
 
 **Achievements:**

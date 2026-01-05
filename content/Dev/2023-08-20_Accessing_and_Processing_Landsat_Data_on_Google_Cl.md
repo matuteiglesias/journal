@@ -22,12 +22,12 @@ The session aimed to explore methods for accessing and processing Landsat satell
 - Guided on using Google Cloud Console for managing Google Cloud Storage, including tasks like creating buckets and managing IAM policies.
 - Outlined methods for accessing public Landsat data on Google Cloud Storage, including using `gsutil`, [[Python]] libraries, and direct URL access.
 - Installed the `google-cloud-storage` package in [[Python]] and set up Application Default Credentials for authentication.
-- Detailed the process for downloading and processing Landsat data for [[Argentina]] (2020) using Google Cloud Storage and [[Python]].
+- Detailed the process for downloading and processing Landsat data for Argentina (2020) using Google Cloud Storage and [[Python]].
 
 **Achievements:**
 - Successfully accessed and downloaded Landsat data from Google Cloud Storage.
 - Implemented [[Python]] scripts for processing Landsat data, including filtering and downloading data for specific regions and years.
 
 **Pending Tasks:**
-- Further optimize the [[data processing]] pipeline for Landsat imagery to improve efficiency and reduce processing time.
+- Further optimize the [[data processing]] [[pipeline]] for Landsat imagery to improve efficiency and reduce processing time.
 - Explore additional methods for visualizing processed satellite data.

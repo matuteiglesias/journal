@@ -19,7 +19,7 @@ The session aimed to enhance the accounting system by developing an automated bi
 ### Key Activities
 - **Refinement of Accounting System Structure**: Streamlined the system by centralizing bill processing, standardizing functions, and separating data inputs from outputs to improve efficiency.
 - **Bill Assignment Module Creation**: Developed the `bill_assignment.py` module with functions for deterministic and round-robin bill assignment.
-- **Data Pipeline Streamlining**: Refined the [[data processing]] pipeline, focusing on debt ledger filtering and periodic bill assignment runs.
+- **Data [[Pipeline]] Streamlining**: Refined the [[data processing]] [[pipeline]], focusing on debt ledger filtering and periodic bill assignment runs.
 - **Debt Processing Module**: Created `debt_processing.py` to filter debt ledgers and export structured data for reporting.
 - **Bill Management System Implementation**: Integrated a complete program for automating bill assignment, including data loading, filtering, processing, and exporting results to [[CSV]] files.
 - **Refactored Filtering Functions**: Improved custom filtering functions for a debt ledger, enhancing stability and usability.

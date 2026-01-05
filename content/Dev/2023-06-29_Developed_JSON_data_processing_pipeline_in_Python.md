@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The goal of this session was to develop a robust [[data processing]] pipeline in [[Python]] to handle [[JSON]] files from 2022 and 2023, extract specific elements, and convert them into a structured format using [[pandas]] DataFrames.
+The goal of this session was to develop a robust [[data processing]] [[pipeline]] in [[Python]] to handle [[JSON]] files from 2022 and 2023, extract specific elements, and convert them into a structured format using [[pandas]] DataFrames.
 
 ### Key Activities
 - Loaded [[JSON]] files using [[Python]]'s `[[json]]` module and `os` for directory traversal.
@@ -29,4 +29,4 @@ The goal of this session was to develop a robust [[data processing]] pipeline in
 - Implemented [[error handling]] to manage missing keys gracefully.
 
 ### Pending Tasks
-- Further testing and validation of the [[data processing]] pipeline with additional [[JSON]] datasets to ensure robustness and accuracy.
+- Further testing and validation of the [[data processing]] [[pipeline]] with additional [[JSON]] datasets to ensure robustness and accuracy.

@@ -22,8 +22,8 @@ The primary goal of this session was to enhance a [[Flask]] application by integ
 - Implemented automatic initialization of the vectorstore on app startup.
 - Enhanced verbose logging in the [[Flask]] app to aid in [[debugging]] and tracking processes.
 - Debugged vectorstore initialization issues, ensuring backend logic and UI are synchronized.
-- Fixed the [[OpenAI]] [[API]] key issue and refactored the code to integrate with the Raptor Pipeline.
-- Delegated vectorstore management to the Raptor Pipeline, incorporating embedding, clustering, and summarization capabilities.
+- Fixed the [[OpenAI]] [[API]] key issue and refactored the code to integrate with the Raptor [[Pipeline]].
+- Delegated vectorstore management to the Raptor [[Pipeline]], incorporating embedding, clustering, and summarization capabilities.
 - Planned [[refactoring]] of app logic to make vectorstore optional, allowing fallback processing when not initialized.
 
 ### Achievements

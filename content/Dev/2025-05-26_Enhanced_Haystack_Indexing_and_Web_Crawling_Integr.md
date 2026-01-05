@@ -21,7 +21,7 @@ The session aimed to enhance the [[integration]] of document indexing in Haystac
 - Compared different indexing methods in Haystack, evaluating their strengths and limitations.
 - Aligned [[JSON]] file structures with the expected format for `index_files` in Haystack, including organizing files by path, meta, and content.
 - Modified a [[Python]] script to save web-scraped pages as [[Markdown]] files, organized by subdomain.
-- Developed a function `index_saved_md_files()` to connect [[Markdown]] outputs to the Haystack indexing pipeline.
+- Developed a function `index_saved_md_files()` to connect [[Markdown]] outputs to the Haystack indexing [[pipeline]].
 - Provided step-by-step guidance for running a Streamlit app and resolved a `Path.glob()` error in [[Python]].
 - Diagnosed issues with the `fetch(...)` function in a [[Git]] repository and implemented a web crawling function using the Spider [[API]].
 - Proposed a web exploration [[strategy]] to enhance Matías Iglesias' positioning in the scientific and academic ecosystem of Buenos Aires.

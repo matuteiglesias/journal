@@ -14,10 +14,10 @@ publish: true
 
 
 ### Session Goal
-The session aimed to explore and understand insurance policy regulations in [[Argentina]], focusing on coverage timelines, cancellation notices, and insurer responsibilities.
+The session aimed to explore and understand insurance policy regulations in Argentina, focusing on coverage timelines, cancellation notices, and insurer responsibilities.
 
 ### Key Activities
-- Conducted search queries on insurance policy regulations in [[Argentina]].
+- Conducted search queries on insurance policy regulations in Argentina.
 - Reviewed the process of insurance policy rescission, including legal requirements and actions for the insured.
 
 ### Achievements

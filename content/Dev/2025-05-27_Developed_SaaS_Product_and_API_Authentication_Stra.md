@@ -23,7 +23,7 @@ The primary objective of this session was to advance the development of RAGFlow 
 - Provided detailed code snippets for user management in a [[Flask]] application, including trial expiration checks and user activity validation.
 - Developed a tenant-based enforcement [[strategy]] for [[API]] authentication using APIToken and tenant-based access control.
 - Proposed diagnostic and implementation steps for a paywall system, including middleware and decorators.
-- Enhanced paywall logic in the document upload pipeline to integrate user plan checks.
+- Enhanced paywall logic in the document upload [[pipeline]] to integrate user plan checks.
 
 ### Achievements
 - Established a clear path for converting RAGFlow into a SaaS product with a strong technical foundation.
@@ -31,5 +31,5 @@ The primary objective of this session was to advance the development of RAGFlow 
 - Prepared actionable deliverables for the MVP launch, setting the stage for a successful go-to-market [[strategy]].
 
 ### Pending Tasks
-- Finalize the implementation of the paywall system and ensure its [[integration]] with the document upload pipeline.
+- Finalize the implementation of the paywall system and ensure its [[integration]] with the document upload [[pipeline]].
 - Complete the remaining prioritized deliverables for the MVP launch within the next 48 hours.

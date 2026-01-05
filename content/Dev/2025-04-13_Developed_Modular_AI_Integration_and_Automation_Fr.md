@@ -22,9 +22,9 @@ The session aimed to enhance the [[integration]] and [[automation]] capabilities
 - Created a full [[integration]] checklist for [[AI]] features, covering core logic, execution, [[API]], testing, and metadata.
 - Developed a structured prompt for a First Reviewer Agent to design [[integration]] plans for [[Python]] scripts.
 - Resolved SSL certificate verification errors with [[OpenAI]] [[API]] using `httpx` in [[Python]], including disabling SSL verification for development.
-- Provided feedback on a content-extraction pipeline and discussed scaling [[automation]] with draft scripts and structured feedback.
+- Provided feedback on a content-extraction [[pipeline]] and discussed scaling [[automation]] with draft scripts and structured feedback.
 - Designed a modular agent loop for code generation, emphasizing clarity and reusability.
-- Outlined a 3-stage [[AI]] development pipeline and a distributed [[AI]] [[refactoring]] and code [[integration]] pipeline.
+- Outlined a 3-stage [[AI]] development [[pipeline]] and a distributed [[AI]] [[refactoring]] and code [[integration]] [[pipeline]].
 - Defined agent roles and responsibilities to improve collaboration and scaling.
 - Designed robust [[JSON]] structures for agents focused on batch processing and deduplication.
 

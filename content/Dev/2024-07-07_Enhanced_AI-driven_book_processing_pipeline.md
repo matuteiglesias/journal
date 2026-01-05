@@ -14,7 +14,7 @@ publish: true
 
 
 ### Session Goal
-The session aimed to enhance a [[Python]]-based [[data processing]] pipeline for generating contextual information for book sections using [[AI]].
+The session aimed to enhance a [[Python]]-based [[data processing]] [[pipeline]] for generating contextual information for book sections using [[AI]].
 
 ### Key Activities
 - Converted hierarchical [[CSV]] content into a structured format using [[Pandas]], enabling efficient data access.
@@ -26,7 +26,7 @@ The session aimed to enhance a [[Python]]-based [[data processing]] pipeline for
 
 ### Achievements
 - Successfully refactored the `process_all_sections` function to improve efficiency and resource management.
-- Established a robust pipeline for generating and managing [[AI]]-driven context for book sections.
+- Established a robust [[pipeline]] for generating and managing [[AI]]-driven context for book sections.
 
 ### Pending Tasks
 - Further refine the [[AI]] context generation logic for improved accuracy and relevance.

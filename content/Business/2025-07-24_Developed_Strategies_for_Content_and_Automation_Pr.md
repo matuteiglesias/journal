@@ -19,7 +19,7 @@ The session focused on developing strategies for content creation, [[automation]
 ### Key Activities
 - **Handling UTF-8 Encoding in Google Sheets**: Developed a [[Python]] script to ensure proper UTF-8 encoding for [[CSV]] files, enhancing compatibility with Google Sheets.
 - **Strategizing Authority in [[Data Analysis]]**: Outlined a structured approach to leverage past GPT logs for establishing authority in [[data analysis]] within economics.
-- **Automated Poverty Estimation System**: Proposed a project for building a real-time poverty estimation and [[visualization]] system in [[Argentina]].
+- **Automated Poverty Estimation System**: Proposed a project for building a real-time poverty estimation and [[visualization]] system in Argentina.
 - **Content Series for Poverty Index**: Developed a strategic framework for a content series focused on poverty index [[automation]].
 - **Consolidating Authority in Personal Finance**: Outlined strategies for transforming microeconomic accounting work into authoritative resources.
 - **Building a Publication Engine**: Planned a branded publication engine with semantic sorting and styling.

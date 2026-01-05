@@ -21,7 +21,7 @@ The session aimed to enhance the job search process for GIS-related roles by dev
 - **Job Search Structuring**: Implemented a [[workflow]] to filter GIS job listings by security requirements, experience level, job type, and location.
 - **Job Role Classification**: Developed a script to classify GIS job titles into categories such as Analyst, Engineer, and Manager based on keywords, and counted the occurrences of each category.
 - **Advanced Role Identification**: Identified top 10 GIS-related roles suitable for candidates with advanced technical skills, emphasizing strategic fit and skill transfer potential.
-- **Technical Profile Evaluation**: Conducted a detailed analysis of technical profiles in relation to GIS industry standards in the U.S., including strengths, weaknesses, and strategies for obtaining H1B sponsorship from [[Argentina]].
+- **Technical Profile Evaluation**: Conducted a detailed analysis of technical profiles in relation to GIS industry standards in the U.S., including strengths, weaknesses, and strategies for obtaining H1B sponsorship from Argentina.
 - **[[AI]]-Augmented [[Workflow]] Planning**: Outlined a strategic approach to job applications using [[automation]] and [[AI]] tools, divided into phases for efficiency.
 
 ### Achievements

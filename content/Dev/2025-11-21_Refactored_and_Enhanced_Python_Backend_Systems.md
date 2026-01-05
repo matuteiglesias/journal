@@ -31,4 +31,4 @@ The session aimed to debug and enhance various [[Python]] backend systems, focus
 
 ### Pending Tasks
 - Complete unit and acceptance testing for refactored systems.
-- Implement remaining steps in the TEI pipeline refactor plan.
+- Implement remaining steps in the TEI [[pipeline]] refactor plan.

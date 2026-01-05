@@ -18,7 +18,7 @@ The primary goal of this session was to develop and refine a command-line interf
 
 ### Key Activities
 - Resolved YAML syntax errors and gaierrors in [[configuration]] files for email fetching.
-- Reviewed and assessed the email fetching pipeline, ensuring successful IMAP connections and email parsing.
+- Reviewed and assessed the email fetching [[pipeline]], ensuring successful IMAP connections and email parsing.
 - Outlined and implemented [[CLI]] commands for email processing, including triage and routing, using [[Python]] and Typer library.
 - Designed and implemented daemon management functionalities within the [[CLI]], including starting, stopping, and logging.
 - Refactored the `triage_emails()` function to integrate with `EmailOrchestrator` and `TriageStateManager` for improved modularity and testability.

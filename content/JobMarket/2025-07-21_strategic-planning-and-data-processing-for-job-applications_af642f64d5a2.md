@@ -1,0 +1,45 @@
+---
+title: "Strategic Planning and Data Processing for Job Applications"
+tags: ["Job Application", "Data Processing", "Strategy", "Visualization", "Pandas", "Workflow"]
+created: 2025-07-21
+publish: false
+session_id: "af642f64d5a2ac46095d59582d3c4e50677dd1e7a9a3fb309d4a8322233e148c"
+source_file: "2025-07-21.sessions.jsonl"
+generated: true
+---
+
+# Strategic Planning and Data Processing for Job Applications
+
+- **Day**: 2025-07-21
+- **Time**: 15:20 to 15:30
+- **Project**: JobMarket
+- **Workspace**: WP 1: Strategic / Growth & Development
+- **Status**: In Progress
+- **Priority**: MEDIUM
+- **Assignee**: Matías Nehuen Iglesias
+- **Tags**: Job Application, Data Processing, Strategy, Visualization, Pandas, Workflow
+
+## Description
+
+### Session Goal
+The session aimed to optimize the job application process through strategic planning and [[data processing]].
+
+### Key Activities
+- **Strategic Planning**: Discussed key strategic questions and proposed a [[workflow]] for job applications to address potential challenges.
+- **[[Data Processing]]**: Utilized [[pandas]] to generate a [[DataFrame]] summarizing job listings, including job titles, companies, and application links.
+- **[[Data Analysis]] and [[Visualization]]**: Imported job-related [[CSV]] data and visualized it using Seaborn and [[Matplotlib]] to gain insights.
+- **Job Application Briefing**: Provided a structured overview of 15 job postings with application statuses and recommendations.
+
+### Achievements
+- Developed a strategic [[workflow]] for job applications.
+- Processed and organized job listing data into a digest for easier decision-making.
+- Visualized job data to enhance understanding and planning.
+
+### Pending Tasks
+- Further investigation into specific job postings as recommended in the briefing.
+- Continuous updating and refinement of the job application [[strategy]] based on new data insights.
+
+## Evidence
+
+- source_file=2025-07-21.sessions.jsonl, line_number=2, event_count=0, session_id=af642f64d5a2ac46095d59582d3c4e50677dd1e7a9a3fb309d4a8322233e148c
+- event_ids: []

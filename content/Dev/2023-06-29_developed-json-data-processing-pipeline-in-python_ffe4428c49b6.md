@@ -1,0 +1,45 @@
+---
+title: "Developed JSON data processing pipeline in Python"
+tags: ["Python", "JSON", "Data Processing", "Pandas", "Error Handling"]
+created: 2023-06-29
+publish: true
+session_id: "ffe4428c49b6be92a8833ff02d19c77bbeb723050a4407621b6643d1b238ed3f"
+source_file: "2023-06-29.sessions.jsonl"
+generated: true
+---
+
+# Developed JSON data processing pipeline in Python
+
+- **Day**: 2023-06-29
+- **Time**: 08:00 to 08:25
+- **Project**: Dev
+- **Workspace**: WP 2: Operational
+- **Status**: Completed
+- **Priority**: MEDIUM
+- **Assignee**: Matías Nehuen Iglesias
+- **Tags**: Python, JSON, Data Processing, Pandas, Error Handling
+
+## Description
+
+### Session Goal
+The goal of this session was to develop a robust [[data processing]] pipeline in [[Python]] to handle [[JSON]] files from 2022 and 2023, extract specific elements, and convert them into a structured format using [[pandas]] DataFrames.
+
+### Key Activities
+- Loaded [[JSON]] files using [[Python]]'s `[[json]]` module and `os` for directory traversal.
+- Clarified the relationship between a list named `data` and the [[JSON]] loading process.
+- Extracted `placeVisit` elements from [[JSON]] data using list comprehension.
+- Converted extracted data into [[pandas]] DataFrames, addressing an `AttributeError` by replacing the deprecated `append` method with `concat`.
+- Provided [[error handling]] for potential `KeyError` during [[JSON]] data extraction using try-except blocks.
+
+### Achievements
+- Successfully loaded and processed [[JSON]] files, extracting relevant `placeVisit` data.
+- Created [[pandas]] DataFrames from the extracted data, ensuring compatibility and stability by using the `concat` method.
+- Implemented [[error handling]] to manage missing keys gracefully.
+
+### Pending Tasks
+- Further testing and validation of the [[data processing]] pipeline with additional [[JSON]] datasets to ensure robustness and accuracy.
+
+## Evidence
+
+- source_file=2023-06-29.sessions.jsonl, line_number=0, event_count=0, session_id=ffe4428c49b6be92a8833ff02d19c77bbeb723050a4407621b6643d1b238ed3f
+- event_ids: []

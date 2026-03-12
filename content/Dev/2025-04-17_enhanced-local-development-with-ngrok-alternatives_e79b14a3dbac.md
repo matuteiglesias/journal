@@ -1,0 +1,48 @@
+---
+title: "Enhanced Local Development with ngrok Alternatives"
+tags: ["Ngrok", "Next.Js", "Prompt Engineering", "Git Management", "Frontend Deployment"]
+created: 2025-04-17
+publish: true
+session_id: "e79b14a3dbacc3948beae63f03f0c4d08f754249e4ae24dbe2d4d4fc963b39a5"
+source_file: "2025-04-17.sessions.jsonl"
+generated: true
+---
+
+# Enhanced Local Development with ngrok Alternatives
+
+- **Day**: 2025-04-17
+- **Time**: 13:10 to 13:25
+- **Project**: Dev
+- **Workspace**: WP 2: Operational
+- **Status**: Completed
+- **Priority**: MEDIUM
+- **Assignee**: Matías Nehuen Iglesias
+- **Tags**: Ngrok, Next.Js, Prompt Engineering, Git Management, Frontend Deployment
+
+## Description
+
+### Session Goal
+The session aimed to explore methods for exposing local development servers using tools like ngrok and its alternatives, as well as improving [[workflow]] in Next.js projects and [[Git]] repository management.
+
+### Key Activities
+- **Exposing Local Servers**: Discussed the use of ngrok and alternatives such as LocalTunnel, Cloudflare Tunnel, Tailscale, and ZeroTier for exposing local frontend and backend servers. Covered potential issues like CORS and provided [[configuration]] tips.
+- **React Modules in Next.js**: Reviewed installed React modules in a Next.js project, categorized by UI & Styling, React + UI Components, and others.
+- **Prompt Modularization**: Explored prompt modularization in [[AI]] systems using `.prompty` files to enhance transparency and user experience.
+- **Frontend [[Deployment]]**: Outlined [[deployment]] options for Next.js frontends, including static hosting and full app serving with [[API]] support. Included commands and [[git]] best practices.
+- **[[Git]] Management**: Provided a comprehensive `.gitignore` setup for [[Python]] and Node.js projects and steps for cleaning up a [[Git]] repository, including applying `.gitignore`, removing cached files, and committing changes.
+
+### Achievements
+- Clarified methods for exposing local servers with multiple tools.
+- Documented Next.js project setup and [[deployment]] strategies.
+- Established a clear framework for [[AI]] prompt modularization.
+- Improved [[Git]] repository management with a tailored `.gitignore` and cleanup [[workflow]].
+
+### Pending Tasks
+- Further exploration of alternative tools for local server exposure to determine the best fit for specific project needs.
+- Continued refinement of [[AI]] prompt modularization practices.
+- Implementation of [[deployment]] strategies in live Next.js projects.
+
+## Evidence
+
+- source_file=2025-04-17.sessions.jsonl, line_number=11, event_count=0, session_id=e79b14a3dbacc3948beae63f03f0c4d08f754249e4ae24dbe2d4d4fc963b39a5
+- event_ids: []

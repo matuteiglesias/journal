@@ -1,0 +1,43 @@
+---
+title: "Formation and Planning of Data Policy Subcommittee"
+tags: ["Data Policy", "Subcommittee", "Collaboration", "Timeline", "Roles", "Methodology"]
+created: 2023-05-29
+publish: true
+session_id: "18d69e8814d0223a04bcbb9e324a2a75623189209046e8a2ea1e221a9dccb1c4"
+source_file: "2023-05-29.sessions.jsonl"
+generated: true
+---
+
+# Formation and Planning of Data Policy Subcommittee
+
+- **Day**: 2023-05-29
+- **Time**: 17:15 to 17:50
+- **Project**: Business
+- **Workspace**: WP 1: Strategic / Growth & Development
+- **Status**: In Progress
+- **Priority**: MEDIUM
+- **Assignee**: Matías Nehuen Iglesias
+- **Tags**: Data Policy, Subcommittee, Collaboration, Timeline, Roles, Methodology
+
+## Description
+
+### Session Goal
+The session aimed to establish a framework for the formation and operation of a Data Policy Subcommittee within an educational institution. The focus was on leveraging specialized expertise, fostering collaboration, and ensuring agility in response to regulatory changes.
+
+### Key Activities
+- **Establishment of Subcommittee**: Proposed the creation of a specialized subcommittee to focus on data policy development.
+- **Development of Data Policies**: Provided a framework for the subcommittee to develop clear and consistent data policies, including research, stakeholder consultation, and action plan development.
+- **Action Plan Proposal**: Detailed a step-by-step action plan for the subcommittee to propose data policies to the main commission, emphasizing research, needs analysis, and formal presentation.
+- **Timeline Creation**: Developed a timeline of actions and activities for the subcommittee, covering approval, development, and presentation phases from June to December.
+- **Role and Methodology Establishment**: Outlined roles, responsibilities, and methodologies for the subcommittee, including member designation and initial meeting organization.
+
+### Achievements
+- A comprehensive framework and timeline for the Data Policy Subcommittee were established, ready for execution.
+
+### Pending Tasks
+- Finalize member designation and conduct the initial meeting to kickstart the subcommittee's activities.
+
+## Evidence
+
+- source_file=2023-05-29.sessions.jsonl, line_number=0, event_count=0, session_id=18d69e8814d0223a04bcbb9e324a2a75623189209046e8a2ea1e221a9dccb1c4
+- event_ids: []

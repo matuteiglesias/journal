@@ -1,0 +1,53 @@
+---
+title: "Migrated website to new domain using SSH and SCP"
+tags: ["SSH", "SCP", "Website Migration", "Linux", "File Transfer"]
+created: 2023-04-27
+publish: true
+session_id: "4c13b739fa8adc62c15dce5161a5bcb82fb2353bcceb8a934c44845ada90c043"
+source_file: "2023-04-27.sessions.jsonl"
+generated: true
+---
+
+# Migrated website to new domain using SSH and SCP
+
+- **Day**: 2023-04-27
+- **Time**: 18:50 to 19:35
+- **Project**: Dev
+- **Workspace**: WP 2: Operational
+- **Status**: Completed
+- **Priority**: MEDIUM
+- **Assignee**: Matías Nehuen Iglesias
+- **Tags**: SSH, SCP, Website Migration, Linux, File Transfer
+
+## Description
+
+### Session Goal
+The goal of this session was to migrate a website from an old domain to a new one using SSH and SCP commands.
+
+### Key Activities
+- Accessed the directory contents of the remote server using SSH to verify the files to be transferred.
+- Utilized SCP to transfer files, including tar files, from the remote server to the local machine.
+- Executed the transfer of website contents to the new domain, ensuring all backups were retrieved and extracted properly.
+- Used SCP with the `-r` option to securely copy entire directories from the remote host to the local machine.
+- Copied website files to the new domain directory, verifying permissions to ensure correct [[file management]].
+- Created a new directory for the website and configured it properly.
+- Troubleshot website error messages by checking DNS, firewall settings, and file permissions.
+- Checked the directory for website accessibility issues and ensured necessary files were present.
+- Created a placeholder file to test website functionality and confirmed it was uploaded correctly.
+- Provided a basic HTML 'Hello, World!' example for testing purposes.
+- Discussed the use of `xdg-open` and alternatives for [[file management]] on Linux.
+- Installed xdg-utils and nautilus to enhance file navigation capabilities.
+- Used the `mv` command to organize files within the new directory.
+
+### Achievements
+- Successfully transferred and set up the website on the new domain.
+- Resolved initial accessibility issues by ensuring all necessary files were present and correctly configured.
+
+### Pending Tasks
+- Further testing of the website functionality with more complex placeholders and real content.
+- Continuous monitoring of the website to ensure stability and performance.
+
+## Evidence
+
+- source_file=2023-04-27.sessions.jsonl, line_number=2, event_count=0, session_id=4c13b739fa8adc62c15dce5161a5bcb82fb2353bcceb8a934c44845ada90c043
+- event_ids: []

@@ -34,7 +34,7 @@ The session aimed to organize daily tasks and initiate strategic planning for Q3
 ### Achievements
 - Established clear priorities and immediate actions for daily [[productivity]].
 - Initiated a strategic plan for Q3 with a focus on a single revenue engine.
-- Implemented [[productivity]] techniques to enhance focus and [[task management]].
+- Implemented [[productivity]] techniques to enhance focus and task management.
 
 ### Pending Tasks
 - Finalize and execute the strategic plan for Q3.

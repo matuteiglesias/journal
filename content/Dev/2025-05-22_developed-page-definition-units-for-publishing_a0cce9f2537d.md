@@ -27,10 +27,10 @@ The session aimed to enhance content generation workflows by defining and integr
 ### Key Activities
 - Improved note structuring by defining coherent page concepts and establishing a content supervision protocol.
 - Integrated contributor personas and authority-building playbooks into a publishing system using 'Page Profiles'.
-- Defined the concept of a Page Definition Unit (PDU) for generating Docusaurus pages from clusters of GPT messages.
+- Defined the concept of a Page Definition Unit (PDU) for generating [[Docusaurus]] pages from clusters of GPT messages.
 - Extracted PDUs for [[Python]] CLI development, focusing on project layout and [[debugging]].
 - Discussed development systems and self-healing pipelines, emphasizing [[Python]] installations and clean CLI design.
-- Designed a flow-aware PDU generator prompt for Docusaurus publication.
+- Designed a flow-aware PDU generator prompt for [[Docusaurus]] publication.
 - Addressed OCR text extraction issues and [[troubleshooting]] steps.
 - Developed high-signal PDUs for [[web scraping]] insights and [[SEO]] [[strategy]].
 - Converted TypeScript [[debugging]] challenges into reusable cognitive frameworks.

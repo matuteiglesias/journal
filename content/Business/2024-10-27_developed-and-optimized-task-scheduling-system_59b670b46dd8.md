@@ -25,7 +25,7 @@ generated: true
 The primary goal of this session was to develop and optimize a task scheduling system that effectively manages tasks across a 30-day period, focusing on workload balancing and frequency-based assignments.
 
 ### Key Activities
-- **Data Transformation:** Converted a [[DataFrame]] into a dictionary structure suitable for [[task management]].
+- **Data Transformation:** Converted a [[DataFrame]] into a dictionary structure suitable for task management.
 - **[[CSV]] Updates:** Updated constraints [[CSV]] with new task IDs and expanded it to include additional tasks and constraints.
 - **Error Resolution:** Fixed a float value error in task scheduling code by casting variables to integers.
 - **Morning Routine Scheduling:** Implemented and adapted scheduling logic to ensure the 'Morning Routine' starts immediately after a designated 'Sleep' block.

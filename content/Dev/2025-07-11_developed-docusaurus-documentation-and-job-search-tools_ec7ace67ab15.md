@@ -22,12 +22,12 @@ generated: true
 ## Description
 
 ### Session Goal:
-The session aimed to enhance [[documentation]] processes using Docusaurus and develop job search [[automation]] tools.
+The session aimed to enhance [[documentation]] processes using [[Docusaurus]] and develop job search [[automation]] tools.
 
 ### Key Activities:
-- Created a Docusaurus Markdown conversion template for thesis content, including frontmatter and scripted output logic.
-- Developed a [[Python]] script (`thesis2docusaurus.py`) for converting structured input into Docusaurus-compatible markdown pages.
-- Generated onboarding pages for a job search assistant application using Docusaurus.
+- Created a [[Docusaurus]] Markdown conversion template for thesis content, including frontmatter and scripted output logic.
+- Developed a [[Python]] script (`thesis2docusaurus.py`) for converting structured input into [[Docusaurus]]-compatible markdown pages.
+- Generated onboarding pages for a job search assistant application using [[Docusaurus]].
 - Outlined the features and benefits of a job search [[automation]] tool, focusing on job scraping and [[AI]]-driven ranking.
 - Updated the progress of a structured writing sprint aligned with user profiles and complexity layering.
 - Provided [[documentation]] for running the Job Explorer app via Streamlit.
@@ -36,7 +36,7 @@ The session aimed to enhance [[documentation]] processes using Docusaurus and de
 - Designed the Job Searcher Pipeline page to create a clear mental model of the job search process.
 
 ### Achievements:
-- Successfully created templates and scripts for Docusaurus [[documentation]].
+- Successfully created templates and scripts for [[Docusaurus]] [[documentation]].
 - Enhanced the job search tool with onboarding [[documentation]] and local setup guides.
 - Established a structured approach to [[documentation]] file organization.
 

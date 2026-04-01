@@ -37,7 +37,7 @@ The session aimed to debug and integrate tool-call agents within the Matías [[A
 ### Pending Tasks
 - Further refinement of the onboarding ecosystem to fill identified gaps.
 - Transitioning to infrastructure-aware design to improve user experience and [[automation]].
-- Implementing a chat interface in Docusaurus for better document interaction.
+- Implementing a chat interface in [[Docusaurus]] for better document interaction.
 
 ### Technical Insight
 The session provided valuable insights into [[debugging]] processes and the [[integration]] of [[AI]] tools, enhancing the overall efficiency and effectiveness of the [[automation]] lab.

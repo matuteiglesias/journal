@@ -31,16 +31,16 @@ The goal of this session was to draft and finalize foundational files for the Te
 - **Finalized dependency list**: Corrected and finalized the dependency list for `setup.py`, ensuring all necessary dependencies are included and deprecated practices are avoided.
 - **`pyproject.toml` [[configuration]]**: Provided a professional-grade `pyproject.toml` [[configuration]], detailing dependencies and optional development dependencies.
 - **Inclusion of non-code folders**: Created a `MANIFEST.in` file to ensure essential non-code folders are included in the package.
-- **[[Documentation]] management**: Planned the migration of [[documentation]] to a Docusaurus frontend, ensuring a clean separation of code and [[documentation]].
-- **Docusaurus setup checklist**: Developed a checklist for setting up a Docusaurus project, including moving [[documentation]], cleaning up the sidebar, and running the project locally.
+- **[[Documentation]] management**: Planned the migration of [[documentation]] to a [[Docusaurus]] frontend, ensuring a clean separation of code and [[documentation]].
+- **[[Docusaurus]] setup checklist**: Developed a checklist for setting up a [[Docusaurus]] project, including moving [[documentation]], cleaning up the sidebar, and running the project locally.
 
 ### Achievements
 - Successfully structured the foundational files for the Terra OSS repository.
 - Finalized and corrected the dependency list for the project.
-- Developed a comprehensive plan for [[documentation]] management using Docusaurus.
+- Developed a comprehensive plan for [[documentation]] management using [[Docusaurus]].
 
 ### Pending Tasks
-- Complete the migration of [[documentation]] to Docusaurus and verify the setup locally.
+- Complete the migration of [[documentation]] to [[Docusaurus]] and verify the setup locally.
 - Continue refining the [[documentation]] content and structure as needed.
 
 ## Evidence

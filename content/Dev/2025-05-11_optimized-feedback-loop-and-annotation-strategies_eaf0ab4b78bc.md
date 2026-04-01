@@ -31,7 +31,7 @@ The session aimed to optimize feedback loops through dataset analysis and improv
 - Addressed taxonomy drift in category fields, recommending strategic category consolidation.
 - Improved summary guidelines to enhance semantic value and consistency.
 - Proposed a nuanced approach to message type classification to better understand communicative intent.
-- Refined the definition of 'actionable' in [[task management]] to prioritize explicit action items.
+- Refined the definition of 'actionable' in task management to prioritize explicit action items.
 - Evaluated domain field tagging issues, recommending canonical mapping and normalization.
 
 ### Achievements

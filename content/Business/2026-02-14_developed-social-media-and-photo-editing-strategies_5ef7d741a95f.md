@@ -36,7 +36,7 @@ The session aimed to develop cohesive strategies for photo editing and social me
 - Developed strategic guidelines for Instagram identity and content [[strategy]] for 2026.
 
 ### Pending Tasks
-- Further exploration of Docusaurus component library for potential [[integration]] into web projects.
+- Further exploration of [[Docusaurus]] component library for potential [[integration]] into web projects.
 
 ## Evidence
 

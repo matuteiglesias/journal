@@ -29,7 +29,7 @@ The session aimed to configure a start page for a knowledge base manual and plan
 2. Conducted a search query for KB contracts [[documentation]] to gather insights on recent updates.
 3. Queried status patterns in 'turn3view1' for response length and status evaluation.
 4. Made critical decisions for contract mapping and ground truth in version 0.1, focusing on UI status and aggregator formalization.
-5. Planned improvements for a Docusaurus landing page to enhance user experience.
+5. Planned improvements for a [[Docusaurus]] landing page to enhance user experience.
 6. Developed a blueprint for hack sessions, detailing roles, timelines, and tasks for a Summarizer and Observability UI.
 7. Outlined a hack session board v0.1 with specific tracks and gates for [[project management]].
 
@@ -39,7 +39,7 @@ The session aimed to configure a start page for a knowledge base manual and plan
 
 **Pending Tasks:**
 - Finalize the formalization of contract mapping and ground truth decisions for version 0.1.
-- Implement the planned improvements for the Docusaurus landing page.
+- Implement the planned improvements for the [[Docusaurus]] landing page.
 
 ## Evidence
 

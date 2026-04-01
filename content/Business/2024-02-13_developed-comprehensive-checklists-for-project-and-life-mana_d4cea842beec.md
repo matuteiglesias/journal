@@ -26,7 +26,7 @@ The session aimed to develop and refine comprehensive checklists for both person
 
 ### Key Activities
 - Created structured checklists to enhance daily life management, focusing on routines, household management, and personal development.
-- Developed focused checklists for [[task management]] in areas such as grocery shopping, financial management, and emergency preparedness.
+- Developed focused checklists for task management in areas such as grocery shopping, financial management, and emergency preparedness.
 - Expanded on a morning routine checklist to improve health and [[productivity]].
 - Identified critical projects and stakeholders for IT management transitions, detailing roles and strategies.
 - Outlined execution plans and checklists for the initial phases of business projects, including infrastructure audits and policy development.

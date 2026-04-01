@@ -27,7 +27,7 @@ The session aimed to develop structured frameworks and systems for effective lif
 **Key Activities:**
 - Developed a life management framework distinguishing between operational and creative work.
 - Designed resilient systems for minimal user oversight with [[automation]] and self-healing features.
-- Outlined a daily digest generation mechanism to streamline [[task management]].
+- Outlined a daily digest generation mechanism to streamline task management.
 - Proposed a cognitive reconstruction system for passive data inference and system state analysis.
 - Suggested a minimal-discipline life management loop using voice input and Google Docs.
 - Integrated Google Docs with LLMs for automated content management using service accounts.

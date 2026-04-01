@@ -38,7 +38,7 @@ The session aimed to refine and enhance a task scheduling model using [[Python]]
 
 ### Pending Tasks
 - Further testing and validation of the scheduling model to ensure robustness across different scheduling scenarios.
-- [[Integration]] of additional [[task management]] features, such as incorporating recurring tasks and more complex scheduling constraints.
+- [[Integration]] of additional task management features, such as incorporating recurring tasks and more complex scheduling constraints.
 
 ## Evidence
 

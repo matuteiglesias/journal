@@ -26,14 +26,14 @@ The session aimed to design a cohesive visual package for a [[documentation]] we
 
 ### Key Activities
 - **Design Request for KB Manual Visuals**: Created a detailed design request specifying the visual elements needed for the [[documentation]] site, including landing page visuals, icon sets, and a brand kit.
-- **Docusaurus Landing Page Customization**: Provided instructions for customizing the landing page of a Docusaurus v2 project, detailing file modifications and layout design.
+- **[[Docusaurus]] Landing Page Customization**: Provided instructions for customizing the landing page of a [[Docusaurus]] v2 project, detailing file modifications and layout design.
 - **Hero Background Illustration Design**: Outlined specifications for a minimal technical line art hero background illustration to maintain a clean and schematic design.
-- **Design Agency Response**: Reviewed the design agency's recommendations for the Docusaurus landing page, focusing on asset formats, color schemes, and deliverable adjustments.
+- **Design Agency Response**: Reviewed the design agency's recommendations for the [[Docusaurus]] landing page, focusing on asset formats, color schemes, and deliverable adjustments.
 - **Image Generation Parameters and Request**: Documented parameters and executed a request for generating images with specific style transfer options.
 
 ### Achievements
 - Successfully outlined a comprehensive visual design package for the [[documentation]] website.
-- Customized the Docusaurus landing page as per the design guidelines.
+- Customized the [[Docusaurus]] landing page as per the design guidelines.
 - Defined and executed image generation tasks with specific parameters.
 
 ### Pending Tasks

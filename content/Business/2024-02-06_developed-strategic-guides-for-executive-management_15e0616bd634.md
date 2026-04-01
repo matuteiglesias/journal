@@ -28,7 +28,7 @@ The session aimed to develop strategic guides and frameworks for enhancing the e
 - **Strategic Guide for Public Safety**: Developed a guide emphasizing the role of Dirección General de Informática in enhancing public safety and justice through advanced technologies and intersectoral collaborations.
 - **Strategic Planning Framework**: Established a framework focusing on strategic planning, effective management, and transparency aligned with public policies.
 - **Executive Management [[Strategy]]**: Outlined systematic approaches for managing secretaries and assistants in executive environments, including meeting planning and communication protocols.
-- **Google Tools for Agenda Management**: Explored Google tools like Calendar, Keep, and Tasks to enhance [[productivity]] and [[task management]] in executive settings.
+- **Google Tools for Agenda Management**: Explored Google tools like Calendar, Keep, and Tasks to enhance [[productivity]] and task management in executive settings.
 - **[[Project Management]] Solution Proposal**: Proposed an alternative [[project management]] solution to enhance team collaboration and efficiency.
 - **Google Workspace [[Integration]]**: Detailed a system for integrating Google Workspace tools to automate meeting management and [[documentation]].
 

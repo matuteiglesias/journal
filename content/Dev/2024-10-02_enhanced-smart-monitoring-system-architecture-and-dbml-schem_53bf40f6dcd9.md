@@ -35,7 +35,7 @@ The session aimed to refine the architecture and database schema of the Smart Mo
 ### Achievements
 - Developed a comprehensive framework for categorizing and managing emails using [[AI]]-assisted decision-making.
 - Designed a robust DBML schema to support multi-source data [[integration]] and email management.
-- Refined the architecture of the Smart Monitoring System to enhance [[automation]] and [[task management]].
+- Refined the architecture of the Smart Monitoring System to enhance [[automation]] and task management.
 
 ### Pending Tasks
 - Implement the refined DBML schema into the existing system.

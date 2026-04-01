@@ -30,7 +30,7 @@ The session aimed to explore strategic planning for [[automation]] and business 
 - Examined the tension between elegant architectures and MVPs in product development.
 - Outlined strategies for launching a digital store and automating freelance services.
 - Developed a 90-day roadmap to address blind spots with actionable feedback loops.
-- Proposed [[automation]] solutions for [[task management]], including Telegram bots for reminders and checklist management.
+- Proposed [[automation]] solutions for task management, including Telegram bots for reminders and checklist management.
 
 ### Achievements:
 - Established a clear framework for strategic planning with a focus on [[automation]].

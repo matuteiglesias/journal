@@ -30,7 +30,7 @@ The session aimed to design and implement key components of the Terra [[AI]] sys
 3. **Living Ecosystem Design**: Developed a vision for a collaborative environment for knowledge sharing between humans and [[AI]] agents.
 4. **Terra [[Documentation]]**: Drafted key documents such as a vision statement and a style guide for the Terra project.
 5. **Foundational Info Directory**: Conceptualized a creative and engaging foundational directory for Terra's world-building aspect.
-6. **Registry [[Automation]]**: Designed a living data registry with Docusaurus [[integration]] and implemented a registry crawler script.
+6. **Registry [[Automation]]**: Designed a living data registry with [[Docusaurus]] [[integration]] and implemented a registry crawler script.
 7. **[[JSON]] for Agent Registry**: Transitioned from YAML to [[JSON]] for agent registries, providing a [[Python]] code example.
 
 ### Achievements:

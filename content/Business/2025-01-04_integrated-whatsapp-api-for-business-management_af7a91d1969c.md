@@ -25,7 +25,7 @@ generated: true
 The session aimed to integrate and test the WhatsApp [[API]] for business management purposes, focusing on messaging, webhook [[configuration]], and CRM [[integration]].
 
 ### Key Activities
-- Proposed a hierarchy of agent classes for [[task management]] systems.
+- Proposed a hierarchy of agent classes for task management systems.
 - Planned and executed the [[integration]] of WhatsApp using its APIs, including setting up webhooks and CRM [[integration]].
 - Tested WhatsApp [[integration]] with Cloud [[API]] and Business Management [[API]].
 - Configured WhatsApp Business [[API]] tokens and permissions.

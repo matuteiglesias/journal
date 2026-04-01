@@ -29,7 +29,7 @@ The session aimed to optimize the 2025 election data pipeline and manage [[autom
 - Discussed the efficiency of normalization scripts, emphasizing avoiding redundant preprocessing.
 - Planned [[CSV]] alignment between 2025 and 2023 data formats using command-line operations.
 - Implemented a fix for blank headers in [[CSV]] files using csvcut and find commands.
-- Outlined a Financial Week Touch and systems mini-sprint, including detailed checklists for [[task management]].
+- Outlined a Financial Week Touch and systems mini-sprint, including detailed checklists for task management.
 - Optimized an ingestion pipeline with steps for idempotency and [[error handling]].
 - Developed a daily action plan to reduce risk and improve system reliability.
 - Diagnosed and proposed actions for optimizing PDF [[file management]] in accounting systems.

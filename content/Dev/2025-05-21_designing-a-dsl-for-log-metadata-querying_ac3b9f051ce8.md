@@ -32,7 +32,7 @@ The session aimed to design a domain-specific language (DSL) for querying log me
 - Analyzed semantic terrain for knowledge management, focusing on semantic linking and content generation.
 - Conducted a semantic fingerprint analysis of a knowledge corpus for content [[strategy]].
 - Provided a structured approach to organizing a vast corpus of suggested actions into a canonical backlog.
-- Developed a framework for modular work clusters to enhance [[task management]].
+- Developed a framework for modular work clusters to enhance task management.
 
 ### Achievements
 - Established a clear framework for developing a DSL for log metadata querying.

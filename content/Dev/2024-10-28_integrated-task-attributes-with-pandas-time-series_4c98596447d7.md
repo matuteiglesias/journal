@@ -34,7 +34,7 @@ The session aimed to integrate task attributes with a [[Pandas]] time series to 
 
 ### Achievements
 - Successfully merged task attributes with a time series in [[Pandas]], improving [[data analysis]] capabilities.
-- Developed templates and checklists for efficient [[task management]] and legal procedures.
+- Developed templates and checklists for efficient task management and legal procedures.
 
 ### Pending Tasks
 - Further refinement of daily schedules to ensure optimal [[productivity]].

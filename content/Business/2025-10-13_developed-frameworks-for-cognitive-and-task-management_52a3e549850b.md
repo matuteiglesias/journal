@@ -22,12 +22,12 @@ generated: true
 ## Description
 
 **Session Goal:**
-The session aimed to explore and refine frameworks and architectures for cognitive engagement, [[task management]], and executive function, with a focus on enhancing [[productivity]] and sustainability.
+The session aimed to explore and refine frameworks and architectures for cognitive engagement, task management, and executive function, with a focus on enhancing [[productivity]] and sustainability.
 
 **Key Activities:**
 - Conducted a critical review of a finite-deck control system for weekly task allocation, identifying structural strengths and areas for improvement.
 - Outlined a framework for transversal modes of cognitive engagement, focusing on 'how' rather than 'what' to optimize [[workflow]].
-- Reflected on control architecture in [[task management]], emphasizing structured systems and feedback clarity.
+- Reflected on control architecture in task management, emphasizing structured systems and feedback clarity.
 - Explored control coherence in executive systems, highlighting the role of middleware in bridging intention and execution.
 - Analyzed the anatomy of executive self-regeneration, emphasizing cognitive ergonomics and UX design.
 - Discussed cognitive economy and operational literacy, focusing on efficient context management and system boundaries.
@@ -38,7 +38,7 @@ The session aimed to explore and refine frameworks and architectures for cogniti
 - Created a civic intelligence toolkit, emphasizing strategic communication with non-technical audiences.
 
 **Achievements:**
-- Developed comprehensive frameworks and insights into cognitive and [[task management]] systems, enhancing understanding of [[productivity]] mechanisms and cognitive engagement strategies.
+- Developed comprehensive frameworks and insights into cognitive and task management systems, enhancing understanding of [[productivity]] mechanisms and cognitive engagement strategies.
 
 **Pending Tasks:**
 - Further refinement of the finite-deck control system for task allocation.

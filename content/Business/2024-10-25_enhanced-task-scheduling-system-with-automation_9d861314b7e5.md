@@ -26,7 +26,7 @@ The session aimed to refine and enhance the task scheduling system by incorporat
 
 ### Key Activities
 - **Refinement of Task Scheduling System**: Planned enhancements to include columns for 'Estimated Duration' and 'Recurrence'.
-- **Structured Scheduling**: Emphasized the benefits of structured scheduling for better [[task management]], focusing on clear durations and recurrence patterns.
+- **Structured Scheduling**: Emphasized the benefits of structured scheduling for better task management, focusing on clear durations and recurrence patterns.
 - **[[Automation]] Strategies**: Outlined strategies to automate task scheduling using platforms like Trello and Google Calendar, with tools such as [[pandas]] and Zapier.
 - **Task Organization**: Developed a systematic approach to categorize tasks for effective scheduling, suggesting values for task groups, themes, types, estimated durations, and recurrences.
 - **Task Classification Examples**: Provided examples for categorizing tasks into types like Urgent, Important, Routine, etc.

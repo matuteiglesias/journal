@@ -22,11 +22,11 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to establish a comprehensive [[documentation]] structure for the Docusaurus ecosystem and related governance frameworks.
+The session aimed to establish a comprehensive [[documentation]] structure for the [[Docusaurus]] ecosystem and related governance frameworks.
 
 ### Key Activities
-- Outlined a detailed [[documentation]] structure for the Docusaurus ecosystem, including seed snippets for contracts, governance, and shared conventions.
-- Addressed specific queries regarding frontmatter conventions in Docusaurus [[documentation]].
+- Outlined a detailed [[documentation]] structure for the [[Docusaurus]] ecosystem, including seed snippets for contracts, governance, and shared conventions.
+- Addressed specific queries regarding frontmatter conventions in [[Docusaurus]] [[documentation]].
 - Reviewed the Ecosystem Ops Manual as a reference for decision-making and contract management.
 - Drafted a governance artifact for ecosystem map and registry management.
 - Developed an index and policy for Architecture Decision Records (ADRs).
@@ -34,8 +34,8 @@ The session aimed to establish a comprehensive [[documentation]] structure for t
 - Outlined the Digest Bus contract for managing memory bags and digest artifacts.
 
 ### Achievements
-- Established a clear framework for documenting the Docusaurus ecosystem and governance processes.
-- Clarified frontmatter conventions and [[documentation]] structure for Docusaurus.
+- Established a clear framework for documenting the [[Docusaurus]] ecosystem and governance processes.
+- Clarified frontmatter conventions and [[documentation]] structure for [[Docusaurus]].
 - Created a structured draft for ecosystem governance and decision-making artifacts.
 
 ### Pending Tasks

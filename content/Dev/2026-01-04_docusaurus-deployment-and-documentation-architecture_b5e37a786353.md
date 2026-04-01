@@ -22,10 +22,10 @@ generated: true
 ## Description
 
 **Session Goal:**
-The session aimed to assess and refine the [[deployment]] [[strategy]] for Docusaurus and improve the internal linking architecture of the ops wiki.
+The session aimed to assess and refine the [[deployment]] [[strategy]] for [[Docusaurus]] and improve the internal linking architecture of the ops wiki.
 
 **Key Activities:**
-- Conducted a lock-in assessment for the Docusaurus [[deployment]], focusing on the current status, completed tasks, and unresolved issues.
+- Conducted a lock-in assessment for the [[Docusaurus]] [[deployment]], focusing on the current status, completed tasks, and unresolved issues.
 - Evaluated the internal linking architecture, ensuring consistency and professionalism in [[documentation]].
 - Developed a one-pager specification for multi-[[project management]], detailing components like projects, modes, operators, and evidence standards.
 - Reviewed the data model overview, focusing on the structure and purpose of components such as Projects, VACChains, and Endpoints.
@@ -36,7 +36,7 @@ The session aimed to assess and refine the [[deployment]] [[strategy]] for Docus
 - Created an operator console guide, detailing workflows for time management and [[productivity]].
 
 **Achievements:**
-- Finalized the Docusaurus [[deployment]] [[strategy]] and [[documentation]] architecture.
+- Finalized the [[Docusaurus]] [[deployment]] [[strategy]] and [[documentation]] architecture.
 - Established a comprehensive framework for multi-[[project management]] and data modeling.
 - Enhanced execution models and verification processes.
 

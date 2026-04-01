@@ -24,7 +24,7 @@ generated: true
 **Session Goal:** To devise a comprehensive plan for achieving wealth and monetization through leveraging skills in [[data science]], [[automation]], and entrepreneurship.
 
 **Key Activities:**
-- Structured a virtual [[AI]] team for [[task management]], focusing on roles, scheduling, and collaboration tools.
+- Structured a virtual [[AI]] team for task management, focusing on roles, scheduling, and collaboration tools.
 - Reviewed Matías' skill set and interests, emphasizing [[data science]] and [[AI]]-driven innovations.
 - Developed a tailored plan for achieving million-dollar wealth in 10 years, leveraging skills in [[data science]] and [[automation]].
 - Identified top skills for monetization in [[AI]] and [[automation]], including public speaking and content creation.

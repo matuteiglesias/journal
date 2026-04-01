@@ -22,18 +22,18 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to transform academic and technical content into a Docusaurus-compatible Markdown format, ensuring readability, [[SEO]] [[optimization]], and detail preservation.
+The session aimed to transform academic and technical content into a [[Docusaurus]]-compatible Markdown format, ensuring readability, [[SEO]] [[optimization]], and detail preservation.
 
 ### Key Activities
-- Structured a thesis into independent Markdown pages suitable for Docusaurus, including file naming conventions and content sections.
-- Converted academic text into Docusaurus format, focusing on readability and [[SEO]].
+- Structured a thesis into independent Markdown pages suitable for [[Docusaurus]], including file naming conventions and content sections.
+- Converted academic text into [[Docusaurus]] format, focusing on readability and [[SEO]].
 - Transformed technical sections, preserving mathematical notation and enhancing structure.
 - Developed a Jinja2 template for automating the LaTeX to Markdown transformation.
 - Analyzed statistical relationships for variance and population size.
-- Designed a [[workflow]] for processing LaTeX-like texts into Docusaurus-ready Markdown.
+- Designed a [[workflow]] for processing LaTeX-like texts into [[Docusaurus]]-ready Markdown.
 
 ### Achievements
-- Successfully outlined strategies for content transformation, ensuring Docusaurus compatibility.
+- Successfully outlined strategies for content transformation, ensuring [[Docusaurus]] compatibility.
 - Created templates and workflows to automate and streamline the transformation process.
 
 ### Pending Tasks

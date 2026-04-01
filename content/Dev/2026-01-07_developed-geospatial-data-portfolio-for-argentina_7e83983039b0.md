@@ -25,7 +25,7 @@ generated: true
 The primary aim of this session was to develop a comprehensive [[strategy]] for managing and structuring geospatial data portfolios in Argentina, focusing on VAC chains, repository governance, and data contracts.
 
 ### Key Activities:
-- **Fixing Broken Anchors:** Resolved issues with broken anchor links in Docusaurus [[documentation]] by ensuring proper heading IDs and explicit anchor tags.
+- **Fixing Broken Anchors:** Resolved issues with broken anchor links in [[Docusaurus]] [[documentation]] by ensuring proper heading IDs and explicit anchor tags.
 - **Framework for Project Mapping:** Established a structured approach for defining projects with VAC chains and endpoints, aimed at producing actionable artifacts for multiple GEO repositories.
 - **[[GitHub]] Search Queries:** Conducted search queries related to the [[GitHub]] user 'matuteiglesias' to explore specific repositories and recent activities.
 - **Overview and Proposal:** Outlined the functions and artifacts of various repositories related to census data and geospatial analysis, and proposed a strategic geospatial data portfolio for Argentina focusing on consistent data formats and IDs.

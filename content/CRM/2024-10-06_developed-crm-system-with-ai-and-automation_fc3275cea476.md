@@ -26,8 +26,8 @@ The session aimed to outline and develop a CRM system that automates and enhance
 
 ### Key Activities
 - Identified core user needs and features for the CRM system, focusing on [[automation]] and relationship management.
-- Developed strategies for smart monitor [[integration]], including automated email parsing and [[task management]].
-- Planned the next steps for CRM development, such as finalizing relational table designs, prototyping [[AI]] modules, optimizing data parsing, designing the user interface, and integrating [[task management]].
+- Developed strategies for smart monitor [[integration]], including automated email parsing and task management.
+- Planned the next steps for CRM development, such as finalizing relational table designs, prototyping [[AI]] modules, optimizing data parsing, designing the user interface, and integrating task management.
 - Outlined a step-by-step plan to convert an Excel sheet of categorized contacts into a functional CRM system, including [[automation]] for reminders, [[AI]] insights, and goal-based analysis.
 
 ### Achievements
@@ -37,7 +37,7 @@ The session aimed to outline and develop a CRM system that automates and enhance
 ### Pending Tasks
 - Finalize relational table designs and prototype [[AI]] modules.
 - Optimize data parsing and design the user interface.
-- Integrate [[task management]] and implement feedback mechanisms.
+- Integrate task management and implement feedback mechanisms.
 
 ## Evidence
 

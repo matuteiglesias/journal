@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to develop a comprehensive strategic framework for sustained business growth and effective [[task management]].
+The session aimed to develop a comprehensive strategic framework for sustained business growth and effective task management.
 
 ### Key Activities
 - **Perfil de Facturación Sostenida**: Explored the ideal state of sustained billing, focusing on stabilized operational cycles, clear economic flow, and personal success as a case study, while identifying risks to avoid.
@@ -33,7 +33,7 @@ The session aimed to develop a comprehensive strategic framework for sustained b
 - **Estrategia de Cuentas Paralelas**: Proposed using parallel accounts for strategic visibility and control across different fronts.
 
 ### Achievements
-- Developed a multi-layered strategic framework for business growth and [[task management]].
+- Developed a multi-layered strategic framework for business growth and task management.
 - Identified key areas for improvement in billing and marketing strategies.
 
 ### Pending Tasks

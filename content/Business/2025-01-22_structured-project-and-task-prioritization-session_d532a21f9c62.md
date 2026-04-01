@@ -31,7 +31,7 @@ The session aimed to organize and prioritize tasks and projects across various d
 - Provided a categorized project list with urgency and importance tags to prioritize tasks effectively.
 - Downloaded and updated [[CSV]] files for project priority lists.
 - Prioritized key projects for implementation, focusing on [[AI]] Automations, Political Narrative, Academic Profile Building, and more.
-- Organized projects into workspaces using Motion for better [[task management]] and [[productivity]].
+- Organized projects into workspaces using Motion for better task management and [[productivity]].
 - Developed project plans for financial management, [[automation]], and [[GitHub]] quality assessment.
 
 **Achievements:**

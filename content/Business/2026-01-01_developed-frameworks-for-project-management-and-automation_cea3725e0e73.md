@@ -28,7 +28,7 @@ generated: true
 - Outlined 2026 standards for operational excellence, emphasizing enforceable constraints and accountability.
 - Designed a human-centered runbook system to enhance [[productivity]].
 - Developed a minimal ontology for [[project management]] to streamline governance.
-- Proposed a unified execution machine framework for [[task management]].
+- Proposed a unified execution machine framework for task management.
 - Created a feedback system framework using control theory and Lean principles.
 - Compiled a recommended reading list for systems thinking and operations.
 - Planned a technical reading project for 2026 with cadence-based check-ins.

@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to design and implement [[AI]]-driven workflows for managing and analyzing code repositories, with a focus on [[automation]] and [[task management]].
+The session aimed to design and implement [[AI]]-driven workflows for managing and analyzing code repositories, with a focus on [[automation]] and task management.
 
 ### Key Activities
 - Designed team process simulations for recycle plans and project roadmaps, focusing on roles, phases, and feedback loops.

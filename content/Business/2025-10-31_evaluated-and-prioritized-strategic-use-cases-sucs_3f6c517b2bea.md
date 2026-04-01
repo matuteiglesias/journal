@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to evaluate and prioritize Strategic Use Cases (SUCs) for [[automation]] and [[project management]], focusing on refining [[task management]] and decision-making processes.
+The session aimed to evaluate and prioritize Strategic Use Cases (SUCs) for [[automation]] and [[project management]], focusing on refining task management and decision-making processes.
 
 ### Key Activities
 - Parsed and triaged SUC rows to extract actionable insights for [[project management]].

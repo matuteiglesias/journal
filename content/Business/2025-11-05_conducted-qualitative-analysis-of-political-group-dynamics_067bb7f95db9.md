@@ -28,7 +28,7 @@ The session aimed to conduct a comprehensive qualitative analysis of political g
 - Analyzed group political dynamics and operational practices through chat reflections.
 - Conducted [[CSV]] file sample extraction using [[Pandas]] for [[data processing]].
 - Performed qualitative analysis of political group chat, focusing on operational dynamics, roles, narratives, and tensions.
-- Developed a qualitative reading protocol for message analysis to enhance communication and [[task management]].
+- Developed a qualitative reading protocol for message analysis to enhance communication and task management.
 - Analyzed post-electoral political and psychological dynamics to identify strategic interventions.
 
 ### Achievements

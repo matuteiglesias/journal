@@ -33,7 +33,7 @@ The session aimed to refine annotation and routing schemas to improve [[automati
 - Explored OpenAI GPT-4o [[API]] limits, focusing on token and context window management.
 - Addressed YAML flow corrections in Prompt Flow to ensure proper output structure.
 - Conducted a sanity check on [[JSON]] output structure to verify schema compliance.
-- Investigated solutions for escaping math and Graphviz in MDX for Docusaurus.
+- Investigated solutions for escaping math and Graphviz in MDX for [[Docusaurus]].
 
 ### Achievements
 - Improved annotation and routing schemas for better [[automation]] and [[data management]].

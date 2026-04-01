@@ -25,7 +25,7 @@ generated: true
 The session aimed to compile and organize various resources related to [[project management]] and [[automation]], focusing on templates, onboarding, and operator management.
 
 **Key Activities:**
-- Reviewed TODO items and project templates for [[task management]].
+- Reviewed TODO items and project templates for task management.
 - Identified tasks and patterns for [[automation]], including modes and stop rules.
 - Collected resource links essential for onboarding and operational procedures.
 - Analyzed response lengths in [[AI]] sessions for data tracking.

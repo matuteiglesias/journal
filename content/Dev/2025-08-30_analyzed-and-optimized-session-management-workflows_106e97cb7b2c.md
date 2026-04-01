@@ -32,7 +32,7 @@ The primary goal of this session was to analyze and optimize session management 
 - Utilized regex for command extraction and pattern matching in [[Python]].
 - Employed dictionary comprehensions to extract top targets from various tools.
 - Conducted session analysis and closure moves for terminal history, aiming to solidify learning and streamline workflows.
-- Prepared weekly closure artifacts for [[automation]] projects, focusing on Docusaurus [[deployment]] and CLI enhancements.
+- Prepared weekly closure artifacts for [[automation]] projects, focusing on [[Docusaurus]] [[deployment]] and CLI enhancements.
 
 ### Achievements
 - Successfully optimized session management workflows by integrating [[Python]] scripting with [[data processing]] techniques.

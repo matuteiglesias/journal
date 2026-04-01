@@ -32,7 +32,7 @@ The primary goal of this session was to develop and enhance features for a Teleg
 - **[[API]] [[Integration]] Fixes**: Adjusted code for SQLite and [[CSV]] store [[API]] [[integration]], providing corrected examples.
 - **[[Python]] Script Updates**: Updated Telegram bot scripts for compatibility with [[python]]-telegram-bot v21.x, including JobQueue usage.
 - **[[Error Handling]]**: Addressed function call mismatches and event loop issues in [[Python]], offering refactored code solutions.
-- **[[Task Management]] [[Automation]]**: Transitioned from a heartbeat system to a rules-driven planner for scheduled pings, enhancing daily pings [[automation]].
+- **Task Management [[Automation]]**: Transitioned from a heartbeat system to a rules-driven planner for scheduled pings, enhancing daily pings [[automation]].
 
 ### Achievements
 - Successfully implemented a minimal Telegram bot with essential features.

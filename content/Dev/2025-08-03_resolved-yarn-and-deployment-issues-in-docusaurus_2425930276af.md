@@ -22,12 +22,12 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to address and resolve multiple technical issues related to software development, specifically focusing on [[deployment]] and build processes using Docusaurus and Yarn.
+The session aimed to address and resolve multiple technical issues related to software development, specifically focusing on [[deployment]] and build processes using [[Docusaurus]] and Yarn.
 
 ### Key Activities
 - Updated the 'My Deployments' page to highlight significant projects like the PhD thesis online and the M.I. Journal.
-- Resolved a Yarn build directory error in a Docusaurus project by diagnosing the issue and providing a step-by-step resolution.
-- Diagnosed a Yarn build failure in Docusaurus, focusing on custom scripts and environment checks.
+- Resolved a Yarn build directory error in a [[Docusaurus]] project by diagnosing the issue and providing a step-by-step resolution.
+- Diagnosed a Yarn build failure in [[Docusaurus]], focusing on custom scripts and environment checks.
 - Fixed a `lint-staged` error encountered during a [[Git]] commit by diagnosing the absence of the binary and offering multiple resolution options.
 - Addressed Yarn CLI issues on Debian by uninstalling the Debian package and installing the official version to ensure proper command functionality.
 - Resolved Yarn path issues with Corepack by ensuring the shell uses the correct Corepack-managed Yarn version.
@@ -38,7 +38,7 @@ The session aimed to address and resolve multiple technical issues related to so
 
 ### Pending Tasks
 - Further testing of the [[deployment]] settings on Vercel to ensure compatibility with all project requirements.
-- Continuous monitoring of Yarn and Docusaurus [[integration]] to preemptively catch similar issues in the future.
+- Continuous monitoring of Yarn and [[Docusaurus]] [[integration]] to preemptively catch similar issues in the future.
 
 ## Evidence
 

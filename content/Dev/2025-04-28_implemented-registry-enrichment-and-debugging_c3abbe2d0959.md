@@ -27,7 +27,7 @@ The session aimed to implement and refine the registry enrichment process using 
 ### Key Activities
 - Developed a master crawler in [[Python]] to scan and collect data from directories, generating a `registry_manifest.[[json]]`.
 - Proposed and designed an enrichment layer for the registry to enhance data structure and usability.
-- Implemented a clean architecture for [[automation]] systems, focusing on the roles of Enricher Agent and Docusaurus Generator Agent.
+- Implemented a clean architecture for [[automation]] systems, focusing on the roles of Enricher Agent and [[Docusaurus]] Generator Agent.
 - Created a Jinja2 template for enriching metadata of software artifacts in the Terra [[AI]] Operating System.
 - Corrected and enhanced [[Python]] scripts for registry enrichment, addressing import and file handling errors.
 - Debugged server response issues in FastAPI, focusing on kernel tool registration and LLM orchestration.

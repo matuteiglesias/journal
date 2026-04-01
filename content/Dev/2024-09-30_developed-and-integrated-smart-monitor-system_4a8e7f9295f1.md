@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to develop, deliver, and integrate a Smart Monitor System using a pub/sub architecture to enhance [[productivity]] and [[task management]].
+The session aimed to develop, deliver, and integrate a Smart Monitor System using a pub/sub architecture to enhance [[productivity]] and task management.
 
 ### Key Activities
 - **Refinement of Pub/Sub Architecture**: Matías refined the pub/sub architecture to improve [[productivity]] by identifying specific publishers and subscribers.

@@ -35,7 +35,7 @@ The session aimed to explore strategies for managing initial steps in new framew
 
 ### Achievements
 - Developed actionable strategies for [[productivity]] and goal setting.
-- Established a clear plan for daily and weekly [[task management]].
+- Established a clear plan for daily and weekly task management.
 - Provided insights into group dynamics and communication strategies.
 
 ### Pending Tasks

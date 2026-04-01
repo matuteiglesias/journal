@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The primary goal of this session was to integrate the Assistants [[API]] with n8n to create a 'Staff Manager Check-In' [[workflow]], ensuring seamless communication and [[task management]].
+The primary goal of this session was to integrate the Assistants [[API]] with n8n to create a 'Staff Manager Check-In' [[workflow]], ensuring seamless communication and task management.
 
 ### Key Activities
 - Developed a step-by-step [[integration]] plan for the Assistants [[API]] with n8n, focusing on creating a 'Staff Manager Check-In' [[workflow]].

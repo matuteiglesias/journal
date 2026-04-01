@@ -32,7 +32,7 @@ The session aimed to establish a structured project plan for enhancing online pr
 - Created a strategic learning and research project overview to enhance intellectual positioning through competitor analysis and [[SEO]] strategies.
 - Reviewed and optimized a project board for targeted technical readings, competitor mapping, and [[SEO]] mapping.
 - Outlined a client and market structuring project, focusing on service design and outreach infrastructure.
-- Reflected on service design and outreach [[strategy]], suggesting improvements for client mapping and [[task management]].
+- Reflected on service design and outreach [[strategy]], suggesting improvements for client mapping and task management.
 
 ### Achievements
 - Completed a comprehensive project plan for online presence and relationship management.

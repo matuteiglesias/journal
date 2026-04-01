@@ -26,7 +26,7 @@ The session aimed to enhance the efficiency and effectiveness of [[data analysis
 
 **Key Activities:**
 - Provided guidance on time management strategies for task delivery.
-- Collected task details to tailor assistance and improve [[task management]].
+- Collected task details to tailor assistance and improve task management.
 - Developed a structured plan for [[data analysis]], including creating a codebook and addressing R script issues.
 - Prepared afrobarometer data and aggregated time series datasets.
 - Simplified [[CSV]] processing with a [[Python]] script for loading files and generating statistics.

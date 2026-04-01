@@ -27,7 +27,7 @@ The session aimed to design a robust database structure for a scheduling tool an
 ### Key Activities:
 - **Database Design**: Developed a DBML schema for a scheduling tool, including tables for tasks, time blocks, constraints, and user preferences.
 - **[[CSV]] Output**: Created [[CSV]] templates for the 'constraints' and 'user_preferences' tables, providing clarity on each column's purpose.
-- **[[Task Management]]**: Outlined a constraints table to optimize task scheduling and [[productivity]].
+- **Task Management**: Outlined a constraints table to optimize task scheduling and [[productivity]].
 - **[[Python]] Library Installation**: Resolved `ModuleNotFoundError` for `or-tools` by providing installation instructions and addressing compatibility issues with the `protobuf` package.
 - **Virtual Environment Setup**: Provided detailed guides for setting up a clean [[Python]] virtual environment, managing dependencies, and installing `gspread` and `or-tools` libraries.
 - **Visual Schedule Representation**: Created a visual schedule using a [[DataFrame]] to represent daily tasks and available work hours.

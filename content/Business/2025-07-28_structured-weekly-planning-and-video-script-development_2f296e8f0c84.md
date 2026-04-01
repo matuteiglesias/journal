@@ -22,14 +22,14 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to develop a structured video script and establish a comprehensive weekly planning framework to enhance [[productivity]] and [[task management]].
+The session aimed to develop a structured video script and establish a comprehensive weekly planning framework to enhance [[productivity]] and task management.
 
 ### Key Activities
 1. **Video Script Development**: A structured script for a video presentation by Matías Iglesias was outlined, focusing on a unique narrative tone and symbolic elements to create a compelling impression. The script included detailed segments with motivations and advice for delivery.
 
 2. **Weekly Planning Framework**: A structured approach to organizing a weekly schedule was developed. This involved inventorying urgent tasks, designing fundamental calendar blocks, and assigning these blocks to a calendar, emphasizing prioritization and time management.
 
-3. **[[Task Management]]**: Methods for structuring tasks based on the calendar were discussed, focusing on prioritizing low-friction, high-leverage activities.
+3. **Task Management**: Methods for structuring tasks based on the calendar were discussed, focusing on prioritizing low-friction, high-leverage activities.
 
 4. **Monday Schedule [[Optimization]]**: A detailed breakdown of the Monday schedule was created, categorizing tasks into 'Keep as-is', 'Reschedule/Adapt', and 'Critical Focus'.
 
@@ -38,7 +38,7 @@ The session aimed to develop a structured video script and establish a comprehen
 ### Achievements
 - Completed a detailed video script structure for an upcoming presentation.
 - Established a comprehensive weekly planning framework to enhance [[productivity]].
-- Developed a structured approach for [[task management]] and calendar [[optimization]].
+- Developed a structured approach for task management and calendar [[optimization]].
 - Created a detailed onboarding manual structure for pipeline orchestration.
 
 ### Pending Tasks

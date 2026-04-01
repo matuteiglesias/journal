@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The primary goal of this session was to develop a [[Python]] wrapper for the Motion [[API]] to facilitate project and [[task management]] through [[automation]].
+The primary goal of this session was to develop a [[Python]] wrapper for the Motion [[API]] to facilitate project and task management through [[automation]].
 
 ### Key Activities
 - Implemented a [[Python]] wrapper for the Motion [[API]], including class definitions and utility functions for managing tasks and projects.
@@ -33,7 +33,7 @@ The primary goal of this session was to develop a [[Python]] wrapper for the Mot
 - Fixed the `400 Bad Request` error in the `create_project` function by ensuring all required fields were included, leading to a successful implementation.
 
 ### Achievements
-- Successfully developed and tested a [[Python]] wrapper for the Motion [[API]], enhancing the [[automation]] of project and [[task management]].
+- Successfully developed and tested a [[Python]] wrapper for the Motion [[API]], enhancing the [[automation]] of project and task management.
 - Improved [[error handling]] and [[debugging]] processes for YAML [[configuration]] and [[API]] [[integration]].
 
 ### Pending Tasks

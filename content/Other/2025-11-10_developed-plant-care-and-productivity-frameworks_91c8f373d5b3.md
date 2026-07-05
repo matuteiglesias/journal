@@ -32,7 +32,7 @@ The session aimed to develop structured frameworks for plant care and [[producti
 - Implemented enforcement strategies for task completion using Google Apps Script.
 - Provided a framework for daily maintenance routines categorized by energy levels and suggested enforcement strategies.
 - Managed active SUCs with a structured approach, emphasizing task limitation and clear next actions.
-- Established a triage [[workflow]] for sprint [[task management]], including scoring and tracking metrics.
+- Established a triage [[workflow]] for sprint task management, including scoring and tracking metrics.
 - Planned weekly focus slots for strategic use cases, with metrics for monitoring progress.
 - Developed a Pomodoro evaluation framework for decision-making in [[productivity]] tasks.
 - Automated journal updates with a detailed runbook and [[workflow]].
@@ -41,7 +41,7 @@ The session aimed to develop structured frameworks for plant care and [[producti
 ### Achievements:
 - Successfully created comprehensive templates and frameworks for plant care and [[productivity]].
 - Enhanced [[productivity]] strategies with structured approaches and [[automation]].
-- Improved [[task management]] through effective triage and enforcement strategies.
+- Improved task management through effective triage and enforcement strategies.
 
 ### Pending Tasks:
 - Further testing and refinement of the automated journal update [[workflow]].

@@ -40,7 +40,7 @@ The session aimed to explore strategic insights in economics research and enhanc
 
 ### Pending Tasks
 - Implement the proposed [[SEO]] strategies and content pipelines.
-- Further explore the development of a Docusaurus-based authority hub using the gathered insights.
+- Further explore the development of a [[Docusaurus]]-based authority hub using the gathered insights.
 
 ## Evidence
 

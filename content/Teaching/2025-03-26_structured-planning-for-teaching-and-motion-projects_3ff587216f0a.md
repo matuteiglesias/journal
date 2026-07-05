@@ -33,7 +33,7 @@ The session aimed to enhance project planning efficiency for teaching and recurr
 - Outlined a teaching project plan for the [[Data Science]] course delivery for Q2 2025, detailing tasks and deliverables.
 
 ### Achievements
-- Established a comprehensive framework for project categorization and [[task management]].
+- Established a comprehensive framework for project categorization and task management.
 - Developed a detailed plan for the Teaching Prep project and the [[Data Science]] course delivery.
 
 ### Pending Tasks

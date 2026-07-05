@@ -27,7 +27,7 @@ The session aimed to develop a structured daily agenda incorporating both cognit
 ### Key Activities
 - **Daily Agenda Structuring:** Developed a daily agenda using Pomodoro sessions and a Six-Block Day Model, focusing on systems mapping, communication, and flagship projects with clear exit conditions.
 - **Transition Strategies:** Reflected on transitioning from design to maintenance mode, addressing cognitive load and system fatigue with strategies for engagement and minimal maintenance.
-- **System Management:** Explored friction in system management, emphasizing frameworks for continuity and [[task management]].
+- **System Management:** Explored friction in system management, emphasizing frameworks for continuity and task management.
 - **Fitness [[Integration]]:** Planned gym practice and keystone movements into the daily routine, focusing on skill development and habit formation.
 
 ### Achievements

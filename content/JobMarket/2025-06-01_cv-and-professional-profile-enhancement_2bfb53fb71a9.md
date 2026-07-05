@@ -25,7 +25,7 @@ generated: true
 The session aimed to enhance Matías' CV and professional profile to align with current job application strategies, focusing on [[AI]], [[automation]], and strategic data leadership.
 
 ### Key Activities
-- Added a call-to-action link in Docusaurus, emphasizing semantic HTML and [[SEO]].
+- Added a call-to-action link in [[Docusaurus]], emphasizing semantic HTML and [[SEO]].
 - Updated CV to align with [[AI]] and [[automation]] roles, focusing on quantifiable achievements and relevant skills.
 - Revised 'About Me' and 'Skills' sections to reflect recent work in [[AI]] systems and [[automation]].
 - Refined professional profile structure using LaTeX for clarity and modern presentation.

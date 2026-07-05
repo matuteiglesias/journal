@@ -32,7 +32,7 @@ The session aimed to provide detailed feedback and insights on various aspects o
 
 ### Achievements
 - Clarified and enhanced explanations for graph theory concepts, particularly around acyclic graphs and cycle detection.
-- Developed a structured weekly task plan to improve [[productivity]] and [[task management]].
+- Developed a structured weekly task plan to improve [[productivity]] and task management.
 
 ### Pending Tasks
 - Further refinement of algorithm explanations and student feedback to ensure comprehensive understanding and clarity.

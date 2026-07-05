@@ -29,7 +29,7 @@ The session aimed to explore psychological strategies and innovative ideas for r
 - **Relevancia de Estrategias Psicológicas:** Discussed psychological strategies to enhance interpersonal connections and address emotional blockages.
 - **Gamifying Relationship Management:** Proposed a gamified system for managing contacts, involving game design elements like cards and missions to enhance engagement.
 - **Ideas for Action Letters:** Provided creative ideas for writing action letters with themes like greetings and gratitude.
-- **Sistema de Organización de Contactos y Cartas:** Suggested strategies for automating contact and letter organization using tools like Zapier and [[task management]] apps.
+- **Sistema de Organización de Contactos y Cartas:** Suggested strategies for automating contact and letter organization using tools like Zapier and task management apps.
 
 ### Achievements
 - Developed a comprehensive understanding of psychological strategies for personal development.

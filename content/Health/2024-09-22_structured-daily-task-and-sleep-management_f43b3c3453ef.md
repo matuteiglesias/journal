@@ -31,7 +31,7 @@ The objective of this session was to structure daily tasks into hourly blocks to
 - Discussed the implementation of alarms and a structured daily schedule to maintain discipline and optimize [[productivity]].
 
 ### Achievements
-- A comprehensive plan for daily [[task management]] was outlined, focusing on time management and [[productivity]].
+- A comprehensive plan for daily task management was outlined, focusing on time management and [[productivity]].
 - Practical strategies for improving discipline and combating procrastination were identified.
 - Guidelines for the optimal use of melatonin and sleep aids were reviewed.
 

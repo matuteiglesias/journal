@@ -32,7 +32,7 @@ The session aimed to strategize the [[documentation]] impact for an [[AI]] platf
 
 ### Achievements
 - Established a clear [[strategy]] for impactful [[AI]] platform [[documentation]].
-- Enhanced [[task management]] and scheduling for course management.
+- Enhanced task management and scheduling for course management.
 - Developed a focused plan for [[networking]] research.
 
 ### Pending Tasks

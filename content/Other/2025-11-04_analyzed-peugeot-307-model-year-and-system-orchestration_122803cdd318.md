@@ -27,7 +27,7 @@ The session aimed to analyze the Peugeot 307's model year and explore technical 
 ### Key Activities
 - **Peugeot 307 Analysis**: Identified features and design elements to determine the specific generation and year of the Peugeot 307.
 - **Technical Orchestration**: Developed a structured plan for auditing and improving Cron and systemd orchestration, including mapping pipelines and identifying potential [[refactoring]].
-- **Support and Collaboration**: Offered assistance and support for problem-solving and [[task management]].
+- **Support and Collaboration**: Offered assistance and support for problem-solving and task management.
 
 ### Achievements
 - Clarified the identification process for Peugeot 307 model years.

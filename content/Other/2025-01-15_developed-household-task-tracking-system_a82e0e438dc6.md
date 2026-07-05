@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to develop a structured system for tracking weekly and daily household tasks to enhance organization and [[task management]] at home.
+The session aimed to develop a structured system for tracking weekly and daily household tasks to enhance organization and task management at home.
 
 ### Key Activities
 - Created a structured document for tracking household tasks, including sections for general cleaning, kitchen duties, and outdoor maintenance.

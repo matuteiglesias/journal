@@ -22,18 +22,18 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to address issues related to OCR [[configuration]] in Spanish, enhance text extraction processes, and explore [[file management]] using Bash scripting.
+The session aimed to address issues related to OCR configuration in Spanish, enhance text extraction processes, and explore [[file management]] using Bash scripting.
 
 ### Key Activities
 - **Web Security Insight**: Reviewed methods to identify fraudulent websites by checking domain authenticity, design analysis, and security certificates.
-- **OCR [[Configuration]]**: Identified problems with the OCR setup for Spanish language data packages and explored alternative configurations.
+- **OCR Configuration**: Identified problems with the OCR setup for Spanish language data packages and explored alternative configurations.
 - **Text Extraction and Preprocessing**: Discussed preprocessing techniques to improve image quality for better OCR results.
 - **Bash Scripting**: Demonstrated the use of `find` and `stat` commands to list files with modification dates, including depth-limiting options.
 - **[[Data Processing]]**: Processed data to identify submission dates, filtering out system-generated timestamps.
 
 ### Achievements
 - Gained insights into enhancing web security through domain verification and design analysis.
-- Clarified the OCR [[configuration]] issue and proposed preprocessing solutions to improve text extraction.
+- Clarified the OCR configuration issue and proposed preprocessing solutions to improve text extraction.
 - Successfully utilized Bash commands for [[file management]] and [[data processing]] tasks.
 
 ### Pending Tasks

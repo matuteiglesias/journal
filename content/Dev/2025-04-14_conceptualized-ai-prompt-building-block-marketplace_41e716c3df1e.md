@@ -37,7 +37,7 @@ The session aimed to explore innovative ideas and frameworks for enhancing [[AI]
 - Created a comprehensive guide outline for modular prompt flow design.
 - Identified key UX principles for next-gen [[AI]] interaction.
 - Recognized the importance of aligning with established prompt data models.
-- Gained insights into React's component-based architecture for [[AI]] workflows.
+- Gained insights into React's component-based [[architecture]] for [[AI]] workflows.
 
 ### Pending Tasks
 - Further research on potential interfaces for [[AI]] interaction.

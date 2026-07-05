@@ -26,7 +26,7 @@ The session aimed to explore and implement integrations between AIOS, LlamaIndex
 
 ### Key Activities
 - Discussed the abstraction of LlamaIndex workflows into YAML configurations for a declarative approach.
-- Explored CrewAI's `LiteAgent` execution model and its YAML-based architecture.
+- Explored CrewAI's `LiteAgent` execution model and its YAML-based [[architecture]].
 - Designed a `kickoff()`-style agent runtime using YAML for modular and extensible agent systems.
 - Outlined strategic integrations of AIOS within the PF+AIOS+LlamaIndex stack for system-level orchestration and agent management.
 - Provided a comprehensive setup guide for a local [[AI]] habitat using AIOS, focusing on scalability and modularity.

@@ -30,11 +30,11 @@ The session aimed to conduct a comprehensive analysis of the AIOS codebase, focu
 - Performed a code review focusing on correctness, design cohesion, and strategic extensibility.
 - Analyzed the AIOS Kernel's modular request routing and processing system, highlighting queue management and multithreaded scheduling.
 - Outlined enhancements to the AIOS Kernel framework, focusing on tool management, agent execution, and input validation.
-- Proposed a multilayered memory and storage subsystem architecture within the AIOS framework.
+- Proposed a multilayered memory and storage subsystem [[architecture]] within the AIOS framework.
 
 ### Achievements
 - Clarified architectural decisions and identified potential improvements in the AIOS system.
-- Highlighted key patterns and responsibilities in the AIOS Kernel's architecture.
+- Highlighted key patterns and responsibilities in the AIOS Kernel's [[architecture]].
 
 ### Pending Tasks
 - Further exploration of the multilayered memory and storage subsystem's evolution.

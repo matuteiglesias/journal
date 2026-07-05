@@ -35,10 +35,10 @@ The session aimed to successfully install and run Age of Empires on an Ubuntu 22
 
 **Achievements:**
 - Successfully installed Age of Empires and its tools on Ubuntu 22.
-- Resolved multiple installation and [[configuration]] issues, ensuring the game runs smoothly.
+- Resolved multiple installation and configuration issues, ensuring the game runs smoothly.
 
 **Pending Tasks:**
-- Further testing of game performance and [[configuration]] adjustments may be needed to optimize gameplay.
+- Further testing of game performance and configuration adjustments may be needed to optimize gameplay.
 
 ## Evidence
 

@@ -28,7 +28,7 @@ The session aimed to resolve OpenAI [[API]] key recognition issues and enhance t
 - Troubleshot OpenAI [[API]] key recognition issues by setting the key explicitly, configuring environment variables, and verifying installations.
 - Developed a structured [[workflow]] for thesis management using recursive clustering and summarization techniques.
 - Adapted data ingestion processes for thesis content management, including content structuring, preprocessing, and embedding.
-- Updated [[Python]] code for directory-based document processing, focusing on token counting and [[visualization]].
+- Updated [[Python]] code for directory-based document processing, focusing on token counting and visualization.
 - Explored blog series ideas based on thesis content, focusing on economic aggregation and network theory.
 - Managed token limits for [[AI]] models and optimized prompt templates in LangChain.
 

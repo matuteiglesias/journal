@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to resolve [[JSON]] formatting issues and improve [[API]] [[integration]] processes, focusing on [[Pandas]] [[DataFrame]] outputs and Langflow [[API]] interactions.
+The session aimed to resolve [[JSON]] formatting issues and improve [[API]] [[integration]] processes, focusing on [[Pandas]] DataFrame outputs and Langflow [[API]] interactions.
 
 ### Key Activities
 - **[[JSON]] Formatting in [[Pandas]]**: Addressed common issues with `to_json(orient="records")` to ensure correct [[JSON]] payloads from [[Pandas]] DataFrames.

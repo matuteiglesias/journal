@@ -33,7 +33,7 @@ The session focused on [[troubleshooting]] various boot issues in Linux systems,
 - **GRUB Recovery and fsck**: Instructions for [[troubleshooting]] GRUB recovery menu issues and running `fsck` via Live USB.
 - **Live USB for Filesystem Repair**: Steps for using a Live USB to execute `fsck` on Ubuntu.
 - **Post-fsck [[Troubleshooting]]**: Outlined steps for addressing issues after running `fsck`, including disk space checks and log inspections.
-- **GRUB Boot Issues**: Guide for [[troubleshooting]] GRUB boot issues and [[configuration]] regeneration.
+- **GRUB Boot Issues**: Guide for [[troubleshooting]] GRUB boot issues and configuration regeneration.
 - **Boot Issues After Kernel Removal**: Checklist for addressing boot issues following kernel removal in Linux.
 
 ### Achievements

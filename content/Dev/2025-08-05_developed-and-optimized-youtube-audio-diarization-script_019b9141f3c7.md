@@ -27,7 +27,7 @@ The primary objective of this session was to develop and optimize a [[Python]] s
 **Key Activities:**
 - Developed a [[Python]] script to download audio from YouTube, convert it to WAV format, and perform speaker diarization using the pyannote.audio library.
 - Refined the script to handle YouTube URLs effectively and resolve parameter errors.
-- Automated the diarization process by creating a two-part [[workflow]]: generating a text file of YouTube URLs from a [[DataFrame]] and executing the diarization script with correct arguments.
+- Automated the diarization process by creating a two-part [[workflow]]: generating a text file of YouTube URLs from a DataFrame and executing the diarization script with correct arguments.
 - Addressed `SystemExit: 2` errors in Jupyter Notebook by providing solutions for executing the script from the command line or adapting argument parsing.
 - Provided methods for correctly reading [[JSON]] Lines files in [[Pandas]] to avoid data handling errors.
 

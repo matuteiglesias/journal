@@ -26,9 +26,9 @@ The session aimed to refine strategic plans for content management and [[AI]] ag
 
 ### Key Activities
 - Developed a strategic framework for organizing and deploying a corpus of ideas, emphasizing clustering narratives and normalizing data.
-- Applied a [[Pandas]] `.loc` filter to select [[DataFrame]] rows based on specific criteria.
+- Applied a [[Pandas]] `.loc` filter to select DataFrame rows based on specific criteria.
 - Structured the development infrastructure for [[AI]] agents, categorizing documents and templates for workflows and testing.
-- Created [[DataFrame]] filters for categorizing Public-Facing Thought Leadership and Institutional Memos.
+- Created DataFrame filters for categorizing Public-Facing Thought Leadership and Institutional Memos.
 - Organized insights into clusters for strategic publishing, identifying potential output streams.
 
 ### Achievements

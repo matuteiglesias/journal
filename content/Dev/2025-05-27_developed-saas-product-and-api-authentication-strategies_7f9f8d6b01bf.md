@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The primary objective of this session was to advance the development of RAGFlow into a marketable SaaS product by refining its technical architecture and implementing robust [[API]] authentication strategies.
+The primary objective of this session was to advance the development of RAGFlow into a marketable SaaS product by refining its technical [[architecture]] and implementing robust [[API]] authentication strategies.
 
 ### Key Activities
 - Conducted a technical analysis of RAGFlow's frontend stack, focusing on React and hooks, to ensure scalability and compliance with legal and ethical standards.

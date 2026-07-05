@@ -26,8 +26,8 @@ The session aimed to integrate and normalize data for editorial content creation
 
 ### Key Activities
 - Created a combined data table for editorial texts, integrating seed ideas with related articles.
-- Developed a [[Python]] script to merge JSONL files into a [[DataFrame]], filtering for specific idea IDs.
-- Addressed inconsistencies in JSONL data formats, proposing a unified [[DataFrame]].
+- Developed a [[Python]] script to merge JSONL files into a DataFrame, filtering for specific idea IDs.
+- Addressed inconsistencies in JSONL data formats, proposing a unified DataFrame.
 - Suggested normalization of `id_digest` in [[data processing]] scripts to resolve ambiguities.
 - Refactored a [[Python]] script for [[data processing]], enhancing file handling and `id_digest` coherence.
 - Summarized datasets and proposed next steps for content generation.

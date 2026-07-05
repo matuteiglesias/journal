@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to address and resolve issues related to ChromaDB client [[configuration]] and migration, particularly focusing on persistence problems and [[API]] mismatches after updating to version 1.0.8.
+The session aimed to address and resolve issues related to ChromaDB client configuration and migration, particularly focusing on persistence problems and [[API]] mismatches after updating to version 1.0.8.
 
 ### Key Activities
 - Updated the `reset_and_ingest.sh` script to enhance logging and diagnostics.
@@ -34,7 +34,7 @@ The session aimed to address and resolve issues related to ChromaDB client [[con
 - Offered two resolution paths: downgrading to an older version or updating helper functions to align with the new [[API]].
 
 ### Achievements
-- Clarified the [[configuration]] and migration issues related to ChromaDB version 1.0.8.
+- Clarified the configuration and migration issues related to ChromaDB version 1.0.8.
 - Developed immediate solutions for [[integration]] issues, including code patches and diagnostic checks.
 
 ### Pending Tasks

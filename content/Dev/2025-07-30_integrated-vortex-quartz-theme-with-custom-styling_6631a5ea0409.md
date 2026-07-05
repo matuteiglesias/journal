@@ -32,14 +32,14 @@ The aim of this session was to implement and integrate the Vortex Quartz theme i
 - Overrode the rainbow text effect from `<strong>` tags in the Vortex theme by modifying `custom.scss`.
 - Resolved z-index conflicts in UI components, specifically between wiki link hover popovers and the search UI in Obsidian.
 - Adjusted node density parameters in force-directed graph layouts to improve visual clarity.
-- Analyzed hub-and-spoke architecture in knowledge graphs, focusing on enhancing knowledge diffusion.
+- Analyzed hub-and-spoke [[architecture]] in knowledge graphs, focusing on enhancing knowledge diffusion.
 
 **Achievements:**
 - Successfully integrated and customized the Vortex Quartz theme.
-- Resolved UI component conflicts and improved graph [[visualization]].
+- Resolved UI component conflicts and improved graph visualization.
 
 **Pending Tasks:**
-- Further explore and implement strategies for enhancing knowledge diffusion in knowledge graphs using hub-and-spoke architecture.
+- Further explore and implement strategies for enhancing knowledge diffusion in knowledge graphs using hub-and-spoke [[architecture]].
 
 ## Evidence
 

@@ -32,7 +32,7 @@ The session aimed to compile and reflect on various career and technical role in
 - Detailed methodologies for imputing socioeconomic data using [[machine learning]].
 - Shared keyboard shortcuts for window management in Ubuntu GNOME.
 - Provided a job market analysis framework using [[Python]]'s [[pandas]] library.
-- Explored a network [[visualization]] of job roles and an overview of [[data science]] and [[machine learning]] roles.
+- Explored a network visualization of job roles and an overview of [[data science]] and [[machine learning]] roles.
 - Discussed skills required for backend and lead [[integration]] developer roles.
 - Outlined learning journeys for Rust programming and SAP HANA.
 - Clarified job descriptions and career transition strategies for data engineering.

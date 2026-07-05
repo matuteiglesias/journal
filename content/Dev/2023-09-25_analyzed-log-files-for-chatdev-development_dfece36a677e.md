@@ -26,7 +26,7 @@ The primary objective of this session was to analyze log files related to the Ch
 
 ### Key Activities
 - **Log File Analysis**: Conducted an analysis of uploaded log files to summarize the software development process.
-- **Initial Observations**: Noted preprocessing initiation, operational timestamps, and [[configuration]] paths related to ChatDev.
+- **Initial Observations**: Noted preprocessing initiation, operational timestamps, and configuration paths related to ChatDev.
 - **Process Overview**: Provided a high-level overview of the software development process, including key phases such as preprocessing, chat sessions, code operations, and testing.
 
 ### Achievements

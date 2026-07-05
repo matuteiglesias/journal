@@ -37,8 +37,8 @@ The session aimed to enhance [[automation]] and [[data processing]] workflows by
 - Enhanced PDF text extraction capabilities with improved scripts.
 
 ### Pending Tasks:
-- Further [[optimization]] of Makefile targets and cron job configurations for BD [[CSV]] generation.
-- Continued refinement of the inbox parser for the accounting project, focusing on mutation instructions and downstream processes.
+- Further [[optimization]] of [[Makefile]] targets and cron job configurations for BD [[CSV]] generation.
+- Continued refinement of the inbox parser for the [[accounting]] project, focusing on mutation instructions and downstream processes.
 
 ## Evidence
 

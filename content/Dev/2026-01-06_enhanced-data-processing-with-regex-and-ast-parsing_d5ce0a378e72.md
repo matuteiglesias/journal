@@ -26,7 +26,7 @@ The primary aim of this session was to enhance [[data processing]] capabilities 
 
 ### Key Activities
 - **Regex Search for Debug Logging**: Implemented regular expressions to identify specific debug logging patterns in text strings, capturing start and end positions.
-- **Materializing Parties Index and Events**: Developed a process to materialize a parties index and expanded party events from a ledger [[DataFrame]], incorporating [[error handling]] and logging.
+- **Materializing Parties Index and Events**: Developed a process to materialize a parties index and expanded party events from a ledger DataFrame, incorporating [[error handling]] and logging.
 - **Extracting Daily Cash Position from [[CSV]]**: Utilized regex to extract patterns related to daily cash positions in [[CSV]] files.
 - **Artifact Handling in [[Data Processing]]**: Managed [[CSV]] file artifacts, appending them to an output list for further processing if they exist.
 - **[[Python]] AST Parsing**: Demonstrated the use of [[Python]]'s AST module to parse strings for syntax errors, ensuring robust [[error handling]].

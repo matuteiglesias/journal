@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The goal of this session was to explore and practice [[data [[visualization]]]] techniques using the [[Matplotlib]] library in [[Python]].
+The goal of this session was to explore and practice [[data visualization]] techniques using the [[Matplotlib]] library in [[Python]].
 
 ### Key Activities
 - Created basic time series plots using mathematical functions such as sine, cosine, and exponential.
@@ -30,14 +30,14 @@ The goal of this session was to explore and practice [[data [[visualization]]]] 
 - Explored the creation of scatter plots and the customization of these visualizations.
 - Revised and corrected exercises involving bar charts, ensuring proper formatting and labeling.
 - Conducted a series of exercises to create various types of data visualizations, including line graphs, scatter plots, stacked bar charts, pie charts, and histograms.
-- Introduced additional libraries such as Seaborn and Plotly for enhanced [[data [[visualization]]]] techniques.
+- Introduced additional libraries such as Seaborn and Plotly for enhanced [[data visualization]] techniques.
 
 ### Achievements
 - Successfully created and customized various types of data visualizations using [[Matplotlib]].
-- Gained a deeper understanding of how to use [[Python]] libraries for effective [[data [[visualization]]]].
+- Gained a deeper understanding of how to use [[Python]] libraries for effective [[data visualization]].
 
 ### Pending Tasks
-- Further exploration and practice with Seaborn and Plotly for advanced [[visualization]] techniques.
+- Further exploration and practice with Seaborn and Plotly for advanced visualization techniques.
 
 ## Evidence
 

@@ -22,11 +22,11 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to enhance the Stablo project by integrating it with automated publishing pipelines and refining its [[API]] architecture.
+The session aimed to enhance the Stablo project by integrating it with automated publishing pipelines and refining its [[API]] [[architecture]].
 
 ### Key Activities
 - **Web3 Templates Exploration**: Conducted search queries on Web3 templates, focusing on Stablo and Next.js blog templates, including [[deployment]] instructions.
-- **Stablo [[Integration]]**: Developed a guide for integrating Stablo with automated publishing using Sanity or FastAPI, detailing [[deployment]] and [[configuration]] steps.
+- **Stablo [[Integration]]**: Developed a guide for integrating Stablo with automated publishing using Sanity or FastAPI, detailing [[deployment]] and configuration steps.
 - **[[Web Scraping]] Ethics**: Explored the implications of robots.txt for [[web scraping]], discussing ethical considerations and compliant methods.
 - **Revamp Sprint Planning**: Created a comprehensive plan for revamping Stablo, including removing Sanity, implementing a FastAPI read [[API]], and using Pydantic for data validation.
 - **Next.js Group Routes**: Reflected on the use of group routes in Next.js App Router for better organization without affecting URL structure.

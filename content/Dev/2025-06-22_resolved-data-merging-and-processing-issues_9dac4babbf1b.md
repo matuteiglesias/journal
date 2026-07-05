@@ -26,7 +26,7 @@ The session aimed to diagnose and resolve issues related to data merging and pro
 
 ### Key Activities:
 - Diagnosed merging issues in [[data processing]], identifying root causes and recommending fixes for incorrect merging of editorial ideas with articles from different topics.
-- Implemented [[Python]] code for merging JSONL and [[CSV]] files into a clean [[DataFrame]], ensuring topic-level consistency.
+- Implemented [[Python]] code for merging JSONL and [[CSV]] files into a clean DataFrame, ensuring topic-level consistency.
 - Corrected code to reconstruct the 'digest_file' column and normalize data using [[Python]] and [[Pandas]].
 - Proposed a [[strategy]] to reorganize the article pipeline to enhance traceability and uniqueness of identifiers, including creating new tables and implementation code.
 - Resolved a common import error with the `glob` module in [[Python]], providing solutions based on different import styles.

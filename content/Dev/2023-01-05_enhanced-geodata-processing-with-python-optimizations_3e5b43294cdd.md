@@ -30,11 +30,11 @@ The goal of this session was to explore and implement various [[Python]] techniq
 - Explored code [[optimization]] techniques for raster file processing, including list comprehensions and `pd.concat`.
 - Provided an overview of the `zonal_stats` function for raster analysis.
 - Demonstrated reprojection of geographic data to the Mollweide projection and population density mapping.
-- Discussed code efficiency improvements for [[DataFrame]] operations in [[Python]], including the use of list comprehensions and `ignore_index` in `pd.concat`.
+- Discussed code efficiency improvements for DataFrame operations in [[Python]], including the use of list comprehensions and `ignore_index` in `pd.concat`.
 
 ### Achievements
 - Successfully implemented [[error handling]] for GeoJSON data saving.
-- Optimized raster file processing and [[DataFrame]] operations, improving code efficiency.
+- Optimized raster file processing and DataFrame operations, improving code efficiency.
 - Clarified the use of the `zonal_stats` function for geospatial analysis.
 
 ### Pending Tasks

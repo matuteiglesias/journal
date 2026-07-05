@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to explore and implement techniques for image processing and [[visualization]] using [[Python]] libraries such as PIL and [[Matplotlib]].
+The session aimed to explore and implement techniques for image processing and visualization using [[Python]] libraries such as PIL and [[Matplotlib]].
 
 ### Key Activities
 - **Image Size Retrieval**: Utilized the [[Python]] Imaging Library (PIL) to open image files and retrieve their dimensions, which is crucial for image analysis and processing.

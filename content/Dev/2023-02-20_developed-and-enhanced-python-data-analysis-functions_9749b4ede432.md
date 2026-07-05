@@ -29,8 +29,8 @@ The primary goal of this session was to address a matrix multiplication error in
 - **KNN Matching Function:** Developed a [[Python]] function to perform K-Nearest Neighbors (KNN) matching on treatment data, utilizing linear assignment for creating matched pairs across multiple data files.
 - **Regression Analysis:** Implemented a function to perform regression analysis on matched pairs for estimating the average treatment effect, leveraging the statsmodels library for regression modeling.
 - **Data Simulation:** Created code snippets for generating simulated datasets with covariates, outcome variables, and treatment effects using logistic and linear regression models.
-- **Data Generation Function:** Developed a [[Python]] function to generate a [[DataFrame]] with simulated data, including treatment effects, using [[pandas]] and numpy.
-- **Modified KNN Function:** Enhanced the KNN matching function to process a single [[DataFrame]], detailing how to call the function and save matched pairs to a [[CSV]] file.
+- **Data Generation Function:** Developed a [[Python]] function to generate a DataFrame with simulated data, including treatment effects, using [[pandas]] and numpy.
+- **Modified KNN Function:** Enhanced the KNN matching function to process a single DataFrame, detailing how to call the function and save matched pairs to a [[CSV]] file.
 
 ### Achievements
 - Successfully addressed the matrix multiplication error by reflecting on data shape compatibility.

@@ -22,12 +22,12 @@ generated: true
 ## Description
 
 **Session Goal:**
-The session aimed to resolve ABI mismatches in [[Python]] environments and optimize Dask [[DataFrame]] operations for improved performance.
+The session aimed to resolve ABI mismatches in [[Python]] environments and optimize Dask DataFrame operations for improved performance.
 
 **Key Activities:**
 - Resolved ABI mismatches by aligning version matrices for NumPy, [[pandas]], and SciPy, using both Conda and venv for environment management.
 - Implemented a run banner in CLI scripts to enhance log readability and traceability.
-- Optimized Dask [[DataFrame]] operations by replacing slow `isin` calls with merge-based semi-joins and introduced progress bars for long-running tasks.
+- Optimized Dask DataFrame operations by replacing slow `isin` calls with merge-based semi-joins and introduced progress bars for long-running tasks.
 - Explored data publishing models for the Argentina Census 2010, recommending a hybrid [[strategy]] for effective data dissemination.
 - Developed a minimum viable publishing plan for GCP, including dataset preparation, uploading, and serving via a custom domain.
 - Managed [[Git]] repository with improved `.gitignore`, staged commits, and [[documentation]] enhancements.

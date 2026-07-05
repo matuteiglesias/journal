@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal:
-The session aimed to refine [[data [[visualization]]]] techniques to better represent power law properties in economic data, focusing on plotting functions and statistical analysis.
+The session aimed to refine [[data visualization]] techniques to better represent power law properties in economic data, focusing on plotting functions and statistical analysis.
 
 ### Key Activities:
 - Adjusted plotting functions to highlight power law properties, including handling zeros and applying logarithmic transformations.
@@ -36,7 +36,7 @@ The session aimed to refine [[data [[visualization]]]] techniques to better repr
 - Suggested code improvements for clipped lognormal distribution sampling and size distribution generation.
 
 ### Achievements:
-- Successfully enhanced [[visualization]] techniques for economic [[data analysis]], emphasizing power law characteristics.
+- Successfully enhanced visualization techniques for economic [[data analysis]], emphasizing power law characteristics.
 - Improved [[Python]] code for statistical modeling, resulting in clearer, more efficient visualizations.
 
 ### Pending Tasks:

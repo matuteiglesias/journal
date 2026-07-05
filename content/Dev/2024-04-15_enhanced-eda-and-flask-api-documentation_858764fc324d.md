@@ -26,7 +26,7 @@ The session aimed to enhance the Exploratory [[Data Analysis]] (EDA) notebook fo
 
 ### Key Activities:
 - **EDA Enhancements**: Improved visualizations in the EDA notebook for the diamonds dataset, including clearer plot titles and additional analyses using [[Python]] libraries such as [[pandas]], seaborn, and [[matplotlib]].
-- **[[Data [[Visualization]]]]**: Created subplots with scatter plots in [[Matplotlib]] to enhance data representation.
+- **[[Data Visualization]]**: Created subplots with scatter plots in [[Matplotlib]] to enhance data representation.
 - **Data Preprocessing**: Adjusted data preprocessing functions to filter out erroneous data, improving model accuracy.
 - **Function Streamlining**: Refined the `preprocess_data` function to optimize data handling and preprocessor initialization.
 - **[[API]] [[Documentation]]**: Documented a [[Flask]] [[API]] using Swagger, including setup, creating OpenAPI [[documentation]], and integrating Swagger UI.

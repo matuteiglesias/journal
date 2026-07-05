@@ -37,7 +37,7 @@ The goal of this session was to enhance the [[deployment]] and [[debugging]] pro
 - Optimized [[debugging]] workflows for Streamlit applications.
 
 ### Pending Tasks
-- Further refine the [[API]] key management system in the [[configuration]] tab.
+- Further refine the [[API]] key management system in the configuration tab.
 - Continue enhancing the Streamlit entry point execution process to prevent future errors.
 
 ## Evidence

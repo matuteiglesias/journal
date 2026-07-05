@@ -36,7 +36,7 @@ The session aimed to explore image processing techniques in [[Python]] and devel
 - Formulated a comprehensive economic model for an art business, providing insights into cost management and operational efficiency.
 
 ### Pending Tasks
-- Further exploration of advanced image processing techniques and [[integration]] with other [[data [[visualization]]]] tools.
+- Further exploration of advanced image processing techniques and [[integration]] with other [[data visualization]] tools.
 - Detailed analysis and refinement of the economic model to include additional variables and market conditions.
 
 ## Evidence

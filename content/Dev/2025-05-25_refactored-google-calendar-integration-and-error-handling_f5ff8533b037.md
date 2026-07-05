@@ -32,7 +32,7 @@ The goal of this session was to enhance the [[integration]] of structured sessio
 - Improved Markdown formatting for Google Calendar descriptions.
 
 ### Achievements
-- Successfully refactored the [[configuration]] loading logic for Google Calendar [[API]], transitioning from YAML to environment variables.
+- Successfully refactored the configuration loading logic for Google Calendar [[API]], transitioning from YAML to environment variables.
 - Implemented enhanced [[error handling]] in Google Calendar event insertion scripts.
 - Developed a deduplication [[strategy]] using `iCalUID` to prevent duplicate events.
 

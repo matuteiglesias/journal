@@ -40,7 +40,7 @@ The session aimed to develop a Retrieval-Augmented Generation (RAG) system using
 
 ### Pending Tasks
 - Further evaluate the performance implications of using n8n versus [[Python]] for specific tasks.
-- Continue refining the RAG app's architecture for better performance and usability.
+- Continue refining the RAG app's [[architecture]] for better performance and usability.
 
 ## Evidence
 

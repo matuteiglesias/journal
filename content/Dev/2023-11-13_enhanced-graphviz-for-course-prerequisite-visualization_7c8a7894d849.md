@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to enhance the [[visualization]] of course prerequisites using Graphviz, focusing on the CBC courses and their representation within a graph.
+The session aimed to enhance the visualization of course prerequisites using Graphviz, focusing on the CBC courses and their representation within a graph.
 
 ### Key Activities
 - Identified and addressed an error in graph generation related to CBC courses.
@@ -38,7 +38,7 @@ The session aimed to enhance the [[visualization]] of course prerequisites using
 
 ### Pending Tasks
 - Further exploration of alternative methods for layering in Graphviz to overcome current limitations.
-- Consideration of additional output formats for better [[visualization]] quality.
+- Consideration of additional output formats for better visualization quality.
 
 ## Evidence
 

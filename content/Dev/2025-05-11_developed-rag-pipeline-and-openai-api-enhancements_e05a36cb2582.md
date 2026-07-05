@@ -28,7 +28,7 @@ The session aimed to enhance the Retrieval-Augmented Generation (RAG) system and
 - Explored potential contributions to the LSFA 2025 conference, focusing on semantic pipelines and [[networking]] opportunities.
 - Developed a roadmap for the RAG mini-suite, including phases for MVP completion and productization.
 - Implemented a Gradio UI module for RAG, enabling context-based question answering with LLMs.
-- Fixed bugs in the RAG UI, including missing functions and tab [[configuration]] issues.
+- Fixed bugs in the RAG UI, including missing functions and tab configuration issues.
 - Updated the `run_llm()` function to comply with OpenAI [[API]] version 1.0.0.
 - Explored manual vs. native in-model RAG retrieval methods.
 - Created a starter script for an OpenAI-native Assistant-based RAG pipeline.

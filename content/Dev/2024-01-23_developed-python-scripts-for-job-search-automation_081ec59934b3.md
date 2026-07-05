@@ -28,7 +28,7 @@ The session aimed to explore and develop [[Python]] scripts for automating job s
 - Discussed the limitations of executing web searches directly from a [[Python]] script due to environmental constraints, suggesting a manual approach for job searches.
 - Outlined a [[Python]] script for automated web searches using the `googlesearch` library, including setup instructions and ethical considerations.
 - Provided a [[Python]] function using the `urllib.parse` library to extract domain names from URLs, aiding in processing job search results.
-- Developed a script to create a [[DataFrame]] from roles and domain names, mapping each role to its domains.
+- Developed a script to create a DataFrame from roles and domain names, mapping each role to its domains.
 - Described a function to generate Indeed job search URLs for specified roles and locations, with examples for Buenos Aires and Florianópolis.
 
 ### Achievements

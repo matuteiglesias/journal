@@ -37,7 +37,7 @@ generated: true
 **Achievements**:
 - Successfully resolved timeout issues in [[AI]] kernel and LLM function calls.
 - Improved [[error handling]] mechanisms in the email triage system.
-- Enhanced the architecture of [[AI]] agents for better [[integration]] and functionality.
+- Enhanced the [[architecture]] of [[AI]] agents for better [[integration]] and functionality.
 
 **Pending Tasks**:
 - Further testing of the unified `EmailTriagerAgent` class in live environments to ensure robustness.

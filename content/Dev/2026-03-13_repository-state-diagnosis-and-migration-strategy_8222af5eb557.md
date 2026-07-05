@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to diagnose the current state of the repository, focusing on migration, module [[integration]], data structure, and future milestones to consolidate the architecture.
+The session aimed to diagnose the current state of the repository, focusing on migration, module [[integration]], data structure, and future milestones to consolidate the [[architecture]].
 
 ### Key Activities
 - Conducted a detailed analysis of the repository's current state, including migration and [[integration]] of modules.

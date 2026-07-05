@@ -26,7 +26,7 @@ The session aimed to enhance the [[integration]] with the MercadoLibre [[API]] b
 
 ### Key Activities
 - **Google Account Security**: Reviewed steps to secure a Google account after losing a phone, including disabling SMS verification and notifying carriers.
-- **[[API]] [[Error Handling]]**: Troubleshot JSONDecodeError, 401 Unauthorized, 404 Not Found, and 403 Forbidden errors in [[API]] responses, focusing on access token validation and proper header [[configuration]].
+- **[[API]] [[Error Handling]]**: Troubleshot JSONDecodeError, 401 Unauthorized, 404 Not Found, and 403 Forbidden errors in [[API]] responses, focusing on access token validation and proper header configuration.
 - **OAuth 2.0 Flow**: Detailed the OAuth 2.0 authorization flow for MercadoLibre, including handling localhost redirect issues and PKCE flow errors.
 - **Data Extraction and Processing**: Developed [[Python]] scripts for extracting item IDs, querying the [[API]], and processing data into DataFrames.
 - **[[Optimization]]**: Optimized [[API]] queries for MercadoLibre by validating item IDs and handling [[API]] responses effectively.

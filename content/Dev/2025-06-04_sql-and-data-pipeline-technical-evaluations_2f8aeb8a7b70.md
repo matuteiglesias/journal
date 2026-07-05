@@ -27,7 +27,7 @@ generated: true
 - Conducted critical analysis of SQL implementation in data pipelines, highlighting the use of CTEs, aggregations, and areas needing improvement such as process fragmentation and dependency on [[pandas]].
 - Provided detailed feedback on data pipelines and SQL usage for multiple groups, identifying issues and offering professional evaluations.
 - Evaluated SQL query quality, focusing on maintainability, scalability, and performance, with recommendations for improvement.
-- Analyzed the architecture of an ETL project using [[Python]] scripts, assessing modularity, dependencies, and SQL/[[pandas]] [[integration]].
+- Analyzed the [[architecture]] of an ETL project using [[Python]] scripts, assessing modularity, dependencies, and SQL/[[pandas]] [[integration]].
 
 **Achievements:**
 - Completed technical evaluations of SQL and data pipelines, providing actionable insights and recommendations for each group.

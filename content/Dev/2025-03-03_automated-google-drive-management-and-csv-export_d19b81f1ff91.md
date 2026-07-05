@@ -28,7 +28,7 @@ generated: true
 2. **Google Drive [[API]] [[Automation]]:** Developed [[Python]] scripts to manage root-level files and retrieve parent folder names, especially in shared drives.
 3. **Directory Tree Export:** Utilized `gdrive4` to export Google Drive directory trees, converting them to path mappings.
 4. **[[Troubleshooting]] DNS Errors:** Diagnosed and resolved DNS resolution errors affecting Google Drive functionality.
-5. **gdrive and rclone [[Configuration]]:** Configured `gdrive` CLI and `rclone` for Google Drive access using service accounts.
+5. **gdrive and rclone Configuration:** Configured `gdrive` CLI and `rclone` for Google Drive access using service accounts.
 6. **[[CSV]] Export:** Automated the extraction of Google Drive structures into [[CSV]] format using [[Python]] and rclone.
 
 **Achievements:**

@@ -22,14 +22,14 @@ generated: true
 ## Description
 
 ### Session Goal
-The goal of this session was to enhance the modularity and readability of [[Python]] functions used for filtering financial ledger data within a [[Pandas]] [[DataFrame]].
+The goal of this session was to enhance the modularity and readability of [[Python]] functions used for filtering financial ledger data within a [[Pandas]] DataFrame.
 
 ### Key Activities
-- Developed a [[Python]] function to extract rent-related records from a financial ledger [[DataFrame]].
+- Developed a [[Python]] function to extract rent-related records from a financial ledger DataFrame.
 - Implemented the `get_from_ledger` function to filter DataFrames based on specified criteria using predefined masks.
 - Updated the `get_from_ledger` function to improve logic flexibility and maintainability.
 - Enhanced the `compute_transaction_series` function to compute time-series data with flexible filtering and aggregation options.
-- Addressed the `SettingWithCopyWarning` in [[Pandas]] by ensuring proper [[DataFrame]] copy handling.
+- Addressed the `SettingWithCopyWarning` in [[Pandas]] by ensuring proper DataFrame copy handling.
 
 ### Achievements
 - Successfully modularized and enhanced the readability of functions for financial data filtering.

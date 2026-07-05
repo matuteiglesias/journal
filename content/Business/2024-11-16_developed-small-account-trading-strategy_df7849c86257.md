@@ -38,7 +38,7 @@ The session aimed to develop a comprehensive [[strategy]] for growing small trad
 - Created a plan for visualizing trading data to aid decision-making.
 
 ### Pending Tasks
-- Implement the [[Python]] [[visualization]] for candlestick data.
+- Implement the [[Python]] visualization for candlestick data.
 - Test the developed trading strategies in a proof-of-concept phase to validate effectiveness.
 
 ## Evidence

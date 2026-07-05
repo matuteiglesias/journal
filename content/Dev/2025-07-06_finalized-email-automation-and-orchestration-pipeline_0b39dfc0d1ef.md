@@ -34,11 +34,11 @@ The primary aim of this session was to finalize the implementation of an email [
 ### Achievements:
 - Completed the final session of the email [[automation]] system's reconstruction cycle.
 - Developed high-fidelity [[documentation]] for the Email Orchestrator, highlighting key architectural principles and testing surfaces.
-- Defined the tactical next moves for the email pipeline, including finalizing the orchestrator and implementing [[configuration]] management.
+- Defined the tactical next moves for the email pipeline, including finalizing the orchestrator and implementing configuration management.
 
 ### Pending Tasks:
 - Finalize the CLI entry point for the email pipeline.
-- Implement [[configuration]] management for enhanced [[automation]].
+- Implement configuration management for enhanced [[automation]].
 
 ## Evidence
 

@@ -31,7 +31,7 @@ The session aimed to explore and develop frameworks for strategic [[networking]]
 - **Meta-Movements Reflection**: Analyzed the convergence of meta-movements in political-technical life, focusing on cohesive systems and cognitive-emotional [[integration]].
 - **[[AI]]-Integrated Operations Core**: Reflected on the development of an autonomous [[AI]] operations core, emphasizing modularity and memory management.
 - **Reframing Language**: Discussed the strategic use of language in knowledge infrastructure to support communication.
-- **March Transition**: Reflected on the shift from systems architecture to communicative [[deployment]], focusing on educational frameworks and strategic communication.
+- **March Transition**: Reflected on the shift from systems [[architecture]] to communicative [[deployment]], focusing on educational frameworks and strategic communication.
 
 ### Achievements
 - Established a comprehensive framework for [[networking]] and personal branding.

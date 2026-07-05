@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The goal of this session was to set up and manage a [[GitHub]] repository for an [[AI]] [[Workflow]] MVP project, ensuring proper [[configuration]] and addressing common development issues.
+The goal of this session was to set up and manage a [[GitHub]] repository for an [[AI]] [[Workflow]] MVP project, ensuring proper configuration and addressing common development issues.
 
 ### Key Activities
 - **[[GitHub]] Repository Setup:** Followed a step-by-step checklist to initialize a [[GitHub]] repository, add necessary files to `.gitignore`, and push the initial setup to [[GitHub]].

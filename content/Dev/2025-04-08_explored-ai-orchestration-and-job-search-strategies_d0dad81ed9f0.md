@@ -25,14 +25,14 @@ generated: true
 The session aimed to explore the distinction between using [[AI]] as a simple tool versus designing systems that incorporate [[AI]] as integral components, and to review job application strategies.
 
 ### Key Activities
-- Discussed [[AI]] orchestration and the emergence of context architecture in [[AI]] systems.
+- Discussed [[AI]] orchestration and the emergence of context [[architecture]] in [[AI]] systems.
 - Explored the transformative potential of [[AI]] as a multiplier in [[productivity]] systems.
 - Reviewed job application strategies through a structured check-in framework.
 - Reflected on [[AI]]'s role in codebase analysis and product management.
 - Considered systemic uses of semi-structured tables in data [[automation]].
 
 ### Achievements
-- Clarified the concept of 'Context Architecture' for [[AI]]-native tools.
+- Clarified the concept of 'Context [[Architecture]]' for [[AI]]-native tools.
 - Outlined a structured approach for job application tracking and prioritization.
 - Identified key lessons in product management for technical builders.
 - Proposed a systemic reflection on the uses of semi-structured tables.

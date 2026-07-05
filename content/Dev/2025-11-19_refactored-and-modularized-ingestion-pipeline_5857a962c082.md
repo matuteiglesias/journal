@@ -35,7 +35,7 @@ The session aimed to refactor and modularize the ingestion pipeline and related 
 - Provided a restructuring plan for `chroma_helpers.py` to enhance clarity and separation of concerns.
 
 ### Achievements
-- Completed the [[refactoring]] and modularization of the ingestion pipeline and related scripts, enhancing the overall architecture and efficiency of the [[data processing]] system.
+- Completed the [[refactoring]] and modularization of the ingestion pipeline and related scripts, enhancing the overall [[architecture]] and efficiency of the [[data processing]] system.
 
 ### Pending Tasks
 - Further development steps for the `ingest_pipeline.py` script to ensure full [[integration]] with the new modular structure.

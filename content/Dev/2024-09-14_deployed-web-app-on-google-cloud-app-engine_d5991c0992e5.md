@@ -27,7 +27,7 @@ The goal of this session was to deploy a web application on Google Cloud App Eng
 ### Key Activities
 - **Hosting a Web App**: Followed a guide to set up, prepare, deploy, and test a web app on Google Cloud using App Engine.
 - **Project ID Management**: Chose a unique project ID and verified its length requirement for Google Cloud projects.
-- **Static Web App [[Deployment]]**: Deployed a static web app, involving setting up the project, organizing files, and creating an `app.yaml` [[configuration]].
+- **Static Web App [[Deployment]]**: Deployed a static web app, involving setting up the project, organizing files, and creating an `app.yaml` configuration.
 - **Local Testing**: Ran the project locally using [[Python]]'s HTTP server to ensure functionality before [[deployment]].
 - **Folder and Directory Management**: Renamed project folders and ensured correct directory navigation for [[deployment]].
 - **Cloud Storage Permissions**: Fixed permissions errors for service accounts accessing Cloud Storage buckets.

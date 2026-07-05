@@ -33,7 +33,7 @@ The goal of this session was to implement dynamic file path management in [[Pyth
 
 ### Achievements
 - Successfully replaced hard-coded paths with dynamic path construction methods, enhancing the flexibility and portability of [[Python]] scripts.
-- Improved [[data processing]] and [[visualization]] techniques using dynamic paths.
+- Improved [[data processing]] and visualization techniques using dynamic paths.
 
 ### Pending Tasks
 - Further testing of the implemented dynamic path methods across different operating systems and user environments to ensure robustness.

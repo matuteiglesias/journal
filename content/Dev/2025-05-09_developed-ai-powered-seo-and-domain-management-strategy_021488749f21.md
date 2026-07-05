@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to explore and plan the technical architecture for an [[AI]]-powered [[SEO]] content engine and domain management system using AWS services.
+The session aimed to explore and plan the technical [[architecture]] for an [[AI]]-powered [[SEO]] content engine and domain management system using AWS services.
 
 ### Key Activities
 - Discussed essential AWS services for building and scaling an [[AI]]-powered [[SEO]] content engine.

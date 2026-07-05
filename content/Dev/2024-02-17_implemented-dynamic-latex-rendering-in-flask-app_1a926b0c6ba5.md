@@ -27,7 +27,7 @@ generated: true
 - Developed [[Flask]] routes and HTML templates for dynamic exercise display, leveraging MathJax and KaTeX for LaTeX rendering.
 - Adjusted links in `index.html` to ensure correct routing to exercise content.
 - Implemented a function to fetch exercise content from text files, ensuring proper rendering in the web application.
-- Addressed LaTeX rendering issues, particularly with unsupported environments like 'enumerate', by modifying LaTeX content and extending MathJax [[configuration]].
+- Addressed LaTeX rendering issues, particularly with unsupported environments like 'enumerate', by modifying LaTeX content and extending MathJax configuration.
 - Integrated MathJax via CDN for efficient LaTeX rendering.
 
 **Achievements**:

@@ -38,7 +38,7 @@ The primary goal of this session was to enhance [[GitHub]] [[automation]] script
 ### Achievements
 - Successfully automated the [[GitHub]] commit and push process with enhanced script functionality.
 - Improved [[Git]] credential management, reducing manual intervention and errors during authentication.
-- Resolved command usage errors in [[Git]] [[configuration]], ensuring correct setup of user information.
+- Resolved command usage errors in [[Git]] configuration, ensuring correct setup of user information.
 
 ### Pending Tasks
 - Further testing of the updated autopush script in various environments to ensure robustness.

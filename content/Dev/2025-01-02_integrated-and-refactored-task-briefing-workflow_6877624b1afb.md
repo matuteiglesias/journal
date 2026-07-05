@@ -30,7 +30,7 @@ The primary goal of this session was to integrate and refactor the task briefing
 - **Refactored task filtering logic** with the `plan_day` function to ensure consistent [[JSON]] output for downstream processes.
 - **Fixed method call errors** in the `StaffManager` class, specifically in the `generate_briefing` method.
 - **Resolved function call errors** in `MotionHandler` by adjusting the `crop_tasks_by_timespan` function.
-- **Handled timezone-aware datetime errors** in [[pandas]] [[DataFrame]], ensuring proper datetime handling.
+- **Handled timezone-aware datetime errors** in [[pandas]] DataFrame, ensuring proper datetime handling.
 
 ### Achievements
 - Successfully integrated and refactored the task briefing [[workflow]], enhancing [[automation]] and [[error handling]] capabilities.

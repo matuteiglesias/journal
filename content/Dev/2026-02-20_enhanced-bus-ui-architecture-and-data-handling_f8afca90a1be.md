@@ -22,20 +22,20 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to improve the bus UI architecture by implementing a separation of concerns, enhancing data handling through scripting, and resolving UI-related issues in React and Next.js.
+The session aimed to improve the bus UI [[architecture]] by implementing a separation of concerns, enhancing data handling through scripting, and resolving UI-related issues in React and Next.js.
 
 ### Key Activities
-- **Bus UI Architecture**: Emphasized the separation of responsibilities within the bus UI architecture, focusing on creating a dedicated aggregator script and adhering to naming conventions to prevent errors.
+- **Bus UI [[Architecture]]**: Emphasized the separation of responsibilities within the bus UI [[architecture]], focusing on creating a dedicated aggregator script and adhering to naming conventions to prevent errors.
 - **Data Extraction with Bash and Sed**: Utilized Bash and Sed commands to extract specific lines from various files, demonstrating command-line efficiency in file manipulation.
 - **[[Python]] Data Aggregation**: Developed a [[Python]] script to aggregate observability indexes from daily JSONL files, producing output tables and a refresh file.
 - **UI Implementation**: Outlined implementation details for new UI tables in the observability UI, using React and JavaScript to handle JSONL files and update navigation.
 - **React and Next.js [[Troubleshooting]]**: Addressed a hydration error in React server components and provided solutions for Next.js route fixes, including handling `searchParams` and resolving 404 errors for JSONL data files.
 
 ### Achievements
-- Successfully structured the bus UI architecture with clear separation of concerns.
+- Successfully structured the bus UI [[architecture]] with clear separation of concerns.
 - Efficiently extracted and manipulated file data using Bash and Sed.
 - Aggregated data effectively with a [[Python]] script, enhancing data observability.
-- Implemented new UI tables in the observability UI, improving [[data [[visualization]]]].
+- Implemented new UI tables in the observability UI, improving [[data visualization]].
 - Resolved critical issues in React and Next.js, ensuring smoother UI functionality.
 
 ### Pending Tasks

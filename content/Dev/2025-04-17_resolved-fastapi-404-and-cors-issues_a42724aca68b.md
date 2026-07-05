@@ -26,7 +26,7 @@ The session aimed to resolve persistent 404 errors and CORS issues in a FastAPI 
 
 ### Key Activities
 - **404 Error Fix**: Identified incorrect router declarations causing 404 errors on the `/[[api]]/run_flow` endpoint and implemented solutions to correct these issues.
-- **CORS [[Configuration]]**: Provided a detailed guide on configuring CORS middleware in FastAPI, including server restart instructions and [[debugging]] tips.
+- **CORS Configuration**: Provided a detailed guide on configuring CORS middleware in FastAPI, including server restart instructions and [[debugging]] tips.
 - **Endpoint Verification**: Confirmed active [[API]] endpoints and ensured the `/[[api]]/run_flow` route was successfully registered.
 - **YAML Editor Feedback**: Collected and synthesized user feedback on the YAML Editor pane, identifying UX improvements.
 - **Monaco [[Integration]]**: Updated the YamlEditor component with Monaco editor features, such as dirty state tracking and controlled content updates.

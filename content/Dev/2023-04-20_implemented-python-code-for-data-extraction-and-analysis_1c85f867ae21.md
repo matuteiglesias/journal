@@ -29,7 +29,7 @@ The session focused on developing [[Python]] code snippets to extract values fro
 - Implemented data parsing techniques to ensure accurate data extraction.
 - Explored methods to identify minimal composite keys in datasets, enhancing data integrity.
 - Worked on deduplication techniques by identifying minimal subsets of columns in datasets using [[Python]] and [[pandas]].
-- Demonstrated intersection of [[DataFrame]] columns with specified lists for efficient data manipulation.
+- Demonstrated intersection of DataFrame columns with specified lists for efficient data manipulation.
 
 ### Achievements
 - Successfully created and corrected [[Python]] code snippets for data extraction tasks.

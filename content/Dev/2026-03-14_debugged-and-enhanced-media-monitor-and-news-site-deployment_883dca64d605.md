@@ -35,7 +35,7 @@ The session aimed to diagnose and resolve issues in the media monitor project an
 
 ### Achievements
 - Successfully identified and patched schema and export issues in the media monitor project.
-- Enhanced the [[deployment]] process for the news site on Vercel, ensuring proper data handling and [[configuration]].
+- Enhanced the [[deployment]] process for the news site on Vercel, ensuring proper data handling and configuration.
 - Established a stable export system with improved observability and reduced noise.
 
 ### Pending Tasks

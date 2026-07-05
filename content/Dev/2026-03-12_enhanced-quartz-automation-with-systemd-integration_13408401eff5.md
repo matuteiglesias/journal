@@ -30,7 +30,7 @@ The primary objective of this session was to enhance the [[automation]] of the Q
 - Developed a structured process for automating Quartz materialization using bash scripting, systemd timers, and [[git]] [[integration]].
 - Implemented user-level systemd units for local [[automation]] tasks, ensuring seamless [[integration]] with existing [[automation]] stacks.
 - Configured a user-scoped systemd timer and service for Quartz, including operational checks and file location setups.
-- Resolved issues with Node.js tools in systemd services by updating the PATH [[configuration]], ensuring accessibility of tools like npx.
+- Resolved issues with Node.js tools in systemd services by updating the PATH configuration, ensuring accessibility of tools like npx.
 
 ### Achievements:
 - Successfully operationalized the Quartz materialization pipeline with automated daily refreshes and idempotent behavior.

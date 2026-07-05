@@ -30,7 +30,7 @@ The session aimed to facilitate onboarding for a new role at Outlier and to adva
 
 ### Achievements
 - Completed the onboarding steps for Outlier, including understanding task assignments and communication protocols.
-- Established a detailed plan for Figure 1 creation, ensuring alignment with manuscript goals and clarity in [[data [[visualization]]]].
+- Established a detailed plan for Figure 1 creation, ensuring alignment with manuscript goals and clarity in [[data visualization]].
 
 ### Pending Tasks
 - Finalize access to the Discourse forum to complete the onboarding process.

@@ -26,7 +26,7 @@ The session aimed to develop a structured guide for email communication within t
 
 ### Key Activities
 - **Email Communication Guide**: Proposed a structure for a guide on email communication, focusing on migration to Google Groups, active mailing lists, procedures for creating new lists, and addressing faculty concerns.
-- **[[Data Analysis]] Strategies**: Outlined strategies for reorganizing and enhancing [[data analysis]] notebooks, focusing on French exports and imports, using the ChatGPT [[API]] for content audit, [[visualization]], and publication.
+- **[[Data Analysis]] Strategies**: Outlined strategies for reorganizing and enhancing [[data analysis]] notebooks, focusing on French exports and imports, using the ChatGPT [[API]] for content audit, visualization, and publication.
 - **Content [[Strategy]]**: Discussed principles for creating comprehensive and effective written content.
 - **ChatGPT [[API]] Prompt**: Designed a structured prompt for analyzing Jupyter notebooks, emphasizing detailed summaries and improvement suggestions.
 - **OpenAI [[API]] Setup**: Executed steps to set up the OpenAI [[API]] for Jupyter notebook analysis, including obtaining an [[API]] key and creating a [[Python]] script for automated analysis.

@@ -22,18 +22,18 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to explore and implement strategies for integrating YouTube transcription data into an existing data architecture, focusing on optimizing observability and data reuse.
+The session aimed to explore and implement strategies for integrating YouTube transcription data into an existing data [[architecture]], focusing on optimizing observability and data reuse.
 
 ### Key Activities
 - **Search Query for KB Contracts**: Conducted a search to retrieve information related to Matute Iglesias from the KB Contracts site, which is relevant for search engine [[optimization]].
 - **[[Integration]] Proposal**: Proposed a structured [[integration]] of YouTube transcripts using a 'Chunk Bus' and 'Event Bus' approach to enhance data observability and reuse. This included a minimum viable design for forensic summaries and comparative patterns.
-- **Media Monitor [[Optimization]]**: Discussed strategic [[integration]] of the media monitor system into the existing architecture for improved news data acquisition and normalization.
+- **Media Monitor [[Optimization]]**: Discussed strategic [[integration]] of the media monitor system into the existing [[architecture]] for improved news data acquisition and normalization.
 - **Seam Extraction**: Outlined a detailed procedure for seam extraction in the media_monitor repository, using specific bash commands to identify key components.
 - **Pipeline Analysis**: Diagnosed the current data pipeline, identifying operational truths, valuable assets, risks, and steps for [[optimization]].
 - **Database Management**: Reviewed [[Python]] and SQL files related to backend models and database operations, focusing on data handling.
 
 ### Achievements
-- Developed a comprehensive framework for integrating YouTube transcription data into the data architecture.
+- Developed a comprehensive framework for integrating YouTube transcription data into the data [[architecture]].
 - Identified key strategies for optimizing the media monitor system without a complete overhaul.
 - Provided a structured approach for repository analysis and pipeline [[optimization]].
 

@@ -32,7 +32,7 @@ The session aimed to enhance and debug components in a software development proj
 - Provided [[troubleshooting]] for the `print()` function not displaying in FastAPI, offering step-by-step [[debugging]] guidance.
 
 ### Achievements
-- Successfully integrated backend and frontend components for YAML [[configuration]] in the [[AI]] [[workflow]] tool.
+- Successfully integrated backend and frontend components for YAML configuration in the [[AI]] [[workflow]] tool.
 - Improved the `Home` component's logic and performance in React.
 - Resolved [[JSON]] response issues in FastAPI, enhancing endpoint reliability and security.
 - Fixed file path issues in FastAPI, ensuring correct YAML file retrieval and reducing 404 errors.

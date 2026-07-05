@@ -25,8 +25,8 @@ generated: true
 The session aimed to optimize the development environment by configuring Visual Studio Code settings and enhancing data manipulation capabilities in [[Python]] using [[pandas]].
 
 ### Key Activities
-- **VS Code [[Configuration]]**: Adjusted output display limits and scrollback settings to improve terminal usability. Disabled auto-advance in the [[Python]] extension to enhance coding efficiency. Changed the default [[Python]] interpreter and created custom keybindings for better [[workflow]] management.
-- **[[Pandas]] Data Manipulation**: Developed [[Python]] functions for merging DataFrames, processing and filtering data, resolving library compatibility issues, and formatting [[DataFrame]] outputs. These functions improve data handling and analysis efficiency.
+- **VS Code Configuration**: Adjusted output display limits and scrollback settings to improve terminal usability. Disabled auto-advance in the [[Python]] extension to enhance coding efficiency. Changed the default [[Python]] interpreter and created custom keybindings for better [[workflow]] management.
+- **[[Pandas]] Data Manipulation**: Developed [[Python]] functions for merging DataFrames, processing and filtering data, resolving library compatibility issues, and formatting DataFrame outputs. These functions improve data handling and analysis efficiency.
 
 ### Achievements
 - Successfully configured Visual Studio Code to better support [[Python]] development.

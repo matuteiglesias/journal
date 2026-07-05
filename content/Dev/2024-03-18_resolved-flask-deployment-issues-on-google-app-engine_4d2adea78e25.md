@@ -27,7 +27,7 @@ The primary goal of this session was to deploy a [[Flask]] application on Google
 ### Key Activities
 - Configured the [[Flask]] application for [[deployment]] on Google App Engine, focusing on the `create_app()` function and Gunicorn settings.
 - Addressed the 'Failed to find application object' error by verifying import paths, the application factory function, and environment configurations.
-- Debugged [[deployment]] issues by checking the `app.yaml` [[configuration]] and ensuring the correct placement of `main.py`.
+- Debugged [[deployment]] issues by checking the `app.yaml` configuration and ensuring the correct placement of `main.py`.
 - Enhanced the [[Flask]] application's `main.py` with logging capabilities to facilitate [[debugging]].
 - Utilized [[Git]] to clone older versions of the repository for local testing and incremental updates.
 

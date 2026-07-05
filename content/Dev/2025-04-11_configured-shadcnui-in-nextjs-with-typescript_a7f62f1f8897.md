@@ -25,10 +25,10 @@ generated: true
 The primary objective of this session was to configure the `shadcn/ui` library in a Next.js project using TypeScript and TailwindCSS.
 
 ### Key Activities:
-- **[[Configuration]] of `shadcn/ui`**: Followed a step-by-step guide to configure the `shadcn/ui` library, including initialization, package installation, and component usage.
-- **Manual Setup**: Executed a manual setup process to ensure proper [[configuration]] of the `shadcn-ui` library for a Next.js application.
+- **Configuration of `shadcn/ui`**: Followed a step-by-step guide to configure the `shadcn/ui` library, including initialization, package installation, and component usage.
+- **Manual Setup**: Executed a manual setup process to ensure proper configuration of the `shadcn-ui` library for a Next.js application.
 - **CLI Compatibility Fixes**: Addressed issues with `components.[[json]]` to ensure CLI compatibility, including re-running commands to add components.
-- **[[Troubleshooting]]**: Utilized a checklist to resolve [[configuration]] errors, focusing on file existence and directory structure.
+- **[[Troubleshooting]]**: Utilized a checklist to resolve configuration errors, focusing on file existence and directory structure.
 - **Merging Configurations**: Merged existing configurations to ensure compatibility with the `shadcn-ui` CLI.
 - **TypeScript Error Resolution**: Fixed a TypeScript issue related to the `FileRow` type in the `FileTableColumns.ts` file.
 
@@ -38,7 +38,7 @@ The primary objective of this session was to configure the `shadcn/ui` library i
 
 ### Pending Tasks:
 - Verify the [[integration]] of additional components and ensure no further TypeScript issues arise.
-- Conduct further testing to confirm the stability of the [[configuration]].
+- Conduct further testing to confirm the stability of the configuration.
 
 ## Evidence
 

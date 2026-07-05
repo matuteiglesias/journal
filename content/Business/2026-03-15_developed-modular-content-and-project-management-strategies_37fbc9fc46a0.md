@@ -28,7 +28,7 @@ The session aimed to develop strategies for modular content management and proje
 - **Modular Content [[Strategy]]**: Explored a template for repurposing content across platforms, defining content types, and establishing workflows.
 - **Knowledge Capture [[Strategy]]**: Proposed a system for efficient knowledge capture with minimal friction.
 - **Editorial Content Pipeline**: Developed a pipeline for editorial content selection, emphasizing structured rounds for quality and diversity.
-- **Knowledge Base Architecture**: Designed a modular architecture for transforming sessions into reusable editorial candidates with clear ownership and governance.
+- **Knowledge Base [[Architecture]]**: Designed a modular [[architecture]] for transforming sessions into reusable editorial candidates with clear ownership and governance.
 - **Project Panel [[Optimization]]**: Provided guidelines for simplifying project panels and organizing active projects.
 - **Weekly Digest and Planning**: Created a weekly digest summarizing achievements and planning next steps, focusing on balance and prioritization.
 
@@ -38,7 +38,7 @@ The session aimed to develop strategies for modular content management and proje
 
 ### Pending Tasks
 - Implement the modular content [[strategy]] across selected platforms.
-- Finalize the knowledge base architecture and begin [[integration]].
+- Finalize the knowledge base [[architecture]] and begin [[integration]].
 - Execute the weekly plan and monitor progress on prioritized projects.
 
 ## Evidence

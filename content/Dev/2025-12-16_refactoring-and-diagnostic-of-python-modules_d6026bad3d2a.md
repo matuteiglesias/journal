@@ -34,7 +34,7 @@ The session aimed to refactor and diagnose [[Python]] modules, focusing on impro
 - Outlined a Pomodoro block planning playbook to enhance [[productivity]].
 - Conducted an operational reasoning session to validate [[automation]] tasks and prioritize next steps.
 - Diagnosed a project pipeline, identifying issues and creating a recovery plan.
-- Designed a reliable ingest and parsing system for accounting purposes.
+- Designed a reliable ingest and parsing system for [[accounting]] purposes.
 - Identified [[automation]] candidates from filesystem timestamps for improved monitoring.
 
 **Achievements:**

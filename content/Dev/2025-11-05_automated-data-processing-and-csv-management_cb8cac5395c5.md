@@ -26,7 +26,7 @@ The goal of this session was to automate [[data processing]] tasks using [[Pytho
 
 ### Key Activities
 - Developed a [[Python]] script to process message data by cleaning timestamps, handling NaN values, and chunking the output into [[CSV]] files.
-- Implemented a script to convert timestamps to a readable format and save messages in [[CSV]] blocks of 100, including a demo [[DataFrame]].
+- Implemented a script to convert timestamps to a readable format and save messages in [[CSV]] blocks of 100, including a demo DataFrame.
 - Created a [[CSV]] file from a contact list, normalizing data and saving it using [[pandas]].
 - Utilized OCR to extract phone numbers from images, cleaned the data, and merged it with existing contacts before saving to [[CSV]].
 - Extracted contact lists from WhatsApp banners and formatted them as [[CSV]] for easy data merging.

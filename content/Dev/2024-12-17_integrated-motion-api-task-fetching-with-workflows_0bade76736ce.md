@@ -25,7 +25,7 @@ generated: true
 The primary aim of this session was to integrate the Motion App [[API]]'s task-fetching capabilities into structured workflows, enhancing task management efficiency through [[automation]].
 
 ### Key Activities
-- **[[API]] [[Integration]]:** Developed [[Python]] scripts to interact with the Motion App [[API]], focusing on task retrieval using the 'List Tasks' endpoint. This included handling pagination and converting the [[JSON]] response into a [[Pandas]] [[DataFrame]] for analysis.
+- **[[API]] [[Integration]]:** Developed [[Python]] scripts to interact with the Motion App [[API]], focusing on task retrieval using the 'List Tasks' endpoint. This included handling pagination and converting the [[JSON]] response into a [[Pandas]] DataFrame for analysis.
 - **Error Resolution:** Addressed an 'InvalidStateError' in VS Code by clearing cache and updating extensions.
 - **[[Data Management]]:** Implemented functions to filter tasks based on timestamps and manage timezone mismatches in [[Pandas]] DataFrames.
 - **[[Workflow]] [[Integration]]:** Outlined and implemented workflows for integrating the task-fetching script with roles like Chief of Staff, focusing on task filtering and synchronization.

@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 **Session Goal:**
-The session aimed to explore and develop strategies for integrating and enhancing the FlowPower CLI by leveraging [[PromptFlow]]'s architecture and orchestration patterns.
+The session aimed to explore and develop strategies for integrating and enhancing the FlowPower CLI by leveraging [[PromptFlow]]'s [[architecture]] and orchestration patterns.
 
 **Key Activities:**
 1. Reviewed developer-native UX-driven patterns for [[AI]] flow engines to ensure simplicity and functionality.
@@ -30,14 +30,14 @@ The session aimed to explore and develop strategies for integrating and enhancin
 3. Discussed the concept of developer-native [[AI]] [[workflow]] platforms and their branding.
 4. Evaluated FlowPower as a branding choice for a tool empowering developers.
 5. Introduced ChatGroupOrchestrator for multi-agent chat simulations using [[PromptFlow]].
-6. Outlined [[PromptFlow]]'s CLI architecture, focusing on modularity and extensibility.
+6. Outlined [[PromptFlow]]'s CLI [[architecture]], focusing on modularity and extensibility.
 7. Proposed custom CLI options for FlowPower, detailing strategic approaches.
 8. Provided an overview of the [[PromptFlow]] CLI development kit, focusing on `flow` subcommands.
 9. Detailed the `pf flow` CLI backend, exploring potential enhancements for FlowPower.
 10. Outlined the CLI spec for `pf run`, highlighting its [[automation]] capabilities.
 
 **Achievements:**
-- Established a comprehensive understanding of [[PromptFlow]]'s CLI architecture and its application to FlowPower.
+- Established a comprehensive understanding of [[PromptFlow]]'s CLI [[architecture]] and its application to FlowPower.
 - Identified potential enhancements and [[integration]] points for FlowPower.
 
 **Pending Tasks:**

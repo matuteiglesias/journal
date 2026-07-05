@@ -25,7 +25,7 @@ generated: true
 The session aimed to resolve various gaming-related issues on SteamVR and Linux platforms, focusing on installation errors, driver conflicts, and [[troubleshooting]] techniques.
 
 **Key Activities:**
-- Addressed the 'Failed to init SteamVR because it isn't installed' error by providing detailed installation and [[configuration]] instructions.
+- Addressed the 'Failed to init SteamVR because it isn't installed' error by providing detailed installation and configuration instructions.
 - Explored the impact of SteamVR initialization failures on playing Age of Empires II: Definitive Edition, identifying potential gameplay errors.
 - Investigated the 'BadWindow (invalid Window parameter)' error on Linux with NVIDIA drivers, suggesting solutions like driver downgrades and updates.
 - Compiled a checklist for gathering necessary information to troubleshoot system issues effectively.
@@ -33,7 +33,7 @@ The session aimed to resolve various gaming-related issues on SteamVR and Linux 
 - Provided a guide on checking the Steam client version, detailing steps to access the 'About Steam' menu.
 
 **Achievements:**
-- Clarified installation and [[configuration]] steps for SteamVR.
+- Clarified installation and configuration steps for SteamVR.
 - Identified potential causes and solutions for Linux gaming errors with NVIDIA drivers.
 - Developed a comprehensive checklist for system issue [[troubleshooting]].
 

@@ -28,7 +28,7 @@ The primary objective of this session was to establish a structured approach for
 - **Document Analysis**: Reviewed the [[documentation]] requirements for stakeholders and internal use to ensure proper communication and protection of sensitive information.
 - **Directory Structure Proposal**: Developed a directory structure for the Dirección General de Informática del MSEG, including considerations for versioning, access, backup, and metadata usage.
 - **[[Integration]] in Google Workspace**: Implemented directory structures within Google Workspace, detailing folder structures, permissions, and best practices for document management.
-- **Tool [[Integration]] [[Strategy]]**: Proposed a [[strategy]] for integrating Google Workspace with Trello and Office 365, including [[configuration]], tool [[integration]], training, and monitoring.
+- **Tool [[Integration]] [[Strategy]]**: Proposed a [[strategy]] for integrating Google Workspace with Trello and Office 365, including configuration, tool [[integration]], training, and monitoring.
 - **Role Definition**: Outlined the profile for a Coordinator of Systems and Digital Collaboration to manage the [[integration]] of Google Workspace, Trello, and Office 365.
 
 ### Achievements

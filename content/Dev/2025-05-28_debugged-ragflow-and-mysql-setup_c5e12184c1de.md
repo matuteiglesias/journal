@@ -26,7 +26,7 @@ The session aimed to debug the `ragflow` application and set up MySQL to ensure 
 
 ### Key Activities
 - **[[Debugging]] ragflow and MySQL**: Focused on environment initialization and applied necessary fixes.
-- **Onboarding Checklist**: Created a comprehensive checklist for new developers to set up the local development environment, including MySQL [[configuration]] and Docker setup.
+- **Onboarding Checklist**: Created a comprehensive checklist for new developers to set up the local development environment, including MySQL configuration and Docker setup.
 - **[[Git]] [[Workflow]] Guidance**: Provided structured guides for committing local changes, resolving remote origin errors, and handling detected secrets in [[GitHub]] commits.
 - **[[Git]] Cleanup**: Offered practical options for cleaning up [[Git]] repositories, ensuring secure handling of sensitive information.
 

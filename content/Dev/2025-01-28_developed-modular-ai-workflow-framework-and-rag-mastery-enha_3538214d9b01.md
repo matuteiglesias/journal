@@ -30,8 +30,8 @@ The session aimed to explore and develop frameworks for modular [[AI]]-driven sy
 - Proposed a unique product opportunity combining modular [[AI]] workflows with a drag-and-drop UI.
 - Planned enhancements for the RAG Mastery Prototype UI, focusing on UI improvements and backend enhancements.
 - Detailed steps for enhancing the UI and tech stack for the RAG Mastery prototype using React and FastAPI.
-- Outlined frontend architecture principles for ChatGPT-like applications using React, TypeScript, and Next.js.
-- Developed a 'Box of Context' system architecture for file uploads, including a [[Flask]] backend implementation and [[debugging]] strategies for file upload issues.
+- Outlined frontend [[architecture]] principles for ChatGPT-like applications using React, TypeScript, and Next.js.
+- Developed a 'Box of Context' system [[architecture]] for file uploads, including a [[Flask]] backend implementation and [[debugging]] strategies for file upload issues.
 
 **Achievements:**
 - Established a clear framework for modular [[AI]] workflows and identified potential product opportunities.

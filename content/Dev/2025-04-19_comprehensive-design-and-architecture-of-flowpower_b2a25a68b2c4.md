@@ -22,16 +22,16 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to explore and refine the architecture and design of the Flowpower project, leveraging insights from [[PromptFlow]] to enhance modularity, user experience, and functionality.
+The session aimed to explore and refine the [[architecture]] and design of the Flowpower project, leveraging insights from [[PromptFlow]] to enhance modularity, user experience, and functionality.
 
 ### Key Activities
 - **Token-by-Token Streaming**: Explored [[PromptFlow]]'s token-by-token streaming over HTTP using server-sent events, focusing on real-time user experience applications.
-- **Strategic Pivot**: Reevaluated Flowpower's architecture with a focus on modular design and feature [[integration]].
+- **Strategic Pivot**: Reevaluated Flowpower's [[architecture]] with a focus on modular design and feature [[integration]].
 - **SDK Design**: Outlined the structure and purpose of the `flowpower/sdk/` directory, detailing key components like `client.py` and `run_config.py`.
 - **Execution Layer**: Analyzed the `engine/` directory's role in managing interactions with [[PromptFlow]], centralizing flow execution and streaming output management.
 - **[[API]] Layer**: Transitioned Flowpower to a multi-user, production-ready platform with REST endpoints and remote orchestration.
 - **CLI Overview**: Detailed the developer-facing CLI for Flowpower, emphasizing its structure and command implementation.
-- **Project Architecture**: Outlined foundational files and structure, including [[configuration]] and logging.
+- **Project [[Architecture]]**: Outlined foundational files and structure, including configuration and logging.
 - **CLI Framework Comparison**: Compared Typer and Argparse frameworks for CLI design, highlighting strengths and strategic recommendations.
 - **Final CLI Plan**: Refined the CLI plan for Flowpower, integrating [[PromptFlow]] features for enhanced usability.
 

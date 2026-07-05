@@ -34,7 +34,7 @@ The primary objective of this session was to enhance the image tiling process fo
 
 ### Achievements:
 - Successfully refined the `planificar_mosaico` function to improve its flexibility and accuracy in planning mosaics based on geographic data.
-- Enhanced the overall image tiling [[workflow]] for A0 posters, ensuring better [[visualization]] and performance.
+- Enhanced the overall image tiling [[workflow]] for A0 posters, ensuring better visualization and performance.
 
 ### Pending Tasks:
 - Further testing of the modified functions in a suitable environment with a Google Maps [[API]] key to verify the accuracy of the mosaic structure.

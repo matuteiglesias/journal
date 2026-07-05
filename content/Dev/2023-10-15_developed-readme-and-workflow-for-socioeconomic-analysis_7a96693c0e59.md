@@ -29,7 +29,7 @@ The session aimed to create a comprehensive README for a socioeconomic analysis 
 - Developed a guide for embedding a flowchart in a README.md file on [[GitHub]], complete with code examples and project structure.
 - Reflected on key [[data processing]] tools and libraries such as [[Pandas]], NumPy, and Scikit-learn, highlighting their functionalities.
 - Updated the [[workflow]] diagram for [[data processing]] using DOT language to illustrate data flow and dependencies.
-- Explored graph [[visualization]] options using DOT format with Graphviz and [[Python]] libraries.
+- Explored graph visualization options using DOT format with Graphviz and [[Python]] libraries.
 - Assisted in generating a graph using the [[Python]] `graphviz` library.
 - Provided a guide for rendering images correctly on [[GitHub]], focusing on Markdown syntax and [[troubleshooting]].
 

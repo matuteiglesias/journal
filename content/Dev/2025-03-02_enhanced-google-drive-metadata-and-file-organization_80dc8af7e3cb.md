@@ -29,7 +29,7 @@ The session aimed to enhance the metadata extraction and file organization proce
 - **[[AI]] Metadata Extraction**: Developed an [[AI]] wrapper function to extract structured metadata from Google Drive files, including Google Docs and Sheets.
 - **File Organization Schema**: Created a structured schema for categorizing and summarizing Google Drive files to ensure valid metadata extraction.
 - **Metadata Enhancement**: Refined the metadata extraction process to ask better questions for actionable insights, improving the schema for document categorization.
-- **[[JSON]] Parsing in [[DataFrame]]**: Addressed [[JSON]] parsing errors in [[Pandas]] DataFrames to handle string values and parsed dictionaries effectively.
+- **[[JSON]] Parsing in DataFrame**: Addressed [[JSON]] parsing errors in [[Pandas]] DataFrames to handle string values and parsed dictionaries effectively.
 - **File Categorization Enhancement**: Planned schema enhancements to improve file categorization based on purpose, audience, and [[automation]].
 - **Document Categorization**: Categorized Google Drive documents, outlining their contents, usage, and suggested organization steps.
 

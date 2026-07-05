@@ -22,22 +22,22 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to propose and plan the [[refactoring]] of the digests project repository to separate computing and publishing concerns. This involved organizing the codebase and defining Makefile targets for better [[project management]].
+The session aimed to propose and plan the [[refactoring]] of the digests project repository to separate computing and publishing concerns. This involved organizing the codebase and defining [[Makefile]] targets for better [[project management]].
 
 ### Key Activities
 - Proposed a new repository structure for the digests project, focusing on separating computing and publishing tasks.
-- Addressed queries related to the functionality of the publishing and digesting scripts, including specific Makefile targets for building and indexing.
-- Investigated Makefile contents and specific targets related to [[project management]], with a focus on 'kbctl' and 'digests_project'.
+- Addressed queries related to the functionality of the publishing and digesting scripts, including specific [[Makefile]] targets for building and indexing.
+- Investigated [[Makefile]] contents and specific targets related to [[project management]], with a focus on 'kbctl' and 'digests_project'.
 - Queried function signatures and implementations in 'publish.py' and 'l2.py' for the 'publish_l2' function.
 - Planned the [[refactoring]] of the codebase to clearly delineate compute and publish responsibilities, detailing necessary modules and their organization.
 
 ### Achievements
 - Developed a comprehensive plan for restructuring the digests project repository.
-- Clarified the roles of different scripts and Makefile targets in the project [[workflow]].
+- Clarified the roles of different scripts and [[Makefile]] targets in the project [[workflow]].
 
 ### Pending Tasks
 - Implement the proposed repository structure changes.
-- Update Makefile targets and scripts as per the new structure.
+- Update [[Makefile]] targets and scripts as per the new structure.
 - Further refine the function implementations in 'publish.py' and 'l2.py'.
 
 ## Evidence

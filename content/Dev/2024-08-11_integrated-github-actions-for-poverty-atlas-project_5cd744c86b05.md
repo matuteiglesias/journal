@@ -27,7 +27,7 @@ The session aimed to integrate updated [[machine learning]] models from the `enc
 ### Key Activities
 - **[[Workflow]] [[Integration]]**: Detailed the necessary Jupyter Notebooks and [[GitHub]] Actions for reprocessing data.
 - **Error Resolution**: Addressed [[GitHub]] token permissions errors by creating a Personal Access Token (PAT) and modifying workflows.
-- **Token [[Configuration]]**: Configured PAT scopes to enable repository dispatch events.
+- **Token Configuration**: Configured PAT scopes to enable repository dispatch events.
 - **[[Troubleshooting]]**: Systematically resolved 'Bad credentials' and 403 errors by verifying token scopes, repository permissions, and [[API]] endpoints.
 - **Secrets Management**: Managed and utilized secrets in [[GitHub]] repositories to ensure secure handling of sensitive information.
 

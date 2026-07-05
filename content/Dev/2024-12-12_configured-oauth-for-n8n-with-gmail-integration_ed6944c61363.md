@@ -26,7 +26,7 @@ The session aimed to troubleshoot and configure OAuth authentication for n8n usi
 
 ### Key Activities
 - **[[Troubleshooting]] OAuth Setup:** Addressed common OAuth setup problems in n8n, focusing on redirect errors, defining scopes, and adding test users.
-- **Configuring OAuth with Gmail:** Detailed setup process in Google Cloud Console and n8n, including [[configuration]] and error resolution.
+- **Configuring OAuth with Gmail:** Detailed setup process in Google Cloud Console and n8n, including configuration and error resolution.
 - **Redirect URI Setup:** Established correct Authorized Redirect URIs for local development using [[Flask]] and ngrok.
 - **Credential Issue Resolution:** Validated scopes, updated redirect URIs, and configured credentials to resolve mismatches in Google OAuth.
 - **[[Flask]] App [[Integration]]:** Verified [[Flask]] app in development mode, integrated with n8n for OAuth, and prepared for [[deployment]] to Google App Engine.

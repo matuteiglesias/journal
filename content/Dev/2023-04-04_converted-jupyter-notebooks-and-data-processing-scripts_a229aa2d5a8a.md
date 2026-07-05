@@ -27,12 +27,12 @@ The session aimed to automate the conversion of Jupyter notebooks to Markdown fo
 **Key Activities:**
 - Converted Jupyter notebook scripts to Markdown, ensuring proper formatting with escaped code blocks.
 - Introduced a Data Cleaning Notebook for processing electoral data, detailing its structure and functionalities.
-- Provided [[Python]] code snippets for converting [[DataFrame]] column names to lowercase using [[Pandas]].
+- Provided [[Python]] code snippets for converting DataFrame column names to lowercase using [[Pandas]].
 - Demonstrated methods for storing and reading dictionaries in [[JSON]] and [[CSV]] formats.
 - Modified [[Python]] code for [[CSV]] data transformation by adding file tag columns and saving results to a single [[CSV]] file.
 - Showcased data transformation and merging techniques in [[Pandas]], including handling non-unique section names.
 - Discussed optimizing data grouping in [[Pandas]] using the `groupby` function.
-- Provided code for grouping and extracting modal values in a [[DataFrame]] based on specific criteria.
+- Provided code for grouping and extracting modal values in a DataFrame based on specific criteria.
 - Demonstrated saving a [[Python]] dictionary to a [[JSON]] file using the [[json]] module.
 
 **Achievements:**

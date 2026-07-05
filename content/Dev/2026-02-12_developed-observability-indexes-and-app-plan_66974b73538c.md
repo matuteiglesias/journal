@@ -22,17 +22,17 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to develop and outline the architecture and execution plan for an Observability Indexes Contract and a corresponding app using Next.js.
+The session aimed to develop and outline the [[architecture]] and execution plan for an Observability Indexes Contract and a corresponding app using Next.js.
 
 ### Key Activities
-- Reviewed the architecture and requirements for the Observability Indexes Contract, focusing on necessary components and UI-backend interface.
+- Reviewed the [[architecture]] and requirements for the Observability Indexes Contract, focusing on necessary components and UI-backend interface.
 - Provided bash commands for displaying files related to observability, enhancing [[file management]] with [[JSON]] and YAML.
 - Demonstrated [[Python]] code for loading and counting lines in JSONL files, enhancing [[data processing]] capabilities.
 - Drafted a manual for the Observability Indexes Contract, detailing UI-backend interactions and responsibilities.
 - Outlined a design and execution plan for a Next.js-based observability app, including features, screens, and development timeline.
 
 ### Achievements
-- Clarified the architecture and requirements for the Observability Indexes Contract.
+- Clarified the [[architecture]] and requirements for the Observability Indexes Contract.
 - Created a draft manual for the contract, specifying UI and backend interactions.
 - Developed a comprehensive plan for building an observability app with Next.js.
 

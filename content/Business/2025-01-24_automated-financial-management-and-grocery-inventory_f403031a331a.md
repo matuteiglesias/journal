@@ -30,7 +30,7 @@ The session aimed to automate financial management processes and manage grocery 
 - Extracted grocery bill details using OCR and created [[CSV]] files for [[data management]].
 - Developed a product table for inventory management, detailing categories, types, and prices.
 - Outlined a comprehensive financial management structure and [[automation]] plan, focusing on dashboards and tools for expense tracking.
-- Executed [[Python]] code for [[DataFrame]] manipulation in [[Pandas]], handling NaN values and `pd.NA` errors.
+- Executed [[Python]] code for DataFrame manipulation in [[Pandas]], handling NaN values and `pd.NA` errors.
 - Generated monthly financial reports with HTML export using [[Python]].
 
 ### Achievements

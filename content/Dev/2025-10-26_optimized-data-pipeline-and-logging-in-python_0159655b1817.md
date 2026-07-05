@@ -26,7 +26,7 @@ The session aimed to address immediate issues in a [[data processing]] pipeline,
 
 ### Key Activities
 - Implemented code fixes and optimizations to resolve disk space issues and logging errors in the data pipeline.
-- Corrected `ValueError` in [[Python]] logging by adjusting the formatter setup and applied a hard reset to the logging [[configuration]] to clear existing handlers.
+- Corrected `ValueError` in [[Python]] logging by adjusting the formatter setup and applied a hard reset to the logging configuration to clear existing handlers.
 - Conducted live health checks and validations to ensure data integrity and error detection in the pipeline.
 - Addressed a scoping bug in a data ingestion script to prevent `NameError` by ensuring proper initialization of logging variables.
 - Outlined a plan for an [[SEO]]-friendly README for an election data repository, focusing on technical [[documentation]] and [[SEO]] [[optimization]].

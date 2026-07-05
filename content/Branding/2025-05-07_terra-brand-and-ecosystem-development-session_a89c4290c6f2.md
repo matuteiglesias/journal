@@ -33,7 +33,7 @@ The session aimed to introduce the Terra brand and define its technical and myth
 
 ### Achievements
 - Established a clear product vision and narrative design for Terra.
-- Made key technical and product decisions, enhancing the project's architecture and [[deployment]].
+- Made key technical and product decisions, enhancing the project's [[architecture]] and [[deployment]].
 - Developed a comprehensive [[strategy]] for community growth and monetization.
 
 ### Pending Tasks

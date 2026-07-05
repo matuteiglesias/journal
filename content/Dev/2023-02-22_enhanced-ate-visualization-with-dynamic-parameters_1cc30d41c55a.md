@@ -22,13 +22,13 @@ generated: true
 ## Description
 
 ### Session Goal
-The aim of this session was to enhance the [[visualization]] of the Average Treatment Effect (ATE) in [[Python]] by developing and refining functions that plot ATE lines on various types of plots, including box plots and scatter plots.
+The aim of this session was to enhance the visualization of the Average Treatment Effect (ATE) in [[Python]] by developing and refining functions that plot ATE lines on various types of plots, including box plots and scatter plots.
 
 ### Key Activities
 - Developed a [[Python]] function to define and plot ATE using seaborn, focusing on box plots to visualize treatment effects.
 - Created a scatterplot function that incorporates ATE lines, using regression coefficients and error bars to depict standard deviations.
 - Implemented the `add_ATE_line` function to add ATE lines to plots, with examples of [[integration]] into scatter plots.
-- Modified the `add_ATE_line` function to accept arrays for plotting multiple ATE lines and to dynamically sweep parameters, enhancing flexibility in [[visualization]].
+- Modified the `add_ATE_line` function to accept arrays for plotting multiple ATE lines and to dynamically sweep parameters, enhancing flexibility in visualization.
 - Updated the `add_ATE_line` function to include default parameters for more streamlined plotting of ATE values.
 
 ### Achievements

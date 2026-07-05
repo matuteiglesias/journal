@@ -28,7 +28,7 @@ The session aimed to refine knowledge management through incremental clustering 
 - **Incremental Clustering Update:** Developed a [[workflow]] for updating high-density clusters, enriching existing ones, and structuring landing pages for knowledge management.
 - **[[GitHub]] Content Packs:** Outlined five content packs to address narrative gaps and showcase projects, including source repositories and maintenance considerations.
 - **Interactive Assets Catalogue:** Created a catalogue of interactive assets for [[GitHub]], detailing their [[integration]] without clutter.
-- **Wiki‐del‐Cerebro Design:** Planned a sustainable knowledge base architecture with data, semantic, and presentation layers.
+- **Wiki‐del‐Cerebro Design:** Planned a sustainable knowledge base [[architecture]] with data, semantic, and presentation layers.
 - **[[AI]] Authority Playbook:** Developed a playbook for establishing authority in [[AI]] workflows through evidence and maintenance strategies.
 - **Obsidian Vault [[Deployment]]:** Designed a lean [[deployment]] plan for converting an Obsidian vault into a public website with privacy considerations.
 

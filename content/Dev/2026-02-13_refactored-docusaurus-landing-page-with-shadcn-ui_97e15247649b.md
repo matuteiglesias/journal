@@ -28,7 +28,7 @@ The primary aim was to refactor the [[Docusaurus]] landing page, integrating Sha
 - **Re-upload and Request for Files:** Initiated by requesting specific [[Docusaurus]] source files to proceed with modifications, focusing on rewriting the landing page and integrating UI components.
 - **Hero Page Design:** Requested current [[Docusaurus]] files to transform the hero page, emphasizing outcome-driven messaging and [[AI]] [[integration]].
 - **Component Summary:** Summarized the components of the [[Docusaurus]] homepage, detailing the structure and styling of the main React component, associated CSS files, and a sample markdown page.
-- **Landing Page Architecture:** Outlined a structured landing page architecture for [[Docusaurus]], incorporating shadcn UI components.
+- **Landing Page [[Architecture]]:** Outlined a structured landing page [[architecture]] for [[Docusaurus]], incorporating shadcn UI components.
 - **Production Setup:** Set up a [[Docusaurus]] project with Shadcn UI, including installation steps and a clean homepage.
 - **Node and Tailwind Setup:** Provided instructions for resolving compatibility issues between Node.js and Tailwind CSS.
 - **Manual Installation:** Detailed the manual installation process for shadcn components in a [[Docusaurus]] project.

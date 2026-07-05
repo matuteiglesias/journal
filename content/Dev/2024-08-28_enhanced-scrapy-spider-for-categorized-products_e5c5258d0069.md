@@ -25,7 +25,7 @@ generated: true
 The session aimed to enhance the functionality of a Scrapy spider for [[web scraping]] and data export, particularly focusing on categorized products.
 
 **Key Activities:**
-- Developed a [[Python]] function to remove outliers from a [[DataFrame]] using standard deviation.
+- Developed a [[Python]] function to remove outliers from a DataFrame using standard deviation.
 - Reviewed a report summarizing the performance of a spider scraping operation, including [[optimization]] suggestions.
 - Implemented strategies to optimize Scrapy spider performance, focusing on asynchronous processing and data handling.
 - Explored value investing principles applied to retail purchases and opportunistic purchasing strategies.

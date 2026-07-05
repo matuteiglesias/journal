@@ -26,7 +26,7 @@ The session aimed to enhance a Hugo-based website by integrating advanced search
 
 ### Key Activities
 - Implemented real-time client-side search using Lunr.js, which allows fast and efficient search capabilities without requiring a backend.
-- Integrated Algolia search functionality into a Hugo theme, involving [[configuration]], HTML modifications, and JavaScript for handling search operations.
+- Integrated Algolia search functionality into a Hugo theme, involving configuration, HTML modifications, and JavaScript for handling search operations.
 - Added a floating Table of Contents (TOC) using Hugo's built-in features and custom layouts to improve navigation.
 - Developed a sidebar TOC to enhance navigation without altering the existing layout and CSS.
 - Fixed sidebar navigation to include a global sidebar and a page-specific TOC.

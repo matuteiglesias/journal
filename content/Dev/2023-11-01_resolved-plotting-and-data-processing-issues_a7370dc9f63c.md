@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to address and resolve technical issues in [[data [[visualization]]]] and processing using [[Python]], specifically focusing on plotting functions and data aggregation.
+The session aimed to address and resolve technical issues in [[data visualization]] and processing using [[Python]], specifically focusing on plotting functions and data aggregation.
 
 ### Key Activities
 - **Fixing Group Indexing in Plotting Function**: Adapted code to handle group indexing in a plotting function, ensuring correct summation of `votos_cantidad` for visual representation.

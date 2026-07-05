@@ -31,7 +31,7 @@ The session aimed to diagnose and troubleshoot issues with the ActivityWatch ser
 - Verified [[API]] responses and database file existence to address potential data loss and redirect handling issues.
 - Reflected on the ActivityWatch database status, confirming the existence of historical data despite misleading UI indications.
 - Inspected the ActivityWatch database schema to identify table structures and correct SQL query assumptions.
-- Compiled a comprehensive guide for operating and [[troubleshooting]] ActivityWatch on Ubuntu, detailing system architecture, diagnosis steps, and recovery procedures.
+- Compiled a comprehensive guide for operating and [[troubleshooting]] ActivityWatch on Ubuntu, detailing system [[architecture]], diagnosis steps, and recovery procedures.
 
 ### Achievements
 - Successfully identified and corrected misunderstandings in SQL queries related to the ActivityWatch database schema.

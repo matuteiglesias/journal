@@ -22,14 +22,14 @@ generated: true
 ## Description
 
 ### Session Goal
-The goal of this session was to enhance [[data [[visualization]]]] techniques using [[Python]], specifically focusing on [[Matplotlib]] and Seaborn libraries.
+The goal of this session was to enhance [[data visualization]] techniques using [[Python]], specifically focusing on [[Matplotlib]] and Seaborn libraries.
 
 ### Key Activities
 - Customized the placement of boxplots in [[Matplotlib]] to overcome Seaborn's limitations, including handling missing data points.
 - Implemented conditional x-axis ticks and labels for subplots in [[Matplotlib]], allowing for dynamic adjustments based on row indices.
 - Added annotations and epigraphs to graphs to highlight voting trends, particularly in the AMBA region, using [[Matplotlib]] and Seaborn.
 - Developed a structured epigraph template for analyzing vote distributions by income and party in Argentina, emphasizing geographical and socioeconomic patterns.
-- Adjusted graph sizes and spacing using [[Matplotlib]] and Seaborn to improve [[data [[visualization]]]] aesthetics.
+- Adjusted graph sizes and spacing using [[Matplotlib]] and Seaborn to improve [[data visualization]] aesthetics.
 
 ### Achievements
 - Successfully implemented advanced customization of boxplots and subplots in [[Matplotlib]].
@@ -37,7 +37,7 @@ The goal of this session was to enhance [[data [[visualization]]]] techniques us
 - Improved overall graph presentation and layout for better visual communication.
 
 ### Pending Tasks
-- Further exploration of advanced [[visualization]] techniques for more complex datasets.
+- Further exploration of advanced visualization techniques for more complex datasets.
 
 ## Evidence
 

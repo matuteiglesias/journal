@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal:
-The primary goal of this session was to develop section pages for [[data [[visualization]]]] and applied statistics in Hugo, followed by deploying the updated site to [[GitHub]] Pages.
+The primary goal of this session was to develop section pages for [[data visualization]] and applied statistics in Hugo, followed by deploying the updated site to [[GitHub]] Pages.
 
 ### Key Activities:
 - **Created Section Pages**: Developed index pages for 'Visualización y Análisis de Datos' and 'Probabilidad y Estadística Aplicada', ensuring the correct folder structure and setup commands were in place.

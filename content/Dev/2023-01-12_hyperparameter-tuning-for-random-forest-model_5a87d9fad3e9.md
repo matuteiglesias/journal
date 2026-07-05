@@ -26,10 +26,10 @@ The session aimed to optimize the performance of a Random Forest model by iterat
 
 **Key Activities:**
 - Implemented [[Python]] code to evaluate a Random Forest model's performance by iterating over different values of the `max_depth` hyperparameter and calculating the mean absolute error (MAE) for both training and test sets.
-- Demonstrated the use of `pd.concat()` for more efficient [[DataFrame]] concatenation in [[Pandas]], as opposed to the `append()` method.
+- Demonstrated the use of `pd.concat()` for more efficient DataFrame concatenation in [[Pandas]], as opposed to the `append()` method.
 - Addressed a feature name warning in `RandomForestClassifier` by ensuring correct feature names during model fitting.
-- Explained the use of the index parameter in the `pd.[[DataFrame]]()` constructor and provided examples for combining DataFrames.
-- Aggregated model performance metrics by grouping a [[DataFrame]] by model parameters and calculating training and testing MAE.
+- Explained the use of the index parameter in the `pd.DataFrame()` constructor and provided examples for combining DataFrames.
+- Aggregated model performance metrics by grouping a DataFrame by model parameters and calculating training and testing MAE.
 - Calculated quantiles for model evaluation metrics using the `quantile()` method in [[Pandas]].
 
 **Achievements:**

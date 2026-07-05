@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal:
-The session aimed to develop and refine [[Python]] tools for generating color palettes and manipulating [[JSON]] style files, focusing on enhancing [[data [[visualization]]]] capabilities and [[JSON]] data handling.
+The session aimed to develop and refine [[Python]] tools for generating color palettes and manipulating [[JSON]] style files, focusing on enhancing [[data visualization]] capabilities and [[JSON]] data handling.
 
 ### Key Activities:
 - **Color Palette Generation**: Developed and corrected [[Python]] functions to generate color palettes from base colors, utilizing hex and RGB conversions, and ensuring customizable steps. This involved creating plots using `[[matplotlib]]` to visualize the color groups.

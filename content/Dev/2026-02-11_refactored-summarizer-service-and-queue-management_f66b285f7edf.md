@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to enhance the Summarizer Service's architecture and its associated queue management system to improve efficiency and maintainability.
+The session aimed to enhance the Summarizer Service's [[architecture]] and its associated queue management system to improve efficiency and maintainability.
 
 ### Key Activities
 - Implemented structural changes to the Summarizer Service, focusing on [[refactoring]] the data model, code structure, and runtime contract.

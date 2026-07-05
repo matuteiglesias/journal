@@ -30,7 +30,7 @@ The session aimed to refactor the data pipeline for Stage 01, implement orchestr
 - **Migration [[Strategy]] for Predictive Module**: Outlined a [[strategy]] to transform Stage 01 into a callable module, including orchestration logic migration and file restructuring.
 - **Orchestration Implementation**: Developed an orchestration layer for Stage 01, defining key functions for processing labor-market inputs.
 - **Smoke Runner Implementation**: Implemented a smoke runner in `run_smoke.py` to dispatch stages conservatively and handle errors.
-- **Migration Memo for IP-UBA Pipeline**: Documented the migration [[strategy]] and current status for transitioning the IP-UBA pipeline to a new architecture.
+- **Migration Memo for IP-UBA Pipeline**: Documented the migration [[strategy]] and current status for transitioning the IP-UBA pipeline to a new [[architecture]].
 
 ### Achievements
 - Successfully refactored the data pipeline for Stage 01, enhancing maintainability and modularity.
@@ -38,8 +38,8 @@ The session aimed to refactor the data pipeline for Stage 01, implement orchestr
 - Developed a smoke testing framework to validate pipeline stages.
 
 ### Pending Tasks
-- Further testing and validation of the new pipeline architecture.
-- Complete the migration of remaining modules to the new architecture.
+- Further testing and validation of the new pipeline [[architecture]].
+- Complete the migration of remaining modules to the new [[architecture]].
 
 ## Evidence
 

@@ -27,7 +27,7 @@ The goal of this session was to develop and refine [[Python]] scripts for [[web 
 ### Key Activities
 - Developed a [[Python]] script utilizing Selenium and BeautifulSoup to extract student information from web pages, storing data in [[pandas]] DataFrames while avoiding duplicates based on URL IDs.
 - Modified Selenium scripts to manage browser sessions and tabs effectively, enhancing [[error handling]] to improve script robustness.
-- Implemented changes to handle empty tables and deprecated warnings, optimizing [[DataFrame]] concatenation using `pd.concat` instead of `append`.
+- Implemented changes to handle empty tables and deprecated warnings, optimizing DataFrame concatenation using `pd.concat` instead of `append`.
 - Updated scripts to print HTML structures using BeautifulSoup's `prettify` method and ensured proper page loading with [[error handling]] mechanisms.
 
 ### Achievements

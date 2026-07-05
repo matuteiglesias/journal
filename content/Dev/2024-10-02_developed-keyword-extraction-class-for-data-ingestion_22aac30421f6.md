@@ -30,7 +30,7 @@ The session aimed to develop a keyword extraction class to process various data 
 - Confirmed readiness to integrate the keyword extraction class into a data ingestion pipeline.
 
 ### Achievements
-- Successfully outlined the architecture for a flexible data ingestion and processing system.
+- Successfully outlined the [[architecture]] for a flexible data ingestion and processing system.
 - Established a clear plan for implementing keyword extraction and classification, setting the stage for further development.
 
 ### Pending Tasks

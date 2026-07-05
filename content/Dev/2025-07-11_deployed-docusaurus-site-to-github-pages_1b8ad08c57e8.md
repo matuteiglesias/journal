@@ -25,7 +25,7 @@ generated: true
 The primary goal of this session was to deploy a [[Docusaurus]]-based thesis site to [[GitHub]] Pages, ensuring a smooth setup and [[deployment]] process.
 
 ### Key Activities
-- Followed a step-by-step guide and checklist for hosting a [[Docusaurus]] site on [[GitHub]] Pages, including [[configuration]] and [[deployment]].
+- Followed a step-by-step guide and checklist for hosting a [[Docusaurus]] site on [[GitHub]] Pages, including configuration and [[deployment]].
 - Executed a systematic [[deployment]] plan addressing repository checks, npm warnings, and project settings.
 - Set up a dual-branch [[deployment]] [[strategy]] and initialized a local [[Docusaurus]] repository linked to [[GitHub]].
 - Employed the command `GIT_USER=matias npm run deploy` for automated [[deployment]], ensuring correct [[GitHub]] user settings.

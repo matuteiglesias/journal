@@ -28,7 +28,7 @@ The session aimed to conduct a comprehensive analysis of income sources, financi
 - Analyzed income sources from various properties for the years 2023 and 2024, identifying opportunities for income [[optimization]] and diversification.
 - Reviewed financial contributions and monthly expenses using a stacked bar chart to identify trends and patterns from January 2022 to November 2025.
 - Developed a comprehensive financial balance including assets, liabilities, and projections for 2023 and 2024, with strategic recommendations for sustainability.
-- Proposed a clear accounting structure for organizing assets and liabilities in Google Sheets, complete with examples and data entry guidance.
+- Proposed a clear [[accounting]] structure for organizing assets and liabilities in Google Sheets, complete with examples and data entry guidance.
 - Provided a template for analyzing key financial metrics, covering assets, income, liabilities, and loans with specific formulas and examples.
 - Refined the financial overview structure to improve organization, categorization, and readability, and offered recommendations for enhancements.
 - Delivered raw [[CSV]] data for a financial overview, detailing categories, projected incomes, and liabilities for 2022 to 2025.
@@ -38,7 +38,7 @@ The session aimed to conduct a comprehensive analysis of income sources, financi
 - Established a clear framework for future financial planning and analysis, enhancing the strategic direction for the family business.
 
 ### Pending Tasks
-- Implement the proposed accounting structure and financial metrics analysis in the operational systems.
+- Implement the proposed [[accounting]] structure and financial metrics analysis in the operational systems.
 - Continue refining financial projections and explore additional income diversification strategies.
 
 ## Evidence

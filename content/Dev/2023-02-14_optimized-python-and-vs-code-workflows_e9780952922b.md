@@ -29,11 +29,11 @@ The session aimed to enhance [[productivity]] and efficiency in software develop
 - Disabled [[GitHub]] Copilot suggestions and enabled path suggestions in VS Code.
 - Ran tests and configured [[Python]] interpreter settings in VS Code.
 - Enhanced a [[Python]] file search function and addressed memory usage on Ubuntu.
-- Solved [[Pandas]]' `ValueError` and transitioned from `append()` to `concat()` for [[DataFrame]] operations.
+- Solved [[Pandas]]' `ValueError` and transitioned from `append()` to `concat()` for DataFrame operations.
 
 ### Achievements
 - Successfully configured VS Code for better coding efficiency by managing suggestions and shortcuts.
-- Improved [[Python]] scripts for file handling and [[DataFrame]] operations, ensuring future compatibility and [[error handling]].
+- Improved [[Python]] scripts for file handling and DataFrame operations, ensuring future compatibility and [[error handling]].
 - Analyzed and optimized system memory usage on Ubuntu for smoother performance.
 
 ### Pending Tasks

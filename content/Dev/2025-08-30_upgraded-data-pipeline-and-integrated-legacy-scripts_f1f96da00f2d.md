@@ -29,10 +29,10 @@ The session aimed to address critical breakpoints in the [[data processing]] pip
 - Developed a plan for two pull requests to enhance data integrity and processing efficiency.
 - Integrated legacy lane scripts into the backend system, including necessary patches and adapter creation.
 - Implemented [[Python]] scripts with systemd for a queue-driven pipeline in a media monitoring application.
-- Created a detailed mermaid diagram to illustrate the architecture of the news processing system.
+- Created a detailed mermaid diagram to illustrate the [[architecture]] of the news processing system.
 - Enhanced fast iteration and reruns in [[data processing]] workflows using CLI tools and testing strategies.
-- Refactored a [[Python]] project structure for clarity and efficiency by optimizing Makefile usage and [[debugging]] processes.
-- Explored systemd and Makefile [[integration]] for [[automation]] and scheduling tasks.
+- Refactored a [[Python]] project structure for clarity and efficiency by optimizing [[Makefile]] usage and [[debugging]] processes.
+- Explored systemd and [[Makefile]] [[integration]] for [[automation]] and scheduling tasks.
 
 ### Achievements:
 - Successfully outlined and initiated upgrades for the data pipeline.
@@ -43,7 +43,7 @@ The session aimed to address critical breakpoints in the [[data processing]] pip
 ### Pending Tasks:
 - Complete the pull requests for data pipeline upgrades.
 - Finalize the [[integration]] of legacy scripts with backend models.
-- Continue refining [[automation]] processes with systemd and Makefile.
+- Continue refining [[automation]] processes with systemd and [[Makefile]].
 - Address any remaining issues with [[Python]] module imports and Pydantic decorators.
 
 ## Evidence

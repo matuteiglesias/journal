@@ -30,7 +30,7 @@ The session aimed to optimize [[web scraping]] processes for time-series data co
 - **Project Structuring**: Outlined a reorganized directory structure for a crawler project to improve clarity and scalability, particularly with PostgreSQL [[integration]].
 - **Database Management**: Developed SQL scripts for PostgreSQL database initialization, migration, and backup using cron jobs.
 - **Code Review and Testing**: Created a checklist for reviewing crawler code compatibility with the new directory structure and tested the functionality of the Scrapy crawler.
-- **[[Troubleshooting]]**: Addressed issues related to Scrapy project recognition and module import errors, providing solutions for [[configuration]] and environment adjustments.
+- **[[Troubleshooting]]**: Addressed issues related to Scrapy project recognition and module import errors, providing solutions for configuration and environment adjustments.
 - **[[Debugging]]**: Utilized ipdb for [[debugging]] Scrapy spiders, focusing on variable examination and execution flow.
 
 ### Achievements

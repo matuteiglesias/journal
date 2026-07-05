@@ -28,8 +28,8 @@ The session aimed to improve the development environment in Visual Studio Code a
 - **Visual Studio Code Customization**: Changed color themes and appearance settings such as font size and line spacing.
 - **[[GitHub]] Copilot Activation**: Activated [[GitHub]] Copilot in Visual Studio Code, including [[troubleshooting]] common issues.
 - **[[Documentation]]**: Developed an improved outline for the README.md file for the IGN_INDEC_georef repository, detailing installation instructions for [[Python]] modules.
-- **Data Manipulation**: Provided guidance on selecting specific columns from a [[DataFrame]] and resolved a KeyError related to mismatched [[DataFrame]] columns.
-- **[[Data Processing]]**: Converted year values to string format in a [[DataFrame]] to enhance data manipulation capabilities.
+- **Data Manipulation**: Provided guidance on selecting specific columns from a DataFrame and resolved a KeyError related to mismatched DataFrame columns.
+- **[[Data Processing]]**: Converted year values to string format in a DataFrame to enhance data manipulation capabilities.
 
 ### Achievements
 - Successfully customized Visual Studio Code settings to improve coding efficiency.

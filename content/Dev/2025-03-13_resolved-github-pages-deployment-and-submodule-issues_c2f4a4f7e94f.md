@@ -27,7 +27,7 @@ The primary goal of this session was to troubleshoot and fix [[deployment]] issu
 ### Key Activities
 - **Diagnosed [[GitHub]] Pages [[Deployment]] Issues**: Implemented a systematic approach to verify settings, force push updates, and clear caches to ensure [[GitHub]] Pages updated correctly.
 - **Fixed [[GitHub]] Actions [[Deployment]] Failure**: Addressed a missing submodule in a Hugo project by re-adding the submodule, verifying the `.gitmodules` file, and triggering a new [[deployment]].
-- **Resolved [[Git]] Submodule Issues**: Corrected [[configuration]] errors by removing and re-adding broken submodules, ensuring proper tracking and [[deployment]].
+- **Resolved [[Git]] Submodule Issues**: Corrected configuration errors by removing and re-adding broken submodules, ensuring proper tracking and [[deployment]].
 - **Managed [[Git]] Branches**: Updated the `main` branch to align with `gh-pages`, including merging branches and fixing submodule tracking.
 - **Reinstalled Hugo Theme**: Ensured the Techdoc theme for Hugo was correctly installed and built after cleanup.
 - **Disabled Jekyll for Hugo [[Deployment]]**: Created a `.nojekyll` file to prevent Jekyll from interfering with Hugo builds, followed by a site cleanup and redeployment.

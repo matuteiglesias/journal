@@ -35,7 +35,7 @@ The session aimed to troubleshoot and resolve issues related to displaying and s
 ### Achievements
 - Successfully resolved plotting issues in [[Python]] using [[Matplotlib]] and Backtrader.
 - Improved code for handling and saving plot figures.
-- Enhanced plotting [[configuration]] for time series and financial [[data [[visualization]]]].
+- Enhanced plotting configuration for time series and financial [[data visualization]].
 
 ### Pending Tasks
 - Further testing of customized plotting configurations to ensure robustness across different datasets.

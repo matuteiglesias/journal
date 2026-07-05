@@ -22,11 +22,11 @@ generated: true
 ## Description
 
 ### Session Goal
-The goal of this session was to implement and explore various image processing and [[visualization]] techniques using [[Python]] libraries.
+The goal of this session was to implement and explore various image processing and visualization techniques using [[Python]] libraries.
 
 ### Key Activities
 - **Image Loading and Size Retrieval**: Utilized the [[Python]] Imaging Library (PIL) to load images and extract their dimensions from given file paths.
-- **Image Display**: Used [[Matplotlib]] to display images in a 2x3 grid, enhancing understanding of [[data [[visualization]]]] techniques.
+- **Image Display**: Used [[Matplotlib]] to display images in a 2x3 grid, enhancing understanding of [[data visualization]] techniques.
 - **Photography Feedback**: Provided detailed feedback on portrait photography, focusing on framing and portrait mode usage.
 - **Photo Editing [[Workflow]]**: Developed a [[workflow]] for photo editing in Google Photos, emphasizing grading, consistency, and cropping rules.
 

@@ -22,10 +22,10 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to address a memory overflow issue encountered during a multi-level index groupby operation in a [[DataFrame]], optimize the process, and manage memory effectively.
+The session aimed to address a memory overflow issue encountered during a multi-level index groupby operation in a DataFrame, optimize the process, and manage memory effectively.
 
 ### Key Activities
-- Identified the root cause of the memory overflow during [[DataFrame]] groupby operations.
+- Identified the root cause of the memory overflow during DataFrame groupby operations.
 - Discussed the oversight of not importing necessary libraries and planned to correct this mistake.
 - Proceeded with computation using Dask without re-importing modules, focusing on counting unique values in the 'PROP' column.
 - Addressed session statefulness issues and decided to proceed without the `ProgressBar`.

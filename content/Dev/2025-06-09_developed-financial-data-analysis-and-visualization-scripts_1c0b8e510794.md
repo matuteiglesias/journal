@@ -26,7 +26,7 @@ The session aimed to develop and optimize [[Python]] scripts for analyzing and v
 
 ### Key Activities
 - **[[Data Analysis]] Scripts:** Implemented [[Python]] scripts using [[Pandas]] to generate quarterly and annual tables for family contributions and dividends.
-- **[[Visualization]] Enhancements:** Improved [[data [[visualization]]]] by optimizing [[Python]] scripts to create subplots and stacked bar charts, enhancing readability with clear legends and color differentiation.
+- **Visualization Enhancements:** Improved [[data visualization]] by optimizing [[Python]] scripts to create subplots and stacked bar charts, enhancing readability with clear legends and color differentiation.
 - **[[Error Handling]]:** Addressed [[file management]] issues by providing [[troubleshooting]] steps for missing [[CSV]] files and ensuring code robustness.
 - **Narrative and [[Documentation]]:** Enhanced Jupyter Notebooks with narrative points to improve educational commentary and clarity in financial analysis.
 

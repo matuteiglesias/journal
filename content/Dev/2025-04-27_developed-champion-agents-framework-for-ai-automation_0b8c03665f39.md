@@ -29,7 +29,7 @@ The session aimed to develop a comprehensive framework for Champion Agents, focu
 - Explored the concept of Champion Agents as persistent strategic goals and detailed steps for building a Champion Starter Kit.
 - Addressed design questions for the Champion + Mission system, focusing on strategic goals, operational scope, metrics, and risk tolerance.
 - Defined Matías' strategic goals, operational scope, and expansion roadmap for an [[AI]] [[automation]] agency.
-- Proposed a structured approach to operationalize mission architecture, including assigning champion agents and creating a mission tracker.
+- Proposed a structured approach to operationalize mission [[architecture]], including assigning champion agents and creating a mission tracker.
 - Established a curated champion ecosystem tailored to Matías' vision, including core champions, missions, and a launch plan.
 - Outlined a plan for primary, secondary, and optional missions for system building and growth over the next 1-3 months.
 - Provided a daily brief for key roles within an organization to maintain momentum and improve systems.

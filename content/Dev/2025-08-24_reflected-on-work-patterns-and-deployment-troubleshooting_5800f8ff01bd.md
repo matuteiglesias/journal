@@ -27,7 +27,7 @@ The session aimed to reflect on personal [[productivity]] patterns and address t
 ### Key Activities
 - **Reflection on Activity Patterns:** Analyzed personal work rhythms, focusing on burst-consolidation cycles and strategies to manage [[productivity]] and motivation.
 - **Project Analysis:** Reviewed recent work bursts and identified cross-enhancements for better tool [[integration]] across projects.
-- **[[Docusaurus]] [[Deployment]] Guide:** Consulted a guide for deploying [[Docusaurus]] to [[GitHub]] Pages, including [[configuration]] and [[troubleshooting]] steps.
+- **[[Docusaurus]] [[Deployment]] Guide:** Consulted a guide for deploying [[Docusaurus]] to [[GitHub]] Pages, including configuration and [[troubleshooting]] steps.
 - **[[Troubleshooting]] [[Deployment]] Issues:** Addressed and resolved [[deployment]] issues by revoking exposed tokens, ensuring correct package installations, and verifying configurations.
 
 ### Achievements

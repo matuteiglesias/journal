@@ -25,7 +25,7 @@ generated: true
 The session aimed to explore [[automation]] strategies within [[AI]], focusing on data manipulation techniques using [[Pandas]] and analyzing payment adjustments in shared financial responsibilities.
 
 ### Key Activities
-- Discussed the correct usage of `pd.to_numeric` in [[Pandas]] for converting [[DataFrame]] columns to numeric values, addressing common errors in the process.
+- Discussed the correct usage of `pd.to_numeric` in [[Pandas]] for converting DataFrame columns to numeric values, addressing common errors in the process.
 - Provided methods for both bulk and specific column conversions to numeric types in [[Pandas]], including verification techniques.
 - Outlined a structured approach to calculate payment adjustments among parties using [[Python]], detailing observed payments, theoretical contributions, and necessary adjustments.
 - Reviewed and refined a report on shared water service payment contributions and adjustments for 2023 and 2024, highlighting strengths and areas for improvement.

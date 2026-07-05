@@ -25,7 +25,7 @@ generated: true
 The session aimed to troubleshoot and resolve synchronization issues between local files and Google Drive using Rclone.
 
 ### Key Activities
-- **[[Configuration]] Checks**: Verified Rclone configurations, including remote names and service account permissions.
+- **Configuration Checks**: Verified Rclone configurations, including remote names and service account permissions.
 - **Sync Command Execution**: Executed sync commands with Rclone, including dry-runs and actual syncs.
 - **[[Debugging]]**: Addressed file visibility issues in Google Drive, checked file existence, ownership, and permissions.
 - **[[Automation]] Setup**: Considered setting up automated syncs using cron jobs.

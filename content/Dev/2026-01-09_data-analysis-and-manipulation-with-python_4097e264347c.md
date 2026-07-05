@@ -22,13 +22,13 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to perform various data manipulation and analysis tasks using [[Python]], particularly focusing on file I/O operations, data loading, and [[DataFrame]] manipulations.
+The session aimed to perform various data manipulation and analysis tasks using [[Python]], particularly focusing on file I/O operations, data loading, and DataFrame manipulations.
 
 ### Key Activities
 - **Reading Text File**: Implemented a method to read a text file using UTF-8 encoding, providing the number of lines and a preview of the content.
-- **Loading [[JSON]] Data**: Demonstrated loading [[JSON]] data into a [[Pandas]] [[DataFrame]] and displaying its structure.
-- **Counting Combinations**: Grouped [[DataFrame]] by 'stage' and 'role', counting occurrences to generate insights.
-- **Run ID Analysis**: Analyzed common run IDs and filtered [[DataFrame]] based on specific attributes.
+- **Loading [[JSON]] Data**: Demonstrated loading [[JSON]] data into a [[Pandas]] DataFrame and displaying its structure.
+- **Counting Combinations**: Grouped DataFrame by 'stage' and 'role', counting occurrences to generate insights.
+- **Run ID Analysis**: Analyzed common run IDs and filtered DataFrame based on specific attributes.
 - **Data Structure Summary**: Developed a function to summarize data structures, providing insights into the number of columns and field names.
 
 ### Achievements

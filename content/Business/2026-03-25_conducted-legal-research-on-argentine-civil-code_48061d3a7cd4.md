@@ -30,7 +30,7 @@ The session aimed to explore various aspects of the Argentine Civil and Commerci
 - Outlined twelve key principles for managing rental income and common property, emphasizing accountability and transparency among co-heirs.
 - Explored search queries related to inheritance administration and judicial processes in Buenos Aires.
 - Compiled a list of legal articles relevant to the research focus.
-- Reflected on the separation of accounting truths from political-distributive truths in financial management, stressing the importance of traceability.
+- Reflected on the separation of [[accounting]] truths from political-distributive truths in financial management, stressing the importance of traceability.
 
 ### Achievements
 - Established a comprehensive list of search queries and patterns for legal research.

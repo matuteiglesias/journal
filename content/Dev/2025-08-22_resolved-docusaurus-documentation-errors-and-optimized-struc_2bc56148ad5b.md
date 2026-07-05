@@ -27,12 +27,12 @@ The session aimed to reorganize the Atlas [[documentation]] menu structure and r
 ### Key Activities
 - Proposed a new hierarchy for the Atlas [[documentation]] menu to improve logical, semantic, and experiential clarity.
 - Utilized a comprehensive guide for managing index pages and sidebar ordering in [[Docusaurus]], covering both manual and automated methods.
-- Addressed common [[configuration]] errors in [[Docusaurus]], including document ID recognition in sidebars and front matter title settings.
+- Addressed common configuration errors in [[Docusaurus]], including document ID recognition in sidebars and front matter title settings.
 - Implemented solutions for fixing broken internal links in [[Docusaurus]] Markdown using Bash scripts to automate path corrections.
 
 ### Achievements
 - Successfully reorganized the menu structure for the Atlas [[documentation]], enhancing user navigation.
-- Resolved multiple [[configuration]] errors in [[Docusaurus]], ensuring proper document recognition and display.
+- Resolved multiple configuration errors in [[Docusaurus]], ensuring proper document recognition and display.
 - Automated the correction of broken links in Markdown files, improving [[documentation]] integrity.
 
 ### Pending Tasks

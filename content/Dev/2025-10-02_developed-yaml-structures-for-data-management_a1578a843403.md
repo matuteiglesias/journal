@@ -29,9 +29,9 @@ The session aimed to explore and develop YAML structures for various [[data mana
 - Created a reference manual for changes in HOGAR and INDIVIDUAL data structures, including validations and normalization techniques.
 - Explored the use of YAML for defining data structures in databases, emphasizing schema definitions and data validation.
 - Developed a YAML metamodel for structuring EPH data, incorporating logical models and era-specific manifests.
-- Provided a structured YAML [[configuration]] for EPH data mapping, detailing canonical columns and validation rules.
+- Provided a structured YAML configuration for EPH data mapping, detailing canonical columns and validation rules.
 - Drafted a guide for YAML data ingestion and normalization, covering [[error handling]] and era detection.
-- Structured YAML files for EPH and HOGAR systems, focusing on variable mapping and data [[configuration]].
+- Structured YAML files for EPH and HOGAR systems, focusing on variable mapping and data configuration.
 - Outlined YAML structures for household characteristics, survey design, and income metrics, providing templates for [[data management]].
 - Created a compact YAML structure for business data to enhance [[data management]] efficiency.
 - Designed a declarative alignment profile in YAML for [[data processing]] with [[pandas]], promoting reproducibility and clarity.

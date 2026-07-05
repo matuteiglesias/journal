@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal:
-The goal of this session was to enhance and optimize trading strategies using the Backtrader framework, focusing on [[data [[visualization]]]], indicator plotting, and trading logic implementation.
+The goal of this session was to enhance and optimize trading strategies using the Backtrader framework, focusing on [[data visualization]], indicator plotting, and trading logic implementation.
 
 ### Key Activities:
 - **Investment [[Strategy]] Overview:** Reflected on combining technical analysis with systematic trading rules to enhance investment strategies.
@@ -34,7 +34,7 @@ The goal of this session was to enhance and optimize trading strategies using th
   - Modified `OLSResiduals` indicator to ensure unique naming and correct plotting for each ticker.
 
 ### Achievements:
-- Successfully integrated and optimized multiple components of the Backtrader framework to improve trading [[strategy]] execution and [[visualization]].
+- Successfully integrated and optimized multiple components of the Backtrader framework to improve trading [[strategy]] execution and visualization.
 - Enhanced [[data processing]] capabilities and model fitting techniques for better financial analysis.
 
 ### Pending Tasks:

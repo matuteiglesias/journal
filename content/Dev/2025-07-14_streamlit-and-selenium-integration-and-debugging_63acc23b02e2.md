@@ -25,7 +25,7 @@ generated: true
 The session aimed to enhance the [[integration]] between Streamlit applications and Selenium-based [[web scraping]] scripts, focusing on [[debugging]] and [[deployment]] in headless environments.
 
 ### Key Activities
-- Aligned YAML [[configuration]] files for [[PromptFlow]] to ensure compatibility.
+- Aligned YAML configuration files for [[PromptFlow]] to ensure compatibility.
 - Resolved `StoreConnectionEncryptionKeyError` by implementing the `keyrings.alt` package.
 - Configured BYOK [[deployment]] for [[PromptFlow]] without a system keyring.
 - Set up environment variables to prevent keyring errors in Streamlit apps.

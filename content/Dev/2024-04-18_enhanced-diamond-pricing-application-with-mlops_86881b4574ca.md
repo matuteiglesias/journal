@@ -26,7 +26,7 @@ The session aimed to enhance the diamond pricing application by integrating MLOp
 
 **Key Activities:**
 - Evaluated key aspects for candidate assessment in [[data science]] and engineering roles, focusing on technical and soft skills.
-- Summarized [[machine learning]] project components, including [[error handling]], model development, and [[visualization]].
+- Summarized [[machine learning]] project components, including [[error handling]], model development, and visualization.
 - Discussed diamond price prediction project, emphasizing Docker [[optimization]], cloud [[deployment]], and UI design.
 - Reviewed daily project progress, highlighting MVP development, feature enhancements, and model [[integration]].
 - Summarized project enhancements for [[machine learning]] applications, focusing on model retraining and [[API]] updates.

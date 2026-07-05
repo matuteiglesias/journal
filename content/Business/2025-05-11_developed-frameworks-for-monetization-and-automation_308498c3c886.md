@@ -30,7 +30,7 @@ The session aimed to develop and refine frameworks for generating recurring reve
 3. **End-of-Day Checklist**: Reviewed progress on various tasks, including GPT chat structuring and [[SEO]] webpage creation.
 4. **Monetization Transition**: Created checklists for transitioning from internal system-building to external productization and monetization via [[automation]].
 5. **[[AI]]-Powered Academic Knowledge Base**: Planned the development of a knowledge base using RAG to assist academics.
-6. **Obsidian Dashboards**: Outlined the creation of dashboard pages to enhance [[data [[visualization]]]] and [[productivity]] in Obsidian.
+6. **Obsidian Dashboards**: Outlined the creation of dashboard pages to enhance [[data visualization]] and [[productivity]] in Obsidian.
 
 ### Achievements
 - Developed a structured framework for recurring revenue and monetization strategies.

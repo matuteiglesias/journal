@@ -22,14 +22,14 @@ generated: true
 ## Description
 
 ### Session Goal
-The goal of this session was to explore various data manipulation and [[visualization]] techniques using [[Python]], specifically focusing on [[pandas]] and [[data [[visualization]]]] libraries like Seaborn and [[Matplotlib]].
+The goal of this session was to explore various data manipulation and visualization techniques using [[Python]], specifically focusing on [[pandas]] and [[data visualization]] libraries like Seaborn and [[Matplotlib]].
 
 ### Key Activities
-- **[[DataFrame]] Conversion:** Learned how to convert a MultiIndex [[DataFrame]] to a regular [[DataFrame]] using `reset_index` and `to_frame` methods.
+- **DataFrame Conversion:** Learned how to convert a MultiIndex DataFrame to a regular DataFrame using `reset_index` and `to_frame` methods.
 - **Data Reshaping:** Utilized `pivot_table()` and `unstack()` methods for reshaping data from long to wide formats.
-- **Correlation Matrix [[Visualization]]:** Created correlation matrix heatmaps using Seaborn and [[Matplotlib]], and explored transposing matrices for [[visualization]].
-- **Hierarchical Clustering:** Implemented hierarchical clustering on a correlation matrix, including [[visualization]] with dendrograms and PCA.
-- **Data Concatenation:** Demonstrated concatenating [[DataFrame]] columns into a single string using [[pandas]] `apply` function.
+- **Correlation Matrix Visualization:** Created correlation matrix heatmaps using Seaborn and [[Matplotlib]], and explored transposing matrices for visualization.
+- **Hierarchical Clustering:** Implemented hierarchical clustering on a correlation matrix, including visualization with dendrograms and PCA.
+- **Data Concatenation:** Demonstrated concatenating DataFrame columns into a single string using [[pandas]] `apply` function.
 
 ### Achievements
 - Successfully implemented various data manipulation techniques to reshape and visualize data.
@@ -37,7 +37,7 @@ The goal of this session was to explore various data manipulation and [[visualiz
 
 ### Pending Tasks
 - Further exploration of dimensionality reduction techniques and their applications in different datasets.
-- Investigate additional [[data [[visualization]]]] methods for complex datasets.
+- Investigate additional [[data visualization]] methods for complex datasets.
 
 ## Evidence
 

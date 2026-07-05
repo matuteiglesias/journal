@@ -27,8 +27,8 @@ The session aimed to troubleshoot and resolve [[Python]] packaging and environme
 ### Key Activities
 - Focused on packaging, Hugging Face [[deployment]], agent execution [[debugging]], and environment setup.
 - Conducted local testing and [[debugging]] of agent execution, covering pathing fixes, SDK onboarding, and environment management.
-- Debugged and designed a Gradio UI for interactive LLM agents, focusing on execution control, [[error handling]], and architecture [[optimization]].
-- Debugged LLM agent execution failures, system [[configuration]] cleanup, and tool management, leading to a fully functional agent execution pipeline.
+- Debugged and designed a Gradio UI for interactive LLM agents, focusing on execution control, [[error handling]], and [[architecture]] [[optimization]].
+- Debugged LLM agent execution failures, system configuration cleanup, and tool management, leading to a fully functional agent execution pipeline.
 - Explored app [[deployment]] feasibility, voice [[AI]] product ideation, and orchestration systems.
 - Focused on deploying a Gradio-based Cerebrum agent app to Hugging Face Spaces, covering key milestones, technical insights, and tooling highlights.
 - Rebuilt a clean [[Python]] agent development environment, modularized agent deployments to Hugging Face Spaces, and automated processes for reusability and onboarding.

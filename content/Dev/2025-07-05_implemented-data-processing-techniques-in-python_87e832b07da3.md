@@ -27,7 +27,7 @@ The goal of this session was to implement various [[data processing]] techniques
 ### Key Activities
 - **[[Python]] Imports:** Set up import statements for essential libraries such as [[pandas]], os, [[json]], textwrap, math, and re, which are crucial for [[data processing]] tasks.
 - **File Handling:** Demonstrated checking file existence using [[Python]]'s os module.
-- **Data Manipulation:** Loaded an Excel file into a [[pandas]] [[DataFrame]] and read HTML tables into DataFrames, showcasing data import techniques.
+- **Data Manipulation:** Loaded an Excel file into a [[pandas]] DataFrame and read HTML tables into DataFrames, showcasing data import techniques.
 - **Subprocess Management:** Provided a code snippet for managing subprocesses, including [[JSON]] handling and text wrapping.
 - **Library Installation:** Installed the xlrd library for reading Excel files.
 

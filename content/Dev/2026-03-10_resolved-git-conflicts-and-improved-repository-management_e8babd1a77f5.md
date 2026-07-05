@@ -25,7 +25,7 @@ generated: true
 The session aimed to resolve [[Git]] pull conflicts, improve repository management, and establish a clear [[workflow]] for handling [[Git]] repositories effectively.
 
 ### Key Activities
-- **Resolving [[Git]] Pull Conflicts:** Addressed conflicts caused by an untracked local Makefile, using command-line tools to diagnose and safely merge changes from the remote repository.
+- **Resolving [[Git]] Pull Conflicts:** Addressed conflicts caused by an untracked local [[Makefile]], using command-line tools to diagnose and safely merge changes from the remote repository.
 - **Repository Hygiene:** Implemented best practices for managing the working tree, addressing both tracked and untracked files, and ensuring safe staging of changes.
 - **Repository Recovery:** Followed structured steps to recover missing directories and manage notebook versions to prevent data loss.
 - **Local vs Remote Comparison:** Used [[Git]] commands to compare local and remote repository states, inspecting file paths, commit dates, and file sizes.

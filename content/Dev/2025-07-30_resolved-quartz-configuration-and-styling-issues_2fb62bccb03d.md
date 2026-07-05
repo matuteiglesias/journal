@@ -22,12 +22,12 @@ generated: true
 ## Description
 
 ### Session Goal
-The primary objective of this session was to resolve various [[configuration]] and styling issues related to Quartz, a note management system.
+The primary objective of this session was to resolve various configuration and styling issues related to Quartz, a note management system.
 
 ### Key Activities
 - **Diagnosed Path Resolution Issues**: Addressed 404 errors in Quartz's Markdown file access by following a step-by-step guide.
 - **Configured Internal Link Parsing**: Set up internal link parsing and backlinking in Quartz, including necessary plugins and link syntaxes.
-- **Debugged Plugin Errors**: Diagnosed and fixed errors related to the `LinkProcessing` plugin, ensuring compatibility and proper [[configuration]].
+- **Debugged Plugin Errors**: Diagnosed and fixed errors related to the `LinkProcessing` plugin, ensuring compatibility and proper configuration.
 - **Modified Tag Page Rendering**: Moved auto-generated tag pages from the sidebar to the main page body with code adjustments.
 - **Recommended Font Changes**: Suggested sans-serif fonts for modern design and provided implementation steps in SCSS.
 - **Fixed Undefined Component Error**: Resolved an error with an undefined `TagPage` component in Quartz layouts.
@@ -36,7 +36,7 @@ The primary objective of this session was to resolve various [[configuration]] a
 - **Improved Graph Styling**: Enhanced graph layout and label rendering in Quartz using D3.js and CSS adjustments.
 
 ### Achievements
-- Successfully resolved [[configuration]] issues in Quartz, improving path resolution and internal linking.
+- Successfully resolved configuration issues in Quartz, improving path resolution and internal linking.
 - Enhanced the visual styling of Quartz components, including tag pages and graph elements.
 - Fixed multiple SCSS import and build errors, ensuring smooth compilation and execution.
 

@@ -28,7 +28,7 @@ The session aimed to enhance the efficiency and scalability of Retrieval-Augment
 - Developed a plan for scaling RAG by improving knowledge ingestion, embedding, storage, and retrieval processes.
 - Outlined a knowledge management [[optimization]] plan focusing on vector pruning and smart querying.
 - Discussed strategies for managing embedding storage and retrieval efficiency in RAG systems.
-- Provided [[Python]] code for converting file sizes in a [[DataFrame]] to a human-readable format.
+- Provided [[Python]] code for converting file sizes in a DataFrame to a human-readable format.
 - Formulated strategies for managing large files, including categorization and [[automation]].
 - Introduced a Bash command for listing large files and explained its components.
 - Compared different implementations of `process_file_metadata` for performance improvements.

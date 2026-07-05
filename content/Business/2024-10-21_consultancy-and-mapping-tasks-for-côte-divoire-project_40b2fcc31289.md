@@ -29,12 +29,12 @@ The session aimed to address consultancy tasks requested by Prof. Eric Mvukiyehe
 - Drafted responses for clarification and coordination with team members, specifically regarding the Côte d'Ivoire Project and related public works programs.
 - Reviewed and summarized emails from Duke University Procurement Services concerning order management.
 - Conducted financial analysis of purchase orders, highlighting expired and active orders and their implications.
-- Developed a structured plan for [[data analysis]] and [[visualization]], including mapping techniques using [[Python]] and GIS tools.
+- Developed a structured plan for [[data analysis]] and visualization, including mapping techniques using [[Python]] and GIS tools.
 - Coordinated project tasks, emphasizing collaboration and [[integration]] of feedback for the study map.
 
 ### Achievements
 - Clarified tasks and next steps for the Côte d'Ivoire consultancy project.
-- Created a detailed plan for [[data analysis]] and [[visualization]], enhancing [[project management]] and execution.
+- Created a detailed plan for [[data analysis]] and visualization, enhancing [[project management]] and execution.
 - Improved communication and collaboration strategies with team members and external stakeholders.
 
 ### Pending Tasks

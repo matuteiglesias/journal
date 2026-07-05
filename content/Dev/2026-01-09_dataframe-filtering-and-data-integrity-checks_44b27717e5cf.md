@@ -25,19 +25,19 @@ generated: true
 The session aimed to perform data manipulation and integrity checks using [[pandas]] DataFrames.
 
 **Key Activities:**
-1. Filtered a [[DataFrame]] to extract rows where the 'relpath' column contains 'stage_D_materialize', retrieving 'structure' and 'bytes' columns.
-2. Identified missing 'structure' entries in a [[DataFrame]] by filtering for missing values and selecting specific columns.
+1. Filtered a DataFrame to extract rows where the 'relpath' column contains 'stage_D_materialize', retrieving 'structure' and 'bytes' columns.
+2. Identified missing 'structure' entries in a DataFrame by filtering for missing values and selecting specific columns.
 3. Conducted a file manifest comparison to ensure data integrity by identifying missing and extra files.
-4. Filtered a [[DataFrame]] for rows where the 'stage' column equals 'E.reports', retrieving and resetting the index for specific columns.
-5. Extracted ledger-related columns from a [[DataFrame]] based on conditions in 'name' and 'stage'.
-6. Explored narrative business dynamics queries related to accounting storypacks.
+4. Filtered a DataFrame for rows where the 'stage' column equals 'E.reports', retrieving and resetting the index for specific columns.
+5. Extracted ledger-related columns from a DataFrame based on conditions in 'name' and 'stage'.
+6. Explored narrative business dynamics queries related to [[accounting]] storypacks.
 
 **Achievements:**
 - Successfully filtered and extracted relevant data from DataFrames for various conditions.
 - Ensured data integrity through comprehensive file manifest comparisons.
 
 **Pending Tasks:**
-- Further exploration of narrative business dynamics queries for deeper insights into accounting storypacks.
+- Further exploration of narrative business dynamics queries for deeper insights into [[accounting]] storypacks.
 
 ## Evidence
 

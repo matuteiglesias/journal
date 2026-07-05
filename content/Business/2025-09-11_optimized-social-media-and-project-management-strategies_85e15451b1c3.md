@@ -22,11 +22,11 @@ generated: true
 ## Description
 
 **Session Goal:**
-The session aimed to refine social media strategies for LinkedIn and Twitter, and to enhance [[project management]] frameworks through the use of lock-in memos and [[visualization]] tools.
+The session aimed to refine social media strategies for LinkedIn and Twitter, and to enhance [[project management]] frameworks through the use of lock-in memos and visualization tools.
 
 **Key Activities:**
 1. **LinkedIn [[Strategy]]:** Explored best practices for posting frequency and algorithm insights, recommending a [[strategy]] focusing on quality over quantity with 5-8 well-curated posts weekly.
-2. **Twitter Content [[Strategy]]:** Developed a content [[strategy]] for @modernAIDev, including CMS architecture and editorial rules focused on platform-specific signals.
+2. **Twitter Content [[Strategy]]:** Developed a content [[strategy]] for @modernAIDev, including CMS [[architecture]] and editorial rules focused on platform-specific signals.
 3. **[[Project Management]] Frameworks:** Proposed a meso-layer structure for [[project management]] to organize sessions, synthesize memos, and manage risks effectively.
 4. **Lock-in Memo Implementation:** Outlined steps to implement a lock-in memo system using YAML files for session grouping and status memos.
 5. **Mermaid Syntax and Diagrams:** Addressed syntax errors in Mermaid diagrams and developed comprehensive data flow models for governance and [[project management]].

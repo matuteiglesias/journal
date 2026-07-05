@@ -36,7 +36,7 @@ The primary goal of this session was to resolve various issues related to Hugo s
 ### Achievements
 - Successfully resolved URL structure issues and ensured all links are functional.
 - Fixed [[Git]] errors and ensured proper branch setup for [[deployment]].
-- Achieved successful [[deployment]] of the Hugo site on [[GitHub]] Pages, with proper URL [[configuration]] and site updates.
+- Achieved successful [[deployment]] of the Hugo site on [[GitHub]] Pages, with proper URL configuration and site updates.
 
 ### Pending Tasks
 - Monitor the deployed site for any further issues or improvements needed.

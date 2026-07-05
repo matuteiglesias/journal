@@ -34,7 +34,7 @@ The session aimed to implement and troubleshoot various [[automation]] workflows
 
 **Achievements:**
 - Successfully outlined and began implementation of foundational workflows for n8n onboarding.
-- Resolved issues with n8n export command and Rclone [[configuration]].
+- Resolved issues with n8n export command and Rclone configuration.
 - Established a plan for serving [[workflow]] backups via URL for [[integration]] with other tools.
 
 **Pending Tasks:**

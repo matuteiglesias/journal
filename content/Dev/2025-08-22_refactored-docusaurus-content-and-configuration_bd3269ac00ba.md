@@ -22,19 +22,19 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to refactor and improve the [[Docusaurus]] [[documentation]] setup by replacing `:contentReference` directives with relative Markdown links, enhancing [[configuration]], and resolving errors.
+The session aimed to refactor and improve the [[Docusaurus]] [[documentation]] setup by replacing `:contentReference` directives with relative Markdown links, enhancing configuration, and resolving errors.
 
 ### Key Activities
 - Implemented Bash one-liners to automate the replacement of `:contentReference` directives in Markdown files.
 - Debugged sed and grep usage to ensure error-free execution of scripts.
-- Improved [[Docusaurus]] [[configuration]] by addressing base URL management and migrating to ESM style.
-- Enhanced sidebar [[configuration]] for better navigation and usability.
+- Improved [[Docusaurus]] configuration by addressing base URL management and migrating to ESM style.
+- Enhanced sidebar configuration for better navigation and usability.
 - Automated [[JSON]] category generation for [[Docusaurus]] structure.
-- Resolved rendering mismatches and [[configuration]] errors related to sidebar and tags.
+- Resolved rendering mismatches and configuration errors related to sidebar and tags.
 
 ### Achievements
 - Successfully refactored content references in [[Docusaurus]] [[documentation]].
-- Improved the [[configuration]] for better local development and [[deployment]].
+- Improved the configuration for better local development and [[deployment]].
 - Enhanced navigation and usability of the [[Docusaurus]] site.
 
 ### Pending Tasks

@@ -40,7 +40,7 @@ The session aimed to refactor and enhance the course management system by improv
 - Developed a hybrid solution for exercise fetching, ensuring backward compatibility and future flexibility.
 - Enhanced frontend rendering logic with dynamic and modular structures.
 - Improved [[Flask]] routing and [[error handling]] for course-specific exercises.
-- Established a robust logging [[configuration]] in [[Flask]] for development.
+- Established a robust logging configuration in [[Flask]] for development.
 - Proposed CSS improvements for better readability and user experience.
 
 ### Pending Tasks

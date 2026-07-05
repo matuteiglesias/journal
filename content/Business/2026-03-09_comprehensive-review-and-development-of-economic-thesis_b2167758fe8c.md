@@ -30,13 +30,13 @@ The session aimed to evaluate and develop a comprehensive thesis on economic agg
 - Continued the development of an aggregation framework, highlighting partitions, non-linear transforms, and covariance.
 - Analyzed the extension of the Law of Large Numbers (LLN) in economic aggregation, incorporating micro fluctuations and covariance structures.
 - Conducted search queries for locating specific documents related to aggregation, size distribution, and volatility.
-- Summarized key findings on empirical closure and variance architecture, emphasizing size heterogeneity and covariance estimation.
+- Summarized key findings on empirical closure and variance [[architecture]], emphasizing size heterogeneity and covariance estimation.
 - Reviewed the Aggregation section and appendices, critiquing standard economic practices and operationalizing a broader framework.
 
 **Achievements:**
 - Clarified the importance of nonlinear aggregation in macroeconomic dynamics.
 - Developed a comprehensive framework challenging conventional economic shortcuts.
-- Identified the significance of off-diagonal terms in variance architecture.
+- Identified the significance of off-diagonal terms in variance [[architecture]].
 
 **Pending Tasks:**
 - Further exploration of search queries to enhance thesis content.

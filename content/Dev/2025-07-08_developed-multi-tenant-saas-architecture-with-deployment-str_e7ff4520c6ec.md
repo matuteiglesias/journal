@@ -22,11 +22,11 @@ generated: true
 ## Description
 
 **Session Goal:**
-The goal of this session was to explore and plan the development of a multi-tenant SaaS architecture using Streamlit, FastAPI, and other cloud services. The session aimed to outline the necessary steps for transitioning from CLI tools to a scalable SaaS application.
+The goal of this session was to explore and plan the development of a multi-tenant SaaS [[architecture]] using Streamlit, FastAPI, and other cloud services. The session aimed to outline the necessary steps for transitioning from CLI tools to a scalable SaaS application.
 
 **Key Activities:**
 - Discussed the limitations of Streamlit for multi-user support and evaluated options for implementing multi-tenancy, including minimal authentication and backend [[integration]] with JWT.
-- Outlined a strategic plan for transitioning CLI tools to a multi-user SaaS architecture, considering architectural changes and technology stack options.
+- Outlined a strategic plan for transitioning CLI tools to a multi-user SaaS [[architecture]], considering architectural changes and technology stack options.
 - Compared Hugging Face Spaces and Google Cloud Platform for deploying FastAPI applications, analyzing pros and cons for each.
 - Developed a six-phase sprint plan for SaaS development, detailing goals, tasks, and deliverables from prototype to paywall implementation.
 - Created a detailed guide for deploying FastAPI applications to Google Cloud Run, including Dockerfile creation and domain mapping.

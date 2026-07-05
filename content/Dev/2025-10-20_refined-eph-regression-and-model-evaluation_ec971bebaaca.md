@@ -27,7 +27,7 @@ The session aimed to refine the EPH regression [[workflow]] and evaluate model p
 ### Key Activities
 - Conducted a script analysis for feature engineering and model training, identifying issues such as label leakage and categorical handling.
 - Configured test matrices for model predictions using [[Python]], handling DataFrames and NumPy arrays.
-- Adjusted [[visualization]] techniques for RegressorChain models to improve metrics clarity.
+- Adjusted visualization techniques for RegressorChain models to improve metrics clarity.
 - Analyzed model performance for income prediction, identifying biases and outlining future refinement plans.
 - Summarized the EPH regression [[workflow]], detailing the predictive pipeline and recent developments.
 - Reviewed the HistGradientBoostingRegressor, highlighting its advantages for specific modeling scenarios.
@@ -38,7 +38,7 @@ The session aimed to refine the EPH regression [[workflow]] and evaluate model p
 
 ### Achievements
 - Improved clarity and functionality of feature engineering and model training scripts.
-- Enhanced [[visualization]] and evaluation techniques for model predictions.
+- Enhanced visualization and evaluation techniques for model predictions.
 - Developed a comprehensive understanding of the EPH regression [[workflow]] and HGBR advantages.
 - Structured [[documentation]] for multi-system projects, enhancing operational clarity.
 

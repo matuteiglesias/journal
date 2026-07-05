@@ -33,7 +33,7 @@ The session aimed to rebuild and deploy a Hugging Face Space, ensuring the envir
 
 **Achievements:**
 - The Hugging Face Space was successfully rebuilt and deployed.
-- Debug-friendly enhancements were made to critical scripts, improving logging and [[configuration]] management.
+- Debug-friendly enhancements were made to critical scripts, improving logging and configuration management.
 
 **Pending Tasks:**
 - Conduct thorough testing of the deployed Space to ensure all functionalities work as expected.

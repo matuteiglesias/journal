@@ -25,7 +25,7 @@ generated: true
 The session aimed to address various [[Python]] programming challenges related to data handling, path management, and dynamic file path construction.
 
 ### Key Activities
-- Implemented a method to check for the presence of a column in a [[DataFrame]] to ensure robust data validation.
+- Implemented a method to check for the presence of a column in a DataFrame to ensure robust data validation.
 - Resolved path hardcoding issues in DCF scripts by transitioning to relative paths, enhancing script portability.
 - Utilized the `os` module to access user-specific directories, ensuring compatibility across different environments.
 - Demonstrated dynamic retrieval of the current user's username using [[Python]], allowing for flexible file path generation.

@@ -30,7 +30,7 @@ The session aimed to develop a structured [[AI]] Habitat and manage [[Python]] e
 - **[[Python]] Environment [[Troubleshooting]]**: Addressed [[Python]] environment issues, including cleaning and managing dependencies using virtual environments.
 - **Cerebrum Module Installation**: Installed the `cerebrum` module in a [[Python]] environment, emphasizing the use of virtual environments to avoid future issues.
 - **Disk Cleanup**: Conducted disk cleanup and space management to reclaim disk space and prevent future bloat.
-- **[[AI]] Habitat Architecture**: Provided an overview of the [[AI]] Habitat architecture, detailing its vision, core stack, and next steps.
+- **[[AI]] Habitat [[Architecture]]**: Provided an overview of the [[AI]] Habitat [[architecture]], detailing its vision, core stack, and next steps.
 
 ### Achievements
 - Developed a clear plan for [[AI]] Habitat, resembling a structured city with isolated and portable elements.

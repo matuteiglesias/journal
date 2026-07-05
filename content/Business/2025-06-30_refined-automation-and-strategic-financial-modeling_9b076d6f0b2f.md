@@ -25,10 +25,10 @@ generated: true
 The session aimed to refine [[automation]] processes and develop a dual trajectory [[strategy]] for financial intelligence and professional development.
 
 **Key Activities:**
-- Analyzed financial infrastructure and [[automation]] with a focus on code quality and [[data [[visualization]]]].
+- Analyzed financial infrastructure and [[automation]] with a focus on code quality and [[data visualization]].
 - Developed a dual trajectory [[strategy]] emphasizing financial modeling for internal governance and career development.
 - Integrated [[AI]] editorial [[automation]] with web [[deployment]] to enhance digital presence.
-- Transitioned [[automation]] efforts from exploratory architecture to deterministic systems, focusing on idempotency and schema coherence.
+- Transitioned [[automation]] efforts from exploratory [[architecture]] to deterministic systems, focusing on idempotency and schema coherence.
 - Conducted an interdisciplinary analysis of legislative [[automation]], [[AI]], and [[education]].
 
 **Achievements:**

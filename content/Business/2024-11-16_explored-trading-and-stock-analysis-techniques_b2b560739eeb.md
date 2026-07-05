@@ -25,7 +25,7 @@ generated: true
 The session aimed to explore various trading and stock analysis techniques, focusing on entry-exit strategies, share structures, and stock liquidity.
 
 ### Key Activities
-- **Trading Analysis**: Discussed the use of candlestick patterns for entry-exit analysis in trading, including insights on [[data [[visualization]]]] and [[strategy]] validation.
+- **Trading Analysis**: Discussed the use of candlestick patterns for entry-exit analysis in trading, including insights on [[data visualization]] and [[strategy]] validation.
 - **Corporate Finance**: Reflected on share structures, covering authorized shares, IPOs, and stock splits.
 - **Investment Basics**: Clarified the differences between stocks and shares, enhancing understanding of company ownership.
 - **Stock Analysis**: Examined low, high, and mid-range float stocks, focusing on liquidity and volatility implications.

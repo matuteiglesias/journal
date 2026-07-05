@@ -27,7 +27,7 @@ The session focused on setting up a Selenium-based [[web scraping]] pipeline, re
 ### Key Activities
 - **Selenium [[Web Scraping]] Setup**: Implemented a Selenium-based [[web scraping]] pipeline to capture dynamic content from web pages using clipboard actions.
 - **Clipboard Management**: Addressed clipboard interaction issues on Linux with Pyperclip by installing xclip or xsel.
-- **Data Export**: Exported [[DataFrame]] to JSONL format, evaluated JSONL for job data storage, and implemented batch processing and hashing for JSONL exports.
+- **Data Export**: Exported DataFrame to JSONL format, evaluated JSONL for job data storage, and implemented batch processing and hashing for JSONL exports.
 - **[[Pandas]] File Operations**: Managed JSONL and [[CSV]] file operations using [[pandas]], ensuring consistent naming conventions and organizing output files.
 - **[[CSV]] Review and Script Updates**: Reviewed [[CSV]] structure, suggested improvements, and updated scripts for SERP [[data processing]], including HTML decoding and [[CSV]] output consistency.
 - **Code [[Refactoring]]**: Refactored batch processing logic to eliminate code duplication and improve clarity.

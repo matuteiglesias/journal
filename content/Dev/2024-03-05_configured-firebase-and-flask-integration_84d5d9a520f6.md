@@ -26,10 +26,10 @@ The session aimed to configure and troubleshoot the [[integration]] of Firebase 
 
 ### Key Activities
 - Utilized Google Cloud SDK and Firebase CLI to inspect project configurations and troubleshoot issues without accessing web consoles.
-- Resolved errors related to OAuth 2.0 clients and Firebase function [[deployment]] by ensuring correct directory and [[configuration]] file usage.
+- Resolved errors related to OAuth 2.0 clients and Firebase function [[deployment]] by ensuring correct directory and configuration file usage.
 - Set up Firestore in a Firebase project, including creating a Cloud Firestore database and managing security rules.
 - Discussed the differences between Firestore in Datastore mode and Native mode, providing guidance on when to use each.
-- Addressed OAuth errors in a [[Flask]] app, focusing on IAM roles, OAuth consent screen [[configuration]], and local development practices.
+- Addressed OAuth errors in a [[Flask]] app, focusing on IAM roles, OAuth consent screen configuration, and local development practices.
 - Updated `requirements.txt` for [[Python]] projects to ensure proper dependency management.
 - Clarified the initialization of the Firebase Admin SDK in a [[Flask]] application, emphasizing security practices.
 

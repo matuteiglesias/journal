@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to enhance [[data [[visualization]]]] techniques using [[Matplotlib]] and Seaborn in [[Python]], focusing on improving plot aesthetics and functionality.
+The session aimed to enhance [[data visualization]] techniques using [[Matplotlib]] and Seaborn in [[Python]], focusing on improving plot aesthetics and functionality.
 
 ### Key Activities
 - **Email Template Creation**: Developed a template for addressing GitLab access issues.
@@ -37,7 +37,7 @@ The session aimed to enhance [[data [[visualization]]]] techniques using [[Matpl
 - Improved understanding of logarithmic calculations for financial [[data analysis]].
 
 ### Pending Tasks
-- Further exploration of advanced [[data [[visualization]]]] techniques and [[integration]] with other [[data processing]] libraries.
+- Further exploration of advanced [[data visualization]] techniques and [[integration]] with other [[data processing]] libraries.
 
 ## Evidence
 

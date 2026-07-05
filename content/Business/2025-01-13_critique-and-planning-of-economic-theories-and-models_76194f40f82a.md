@@ -27,7 +27,7 @@ The session aimed to critically assess existing economic theories and models, fo
 ### Key Activities:
 - Conducted a detailed critique of a blog post on firm size distributions, evaluating its strengths and weaknesses.
 - Analyzed an article on small firms and macroeconomic stability, providing insights on potential improvements.
-- Proposed a blog post plan on economic volatility and its direct accounting.
+- Proposed a blog post plan on economic volatility and its direct [[accounting]].
 - Discussed topics aligning with economics writing expertise, focusing on quantitative analysis and innovative frameworks.
 - Evaluated blog recommendations for economics writers to guide content [[strategy]].
 - Introduced a novel framework for understanding microeconomic volatility and macroeconomic stability.

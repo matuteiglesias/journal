@@ -30,11 +30,11 @@ The objective of this session was to set up and analyze game theory models for c
 - **Expected Profit Calculation**: Developed methodologies for calculating expected profits using mixed strategies, considering pricing distributions and operational costs.
 - **Numerical [[Integration]] for Profit**: Calculated expected profits for low-cost and high-cost companies through numerical [[integration]] over price ranges.
 - **Probability Function Correction**: Corrected [[Python]] implementations of probability functions for uniform distribution, ensuring accurate behavior.
-- **[[Data [[Visualization]]]]**: Implemented [[Python]] code to plot probability functions and expected profits, providing visual insights into pricing strategies.
+- **[[Data Visualization]]**: Implemented [[Python]] code to plot probability functions and expected profits, providing visual insights into pricing strategies.
 
 ### Achievements
 - Successfully set up a comprehensive game theory model for competitive pricing.
-- Developed and corrected [[Python]] code for probability functions and [[data [[visualization]]]].
+- Developed and corrected [[Python]] code for probability functions and [[data visualization]].
 - Analyzed expected profits using both theoretical and numerical methods.
 
 ### Pending Tasks

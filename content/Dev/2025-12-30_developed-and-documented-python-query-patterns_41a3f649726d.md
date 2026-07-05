@@ -29,7 +29,7 @@ The session aimed to explore and document various query patterns in [[Python]] s
 - Explored filtering queries related to reports and ingest manifest configurations.
 - Analyzed queries for 'manifest.[[json]]' and 'materialize.py', focusing on partitions and timestamps.
 - Documented commands for data ingestion using 'ingest.py', including handling anomalies and writing manifests.
-- Outlined architectural decisions for the 'accounting/manifest.py' module.
+- Outlined architectural decisions for the '[[accounting]]/manifest.py' module.
 
 ### Achievements
 - Comprehensive [[documentation]] of query patterns and command queries across multiple [[Python]] scripts was achieved.

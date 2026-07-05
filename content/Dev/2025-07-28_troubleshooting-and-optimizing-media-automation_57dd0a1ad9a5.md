@@ -26,7 +26,7 @@ The session aimed to troubleshoot and optimize media [[automation]] processes in
 
 ### Key Activities:
 - Diagnosed and fixed a bug in the system-installed version of `yt-dlp` affecting a cron job with `mpv`.
-- Explored issues related to high-frequency playback commands in `mpv`, focusing on cron job [[configuration]] and script loops.
+- Explored issues related to high-frequency playback commands in `mpv`, focusing on cron job configuration and script loops.
 - Managed concurrent media player instances by implementing scheduling and locking mechanisms.
 - Optimized audio settings for 'Stereo Love' in a 20 m² room to enhance sound quality.
 - Developed a protocol for mate withdrawal, including a pharmacy preparation list suitable for isotretinoin treatment.

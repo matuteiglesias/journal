@@ -32,7 +32,7 @@ The session aimed to deploy a Hugo site to [[GitHub]] Pages and troubleshoot any
 
 ### Achievements
 - Successfully deployed the Hugo site to [[GitHub]] Pages, ensuring it was live and accessible.
-- Resolved multiple [[deployment]] and [[configuration]] issues, including handling of [[Git]] submodules and directory paths.
+- Resolved multiple [[deployment]] and configuration issues, including handling of [[Git]] submodules and directory paths.
 
 ### Pending Tasks
 - Further verification of [[deployment]] stability and performance may be required in future sessions.

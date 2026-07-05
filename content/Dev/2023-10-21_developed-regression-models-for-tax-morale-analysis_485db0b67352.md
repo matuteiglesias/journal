@@ -29,17 +29,17 @@ The session aimed to develop and refine regression models for analyzing tax mora
 - Outlined ordered logistic regression models, including interaction terms and city fixed effects.
 - Refined statistical models for tax morale, incorporating controls such as satisfaction with tax revenue use and ethnic identity.
 - Suggested regression models based on various independent variables related to public goods and community engagement.
-- Executed [[Python]] code for [[data [[visualization]]]], including integrating codebook information into histogram plotting and modifying code for better [[data [[visualization]]]].
+- Executed [[Python]] code for [[data visualization]], including integrating codebook information into histogram plotting and modifying code for better [[data visualization]].
 - Addressed errors in dataset loading and corrected file paths for proper [[data processing]].
 
 ### Achievements
 - Developed a comprehensive framework for regression models to analyze tax morale.
-- Enhanced [[data [[visualization]]]] techniques using [[Python]].
+- Enhanced [[data visualization]] techniques using [[Python]].
 - Resolved dataset loading issues and confirmed correct paths for data access.
 
 ### Pending Tasks
 - Further refine the regression models with additional independent variables.
-- Continue improving [[data [[visualization]]]] techniques for clearer insights.
+- Continue improving [[data visualization]] techniques for clearer insights.
 
 ## Evidence
 

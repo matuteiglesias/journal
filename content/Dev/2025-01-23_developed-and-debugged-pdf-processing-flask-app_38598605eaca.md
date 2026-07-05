@@ -27,7 +27,7 @@ generated: true
 1. **Development Plan**: Initiated with a 30-minute rapid development plan for a PDF processing app, focusing on text extraction, embedding, and query processing.
 2. **[[Flask]] Application Implementation**: Developed a [[Flask]] application to handle PDF ingestion and query processing, integrating a vectorstore for document retrieval.
 3. **[[Integration]] with Raptor Pipeline**: Integrated the `raptor_pipeline.py` for document processing, including clustering, embedding, and summarization.
-4. **Error Resolution**: Addressed installation errors for `langchain_chroma` and Conda environment initialization issues. Debugged missing 'cluster' column in [[DataFrame]] and recursive function initialization errors in the app.
+4. **Error Resolution**: Addressed installation errors for `langchain_chroma` and Conda environment initialization issues. Debugged missing 'cluster' column in DataFrame and recursive function initialization errors in the app.
 5. **Enhancements**: Improved logging for better [[debugging]] and resolved HTTP 415 error in [[Flask]] endpoints.
 
 **Achievements**:

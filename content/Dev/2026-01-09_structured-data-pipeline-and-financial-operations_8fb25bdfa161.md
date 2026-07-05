@@ -22,10 +22,10 @@ generated: true
 ## Description
 
 ### Session Goal:
-The session aimed to enhance the understanding and execution of data pipeline architecture and financial operations using Materialize and [[Python]].
+The session aimed to enhance the understanding and execution of data pipeline [[architecture]] and financial operations using Materialize and [[Python]].
 
 ### Key Activities:
-- Reviewed technical references for data structures and pipeline architecture, focusing on accounting logics in Materialize.
+- Reviewed technical references for data structures and pipeline [[architecture]], focusing on [[accounting]] logics in Materialize.
 - Explored example queries for artifact management, emphasizing file contents and sanity checks.
 - Structured artifact queries in [[JSON]] Lines format for effective [[file management]].
 - Executed monthly financial queries and materialization tasks, including cash flow and expense reports.
@@ -36,7 +36,7 @@ The session aimed to enhance the understanding and execution of data pipeline ar
 - Addressed a bash error in `make run-views`, providing an architectural overview and governance insights.
 
 ### Achievements:
-- Clarified the technical framework for data pipeline architecture and financial operations.
+- Clarified the technical framework for data pipeline [[architecture]] and financial operations.
 - Developed a comprehensive set of queries and functions for financial [[data analysis]] and artifact management.
 
 ### Pending Tasks:

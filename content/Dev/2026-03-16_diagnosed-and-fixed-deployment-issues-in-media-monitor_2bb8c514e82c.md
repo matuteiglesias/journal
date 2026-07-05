@@ -29,7 +29,7 @@ The session aimed to diagnose and fix [[deployment]] issues in a media monitorin
 - Provided manual intervention guides and script improvement recommendations for better [[deployment]] and repository hygiene.
 - Queried [[automation]] processes for data refresh and publication on a news site.
 - Reassessed and revised [[automation]] scripts to ensure correct data surfaces are updated.
-- Analyzed producer-consumer architecture for news site refresh, suggesting immediate cleanups and improvements.
+- Analyzed producer-consumer [[architecture]] for news site refresh, suggesting immediate cleanups and improvements.
 - Investigated [[GitHub]] [[deployment]] status, identifying caching issues on the homepage.
 - Debugged homepage route logic, providing commands to investigate stale content issues.
 - Closed [[debugging]] session with monitoring recommendations and validation checks.

@@ -25,7 +25,7 @@ generated: true
 The primary aim of this session was to resolve PostgreSQL connection issues and enhance database security by setting a password for the 'postgres' user.
 
 **Key Activities:**
-- Reinstalled PostgreSQL on Ubuntu and Debian-based systems, ensuring proper setup and [[configuration]].
+- Reinstalled PostgreSQL on Ubuntu and Debian-based systems, ensuring proper setup and configuration.
 - Utilized terminal commands to manage and display command history with timestamps for better tracking of executed commands.
 - Analyzed PostgreSQL connection errors, identifying a lack of password for the 'postgres' user as the root cause.
 - Set a password for the 'postgres' user and configured authentication methods in the `pg_hba.conf` file.
@@ -36,7 +36,7 @@ The primary aim of this session was to resolve PostgreSQL connection issues and 
 - Enhanced security by configuring authentication settings in PostgreSQL.
 
 **Pending Tasks:**
-- Review and optimize the PostgreSQL [[configuration]] for performance improvements.
+- Review and optimize the PostgreSQL configuration for performance improvements.
 - Document the [[troubleshooting]] process and solutions for future reference.
 
 ## Evidence

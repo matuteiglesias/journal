@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to refine the content [[strategy]] and publication architecture by exploring a metadata-first approach to organizing editorial content.
+The session aimed to refine the content [[strategy]] and publication [[architecture]] by exploring a metadata-first approach to organizing editorial content.
 
 ### Key Activities
 - Discussed the transformation of materials into structured content collections and manuals.

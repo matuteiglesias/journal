@@ -27,7 +27,7 @@ The session aimed to enhance knowledge management through structured memo system
 ### Key Activities
 - **Memo Layer Structuring**: Implemented a refined structure for memo management, emphasizing distinct memo types and canonical templates to improve retrieval and reduce redundancy.
 - **Project Overview Reflection**: Reviewed [[automation]] projects, focusing on their statuses and priorities to enhance [[productivity]].
-- **Living Memo System Evolution**: Transitioned from a flat task inventory to a structured living memo system, detailing memo types and architecture for continuous knowledge accumulation.
+- **Living Memo System Evolution**: Transitioned from a flat task inventory to a structured living memo system, detailing memo types and [[architecture]] for continuous knowledge accumulation.
 - **Precision Tool for Project Briefs**: Developed a structured approach for creating project briefs that enable quick state restoration and momentum retention.
 
 ### Achievements

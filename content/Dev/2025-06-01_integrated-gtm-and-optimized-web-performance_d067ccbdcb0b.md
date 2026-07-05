@@ -35,7 +35,7 @@ The session aimed to integrate Google Tag Manager (GTM) with a [[Docusaurus]] pr
 - Reviewed package manager cleanup steps, emphasizing the importance of lockfiles.
 - Addressed issues with Yarn Workspaces and standalone projects.
 - Provided a step-by-step guide for building and committing changes with Yarn.
-- Resolved a [[configuration]] error in [[Docusaurus]] related to future flags.
+- Resolved a configuration error in [[Docusaurus]] related to future flags.
 - Verified post-[[deployment]] tasks to ensure successful [[deployment]] and [[SEO]] compliance.
 - Analyzed web traffic and provided recommendations for improving user engagement and [[SEO]] performance.
 

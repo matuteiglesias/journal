@@ -22,10 +22,10 @@ generated: true
 ## Description
 
 ### Session Goal
-The primary aim of this session was to refactor a legacy accounting timeseries codebase, focusing on architectural improvements and specific implementations related to transaction processing and reporting.
+The primary aim of this session was to refactor a legacy [[accounting]] timeseries codebase, focusing on architectural improvements and specific implementations related to transaction processing and reporting.
 
 ### Key Activities
-- Developed a comprehensive [[refactoring]] plan to decouple processing logic and enhance code architecture, addressing wide-vs-long column mismatches.
+- Developed a comprehensive [[refactoring]] plan to decouple processing logic and enhance code [[architecture]], addressing wide-vs-long column mismatches.
 - Designed an intermediate layer for time-series [[data processing]], detailing strategies for data ingestion, aggregation, and reporting.
 - Implemented a materialization layer for processing canonical ledger data into time-series aggregates.
 - Integrated various ingest ideas into a `build_ledger_base` function, enriching ledger data and supporting ETL pipelines.
@@ -33,7 +33,7 @@ The primary aim of this session was to refactor a legacy accounting timeseries c
 
 ### Achievements
 - Successfully refactored the middle layer responsibilities, mapping legacy code to new locations with concrete function signatures.
-- Enhanced the overall architecture of the accounting codebase, improving transaction processing and reporting capabilities.
+- Enhanced the overall [[architecture]] of the [[accounting]] codebase, improving transaction processing and reporting capabilities.
 
 ### Pending Tasks
 - Further testing and validation of the refactored codebase to ensure robustness and accuracy.

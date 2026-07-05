@@ -37,7 +37,7 @@ The primary objective of this session was to finalize the development of the Qua
 ### Achievements
 - Successfully completed the development of the Quartz PageTitle component.
 - Deployed the static site to Vercel with AWS Route 53 [[integration]].
-- Resolved multiple [[deployment]] and [[configuration]] issues, ensuring a smooth [[deployment]] process.
+- Resolved multiple [[deployment]] and configuration issues, ensuring a smooth [[deployment]] process.
 - Established a functional RSS feed for the Quartz site.
 
 ### Pending Tasks

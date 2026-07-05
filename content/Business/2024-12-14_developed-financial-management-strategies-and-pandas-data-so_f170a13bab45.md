@@ -27,7 +27,7 @@ The session aimed to enhance financial management strategies and implement [[dat
 ### Key Activities
 - Developed strategic proposals for financial management, focusing on debt centralization, expense prioritization, and cash flow [[optimization]].
 - Structured a Liability Ledger and Cash Flow Statement using [[Python]], providing templates and implementation examples.
-- Implemented [[Pandas]] solutions for [[data analysis]], including monthly contributions calculation, [[DataFrame]] column filtering, and time-series resampling and grouping.
+- Implemented [[Pandas]] solutions for [[data analysis]], including monthly contributions calculation, DataFrame column filtering, and time-series resampling and grouping.
 - Provided optimized code for revenue data aggregation by year and category ('Lugar'), and methods for grouping data by month and category.
 
 ### Achievements

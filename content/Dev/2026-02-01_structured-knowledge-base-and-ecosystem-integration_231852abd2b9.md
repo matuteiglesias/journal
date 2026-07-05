@@ -30,7 +30,7 @@ The session aimed to enhance the [[integration]] and management of knowledge bas
 - Conducted a **Reassessment of Modular Ecosystem** for knowledge management, proposing modular decomposition and actionable steps for better [[integration]].
 - Designed a **Shared Step Taxonomy** for integrating projects within a knowledge base ecosystem.
 - Analyzed **Project [[Integration]]** across various stages, identifying roles and architectural implications.
-- Outlined a **KB Architecture Manual** to guide project [[integration]] through contracts and checklists.
+- Outlined a **KB [[Architecture]] Manual** to guide project [[integration]] through contracts and checklists.
 - Drafted initial pages of a **Knowledge Base Manual**, detailing [[integration]] rules and bus contracts.
 
 ### Achievements

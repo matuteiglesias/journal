@@ -29,7 +29,7 @@ The primary goal of this session was to explore various aspects of financial man
 - Explored strategic financial management using logarithmic categories to enhance budgeting and financial stability.
 - Reviewed legislative discussions on political party operations during the pandemic, focusing on constitutional and procedural implications.
 - Proposed IT advisory roles for legislators to improve [[data analysis]] and digital communication.
-- Developed comprehensive guides for managing personal finances, including income and expense categorization, multimoneda accounting, and spreadsheet [[automation]].
+- Developed comprehensive guides for managing personal finances, including income and expense categorization, multimoneda [[accounting]], and spreadsheet [[automation]].
 - Addressed [[error handling]] in [[data processing]], specifically correcting numeric data treatment.
 
 **Achievements:**

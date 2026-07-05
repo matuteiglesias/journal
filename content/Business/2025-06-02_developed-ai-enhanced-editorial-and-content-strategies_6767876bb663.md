@@ -30,7 +30,7 @@ The session aimed to design document specifications and explore [[AI]]-enhanced 
 - Explored using session logs for creative ideation, addressing challenges in content generation.
 - Developed a structured content planning approach from session logs, emphasizing thematic analysis and prioritization.
 - Applied frameworks for auditing November session logs, focusing on audience alignment and collection design.
-- Created a structured content architecture for consolidating logs into a hierarchical framework.
+- Created a structured content [[architecture]] for consolidating logs into a hierarchical framework.
 - Expanded editorial plans for family and financial management, focusing on communication and operational models.
 - Outlined a strategic retrieval plan for educational and communication materials from logs.
 
@@ -39,7 +39,7 @@ The session aimed to design document specifications and explore [[AI]]-enhanced 
 - Developed comprehensive plans for content ideation and thematic analysis.
 
 ### Pending Tasks
-- Implement the retrieval and consolidation of logs into the structured content architecture.
+- Implement the retrieval and consolidation of logs into the structured content [[architecture]].
 - Finalize the editorial plans for family and financial management.
 - Execute the strategic retrieval plan for educational materials.
 

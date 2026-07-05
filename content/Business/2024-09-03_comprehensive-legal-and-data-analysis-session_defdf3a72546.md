@@ -28,7 +28,7 @@ The session aimed to explore various legal frameworks, real estate procedures, a
 - **Legal Framework Exploration**: Reviewed the legal framework for usucapión in Argentina, including relevant articles from the Civil and Commercial Code and strategies for implementation.
 - **Real Estate Procedures**: Outlined steps to obtain information about a parcel in CABA, detailing interactions with the Property Registry, AGIP, and the General Directorate of Cadastre and Cartography.
 - **Investment Analysis**: Conducted a segmentation analysis of investments, categorizing items by cost and identifying potential investment opportunities.
-- **Data Manipulation and Analysis**: Executed [[Python]] code for dynamic data table creation, price analysis, and [[DataFrame]] extraction, focusing on data integrity and pricing strategies.
+- **Data Manipulation and Analysis**: Executed [[Python]] code for dynamic data table creation, price analysis, and DataFrame extraction, focusing on data integrity and pricing strategies.
 - **Mathematical Problem Solving**: Solved linear transformation problems, including matrix representation and change of basis in vector spaces.
 
 ### Achievements

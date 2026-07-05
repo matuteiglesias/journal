@@ -26,7 +26,7 @@ The session aimed to enhance the representation of graph data structures in [[Py
 
 **Key Activities:**
 - Developed [[Python]] code to plot comparative graphs for `EdgeSet` and `NeighSet` methods using [[Matplotlib]].
-- Modified a [[DataFrame]] to include sparsity and edges parameters for better graph representation analysis.
+- Modified a DataFrame to include sparsity and edges parameters for better graph representation analysis.
 - Implemented a graph data structure using an adjacency matrix, including methods for initialization and modification.
 - Updated the timing experiment function to measure execution times for edge sets, neighborhood sets, and adjacency matrices.
 - Corrected errors in graph methods, including TypeErrors, ValueErrors, and IndexErrors, by adjusting code to ensure proper argument handling and method calls.

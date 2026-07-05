@@ -25,7 +25,7 @@ generated: true
 The session aimed to explore methods for accessing and processing Landsat satellite imagery data using Google Cloud services, including Google Cloud Storage and BigQuery.
 
 **Key Activities:**
-- Suppressed warnings in multi-indexed [[DataFrame]] operations using [[Python]]'s warnings module.
+- Suppressed warnings in multi-indexed DataFrame operations using [[Python]]'s warnings module.
 - Provided detailed instructions for accessing satellite datasets via Google Cloud Storage and BigQuery.
 - Guided on using Google Cloud Console for managing Google Cloud Storage, including tasks like creating buckets and managing IAM policies.
 - Outlined methods for accessing public Landsat data on Google Cloud Storage, including using `gsutil`, [[Python]] libraries, and direct URL access.

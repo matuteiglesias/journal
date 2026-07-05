@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to troubleshoot JavaScript loading issues, analyze JavaScript code for election [[visualization]], and optimize [[data processing]] techniques in [[Python]].
+The session aimed to troubleshoot JavaScript loading issues, analyze JavaScript code for election visualization, and optimize [[data processing]] techniques in [[Python]].
 
 ### Key Activities
 - **JavaScript [[Troubleshooting]]**: Explored methods to resolve issues with JavaScript file loading, including checking internet connection and clearing cache.
@@ -30,7 +30,7 @@ The session aimed to troubleshoot JavaScript loading issues, analyze JavaScript 
 - **[[Data Processing]] in [[Python]]**: Provided instructions for renaming [[CSV]] files using bash and [[Python]], loading [[CSV]] files with [[Pandas]], and optimizing memory usage for large datasets.
 
 ### Achievements
-- Developed a comprehensive understanding of JavaScript [[troubleshooting]] and code analysis for election [[visualization]].
+- Developed a comprehensive understanding of JavaScript [[troubleshooting]] and code analysis for election visualization.
 - Implemented techniques for efficient [[file management]] and data loading in [[Python]], including memory [[optimization]] strategies using [[Pandas]] and Dask.
 
 ### Pending Tasks

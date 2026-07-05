@@ -29,7 +29,7 @@ The primary objective of this session was to develop and execute [[Python]] scri
 - Implemented a script to list files in a directory, outputting the count and names of the first ten files.
 - Created a script to check for file existence and retrieve contents if available.
 - Defined a function to extract the first 'n' lines from a text file, demonstrating with 'INDEX.txt'.
-- Utilized [[Python]]'s head command to print lines from various [[configuration]] and script files for preview and [[debugging]] purposes.
+- Utilized [[Python]]'s head command to print lines from various configuration and script files for preview and [[debugging]] purposes.
 - Analyzed the usage of the `parse_pages_from_coords` function within the TEI parser code.
 - Demonstrated [[integration]] insights for the abstract-scroller and paper-kb publishing systems.
 

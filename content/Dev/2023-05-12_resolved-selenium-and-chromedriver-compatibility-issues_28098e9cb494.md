@@ -35,7 +35,7 @@ The session aimed to resolve compatibility issues between Selenium, geckodriver,
 - Resolved compatibility issues and deprecated parameter usage in Selenium WebDriver code.
 
 ### Pending Tasks
-- Further testing of the InstaPy [[configuration]] with different versions of Chrome and ChromeDriver to ensure robustness.
+- Further testing of the InstaPy configuration with different versions of Chrome and ChromeDriver to ensure robustness.
 - Monitor for any new deprecation warnings or compatibility issues in future Selenium updates.
 
 ## Evidence

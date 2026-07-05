@@ -34,7 +34,7 @@ The session aimed to configure server settings for hosting a personal webpage an
 - Updated [[GitHub]] profile to include new research papers and course notes, providing a structured format for presenting information.
 
 **Achievements:**
-- Successful [[configuration]] of server settings and [[automation]] of file synchronization.
+- Successful configuration of server settings and [[automation]] of file synchronization.
 - Improved webpage readability and layout through CSS enhancements.
 - Updated [[GitHub]] profile with new content.
 

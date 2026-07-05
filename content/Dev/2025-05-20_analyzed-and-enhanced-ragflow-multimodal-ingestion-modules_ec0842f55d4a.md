@@ -30,7 +30,7 @@ The session aimed to analyze and enhance the multimodal ingestion modules in RAG
 - Outlined specialized modules (`resume.py`, `laws.py`, `tag.py`) for semantic document ingestion, detailing their architectural roles.
 - Completed the catalog of chunkers in RAGFlow, emphasizing the impact of `resume.py`, `laws.py`, and `tag.py` on document preprocessing.
 - Analyzed the chunking and semantic labeling stack in RAGFlow, highlighting `naive.py` and `label_question` modules.
-- Conducted an exhaustive analysis of InfiniFlow/RAGFlow's chunking architecture, focusing on `email.py` and `manual.py` modules.
+- Conducted an exhaustive analysis of InfiniFlow/RAGFlow's chunking [[architecture]], focusing on `email.py` and `manual.py` modules.
 - Detailed the `qa.py` module for transforming Q&A documents into enriched formats for vector stores.
 - Provided an overview of `audio.py` and `task_executor.py` modules in InfiniFlow, focusing on audio parsing and task orchestration.
 - Analyzed the `do_handle_task` function in InfiniFlow, identifying strengths and technical risks.

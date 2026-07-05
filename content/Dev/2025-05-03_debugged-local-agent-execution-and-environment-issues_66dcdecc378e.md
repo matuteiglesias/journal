@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to debug local agent execution issues, focusing on empty output and environment [[configuration]] problems.
+The session aimed to debug local agent execution issues, focusing on empty output and environment configuration problems.
 
 ### Key Activities
 - Successfully executed a local agent but identified an empty output issue.

@@ -25,7 +25,7 @@ generated: true
 The primary goal of this session was to resolve a server misconfiguration issue where SSH was incorrectly set to listen on port 80, which is reserved for Apache, causing web service failures.
 
 ### Key Activities
-- **[[Troubleshooting]] SSH and Apache [[Configuration]]**: Detailed steps were followed to verify Apache configurations and resolve the port conflict by ensuring SSH listens on the correct port.
+- **[[Troubleshooting]] SSH and Apache Configuration**: Detailed steps were followed to verify Apache configurations and resolve the port conflict by ensuring SSH listens on the correct port.
 - **Technical [[Documentation]]**: A technical memo was created to outline the steps for resolving the website issue caused by the port misconfiguration.
 - **SSH Connection Setup**: Provided essential connection details for server access via SSH, including IP address, port, and username.
 - **Service Verification**: Restarted the SSH service and verified it was listening on the correct port (65432), including ensuring the port was open.

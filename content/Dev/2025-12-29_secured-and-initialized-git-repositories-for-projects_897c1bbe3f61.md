@@ -26,10 +26,10 @@ The primary aim of this session was to set up and secure multiple [[Git]] reposi
 
 ### Key Activities
 - **Creating [[GitHub]] Repositories**: Explored methods to create a [[GitHub]] repository for `gpt-digests`, including using [[GitHub]] CLI, web interface, and [[API]] with curl, ensuring proper SSH authentication.
-- **Securing Accounting Workflows**: Steps were outlined to initialize and secure the Accounting suite repository, focusing on excluding sensitive information before pushing to [[GitHub]].
+- **Securing [[Accounting]] Workflows**: Steps were outlined to initialize and secure the [[Accounting]] suite repository, focusing on excluding sensitive information before pushing to [[GitHub]].
 - **[[Troubleshooting]] [[Git]] Issues**: Identified common [[git]] repository issues and discussed structured approaches to resolving them, emphasizing the importance of repository hygiene.
 - **Auto Projects Checker**: Detailed commands and issues related to the Auto Projects Checker tool, focusing on repository exploration and execution challenges.
-- **Securing Secrets**: Implemented protocols for removing hardcoded sensitive information from the accounting suite repository, using environment variables for [[configuration]] management.
+- **Securing Secrets**: Implemented protocols for removing hardcoded sensitive information from the [[accounting]] suite repository, using environment variables for configuration management.
 - **Initializing [[Git]] Repositories**: Provided guidelines for initializing a [[Git]] repository with sensitive [[data management]], including creating a `.gitignore` and setting up environment variables.
 
 ### Achievements

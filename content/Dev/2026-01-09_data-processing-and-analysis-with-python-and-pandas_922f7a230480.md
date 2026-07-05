@@ -38,7 +38,7 @@ The session aimed to explore and execute various [[data processing]] and analysi
 ### Achievements
 - Successfully loaded and manipulated [[JSON]] Lines data using [[Pandas]].
 - Extracted and analyzed unique data elements, improving data understanding.
-- Enhanced data exploration through effective [[DataFrame]] operations.
+- Enhanced data exploration through effective DataFrame operations.
 - Improved code analysis and text extraction capabilities with [[Python]] scripts.
 
 ### Pending Tasks

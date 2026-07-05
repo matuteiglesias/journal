@@ -27,7 +27,7 @@ The primary goal of this session was to rethink and refactor the class structure
 ### Key Activities
 - Proposed a new class structure focusing on separation of concerns and scalability.
 - Refactored `AICaller` and `AIProcessor` classes to improve [[workflow]] management and implement prompt wrappers as decorators.
-- Enhanced the modularity of the [[AI]] processing architecture by moving [[AI]] functions out of the `AIProcessor` class.
+- Enhanced the modularity of the [[AI]] processing [[architecture]] by moving [[AI]] functions out of the `AIProcessor` class.
 - Implemented dynamic function lookup in `AIProcessor` to avoid hardcoding and improve maintainability.
 - Optimized data structure and processing logic for [[AI]] text retrieval using a dictionary structure for efficient lookups.
 - Transformed `retrieved_texts` data structure to ensure data integrity and efficient processing.
@@ -38,7 +38,7 @@ The primary goal of this session was to rethink and refactor the class structure
 - Enhanced flexibility and maintainability of the [[AI]] processing system.
 
 ### Pending Tasks
-- Further enhancements to the modular [[AI]] processing architecture are needed, focusing on additional class responsibilities and scalability improvements.
+- Further enhancements to the modular [[AI]] processing [[architecture]] are needed, focusing on additional class responsibilities and scalability improvements.
 
 ## Evidence
 

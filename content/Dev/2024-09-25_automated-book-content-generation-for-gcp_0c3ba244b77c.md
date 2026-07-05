@@ -26,7 +26,7 @@ The session aimed to automate the creation and processing of a book outline rela
 
 **Key Activities:**
 - Developed [[automation]] scripts for generating book outlines and content, focusing on GCP.
-- Updated the `ContentGenerator` class and `process_section` function to enhance content generation using [[DataFrame]] structures.
+- Updated the `ContentGenerator` class and `process_section` function to enhance content generation using DataFrame structures.
 - Implemented data cleaning for section and subsection names, introducing a new numbering system.
 - Conducted a content assessment for alignment with O'Reilly standards, identifying strengths and areas for improvement.
 - Refined an [[AI]] writing prompt to improve technical book quality, focusing on clarity and engagement.

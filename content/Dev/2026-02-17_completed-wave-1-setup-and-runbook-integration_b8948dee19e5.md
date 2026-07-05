@@ -26,7 +26,7 @@ The session aimed to finalize the setup for the Wave 1 phase of the project, foc
 
 ### Key Activities
 - Conducted a sanity check on the UI scaffold to ensure contract compliance and identified necessary adjustments.
-- Reviewed the codebase structure, detailing responsibilities for empty files and their roles in the architecture.
+- Reviewed the codebase structure, detailing responsibilities for empty files and their roles in the [[architecture]].
 - Streamlined the component design for Wave 1 by pruning unnecessary components and locking minimum contract requirements.
 - Developed a data inspection script in [[Python]] to assist in data file handling.
 - Set up the necessary files and commands for project initialization using TypeScript and Bash scripts.

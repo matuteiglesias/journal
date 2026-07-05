@@ -26,8 +26,8 @@ The session aimed to diagnose and resolve various issues related to Steam and Pr
 
 ### Key Activities
 - Analyzed Steam installation logs to identify successful components and minor warnings, providing recommendations for potential fixes.
-- Diagnosed DirectX 11 GPU errors using Proton on Linux, including checks for GPU detection, Vulkan support, and DXVK [[configuration]].
-- Resolved Vulkan ICD [[configuration]] issues on Intel HD Graphics 520, addressing conflicts with llvmpipe and ensuring proper Vulkan driver installation.
+- Diagnosed DirectX 11 GPU errors using Proton on Linux, including checks for GPU detection, Vulkan support, and DXVK configuration.
+- Resolved Vulkan ICD configuration issues on Intel HD Graphics 520, addressing conflicts with llvmpipe and ensuring proper Vulkan driver installation.
 - Identified and resolved issues with multiple active Vulkan ICDs, ensuring the correct GPU is utilized for gaming applications.
 - Analyzed game launch failures on Steam using Proton, outlining potential causes and a step-by-step action plan.
 - Addressed silent crashes in Age of Empires II: Definitive Edition by installing the Visual C++ 2015-2019 runtime using protontricks or cabextract.

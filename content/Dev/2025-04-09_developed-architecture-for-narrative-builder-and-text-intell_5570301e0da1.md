@@ -27,7 +27,7 @@ The session aimed to explore and develop architectural frameworks for two key [[
 **Key Activities:**
 - Utilized Google Sheets to match product tags using REGEXMATCH.
 - Explored the development of a Text Intelligence Suite focused on backend intelligence pipelines for text management, clustering, summarization, and storytelling.
-- Outlined the architecture and functionality of the Narrative Builder, focusing on structuring messy text into coherent narratives.
+- Outlined the [[architecture]] and functionality of the Narrative Builder, focusing on structuring messy text into coherent narratives.
 - Refined the Narrative Builder for efficiency by reimagining backend scripts as configurable pipeline presets.
 - Provided an overview of a Code Intelligence Toolkit for developers and analysts, emphasizing its capabilities in managing codebases and data workflows.
 - Differentiated the KnowledgeOps Core from the [[AI]] Text Processor, detailing their functionalities and shared components.

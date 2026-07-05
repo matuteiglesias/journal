@@ -22,17 +22,17 @@ generated: true
 ## Description
 
 ### Session Goal
-The primary goal of this session was to troubleshoot and resolve various [[configuration]] issues with Apache servers, particularly focusing on SSH responses on HTTP requests, domain [[configuration]], and port conflicts.
+The primary goal of this session was to troubleshoot and resolve various configuration issues with Apache servers, particularly focusing on SSH responses on HTTP requests, domain configuration, and port conflicts.
 
 ### Key Activities
-- **[[Troubleshooting]] Apache Server [[Configuration]]:** Systematic approach to address SSH responding on port 80 instead of HTTP, including conflict checks and log analysis.
+- **[[Troubleshooting]] Apache Server Configuration:** Systematic approach to address SSH responding on port 80 instead of HTTP, including conflict checks and log analysis.
 - **Resolving Access Issues:** Checked configurations, network settings, and firewall rules to ensure proper server access.
 - **AWS External Access [[Troubleshooting]]:** Diagnosed issues with security group settings, network ACLs, and DNS configurations for Apache servers hosted on AWS.
 - **Moving Webpage Directory:** Transferred the `mapamseg` directory to the Apache web root with correct permissions.
-- **Domain [[Configuration]] for matuteiglesias.link:** Checked DNS and VirtualHost configurations to resolve domain access issues.
+- **Domain Configuration for matuteiglesias.link:** Checked DNS and VirtualHost configurations to resolve domain access issues.
 - **Resolving Virtual Host Conflicts:** Addressed conflicts between default and custom virtual hosts.
-- **Apache [[Configuration]] for matiasdice.com:** Debugged issues related to DocumentRoot serving content.
-- **Port [[Configuration]] Analysis:** Ensured Apache was listening on port 80 and resolved any port conflicts.
+- **Apache Configuration for matiasdice.com:** Debugged issues related to DocumentRoot serving content.
+- **Port Configuration Analysis:** Ensured Apache was listening on port 80 and resolved any port conflicts.
 
 ### Achievements
 - Successfully identified and resolved SSH and HTTP misconfiguration issues.

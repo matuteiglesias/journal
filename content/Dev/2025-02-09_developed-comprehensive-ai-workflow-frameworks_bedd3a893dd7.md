@@ -29,7 +29,7 @@ The primary aim of this session was to develop and reflect on various [[AI]] and
 - **Milestone Consolidation**: Outlined key reusable achievements for future [[automation]] projects.
 - **[[AI]] [[Workflow]] & Prompt Engineering**: Developed a structured framework for [[AI]] workflows, focusing on task [[automation]] and prompt engineering.
 - **Political Intelligence Platform**: Summarized sessions on developing an [[AI]]-based political intelligence platform.
-- **Financial Ledger Processing**: Created a framework for financial ledger [[data processing]], reporting, and [[visualization]].
+- **Financial Ledger Processing**: Created a framework for financial ledger [[data processing]], reporting, and visualization.
 - **[[AI]]-Powered Chunk Processing**: Advanced modular chunk processing and research summarization techniques.
 - **Scalable [[AI]] [[Workflow]] [[Automation]]**: Enhanced [[AI]] [[workflow]] [[automation]] with robust chunk processing and [[debugging]] systems.
 - **Text Processing & Knowledge Extraction**: Developed a unified framework for [[AI]]-driven text processing and knowledge extraction.

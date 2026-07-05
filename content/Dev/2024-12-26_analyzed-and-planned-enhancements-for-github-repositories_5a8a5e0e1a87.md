@@ -30,7 +30,7 @@ The session aimed to explore and enhance various [[GitHub]] repositories related
 - Compiled a comprehensive list of hotkeys for Grim-terface v2.8, aiding in [[automation]] and coding efficiency.
 - Analyzed a public [[GitHub]] repository, detailing steps for accessing and improving key components.
 - Provided an overview of the IPC-Argentina [[GitHub]] repository, focusing on the Consumer Price Index dataset.
-- Planned an expansion for the IPC-Argentina repository to include enhanced [[data analysis]], [[visualization]], and community collaboration.
+- Planned an expansion for the IPC-Argentina repository to include enhanced [[data analysis]], visualization, and community collaboration.
 - Reviewed the 'labo-de-datos-FCEN' repository for educational purposes, detailing its structure and content.
 - Explored the 'Aglomerados-EPH-INDEC' repository, emphasizing its use in geospatial analysis and potential enhancements.
 
@@ -40,9 +40,9 @@ The session aimed to explore and enhance various [[GitHub]] repositories related
 - Provided comprehensive overviews of multiple repositories, highlighting their purposes and potential improvements.
 
 ### Pending Tasks
-- Implement the expansion plan for the IPC-Argentina repository, focusing on [[data [[visualization]]]] and [[machine learning]] applications.
+- Implement the expansion plan for the IPC-Argentina repository, focusing on [[data visualization]] and [[machine learning]] applications.
 - Further explore community collaboration opportunities for the IPC-Argentina repository.
-- Continue enhancing the 'Aglomerados-EPH-INDEC' repository with additional [[documentation]] and [[visualization]] tools.
+- Continue enhancing the 'Aglomerados-EPH-INDEC' repository with additional [[documentation]] and visualization tools.
 
 ## Evidence
 

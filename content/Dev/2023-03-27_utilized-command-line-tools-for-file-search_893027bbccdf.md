@@ -29,7 +29,7 @@ The aim of this session was to explore and utilize command line tools, specifica
 - **Function Definition Search:** Demonstrated the use of `grep` to search for specific function definitions within files, including recursive searching and excluding binary files.
 - **Specific File Type Search:** Showcased the use of `grep` with the `-E` option for extended regular expressions and the `--include` flag to search within `.ipynb` and `.py` files.
 - **[[Data Processing]] Code Comparison:** Compared two versions of code for computing the `TimePeriod` column, highlighting differences and suggesting reconciliation methods.
-- **Code Modification for `TimePeriod`:** Provided a modified code snippet for calculating the `TimePeriod` column in a [[DataFrame]], retaining an alternative method for min/max year computation.
+- **Code Modification for `TimePeriod`:** Provided a modified code snippet for calculating the `TimePeriod` column in a DataFrame, retaining an alternative method for min/max year computation.
 
 ### Achievements:
 - Successfully demonstrated and documented methods for using command line tools for file searching.

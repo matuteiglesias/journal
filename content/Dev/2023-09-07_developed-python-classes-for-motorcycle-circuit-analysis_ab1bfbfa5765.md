@@ -30,7 +30,7 @@ The session focused on enhancing the understanding and computational modeling of
 - Developed [[Python]] code for numerical analysis using `scipy` to calculate lean angles and time for half-circle curves.
 - Created a [[Python]] class `Circuito` for modeling motorcycle circuits, incorporating features like average speed, total time, and total distance calculations.
 - Implemented cubic spline and Akima interpolation methods for circuit speed profiles.
-- Addressed and corrected errors in the [[Python]] code related to velocity calculations and [[data [[visualization]]]] using [[Matplotlib]].
+- Addressed and corrected errors in the [[Python]] code related to velocity calculations and [[data visualization]] using [[Matplotlib]].
 
 ### Achievements
 - Successfully implemented and debugged [[Python]] code for complex motorcycle circuit analysis.

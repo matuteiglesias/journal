@@ -25,8 +25,8 @@ generated: true
 The session aimed to develop a comprehensive personal finance tracking system to manage income, expenses, debts, and net wealth effectively.
 
 ### Key Activities
-- **Holistic Financial View**: Designed a structured accounting system with detailed tables for tracking income, account movements, liabilities, expenses, and wealth overview.
-- **Internal Transfers Tracking**: Proposed a refined system for tracking internal money transfers, differentiating between actual income and account movements, and suggested [[data [[visualization]]]] techniques.
+- **Holistic Financial View**: Designed a structured [[accounting]] system with detailed tables for tracking income, account movements, liabilities, expenses, and wealth overview.
+- **Internal Transfers Tracking**: Proposed a refined system for tracking internal money transfers, differentiating between actual income and account movements, and suggested [[data visualization]] techniques.
 - **Liabilities Tracking**: Developed a method to track liabilities by distinguishing between debt stock and debt flow, including monitoring total outstanding debt and net changes.
 - **Smart Net Calculation**: Outlined a [[workflow]] to calculate net balance changes for accounts, ensuring accurate representation of internal transactions.
 - **Cash and Mercado Pago Transactions**: Provided guidelines for recording cash and Mercado Pago transfers accurately to avoid double-counting.
@@ -38,7 +38,7 @@ The session aimed to develop a comprehensive personal finance tracking system to
 
 ### Pending Tasks
 - Implement the proposed systems and frameworks in a practical setting.
-- Test the [[visualization]] techniques for internal transfers.
+- Test the visualization techniques for internal transfers.
 - Validate the accuracy of the smart net calculation [[workflow]] with real data.
 
 ## Evidence

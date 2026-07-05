@@ -29,7 +29,7 @@ This session aimed to explore and develop frameworks for [[AI]]-driven content c
 - **Automating Web Content Creation**: Explored phased strategies for automating content creation with [[AI]], focusing on [[SEO]] and revenue generation.
 - **[[AI]]-Powered Onboarding Engine**: Designed a framework for an [[AI]]-driven onboarding engine to distill knowledge into modular content.
 - **Dual-Pipeline Knowledge Management**: Outlined a model using Obsidian for internal notes and Hugo for public content, emphasizing modularity and tagging.
-- **Obsidian Knowledge Architecture**: Developed strategies for organizing knowledge in Obsidian, focusing on atomic pages and cognitive models.
+- **Obsidian Knowledge [[Architecture]]**: Developed strategies for organizing knowledge in Obsidian, focusing on atomic pages and cognitive models.
 - **Knowledge Ontology Development**: Structured personal knowledge systems to facilitate [[AI]]-assisted drafting.
 - **Self-Sustaining Knowledge Refinery**: Planned a self-sustaining system for knowledge maintenance and enrichment.
 - **Automating Knowledge Base with LLMs**: Addressed challenges in automating a self-maintaining knowledge base using LLMs.

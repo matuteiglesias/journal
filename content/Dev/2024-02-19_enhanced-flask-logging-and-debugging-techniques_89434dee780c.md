@@ -30,14 +30,14 @@ The session aimed to enhance logging and [[debugging]] techniques in [[Flask]] a
 - **[[Debugging]] Worker Timeouts**: Analyzed application logs to diagnose worker timeouts, particularly in the `/submit_answer` endpoint, and suggested potential solutions.
 - **[[Flask]] Logging Implementation**: Detailed the use of [[Python]]'s logging module in [[Flask]] applications for better [[integration]] with Google Cloud Platform.
 - **Resolved UnboundLocalError**: Offered insights into [[troubleshooting]] `UnboundLocalError` in [[Flask]] applications.
-- **Gunicorn [[Configuration]]**: Provided instructions on configuring Gunicorn's timeout settings and its [[deployment]] on Google App Engine.
+- **Gunicorn Configuration**: Provided instructions on configuring Gunicorn's timeout settings and its [[deployment]] on Google App Engine.
 - **Sensitive Information Handling**: Emphasized best practices for handling sensitive information in code sharing.
 - **Application Failure Analysis**: Conducted a comprehensive analysis of application failures, offering recommendations for improvements.
 - **Google Cloud Logging [[Integration]]**: Detailed steps for integrating Google Cloud Logging into [[Flask]] applications for effective log management.
 
 ### Achievements
 - Successfully outlined best practices for logging in [[Flask]] applications.
-- Provided actionable recommendations for resolving application issues related to logging and [[configuration]].
+- Provided actionable recommendations for resolving application issues related to logging and configuration.
 - Enhanced understanding of Google Cloud Logging [[integration]] and its benefits.
 
 ### Pending Tasks

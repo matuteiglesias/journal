@@ -22,13 +22,13 @@ generated: true
 ## Description
 
 ### Session Goal
-The session focused on developing and refining [[Python]] functions for advanced [[DataFrame]] parsing and [[error handling]], specifically targeting 'theme', 'sector', and advertising sector columns.
+The session focused on developing and refining [[Python]] functions for advanced DataFrame parsing and [[error handling]], specifically targeting 'theme', 'sector', and advertising sector columns.
 
 ### Key Activities
-- Developed a function to parse 'theme' columns in a [[DataFrame]], splitting them into three separate columns based on a specified delimiter.
+- Developed a function to parse 'theme' columns in a DataFrame, splitting them into three separate columns based on a specified delimiter.
 - Enhanced the `parse_theme_columns()` function to handle column name mismatches and fill missing values, ensuring robustness in data parsing.
-- Created a function to count unique values in a specified [[DataFrame]] column, returning results as a dictionary.
-- Implemented a function to count parseable pieces in a [[DataFrame]] column using a custom delimiter, with example usage and limitations.
+- Created a function to count unique values in a specified DataFrame column, returning results as a dictionary.
+- Implemented a function to count parseable pieces in a DataFrame column using a custom delimiter, with example usage and limitations.
 - Updated the `parse_theme_columns()` function to handle null values effectively, applying operations only to non-null entries.
 - Developed functions to parse 'ad_sector_codes', 'ad_sector_names', 'sector', and 'mjsector' columns, splitting values and creating indexed suffix columns.
 

@@ -25,7 +25,7 @@ generated: true
 The primary objective was to address and resolve issues related to [[PromptFlow]] setup and key management using [[Python]]'s keyring module.
 
 ### Key Activities
-- Created a set of artifacts for a triage process in [[PromptFlow]], including a [[JSON]] schema, Jinja prompt, flow DAG, and run [[configuration]].
+- Created a set of artifacts for a triage process in [[PromptFlow]], including a [[JSON]] schema, Jinja prompt, flow DAG, and run configuration.
 - Searched for examples and guidance on using the 'keyrings.alt' module in [[Python]], focusing on the 'PlaintextKeyring'.
 - Troubleshot a 'ModuleNotFoundError' encountered with the [[Promptflow]] CLI.
 - Set the OpenAI [[API]] key as an environment variable using the 'export' command.

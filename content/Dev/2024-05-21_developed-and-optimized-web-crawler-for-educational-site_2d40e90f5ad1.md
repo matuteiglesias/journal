@@ -27,15 +27,15 @@ The session aimed to develop and optimize a web crawler for an educational insti
 ### Key Activities
 - **Guidance on Crawler Creation**: Detailed instructions were followed to create a crawler using Scrapy, organize link networks with NetworkX, and extract specific information using BeautifulSoup.
 - **Project Planning**: Developed a plan to systematically detect and organize linked pages from the main faculty page.
-- **Crawler [[Configuration]]**: Configured a Scrapy crawler to explore educational web pages, implementing depth-limited search and visualizing link networks with NetworkX.
-- **Log Analysis**: Analyzed Scrapy crawler logs, examining exploration depth, download statistics, duplicate handling, memory usage, errors, and spider [[configuration]] improvements.
-- **BFS Implementation**: Adjusted Scrapy settings to implement a breadth-first search (BFS) approach with specific [[configuration]] steps.
+- **Crawler Configuration**: Configured a Scrapy crawler to explore educational web pages, implementing depth-limited search and visualizing link networks with NetworkX.
+- **Log Analysis**: Analyzed Scrapy crawler logs, examining exploration depth, download statistics, duplicate handling, memory usage, errors, and spider configuration improvements.
+- **BFS Implementation**: Adjusted Scrapy settings to implement a breadth-first search (BFS) approach with specific configuration steps.
 - **URL Filtering [[Optimization]]**: Enhanced the crawler to filter irrelevant URLs using a domain exclusion list, improving data quality.
 - **Connection Error Solutions**: Diagnosed and provided solutions for connection errors related to `robots.txt`, including timeout adjustments, disabling robot middleware, retry handling, and blocking problematic domains.
 
 ### Achievements
 - Successfully developed a crawler with depth-limited search and BFS capabilities.
-- Improved data quality through URL filtering and optimized crawler [[configuration]].
+- Improved data quality through URL filtering and optimized crawler configuration.
 - Resolved connection issues, enhancing crawler reliability.
 
 ### Pending Tasks

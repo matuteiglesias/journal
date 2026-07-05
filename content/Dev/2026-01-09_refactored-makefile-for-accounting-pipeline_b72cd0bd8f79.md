@@ -22,20 +22,20 @@ generated: true
 ## Description
 
 ### Session Goal:
-The session aimed to refactor the Makefile used in the accounting pipeline to improve its efficiency and maintainability.
+The session aimed to refactor the [[Makefile]] used in the [[accounting]] pipeline to improve its efficiency and maintainability.
 
 ### Key Activities:
 - **Reading [[Python]] Script from File:** Utilized the `pathlib` library to read a [[Python]] script, focusing on file handling techniques.
 - **Extracting Functions:** Employed regular expressions to extract the 'main' function and 'load_reports_folder' function definitions from code snippets, enhancing code analysis skills.
-- **Makefile [[Refactoring]]:** Focused on removing the dependency on the `accounting.reports` step in the pipeline. The [[refactoring]] aligned the stages to focus on ingestion, materialization, and views while maintaining backward compatibility.
-- **Makefile [[Configuration]] and Error Fixing:** Configured Makefile targets, addressed issues with the `OUT_DIR` variable, and resolved here-document errors by replacing them with [[Python]] one-liners for sanity checks.
+- **[[Makefile]] [[Refactoring]]:** Focused on removing the dependency on the `[[accounting]].reports` step in the pipeline. The [[refactoring]] aligned the stages to focus on ingestion, materialization, and views while maintaining backward compatibility.
+- **[[Makefile]] Configuration and Error Fixing:** Configured [[Makefile]] targets, addressed issues with the `OUT_DIR` variable, and resolved here-document errors by replacing them with [[Python]] one-liners for sanity checks.
 
 ### Achievements:
-- Successfully refactored the Makefile, improving [[automation]] and pipeline efficiency.
+- Successfully refactored the [[Makefile]], improving [[automation]] and pipeline efficiency.
 - Enhanced understanding of file operations and regular expressions in [[Python]].
 
 ### Pending Tasks:
-- Further testing of the refactored Makefile to ensure all dependencies are correctly managed and backward compatibility is maintained.
+- Further testing of the refactored [[Makefile]] to ensure all dependencies are correctly managed and backward compatibility is maintained.
 
 ## Evidence
 

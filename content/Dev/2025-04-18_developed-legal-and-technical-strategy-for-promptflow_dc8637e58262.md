@@ -41,7 +41,7 @@ The session aimed to develop a comprehensive legal and technical [[strategy]] fo
 ### Pending Tasks
 - Further exploration of the SDK development for [[PromptFlow]] to finalize feature set and interfaces.
 - Detailed design and testing of the dynamic [[AI]] function registry in [[Python]].
-- Implementation of the proposed architecture for [[AI]] development on top of [[PromptFlow]].
+- Implementation of the proposed [[architecture]] for [[AI]] development on top of [[PromptFlow]].
 
 ## Evidence
 

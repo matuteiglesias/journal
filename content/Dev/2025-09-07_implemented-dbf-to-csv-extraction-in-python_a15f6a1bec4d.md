@@ -36,7 +36,7 @@ The primary goal of this session was to implement a [[Python]] function and scri
 - Ensured the updated `extractor.py` code is ready for further development.
 
 ### Pending Tasks
-- Confirm the [[visualization]] and functionality of the scaffold for future improvements.
+- Confirm the visualization and functionality of the scaffold for future improvements.
 
 ## Evidence
 

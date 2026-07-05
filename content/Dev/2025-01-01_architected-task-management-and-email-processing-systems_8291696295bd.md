@@ -35,7 +35,7 @@ The session aimed to architect and refine task management and email processing s
 - Developed core classes for an email classification system, enhancing [[automation]] capabilities.
 
 ### Achievements
-- Established a clear architecture for task management and email processing systems, focusing on object-oriented and modular design principles.
+- Established a clear [[architecture]] for task management and email processing systems, focusing on object-oriented and modular design principles.
 - Successfully integrated database handling into task management scripts, enhancing data interaction capabilities.
 - Resolved technical issues related to [[Python]] scripting, including [[error handling]] and [[debugging]] techniques.
 

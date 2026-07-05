@@ -25,7 +25,7 @@ generated: true
 The goal of this session was to enhance the [[automation]] and [[debugging]] capabilities of [[Python]] scripts, focusing on the `runner.py` and `policy.py` scripts.
 
 **Key Activities:**
-- Analyzed and executed queries related to the `runner.py` script, including logging [[configuration]], argument parsing, and batch updates.
+- Analyzed and executed queries related to the `runner.py` script, including logging configuration, argument parsing, and batch updates.
 - Explored command queries for [[automation]] using `argparse`, focusing on functions like `filter_intents` and `project_summary`.
 - Debugged the `policy.py` script, with emphasis on printing debug information and filtering results.
 - Investigated utility functions for loading plugins, chunking lists, and converting column indices to letters.

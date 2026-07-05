@@ -34,7 +34,7 @@ The session focused on developing strategies for Instagram content management an
 - Implemented image cropping techniques and saved cropped images for internal inspection.
 
 ### Achievements
-- Developed comprehensive strategies for Instagram content management, including account architecture, content [[strategy]], and privacy considerations.
+- Developed comprehensive strategies for Instagram content management, including account [[architecture]], content [[strategy]], and privacy considerations.
 - Enhanced understanding of image processing techniques in [[Python]], with practical implementations using PIL and NumPy.
 
 ### Pending Tasks

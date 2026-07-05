@@ -26,7 +26,7 @@ The session aimed to organize and prioritize tasks and projects across various d
 
 **Key Activities:**
 - Organized urgent and important tasks for immediate action in teaching, consultancy, and job market management.
-- Structured tasks of medium urgency with specific deadlines to optimize processes in accounting, health, and academic projects.
+- Structured tasks of medium urgency with specific deadlines to optimize processes in [[accounting]], health, and academic projects.
 - Listed non-urgent tasks focusing on [[project management]], skill enhancement, and personal development.
 - Provided a categorized project list with urgency and importance tags to prioritize tasks effectively.
 - Downloaded and updated [[CSV]] files for project priority lists.

@@ -26,7 +26,7 @@ The session aimed to conduct a comprehensive analysis of nutritional data, finan
 
 ### Key Activities
 - **Nutritional Analysis**: Reviewed the nutritional intake for March 26, 2026, focusing on caloric and macronutrient breakdowns.
-- **Financial Structuring**: Planned expansion phases for financing, structured accounting records, and optimized debt management strategies.
+- **Financial Structuring**: Planned expansion phases for financing, structured [[accounting]] records, and optimized debt management strategies.
 - **Data Handling**: Imported and analyzed [[CSV]] data using [[Python]]'s [[Pandas]], focusing on party and ledger datasets.
 - **Debt Management**: Developed frameworks for debt transformation into discrete units and adjusted debts based on CPI-U inflation metrics.
 - **Economic Indicators**: Formulated search queries for U.S. CPI data retrieval and adjusted financial metrics accordingly.

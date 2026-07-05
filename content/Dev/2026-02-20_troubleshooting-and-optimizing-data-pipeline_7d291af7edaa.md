@@ -31,7 +31,7 @@ The session aimed to troubleshoot and optimize various components of a data pipe
 - Addressed database and logging issues in the GPT Eventbus system, offering specific commands to manage disk space and identify missing logs.
 - Evaluated and provided feedback on metadata structure for notes, suggesting improvements for stability and consistency.
 - Developed a sessionizer contract and implementation plan, detailing steps for execution without relying on legacy paths.
-- Reviewed the sessionizer pipeline, offering recommendations for improving its [[configuration]] and functionality.
+- Reviewed the sessionizer pipeline, offering recommendations for improving its configuration and functionality.
 - Outlined daily pipeline queries for clustering scripts, identifying hardcoded paths and potential bugs.
 - Evaluated existing scripts in the data pipeline, recommending patches for improved reliability.
 - Provided a disk cleanup guide for Ubuntu, focusing on safe disk space management.

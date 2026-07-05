@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to explore advanced [[data [[visualization]]]] techniques using [[Matplotlib]], focusing on enhancing readability and presentation of plots.
+The session aimed to explore advanced [[data visualization]] techniques using [[Matplotlib]], focusing on enhancing readability and presentation of plots.
 
 ### Key Activities
 - Developed a [[Python]] script to visualize rolling averages with conditional area fills and custom y-axis formatting.
@@ -31,12 +31,12 @@ The session aimed to explore advanced [[data [[visualization]]]] techniques usin
 - Combined multiple datasets into a single plot with shared y-axis.
 - Modified plots to display yearly averages as bars, resampling data by year.
 - Adjusted bar positions to prevent overlap and enhance clarity.
-- Applied alpha transparency to bar plots based on boolean values in a [[DataFrame]].
+- Applied alpha transparency to bar plots based on boolean values in a DataFrame.
 - Set background color with transparency for annotations using `bbox` in `annotate` function.
 - Rotated x-axis labels and adjusted text annotations for better alignment.
 
 ### Achievements
-- Successfully implemented various [[visualization]] techniques to improve data presentation and clarity.
+- Successfully implemented various visualization techniques to improve data presentation and clarity.
 - Enhanced plots with conditional formatting, transparency, and annotation adjustments.
 
 ### Pending Tasks

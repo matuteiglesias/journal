@@ -27,7 +27,7 @@ The session aimed to create comprehensive guides for obtaining residency in Arge
 ### Key Activities
 - Developed detailed guides for obtaining temporary and permanent residency in Argentina, focusing on marriage-related processes for Brazilian citizens.
 - Summarized progress on the educational platform, highlighting Firebase [[integration]] and user experience improvements.
-- Created technical [[documentation]] for the educational platform, detailing architecture and future development plans.
+- Created technical [[documentation]] for the educational platform, detailing [[architecture]] and future development plans.
 - Provided [[deployment]] strategies and a step-by-step guide for deploying a [[Flask]] application to Google App Engine.
 - Addressed and resolved [[deployment]] permissions errors related to IAM roles in Google Cloud.
 - Offered [[troubleshooting]] steps for common [[deployment]] issues, focusing on IAM permissions and billing.

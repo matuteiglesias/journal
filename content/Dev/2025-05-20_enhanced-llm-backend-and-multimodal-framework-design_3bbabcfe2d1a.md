@@ -22,12 +22,12 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to explore and enhance the design and architecture of LLM backends and multimodal frameworks, focusing on [[integration]], extensibility, and performance.
+The session aimed to explore and enhance the design and [[architecture]] of LLM backends and multimodal frameworks, focusing on [[integration]], extensibility, and performance.
 
 ### Key Activities
 - **LLM Backend Adapters**: Discussed the implementation of adapters for various LLM backends, focusing on configurations, inheritance patterns, and customization points.
-- **Vendor-Agnostic LLM Routing Layer**: Explored the architecture of a vendor-agnostic LLM routing layer, addressing design themes and potential issues.
-- **InfiniFlow's LLM Orchestration Layer**: Analyzed the dual spine architecture of InfiniFlow’s LLM orchestration layer, emphasizing performance adaptivity.
+- **Vendor-Agnostic LLM Routing Layer**: Explored the [[architecture]] of a vendor-agnostic LLM routing layer, addressing design themes and potential issues.
+- **InfiniFlow's LLM Orchestration Layer**: Analyzed the dual spine [[architecture]] of InfiniFlow’s LLM orchestration layer, emphasizing performance adaptivity.
 - **Rerankers in RAG Systems**: Examined the role of rerankers in enhancing information retrieval within RAG systems.
 - **Modular LLM Backend Design**: Summarized insights on modular design for LLM backends, focusing on extensibility and interface contracts.
 - **Full-Stack Multimodal Framework**: Finalized integrations with `HunyuanCV`, `AnthropicCV`, and `GPUStackCV` within a multimodal framework.

@@ -30,7 +30,7 @@ The session aimed to improve email [[data processing]] and analysis through vari
 - Applied a patch for normalizing email addresses and filtering threads, emphasizing case normalization and self-exclusion.
 - Enhanced the algorithm for identifying the 'top person' in email threads by prioritizing incoming messages.
 - Improved exploratory [[data analysis]] (EDA) by adding non-invasive columns for identity recognition and thread statistics.
-- Proposed enhancements to email data architecture through sidecars for tracking message interactions and normalizing contact information.
+- Proposed enhancements to email data [[architecture]] through sidecars for tracking message interactions and normalizing contact information.
 
 ### Achievements
 - Successfully implemented email thread filtering and analysis scripts.
@@ -41,7 +41,7 @@ The session aimed to improve email [[data processing]] and analysis through vari
 - Suggested architectural improvements for email [[data management]].
 
 ### Pending Tasks
-- Further testing and validation of the enhanced email data architecture with sidecars.
+- Further testing and validation of the enhanced email data [[architecture]] with sidecars.
 - Continuous refinement of the 'top person' selection algorithm based on real-world data feedback.
 
 ## Evidence

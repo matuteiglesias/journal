@@ -29,7 +29,7 @@ generated: true
 3. Detailed the use of the 'all-MiniLM-L6-v2' model from Sentence Transformers for text processing pipelines, including loading, preprocessing, embedding generation, and clustering.
 4. Addressed dependency conflict resolution in [[Python]] by discussing compatible package versions and virtual environments.
 5. Discussed performance [[optimization]] strategies for [[AI]] model processing, including model loading, GPU usage, and batching techniques.
-6. Described a modular architecture for text processing, including embedding generation, graph storage, and search and clustering techniques.
+6. Described a modular [[architecture]] for text processing, including embedding generation, graph storage, and search and clustering techniques.
 7. Explored the definition and structuring of nodes in graph-based knowledge systems, discussing text chunks and abstract entities, and implementing multi-layer graphs.
 
 **Achievements:**

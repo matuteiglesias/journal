@@ -33,7 +33,7 @@ The session aimed to address common issues and migration challenges related to t
 
 ### Achievements
 - Clarified the process for creating a persistent ChromaDB client using DuckDB and Parquet.
-- Documented migration strategies and addressed deprecated [[configuration]] issues with the 'chroma-migrate' tool.
+- Documented migration strategies and addressed deprecated configuration issues with the 'chroma-migrate' tool.
 - Developed a comprehensive understanding of ChromaDB client usage in [[Python]], enhancing future development and [[troubleshooting]] efforts.
 
 ### Pending Tasks

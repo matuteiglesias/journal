@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to develop a comprehensive system in Notion for annotation, [[automation]], and [[visualization]] to optimize [[productivity]] and revenue generation.
+The session aimed to develop a comprehensive system in Notion for annotation, [[automation]], and visualization to optimize [[productivity]] and revenue generation.
 
 ### Key Activities
 - **Profit-Oriented Annotation System**: Planned a structured approach to leverage Notion for an annotation schema that enhances revenue generation through organized session logs and [[automation]].
@@ -35,7 +35,7 @@ The session aimed to develop a comprehensive system in Notion for annotation, [[
 - **[[Data Processing]] with [[Pandas]]**: Provided [[Python]] code for loading and flattening JSONL files using [[Pandas]].
 
 ### Achievements
-- Developed a comprehensive Notion-based system for annotation and [[visualization]].
+- Developed a comprehensive Notion-based system for annotation and visualization.
 - Enhanced schemas and prompts for [[AI]] session management.
 - Improved [[data processing]] techniques using [[Python]] and [[Pandas]].
 

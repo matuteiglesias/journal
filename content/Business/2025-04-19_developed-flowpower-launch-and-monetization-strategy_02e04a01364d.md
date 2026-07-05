@@ -25,7 +25,7 @@ generated: true
 The session aimed to explore and develop strategies for launching and monetizing FlowPower, an open-source alternative to Microsoft's [[PromptFlow]].
 
 **Key Activities:**
-- Analyzed [[PromptFlow]]'s [[configuration]] system, focusing on its cloud and local context management capabilities.
+- Analyzed [[PromptFlow]]'s configuration system, focusing on its cloud and local context management capabilities.
 - Discussed the strategic positioning of FlowPower as a user-friendly, open-source tool with potential for growth and monetization.
 - Outlined a robust backend [[strategy]] for UI developers to integrate with [[AI]] workflows.
 - Developed a strategic plan for launching FlowPower, including naming, MVP creation, and community engagement.

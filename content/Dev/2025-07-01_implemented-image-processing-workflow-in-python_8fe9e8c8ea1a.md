@@ -25,7 +25,7 @@ generated: true
 The goal of this session was to implement and test an image processing [[workflow]] in [[Python]] using the [[Python]] Imaging Library (PIL) and [[Matplotlib]].
 
 ### Key Activities
-- **Image Processing with PIL**: Demonstrated the use of PIL for image manipulation and [[visualization]], including importing necessary libraries and setting up the environment.
+- **Image Processing with PIL**: Demonstrated the use of PIL for image manipulation and visualization, including importing necessary libraries and setting up the environment.
 - **Check File Existence**: Used [[Python]]'s os module to check if specified image files exist in a given directory.
 - **Image Processing Loop**: Created a loop to open images from specified paths and print their format, size, and mode.
 - **Importing PIL Image Module**: Detailed the import statement for the PIL Image module, essential for image processing tasks.

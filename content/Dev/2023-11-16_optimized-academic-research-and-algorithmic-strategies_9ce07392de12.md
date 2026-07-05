@@ -30,7 +30,7 @@ The session aimed to align research papers with institutional specializations an
 - Explored various algorithmic approaches for optimizing course scheduling, including graph theory, linear programming, rule-based systems, genetic algorithms, and classification algorithms.
 - Developed strategies for optimizing correlativity modeling in directed graphs using adjacency matrices, topological sorting, shortest paths, quadratic [[optimization]], strongly connected components analysis, clustering techniques, and heuristic methods.
 - Formulated a formal approach to minimize discrepancies in level assignments for courses, detailing steps for variable definition, objective function formulation, constraint establishment, problem-solving, and result adjustment.
-- Implemented a step-by-step approach to propagate hard correlativities in a [[Pandas]] [[DataFrame]] using NetworkX and the shortest path algorithm, including a code outline.
+- Implemented a step-by-step approach to propagate hard correlativities in a [[Pandas]] DataFrame using NetworkX and the shortest path algorithm, including a code outline.
 
 **Achievements:**
 - Successfully aligned research papers with institutional specializations and explored comprehensive algorithmic strategies for [[optimization]] problems.

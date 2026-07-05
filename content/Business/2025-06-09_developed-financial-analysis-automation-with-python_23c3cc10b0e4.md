@@ -37,7 +37,7 @@ The session aimed to enhance financial analysis processes by automating the gene
 - Resolved technical issues related to data accessibility and processing.
 
 ### Pending Tasks
-- Further refine the financial table designs to enhance [[data [[visualization]]]] and strategic insights.
+- Further refine the financial table designs to enhance [[data visualization]] and strategic insights.
 - Explore additional data sources for comprehensive financial analysis.
 
 ## Evidence

@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to improve [[data processing]] and [[visualization]] techniques for analyzing electoral data, specifically focusing on income data and voter behavior.
+The session aimed to improve [[data processing]] and visualization techniques for analyzing electoral data, specifically focusing on income data and voter behavior.
 
 ### Key Activities
 - Reviewed code snippets for processing and merging datasets to analyze income data and voter behavior.
@@ -31,17 +31,17 @@ The session aimed to improve [[data processing]] and [[visualization]] technique
 - Developed a structured [[workflow]] for merging and analyzing electoral circuit datasets.
 - Adapted [[Python]] code for visualizing political data using box plots and scatter plots.
 - Simplified plotting code to enhance clarity and reduce complexity.
-- Implemented [[visualization]] techniques for political votes and income levels, including scatter plots and weighted box plots.
+- Implemented visualization techniques for political votes and income levels, including scatter plots and weighted box plots.
 - Modified plot aesthetics in [[Matplotlib]], including color adjustments and [[error handling]] for font size parameters.
 
 ### Achievements
 - Successfully outlined and executed a comprehensive [[workflow]] for merging and analyzing datasets.
-- Enhanced [[data [[visualization]]]] techniques using [[Python]] libraries such as [[Matplotlib]] and Seaborn.
+- Enhanced [[data visualization]] techniques using [[Python]] libraries such as [[Matplotlib]] and Seaborn.
 - Improved code clarity and reduced complexity in plotting scripts.
 
 ### Pending Tasks
 - Ensure the uploaded datasets are correctly integrated into the [[workflow]] for further analysis.
-- Continue refining [[visualization]] aesthetics and [[error handling]] for future sessions.
+- Continue refining visualization aesthetics and [[error handling]] for future sessions.
 
 ## Evidence
 

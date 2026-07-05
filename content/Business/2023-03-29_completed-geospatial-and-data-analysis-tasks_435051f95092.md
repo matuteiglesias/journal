@@ -28,7 +28,7 @@ The session aimed to accomplish several tasks related to geospatial analysis, ca
 - **Project Accomplishments**: Discussed how each accomplishment fits within the broader project context, emphasizing collaboration.
 - **Geospatial Tasks**: Outlined tasks for calculating distances between DHS clusters and the nearest road network.
 - **[[Data Analysis]] Techniques**: Explored statistical methods for causal inference, including regression and covariate checks.
-- **[[Data [[Visualization]]]]**: Created maps and histograms to visualize DHS survey points and covariates in Africa.
+- **[[Data Visualization]]**: Created maps and histograms to visualize DHS survey points and covariates in Africa.
 - **[[Data Processing]]**: Planned [[data processing]] tasks relevant to social science research on conflict and civic engagement.
 - **Report Completion**: Finalized a report on analysis and processing tasks related to violent conflict and service delivery.
 

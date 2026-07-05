@@ -27,7 +27,7 @@ The session aimed to improve the [[deployment]] process and security practices f
 ### Key Activities
 - **[[Python]] Subprocess Management**: Implemented a structured approach to manage [[Python]] subprocesses in Streamlit apps, ensuring the correct virtual environment is used.
 - **Environment Portability**: Explored options to enhance environment portability using `venv` for better compatibility over `conda`.
-- **Streamlit Cloud [[Deployment]]**: Provided a guide for deploying Streamlit apps on Streamlit Cloud, covering repository preparation and [[configuration]].
+- **Streamlit Cloud [[Deployment]]**: Provided a guide for deploying Streamlit apps on Streamlit Cloud, covering repository preparation and configuration.
 - **Connection Issue Resolution**: Identified and fixed the ConnectionNotFoundError in [[PromptFlow]] on Streamlit Cloud, focusing on connection configurations.
 - **[[API]] Key Security**: Discussed best practices for managing [[API]] keys securely, avoiding hard-coded secrets, and using dynamic file creation and environment variables.
 - **OpenAI [[API]] [[Integration]]**: Detailed a robust connection setup for OpenAI [[API]] in Streamlit, ensuring secure [[API]] key management.

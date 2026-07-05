@@ -25,7 +25,7 @@ generated: true
 The session aimed to enhance a [[Flask]] application's [[API]] by refining the `/predict` endpoint, resolving import errors, and improving the user interface for model management.
 
 ### Key Activities
-- Modified the preprocessing function to handle both dictionary and [[DataFrame]] inputs, ensuring consistent feature processing in a [[Flask]] application.
+- Modified the preprocessing function to handle both dictionary and DataFrame inputs, ensuring consistent feature processing in a [[Flask]] application.
 - Revised the `/predict` endpoint to dynamically load the latest model and preprocessor, improving [[error handling]] and [[data processing]].
 - Addressed `ModuleNotFoundError` and import issues by adjusting [[Python]] paths and import statements in the [[Flask]] application.
 - Implemented a filtering mechanism to exclude preprocessor files from model lists in [[API]] responses.

@@ -22,13 +22,13 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to explore viable business models for web services and strategies for immigration and work in Mexico, focusing on product design, technical architecture, and legal pathways for foreign workers.
+The session aimed to explore viable business models for web services and strategies for immigration and work in Mexico, focusing on product design, technical [[architecture]], and legal pathways for foreign workers.
 
 ### Key Activities
 - **Business Model Viability**: Discussed a framework for a web services business, emphasizing product boundaries, onboarding, and risk mitigation.
 - **Micro-product Development**: Outlined a [[strategy]] for scalable micro-products using customizable templates.
 - **Product Development [[Strategy]]**: Detailed user experience flows and hosting strategies for scalable web applications.
-- **Technical Design**: Provided a high-level architecture for scalable products, including [[API]] endpoints and security considerations.
+- **Technical Design**: Provided a high-level [[architecture]] for scalable products, including [[API]] endpoints and security considerations.
 - **Immigration Strategies**: Explored work visa requirements, digital nomad opportunities, and tax residency in Mexico.
 
 ### Achievements

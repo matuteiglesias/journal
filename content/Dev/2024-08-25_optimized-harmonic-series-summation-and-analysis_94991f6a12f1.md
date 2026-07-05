@@ -26,7 +26,7 @@ The session aimed to explore and optimize the summation of the harmonic series u
 
 ### Key Activities
 - **High Precision Summation**: Utilized [[Python]]'s `mpmath` library to achieve arbitrary precision in summing the harmonic series.
-- **Error [[Visualization]]**: Implemented [[visualization]] techniques to compare the harmonic series sum against its logarithmic approximation, highlighting error propagation.
+- **Error Visualization**: Implemented visualization techniques to compare the harmonic series sum against its logarithmic approximation, highlighting error propagation.
 - **Floating-Point Precision Management**: Discussed strategies for managing floating-point precision using standard [[Python]] arithmetic, focusing on segmenting the series.
 - **Performance Profiling**: Conducted performance profiling of different floating-point precisions (`float16`, `float32`, `float64`) and chunk sizes, using libraries like `numpy` and `[[matplotlib]]`.
 - **[[Optimization]] Techniques**: Explored methods to reduce chunk sizes and optimize loop structures to enhance computational efficiency.

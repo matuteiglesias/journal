@@ -29,14 +29,14 @@ The session aimed to explore [[AI]] flow orchestration and CLI [[integration]], 
 - Explored unexpected integrations in flow orchestration to enhance [[automation]].
 - Analyzed emerging [[AI]] [[workflow]] platforms and their unique positioning.
 - Reflected on branding strategies for FlowPower, a tool empowering developers.
-- Reviewed [[PromptFlow]]'s CLI architecture for potential [[integration]] into FlowPower.
+- Reviewed [[PromptFlow]]'s CLI [[architecture]] for potential [[integration]] into FlowPower.
 - Outlined custom CLI options for FlowPower, mirroring [[PromptFlow]]'s capabilities.
 - Provided an overview of the [[PromptFlow]] CLI development kit and its extensibility.
 
 ### Achievements
 - Identified key [[AI]] flow patterns and orchestration techniques.
 - Developed branding insights for FlowPower.
-- Clarified the modular architecture of [[PromptFlow]]'s CLI and its application to FlowPower.
+- Clarified the modular [[architecture]] of [[PromptFlow]]'s CLI and its application to FlowPower.
 
 ### Pending Tasks
 - Further investigate the [[integration]] of `pf flow` CLI with FlowPower.

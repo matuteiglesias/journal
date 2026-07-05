@@ -28,14 +28,14 @@ The session aimed to set up a lightweight production site using AWS Route 53 and
 - **AWS Route 53 Setup**: Deployed a production-ready website using AWS Route 53 for domain registration, with hosting on platforms like Netlify or Vercel.
 - **Domain Management**: Confirmed domain registration on AWS Route 53 and connected it to Vercel, updating DNS records and managing SSL.
 - **DNS Migration**: Migrated DNS from an old static site to Vercel, considering [[SEO]] implications.
-- **[[Docusaurus]] [[Configuration]]**: Cloned and adapted a [[Docusaurus]] template, ran it locally for the Sapphire website, and resolved Typedoc and plugin issues.
+- **[[Docusaurus]] Configuration**: Cloned and adapted a [[Docusaurus]] template, ran it locally for the Sapphire website, and resolved Typedoc and plugin issues.
 - **JavaScript Best Practices**: Discussed commenting best practices for JavaScript object properties in the context of [[Docusaurus]].
 - **[[SEO]] and Site Structure**: Developed a strategic plan for optimizing [[Docusaurus]] site structure for better [[SEO]] and audience segmentation.
 
 ### Achievements
 - Successfully registered and managed a domain with AWS Route 53.
 - Connected the domain to Vercel and completed DNS migration.
-- Configured and ran a [[Docusaurus]] site locally, resolving multiple [[configuration]] issues.
+- Configured and ran a [[Docusaurus]] site locally, resolving multiple configuration issues.
 - Developed a checklist for adapting [[Docusaurus]] codebase and index.tsx for personal branding.
 
 ### Pending Tasks

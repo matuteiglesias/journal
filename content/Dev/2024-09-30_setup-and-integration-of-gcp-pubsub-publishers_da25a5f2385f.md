@@ -33,7 +33,7 @@ The session aimed to organize and implement the setup of multiple publishers for
 
 ### Achievements
 - Successfully set up publishers for multiple data streams using Google Cloud Pub/Sub.
-- Enhanced the architecture of data ingestion bots for better scalability and efficiency.
+- Enhanced the [[architecture]] of data ingestion bots for better scalability and efficiency.
 
 ### Pending Tasks
 - Further testing and validation of the setup to ensure all data streams are correctly published and received.

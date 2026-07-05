@@ -27,12 +27,12 @@ The session aimed to enhance time series [[data analysis]] by refining extrapola
 ### Key Activities
 - Implemented a [[Python]] function for trend plus deviation extrapolation using linear regression and median deviations.
 - Developed methods to calculate monthly residuals and forecast using seasonal deviations, specifically for EMAE and employment data.
-- Updated the `trend_plus_seasonality_extrapolation` function for handling multiple columns in a [[pandas]] [[DataFrame]].
+- Updated the `trend_plus_seasonality_extrapolation` function for handling multiple columns in a [[pandas]] DataFrame.
 - Improved [[Python]] code for processing employment data, ensuring comprehensive inclusion of variables for analysis.
 - Streamlined data loading and processing for EMAE, including seasonality profile calculations.
 - Enhanced data merging functions to avoid duplicate columns and ensure clean data output.
-- Optimized [[DataFrame]] extrapolation and concatenation methods to prevent overlapping dates.
-- Addressed [[DataFrame]] column reference errors and optimized time series data handling using `indice_tiempo`.
+- Optimized DataFrame extrapolation and concatenation methods to prevent overlapping dates.
+- Addressed DataFrame column reference errors and optimized time series data handling using `indice_tiempo`.
 
 ### Achievements
 - Successfully updated and integrated extrapolation functions for more efficient time series forecasting.

@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal:
-The session aimed to develop a phased migration [[strategy]] for the `media_monitor` repository to transition towards an interoperable architecture while preserving the existing system.
+The session aimed to develop a phased migration [[strategy]] for the `media_monitor` repository to transition towards an interoperable [[architecture]] while preserving the existing system.
 
 ### Key Activities:
 - Developed an execution plan for a phased migration [[strategy]], detailing objectives, sub-objectives, and execution tracks.

@@ -28,9 +28,9 @@ The session aimed to explore and implement advanced [[data processing]] techniqu
 - **Data Import [[Error Handling]]**: Utilized `error_bad_lines`, `usecols`, and `dtype` parameters in [[Pandas]] to manage errors during data import and specify column data types.
 - **[[CSV]] Error Management**: Discussed strategies for ignoring problematic lines in [[CSV]] files and selecting columns post-import to maintain data integrity.
 - **[[Data Processing]] [[Workflow]]**: Developed a [[workflow]] to process columns, calculate medians, counts, and cumulative sums, and save results to a [[CSV]] file.
-- **Quartile Analysis**: Implemented code to calculate quartiles for [[DataFrame]] columns, merge data, and export results.
-- **[[CSV]] File Merging**: Merged multiple [[CSV]] files with additional data, consolidating them into a single [[DataFrame]].
-- **Code [[Optimization]]**: Explored strategies for optimizing [[DataFrame]] processing by reducing redundant file reads and using dictionaries.
+- **Quartile Analysis**: Implemented code to calculate quartiles for DataFrame columns, merge data, and export results.
+- **[[CSV]] File Merging**: Merged multiple [[CSV]] files with additional data, consolidating them into a single DataFrame.
+- **Code [[Optimization]]**: Explored strategies for optimizing DataFrame processing by reducing redundant file reads and using dictionaries.
 - **DHS [[Data Processing]]**: Modified code to filter and process DHS data files, focusing on merging datasets based on specific columns.
 - **Code Readability Improvement**: Enhanced code readability for merging and concatenating data using [[Pandas]].
 

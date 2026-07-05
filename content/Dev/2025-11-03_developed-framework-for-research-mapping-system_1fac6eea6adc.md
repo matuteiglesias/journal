@@ -33,7 +33,7 @@ generated: true
 - Proposed a blueprint for building a research-mapping system using small, reusable components.
 
 **Achievements:**
-- Established a detailed framework for mapping research fields, integrating citation analysis and [[data [[visualization]]]].
+- Established a detailed framework for mapping research fields, integrating citation analysis and [[data visualization]].
 - Developed actionable strategies for ethical outreach and citation management.
 - Created a structured approach for selecting and using research seeds in economics.
 

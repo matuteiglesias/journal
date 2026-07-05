@@ -32,7 +32,7 @@ The primary aim of this session was to address and fix various issues related to
 
 ### Achievements
 - Successfully implemented fixes to critical functions in LangGraph and related components, ensuring robust data handling and error-free operation.
-- Improved the architecture of the `save_enrichment()` function, enhancing its efficiency and reliability.
+- Improved the [[architecture]] of the `save_enrichment()` function, enhancing its efficiency and reliability.
 
 ### Pending Tasks
 - Further testing of the updated functions in different scenarios to ensure comprehensive [[error handling]] and performance [[optimization]].

@@ -27,7 +27,7 @@ The session focused on enhancing the Retrieval-Augmented Generation (RAG) pipeli
 ### Key Activities
 - **Enhancements to RAG.py**: Introduced new dataclasses and functionalities for generating run reports and per-question metrics.
 - **Code Review and Fixes**: Addressed issues in the query engine builder, improving imports, argument handling, and model management.
-- **Decoupling Pipeline Components**: Refactored retrieval pipeline components for flexible [[configuration]] of storage, embeddings, and processing.
+- **Decoupling Pipeline Components**: Refactored retrieval pipeline components for flexible configuration of storage, embeddings, and processing.
 - **CLI Implementation**: Developed a `main()` function for a pluggable builder with CLI flags, enhancing document processing and retrieval.
 - **CLI Playbook**: Created a comprehensive CLI playbook for RAG pipeline setup and execution.
 - **Model Management**: Implemented embedding model selection and fallback mechanisms, including [[error handling]] for Hugging Face models.

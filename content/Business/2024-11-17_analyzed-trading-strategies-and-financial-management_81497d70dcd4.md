@@ -27,7 +27,7 @@ The session aimed to explore and evaluate trading strategies and financial manag
 ### Key Activities
 - **Trading Strategies:** Reflected on essential skills and strategies for successful trading, emphasizing risk management, consistency, and emotional discipline.
 - **[[Strategy]] Evaluation:** Conducted a detailed assessment of trading strategies, identifying strengths and areas for improvement.
-- **Financial Management:** Analyzed a property management business scenario, focusing on financials, currency conversion, and dual-currency accounting.
+- **Financial Management:** Analyzed a property management business scenario, focusing on financials, currency conversion, and dual-currency [[accounting]].
 - **Currency Calculation:** Calculated currency balances in USD and ARS, considering debits and credits.
 - **FX Rate Updates:** Updated FX rates in the 'Familia - Ledger' sheet and implemented a VLOOKUP formula in Google Sheets for FX rate lookup.
 

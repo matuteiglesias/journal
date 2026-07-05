@@ -26,7 +26,7 @@ The session aimed to optimize disk space on a Linux system and perform advanced 
 
 ### Key Activities
 - **Disk Space Management**: Utilized terminal commands `df` and `du` to check disk usage and identify large files in the `/home` partition. Removed unnecessary files using `rm` to free up space.
-- **[[DataFrame]] Manipulation**: Executed several [[pandas]] operations including filtering DataFrames from multiple [[CSV]] files, selecting top rows from grouped data, creating new columns based on conditions, and using `mask` for conditional value replacement.
+- **DataFrame Manipulation**: Executed several [[pandas]] operations including filtering DataFrames from multiple [[CSV]] files, selecting top rows from grouped data, creating new columns based on conditions, and using `mask` for conditional value replacement.
 - **String Operations**: Applied `str.replace` and `str.strip` methods for precise string manipulation within DataFrames.
 - **[[Error Handling]]**: Addressed the `SpecificationError` in [[pandas]] by using multiple `agg` statements for aggregation without nesting.
 

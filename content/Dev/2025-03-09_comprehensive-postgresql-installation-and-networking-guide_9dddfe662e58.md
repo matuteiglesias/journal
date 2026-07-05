@@ -35,7 +35,7 @@ The session aimed to provide a comprehensive understanding of PostgreSQL install
 - Clarified the importance of [[networking]] in database management, including security aspects.
 
 ### Pending Tasks
-- Further exploration of advanced PostgreSQL [[configuration]] and [[optimization]] techniques is needed.
+- Further exploration of advanced PostgreSQL configuration and [[optimization]] techniques is needed.
 
 ## Evidence
 

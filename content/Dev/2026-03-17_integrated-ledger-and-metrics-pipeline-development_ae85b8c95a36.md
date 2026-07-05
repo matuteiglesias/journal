@@ -22,11 +22,11 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to enhance the data pipeline by integrating a ledger system and developing a semantic reporting layer for accounting projects.
+The session aimed to enhance the data pipeline by integrating a ledger system and developing a semantic reporting layer for [[accounting]] projects.
 
 ### Key Activities
 - Transitioned from a basic parser collection to a fully integrated ledger pipeline, focusing on data integrity and processing stability.
-- Built a semantic reporting layer in the accounting project, introducing a metrics registry and builder functions to improve financial reporting accuracy.
+- Built a semantic reporting layer in the [[accounting]] project, introducing a metrics registry and builder functions to improve financial reporting accuracy.
 - Clarified the operational status of the `accounts_pipeline` and emphasized the importance of the family business reporting layer.
 - Executed the pipeline, identifying issues with snapshot freshness and dependencies of reporting builders.
 - Validated the metrics layer against real family-business artifacts and revised the metric registry.
@@ -38,7 +38,7 @@ The session aimed to enhance the data pipeline by integrating a ledger system an
 
 ### Achievements
 - Successfully integrated a ledger pipeline with enhanced data integrity and stability.
-- Developed a robust semantic reporting layer for accounting, improving traceability and accuracy.
+- Developed a robust semantic reporting layer for [[accounting]], improving traceability and accuracy.
 - Validated and operationalized family-business metrics, ensuring alignment with real data.
 
 ### Pending Tasks

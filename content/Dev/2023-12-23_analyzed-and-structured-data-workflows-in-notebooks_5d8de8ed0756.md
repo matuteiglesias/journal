@@ -25,7 +25,7 @@ generated: true
 The session aimed to analyze and enhance the data workflows within Jupyter notebooks, focusing on empirical [[data analysis]], [[file management]], and [[workflow]] structuring.
 
 ### Key Activities
-- **Empirical Analysis**: Reviewed the use of 'empirical' in Jupyter notebooks to understand its role in statistical analysis and [[visualization]].
+- **Empirical Analysis**: Reviewed the use of 'empirical' in Jupyter notebooks to understand its role in statistical analysis and visualization.
 - **Bash Commands**: Explored the use of `ls -l` and file modification commands to manage and analyze files based on modification times.
 - **File Modification Analysis**: Conducted a reflective analysis on work patterns by examining file modification times and filenames.
 - **Directory Structuring**: Proposed a structured directory organization to improve project [[file management]].

@@ -30,7 +30,7 @@ The session focused on developing and refining prompts for [[AI]] image generati
 - Developed a condensed version of negative prompts to group undesirable traits effectively.
 - Created tailored social media photo prompts for James Franco, suitable for platforms like Instagram, Facebook, and LinkedIn.
 - Compiled concise, keyword-driven prompts for generating images of James Franco in diverse settings.
-- Provided keyword-driven prompts for creative [[visualization]] projects featuring James Franco.
+- Provided keyword-driven prompts for creative visualization projects featuring James Franco.
 
 **Achievements:**
 - Successfully created a comprehensive set of prompts that can be used for both [[AI]] image generation and social media contexts.

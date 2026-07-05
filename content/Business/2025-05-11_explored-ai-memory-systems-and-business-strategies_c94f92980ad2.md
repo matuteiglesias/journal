@@ -26,7 +26,7 @@ The session aimed to explore enhancements in [[AI]] memory systems and develop s
 
 **Key Activities:**
 - Discussed the enhanced memory system of ChatGPT, focusing on personalization and user interaction improvements.
-- Explored technical insights into memory-augmented transformer architecture and user memory object encoding.
+- Explored technical insights into memory-augmented transformer [[architecture]] and user memory object encoding.
 - Analyzed memory and retrieval techniques in [[AI]] systems, including speculative and real methods from OpenAI.
 - Developed a crash course for mastering vector databases and embedded memory systems.
 - Provided instructions for extracting and normalizing metadata from vectorstores into [[Pandas]] DataFrames.

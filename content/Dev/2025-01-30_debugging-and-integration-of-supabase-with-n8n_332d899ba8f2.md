@@ -37,7 +37,7 @@ The primary goal of this session was to troubleshoot and integrate various compo
 - **Resolving Storage Errors**: Troubleshot 'Bucket not found' and 404 errors in Supabase storage.
 - **Fixing Invalid File Path**: Corrected URL paths in Supabase storage.
 - **Handling Duplicate Key Errors**: Resolved primary key constraint violations in Supabase.
-- **[[Troubleshooting]] [[AI]] Context [[Integration]]**: Focused on embedding retrieval and [[configuration]].
+- **[[Troubleshooting]] [[AI]] Context [[Integration]]**: Focused on embedding retrieval and configuration.
 - **Fixing PostgreSQL Functions**: Verified and tested `match_documents` function in PostgreSQL.
 
 ### Achievements

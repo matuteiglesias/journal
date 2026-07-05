@@ -29,8 +29,8 @@ The session aimed to design a modular SDK for FlowBlock and analyze [[PromptFlow
 - **YAML Header Analysis:** Analyzed flow-level YAML headers, comparing DAG-based and AzureML CommandComponent-based flows.
 - **[[PromptFlow]] Schema Overview:** Provided a detailed overview and refinement of [[PromptFlow]] YAML header schema, including mandatory and optional fields.
 - **Script Development:** Outlined a script for aggregating YAML header information to facilitate [[data analysis]].
-- **Advanced [[Configuration]] Patterns:** Explored advanced input [[configuration]] patterns for [[Python]] tools in [[PromptFlow]] systems.
-- **Tool and Architecture Insights:** Mapped MVP to [[PromptFlow]] architecture and explored the `chat_with_pdf` system for tool orchestration and [[deployment]].
+- **Advanced Configuration Patterns:** Explored advanced input configuration patterns for [[Python]] tools in [[PromptFlow]] systems.
+- **Tool and [[Architecture]] Insights:** Mapped MVP to [[PromptFlow]] [[architecture]] and explored the `chat_with_pdf` system for tool orchestration and [[deployment]].
 
 ### Achievements:
 - Completed the design blueprint for the FlowBlock SDK.
@@ -39,7 +39,7 @@ The session aimed to design a modular SDK for FlowBlock and analyze [[PromptFlow
 
 ### Pending Tasks:
 - Implement the outlined script for YAML header aggregation.
-- Further explore advanced input [[configuration]] patterns for broader application.
+- Further explore advanced input configuration patterns for broader application.
 - Execute actionable steps for enhancing Flowpower using [[PromptFlow]] insights.
 
 ## Evidence

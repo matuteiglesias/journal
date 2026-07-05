@@ -27,7 +27,7 @@ The primary aim of this session was to enhance the MVP frontend by integrating c
 ### Key Activities
 - **Defining Routes in Next.js 13+**: Implemented guidance on defining routes and [[troubleshooting]] 404 errors in a Next.js application.
 - **Upgrading MVP Frontend**: Imported essential UI components from the [[ai]]-dataops-template to improve the user interface.
-- **Upgrading `tsconfig.[[json]]`**: Aligned the TypeScript [[configuration]] with best practices for a more modular setup.
+- **Upgrading `tsconfig.[[json]]`**: Aligned the TypeScript configuration with best practices for a more modular setup.
 - **Switching Axios to Fetch**: Replaced Axios with Fetch [[API]] in Next.js, addressing CORS issues.
 - **Fixing TypeScript Type Definition Errors**: Resolved issues with missing type definitions and improved environment variable usage.
 - **[[Refactoring]] `handleRun` Function**: Updated the function to use environment variables for better configurability.

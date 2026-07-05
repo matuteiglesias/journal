@@ -26,8 +26,8 @@ The primary goal of this session was to address and resolve issues related to [[
 
 ### Key Activities
 - **Structured Commit Sequence**: Implemented a systematic approach to organizing and committing changes in the repository, including deleting old files, updating existing ones, and adding new content.
-- **[[Troubleshooting]] Contribution Issues**: Identified and resolved [[GitHub]] contribution recognition issues caused by incorrect email [[configuration]] in [[Git]] commits.
-- **Fixing Attribution Issues**: Added email addresses to local [[Git]] [[configuration]] and retroactively corrected previous commits to ensure proper attribution.
+- **[[Troubleshooting]] Contribution Issues**: Identified and resolved [[GitHub]] contribution recognition issues caused by incorrect email configuration in [[Git]] commits.
+- **Fixing Attribution Issues**: Added email addresses to local [[Git]] configuration and retroactively corrected previous commits to ensure proper attribution.
 - **Handling Unstaged Changes**: Developed a [[strategy]] for managing unstaged changes while correcting author information, emphasizing the importance of backing up work.
 - **Amending Commits**: Used `[[git]] commit --amend` and interactive rebase to amend author information in past commits, ensuring all changes were correctly reflected in the remote repository.
 - **Interactive Rebase**: Conducted an interactive rebase starting from the first commit using the `--root` option to amend author information for all commits.

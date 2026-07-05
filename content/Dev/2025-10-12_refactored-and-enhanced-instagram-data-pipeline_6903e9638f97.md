@@ -29,15 +29,15 @@ The goal of this session was to integrate, refactor, and enhance the [[data proc
 - Refactored the data pipeline to use JSONL or [[CSV]] outputs for better performance.
 - Enhanced the function for extracting and processing Instagram messages, focusing on data enrichment and structured DataFrames.
 - Implemented critical enhancements for the message normalization pipeline, including robust HTML selectors and [[JSON]] schema definitions.
-- Fixed wiring bugs and robustness issues in a [[Python]] script, specifically in argument parsing and [[DataFrame]] handling.
+- Fixed wiring bugs and robustness issues in a [[Python]] script, specifically in argument parsing and DataFrame handling.
 - Conducted a code review and provided recommendations for a junior pod project execution.
 - Developed a drop-in MVP for thread parsing with safer selectors and timezone handling.
 - Refactored HTML parsing logic to consolidate functions and improve the pipeline.
-- Fixed issues in the Instagram Makefile, addressing output paths and duplicate targets.
+- Fixed issues in the Instagram [[Makefile]], addressing output paths and duplicate targets.
 - Streamlined the IG data pipeline by normalizing data directly from HTML threads.
-- Enhanced Makefile management for integrating Instagram, WhatsApp, and Email pipelines.
-- Resolved Makefile issues with duplicate targets and missing escape characters.
-- Fixed GNU Make [[configuration]] issues related to environment variables.
+- Enhanced [[Makefile]] management for integrating Instagram, WhatsApp, and Email pipelines.
+- Resolved [[Makefile]] issues with duplicate targets and missing escape characters.
+- Fixed GNU Make configuration issues related to environment variables.
 - Fixed Instagram data normalization issues to ensure correct [[CSV]] handling.
 
 ### Achievements

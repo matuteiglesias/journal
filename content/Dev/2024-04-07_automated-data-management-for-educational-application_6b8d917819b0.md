@@ -22,10 +22,10 @@ generated: true
 ## Description
 
 **Session Goal:**
-The session aimed to advance the [[automation]] of [[data management]] processes for an educational application, focusing on exporting data, [[visualization]], and report [[automation]] using Firestore, [[Python]], and [[Pandas]].
+The session aimed to advance the [[automation]] of [[data management]] processes for an educational application, focusing on exporting data, visualization, and report [[automation]] using Firestore, [[Python]], and [[Pandas]].
 
 **Key Activities:**
-- Summarized the main activities in the [[automation]] project for an educational app, involving Firestore, data export, [[visualization]], and report [[automation]].
+- Summarized the main activities in the [[automation]] project for an educational app, involving Firestore, data export, visualization, and report [[automation]].
 - Analyzed user feedback to identify trends and improvement areas for an educational platform, setting an agenda for implementing enhancements.
 - Developed a motivational message for a student campaign at the University of Buenos Aires, addressing the financial crisis due to budget freezes.
 - Provided HTML and CSS code for an emergency notice on web pages, focusing on budgetary issues in [[education]].

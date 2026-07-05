@@ -32,7 +32,7 @@ The session aimed to troubleshoot and resolve issues related to wxPython install
 - Updated `ConfigParser` import statements for [[Python]] 3 compatibility.
 - Fixed deprecation issues in pyOBD scripts due to wxPython updates.
 - Resolved [[Python]] compatibility issues when porting wxPython applications from [[Python]] 2 to 3.
-- Identified the correct serial port for OBD2 scanner [[configuration]] in Linux.
+- Identified the correct serial port for OBD2 scanner configuration in Linux.
 
 ### Achievements
 - Successfully installed wxPython in both Anaconda and system [[Python]] environments.

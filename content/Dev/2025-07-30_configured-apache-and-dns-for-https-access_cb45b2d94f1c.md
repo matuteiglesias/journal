@@ -26,8 +26,8 @@ The primary goal of this session was to configure Apache and DNS settings to ena
 
 ### Key Activities
 - Configured Apache virtual host for the subdomain and assessed DNS settings.
-- Validated HTTPS [[configuration]] and identified DNS-related issues preventing server access.
-- Conducted [[troubleshooting]] for Apache server and SSL [[configuration]], including port listening and firewall settings.
+- Validated HTTPS configuration and identified DNS-related issues preventing server access.
+- Conducted [[troubleshooting]] for Apache server and SSL configuration, including port listening and firewall settings.
 - Configured AWS EC2 Security Group to resolve HTTPS request timeouts by opening port 443.
 - Implemented routing solutions for static site and SPA on Apache using `.htaccess` and mod_rewrite.
 - Addressed asset loading issues in SPAs by managing CSS and JS paths.

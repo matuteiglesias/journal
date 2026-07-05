@@ -32,8 +32,8 @@ The session aimed to enhance [[automation]] processes by developing tools for RE
 - Implemented [[Python]] scripts (`read_folder_files.py` and `write_readme.py`) to handle file reading and README writing tasks.
 - Fixed output references in [[PromptFlow]] to ensure correct output handling.
 - Audited and updated README [[documentation]] to align with actual flow designs and functionalities.
-- Proposed a self-healing packaging system, 'flow fixer', to automate detection and repair of [[configuration]] inconsistencies.
-- Designed a modular flow fixer pipeline using a DAG architecture with [[Python]], Jinja, and LLM components.
+- Proposed a self-healing packaging system, 'flow fixer', to automate detection and repair of configuration inconsistencies.
+- Designed a modular flow fixer pipeline using a DAG [[architecture]] with [[Python]], Jinja, and LLM components.
 
 ### Achievements
 - Successfully developed and refined tools for automated README generation and flow fixing.

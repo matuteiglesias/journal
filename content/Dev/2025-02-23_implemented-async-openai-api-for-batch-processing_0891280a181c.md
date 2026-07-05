@@ -26,7 +26,7 @@ The session aimed to explore and implement efficient batch processing using Open
 
 ### Key Activities:
 - Explored two methods for batch [[API]] calls: asynchronous requests for parallel processing and OpenAI's Batch [[API]] for large-scale jobs.
-- Implemented an asynchronous translation process for a [[DataFrame]]'s 'Snippet' column using OpenAI's [[API]].
+- Implemented an asynchronous translation process for a DataFrame's 'Snippet' column using OpenAI's [[API]].
 - Resolved a RuntimeError in Jupyter Notebooks using the `nest_asyncio` library to allow nested event loops.
 - Debugged OpenAI [[API]] failures related to rate limits and invalid responses.
 - Corrected asynchronous calls to OpenAI [[API]], addressing `TypeError` issues with `await` and `ChatCompletion`.

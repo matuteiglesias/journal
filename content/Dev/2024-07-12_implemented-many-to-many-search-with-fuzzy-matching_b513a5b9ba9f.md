@@ -31,7 +31,7 @@ The session aimed to implement a many-to-many search mechanism linking individua
 - Utilized Elasticsearch for optional indexing and efficient querying of matched entities.
 
 ### Achievements
-- Successfully implemented a fuzzy matching function in [[Python]] to search for names within a cleaned text column of a [[DataFrame]].
+- Successfully implemented a fuzzy matching function in [[Python]] to search for names within a cleaned text column of a DataFrame.
 - Completed the [[workflow]] for loading data, defining a matching function, applying it, and displaying results.
 
 ### Pending Tasks

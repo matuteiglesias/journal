@@ -26,7 +26,7 @@ The session aimed to evaluate and enhance the quality of annotations within the 
 
 ### Key Activities
 - Loaded and parsed JSONL files using [[Python]] to extract essential information like message index, title, and role.
-- Converted summary lists into [[pandas]] DataFrames for better [[visualization]] and analysis.
+- Converted summary lists into [[pandas]] DataFrames for better visualization and analysis.
 - Offered session analysis and segmentation to identify reusable components in the session narratives.
 - Conducted a detailed evaluation of annotation quality, assessing semantic fidelity, traceability, and structural reusability across two clusters: algorithms with rest days and SARMs supplementation.
 - Reviewed and refined the prompt for cognitive analysis agents to ensure clarity and schema compliance.

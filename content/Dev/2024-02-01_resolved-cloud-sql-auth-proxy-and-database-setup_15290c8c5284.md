@@ -26,7 +26,7 @@ The session aimed to address connection issues with Cloud SQL Auth Proxy and est
 
 ### Key Activities
 - **Cloud SQL Auth Proxy Setup**: Utilized a guide to correct the Cloud SQL Auth Proxy command for secure local development connections.
-- **[[Troubleshooting]]**: Diagnosed and resolved connection issues, including verifying proxy operation and instance [[configuration]].
+- **[[Troubleshooting]]**: Diagnosed and resolved connection issues, including verifying proxy operation and instance configuration.
 - **Syntax Corrections**: Addressed syntax errors in the Cloud SQL Auth Proxy command, ensuring proper permissions and command structure.
 - **Database Class Enhancement**: Modified a [[Python]] `Database` class to use environment variables via `[[python]]-dotenv` for improved security.
 - **[[Documentation]] Updates**: Enhanced `manual.md` with GCP [[integration]] details for Cloud SQL connections.

@@ -26,12 +26,12 @@ The primary aim of this session was to set up a global Gmail connection within n
 
 ### Key Activities
 - **Global Gmail Connection Setup**: Initiated the setup of a global Gmail connection in n8n, exploring OAuth2 and service account options for Google Workspace.
-- **OAuth Consent Screen [[Configuration]]**: Detailed steps were followed to configure the OAuth consent screen on Google Cloud, including setting user types and authorized domains.
+- **OAuth Consent Screen Configuration**: Detailed steps were followed to configure the OAuth consent screen on Google Cloud, including setting user types and authorized domains.
 - **[[Deployment]] for OAuth Compliance**: Explored strategies for deploying n8n to meet Google’s OAuth requirements, including public [[deployment]] and tunneling services.
 - **Alternatives for Gmail [[API]] Authorization**: Considered alternatives to deploying a full application, such as using service accounts and Gmail app passwords.
 - **Resolving Redirect URI Issues**: Addressed common issues with OAuth 2.0 redirect URIs, using public domains and reverse proxies.
 - **Google Cloud CLI Setup**: Set up Google Cloud CLI for managing projects and services.
-- **Gmail [[API]] and Service Account [[Configuration]]**: Configured the Gmail [[API]] with a service account, including permission verification and key generation.
+- **Gmail [[API]] and Service Account Configuration**: Configured the Gmail [[API]] with a service account, including permission verification and key generation.
 
 ### Achievements
 - Successfully configured OAuth consent screen and deployed n8n for OAuth compliance.

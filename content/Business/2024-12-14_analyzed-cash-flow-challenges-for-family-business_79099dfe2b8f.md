@@ -31,7 +31,7 @@ The session aimed to analyze the cash flow challenges faced by a family business
 - Analyzed the current cash flow deficit of approximately -$5,000, identifying contributing factors and suggesting strategies for improvement.
 - Suggested tables and charts for presenting liabilities, enhancing understanding of financial challenges.
 - Outlined a structured approach to aggregate ledger data in [[pandas]] for monthly financial insights and visualizations.
-- Structured liabilities data in [[pandas]] for monthly and cumulative views, using [[Python]] for [[visualization]].
+- Structured liabilities data in [[pandas]] for monthly and cumulative views, using [[Python]] for visualization.
 - Planned scenario analysis for financial liabilities, contributions, and revenues.
 
 ### Achievements

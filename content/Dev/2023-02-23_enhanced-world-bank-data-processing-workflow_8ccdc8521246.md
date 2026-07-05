@@ -25,7 +25,7 @@ generated: true
 The session aimed to refine and enhance [[data processing]] workflows for World Bank investment datasets using [[Python]] libraries such as [[Pandas]] and GeoPandas.
 
 ### Key Activities
-- Developed a code [[workflow]] for processing and analyzing World Bank investment datasets, focusing on data cleaning, merging, and [[visualization]].
+- Developed a code [[workflow]] for processing and analyzing World Bank investment datasets, focusing on data cleaning, merging, and visualization.
 - Outlined a structured notebook for [[data analysis]], covering setup, preprocessing, analysis, and [[documentation]] sections.
 - Explored World Bank resources for country names and ISO codes, integrating these into data workflows.
 - Improved code quality through suggestions for organizing imports, removing unused code, and enhancing readability.

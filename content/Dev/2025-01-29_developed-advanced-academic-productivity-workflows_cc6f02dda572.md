@@ -27,7 +27,7 @@ The session aimed to enhance academic [[productivity]] through the development a
 ### Key Activities
 - **Pre-Queries for Academic [[Productivity]] [[Workflow]]**: Designed a structured plan for implementing pre-queries in paper drafting workflows to improve [[AI]]-generated content.
 - **Integrating Query Routing**: Developed strategies for query routing in academic workflows, employing metadata and semantic methods.
-- **DeepSeek-V3 Language Model Overview**: Analyzed the architecture and performance of the DeepSeek-V3 language model.
+- **DeepSeek-V3 Language Model Overview**: Analyzed the [[architecture]] and performance of the DeepSeek-V3 language model.
 - **[[Machine Learning]] Course Design**: Outlined comprehensive course structures and challenges for [[machine learning]] [[education]].
 - **n8n [[Workflow]] Development**: Created workflows for academic paper summarization, PDF ingestion, and [[automation]] using n8n.
 

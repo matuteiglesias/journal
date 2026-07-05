@@ -27,7 +27,7 @@ The session aimed to enhance [[data processing]] pipelines for JSONL and SQLite 
 ### Key Activities
 - **JSONL Ingestion Design**: Developed a robust ingestion design for JSONL files, focusing on stability and [[error handling]], with [[Python]] code implementation.
 - **SQLite Inspection Scaffold**: Created a scaffold for inspecting SQLite databases, ensuring data integrity and facilitating exploratory analysis.
-- **[[DataFrame]] Conversion**: Implemented methods for converting TextNode objects into DataFrames and loading them into SQLite, addressing node count discrepancies.
+- **DataFrame Conversion**: Implemented methods for converting TextNode objects into DataFrames and loading them into SQLite, addressing node count discrepancies.
 - **[[Error Handling]] in Chroma Loader**: Resolved a ValueError in the Chroma loader function related to NumPy array truth value ambiguity.
 - **Creative Sprint Kit**: Planned a kit for generating structured [[AI]] outputs, such as thematic digests and syllabi.
 - **Markdown Export Enhancements**: Improved the `export_markdown` function for better handling of clusters and safer header extraction.

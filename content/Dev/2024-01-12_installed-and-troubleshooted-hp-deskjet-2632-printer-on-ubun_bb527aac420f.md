@@ -27,7 +27,7 @@ The goal of this session was to install and troubleshoot the HP Deskjet 2632 pri
 ### Key Activities
 - **Installation Steps**: Followed a detailed guide to install the HP Deskjet 2632 printer using the HPLIP driver, including downloading the installer, installing dependencies, and configuring the printer.
 - **[[Troubleshooting]]**: Addressed issues related to missing files, dependencies like `python3-dbus`, and common installation warnings such as the 'canberra-gtk-module' warning. Utilized command-line tools and community resources to resolve these issues.
-- **System [[Configuration]]**: Managed Ubuntu software sources to ensure necessary repositories were enabled and resolved permission issues with the `dmesg` command.
+- **System Configuration**: Managed Ubuntu software sources to ensure necessary repositories were enabled and resolved permission issues with the `dmesg` command.
 - **Connectivity**: Diagnosed and resolved connectivity issues using USB connections and the HPLIP toolbox.
 
 ### Achievements

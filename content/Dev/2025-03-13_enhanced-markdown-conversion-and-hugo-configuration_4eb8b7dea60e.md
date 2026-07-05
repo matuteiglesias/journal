@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to improve the conversion of Jupyter notebooks to Markdown and ensure proper [[configuration]] of Hugo static site generator for accurate content representation and navigation.
+The session aimed to improve the conversion of Jupyter notebooks to Markdown and ensure proper configuration of Hugo static site generator for accurate content representation and navigation.
 
 ### Key Activities
 - **Title Extraction Fix**: Updated the script to extract titles from Jupyter notebook metadata for accurate Markdown conversion.

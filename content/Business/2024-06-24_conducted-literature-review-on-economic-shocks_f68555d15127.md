@@ -29,7 +29,7 @@ The session aimed to conduct a comprehensive literature review on economic shock
 - Analyzed Laura Mayoral's paper on shock persistence and its implications for economic simulations using bootstrap methods.
 - Explored various econometric identification methods, such as Cholesky decompositions and SVAR, for enhancing economic shock research.
 - Discussed the [[integration]] of FAVARs and DSGE models in economic shock analysis, focusing on impulse response estimation and nonlinearities.
-- Differentiated between theoretical identification and empirical accounting of economic shocks, emphasizing practical policy implications.
+- Differentiated between theoretical identification and empirical [[accounting]] of economic shocks, emphasizing practical policy implications.
 
 ### Achievements
 - Compiled a structured overview of relevant literature, providing a guide for positioning new research.

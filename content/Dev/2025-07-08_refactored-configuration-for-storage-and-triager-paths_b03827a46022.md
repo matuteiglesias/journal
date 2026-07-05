@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The primary goal of this session was to refactor and consolidate [[configuration]] paths for storage and triager systems, ensuring consistency and eliminating ambiguities in the `state_file` keys.
+The primary goal of this session was to refactor and consolidate configuration paths for storage and triager systems, ensuring consistency and eliminating ambiguities in the `state_file` keys.
 
 ### Key Activities
 - Proposed a clear [[refactoring]] of paths in storage and triager configurations, focusing on consistency and clarity.
@@ -32,17 +32,17 @@ The primary goal of this session was to refactor and consolidate [[configuration
 - Assessed the functionality of an email triage CLI, identifying areas for improvement including the need for a real LLM endpoint.
 - Conducted a strategic assessment of system design, emphasizing productization steps and user experience.
 - Outlined user archetypes and insights for an email triager tool, emphasizing user-centric design.
-- Provided a guide for developing a modular CLI and UI architecture.
+- Provided a guide for developing a modular CLI and UI [[architecture]].
 
 ### Achievements
-- Achieved a clearer and more consistent [[configuration]] structure for storage and triager paths.
-- Developed a CLI command for path [[visualization]], aiding in [[configuration]] management.
-- Clarified [[configuration]] issues in the email manager script.
+- Achieved a clearer and more consistent configuration structure for storage and triager paths.
+- Developed a CLI command for path visualization, aiding in configuration management.
+- Clarified configuration issues in the email manager script.
 
 ### Pending Tasks
 - Implement a real LLM endpoint for the email triage CLI.
 - Further refine user-centric features based on archetype insights.
-- Continue development of the modular CLI and UI architecture.
+- Continue development of the modular CLI and UI [[architecture]].
 
 ## Evidence
 

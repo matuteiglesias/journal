@@ -25,13 +25,13 @@ generated: true
 The session aimed to explore and enhance data manipulation techniques using [[Python]] libraries such as [[Pandas]] and GeoPandas, focusing on string processing, data transformation, and geospatial analysis.
 
 ### Key Activities
-- **[[Pandas]] for Data Manipulation**: Demonstrated the use of [[Pandas]] for handling and structuring data strings related to countries, including examples of using `rpartition` for string splitting and the `apply` method for [[DataFrame]] creation.
+- **[[Pandas]] for Data Manipulation**: Demonstrated the use of [[Pandas]] for handling and structuring data strings related to countries, including examples of using `rpartition` for string splitting and the `apply` method for DataFrame creation.
 - **String Processing Techniques**: Explored alternative solutions for string manipulation, including the use of `rpartition` and string splitting methods.
-- **[[DataFrame]] Transformation**: Provided examples of transforming DataFrames by exploding and pivoting columns, and merging transformed data back into the original [[DataFrame]].
+- **DataFrame Transformation**: Provided examples of transforming DataFrames by exploding and pivoting columns, and merging transformed data back into the original DataFrame.
 - **Geospatial Analysis with GeoPandas**: Illustrated how to perform spatial joins between geospatial dataframes to find points within specified areas using GeoPandas.
 
 ### Achievements
-- Successfully demonstrated multiple data manipulation techniques using [[Pandas]], including string handling, [[DataFrame]] creation, and transformation.
+- Successfully demonstrated multiple data manipulation techniques using [[Pandas]], including string handling, DataFrame creation, and transformation.
 - Achieved a spatial join of geospatial dataframes using GeoPandas, enhancing geospatial [[data analysis]] capabilities.
 
 ### Pending Tasks

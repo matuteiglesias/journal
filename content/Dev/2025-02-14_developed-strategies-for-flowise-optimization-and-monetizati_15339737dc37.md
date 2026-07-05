@@ -37,7 +37,7 @@ The session aimed to explore strategies for optimizing Flowise, an [[AI]] orches
 ### Achievements
 - Developed actionable strategies for monetizing open-source software.
 - Identified essential features for a simplified and user-friendly [[AI]] [[data processing]] tool.
-- Clarified the server architecture and component interactions within Flowise.
+- Clarified the server [[architecture]] and component interactions within Flowise.
 - Provided strategic recommendations for UI adaptations and project integrations.
 
 ### Pending Tasks

@@ -29,7 +29,7 @@ The session aimed to enhance knowledge management systems by improving indexing,
 - Planned milestones for [[GitHub]] and job market workflows, aiming to integrate them into a cohesive framework.
 - Outlined a unified framework for [[data processing]], emphasizing standardization, modularity, and smart querying.
 - Defined a common framework for modular workflows in the `v2` structure, focusing on data flow standardization and a unified processing lifecycle.
-- Designed an [[AI]] system architecture for knowledge processing and retrieval, utilizing LangGraph for dynamic query routing.
+- Designed an [[AI]] system [[architecture]] for knowledge processing and retrieval, utilizing LangGraph for dynamic query routing.
 - Developed the [[AI]] reasoning layer for version 2, detailing its components and intelligent retrieval capabilities.
 
 ### Achievements

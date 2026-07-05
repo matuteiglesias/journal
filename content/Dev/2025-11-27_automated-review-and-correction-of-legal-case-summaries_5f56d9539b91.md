@@ -35,11 +35,11 @@ The session aimed to automate the review and correction of legal case summaries,
 ### Achievements
 - Successfully outlined a [[workflow]] for legal case data correction and ingestion improvement.
 - Enhanced [[AI]] data extraction processes with improved prompts and schemas.
-- Developed robust methods for [[DataFrame]] manipulation and [[CSV]] export.
+- Developed robust methods for DataFrame manipulation and [[CSV]] export.
 
 ### Pending Tasks
 - Further testing and validation of the automated correction rules and [[AI]] prompt improvements.
-- [[Integration]] of the new [[DataFrame]] functions into existing [[data processing]] pipelines.
+- [[Integration]] of the new DataFrame functions into existing [[data processing]] pipelines.
 
 ## Evidence
 

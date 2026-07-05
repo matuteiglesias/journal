@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to enhance financial reporting and ledger management processes using [[Python]] and [[Pandas]], focusing on monthly summaries, data cleaning, and [[visualization]].
+The session aimed to enhance financial reporting and ledger management processes using [[Python]] and [[Pandas]], focusing on monthly summaries, data cleaning, and visualization.
 
 ### Key Activities
 - Analyzed financial imbalances and management issues within a family fund, providing insights for improved control.

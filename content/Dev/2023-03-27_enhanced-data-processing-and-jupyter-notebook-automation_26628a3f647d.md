@@ -26,7 +26,7 @@ The session aimed to improve [[data processing]] capabilities and automate the c
 
 ### Key Activities
 - **Code Comparison:** Reviewed and compared old and new versions of [[data processing]] code, focusing on enhancements such as merging with country shapes and creating unique identifiers.
-- **[[DataFrame]] Modifications:** Implemented modifications to DataFrames using [[Pandas]] and GeoPandas, including exploding geographical columns and adding new columns like `even_split_totalamt`.
+- **DataFrame Modifications:** Implemented modifications to DataFrames using [[Pandas]] and GeoPandas, including exploding geographical columns and adding new columns like `even_split_totalamt`.
 - **Data Cleaning:** Applied methods to clean data by removing commas and converting strings to floats.
 - **Jupyter Notebook Conversion:** Automated the conversion of Jupyter notebooks to PDF and HTML formats using command-line tools like `jupyter nbconvert` and `find`, ensuring checkpoint files were excluded.
 - **Command History and Execution:** Utilized Unix command line tools to search command history and execute batch conversions using the `-exec` option.

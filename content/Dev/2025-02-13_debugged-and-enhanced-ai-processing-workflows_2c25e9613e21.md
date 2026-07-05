@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 **Session Goal:**
-The session aimed to address and resolve various issues in [[AI]] processing workflows, enhance [[automation]], and plan for scalable [[AI]] architecture.
+The session aimed to address and resolve various issues in [[AI]] processing workflows, enhance [[automation]], and plan for scalable [[AI]] [[architecture]].
 
 **Key Activities:**
 - Developed a multi-text summarizer schema to synthesize insights from multiple texts.

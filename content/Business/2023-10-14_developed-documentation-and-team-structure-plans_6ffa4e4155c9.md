@@ -25,11 +25,11 @@ generated: true
 The session aimed to develop a comprehensive [[documentation]] structure for a [[data analysis]] tool and propose efficient team structures for data-driven projects.
 
 ### Key Activities
-- Outlined a detailed structure for the [[documentation]] needed for a [[data analysis]] and [[visualization]] tool, specifying various types of [[documentation]], their audiences, and scopes.
-- Proposed a team structure for a moderately complex project involving [[data processing]], modeling, [[visualization]], and geospatial analysis, detailing the roles and responsibilities of each team member.
+- Outlined a detailed structure for the [[documentation]] needed for a [[data analysis]] and visualization tool, specifying various types of [[documentation]], their audiences, and scopes.
+- Proposed a team structure for a moderately complex project involving [[data processing]], modeling, visualization, and geospatial analysis, detailing the roles and responsibilities of each team member.
 - Suggested a lean team structure for budget-constrained projects, emphasizing adaptability and communication.
 - Recommended a hiring [[strategy]] and team structure for a [[data science]] and GIS project, emphasizing the roles of a Full-stack Developer and a Data Engineer.
-- Provided a [[Python]] code snippet to efficiently iterate over unique combinations in a [[DataFrame]], optimizing data manipulation processes.
+- Provided a [[Python]] code snippet to efficiently iterate over unique combinations in a DataFrame, optimizing data manipulation processes.
 
 ### Achievements
 - Developed a framework for [[documentation]] and team structures that can be adapted to various project needs.

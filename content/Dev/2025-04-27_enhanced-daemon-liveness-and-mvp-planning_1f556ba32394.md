@@ -29,7 +29,7 @@ The session aimed to enhance the robustness of the `alive.py` daemon, test its f
 - **Testing Strategies:** Developed three strategies for testing `alive.py` safely, including isolated agent calls and test mode launches.
 - **Dynamic Script Loading:** Implemented a solution for dynamically loading [[Python]] scripts using `sys.path` manipulation.
 - **Import Error Fixes:** Addressed [[Python]] import issues by configuring `sys.path` correctly and provided best practices.
-- **Agent Architecture:** Outlined a system architecture for organizing agents, distinguishing between agent classes and [[workflow]] functions.
+- **Agent [[Architecture]]:** Outlined a system [[architecture]] for organizing agents, distinguishing between agent classes and [[workflow]] functions.
 - **MVP Development Plan:** Created a structured plan for developing a Gmail autocomplete Chrome extension, detailing components and timeline.
 
 ### Achievements:
@@ -39,7 +39,7 @@ The session aimed to enhance the robustness of the `alive.py` daemon, test its f
 - Developed a comprehensive MVP plan for a Gmail autocomplete extension.
 
 ### Pending Tasks:
-- Implement the proposed agent architecture and integrate it with the `alive.py` scheduler.
+- Implement the proposed agent [[architecture]] and integrate it with the `alive.py` scheduler.
 
 ## Evidence
 

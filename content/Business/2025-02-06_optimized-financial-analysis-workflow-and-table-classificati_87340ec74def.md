@@ -42,7 +42,7 @@ The session aimed to optimize financial analysis workflows and classify financia
 ### Pending Tasks
 - Implement suggested [[workflow]] enhancements and table classifications in practical applications.
 - Develop dynamic frequency handling and error management features.
-- Extend plotting functionalities for financial [[data [[visualization]]]].
+- Extend plotting functionalities for financial [[data visualization]].
 
 ## Evidence
 

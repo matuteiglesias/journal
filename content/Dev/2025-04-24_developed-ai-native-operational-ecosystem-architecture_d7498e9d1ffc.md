@@ -41,7 +41,7 @@ The primary aim of this session was to develop a comprehensive [[AI]]-native ope
 - Architected an [[AI]]-native operational ecosystem, focusing on orchestration, interoperability, and memory management.
 
 ### Achievements
-- Successfully outlined and designed an [[AI]]-native operational ecosystem architecture.
+- Successfully outlined and designed an [[AI]]-native operational ecosystem [[architecture]].
 - Enhanced understanding of modular design and [[workflow]] [[automation]] for scalable [[AI]] systems.
 
 ### Pending Tasks

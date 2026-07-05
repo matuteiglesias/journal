@@ -29,8 +29,8 @@ The session aimed to develop [[Python]] utilities for managing data files, focus
 - Developed a method to generate base names from series data using two-level indices.
 - Utilized NumPy's `ravel` function to flatten nested arrays before base name generation.
 - Demonstrated the use of `iterrows()` to iterate over a [[Pandas]] series with multi-level indices for base name generation.
-- Converted a [[DataFrame]] into a multi-index series to generate base names by combining index values.
-- Created base names from a [[DataFrame]] using specific tags and unique values.
+- Converted a DataFrame into a multi-index series to generate base names by combining index values.
+- Created base names from a DataFrame using specific tags and unique values.
 - Saved generated base names to a text file, ensuring each name was on a new line.
 - Provided a solution to save data to [[CSV]] files, separating list lengths and styles into different files.
 

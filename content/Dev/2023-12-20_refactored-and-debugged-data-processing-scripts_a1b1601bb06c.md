@@ -28,7 +28,7 @@ The session aimed to improve the structure and functionality of [[data processin
 - Improved the structure of the database extraction notebook by emphasizing modularization and clarity through comments.
 - Enhanced [[debugging]] capabilities for `get_data` and `process_price_quantities` functions by introducing detailed logging and [[error handling]].
 - Revised a [[Python]] script to process data with added logging for better [[debugging]].
-- Troubleshot Dask [[DataFrame]] reading issues, focusing on file paths, content, column mappings, and data types.
+- Troubleshot Dask DataFrame reading issues, focusing on file paths, content, column mappings, and data types.
 - Modified the `get_data` function to assign column names correctly in Dask DataFrames.
 - Addressed a `SyntaxError` by examining string literals and [[debugging]] strategies for large DataFrames.
 - Refactored scripts into modular functions for improved readability and maintenance.
@@ -36,7 +36,7 @@ The session aimed to improve the structure and functionality of [[data processin
 **Achievements:**
 - Successfully reorganized the database extraction notebook for better maintainability.
 - Implemented robust logging and [[error handling]] in [[data processing]] functions, enhancing [[debugging]] efficiency.
-- Resolved Dask [[DataFrame]] reading issues and ensured correct column assignments.
+- Resolved Dask DataFrame reading issues and ensured correct column assignments.
 - Refactored scripts into modular components, improving code readability and maintainability.
 
 **Pending Tasks:**

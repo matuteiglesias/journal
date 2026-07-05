@@ -29,7 +29,7 @@ The session aimed to explore and enhance [[Python]] scripting techniques, focusi
 - **Loop [[Automation]]**: Showcased the use of `for` loops for executing yearly commands, employing both fixed lists and range-based approaches.
 - **Directory Management**: Discussed best practices for managing working directories in loops, advocating for setting the directory once before the loop.
 - **Year Extraction**: Provided methods for extracting years from filenames using regular expressions and string slicing.
-- **[[DataFrame]] Export**: Illustrated saving [[pandas]] DataFrames to [[CSV]] with file path and size reporting, using the `humanize` library for size formatting.
+- **DataFrame Export**: Illustrated saving [[pandas]] DataFrames to [[CSV]] with file path and size reporting, using the `humanize` library for size formatting.
 - **Variable Management in IPython**: Explained defining and importing variables from external [[Python]] files into IPython notebooks to enhance code organization.
 
 ### Achievements

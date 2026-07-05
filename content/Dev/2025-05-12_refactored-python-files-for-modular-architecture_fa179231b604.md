@@ -21,13 +21,13 @@ generated: true
 
 ## Description
 
-**Session Goal:** The session aimed to critically assess and refactor several [[Python]] files to improve their modular architecture and maintainability.
+**Session Goal:** The session aimed to critically assess and refactor several [[Python]] files to improve their modular [[architecture]] and maintainability.
 
 **Key Activities:**
 - Conducted a collaborative project evaluation focusing on past functionality and current relevance.
 - Analyzed an educational project, offering recommendations for interface improvements and [[integration]] with real systems.
 - Diagnosed technical aspects of a software project, providing recommendations for backend and frontend [[refactoring]].
-- Critically assessed the `evaluator.py` file, focusing on architecture and extensibility, and suggested actionable [[refactoring]] steps.
+- Critically assessed the `evaluator.py` file, focusing on [[architecture]] and extensibility, and suggested actionable [[refactoring]] steps.
 - Outlined a refactor plan for `check.py` to split it into coherent modules with clear responsibilities.
 - Reviewed `main.py` in a [[Flask]] application, proposing a modular refactor plan to enhance maintainability and scalability.
 

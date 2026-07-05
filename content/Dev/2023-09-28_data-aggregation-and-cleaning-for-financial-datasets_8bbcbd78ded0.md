@@ -27,7 +27,7 @@ The primary goal of this session was to plan and execute data aggregation and cl
 ### Key Activities
 - Developed a structured plan for aggregating datasets by characteristics and year, considering unique value constraints.
 - Identified key columns of interest for datasets `df_wb`, `df_aiddata_china`, and `df_aiddata_wb`.
-- Implemented a [[Python]] function for data aggregation using [[pandas]], addressing common [[DataFrame]] issues such as `SettingWithCopyWarning` and aggregation duplication.
+- Implemented a [[Python]] function for data aggregation using [[pandas]], addressing common DataFrame issues such as `SettingWithCopyWarning` and aggregation duplication.
 - Created a loop to print money column values for data review, and provided code for parsing numeric columns by cleaning and converting string-formatted numbers.
 - Developed a function to identify and handle duplicate entries in DataFrames, ensuring accurate data aggregation.
 - Ensured consistent datetime formatting across DataFrames for further analysis.

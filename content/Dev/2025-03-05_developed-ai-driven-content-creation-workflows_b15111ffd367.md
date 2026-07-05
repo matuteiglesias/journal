@@ -27,7 +27,7 @@ The session aimed to develop and refine [[AI]]-driven workflows for content crea
 ### Key Activities
 - **Content Creation [[Workflow]]**: Developed a robust, scalable [[workflow]] integrating human and [[AI]] efforts.
 - **[[AI]] Pipeline Breakdown**: Detailed a within-cluster [[AI]] pipeline for refining content at the article level.
-- **Langflow Architecture Design**: Outlined design principles for Langflow architecture to improve [[AI]] processing.
+- **Langflow [[Architecture]] Design**: Outlined design principles for Langflow [[architecture]] to improve [[AI]] processing.
 - **FAISS Clustering**: Implemented text data clustering using FAISS and SBERT, including similarity searches and embeddings.
 - **Data [[Integration]]**: Loaded Google Sheets data into [[Pandas]] for processing.
 - **Graph Analysis**: Built and analyzed graphs using NetworkX, focusing on blog idea clustering and connectivity.
@@ -40,7 +40,7 @@ The session aimed to develop and refine [[AI]]-driven workflows for content crea
 - Developed methods for integrating [[CSV]] data with Langflow using [[Pandas]] and [[JSON]].
 
 ### Pending Tasks
-- Further refine the Langflow architecture for improved modularity and efficiency.
+- Further refine the Langflow [[architecture]] for improved modularity and efficiency.
 - Explore additional non-LLM [[AI]] approaches for text consolidation and redundancy pruning.
 
 ## Evidence

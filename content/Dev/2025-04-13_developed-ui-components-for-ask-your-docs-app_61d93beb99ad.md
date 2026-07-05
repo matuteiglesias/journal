@@ -36,11 +36,11 @@ The session aimed to develop and integrate various UI components for the 'Ask Yo
 - **Transition to Functional UI:** Transitioned from a placeholder to a functional UI for the app.
 - **[[Debugging]] TypeScript Issues:** Fixed module resolution and typing issues in TypeScript.
 - **Diagnosing Tailwind CSS Issues:** Provided a checklist for diagnosing Tailwind CSS [[integration]] issues.
-- **Fixing PostCSS [[Configuration]]:** Solved misconfiguration issues in PostCSS setup for Next.js.
+- **Fixing PostCSS Configuration:** Solved misconfiguration issues in PostCSS setup for Next.js.
 
 ### Achievements
 - Successfully developed and integrated multiple UI components for the application.
-- Resolved various TypeScript and [[configuration]] issues, enhancing the development [[workflow]].
+- Resolved various TypeScript and configuration issues, enhancing the development [[workflow]].
 
 ### Pending Tasks
 - Embed the Navbar into the `layout.tsx`.

@@ -40,7 +40,7 @@ The session aimed to evaluate the use of Google Cloud Pub/Sub for various [[auto
 
 **Pending Tasks:**
 - Further evaluation of simpler alternatives to Google Cloud Pub/Sub for specific use cases.
-- Implementation of the designed pub/sub ecosystem and distributed architecture.
+- Implementation of the designed pub/sub ecosystem and distributed [[architecture]].
 - Continuous monitoring and [[optimization]] of the messaging systems.
 
 ## Evidence

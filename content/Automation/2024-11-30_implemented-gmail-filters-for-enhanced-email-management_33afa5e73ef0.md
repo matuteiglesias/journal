@@ -27,7 +27,7 @@ The primary objective of this session was to establish a comprehensive system of
 ### Key Activities
 - **Planning and Setup:** Initiated by setting up rules and filters in Gmail to organize emails into categories such as ALERTA, ANUNCIOS, Archivo, IST, and DC.
 - **Filter Execution:** Implemented specific filter rules for labeling emails as ANUNCIOS based on subject lines and sender domains.
-- **Advanced [[Configuration]]:** Configured advanced search and filter settings for events, financial notifications, job postings, and opportunities using specific keywords and domains.
+- **Advanced Configuration:** Configured advanced search and filter settings for events, financial notifications, job postings, and opportunities using specific keywords and domains.
 - **[[Optimization]] and Reflection:** Conducted an assessment of the filter setup to identify strengths and areas for further [[optimization]].
 - **[[AI]] [[Integration]] Planning:** Outlined a plan for integrating [[AI]] tools to assist with email triage and decision-making.
 

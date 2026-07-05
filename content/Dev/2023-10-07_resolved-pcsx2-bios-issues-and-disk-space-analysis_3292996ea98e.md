@@ -27,7 +27,7 @@ The session aimed to troubleshoot and resolve issues related to PCSX2 BIOS files
 ### Key Activities
 - **PCSX2 BIOS [[Troubleshooting]]**: Addressed issues with BIOS files appearing grayed out in PCSX2 by checking file permissions, formats, and configurations. Steps included restarting the application, verifying BIOS validity, and manually selecting the BIOS directory.
 - **Understanding PS2 BIOS Files**: Explored the naming conventions and functionalities of PS2 BIOS files for optimal PCSX2 performance, focusing on compatibility based on regional game versions.
-- **PCSX2 Setup Guidance**: Provided a comprehensive guide on setting up PCSX2 for PS2 emulation, including plugin [[configuration]] and performance monitoring.
+- **PCSX2 Setup Guidance**: Provided a comprehensive guide on setting up PCSX2 for PS2 emulation, including plugin configuration and performance monitoring.
 - **Disk Usage Analysis**: Executed commands to analyze disk usage, identify large directories and files, and used the ncdu tool for detailed inspection.
 - **Disk Space Management**: Offered recommendations for effective storage management based on the analysis of disk space across different partitions.
 

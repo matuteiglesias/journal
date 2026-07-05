@@ -30,7 +30,7 @@ The session aimed to implement text clustering techniques and create a semantic 
 - **Sample Content Extraction**: Extracted and printed a sample of markdown content related to politics.
 - **Event Parsing**: Developed a [[Python]] function to parse events from markdown text, extracting titles and descriptions.
 - **Text Clustering with TF-IDF and KMeans**: Implemented text clustering using TF-IDF vectorization and KMeans clustering, selecting documents based on user input.
-- **[[DataFrame]] Creation**: Constructed a [[DataFrame]] from selected events, capturing file names, titles, and descriptions.
+- **DataFrame Creation**: Constructed a DataFrame from selected events, capturing file names, titles, and descriptions.
 - **K-Means Clustering**: Detailed the process of clustering text data and extracting top terms for each cluster.
 - **Hierarchical Semantic Map**: Created a structured semantic table of contents for political leadership and institutional management themes.
 - **Political and Social Thought Analysis**: Examined political and social thought, focusing on institutional redesign and operational excellence.

@@ -29,7 +29,7 @@ The primary goal of this session was to develop and refine a [[Python]] script t
 - Corrected a keyword argument in the `google_search` function, changing `num` to `num_results` to comply with the `googlesearch-[[python]]` library.
 - Updated the `google_search` function by removing the `pause` argument and implementing `sleep_interval` for request delays.
 - Managed Google search usage limits by considering potential IP bans and legal issues, and explored solutions like using official APIs, rate limiting, and proxies.
-- Created a script to structure profile links in a [[DataFrame]] and save them to a [[CSV]] file.
+- Created a script to structure profile links in a DataFrame and save them to a [[CSV]] file.
 - Set up a rotating proxy pool for [[web scraping]] to ensure ethical compliance and avoid IP bans.
 
 ### Achievements

@@ -25,9 +25,9 @@ generated: true
 The primary goal of this session was to enhance and refactor the Chunk & Abstract Processing System to improve developer onboarding and system efficiency.
 
 ### Key Activities
-- Developed a technical report detailing the system architecture to aid new developers in understanding the [[workflow]].
+- Developed a technical report detailing the system [[architecture]] to aid new developers in understanding the [[workflow]].
 - Outlined strategic processing components aimed at optimizing data pipeline cross-flow efficiency.
-- Analyzed script architecture and function relationships to identify areas for improvement.
+- Analyzed script [[architecture]] and function relationships to identify areas for improvement.
 - Proposed a [[refactoring]] plan for a modular code structure, suggesting file organization for better maintainability.
 - Implemented [[automation]] for fetching and processing abstracts, removing the need for manual DOI definitions.
 - Adapted the system to process book chunks, requiring component renaming and storage modifications.

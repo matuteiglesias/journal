@@ -22,11 +22,11 @@ generated: true
 ## Description
 
 ### Session Goal:
-The session aimed to design and implement key components of the Terra [[AI]] system, focusing on shared context architecture, system [[documentation]], and [[automation]] tools.
+The session aimed to design and implement key components of the Terra [[AI]] system, focusing on shared context [[architecture]], system [[documentation]], and [[automation]] tools.
 
 ### Key Activities:
-1. **Shared Context Architecture**: Explored three models for managing shared context among [[AI]] agents, including Global Memory Store, Mission-Centric Context Packages, and Active Context Negotiation.
-2. **Terra [[AI]] System Architecture**: Detailed the architecture using Global Memory Store and Mission-Centric Push Pack to support [[AI]] agents.
+1. **Shared Context [[Architecture]]**: Explored three models for managing shared context among [[AI]] agents, including Global Memory Store, Mission-Centric Context Packages, and Active Context Negotiation.
+2. **Terra [[AI]] System [[Architecture]]**: Detailed the [[architecture]] using Global Memory Store and Mission-Centric Push Pack to support [[AI]] agents.
 3. **Living Ecosystem Design**: Developed a vision for a collaborative environment for knowledge sharing between humans and [[AI]] agents.
 4. **Terra [[Documentation]]**: Drafted key documents such as a vision statement and a style guide for the Terra project.
 5. **Foundational Info Directory**: Conceptualized a creative and engaging foundational directory for Terra's world-building aspect.

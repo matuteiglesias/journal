@@ -30,12 +30,12 @@ The session aimed to resolve various [[debugging]] issues related to [[Python]] 
 - **[[PromptFlow]] Chat [[API]] Role Error**: Fixed formatting errors in `.prompty` files by ensuring role-prefixed messages are included.
 - **[[PromptFlow]] Enhancements**: Improved the implementation of `PromptBlock` with better [[error handling]] and [[debugging]] capabilities.
 - **OpenAI [[API]] [[Troubleshooting]]**: Solved connection issues by correcting [[API]] URL and model parameter configurations.
-- **YAML [[Configuration]] Fixes**: Corrected `BadRequestError` in [[PromptFlow]] YAML configurations by properly placing parameters.
+- **YAML Configuration Fixes**: Corrected `BadRequestError` in [[PromptFlow]] YAML configurations by properly placing parameters.
 - **OpenAI [[API]] [[Debugging]]**: Implemented monkey patching for [[debugging]] payloads and fixed malformed `base_url` issues.
 
 ### Achievements
 - Successfully debugged and enhanced the [[PromptFlow]] and OpenAI [[API]] integrations.
-- Developed robust solutions for path resolution and [[API]] [[configuration]] issues.
+- Developed robust solutions for path resolution and [[API]] configuration issues.
 
 ### Pending Tasks
 - Further testing and validation of the enhanced [[PromptFlow]] and OpenAI [[API]] integrations to ensure stability and performance.

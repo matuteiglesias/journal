@@ -27,7 +27,7 @@ The primary goal of this session was to prepare a comprehensive presentation for
 **Key Activities:**
 - Developed a detailed presentation outline that includes an introduction, a demo of the Argentine Poverty Atlas, and a Q&A session.
 - Discussed the technical implementation of the project, focusing on the use of Mapbox GL JS for map creation and the organization of webpage files.
-- Created a backend script for managing tileset [[automation]], style updates, and webpage [[configuration]] to ensure smooth [[integration]] and presentation.
+- Created a backend script for managing tileset [[automation]], style updates, and webpage configuration to ensure smooth [[integration]] and presentation.
 - Revised the presentation plan to incorporate insights on [[AI]] [[integration]] and the project's impact on data accessibility.
 
 **Achievements:**

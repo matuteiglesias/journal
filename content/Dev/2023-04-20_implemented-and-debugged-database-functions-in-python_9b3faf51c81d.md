@@ -26,7 +26,7 @@ The goal of this session was to implement and debug various database-related fun
 
 ### Key Activities
 - **[[Debugging]] Indentation**: Resolved indentation issues in the `is_prime_attribute` function by checking the `if` statement within a `for` loop.
-- **SQL Query Generation**: Demonstrated creating an SQL query string from [[DataFrame]] columns using list comprehension and string formatting.
+- **SQL Query Generation**: Demonstrated creating an SQL query string from DataFrame columns using list comprehension and string formatting.
 - **Function Definitions**: Implemented `find_superkey`, `find_minimal_basis`, `find_candidate_keys`, and other functions related to functional dependencies, providing detailed explanations of their logic and applications.
 - **Powerset Function**: Developed a function to generate all subsets of a set, useful in database theory for exploring attribute combinations.
 - **SQLite Schema Querying**: Used [[Python]]'s `sqlite3` library to connect to an SQLite database and retrieve schema details.

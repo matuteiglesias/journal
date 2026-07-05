@@ -33,7 +33,7 @@ The session focused on [[refactoring]] and implementing various components of a 
 - **Resolving Circular Imports:** Refactored code to manage dependencies and resolve circular imports.
 - **Refactored `build_session_index` Function:** Improved file handling and JSONL processing using new IO helpers.
 - **Implementation of `load_sessions` Function:** Developed a function for reading and normalizing session data, ensuring backward compatibility.
-- **[[Refactoring]] CLI and I/O Structure:** Proposed a new architecture for CLI and I/O to improve modularity and testing.
+- **[[Refactoring]] CLI and I/O Structure:** Proposed a new [[architecture]] for CLI and I/O to improve modularity and testing.
 - **Hydration Command Refactor in CLI:** Delegated I/O tasks to a dedicated module, consolidating index building.
 - **Unified Schema for Event and Session Indexing:** Planned a unified approach to improve data handling.
 - **Two-Layer Design for Bags-Logs Implementation:** Designed a clean, two-layer system for backend and CLI [[integration]].
@@ -44,7 +44,7 @@ The session focused on [[refactoring]] and implementing various components of a 
 - Improved code organization and readability through strategic [[refactoring]] and consolidation efforts.
 
 ### Pending Tasks
-- Further testing and validation of the new CLI and backend architecture to ensure robustness.
+- Further testing and validation of the new CLI and backend [[architecture]] to ensure robustness.
 - Implementation of additional features as per future project requirements.
 
 ## Evidence

@@ -25,7 +25,7 @@ generated: true
 The session aimed to design and implement an automated system for file processing and synchronization with Supabase.
 
 ### Key Activities
-- **System Design**: Outlined the architecture of an automated system to monitor a folder for file changes, process files by chunking, and sync with Supabase to maintain updated records.
+- **System Design**: Outlined the [[architecture]] of an automated system to monitor a folder for file changes, process files by chunking, and sync with Supabase to maintain updated records.
 - **Script Development**: Developed a [[Python]] script for efficient file processing using multithreading, robust file tracking, and optimized synchronization with Supabase.
 - **[[Integration]]**: Integrated a watcher script with Supabase synchronization, detailing roles and providing code examples for automated updates when files are created, modified, or deleted.
 - **[[Troubleshooting]]**: Addressed issues with Supabase library installation and import, including error analysis related to [[file management]] in Supabase, proposing fixes for duplicate entries and missing file IDs.

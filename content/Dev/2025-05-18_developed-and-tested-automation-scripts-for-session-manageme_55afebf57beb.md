@@ -33,7 +33,7 @@ The primary objective of this session was to develop and test [[automation]] scr
 - **Structured [[JSON]] Request for Task Management [[API]]**: Developed a [[JSON]] request body template for task management [[API]] [[integration]].
 - **Schema Error Resolution**: Resolved schema validation errors in [[PromptFlow]] by addressing a missing 'name' field.
 - **Flow for Structured Session Logs**: Designed a flow to transform structured session logs into actionable outputs, ensuring schema compliance.
-- **Output Misalignment Fix in [[PromptFlow]] YAML**: Addressed and resolved output misalignment issues in [[PromptFlow]] YAML [[configuration]].
+- **Output Misalignment Fix in [[PromptFlow]] YAML**: Addressed and resolved output misalignment issues in [[PromptFlow]] YAML configuration.
 
 ### Achievements
 - Successfully developed and tested scripts for session management [[automation]], ensuring compatibility with [[PromptFlow]] and task management APIs.

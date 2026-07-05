@@ -25,7 +25,7 @@ generated: true
 The session aimed to design and implement FastAPI endpoints for Chroma [[integration]], review existing RAG pipeline scripts, and develop a prompt builder utility for LLMs.
 
 ### Key Activities
-- Designed FastAPI endpoints to interact with Chroma and LLMs, focusing on architecture responsibilities and [[error handling]].
+- Designed FastAPI endpoints to interact with Chroma and LLMs, focusing on [[architecture]] responsibilities and [[error handling]].
 - Reviewed a Streamlit/Haystack script to identify [[integration]] opportunities with FastAPI and Chroma.
 - Developed a [[Python]] utility for building prompts for LLMs, including provenance tracking and text truncation.
 - Implemented a prompt builder module using Jinja2 templates for summarization tasks.

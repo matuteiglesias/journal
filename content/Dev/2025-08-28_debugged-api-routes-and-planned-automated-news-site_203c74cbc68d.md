@@ -26,7 +26,7 @@ The session aimed to debug [[API]] routes and plan the development of an automat
 
 ### Key Activities
 - **[[Debugging]] [[API]] Routes**: [[Troubleshooting]] and implementing the `/[[api]]/contact` and `/[[api]]/subscribe` routes in a Node.js and Next.js application. Focus was on [[error handling]] and [[deployment]] checks.
-- **Sprint Planning**: Developed a sprint plan for an automated news site, including architecture, workplan, and risk mitigation strategies.
+- **Sprint Planning**: Developed a sprint plan for an automated news site, including [[architecture]], workplan, and risk mitigation strategies.
 - **Infrastructure and Operations**: Outlined essential components like Postgres, Meilisearch, Apache, and systemd services for the news site.
 - **[[Data Management]]**: Established a framework for data predictability using Pydantic models and database schema validation.
 - **Repository Management**: Restructured a repository for better organization and hygiene.

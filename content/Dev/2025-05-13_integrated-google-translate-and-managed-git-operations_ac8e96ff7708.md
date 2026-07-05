@@ -29,7 +29,7 @@ The session focused on integrating Google Translate into an HTML page and managi
 - **[[Git]] Commit and Push [[Strategy]]**: A step-by-step guide was executed to commit and push changes in [[Git]], ensuring proper [[file management]] and [[documentation]] updates.
 - **Sensitive Data Removal**: Utilized `[[git]] filter-repo` to remove an OpenAI [[API]] key from [[Git]] history, including backup steps and secret management best practices.
 - **[[Git]] Remote Restoration and Force Push**: Instructions were executed to restore the [[Git]] remote 'origin' and perform a force push after secret removal.
-- **[[Documentation]] Publishing**: Detailed process to publish [[documentation]] using pdoc on [[GitHub]] Pages, covering file generation, [[GitHub]] Pages [[configuration]], and translation options.
+- **[[Documentation]] Publishing**: Detailed process to publish [[documentation]] using pdoc on [[GitHub]] Pages, covering file generation, [[GitHub]] Pages configuration, and translation options.
 
 ### Achievements
 - Successfully integrated Google Translate into HTML.

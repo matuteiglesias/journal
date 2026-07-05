@@ -27,7 +27,7 @@ The session aimed to configure and troubleshoot the installation of Wine and Ste
 ### Key Activities
 - Verified the installation of Wine and Steam using terminal commands and graphical user interfaces.
 - Installed and configured Age of Empires II on Ubuntu using Wine, including setting up additional dependencies.
-- Explored the use of Steam's Proton compatibility tool to play Age of Empires II on Ubuntu, providing step-by-step installation and [[configuration]] instructions.
+- Explored the use of Steam's Proton compatibility tool to play Age of Empires II on Ubuntu, providing step-by-step installation and configuration instructions.
 - Resolved a missing dependency error during the Steam installation by installing the 'curl' package.
 - Addressed package cache and missing dependencies issues for Steam using apt commands.
 - Cleaned up unnecessary snap packages and managed disk space using command line tools.

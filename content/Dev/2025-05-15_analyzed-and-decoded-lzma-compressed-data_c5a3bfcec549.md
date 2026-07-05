@@ -37,7 +37,7 @@ The session aimed to analyze and decode LZMA compressed data to identify pattern
 - Successfully extracted and partially decoded LZMA blocks, confirming the integrity of certain data segments.
 
 ### Pending Tasks
-- Further analysis using clustering and time series [[visualization]].
+- Further analysis using clustering and time series visualization.
 - Refinement of extraction methods for improved output.
 - Addressing failures in stream delimitation to enhance data recovery.
 

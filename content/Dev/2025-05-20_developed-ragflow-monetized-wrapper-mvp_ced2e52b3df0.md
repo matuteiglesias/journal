@@ -32,12 +32,12 @@ The session aimed to develop a monetized version of the RAGFlow open-source tool
 - Assessed user management and billing logic, focusing on document access, frontend structure, file uploads, rollback plans, and user feedback mechanisms.
 - Issued technical prompts for RAGFlow monetization to ensure successful [[integration]] without disrupting existing functionalities.
 - Formulated key questions for implementing a trial gating system, focusing on user authentication, [[API]] endpoints, and frontend [[integration]].
-- Provided an internal architecture reference for the RAGFlow-based codebase, detailing user models, authentication flows, middleware hooks, [[API]] gating, Stripe [[integration]], and [[deployment]] configurations.
+- Provided an internal [[architecture]] reference for the RAGFlow-based codebase, detailing user models, authentication flows, middleware hooks, [[API]] gating, Stripe [[integration]], and [[deployment]] configurations.
 
 ### Achievements
 - Completed the technical brief and sprint plan for the RAGFlow MVP.
 - Enhanced the RAGFlow codebase with specific corrections and optimizations.
-- Established a comprehensive architecture reference for the RAGFlow-based application.
+- Established a comprehensive [[architecture]] reference for the RAGFlow-based application.
 
 ### Pending Tasks
 - Further refinement of the trial gating system and its [[integration]] into the existing codebase.

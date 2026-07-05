@@ -31,11 +31,11 @@ The session aimed to refine and enhance the framework for cash story development
 - **Cash Story Contracts and Data Flow**: Defined contracts and data flow for the Cash Story project, emphasizing clear interfaces and accurate financial analysis.
 - **Red-Flag Fixes and EDA Preparation**: Implemented minimal fixes for critical issues in the codebase, focusing on currency handling and internal transfers.
 - **[[Data Processing]] Queries for Financial Ledger**: Executed queries for materializing financial data and computing daily cash positions.
-- **Dual Role Analysis for Cash Story Development**: Developed a dual-role approach for cash story development, integrating engineering and accounting perspectives.
+- **Dual Role Analysis for Cash Story Development**: Developed a dual-role approach for cash story development, integrating engineering and [[accounting]] perspectives.
 - **Counterfactual Analysis for Financial Balances**: Structured approach to counterfactual analysis on financial balances, focusing on precision in defining terms.
 - **Defining Counterfactual Scenarios**: Outlined a structured approach to defining counterfactual scenarios in cash flow analysis.
 - **Guidelines for Attribution Sheet**: Provided guidelines for constructing a single-pass attribution sheet, distinguishing between attribution and counterfactual simulation.
-- **Materialization Layer for Accounting Pipeline**: Implemented a materialization layer for the accounting pipeline using [[Python]].
+- **Materialization Layer for [[Accounting]] Pipeline**: Implemented a materialization layer for the [[accounting]] pipeline using [[Python]].
 
 ### Achievements
 - Enhanced the framework for cash story development and financial analysis.

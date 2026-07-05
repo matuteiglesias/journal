@@ -28,7 +28,7 @@ The session aimed to analyze and correct various [[Python]] functions related to
 - Conducted detailed analysis of song themes, including "A Rainy Night in Soho" and a Hindi song, to explore emotional tones and cultural contexts.
 - Developed and corrected [[Python]] functions for financial calculations, including future value and outstanding debt.
 - Addressed data type mismatches in payment processing by ensuring datetime conversions.
-- Inspected and adjusted [[DataFrame]] structures for accurate groupby operations.
+- Inspected and adjusted DataFrame structures for accurate groupby operations.
 - Summarized chronological payment processing and ensured valid datetime objects in ledger data.
 
 ### Achievements

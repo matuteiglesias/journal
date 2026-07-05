@@ -28,7 +28,7 @@ The goal of this session was to configure Selenium and ChromeDriver on an Ubuntu
 - Explored methods to prevent and mitigate [[web scraping]], including simulating human behavior to bypass detection.
 - Implemented [[automation]] scripts using Selenium to control Chrome, including opening new tabs and downloading content from multiple URLs.
 - Connected Selenium to an existing Chrome session using user profiles and remote [[debugging]] ports.
-- Detailed installation and [[configuration]] of ChromeDriver on Ubuntu, including verifying Chrome versions and resolving compatibility issues by updating or downgrading Chrome/ChromeDriver versions.
+- Detailed installation and configuration of ChromeDriver on Ubuntu, including verifying Chrome versions and resolving compatibility issues by updating or downgrading Chrome/ChromeDriver versions.
 - Provided step-by-step guides and [[Python]] scripts for setting up and [[debugging]] Selenium with Chrome.
 
 ### Achievements

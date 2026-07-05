@@ -28,16 +28,16 @@ The session aimed to address and resolve critical issues in a Next.js applicatio
 - Implemented solutions for handling `searchParams` as Promises in server components, ensuring proper unwrapping using `await` or `React.use()`.
 - Resolved hydration mismatches by adjusting the rendering logic between server and client components.
 - Conducted extensive searches related to Next.js 16.1.6, focusing on search parameters, workspace root configurations, and Turbopack settings.
-- Explored [[documentation]] and [[configuration]] options for disabling Turbopack and using Webpack in Next.js 16 development.
+- Explored [[documentation]] and configuration options for disabling Turbopack and using Webpack in Next.js 16 development.
 
 ### Achievements
 - Successfully implemented code fixes for the `/gpt` and `/sessions` routes.
 - Clarified the handling of dynamic APIs and search parameters in Next.js.
-- Developed a deeper understanding of Turbopack [[configuration]] and its implications on development workflows.
+- Developed a deeper understanding of Turbopack configuration and its implications on development workflows.
 
 ### Pending Tasks
 - Further testing is required to ensure stability across different environments.
-- Review and optimize the current [[configuration]] settings for performance improvements.
+- Review and optimize the current configuration settings for performance improvements.
 
 ## Evidence
 

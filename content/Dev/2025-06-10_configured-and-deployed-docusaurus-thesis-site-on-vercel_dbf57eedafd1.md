@@ -25,7 +25,7 @@ generated: true
 The primary goal of this session was to configure and deploy a [[Docusaurus]]-based thesis landing page on Vercel, ensuring proper audience engagement and [[documentation]] [[integration]].
 
 ### Key Activities
-- **[[Docusaurus]] [[Configuration]]**: Updated the [[Docusaurus]] [[configuration]] for the thesis landing page, focusing on the homepage layout.
+- **[[Docusaurus]] Configuration**: Updated the [[Docusaurus]] configuration for the thesis landing page, focusing on the homepage layout.
 - **Feature List Creation**: Developed a JavaScript object to tailor feature lists for different audiences, emphasizing authority-building.
 - **[[Deployment]] Plan**: Created a detailed step-by-step [[deployment]] plan for hosting the [[Docusaurus]] site on Vercel, including build checks and custom domain setup.
 - **README Update**: Provided a markdown template for incorporating a thesis link in the project's README.

@@ -22,11 +22,11 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to optimize and execute scripts related to debt management, focusing on improving the efficiency of the `resolve_internal_debt.py` script, running accounting pipelines, and exploring debt datasets.
+The session aimed to optimize and execute scripts related to debt management, focusing on improving the efficiency of the `resolve_internal_debt.py` script, running [[accounting]] pipelines, and exploring debt datasets.
 
 ### Key Activities
 - **Script [[Optimization]]**: Reorganized the `resolve_internal_debt.py` script to align with canonical ingestion workflows, enhancing import structures and column handling for better performance.
-- **Pipeline Execution**: Executed an accounting pipeline using Google Sheets, including live runs and local testing, with detailed command explanations.
+- **Pipeline Execution**: Executed an [[accounting]] pipeline using Google Sheets, including live runs and local testing, with detailed command explanations.
 - **Data Exploration**: Imported and explored debt datasets using [[pandas]], analyzing open items and repayment events.
 - **Data Aggregation**: Grouped and aggregated debt data by debtor, creditor, and currency, calculating counts and sums.
 - **Algorithm Analysis**: Reflected on debt management algorithm results, identifying issues with repayment allocations and proposing improvements.
@@ -36,7 +36,7 @@ The session aimed to optimize and execute scripts related to debt management, fo
 
 ### Achievements
 - Successfully optimized the `resolve_internal_debt.py` script for better efficiency.
-- Executed the accounting pipeline with Google Sheets, verifying the [[integration]] and output.
+- Executed the [[accounting]] pipeline with Google Sheets, verifying the [[integration]] and output.
 - Completed initial data exploration and aggregation of debt datasets.
 - Proposed actionable improvements for the debt management algorithm.
 

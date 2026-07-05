@@ -30,7 +30,7 @@ The session aimed to develop and execute [[Python]] scripts for inspecting and m
 - Created a [[Python]] function to print list items with their indices, demonstrated with [[CSV]] file paths.
 - Demonstrated filtering of specific columns from [[CSV]] data using list comprehension.
 - Designed a function to extract fields from [[JSON]] structures and print them if they exist.
-- Grouped a [[DataFrame]] by 'stage' and sorted it by 'relpath', creating a dictionary of sorted lists.
+- Grouped a DataFrame by 'stage' and sorted it by 'relpath', creating a dictionary of sorted lists.
 
 ### Achievements
 Successfully executed scripts for data inspection, list manipulation, and data grouping, enhancing the ability to process [[CSV]] and [[JSON]] data efficiently.

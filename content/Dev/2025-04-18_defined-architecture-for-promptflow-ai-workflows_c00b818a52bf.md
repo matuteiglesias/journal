@@ -22,11 +22,11 @@ generated: true
 ## Description
 
 ### Session Goal
-The goal of this session was to define and outline the architecture of the [[PromptFlow]] Engine, a modular orchestration framework for [[AI]] workflows, utilizing YAML-defined flows and reusable building blocks.
+The goal of this session was to define and outline the [[architecture]] of the [[PromptFlow]] Engine, a modular orchestration framework for [[AI]] workflows, utilizing YAML-defined flows and reusable building blocks.
 
 ### Key Activities
-- Reviewed the architecture of the [[PromptFlow]] Engine, focusing on its modular design and the use of YAML for defining workflows.
-- Outlined the open-source architecture of [[PromptFlow]], detailing its components, responsibilities, and developer interfaces.
+- Reviewed the [[architecture]] of the [[PromptFlow]] Engine, focusing on its modular design and the use of YAML for defining workflows.
+- Outlined the open-source [[architecture]] of [[PromptFlow]], detailing its components, responsibilities, and developer interfaces.
 - Discussed the seven core architectural pillars of [[PromptFlow]], emphasizing modularity, composability, scalability, and developer intuitiveness.
 - Analyzed and decomposed scripts into executable snippets, tagging them according to the [[PromptFlow]] pillars and suggesting [[refactoring]] directions.
 - Mapped [[AI]] [[workflow]] scripts to the architectural pillars, highlighting the purpose and functionality of each code segment.
@@ -35,7 +35,7 @@ The goal of this session was to define and outline the architecture of the [[Pro
 - Organized [[Python]] blocks for use within an [[AI]] flow engine, categorizing them by functional roles.
 
 ### Achievements
-- Successfully defined the architecture of the [[PromptFlow]] Engine, emphasizing its modular and scalable design.
+- Successfully defined the [[architecture]] of the [[PromptFlow]] Engine, emphasizing its modular and scalable design.
 - Clarified the mapping of [[AI]] [[workflow]] scripts to the architectural pillars of [[PromptFlow]].
 - Enhanced the organization and usability of [[Python]] blocks within the [[AI]] flow engine.
 

@@ -30,7 +30,7 @@ The session aimed to implement and refine a PDF processing pipeline using [[Pyth
 - Patched the script to fix TEI filename generation, preventing collisions.
 - Created a CLI runbook for end-to-end PDF ingestion and embedding, including safety checks.
 - Corrected the `chunks_to_records` function in the TEI parser to align with the pipeline's calling convention.
-- Managed Chroma DB collections, including setup and backend [[configuration]].
+- Managed Chroma DB collections, including setup and backend configuration.
 - Diagnosed and resolved [[Python]] import and Chroma collection errors.
 
 ### Achievements

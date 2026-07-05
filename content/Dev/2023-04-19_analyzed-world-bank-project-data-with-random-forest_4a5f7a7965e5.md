@@ -26,9 +26,9 @@ The session aimed to analyze World Bank project data to predict job creation rel
 
 ### Key Activities
 - Utilized [[Pandas]] `groupby()` to create histograms for grouped data.
-- Iterated through [[DataFrame]] columns to plot histograms using [[Matplotlib]].
-- Created subplots for better [[data [[visualization]]]].
-- Addressed and resolved a KeyError in a [[DataFrame]] loop by filtering non-string values and renaming loop variables.
+- Iterated through DataFrame columns to plot histograms using [[Matplotlib]].
+- Created subplots for better [[data visualization]].
+- Addressed and resolved a KeyError in a DataFrame loop by filtering non-string values and renaming loop variables.
 - Updated histogram plotting code to fix variable reference issues.
 - Conducted a comprehensive analysis of World Bank project scores using a Random Forest Classifier, including data loading, diagnostics, preprocessing, model training, and score analysis.
 
@@ -39,7 +39,7 @@ The session aimed to analyze World Bank project data to predict job creation rel
 
 ### Pending Tasks
 - Further refine the Random Forest model parameters for improved accuracy.
-- Explore additional [[visualization]] techniques to better present findings.
+- Explore additional visualization techniques to better present findings.
 
 ## Evidence
 

@@ -27,7 +27,7 @@ The session aimed to develop comprehensive data policies to enhance collaboratio
 ### Key Activities
 - Reviewed methods for estimating treatment effects using matched data and difference-in-differences (DID) estimators.
 - Discussed statistical tests such as paired t-tests and Wilcoxon signed-rank tests for treatment effect estimation.
-- Explored [[data [[visualization]]]] techniques using [[Python]] libraries [[Matplotlib]] and Seaborn.
+- Explored [[data visualization]] techniques using [[Python]] libraries [[Matplotlib]] and Seaborn.
 - Planned data policies for universities, including data privacy, security, and compliance.
 - Developed frameworks for [[data management]] offices in universities, emphasizing multidisciplinary collaboration.
 - Outlined strategies for academic-public partnerships in [[data science]], focusing on interdisciplinary cooperation and continuous [[education]].

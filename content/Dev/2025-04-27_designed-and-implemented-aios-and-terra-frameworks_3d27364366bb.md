@@ -27,7 +27,7 @@ The session aimed to design and implement various frameworks and systems for [[A
 **Key Activities:**
 - Designed the `alive.py` master script for orchestrating company agents, ensuring continuous and efficient operation.
 - Outlined ten specialist roles necessary for [[AI]]-driven organizational success.
-- Developed a funnel architecture and orchestration blueprint for optimizing lead management.
+- Developed a funnel [[architecture]] and orchestration blueprint for optimizing lead management.
 - Implemented a Cron Table using APScheduler for task scheduling.
 - Explored AIOS [[deployment]] modes and implemented an auto-launch feature for the AIOS kernel to enhance user experience.
 - Designed a meta-framework called TerraShell on top of the Cerebrum AIOS kernel.

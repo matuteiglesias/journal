@@ -26,7 +26,7 @@ The session aimed to refactor the retrieval-augmented generation (RAG) pipeline 
 
 ### Key Activities
 - Developed a [[refactoring]] plan to separate the embedder and retriever components of the RAG pipeline, detailing design decisions and the proposed file structure.
-- Outlined the architecture for a modular embedding orchestrator to handle dynamic data embedding strategies using Langchain.
+- Outlined the [[architecture]] for a modular embedding orchestrator to handle dynamic data embedding strategies using Langchain.
 - Designed a unified embedding service capable of handling multiple embedding scripts, with storage solutions in FAISS and Parquet, and future [[API]] [[integration]].
 - Refined a command-line interface (CLI) parser to improve structure and validation, including [[error handling]] and default modes.
 - Provided solutions for managing CLI arguments in Jupyter Notebooks using `argparse`.

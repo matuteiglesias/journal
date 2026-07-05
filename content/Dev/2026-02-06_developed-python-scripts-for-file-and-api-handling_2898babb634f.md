@@ -25,7 +25,7 @@ generated: true
 The session aimed to develop and debug [[Python]] scripts for handling various file types and managing [[API]] configurations, specifically focusing on ZIP archives, SQLite cache files, and the Chroma [[API]].
 
 ### Key Activities
-- Extracted file lists from ZIP archives and read [[configuration]] files using [[Python]]'s zipfile module.
+- Extracted file lists from ZIP archives and read configuration files using [[Python]]'s zipfile module.
 - Implemented functions to read and preview SQLite cache files, showcasing the initial lines and structure.
 - Reviewed and debugged [[Python]] scripts located in specific directories, such as 'chat_jsonl.py' and 'chroma_client.py'.
 - Previewed and extracted main functions from [[Python]] scripts using regular expressions.

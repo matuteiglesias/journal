@@ -25,9 +25,9 @@ generated: true
 The session aimed to enhance email [[data analysis]] using advanced Natural Language Processing (NLP) techniques, focusing on improving keyword and named entity extraction.
 
 ### Key Activities
-- **[[DataFrame]] Filtering:** Implemented [[Python]] code to filter email data by sender and receiver using [[Pandas]].
+- **DataFrame Filtering:** Implemented [[Python]] code to filter email data by sender and receiver using [[Pandas]].
 - **Email Data Insights:** Analyzed email exchanges to derive insights on collaboration and communication patterns.
-- **LDA-Based Keyword Extraction:** Applied Latent Dirichlet Allocation (LDA) for extracting keywords from emails, including preprocessing and [[visualization]].
+- **LDA-Based Keyword Extraction:** Applied Latent Dirichlet Allocation (LDA) for extracting keywords from emails, including preprocessing and visualization.
 - **RAKE [[Optimization]]:** Improved RAKE keyword extraction to reduce irrelevant metadata capture.
 - **Named Entity Recognition (NER):** Developed a SpaCy-based NER function to identify entities in email bodies, and explored predefined entity types.
 - **NER Performance Enhancement:** Discussed strategies to improve NER accuracy, including token cleaning and custom filtering.

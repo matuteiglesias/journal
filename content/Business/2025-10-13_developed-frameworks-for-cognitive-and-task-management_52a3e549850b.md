@@ -27,13 +27,13 @@ The session aimed to explore and refine frameworks and architectures for cogniti
 **Key Activities:**
 - Conducted a critical review of a finite-deck control system for weekly task allocation, identifying structural strengths and areas for improvement.
 - Outlined a framework for transversal modes of cognitive engagement, focusing on 'how' rather than 'what' to optimize [[workflow]].
-- Reflected on control architecture in task management, emphasizing structured systems and feedback clarity.
+- Reflected on control [[architecture]] in task management, emphasizing structured systems and feedback clarity.
 - Explored control coherence in executive systems, highlighting the role of middleware in bridging intention and execution.
 - Analyzed the anatomy of executive self-regeneration, emphasizing cognitive ergonomics and UX design.
 - Discussed cognitive economy and operational literacy, focusing on efficient context management and system boundaries.
-- Developed insights into cognitive architecture as a self-governing system with ergonomic UX.
+- Developed insights into cognitive [[architecture]] as a self-governing system with ergonomic UX.
 - Examined cognitive file handles and working-set saturation, drawing parallels with computer systems.
-- Analyzed political value architecture, emphasizing governance literacy and technical autonomy.
+- Analyzed political value [[architecture]], emphasizing governance literacy and technical autonomy.
 - Explored identity and social interaction through systems thinking, focusing on stable self-models.
 - Created a civic intelligence toolkit, emphasizing strategic communication with non-technical audiences.
 
@@ -43,7 +43,7 @@ The session aimed to explore and refine frameworks and architectures for cogniti
 **Pending Tasks:**
 - Further refinement of the finite-deck control system for task allocation.
 - Implementation of transversal modes in cognitive engagement strategies.
-- Continued exploration of cognitive architecture and political value systems for broader application.
+- Continued exploration of cognitive [[architecture]] and political value systems for broader application.
 
 ## Evidence
 

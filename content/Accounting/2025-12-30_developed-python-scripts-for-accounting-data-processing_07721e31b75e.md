@@ -22,10 +22,10 @@ generated: true
 ## Description
 
 **Session Goal:**
-The session aimed to develop and refine [[Python]] scripts for generating accounting reports and managing manifest files, focusing on data ingestion and ledger management.
+The session aimed to develop and refine [[Python]] scripts for generating [[accounting]] reports and managing manifest files, focusing on data ingestion and ledger management.
 
 **Key Activities:**
-- Summarized queries related to generating accounting reports and managing manifest files using argparse and [[JSON]] for file handling.
+- Summarized queries related to generating [[accounting]] reports and managing manifest files using argparse and [[JSON]] for file handling.
 - Outlined [[Python]] commands and functions for data ingestion and ledger management, including schema definitions and manifest writing.
 - Compiled a list of command queries for executing various [[Python]] scripts, detailing required arguments and execution modes.
 - Documented command queries for the 'materialize.py' script, focusing on data aggregation, manifest writing, and loading operations.
@@ -33,11 +33,11 @@ The session aimed to develop and refine [[Python]] scripts for generating accoun
 - Developed queries for extracting data from [[JSON]] manifest files, focusing on timestamps and [[CSV]] files for financial [[data analysis]].
 
 **Achievements:**
-- Successfully documented and structured the [[workflow]] for [[Python]] scripts handling accounting [[data processing]] and manifest management.
+- Successfully documented and structured the [[workflow]] for [[Python]] scripts handling [[accounting]] [[data processing]] and manifest management.
 
 **Pending Tasks:**
 - Further testing and validation of the [[Python]] scripts in a production environment to ensure reliability and accuracy.
-- [[Integration]] of the developed scripts with existing accounting systems for seamless [[data processing]].
+- [[Integration]] of the developed scripts with existing [[accounting]] systems for seamless [[data processing]].
 
 ## Evidence
 

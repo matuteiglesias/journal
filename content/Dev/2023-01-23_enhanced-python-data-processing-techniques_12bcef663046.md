@@ -29,9 +29,9 @@ The session aimed to improve the clarity, efficiency, and functionality of [[Pyt
 - Demonstrated [[data processing]] techniques for unemployment rate analysis using [[pandas]].
 - Explored file retrieval methods with `glob` and `os.scandir`, and date extraction from filenames using regular expressions.
 - Reviewed functions like `ajustar_empleo()` for adjusting employment data and `predict_save()` for model predictions.
-- Optimized [[dataframe]] operations in [[pandas]] and encapsulated [[data processing]] operations into reusable functions.
-- Improved functions for [[dataframe]] merging and poverty measurement.
-- Enhanced Dask [[DataFrame]] performance through sampling, merging, and delayed computation.
+- Optimized dataframe operations in [[pandas]] and encapsulated [[data processing]] operations into reusable functions.
+- Improved functions for dataframe merging and poverty measurement.
+- Enhanced Dask DataFrame performance through sampling, merging, and delayed computation.
 
 ### Achievements
 - Developed and refined multiple [[Python]] functions for data manipulation, improving code readability and efficiency.

@@ -27,7 +27,7 @@ The goal of this session was to troubleshoot and resolve joystick recognition is
 ### Key Activities
 - **System Recognition Check**: Verified if the joystick was recognized by the system using tools like `lsusb` and `dmesg`.
 - **Functionality Testing**: Tested joystick functionality with `jstest` to ensure it was working correctly.
-- **[[Configuration]] in PCSX2**: Configured settings within the PCSX2 emulator to ensure proper joystick recognition.
+- **Configuration in PCSX2**: Configured settings within the PCSX2 emulator to ensure proper joystick recognition.
 - **USB and Driver Checks**: Checked USB connections and installed necessary drivers to address any potential hardware or software issues.
 - **Hardware Diagnostics**: Conducted diagnostics to identify low-level communication errors and explored additional drivers for compatibility.
 

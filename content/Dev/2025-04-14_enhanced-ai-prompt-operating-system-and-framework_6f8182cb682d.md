@@ -30,7 +30,7 @@ The session aimed to enhance the [[AI]] prompt operating system by focusing on t
 - Conducted a comprehensive onboarding briefing for a new developer in an [[AI]] app project, outlining current development context and success criteria.
 - Created a checklist for onboarding a new agent to develop a prompt OS, focusing on core flow validation and infrastructure setup.
 - Reviewed the modular [[AI]] structure, highlighting checklist coverage and immediate TODOs, including [[integration]] of a PromptTracer and modular prompt systems.
-- Analyzed the architecture of a pluggable prompt execution engine, assessing its modular design and areas for improvement.
+- Analyzed the [[architecture]] of a pluggable prompt execution engine, assessing its modular design and areas for improvement.
 
 ### Achievements
 - Clarified export options and [[integration]] strategies for project checklists.

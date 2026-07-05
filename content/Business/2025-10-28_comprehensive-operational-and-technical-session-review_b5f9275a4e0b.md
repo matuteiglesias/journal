@@ -32,7 +32,7 @@ The session aimed to stabilize operations across various domains, enhance [[auto
 - Conducted a risk assessment for data pipelines and proposed reliability improvements.
 - Reviewed and reorganized codebase for better separation of concerns and testing.
 - Proposed [[refactoring]] of ETL functions and financial notebooks for improved data quality.
-- Suggested improvements for accounting systems and data lake script [[refactoring]].
+- Suggested improvements for [[accounting]] systems and data lake script [[refactoring]].
 
 ### Achievements:
 - Established clear operational and technical strategies for [[automation]] and [[project management]].

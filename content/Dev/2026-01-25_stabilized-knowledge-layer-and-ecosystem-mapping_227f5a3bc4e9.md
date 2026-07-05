@@ -44,7 +44,7 @@ The session aimed to stabilize and integrate the Knowledge Layer while mapping t
 
 ### Pending Tasks
 - Further refinement of the ecosystem map and consolidation of redundancies.
-- Implementation of the proposed architecture for the Knowledge Layer.
+- Implementation of the proposed [[architecture]] for the Knowledge Layer.
 - Continued exploration of VAC chain [[documentation]] and [[integration]] strategies.
 
 ## Evidence

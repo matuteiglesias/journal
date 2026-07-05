@@ -28,7 +28,7 @@ The session focused on enhancing [[productivity]] through structured [[automatio
 - **Touch Rotation Framework:** Developed a 90-minute distributed sampling framework to reactivate context for multiple Software Update Checks (SUCs) with minimal cognitive load.
 - **Status Audit and Micro-Nudge Plan:** Executed a status audit and created a micro-nudge plan for the Touch Rotation, focusing on [[integration]] and systemic stability.
 - **Activation Zone Scheduling:** Designed a six activation zone schedule to organize daily work, addressing potential friction points and enhancing [[productivity]].
-- **Daily Arc Doctrine:** Planned a daily planning system integrating systems-engineering rhythm and cognitive-energy architecture.
+- **Daily Arc Doctrine:** Planned a daily planning system integrating systems-engineering rhythm and cognitive-energy [[architecture]].
 - **Flow Controller Dashboard:** Transformed a traditional timetable into a dependency-aware flow controller dashboard using Google Sheets.
 - **Automated URL Scheduling:** Implemented methods for automating URL opening in Google Sheets using cron and other scheduling tools.
 - **Mechanical Nudges for Goal Awareness:** Developed mechanical nudges to enhance goal awareness through non-intrusive notifications.

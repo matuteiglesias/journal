@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to refactor the LeadScreenerAgent to follow clean architecture principles and enhance the DogfoodChampion class for better [[automation]] and flow management.
+The session aimed to refactor the LeadScreenerAgent to follow clean [[architecture]] principles and enhance the DogfoodChampion class for better [[automation]] and flow management.
 
 ### Key Activities
 - **[[Refactoring]] LeadScreenerAgent**: The agent was updated to align with the EventProcessorAgent style, focusing on a modular and scalable design.

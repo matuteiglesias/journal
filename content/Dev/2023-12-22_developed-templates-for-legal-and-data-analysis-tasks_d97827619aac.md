@@ -28,7 +28,7 @@ The session aimed to create structured templates and guides for legal processes 
 1. Developed a detailed checklist and template for handling vehicle theft [[documentation]], including DNRPA, AGIP, and insurance procedures.
 2. Created templates for requesting vehicle deregistration due to theft.
 3. Provided guides on immigration processes for Brazilian citizens in Argentina, focusing on overstay penalties and extension applications.
-4. Designed structured notebook templates for [[data processing]], analysis, and [[visualization]] using [[Python]] libraries such as Dask, [[Pandas]], and NetworkX.
+4. Designed structured notebook templates for [[data processing]], analysis, and visualization using [[Python]] libraries such as Dask, [[Pandas]], and NetworkX.
 5. Outlined advanced [[data analysis]] techniques, including assortativity and quantile plots.
 
 **Achievements:**

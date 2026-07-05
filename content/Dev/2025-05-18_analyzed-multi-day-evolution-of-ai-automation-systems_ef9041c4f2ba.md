@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to analyze the multi-day evolution of [[AI]] [[automation]] systems, focusing on architecture, orchestration, [[debugging]], and SDK design.
+The session aimed to analyze the multi-day evolution of [[AI]] [[automation]] systems, focusing on [[architecture]], orchestration, [[debugging]], and SDK design.
 
 ### Key Activities
 - Reviewed daily wrap-up memos and reflections on [[AI]] session intelligence and cognitive infrastructure.

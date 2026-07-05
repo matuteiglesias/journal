@@ -29,12 +29,12 @@ The session aimed to perform system maintenance by cleaning up unused Docker con
 - Investigated the Docker image `wildcat/scylla:latest` to understand its purpose and determine whether it could be removed.
 - Managed unused Docker images by reviewing dependencies, analyzing image history, and checking running containers.
 - Investigated Docker commands executed via shell history to ensure all relevant commands were accounted for.
-- Resolved permission errors in n8n [[configuration]] by verifying and modifying permissions and considering software reinstallation.
+- Resolved permission errors in n8n configuration by verifying and modifying permissions and considering software reinstallation.
 
 ### Achievements:
 - Successfully cleaned up unused Docker resources, freeing up disk space.
 - Updated Node.js to ensure compatibility with n8n.
-- Resolved [[configuration]] permission issues in n8n, improving system functionality.
+- Resolved configuration permission issues in n8n, improving system functionality.
 
 ### Pending Tasks:
 - Further analysis of Docker image `wildcat/scylla:latest` to decide on its necessity and potential removal.

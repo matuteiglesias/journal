@@ -26,13 +26,13 @@ The primary objective of this session was to configure and troubleshoot an Apach
 
 ### Key Activities
 - Uploaded PDF and static HTML files to the Apache server, involving staging setup, file transfer, and permission adjustments.
-- Diagnosed and resolved Apache server timeout issues, including checks on DNS [[configuration]], firewall settings, and network stack behavior.
-- Addressed IPv6 connectivity issues with diagnostic commands and DNS/firewall [[configuration]] steps.
+- Diagnosed and resolved Apache server timeout issues, including checks on DNS configuration, firewall settings, and network stack behavior.
+- Addressed IPv6 connectivity issues with diagnostic commands and DNS/firewall configuration steps.
 - Resolved 404 errors and connectivity issues by configuring DocumentRoot and managing DNS AAAA records.
 - Configured Apache virtual host for file hosting and addressed IPv6 timeout issues with a reusable script.
 - Set up vhost and Certbot for matiasdice.com, verifying HTTP/HTTPS functionality and managing DNS records.
-- Solved connectivity problems related to DNS [[configuration]] and file access, with recommendations for IPv4 and HTTPS settings.
-- Addressed HTTP/HTTPS connectivity issues for matuteiglesias.link, providing immediate solutions and server [[configuration]] improvements.
+- Solved connectivity problems related to DNS configuration and file access, with recommendations for IPv4 and HTTPS settings.
+- Addressed HTTP/HTTPS connectivity issues for matuteiglesias.link, providing immediate solutions and server configuration improvements.
 
 ### Achievements
 - Successfully configured Apache server for static file hosting with reliable HTTP/HTTPS connectivity.

@@ -25,7 +25,7 @@ generated: true
 The primary objective was to develop a testing harness for bus service testing and implement various [[Python]] scripts for [[file management]] and data extraction.
 
 ### Key Activities
-- **Harness Architecture for Bus Service Testing**: Detailed the architecture and implementation for a testing harness, focusing on isolation, fixture management, and verification processes.
+- **Harness [[Architecture]] for Bus Service Testing**: Detailed the [[architecture]] and implementation for a testing harness, focusing on isolation, fixture management, and verification processes.
 - **File Existence Checker in [[Python]]**: Developed a [[Python]] script to check the existence of files in a directory, categorizing them into existing and missing files.
 - **Read Shell Scripts Function**: Created a function to read text from shell script files and store the initial content in a dictionary.
 - **Extracting Line Counts from Markdown Manuals**: Implemented a script to count lines in markdown files, returning a dictionary of file names and line counts.
@@ -33,7 +33,7 @@ The primary objective was to develop a testing harness for bus service testing a
 - **Extracting Context from Summary Request Manual**: Developed a script to extract and print context from a summary request manual.
 
 ### Achievements
-- Successfully outlined and planned the architecture for the testing harness.
+- Successfully outlined and planned the [[architecture]] for the testing harness.
 - Completed several [[Python]] scripts for file handling and data extraction, enhancing [[automation]] capabilities.
 
 ### Pending Tasks

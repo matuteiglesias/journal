@@ -30,14 +30,14 @@ The session aimed to develop and refine structured protocols for capability deve
 - **Capability Sprint [[Workflow]]**: Designed a sprint [[workflow]] for defining and executing capabilities, detailing steps from naming to establishing a definition of done.
 - **Capability Sprint Flowchart**: Outlined a structured sprint process with specific timed exits and required artifacts.
 - **Enhancing Protocols**: Reflected on and proposed enhancements for protocol execution, focusing on artifact management and loop integrity.
-- **Repo-Agnostic Runner Architecture**: Planned a minimal architecture for a runner that simplifies command execution across repositories.
+- **Repo-Agnostic Runner [[Architecture]]**: Planned a minimal [[architecture]] for a runner that simplifies command execution across repositories.
 
 ### Achievements
 - Developed comprehensive protocols and workflows for 15-minute capability development and task execution.
 - Proposed enhancements for protocol efficiency and artifact management.
 
 ### Pending Tasks
-- Implement and test the repo-agnostic runner architecture in a real-world scenario.
+- Implement and test the repo-agnostic runner [[architecture]] in a real-world scenario.
 - Further refine the capability development protocols based on initial feedback and testing results.
 
 ## Evidence

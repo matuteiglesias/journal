@@ -26,7 +26,7 @@ The session aimed to develop a structured approach for data extraction and legal
 
 ### Key Activities
 - **Data Extraction:** Developed a [[workflow]] for extracting candidate streams, including concepts, claims, and playbook moves, with a focus on disciplined extraction to avoid vague topics and duplicates.
-- **Knowledge Management System:** Proposed an architecture for a knowledge management system, differentiating between stable knowledge (wiki) and dynamic narrative (blog).
+- **Knowledge Management System:** Proposed an [[architecture]] for a knowledge management system, differentiating between stable knowledge (wiki) and dynamic narrative (blog).
 - **Political Context Mapping:** Created an outline for mapping semantic scope in political contexts, addressing governance and [[strategy]].
 - **Annotation Design:** Designed a production annotation operator for NLP mining, emphasizing high recall extraction, traceability, and quality control.
 - **Legal Research:** Conducted legal research on vehicle owner liability, focusing on permissive use, vicarious liability, and negligent entrustment across various states, with specific attention to Florida statutes.
@@ -36,7 +36,7 @@ The session aimed to develop a structured approach for data extraction and legal
 - Developed comprehensive legal research queries for vehicle owner liability and Florida's legal implications.
 
 ### Pending Tasks
-- Further development of the knowledge management system architecture.
+- Further development of the knowledge management system [[architecture]].
 - Detailed implementation of the political context mapping framework.
 
 ## Evidence

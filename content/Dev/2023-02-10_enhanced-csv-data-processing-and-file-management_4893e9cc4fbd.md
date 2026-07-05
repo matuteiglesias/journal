@@ -28,7 +28,7 @@ The goal of this session was to enhance the [[CSV]] [[data processing]] and [[fi
 - Developed and updated [[Python]] functions for [[CSV]] transformation, including renaming output files based on specific criteria.
 - Reworked functions to modify file paths and ensure target directories exist, with usage examples provided for processing [[CSV]] files.
 - Implemented code to read multiple [[CSV]] files, group data by specific columns, and save aggregated results using [[pandas]].
-- Added functionality to manipulate [[DataFrame]] strings by adding leading zeros and correcting string modification errors.
+- Added functionality to manipulate DataFrame strings by adding leading zeros and correcting string modification errors.
 - Addressed 'AttributeError' in [[Python]], ensuring input to the `startswith` method is a string.
 - Created a mapping dictionary for correcting spelling discrepancies in dataset section names.
 

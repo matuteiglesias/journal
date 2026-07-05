@@ -32,14 +32,14 @@ The session aimed to automate the streaming of radio stations using a [[Python]]
 - Scheduled a daily cron job for the [[Python]] script at 8:50 AM.
 - Explained the role of DISPLAY and XAUTHORITY variables for rtcwake command authorization.
 - Created a systemd service to run the [[Python]] script without user login, focusing on security.
-- Modified the `open_radio.service` file for dynamic URL [[configuration]] based on the day of the week.
+- Modified the `open_radio.service` file for dynamic URL configuration based on the day of the week.
 
 ### Achievements
 - Successfully automated radio streaming using [[Python]] and cron.
 - Enhanced system [[automation]] with rtcwake and systemd configurations.
 
 ### Pending Tasks
-- Verify the dynamic URL [[configuration]] for different days to ensure all URLs are correctly set.
+- Verify the dynamic URL configuration for different days to ensure all URLs are correctly set.
 
 ## Evidence
 

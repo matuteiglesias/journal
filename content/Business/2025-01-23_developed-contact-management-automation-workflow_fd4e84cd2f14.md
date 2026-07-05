@@ -28,7 +28,7 @@ The session aimed to develop a structured [[workflow]] for contact management an
 - Outlined a high-level process for data curation and relationship management, focusing on daily grouping and review processes.
 - Generated a spreadsheet template for managing daily contacts, including randomized names and assigned dates for 2025.
 - Created scripts to download and upload Google Sheets using [[Python]] and the gspread library.
-- Installed and configured the gspread_dataframe module to facilitate [[DataFrame]] uploads to Google Sheets.
+- Installed and configured the gspread_dataframe module to facilitate DataFrame uploads to Google Sheets.
 - Analyzed relationship management strategies, categorizing relationships by type, status, and priority.
 
 ### Achievements

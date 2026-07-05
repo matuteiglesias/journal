@@ -26,7 +26,7 @@ The main objective of this session was to develop Jinja-based templates to autom
 
 ### Key Activities
 - Created a Jinja-based prompt template for synthesizing structured [[Docusaurus]] [[documentation]], focusing on clarity and organization.
-- Developed a [[Python]] script to process [[DataFrame]] clusters and output them in JSONL format.
+- Developed a [[Python]] script to process DataFrame clusters and output them in JSONL format.
 - Refined Jinja2 templates to maintain editorial tone and improve developer ergonomics.
 - Implemented and cleaned up [[Python]] functions for LLM interactions, ensuring raw text output for downstream parsing.
 - Addressed [[error handling]] in [[PromptFlow]] and resolved JSONL-YAML mapping issues.

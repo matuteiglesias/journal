@@ -25,8 +25,8 @@ generated: true
 The primary goal of this session was to resolve OAuth 2.0 client ID issues encountered in a [[Flask]] application integrated with Firebase and Google Cloud services.
 
 ### Key Activities
-- Conducted a detailed review of the OAuth [[configuration]] for the [[Flask]] app, focusing on Firebase and Google OAuth.
-- Troubleshot the 'Error 401: invalid_client' by verifying the OAuth 2.0 client ID [[configuration]] using Google Cloud SDK and Firebase CLI.
+- Conducted a detailed review of the OAuth configuration for the [[Flask]] app, focusing on Firebase and Google OAuth.
+- Troubleshot the 'Error 401: invalid_client' by verifying the OAuth 2.0 client ID configuration using Google Cloud SDK and Firebase CLI.
 - Configured the OAuth consent screen in the Google Cloud Console to ensure proper user authentication.
 - Addressed OAuth 2.0 client ID issues by verifying service account permissions, checking client ID usage, and examining redirect URIs.
 - Explained the role of the `firebase init` command in setting up Firebase services for the [[Flask]] app.

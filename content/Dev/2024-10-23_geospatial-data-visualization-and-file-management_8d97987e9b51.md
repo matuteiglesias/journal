@@ -21,7 +21,7 @@ generated: true
 
 ## Description
 
-**Session Goal:** The session aimed to explore the [[visualization]] of country-specific data on maps using GADM and manage .geojson files effectively for geospatial analysis.
+**Session Goal:** The session aimed to explore the visualization of country-specific data on maps using GADM and manage .geojson files effectively for geospatial analysis.
 
 **Key Activities:**
 - Developed a structured approach to overlay data on maps using GADM, with code examples provided for implementation using [[Python]] and Geopandas.
@@ -34,7 +34,7 @@ generated: true
 - Identified and resolved issues related to missing or mislocated .geojson files, ensuring smooth [[file management]].
 
 **Pending Tasks:**
-- Further testing of the geospatial [[visualization]] code with a complete set of .geojson files to validate the approach.
+- Further testing of the geospatial visualization code with a complete set of .geojson files to validate the approach.
 - [[Optimization]] of the file handling script to improve efficiency and accuracy.
 
 ## Evidence

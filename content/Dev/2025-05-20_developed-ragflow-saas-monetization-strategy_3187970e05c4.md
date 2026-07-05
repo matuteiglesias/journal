@@ -26,7 +26,7 @@ The session aimed to develop a comprehensive [[strategy]] for converting the RAG
 
 ### Key Activities
 - **Checklist Creation**: Developed detailed checklists for minimal code changes required to implement access control, billing logic, branding, analytics, and hardening measures.
-- **System Architecture Analysis**: Analyzed the RAGFlow system modules to identify missing components crucial for functionality, such as authentication routes and frontend templates.
+- **System [[Architecture]] Analysis**: Analyzed the RAGFlow system modules to identify missing components crucial for functionality, such as authentication routes and frontend templates.
 - **Document Management [[API]] Overview**: Reviewed the RAGFlow backend's document management interface to strategize minimal code changes for software resale.
 - **Team Composition Planning**: Outlined team structure, roles, and responsibilities for implementing a monetized wrapper over the RAGFlow OSS app.
 - **Business Model Proposal**: Proposed a defensible business model for a phase-zero launch, focusing on distribution, user experience, and targeted customer segments.

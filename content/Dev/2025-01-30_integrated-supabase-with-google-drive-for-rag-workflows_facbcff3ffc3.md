@@ -33,7 +33,7 @@ The session aimed to integrate Google Drive with Supabase to streamline [[file m
 
 ### Achievements
 - Successfully integrated Google Drive with Supabase, facilitating efficient [[file management]] in RAG workflows.
-- Completed installation and [[configuration]] of the Supabase CLI on Linux.
+- Completed installation and configuration of the Supabase CLI on Linux.
 - Developed a comprehensive plan for Supabase [[integration]] with n8n workflows, enhancing [[automation]] capabilities.
 
 ### Pending Tasks

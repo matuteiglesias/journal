@@ -25,7 +25,7 @@ generated: true
 The session aimed to enhance text processing efficiency and manage file redundancy effectively.
 
 ### Key Activities
-- **[[Dataframe]] Segmentation**: Segmented text fields into chunks of 1000 characters for easier processing.
+- **Dataframe Segmentation**: Segmented text fields into chunks of 1000 characters for easier processing.
 - **Batch Encoding for Text Embedding**: Implemented batch encoding to improve text embedding efficiency using [[Python]] and NumPy.
 - **Duplicate [[File Management]]**: Utilized command-line tools like `fdupes` to detect and manage duplicate files across systems.
 - **Mathematical Content Analysis**: Analyzed redundancy in mathematical content and file paths, suggesting cleanup strategies.

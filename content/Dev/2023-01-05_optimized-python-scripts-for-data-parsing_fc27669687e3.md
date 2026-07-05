@@ -30,12 +30,12 @@ The session aimed to optimize [[Python]] scripts for parsing and processing data
 - Demonstrated parsing of dictionary data into [[Pandas]] DataFrames using the `pycspro` library.
 - Utilized `[[json]].loads()` to parse DCF files into [[Python]] dictionaries and extract data columns.
 - Addressed JSONDecodeError by implementing UTF-8-SIG encoding.
-- Discussed [[optimization]] techniques for reading multiple [[CSV]] files into a single [[DataFrame]], highlighting trade-offs between compactness and efficiency.
+- Discussed [[optimization]] techniques for reading multiple [[CSV]] files into a single DataFrame, highlighting trade-offs between compactness and efficiency.
 
 ### Achievements
 - Successfully optimized the dictionary parsing script for better performance.
 - Implemented [[error handling]] for JSONDecodeError using appropriate encoding.
-- Enhanced [[CSV]] file reading and [[DataFrame]] concatenation techniques.
+- Enhanced [[CSV]] file reading and DataFrame concatenation techniques.
 
 ### Pending Tasks
 - Further explore additional [[Python]] libraries for data parsing and [[optimization]].

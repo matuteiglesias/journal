@@ -42,7 +42,7 @@ The primary aim was to refactor the `main.py` file and integrate a new storage a
 
 ### Pending Tasks
 - Further improvements and optimizations for file handling in `storage_adapter.py`.
-- Complete rollout of the new service architecture and monitor for any issues during [[integration]].
+- Complete rollout of the new service [[architecture]] and monitor for any issues during [[integration]].
 
 ## Evidence
 

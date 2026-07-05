@@ -29,7 +29,7 @@ The session aimed to enhance data pipeline processes and improve Jupyter Noteboo
 - **Jupyter Notebook Scripts**: Developed scripts to inspect and ingest Jupyter Notebooks, extracting cell content and types for analysis.
 - **Data Pipeline Assessment**: Reviewed and recommended improvements for the data pipeline structure, focusing on data storage semantics and transaction identity.
 - **Directory Structure Creation**: Automated the creation of directory and file structures for the accounts pipeline using bash scripts.
-- **Payment Parsers Development**: Created [[Python]] parsers for Binance and Provincia payment data, ensuring standardized [[DataFrame]] outputs.
+- **Payment Parsers Development**: Created [[Python]] parsers for Binance and Provincia payment data, ensuring standardized DataFrame outputs.
 
 ### Achievements:
 - Successfully implemented data normalization and processing workflows.
@@ -39,7 +39,7 @@ The session aimed to enhance data pipeline processes and improve Jupyter Noteboo
 - Developed robust parsers for payment data transformation.
 
 ### Pending Tasks:
-- Implement the recommended data pipeline architecture changes.
+- Implement the recommended data pipeline [[architecture]] changes.
 - Further refine and test the Jupyter Notebook processing scripts for broader use cases.
 
 ## Evidence

@@ -21,7 +21,7 @@ generated: true
 
 ## Description
 
-**Session Goal**: The session aimed to enhance the [[visualization]] of model performance metrics using [[Python]], focusing on creating violin plots to better understand performance distributions across different models and accelerators.
+**Session Goal**: The session aimed to enhance the visualization of model performance metrics using [[Python]], focusing on creating violin plots to better understand performance distributions across different models and accelerators.
 
 **Key Activities**:
 1. Developed [[Python]] scripts to generate violin plots for visualizing model performance in tokens per second, incorporating data loading, filtering, and diagnostics.
@@ -30,9 +30,9 @@ generated: true
 4. Conducted data diagnostics and recommended normalization schemas for datasets, providing practical [[Python]] code for diagnostics and plotting.
 5. Created a horizontal bar chart to visualize energy efficiency metrics, detailing the `perf_per_watt` calculation using Seaborn and [[Matplotlib]].
 
-**Achievements**: Successfully created and refined plotting scripts for model performance analysis, ensuring robust data handling and [[visualization]] clarity. Developed a reusable plotting cell for future performance analysis tasks.
+**Achievements**: Successfully created and refined plotting scripts for model performance analysis, ensuring robust data handling and visualization clarity. Developed a reusable plotting cell for future performance analysis tasks.
 
-**Pending Tasks**: Further improvements to the plotting scripts and exploration of additional [[visualization]] techniques for enhanced insights.
+**Pending Tasks**: Further improvements to the plotting scripts and exploration of additional visualization techniques for enhanced insights.
 
 ## Evidence
 

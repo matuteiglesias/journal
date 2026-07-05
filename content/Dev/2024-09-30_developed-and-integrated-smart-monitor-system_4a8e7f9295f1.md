@@ -22,14 +22,14 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to develop, deliver, and integrate a Smart Monitor System using a pub/sub architecture to enhance [[productivity]] and task management.
+The session aimed to develop, deliver, and integrate a Smart Monitor System using a pub/sub [[architecture]] to enhance [[productivity]] and task management.
 
 ### Key Activities
-- **Refinement of Pub/Sub Architecture**: Matías refined the pub/sub architecture to improve [[productivity]] by identifying specific publishers and subscribers.
+- **Refinement of Pub/Sub [[Architecture]]**: Matías refined the pub/sub [[architecture]] to improve [[productivity]] by identifying specific publishers and subscribers.
 - **[[Workflow]] [[Automation]]**: Outlined a structured approach for automating workflows using the pub/sub system.
 - **Smart Monitoring System Design**: Developed a smart monitoring system with agents for data ingestion, processing, alerting, and storage.
 - **Memo Preparation**: Prepared a memo to outline requirements and next steps for hiring Chat Dev for the Smart Monitor System.
-- **Chat Dev Setup**: Set up Chat Dev from the command line, including repository cloning, environment setup, and [[API]] [[configuration]].
+- **Chat Dev Setup**: Set up Chat Dev from the command line, including repository cloning, environment setup, and [[API]] configuration.
 - **[[Troubleshooting]]**: Addressed a TypeError in the ChatMessage class.
 - **[[Integration]] with GCP Pub/Sub**: Examined the `main.py` file for [[integration]] capabilities with GCP Pub/Sub.
 

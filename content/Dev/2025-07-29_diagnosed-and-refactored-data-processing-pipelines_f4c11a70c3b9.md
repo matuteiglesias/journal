@@ -34,7 +34,7 @@ The primary objective of this session was to diagnose and resolve issues within 
 - Developed a script to split markdown documents by project name, maintaining formatting and addressing missing logs.
 - Implemented a code snippet to ensure the existence of an output directory in [[Python]] scripts, enhancing robustness.
 - Reflected on [[Python]]'s `Path` class from the `pathlib` module, exploring its functionality and best practices.
-- Addressed [[error handling]] in [[DataFrame]] operations, focusing on conditionally defined variables.
+- Addressed [[error handling]] in DataFrame operations, focusing on conditionally defined variables.
 
 ### Achievements
 - Successfully identified and documented the root causes of desynchronization and clustering issues.

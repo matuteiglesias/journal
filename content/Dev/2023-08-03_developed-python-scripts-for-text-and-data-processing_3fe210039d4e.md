@@ -22,12 +22,12 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to enhance text and [[data processing]] capabilities using [[Python]], focusing on name extraction, [[DataFrame]] manipulation, and report generation.
+The session aimed to enhance text and [[data processing]] capabilities using [[Python]], focusing on name extraction, DataFrame manipulation, and report generation.
 
 ### Key Activities
 - Developed a [[Python]] function to extract proper names from unstructured text using heuristics and regular expressions.
 - Improved the name extraction code to be more lenient and capture capitalized words as potential names.
-- Created a new [[DataFrame]] from existing data by iterating through rows and matching names in descriptions.
+- Created a new DataFrame from existing data by iterating through rows and matching names in descriptions.
 - Updated the `extract_names` function to include parameters for filtering short names and excluding keywords.
 - Generated a markdown report in Argentine Spanish, formatting names and associated details.
 - Implemented code for converting Markdown to HTML using the [[Python]] `markdown` library and enhanced HTML output with Bootstrap CSS.
@@ -38,7 +38,7 @@ The session aimed to enhance text and [[data processing]] capabilities using [[P
 - Enhanced the appearance of HTML outputs using Bootstrap.
 
 ### Pending Tasks
-- Further testing and validation of the name extraction and [[DataFrame]] manipulation scripts to ensure accuracy and efficiency.
+- Further testing and validation of the name extraction and DataFrame manipulation scripts to ensure accuracy and efficiency.
 
 ## Evidence
 

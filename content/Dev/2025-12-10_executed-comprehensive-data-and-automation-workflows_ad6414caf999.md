@@ -28,11 +28,11 @@ generated: true
 2. **Data Normalization Plans**: Developed detailed plans for normalizing and canonicalizing data columns using [[Python]] scripts, emphasizing fuzzy matching and manual reviews.
 3. **Extractor and Pipeline Diagnostics**: Diagnosed and recommended improvements for data extraction and model matching pipelines, including regex patterns and [[Python]] code fixes.
 4. **[[CSV]] Diagnostics**: Conducted diagnostics on [[CSV]] files, identifying data quality issues and recommending normalization into structured tables.
-5. **[[Data [[Visualization]]]] Planning**: Outlined a plan for creating data visualizations from cleaned tables, focusing on interpretable and impactful plots.
+5. **[[Data Visualization]] Planning**: Outlined a plan for creating data visualizations from cleaned tables, focusing on interpretable and impactful plots.
 
 **Achievements**: Successfully executed and documented workflows for [[Git]] setup, data normalization, and diagnostics. Identified and recommended fixes for data extraction and pipeline issues. Developed a structured plan for data visualizations.
 
-**Pending Tasks**: Implement the recommended fixes for data extraction pipelines and execute the [[data [[visualization]]]] plan.
+**Pending Tasks**: Implement the recommended fixes for data extraction pipelines and execute the [[data visualization]] plan.
 
 ## Evidence
 

@@ -38,7 +38,7 @@ The session aimed to integrate Google Sheets with [[Python]] for [[data analysis
 
 ### Pending Tasks
 - Further refine financial analysis scripts to enhance accuracy and performance.
-- Explore alternative methods for data aggregation and [[visualization]].
+- Explore alternative methods for data aggregation and visualization.
 
 ## Evidence
 

@@ -36,8 +36,8 @@ The session aimed to enhance the PINGBOT's functionality, automate task manageme
 - **Implementing Card Generation in PingBot**: Integrated card generation capabilities into the PingBot stack.
 - **CRM Daily Spawner Design**: Managed CRM contacts through a daily ping system.
 - **Data Distribution Pipeline Overview**: Planned a structured pipeline for task distribution.
-- **Distributor Functionality Overview**: Outlined functionality and [[configuration]] for a task scheduling Distributor.
-- **Distributor Layered Architecture Overview**: Implemented a Distributor module with a three-layer architecture.
+- **Distributor Functionality Overview**: Outlined functionality and configuration for a task scheduling Distributor.
+- **Distributor Layered [[Architecture]] Overview**: Implemented a Distributor module with a three-layer [[architecture]].
 
 ### Achievements
 - Successfully updated PINGBOT's heartbeat functionality and automated various task management processes.
@@ -46,7 +46,7 @@ The session aimed to enhance the PINGBOT's functionality, automate task manageme
 
 ### Pending Tasks
 - Further [[integration]] and testing of the card-spawner and monthly planner.
-- Continued refinement of the distributor module and [[configuration]] layering.
+- Continued refinement of the distributor module and configuration layering.
 - Implementation of reflective practices to enhance [[productivity]].
 
 ## Evidence

@@ -27,7 +27,7 @@ The session aimed to resolve programming errors related to module imports and fo
 ### Key Activities
 - **Correction of Missing Module Import**: Identified and corrected the omission of the `os` module required for path operations in [[Python]] scripts.
 - **[[Troubleshooting]] KeyError**: Added debug prints to troubleshoot and resolve a KeyError in format strings, ensuring correct mapping of placeholders.
-- **Dataset Path Organization**: Generated and organized dataset paths within a [[DataFrame]], preparing them for verification and potential [[CSV]] export.
+- **Dataset Path Organization**: Generated and organized dataset paths within a DataFrame, preparing them for verification and potential [[CSV]] export.
 - **[[Documentation]] Generation**: Created [[documentation]] files for datasets with 10 columns or fewer, saving them in the `dataset_md` directory.
 - **Proactive Email Communication**: Drafted email responses to facilitate dataset collaboration, particularly addressing data merging and alignment with Prof. Eric.
 

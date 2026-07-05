@@ -30,7 +30,7 @@ The primary objective of this session was to design, implement, and debug compon
 - **Fixing TypeScript Errors**: Resolved TypeScript errors in the `FileScanPanel` component by defining explicit types and configuring module paths.
 - **[[AI]] [[Workflow]] MVP - FileScan UX Review**: Conducted a team review to enhance the UX design of the [[AI]] [[Workflow]] MVP, focusing on UI improvements.
 - **Implementing Real Data Flow for MVP**: Planned the [[integration]] of real file paths into the [[AI]] [[workflow]], updating both backend and frontend for file processing.
-- **Local File Explorer Design**: Proposed a design for the `LocalFileExplorer`, including architecture sketches and UI plans.
+- **Local File Explorer Design**: Proposed a design for the `LocalFileExplorer`, including [[architecture]] sketches and UI plans.
 - **Fixing Issues in LocalFileExplorer Component**: Debugged the `LocalFileExplorer` component by defining missing functions and correcting function calls.
 
 ### Achievements

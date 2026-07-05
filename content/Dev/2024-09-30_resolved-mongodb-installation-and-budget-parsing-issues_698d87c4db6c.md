@@ -26,7 +26,7 @@ The session aimed to address two primary issues: fixing the budget extraction lo
 
 ### Key Activities
 - **Budget Extraction Fix**: Implemented a solution to handle budget strings by removing non-numeric characters before converting them to float in the `extract_budget` method of the `FreelancerRSSCollector` class.
-- **MongoDB [[Troubleshooting]]**: Provided a comprehensive guide to troubleshoot 'Connection refused' errors when connecting to a MongoDB server, including server checks, [[configuration]] verification, and firewall settings.
+- **MongoDB [[Troubleshooting]]**: Provided a comprehensive guide to troubleshoot 'Connection refused' errors when connecting to a MongoDB server, including server checks, configuration verification, and firewall settings.
 - **MongoDB Installation**: Delivered step-by-step instructions for installing and setting up MongoDB on Ubuntu, focusing on resolving the 'Unable to locate package mongodb-org' error by ensuring correct repository setup.
 - **Data Structuring for MongoDB**: Outlined an efficient structure for storing parsed RSS entries in MongoDB, detailing field definitions and indexing strategies.
 

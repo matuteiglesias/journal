@@ -28,7 +28,7 @@ The session aimed to integrate the LinkedIn [[API]] for automating scheduled pos
 - **[[API]] [[Integration]]**: Detailed steps were followed to integrate LinkedIn's [[API]] for automated posting, including authentication and request construction.
 - **[[Data Analysis]]**: Analyzed a spike in LinkedIn profile views to identify causes and potential opportunities.
 - **[[SEO]] [[Optimization]]**: Strategies were developed to enhance Matías Iglesias' digital visibility, focusing on personal branding and SERP [[optimization]].
-- **[[Git]] Operations**: Conducted various [[Git]] operations, including history rewriting, remote [[configuration]], and repository cleaning.
+- **[[Git]] Operations**: Conducted various [[Git]] operations, including history rewriting, remote configuration, and repository cleaning.
 
 ### Achievements
 - Successfully integrated LinkedIn [[API]] into an [[automation]] pipeline.

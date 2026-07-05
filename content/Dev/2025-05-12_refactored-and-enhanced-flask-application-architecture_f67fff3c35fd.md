@@ -22,11 +22,11 @@ generated: true
 ## Description
 
 ### Session Goal:
-The session aimed to enhance the architecture of a [[Flask]] application by [[refactoring]] key components, improving code modularity, and resolving structural issues.
+The session aimed to enhance the [[architecture]] of a [[Flask]] application by [[refactoring]] key components, improving code modularity, and resolving structural issues.
 
 ### Key Activities:
 - **Open-Source Tools Exploration**: Reviewed open-source tools for knowledge management in RAG systems, focusing on document ingestion and [[integration]] with vector databases.
-- **[[Flask]] [[Refactoring]]**: Refactored the `main.py` to integrate OAuth, Firebase, and session management, ensuring a clean and testable architecture.
+- **[[Flask]] [[Refactoring]]**: Refactored the `main.py` to integrate OAuth, Firebase, and session management, ensuring a clean and testable [[architecture]].
 - **Feedback Route Implementation**: Developed a robust feedback submission route with defensive programming, centralized logging, and explicit [[error handling]].
 - **Function and Module Refinement**: Refactored the `submit_answer` function, enhancing logic, logging, and input validation. Refined the `routes/exercises.py` module for better organization.
 - **Teacher Time Request Logic Consolidation**: Merged duplicate logic into a single, efficient `routes/teachers.py` file, focusing on validation and Firestore handling.
@@ -40,7 +40,7 @@ The session aimed to enhance the architecture of a [[Flask]] application by [[re
 
 ### Pending Tasks:
 - Further testing of the refactored components in a production environment to ensure stability.
-- Continuous monitoring for any emerging issues related to the new architecture.
+- Continuous monitoring for any emerging issues related to the new [[architecture]].
 
 ## Evidence
 

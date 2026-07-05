@@ -28,7 +28,7 @@ generated: true
 - Provided instructions and code snippets for selecting specific columns from DataFrames using `serie_id` values.
 - Defined and implemented the `find_equivalent_series` function to facilitate data selection.
 - Addressed missing DataFrames (`data_m`, `consultas`, `serie`) necessary for analysis, offering options for data upload or sample generation.
-- Guided on filtering MultiIndex [[DataFrame]] columns and enhancing plots using [[Matplotlib]] and Seaborn.
+- Guided on filtering MultiIndex DataFrame columns and enhancing plots using [[Matplotlib]] and Seaborn.
 - Troubleshot issues with undefined variables, MultiIndex column renaming, and discrepancies in column names.
 - Generated plots for financial variables using [[Matplotlib]] and Seaborn.
 - Aligned time series data with different units by resampling and applying proportionality factors.

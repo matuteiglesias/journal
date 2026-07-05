@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal:
-The session aimed to improve [[data [[visualization]]]] techniques and explore regression methods for predicting body measurements and weight.
+The session aimed to improve [[data visualization]] techniques and explore regression methods for predicting body measurements and weight.
 
 ### Key Activities:
 - **Color Customization for Line Charts:** Modified plotting functions to use distinct colors for different years, enhancing visibility and accessibility.
@@ -36,12 +36,12 @@ The session aimed to improve [[data [[visualization]]]] techniques and explore r
 - **Imputing Missing Data:** Developed a function to impute missing body measurements based on quadratic relationships with weight.
 
 ### Achievements:
-- Enhanced understanding and implementation of [[data [[visualization]]]] techniques.
+- Enhanced understanding and implementation of [[data visualization]] techniques.
 - Developed and refined regression models for health-related predictions.
 
 ### Pending Tasks:
 - Further validation and testing of the regression models in real-world datasets.
-- Exploration of additional [[data [[visualization]]]] techniques to improve clarity and insight.
+- Exploration of additional [[data visualization]] techniques to improve clarity and insight.
 
 ## Evidence
 

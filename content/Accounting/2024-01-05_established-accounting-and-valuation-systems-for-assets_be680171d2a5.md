@@ -22,18 +22,18 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to develop comprehensive accounting systems and valuation methodologies for assets, particularly focusing on vehicles and family loans.
+The session aimed to develop comprehensive [[accounting]] systems and valuation methodologies for assets, particularly focusing on vehicles and family loans.
 
 ### Key Activities
 - **Reflected on IT Job Recruitment Challenges**: Reviewed issues such as aggressive rejections and low salary offers in the IT job market.
 - **Planned Double-Entry Bookkeeping System**: Outlined initial steps for a bookkeeping system to manage assets and loans, including multi-currency transactions.
-- **Detailed Accounting Schemes**: Provided a detailed scheme for managing vehicle assets and family loans using double-entry bookkeeping.
+- **Detailed [[Accounting]] Schemes**: Provided a detailed scheme for managing vehicle assets and family loans using double-entry bookkeeping.
 - **Structured General Ledger**: Designed the structure for a General Ledger to track financial transactions monthly.
 - **Explored Vehicle Depreciation**: Discussed standard depreciation rates, tax implications, and market valuation for Peugeot models.
 - **Structured Debt Repayment Plan**: Developed a repayment plan for managing family debts, detailing installment schedules and currency conversions.
 
 ### Achievements
-- Developed a comprehensive framework for accounting practices involving vehicles and loans.
+- Developed a comprehensive framework for [[accounting]] practices involving vehicles and loans.
 - Established methods for estimating vehicle depreciation and market value.
 - Created a structured plan for debt repayment within family finance.
 

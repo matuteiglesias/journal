@@ -22,14 +22,14 @@ generated: true
 ## Description
 
 ### Session Goal:
-The session aimed to conduct a comprehensive architectural review of the Paper-KB system, focusing on both frontend and backend components, and to implement improvements in data modeling and system architecture.
+The session aimed to conduct a comprehensive architectural review of the Paper-KB system, focusing on both frontend and backend components, and to implement improvements in data modeling and system [[architecture]].
 
 ### Key Activities:
-- Finalized architecture decisions for the Paper-KB project, including frontend and backend components, type normalization, and [[error handling]].
+- Finalized [[architecture]] decisions for the Paper-KB project, including frontend and backend components, type normalization, and [[error handling]].
 - Mapped and evaluated the frontend system using structured tools and checklists.
 - Conducted filesystem cleanup and reinstalled dependencies to resolve the `ENOSPC` error.
-- Created Mermaid files for documenting frontend architecture and developed a non-destructive frontend health check script.
-- Reviewed the Next.js codebase, identified areas for improvement, and generated architecture diagrams.
+- Created Mermaid files for documenting frontend [[architecture]] and developed a non-destructive frontend health check script.
+- Reviewed the Next.js codebase, identified areas for improvement, and generated [[architecture]] diagrams.
 - Proposed a canonical model for backend and frontend [[integration]] using Pydantic and TypeScript.
 
 ### Achievements:

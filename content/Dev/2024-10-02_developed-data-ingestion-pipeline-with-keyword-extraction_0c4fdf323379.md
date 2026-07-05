@@ -30,7 +30,7 @@ The session aimed to develop a data ingestion pipeline integrating keyword extra
 - Designed a triage system for data classification, defining categories and routing data based on document types and keywords.
 - Outlined an email processing system to detect new messages and perform triage to extract metadata.
 - Addressed a query timeout issue during email processing, suggesting alternative approaches for loading emails.
-- Provided [[Python]] code for loading email data from a SQLite database into a [[Pandas]] [[DataFrame]] for analysis.
+- Provided [[Python]] code for loading email data from a SQLite database into a [[Pandas]] DataFrame for analysis.
 
 ### Achievements
 - Successfully integrated keyword extraction and classification into the data ingestion pipeline.

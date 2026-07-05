@@ -38,7 +38,7 @@ The primary objective was to develop [[Python]] scripts to facilitate the analys
 
 ### Pending Tasks
 - Further refinement of the debt management system to include additional financial tracking features.
-- Complete the implementation of the proposed accounting system for auto-related finances.
+- Complete the implementation of the proposed [[accounting]] system for auto-related finances.
 
 ## Evidence
 

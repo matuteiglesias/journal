@@ -32,7 +32,7 @@ The session aimed to refactor existing code for better modularity and maintainab
 
 ### Achievements
 - Successfully refactored classes into a single handler, improving code structure.
-- Enhanced [[AI]] architecture with dynamic function calls for better scalability.
+- Enhanced [[AI]] [[architecture]] with dynamic function calls for better scalability.
 - Developed comprehensive prompts and schemas to support structured economic research.
 
 ### Pending Tasks

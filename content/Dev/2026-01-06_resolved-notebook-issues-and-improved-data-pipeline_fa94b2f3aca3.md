@@ -32,7 +32,7 @@ The session aimed to resolve technical issues with Jupyter notebooks using nbcon
 ### Achievements
 - Successfully resolved notebook execution issues, improving reliability and reducing errors.
 - Enhanced [[data processing]] by normalizing variables, which improved data handling in [[pandas]].
-- Improved the pipeline's output structure, setting the stage for more robust [[data processing]] and [[visualization]].
+- Improved the pipeline's output structure, setting the stage for more robust [[data processing]] and visualization.
 
 ### Pending Tasks
 - Further improvements in the views layer for [[data processing]] to ensure currency integrity and observability in financial outputs.

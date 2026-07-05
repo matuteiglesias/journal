@@ -25,7 +25,7 @@ generated: true
 The session aimed to implement and refine regression models for economic forecasting, focusing on predicting poverty levels and extrapolating economic indicators.
 
 ### Key Activities
-- **Linear Extrapolation**: Implemented linear regression models to forecast Canasta Básica Alimentaria, IPC, RIPTE, and labor statistics using [[Python]]. This involved data loading, model fitting, extrapolation, and [[visualization]].
+- **Linear Extrapolation**: Implemented linear regression models to forecast Canasta Básica Alimentaria, IPC, RIPTE, and labor statistics using [[Python]]. This involved data loading, model fitting, extrapolation, and visualization.
 - **Poverty Prediction Models**: Explored and planned regression models to predict poverty levels using various economic indicators and employment metrics. Detailed the model structure, variables, and validation steps.
 - **Data Preparation**: Prepared time series datasets for regression modeling by combining economic indicators, handling missing data, and ensuring proper alignment.
 - **Interpolation**: Applied quadratic spline interpolation to transform quarterly data into monthly frequency using `[[pandas]]` and `scipy`.

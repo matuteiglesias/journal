@@ -27,7 +27,7 @@ The session aimed to develop a read-only Streamlit UI with a tabbed interface an
 ### Key Activities
 - Created a work order for Streamlit UI development, focusing on data contracts, folder layout, UI behavior, and indexing strategies.
 - Defined data contracts and a Next.js skeleton for project [[automation]], emphasizing data integrity and reliable index generation.
-- Outlined architecture for a run management system using [[Python]], detailing file conventions and a helper module for data aggregation.
+- Outlined [[architecture]] for a run management system using [[Python]], detailing file conventions and a helper module for data aggregation.
 - Conducted search queries for a contract knowledge base to gather glossary summaries and governance roles.
 - Reviewed data retrieval parameters for [[AI]] session telemetry and policies.
 - Performed an alignment review of the manual with new decisions, suggesting edits for clarity and consistency.

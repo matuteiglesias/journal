@@ -32,7 +32,7 @@ The session aimed to enhance the [[data processing]] pipeline by implementing pr
 - Addressed specific issues in [[Python]] scripts related to session loading, command-line parsing, and [[JSON]] handling.
 - Fixed critical bugs in the codebase, including adjustments to the `load_sessions` function and regex corrections.
 - Structured units and commands for exploratory [[data analysis]] (EDA), including CLI commands for orchestration.
-- Resolved a KeyError in [[DataFrame]] processing by enhancing [[error handling]].
+- Resolved a KeyError in DataFrame processing by enhancing [[error handling]].
 - Generated initial digests using a unit-based infrastructure without temporal slicing.
 - Enhanced channel functionality in the unit digest system by introducing a channel registry.
 - Improved MDX rendering and Markdown processing by addressing unclosed HTML tags and code detection issues.

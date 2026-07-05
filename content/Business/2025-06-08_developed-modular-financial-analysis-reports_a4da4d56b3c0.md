@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to develop a comprehensive and modular approach to financial analysis reporting, focusing on [[visualization]] and data structuring.
+The session aimed to develop a comprehensive and modular approach to financial analysis reporting, focusing on visualization and data structuring.
 
 ### Key Activities
 - Reviewed financial analysis insights, emphasizing debt evolution, cash flows, and the need for personal intervention to maintain financial balance.
@@ -36,13 +36,13 @@ The session aimed to develop a comprehensive and modular approach to financial a
 - Designed a modular and sequential financial report structure, highlighting the narrative of each section and operational financial health.
 
 ### Achievements
-- Achieved a structured approach to financial analysis reporting with clear [[visualization]] strategies.
-- Developed and corrected [[Python]] scripts for [[data [[visualization]]]], ensuring accurate and dynamic representation.
+- Achieved a structured approach to financial analysis reporting with clear visualization strategies.
+- Developed and corrected [[Python]] scripts for [[data visualization]], ensuring accurate and dynamic representation.
 - Established a roadmap for implementing comprehensive financial reports, enhancing clarity and rigor.
 
 ### Pending Tasks
 - Finalize the modular report design, ensuring all sections are cohesive and effectively communicate financial health.
-- Implement the proposed [[visualization]] improvements and verify their effectiveness in conveying financial insights.
+- Implement the proposed visualization improvements and verify their effectiveness in conveying financial insights.
 
 ## Evidence
 

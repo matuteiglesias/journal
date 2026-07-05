@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to enhance [[data [[visualization]]]] techniques to effectively analyze and compare execution times of various methods across different data structures using [[Python]] libraries.
+The session aimed to enhance [[data visualization]] techniques to effectively analyze and compare execution times of various methods across different data structures using [[Python]] libraries.
 
 ### Key Activities
 - Adapted plots to visualize median execution times using [[Matplotlib]] and Seaborn.

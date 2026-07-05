@@ -22,10 +22,10 @@ generated: true
 ## Description
 
 ### Session Goal:
-The session aimed to develop a modular framework for content mining and transformation, focusing on architecture, value propositions, and repository suggestions.
+The session aimed to develop a modular framework for content mining and transformation, focusing on [[architecture]], value propositions, and repository suggestions.
 
 ### Key Activities:
-- **Framework Development**: Outlined a modular framework for content mining and transformation, detailing its architecture and core value propositions.
+- **Framework Development**: Outlined a modular framework for content mining and transformation, detailing its [[architecture]] and core value propositions.
 - **SnippetFlow Analysis**: Proposed structure and purpose for SnippetFlow repositories, including 'snippetflow-core' and 'snippetflow-pipeline'.
 - **Data File Pointers**: Identified relevant development notebook files for ongoing projects.
 - **Code Organization**: Structured approach to categorize code blocks into the `snippetflow/` layout for accurate functional placement.

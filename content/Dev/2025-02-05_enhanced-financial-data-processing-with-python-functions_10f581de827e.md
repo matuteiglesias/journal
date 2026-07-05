@@ -34,8 +34,8 @@ The session aimed to enhance the scalability and maintainability of financial [[
 
 ### Achievements
 - Successfully created modular functions for transaction processing and currency conversion, improving data consistency and scalability.
-- Planned and partially implemented a unified plotting module for financial [[data [[visualization]]]].
-- Resolved technical issues with [[data [[visualization]]]], enhancing compatibility and functionality.
+- Planned and partially implemented a unified plotting module for financial [[data visualization]].
+- Resolved technical issues with [[data visualization]], enhancing compatibility and functionality.
 
 ### Pending Tasks
 - Complete the implementation of the unified plotting module for financial charts.

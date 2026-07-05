@@ -22,11 +22,11 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to enhance the email processing system by implementing structured logging and modular architecture to improve traceability, debuggability, and scalability.
+The session aimed to enhance the email processing system by implementing structured logging and modular [[architecture]] to improve traceability, debuggability, and scalability.
 
 ### Key Activities
 - **Exploration of Salbutamol Usage**: Brief reflection on the use of Salbutamol for coughs related to respiratory issues, emphasizing the need for professional medical evaluation.
-- **Modular Email System Design**: Discussed the architecture of a modular email processing system, focusing on separation of concerns.
+- **Modular Email System Design**: Discussed the [[architecture]] of a modular email processing system, focusing on separation of concerns.
 - **Structured Logging Implementation**: Implemented structured logging in email management pipelines and the `TriageStateManager` class, providing templates and code examples for logging strategies.
 - **Email Parsing Methods**: Enhanced email parsing methods with logging for better traceability using [[Python]].
 - **Demo Suite Planning**: Planned a demo suite to showcase the email processing system's capabilities.

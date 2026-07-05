@@ -28,7 +28,7 @@ The session focused on configuring and managing interactive agents using PyGPT a
 - Downloaded [[documentation]] from [[GitHub]] using [[Git]]'s sparse checkout, wget, and curl.
 - Configured interactive agents in PyGPT by setting memory, task scheduling, and plugins.
 - Managed agent presets in PyGPT, allowing dynamic switching and task management.
-- Reviewed LlamaIndex settings for embedding provider setup and vector store [[configuration]].
+- Reviewed LlamaIndex settings for embedding provider setup and vector store configuration.
 - Set up the IT Manager Agent preset for [[troubleshooting]] and learning in PyGPT.
 - Configured file indexing and access settings in LlamaIndex, including plugin activation.
 - Tested agent access to embedded document information using LlamaIndex.

@@ -24,7 +24,7 @@ generated: true
 **Session Goal:** The session aimed to develop a comprehensive course outline for educating families on financial management and governance.
 
 **Key Activities:**
-- Proposed a technical document structure for financial management aimed at legal and accounting professionals.
+- Proposed a technical document structure for financial management aimed at legal and [[accounting]] professionals.
 - Developed a guide to help families understand and participate in managing family wealth with transparency and collaboration.
 - Outlined a modular course for financial literacy, focusing on practical examples and progressive learning.
 - Created content for the first module on family administration, emphasizing the importance of managing assets and finances.

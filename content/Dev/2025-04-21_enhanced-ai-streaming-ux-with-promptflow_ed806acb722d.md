@@ -31,14 +31,14 @@ The session aimed to enhance the [[AI]] streaming user experience using the [[Pr
 - Developed a battle test plan for tool-using chat flows, including local and CLI testing.
 - Addressed CLI parsing errors and provided solutions for [[JSON]] input handling.
 - Resolved `init.[[json]]` file issues and command path problems in Flex-Flows.
-- Fixed connection issues in [[PromptFlow]], ensuring correct [[configuration]] for OpenAI.
-- Outlined a strategic transition to building a scalable [[AI]] [[workflow]] platform with modular architecture.
+- Fixed connection issues in [[PromptFlow]], ensuring correct configuration for OpenAI.
+- Outlined a strategic transition to building a scalable [[AI]] [[workflow]] platform with modular [[architecture]].
 - Organized a [[PromptFlow]] developer workspace for enhanced scalability.
 - Mapped structural requirements for FlexFlow [[automation]] and analyzed loop test outcomes.
 
 ### Achievements
 - Successfully implemented real-time [[AI]] streaming UX enhancements.
-- Ensured OpenAI compatibility and resolved key [[configuration]] issues.
+- Ensured OpenAI compatibility and resolved key configuration issues.
 - Developed a comprehensive testing framework for tool-using chat flows.
 
 ### Pending Tasks

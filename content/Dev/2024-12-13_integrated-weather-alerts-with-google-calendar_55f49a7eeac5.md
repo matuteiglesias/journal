@@ -26,7 +26,7 @@ The session aimed to integrate weather alerts into Google Calendar using n8n, en
 
 ### Key Activities
 - **[[Integration]] Setup**: Followed a guide to integrate weather alerts into Google Calendar using n8n.
-- **Dynamic Event [[Configuration]]**: Configured Google Calendar events with dynamic titles and end times using JavaScript expressions.
+- **Dynamic Event Configuration**: Configured Google Calendar events with dynamic titles and end times using JavaScript expressions.
 - **Time Zone [[Debugging]]**: Identified and fixed time zone issues between n8n and Google Calendar.
 - **[[API]] Time Zone Handling**: Addressed time zone mismatches in timestamps from the OpenWeatherMap [[API]].
 - **JavaScript Scripting**: Developed a script for calculating start and end times for weather notifications, adjusting for time zones.

@@ -32,10 +32,10 @@ The session aimed to develop and refine a set of [[Python]] scripts to create vi
 
 ### Achievements
 - Successfully created visualizations that compare voting patterns between specific agglomerates and others, with clear differentiation by income levels.
-- Solved technical issues related to code execution and [[visualization]] accuracy.
+- Solved technical issues related to code execution and visualization accuracy.
 
 ### Pending Tasks
-- Further refinement of the [[visualization]] scripts to enhance clarity and insight extraction for future analyses.
+- Further refinement of the visualization scripts to enhance clarity and insight extraction for future analyses.
 
 ## Evidence
 

@@ -28,7 +28,7 @@ The session aimed to automate the extraction of code snippets related to the `Ar
 - Developed code snippets to read and process text files, focusing on identifying sections related to `argparse.ArgumentParser` using [[Python]]'s `ast`, `inspect`, and regular expressions.
 - Extracted lines of code and specific text patterns related to `ArgumentParser` from the materialized code, including context around its usage.
 - Implemented text processing techniques to identify and print lines containing both 'CANON' and 'COL', as well as filtering lines with 'Currency'.
-- Analyzed text to identify [[DataFrame]] column definitions, ensuring they do not already reference a [[DataFrame]].
+- Analyzed text to identify DataFrame column definitions, ensuring they do not already reference a DataFrame.
 
 ### Achievements
 - Successfully automated the extraction of `ArgumentParser` related code snippets and identified key patterns in text data.

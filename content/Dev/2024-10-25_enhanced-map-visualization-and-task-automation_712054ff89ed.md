@@ -25,7 +25,7 @@ generated: true
 The session aimed to enhance the visual presentation of a study sites map and refine task management strategies through [[automation]].
 
 ### Key Activities
-- **Map [[Visualization]] Enhancements**: Implemented code updates for a study sites map to improve visual clarity, including adjustments to colors, number formatting, and annotations.
+- **Map Visualization Enhancements**: Implemented code updates for a study sites map to improve visual clarity, including adjustments to colors, number formatting, and annotations.
 - **Task Management Strategies**: Developed frameworks for task categorization and scheduling [[automation]], focusing on [[productivity]] and [[workflow]] efficiency.
 
 ### Achievements

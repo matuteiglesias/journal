@@ -34,7 +34,7 @@ The session aimed to address multiple technical challenges related to APSchedule
 - Successfully fixed APScheduler job scheduling errors.
 - Established terminal connections to MongoDB and RabbitMQ.
 - Implemented solutions for MongoDB date handling and email processing.
-- Resolved RabbitMQ queue [[configuration]] errors.
+- Resolved RabbitMQ queue configuration errors.
 - Designed a schema for job opportunity extraction and updated [[AI]] prompts.
 
 ### Pending Tasks

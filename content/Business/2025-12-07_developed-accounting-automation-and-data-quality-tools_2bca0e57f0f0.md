@@ -22,10 +22,10 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to enhance accounting [[automation]] and data quality processes by developing and refining tools and scripts for financial [[data management]].
+The session aimed to enhance [[accounting]] [[automation]] and data quality processes by developing and refining tools and scripts for financial [[data management]].
 
 ### Key Activities
-- **Accounting [[Automation]]**: Developed SQL and [[Python]] code snippets for ledger mapping and financial checks, including a checklist for monthly closing procedures.
+- **[[Accounting]] [[Automation]]**: Developed SQL and [[Python]] code snippets for ledger mapping and financial checks, including a checklist for monthly closing procedures.
 - **Time Series and Reporting**: Created a [[Pandas]] function for transaction data time series, and implemented a party timeseries view for financial reporting.
 - **Runbook and Diagnostics**: Compiled a runbook for monthly pipeline rebuilds and diagnostics, detailing preflight checks and validation steps.
 - **Data Quality Checks**: Executed data quality diagnostics on financial tables, generating reports and cleaning scripts for [[CSV]] files.

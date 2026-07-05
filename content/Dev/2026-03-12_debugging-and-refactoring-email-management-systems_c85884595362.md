@@ -31,14 +31,14 @@ The session aimed to debug and refactor components of the email management syste
 - Addressed an [[API]] mismatch in `TriageStateManager`, updating `run_triage()` for compatibility.
 - Proposed [[refactoring]] of `TriageStateManager` and `TriageManager` to align with new triage flows.
 - Evaluated Block 1 of the Email 3 Manager project, identifying achieved goals and gaps.
-- Proposed Makefile improvements for enhanced portability and clarity.
+- Proposed [[Makefile]] improvements for enhanced portability and clarity.
 - Debugged the email manager [[workflow]], identifying successes and blockers.
 
 ### Achievements
 - Clarified the [[integration]] state of `summarizer_service` and identified potential duplication risks.
 - Solved parsing errors in `run_sync()` and improved email connection logic.
 - Successfully refactored `TriageStateManager` for better consistency.
-- Improved operational clarity and portability of Makefile.
+- Improved operational clarity and portability of [[Makefile]].
 
 ### Pending Tasks
 - Further investigation into dual request-building paths for `summarizer_service` to prevent duplication.

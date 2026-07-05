@@ -25,7 +25,7 @@ generated: true
 The session aimed to troubleshoot and resolve 502 Bad Gateway errors in a Google Cloud Platform (GCP) application [[deployment]], focusing on dependency management, file system permissions, and session management.
 
 ### Key Activities:
-- **[[Troubleshooting]] 502 Errors**: Explored dependency management, Gunicorn [[configuration]], and filesystem permissions to address 502 errors.
+- **[[Troubleshooting]] 502 Errors**: Explored dependency management, Gunicorn configuration, and filesystem permissions to address 502 errors.
 - **Read-Only File System Management**: Implemented solutions for handling GCP's read-only file system using [[Flask]], including session management and data storage.
 - **Function Adaptation**: Modified the `record_interaction` function for GCP compatibility, utilizing the `/tmp` directory for temporary storage.
 - **Dependency Management**: Updated `requirements.txt` with compatible module versions for the `base2` environment.

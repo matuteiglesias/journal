@@ -22,13 +22,13 @@ generated: true
 ## Description
 
 **Session Goal:**
-The session aimed to explore various techniques for data extraction and processing using [[Python]], focusing on file handling, text processing, [[JSON]] data manipulation, and [[DataFrame]] creation.
+The session aimed to explore various techniques for data extraction and processing using [[Python]], focusing on file handling, text processing, [[JSON]] data manipulation, and DataFrame creation.
 
 **Key Activities:**
 - Implemented a method to read text files with UTF-8 encoding using [[Python]]'s `read_text` method.
 - Developed a technique to extract line count and the first line from a text file.
 - Processed [[JSON]] data using [[Pandas]] to load and analyze data from a list of lines.
-- Created a summary [[DataFrame]] from objects, extracting fields like block ID, mode, archetype, and target project IDs.
+- Created a summary DataFrame from objects, extracting fields like block ID, mode, archetype, and target project IDs.
 - Extracted project IDs and buckets from a data structure using [[Python]] code.
 - Retrieved trigger rows from a pipeline object and iterated over objects to print specific properties.
 - Utilized [[Python]]'s `pprint` and `itertools` libraries for pretty printing objects.

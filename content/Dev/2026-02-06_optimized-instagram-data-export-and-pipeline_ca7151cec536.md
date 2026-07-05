@@ -29,18 +29,18 @@ The session aimed to optimize the Instagram data export process and manage the a
 - Investigated various search queries related to downloading information from Instagram, including using the Meta Accounts Center.
 - Detailed the structure and content of Instagram data exports, focusing on HTML and [[JSON]] formats.
 - Reflected on the outputs from a legacy Instagram [[data processing]] script, noting potential deprecations.
-- Addressed issues in the Instagram data pipeline, particularly around [[configuration]] and directory path management.
-- Identified and suggested fixes for Makefile issues related to incorrect path selection for IG exports.
+- Addressed issues in the Instagram data pipeline, particularly around configuration and directory path management.
+- Identified and suggested fixes for [[Makefile]] issues related to incorrect path selection for IG exports.
 - Provided instructions for using the XLOOKUP function in Google Sheets for data retrieval.
 
 ### Achievements
 - Clarified the process for downloading Instagram data and the limitations of auto-publishing via Buffer.
 - Improved understanding of Instagram data export formats and their practical implications.
-- Enhanced the [[configuration]] of the Instagram data pipeline, ensuring accurate [[data processing]].
-- Resolved path selection issues in the Makefile to ensure reliable operation.
+- Enhanced the configuration of the Instagram data pipeline, ensuring accurate [[data processing]].
+- Resolved path selection issues in the [[Makefile]] to ensure reliable operation.
 
 ### Pending Tasks
-- Further testing of the updated Instagram data pipeline [[configuration]] to ensure stability.
+- Further testing of the updated Instagram data pipeline configuration to ensure stability.
 - Review and potentially update the legacy Instagram script outputs to align with current needs.
 
 ## Evidence

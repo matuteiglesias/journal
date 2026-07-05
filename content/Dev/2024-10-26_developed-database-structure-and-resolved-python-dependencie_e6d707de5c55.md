@@ -30,7 +30,7 @@ The session aimed to design a robust database structure for a scheduling tool an
 - **Task Management**: Outlined a constraints table to optimize task scheduling and [[productivity]].
 - **[[Python]] Library Installation**: Resolved `ModuleNotFoundError` for `or-tools` by providing installation instructions and addressing compatibility issues with the `protobuf` package.
 - **Virtual Environment Setup**: Provided detailed guides for setting up a clean [[Python]] virtual environment, managing dependencies, and installing `gspread` and `or-tools` libraries.
-- **Visual Schedule Representation**: Created a visual schedule using a [[DataFrame]] to represent daily tasks and available work hours.
+- **Visual Schedule Representation**: Created a visual schedule using a DataFrame to represent daily tasks and available work hours.
 
 ### Achievements:
 - Successfully designed a comprehensive database schema for the scheduling tool.

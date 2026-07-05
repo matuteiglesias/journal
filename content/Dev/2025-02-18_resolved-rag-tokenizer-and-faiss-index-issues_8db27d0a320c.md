@@ -22,11 +22,11 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to resolve multiple errors encountered during the [[configuration]] and implementation of Retrieval-Augmented Generation (RAG) models using Transformers and FAISS indexing.
+The session aimed to resolve multiple errors encountered during the configuration and implementation of Retrieval-Augmented Generation (RAG) models using Transformers and FAISS indexing.
 
 ### Key Activities
 - **RAG Tokenizer Error Resolution**: Addressed an error when loading a RAG tokenizer from a DPR model, providing a solution and explanation of model requirements.
-- **Correcting RAG Model Usage**: Fixed a ValueError by suggesting appropriate RAG models and explaining valid [[configuration]] requirements.
+- **Correcting RAG Model Usage**: Fixed a ValueError by suggesting appropriate RAG models and explaining valid configuration requirements.
 - **Resolving Missing Embeddings**: Provided code correction for missing 'embeddings' in a dataset used with the RAG retriever, ensuring proper loading of datasets and FAISS index.
 - **[[Troubleshooting]] FAISS Index Loading**: Outlined steps to troubleshoot FAISS index loading issues, ensuring index existence and proper loading.
 - **Successful FAISS Index Loading**: Confirmed successful loading of the FAISS index and provided instructions for initializing the RagRetriever.

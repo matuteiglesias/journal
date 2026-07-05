@@ -27,11 +27,11 @@ The session aimed to analyze and visualize various aspects of financial manageme
 ### Key Activities
 - Conducted a thorough analysis of the relationship between accumulated debt and cash flow, providing insights and recommendations for financial management.
 - Examined the personal management of PM as a financial entity, highlighting issues with debt accumulation and repayment mechanisms.
-- Proposed a stacked area chart to visually represent cumulative income, expenses, and cash flow, enhancing accounting intuition.
+- Proposed a stacked area chart to visually represent cumulative income, expenses, and cash flow, enhancing [[accounting]] intuition.
 - Analyzed debt progression in pesos and USD, identifying trends, stability periods, and potential risks, along with strategic recommendations.
 - Developed a step-by-step guide for calculating net financial position using cumulative revenue and debt, supported by [[Python]] code.
 - Integrated Saldo PM MI into net position calculations and visualized the data using [[Python]] and [[Pandas]].
-- Resolved common overlap errors in [[Pandas]] [[DataFrame]] merges, providing solutions for effective data manipulation.
+- Resolved common overlap errors in [[Pandas]] DataFrame merges, providing solutions for effective data manipulation.
 
 ### Achievements
 - Successfully analyzed and provided insights into debt management and financial [[strategy]].

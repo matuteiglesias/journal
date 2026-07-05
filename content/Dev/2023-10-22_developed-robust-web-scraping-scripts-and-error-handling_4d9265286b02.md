@@ -27,9 +27,9 @@ The primary aim of this session was to enhance and develop [[Python]] scripts fo
 ### Key Activities
 - Developed [[Python]] scripts using BeautifulSoup and requests to scrape product details such as title, description, image URL, product URL, and price.
 - Implemented methods to extract Open Graph and Twitter meta tags using BeautifulSoup.
-- Enhanced [[error handling]] in [[web scraping]] scripts to manage invalid URLs and prevent AttributeError during [[DataFrame]] creation.
+- Enhanced [[error handling]] in [[web scraping]] scripts to manage invalid URLs and prevent AttributeError during DataFrame creation.
 - Created a `parse_price` function to extract currency and value from strings, addressing issues with regular expressions to ensure correct parsing.
-- Demonstrated the application of parsing functions to [[DataFrame]] columns for structured data extraction.
+- Demonstrated the application of parsing functions to DataFrame columns for structured data extraction.
 
 ### Achievements
 - Successfully developed and refined [[web scraping]] scripts to extract comprehensive product details.

@@ -34,7 +34,7 @@ The session aimed to configure a start page for a knowledge base manual and plan
 7. Outlined a hack session board v0.1 with specific tracks and gates for [[project management]].
 
 **Achievements:**
-- Completed the [[configuration]] for the knowledge base manual's start page.
+- Completed the configuration for the knowledge base manual's start page.
 - Established a clear plan for hack sessions, including roles and tasks.
 
 **Pending Tasks:**

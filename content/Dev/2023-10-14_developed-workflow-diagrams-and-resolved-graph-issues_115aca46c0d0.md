@@ -22,15 +22,15 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to enhance the understanding and [[visualization]] of [[data processing]] workflows using Graphviz and to address existing issues in graph rendering.
+The session aimed to enhance the understanding and visualization of [[data processing]] workflows using Graphviz and to address existing issues in graph rendering.
 
 ### Key Activities
-- Developed a high-level architecture for software components, including a data dictionary.
+- Developed a high-level [[architecture]] for software components, including a data dictionary.
 - Completed [[data processing]] in notebooks for descriptive statistics and geospatial data handling.
 - Created detailed data flow and processing schemas across multiple notebooks.
 - Addressed graph rendering issues by generating [[workflow]] graphs as images for better accessibility.
 - Utilized Graphviz to create [[workflow]] diagrams illustrating [[data processing]] paths.
-- Provided and modified Graphviz code for improved [[visualization]] of workflows, including corrections in node definitions using DOT language.
+- Provided and modified Graphviz code for improved visualization of workflows, including corrections in node definitions using DOT language.
 - Discussed model compatibility issues with scikit-learn versions and proposed strategies for handling them.
 
 ### Achievements

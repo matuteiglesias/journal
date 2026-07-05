@@ -38,7 +38,7 @@ The session aimed to refine financial statement structures and analyze various f
 ### Achievements
 - Developed a comprehensive understanding of financial scenarios and their impacts.
 - Created actionable strategies for financial recovery and growth.
-- Implemented dynamic scenario modeling in Google Sheets for better [[visualization]].
+- Implemented dynamic scenario modeling in Google Sheets for better visualization.
 
 ### Pending Tasks
 - Further refinement of financial statement structures for enhanced clarity and usability.

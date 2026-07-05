@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The primary aim of this session was to enhance data generation and [[visualization]] functions in [[Python]], focusing on flexibility and code efficiency.
+The primary aim of this session was to enhance data generation and visualization functions in [[Python]], focusing on flexibility and code efficiency.
 
 ### Key Activities
 - Updated the `generate_data()` function to include a boolean argument `use_formula_2`, allowing selection between two treatment distribution formulas.
@@ -35,7 +35,7 @@ The primary aim of this session was to enhance data generation and [[visualizati
 - Demonstrated the use of `plot_kwargs` in the `scatterplot_sts()` function for passing additional arguments to plotting functions.
 
 ### Achievements
-- Successfully updated and refactored data generation and [[visualization]] functions, improving flexibility and reducing code redundancy.
+- Successfully updated and refactored data generation and visualization functions, improving flexibility and reducing code redundancy.
 
 ### Pending Tasks
 - Further testing of the updated functions in diverse scenarios to ensure robustness.

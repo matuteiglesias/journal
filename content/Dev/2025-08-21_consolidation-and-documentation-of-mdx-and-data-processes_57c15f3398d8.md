@@ -39,7 +39,7 @@ The session aimed to consolidate and document processes related to MDX parsing, 
 - **ETL Guide with Dask and [[Pandas]]**: Offered a practical guide for large-scale sampling and merging using Dask and [[Pandas]].
 - **[[JSON]] Policies for ETL**: Detailed the MDX page for ETL [[JSON]] policies, focusing on efficiency and export contracts.
 - **Notebook [[Refactoring]] Guide**: Provided guidelines for notebook structure and modularization to improve reproducibility.
-- **[[Visualization]] Practices**: Documented best practices for creating stylized charts and diagrams using Mapbox and Graphviz.
+- **Visualization Practices**: Documented best practices for creating stylized charts and diagrams using Mapbox and Graphviz.
 - **Geospatial [[Integration]]**: Documented methods for integrating socio-economic data with official geometries using GeoPandas.
 
 ### Achievements

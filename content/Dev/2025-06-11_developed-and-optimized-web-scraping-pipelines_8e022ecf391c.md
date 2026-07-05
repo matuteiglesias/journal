@@ -29,7 +29,7 @@ The session aimed to develop and optimize [[web scraping]] pipelines using [[Pyt
 - Conducted a detailed analysis of existing [[data processing]] pipelines, identifying strengths and weaknesses, and provided recommendations for improvements in [[error handling]] and scalability.
 - Designed a new RSS article fetching pipeline, focusing on separating article indexing from scraping.
 - Developed a [[Python]] script for managing a master article index, including deduplication and incremental updates.
-- Implemented [[error handling]] strategies for common issues like KeyError in [[DataFrame]] processing and [[JSON]] serialization of [[Pandas]] timestamps.
+- Implemented [[error handling]] strategies for common issues like KeyError in DataFrame processing and [[JSON]] serialization of [[Pandas]] timestamps.
 - Proposed enhancements to scraping scripts, including temporal filtering and backlog management, to improve efficiency and reliability.
 
 ### Achievements

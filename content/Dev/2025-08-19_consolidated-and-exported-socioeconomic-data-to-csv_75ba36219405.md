@@ -26,7 +26,7 @@ The session aimed to organize and export socioeconomic research data into a cons
 
 ### Key Activities
 - **Consolidated [[CSV]] for SERP Digests**: Prepared a [[CSV]] categorizing studies by characteristics and methodologies related to socioeconomic [[data analysis]]. Suggested creating a 'ridge map' for visual representation.
-- **Exporting Research Landscape Data**: Created a [[DataFrame]] from socioeconomic research articles and exported it to [[CSV]] for further analysis.
+- **Exporting Research Landscape Data**: Created a DataFrame from socioeconomic research articles and exported it to [[CSV]] for further analysis.
 - **[[CSV]] Formatting and Data Normalization**: Ensured [[CSV]] formatting correctness, provided a downloadable file, and offered options for data normalization and deduplication.
 - **Atlas de Pobreza [[Documentation]]**: Provided a quick starter guide and interdisciplinary framework for the Atlas de Pobreza project, integrating socioeconomic data with [[machine learning]].
 

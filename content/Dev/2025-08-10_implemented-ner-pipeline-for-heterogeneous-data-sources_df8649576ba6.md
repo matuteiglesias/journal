@@ -26,7 +26,7 @@ The session aimed to implement a Named Entity Recognition (NER) pipeline capable
 
 ### Key Activities
 - Developed a detailed plan for NER implementation, outlining data sources, output schema, model choices, and processing pipelines.
-- Conducted a kickoff session to discuss architecture choices, model selection, and data ingestion strategies.
+- Conducted a kickoff session to discuss [[architecture]] choices, model selection, and data ingestion strategies.
 - Created a [[Python]] script skeleton for NER ingestion, including SQLite setup and command-line interface commands.
 - Implemented a minimal viable product (MVP) for NER ingestion, supporting various document types and utilizing a SQLite database for storage.
 - Reviewed the `ner_ingest.py` script, covering functionality, design choices, and extension plans.

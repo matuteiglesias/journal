@@ -26,16 +26,16 @@ The session aimed to enhance [[automation]] and efficiency in ledger management 
 
 ### Key Activities
 - Discussed techniques for managing low latency refresh in ledger systems, focusing on avoiding unnecessary reruns when the ledger remains unchanged.
-- Outlined queries related to Makefile operations for the accounting pipeline, focusing on RUN_STAMP creation and symlink updates.
+- Outlined queries related to [[Makefile]] operations for the [[accounting]] pipeline, focusing on RUN_STAMP creation and symlink updates.
 - Explored strategies for enhancing orchestration in [[data processing]] pipelines, implementing conditional execution based on ledger changes.
-- Analyzed a systemd timer issue and provided solutions for fixing the timer [[configuration]].
-- Implemented a stable hashing mechanism in a script to prevent unnecessary runs of the accounting pipeline, focusing on hashing a normalized representation of the data.
-- Addressed change detection and manifest handling in the accounting pipeline, including orchestration strategies for skip-if-unchanged operations.
-- Refactored code for stable ledger fingerprinting within the `ingest.py` module to maintain clean architecture.
+- Analyzed a systemd timer issue and provided solutions for fixing the timer configuration.
+- Implemented a stable hashing mechanism in a script to prevent unnecessary runs of the [[accounting]] pipeline, focusing on hashing a normalized representation of the data.
+- Addressed change detection and manifest handling in the [[accounting]] pipeline, including orchestration strategies for skip-if-unchanged operations.
+- Refactored code for stable ledger fingerprinting within the `ingest.py` module to maintain clean [[architecture]].
 
 ### Achievements
 - Developed a [[strategy]] to reduce unnecessary runs in ledger management systems.
-- Implemented stable hashing for the accounting pipeline to ensure efficient [[data processing]].
+- Implemented stable hashing for the [[accounting]] pipeline to ensure efficient [[data processing]].
 - Identified and resolved issues with systemd timer configurations.
 
 ### Pending Tasks

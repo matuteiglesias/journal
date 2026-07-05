@@ -28,7 +28,7 @@ The primary goal of this session was to identify and resolve NaN values in the d
 - Debugged NaN values in the Afrobarometer dataset, focusing on the datetime column.
 - Developed a systematic approach to load data and create a comprehensive covariate data frame.
 - Implemented a [[Python]] script using [[pandas]] to read and process multiple [[CSV]] files, mirroring an R implementation.
-- Addressed mixed date-time formats in [[pandas]] [[DataFrame]] using `infer_datetime_format` in `pd.to_datetime`.
+- Addressed mixed date-time formats in [[pandas]] DataFrame using `infer_datetime_format` in `pd.to_datetime`.
 - Fixed date parsing errors in [[pandas]] by using 'format="mixed"'.
 - Drafted an email update on the Afrobarometer dataset's null values.
 

@@ -32,7 +32,7 @@ The session aimed to develop and implement modular event processing functions to
 
 ### Achievements
 - Successfully implemented modular functions for event processing.
-- Enhanced agents with Jinja2 templates for better prompt engineering and modular architecture.
+- Enhanced agents with Jinja2 templates for better prompt engineering and modular [[architecture]].
 
 ### Pending Tasks
 - Further testing and validation of the upgraded agents in real-world scenarios to ensure robustness and reliability.

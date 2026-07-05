@@ -27,10 +27,10 @@ The session aimed to develop a robust method for generating summary tables that 
 ### Key Activities
 - **Generating Summary Tables:** Initiated the creation of summary tables to display voting data.
 - **[[Error Handling]]:** Addressed errors in table generation by implementing a retry mechanism.
-- **[[Dataframe]] Reconstruction:** Identified the need to reconstruct the `data` [[dataframe]] to ensure accurate table generation.
+- **Dataframe Reconstruction:** Identified the need to reconstruct the `data` dataframe to ensure accurate table generation.
 - **Data Grouping and Pivoting:** Utilized [[Python]]'s [[pandas]] library to group and pivot data effectively, focusing on sections, circuits, and groupings.
 - **Displaying Tables:** Adjusted [[data processing]] to include `distrito_nombre` for enhanced grouping and summarization.
-- **Correcting Iteration Methods:** Improved [[DataFrame]] iteration by switching from `iteritems()` to `iterrows()`.
+- **Correcting Iteration Methods:** Improved DataFrame iteration by switching from `iteritems()` to `iterrows()`.
 - **Formatting and Display Adjustments:** Enhanced table readability by setting titles and adjusting percentage display.
 
 ### Achievements

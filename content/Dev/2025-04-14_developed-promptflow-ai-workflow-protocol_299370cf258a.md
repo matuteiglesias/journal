@@ -27,7 +27,7 @@ The session aimed to conceptualize and formalize the [[PromptFlow]] protocol, a 
 ### Key Activities
 - Explored backend orchestration using FastAPI to serve as a bridge between the frontend and [[AI]] engine.
 - Connected YAML configurations to LLM runs for improved traceability and [[debugging]].
-- Developed a lightweight [[AI]] product architecture emphasizing modularity and development-friendliness.
+- Developed a lightweight [[AI]] product [[architecture]] emphasizing modularity and development-friendliness.
 - Articulated a new primitive for [[AI]] workflows using YAML and [[JSON]] to standardize [[AI]] logic.
 - Emphasized the importance of claiming and naming the [[PromptFlow]] concept.
 - Outlined a thesis for [[PromptFlow]] as a new paradigm in [[AI]] workflows.
@@ -36,7 +36,7 @@ The session aimed to conceptualize and formalize the [[PromptFlow]] protocol, a 
 - Introduced [[PromptFlow]] as a minimal interface for [[AI]] workflows with expert insights.
 - Framed the developer's journey in creating [[PromptFlow]], emphasizing its unique features.
 - Theorized [[PromptFlow]] as a runtime protocol for declarative [[AI]] composition.
-- Compared Dockerfile, Makefile, and pytest configurations to guide [[PromptFlow]] development.
+- Compared Dockerfile, [[Makefile]], and pytest configurations to guide [[PromptFlow]] development.
 - Encouraged self-reflection on contributions to [[AI]] development.
 
 ### Achievements

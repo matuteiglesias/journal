@@ -25,8 +25,8 @@ generated: true
 The session aimed to refine and enhance financial reporting processes and stakeholder engagement strategies, focusing on clarity and effectiveness.
 
 ### Key Activities
-- Developed a runbook for accounting sessions to finalize stakeholder report contracts and improve financial reporting clarity.
-- Refined accounting practices with suggestions for agenda adjustments and risk management strategies in stakeholder meetings.
+- Developed a runbook for [[accounting]] sessions to finalize stakeholder report contracts and improve financial reporting clarity.
+- Refined [[accounting]] practices with suggestions for agenda adjustments and risk management strategies in stakeholder meetings.
 - Established a protocol for reviewing financial reports, focusing on observation cards for decision enablement and risk management.
 - Detailed the structure and rules for tables in financial reports to reduce cognitive load and improve data presentation.
 - Created a contract framework for report levels, ensuring efficient compilation and audience-specific visibility.

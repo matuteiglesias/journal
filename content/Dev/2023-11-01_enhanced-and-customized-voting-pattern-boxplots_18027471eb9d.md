@@ -37,7 +37,7 @@ The primary objective of this session was to enhance and customize data visualiz
 - Improved [[data analysis]] capabilities by adding new variables and managing datasets effectively.
 
 ### Pending Tasks
-- **Dataset Preparation**: Define or generate the `data_filtered` dataset to enable further analysis and [[visualization]].
+- **Dataset Preparation**: Define or generate the `data_filtered` dataset to enable further analysis and visualization.
 - **Data Re-upload**: Ensure re-upload of `circuitos.[[csv]]` and `votos.[[csv]]` datasets to maintain analysis continuity.
 
 ## Evidence

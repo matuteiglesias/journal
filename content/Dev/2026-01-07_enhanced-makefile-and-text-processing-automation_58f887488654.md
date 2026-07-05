@@ -22,17 +22,17 @@ generated: true
 ## Description
 
 **Session Goal:**
-The session aimed to enhance [[automation]] and text processing capabilities using [[Python]], focusing on Makefile management and text manipulation through regular expressions.
+The session aimed to enhance [[automation]] and text processing capabilities using [[Python]], focusing on [[Makefile]] management and text manipulation through regular expressions.
 
 **Key Activities:**
-- Implemented [[Python]] scripts to read and display contents of a Makefile using `pathlib`.
+- Implemented [[Python]] scripts to read and display contents of a [[Makefile]] using `pathlib`.
 - Developed regular expression-based methods to extract specific text patterns and contexts, such as 'REPORT_PARTIES' and 'run-reports' blocks.
 - Created [[automation]] scripts to update Makefiles with new targets and dependencies, enhancing build system efficiency.
 
 **Achievements:**
-- Successfully demonstrated reading and processing Makefile contents.
+- Successfully demonstrated reading and processing [[Makefile]] contents.
 - Applied regex techniques to effectively locate and extract text patterns.
-- Updated Makefile scripts to support new [[automation]] requirements.
+- Updated [[Makefile]] scripts to support new [[automation]] requirements.
 
 **Pending Tasks:**
 - Further refinement of text extraction methods to handle more complex patterns.

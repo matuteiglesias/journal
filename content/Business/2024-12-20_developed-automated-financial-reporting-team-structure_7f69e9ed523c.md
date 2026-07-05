@@ -29,8 +29,8 @@ The session aimed to develop a comprehensive team structure for implementing an 
 - Explored roles and contributions of financial support team members.
 - Developed a financial management [[optimization]] plan for a family business, addressing current challenges and proposing solutions.
 - Created a structured financial template plan for detailed financial reporting.
-- Analyzed balance sheet components and accounting concepts.
-- Addressed handling of family loans and income leakage in accounting.
+- Analyzed balance sheet components and [[accounting]] concepts.
+- Addressed handling of family loans and income leakage in [[accounting]].
 - Organized family loans and business interactions using a loan matrix.
 - Incorporated income statement data into balance sheet equity.
 - Explained conservative valuation methods for fixed assets on balance sheets.

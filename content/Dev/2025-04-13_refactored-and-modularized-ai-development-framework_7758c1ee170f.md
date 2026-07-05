@@ -27,7 +27,7 @@ The session aimed to refactor and modularize components of an [[AI]] development
 ### Key Activities
 - Refactored the setup script to install the `core` module as an editable [[Python]] package, improving project structure.
 - Conducted an architectural analysis of [[AI]]-first products, focusing on modularization and reuse.
-- Developed an architecture template for scalable [[AI]]-powered applications, emphasizing backend and frontend modularity.
+- Developed an [[architecture]] template for scalable [[AI]]-powered applications, emphasizing backend and frontend modularity.
 - Outlined the development of a modular [[AI]] framework `core_ai/`, supporting multiple MVPs.
 - Planned a 5-day [[strategy]] for developing [[AI]]-powered MVPs using shared components.
 - Proposed a custom flow engine inspired by LangChain for flexible [[AI]] [[workflow]] composition.
@@ -39,7 +39,7 @@ The session aimed to refactor and modularize components of an [[AI]] development
 - Developed a clear [[strategy]] for [[API]] route consolidation in FastAPI, aligning with best practices.
 
 ### Pending Tasks
-- Implement the proposed modular refactor plan for the [[AI]] system architecture.
+- Implement the proposed modular refactor plan for the [[AI]] system [[architecture]].
 - Finalize the custom flow engine inspired by LangChain.
 - Complete the 5-day MVP development plan and evaluate outcomes.
 

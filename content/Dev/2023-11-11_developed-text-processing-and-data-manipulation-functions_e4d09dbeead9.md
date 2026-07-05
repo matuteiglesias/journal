@@ -31,7 +31,7 @@ The session aimed to develop and refine functions for text processing and data m
 - Developed [[Python]] rules for fixing parsing errors using `str.replace()` and regular expressions.
 - Created functions for text cleaning and standardization, focusing on punctuation, spacing, and spelling corrections.
 - Applied cleaning functions to merged sections and regenerated them from original data after a disconnection.
-- Converted cleaned text data into a [[Pandas]] [[DataFrame]] for further analysis.
+- Converted cleaned text data into a [[Pandas]] DataFrame for further analysis.
 - Counted word frequencies in Spanish text using NLTK, excluding stopwords.
 
 ### Achievements

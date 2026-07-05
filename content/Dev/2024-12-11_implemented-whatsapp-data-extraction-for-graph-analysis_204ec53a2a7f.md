@@ -28,7 +28,7 @@ The session aimed to develop a comprehensive process for extracting, decrypting,
 - Extracted insights on data extraction from WhatsApp backups, focusing on relationship mapping and graph database population using Neo4j.
 - Detailed the [[workflow]] for graph ingestion of WhatsApp data, including data extraction, cleaning, and structuring, and using Cypher queries for interaction.
 - Provided instructions for extracting WhatsApp backups based on user’s phone type and OS.
-- Offered a step-by-step guide for extracting WhatsApp backups on Ubuntu, covering decryption and [[visualization]] techniques.
+- Offered a step-by-step guide for extracting WhatsApp backups on Ubuntu, covering decryption and visualization techniques.
 - Outlined the decryption process for WhatsApp backups on Ubuntu, including necessary tools and analysis of decrypted messages.
 - Explained enabling Developer Options and USB [[Debugging]] on Galaxy A05 for [[troubleshooting]].
 
@@ -38,7 +38,7 @@ The session aimed to develop a comprehensive process for extracting, decrypting,
 
 **Pending Tasks:**
 - Further [[automation]] of the data extraction and ingestion process into the graph database.
-- Exploration of additional [[visualization]] techniques for analyzed data.
+- Exploration of additional visualization techniques for analyzed data.
 
 ## Evidence
 

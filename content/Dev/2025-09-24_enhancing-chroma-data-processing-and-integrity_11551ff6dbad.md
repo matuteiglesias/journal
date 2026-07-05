@@ -27,7 +27,7 @@ The session aimed to enhance [[data processing]] workflows and ensure data integ
 ### Key Activities
 - **Data Duplication Resolution**: Explored failure modes and solutions for data duplication in parquet files, focusing on data integrity during scans and writes.
 - **Chroma Cleanup and Rebuild**: Executed a comprehensive checklist for cleaning and rebuilding the Chroma database, including backup, deletion, ingestion, and verification processes.
-- **[[DataFrame]] Enrichment**: Implemented code patches to enhance [[DataFrame]] enrichment robustness, including early exits on empty inputs and schema normalization.
+- **DataFrame Enrichment**: Implemented code patches to enhance DataFrame enrichment robustness, including early exits on empty inputs and schema normalization.
 - **Data Ingestion and Validation**: Outlined steps for validating and ingesting data into Chroma, emphasizing database path and collection name confirmations.
 - **[[Python]] Code Execution in Bash**: Provided instructions for running [[Python]] code in bash to interact with ChromaDB, including [[troubleshooting]] common errors.
 - **[[Troubleshooting]] Embedding Issues**: Developed a [[troubleshooting]] guide for resolving issues with empty Chroma collections during embedding.
@@ -36,7 +36,7 @@ The session aimed to enhance [[data processing]] workflows and ensure data integ
 ### Achievements
 - Successfully identified and addressed data duplication issues.
 - Completed the Chroma database cleanup and rebuild process.
-- Enhanced [[DataFrame]] enrichment processes for robustness.
+- Enhanced DataFrame enrichment processes for robustness.
 - Validated and ingested data into Chroma with confirmed integrity.
 
 ### Pending Tasks

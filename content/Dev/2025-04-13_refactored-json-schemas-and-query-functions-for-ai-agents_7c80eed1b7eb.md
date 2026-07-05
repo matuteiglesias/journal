@@ -30,7 +30,7 @@ The session aimed to refine [[JSON]] schemas and update query functions to enhan
 - Corrected [[JSON]] schema syntax for component plans to ensure valid structure.
 - Developed prompt designs for ReviewParserAgent and ComponentWriterAgent to facilitate script-to-code transformation.
 - Refactored the `query_openai()` function for handling dynamic text fields asynchronously, enhancing efficiency.
-- Troubleshot issues with [[Pandas]] `to_dict()` method, ensuring proper [[DataFrame]] handling.
+- Troubleshot issues with [[Pandas]] `to_dict()` method, ensuring proper DataFrame handling.
 - Updated OpenAI query functions to transition from string lists to records, improving [[data processing]].
 
 ### Achievements

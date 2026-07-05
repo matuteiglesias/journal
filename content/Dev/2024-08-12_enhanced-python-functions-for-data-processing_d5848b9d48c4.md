@@ -31,7 +31,7 @@ The session aimed to enhance [[Python]] functions for [[data processing]] tasks,
 - **Custom Merging [[Strategy]] with Fuzzy Matching:** Implemented a [[strategy]] using Levenshtein distance and `rapidfuzz` for merging DataFrames with slight name differences.
 - **Implemented Threshold in Fuzzy Matching:** Modified `find_best_match` function to include a threshold for valid matches.
 - **Fuzzy Matching with Chunk Processing:** Used `fuzzywuzzy` to process data in chunks, saving intermediate results.
-- **Avoided `SettingWithCopyWarning` in [[Pandas]]:** Demonstrated safe [[DataFrame]] modifications using `.copy()` and `.loc[]`.
+- **Avoided `SettingWithCopyWarning` in [[Pandas]]:** Demonstrated safe DataFrame modifications using `.copy()` and `.loc[]`.
 
 ### Achievements
 - Successfully updated and documented [[Python]] functions for enhanced [[data processing]] capabilities.

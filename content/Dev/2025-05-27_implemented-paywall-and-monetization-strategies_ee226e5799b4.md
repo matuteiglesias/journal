@@ -29,7 +29,7 @@ The session aimed to design and implement monetization controls and paywall syst
 - Implemented token management techniques for quota enforcement and user-specific tracking.
 - Refactored code to enhance monetization capabilities, including usage logging and token quota enforcement.
 - Patched PlanManager for cost management in Mind Map and embedding processes.
-- Analyzed the project's functional architecture to identify monetization logic points.
+- Analyzed the project's functional [[architecture]] to identify monetization logic points.
 - Planned and implemented a minimally disruptive paywall system in both frontend and backend.
 - Developed and tested a minimal working version of a `/[[api]]/user/me` endpoint for user management.
 - Reviewed frontend patches for compatibility with backend systems.
@@ -38,7 +38,7 @@ The session aimed to design and implement monetization controls and paywall syst
 ### Achievements
 - Successfully implemented a paywall system with backend and frontend components.
 - Enhanced the DocumentService with robust monetization controls and user-specific tracking.
-- Improved system architecture for better cost management and token accounting.
+- Improved system [[architecture]] for better cost management and token [[accounting]].
 
 ### Pending Tasks
 - Further testing and refinement of the paywall system to ensure seamless user experience.

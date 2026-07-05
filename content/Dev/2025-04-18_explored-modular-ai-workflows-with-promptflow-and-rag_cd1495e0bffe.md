@@ -29,15 +29,15 @@ The session aimed to explore and understand the modular design of [[AI]] workflo
 - Reflected on the distinctions and compatibilities between Microsoft's [[PromptFlow]] and OpenAI's [[API]] approaches, focusing on embedding and retrieval tasks.
 - Outlined tools in Microsoft's [[PromptFlow]] for embedding generation, vector storage, and retrieval operations, and their [[integration]] with RAG pipelines.
 - Explored the process of enhancing [[PromptFlow]] workflows by integrating existing tools and adding custom abstractions to improve UX and modularity.
-- Reviewed a detailed architecture map of [[PromptFlow]], including folder organization related to embedding, vector search, and reusable tools.
-- Outlined the architecture map for the FlowPower/[[AI]] Lambda Layer paradigm, detailing core block types and orchestration layers.
-- Explored the architecture and components of a Composable Semantic Runtime for modular [[AI]] workflows.
+- Reviewed a detailed [[architecture]] map of [[PromptFlow]], including folder organization related to embedding, vector search, and reusable tools.
+- Outlined the [[architecture]] map for the FlowPower/[[AI]] Lambda Layer paradigm, detailing core block types and orchestration layers.
+- Explored the [[architecture]] and components of a Composable Semantic Runtime for modular [[AI]] workflows.
 
 ### Achievements
 - Completed the README for the FlowPower system, providing a foundational introduction and options for further development.
 
 ### Pending Tasks
-- Further exploration of the architecture maps and tool package creation for [[PromptFlow]].
+- Further exploration of the [[architecture]] maps and tool package creation for [[PromptFlow]].
 - Implementation of the sprint plan for the FlowPower/[[AI]] Lambda Layer paradigm.
 - Development of additional [[documentation]], templates, or starter code for FlowPower.
 

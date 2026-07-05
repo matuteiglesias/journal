@@ -35,7 +35,7 @@ The session focused on developing and refining a job search application using St
 - **Framework Comparison**: Compared Streamlit and ShadCN for application development, providing recommendations for internal tools versus public apps.
 - **Migration [[Strategy]]**: Outlined best practices for Streamlit setup to facilitate future backend migration.
 - **View Redesign**: Redesigned Streamlit view files for the job search application, focusing on query, control, and results tabs.
-- **Multi-Tab Interface**: Provided an example of a Streamlit multi-tab interface for shared settings [[configuration]].
+- **Multi-Tab Interface**: Provided an example of a Streamlit multi-tab interface for shared settings configuration.
 - **[[Python]] Import Resolution**: Resolved import issues in the project structure, ensuring proper module recognition.
 - **Query Functionality Enhancement**: Redesigned the `render()` function in `query_tab.py` to align with the main pipeline logic.
 - **Function Implementation**: Implemented the `run_step()` function in `control_tab.py`, focusing on subprocess management and UI feedback.

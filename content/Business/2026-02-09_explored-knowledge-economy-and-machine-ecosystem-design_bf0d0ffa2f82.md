@@ -29,14 +29,14 @@ The session aimed to explore the structure of the knowledge economy and develop 
 - **Machine Ecosystem Design**: Developed a phased approach to minimize work in progress (WIP) and maximize impact through defined contracts and deliverables.
 - **[[Data Processing]] Strategies**: Outlined strategies for managing data ingestion and processing rates to ensure quality control.
 - **[[AI]] and Cognitive Patterns**: Explored the evolution of human cognitive patterns in the [[AI]] context, focusing on organizational and psychological impacts.
-- **Observability UI Design**: Designed a minimal tabbed UI for observability with a focus on simplicity and trust, detailing necessary components and architecture.
+- **Observability UI Design**: Designed a minimal tabbed UI for observability with a focus on simplicity and trust, detailing necessary components and [[architecture]].
 
 ### Achievements
 - Developed a comprehensive understanding of the knowledge economy's structure and its implications.
 - Created a structured framework for a machine ecosystem with clear phases and deliverables.
 - Established guidelines for disciplined [[data processing]] to maintain quality.
 - Gained insights into the intersection of [[AI]] and human cognition.
-- Prototyped a minimal observability UI with a consistent filter bar and read-only architecture.
+- Prototyped a minimal observability UI with a consistent filter bar and read-only [[architecture]].
 
 ### Pending Tasks
 - Further development and testing of the machine ecosystem phases.

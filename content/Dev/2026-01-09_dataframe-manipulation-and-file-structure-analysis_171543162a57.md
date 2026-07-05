@@ -25,12 +25,12 @@ generated: true
 The session aimed to analyze and manipulate data using [[pandas]], focusing on creating DataFrames, comparing file manifests, and retrieving file structures.
 
 ### Key Activities
-- **[[DataFrame]] Creation**: Demonstrated how to create a [[DataFrame]] and count unique values in the 'stage' column.
+- **DataFrame Creation**: Demonstrated how to create a DataFrame and count unique values in the 'stage' column.
 - **File Manifest Comparison**: Compared expected files against actual files in a manifest, identifying discrepancies.
-- **Function Development**: Developed a function to retrieve the structure of files from a [[DataFrame]] based on their paths.
+- **Function Development**: Developed a function to retrieve the structure of files from a DataFrame based on their paths.
 - **File Structure Analysis**: Iterated through financial report files, printing their structures using the developed function.
-- **Data Extraction**: Extracted dictionaries from [[DataFrame]] rows using conditional filters and extracted [[JSON]] metadata paths from the 'meta/' directory.
-- **[[CSV]] Column Extraction**: Created a function to extract column names from [[CSV]] files listed in a [[DataFrame]].
+- **Data Extraction**: Extracted dictionaries from DataFrame rows using conditional filters and extracted [[JSON]] metadata paths from the 'meta/' directory.
+- **[[CSV]] Column Extraction**: Created a function to extract column names from [[CSV]] files listed in a DataFrame.
 
 ### Achievements
 - Successfully created and manipulated DataFrames for [[data analysis]].

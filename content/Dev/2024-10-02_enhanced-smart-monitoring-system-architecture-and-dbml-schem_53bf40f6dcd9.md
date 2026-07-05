@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to refine the architecture and database schema of the Smart Monitoring System, focusing on enhancing email categorization, [[workflow]] [[automation]], and data [[integration]].
+The session aimed to refine the [[architecture]] and database schema of the Smart Monitoring System, focusing on enhancing email categorization, [[workflow]] [[automation]], and data [[integration]].
 
 ### Key Activities
 - **Smart Monitoring System Categories**: Outlined categories and implementation steps for a smart monitoring system, focusing on financial notifications, loan reminders, and time-sensitive events.
@@ -35,7 +35,7 @@ The session aimed to refine the architecture and database schema of the Smart Mo
 ### Achievements
 - Developed a comprehensive framework for categorizing and managing emails using [[AI]]-assisted decision-making.
 - Designed a robust DBML schema to support multi-source data [[integration]] and email management.
-- Refined the architecture of the Smart Monitoring System to enhance [[automation]] and task management.
+- Refined the [[architecture]] of the Smart Monitoring System to enhance [[automation]] and task management.
 
 ### Pending Tasks
 - Implement the refined DBML schema into the existing system.

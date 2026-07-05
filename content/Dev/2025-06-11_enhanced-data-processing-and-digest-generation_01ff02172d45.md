@@ -25,8 +25,8 @@ generated: true
 The session aimed to enhance [[data processing]] capabilities, focusing on topic grouping, digest generation, and [[file management]] using [[Python]] and [[Pandas]].
 
 ### Key Activities:
-- Developed a function to split [[DataFrame]] rows into topic-based groups with unique GroupIDs, ensuring data integrity.
-- Revised [[strategy]] for [[DataFrame]] storage and Markdown digest file generation, implementing structured filename conventions.
+- Developed a function to split DataFrame rows into topic-based groups with unique GroupIDs, ensuring data integrity.
+- Revised [[strategy]] for DataFrame storage and Markdown digest file generation, implementing structured filename conventions.
 - Enhanced the `fetch_and_save_news()` function to assign unique IDs to articles for improved processing.
 - Proposed a naming convention for [[CSV]] files generated during slicing, including slice parameters for better organization.
 - Refined a function for saving digest files with improved naming conventions and metadata collection.

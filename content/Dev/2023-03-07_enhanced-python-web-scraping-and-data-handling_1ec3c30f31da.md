@@ -29,7 +29,7 @@ The session aimed to improve and expand [[Python]] [[web scraping]] capabilities
 - Outlined steps for building web scrapers using [[Python]], focusing on key libraries and data extraction techniques.
 - Provided code improvement suggestions for [[web scraping]] scripts, enhancing readability, [[error handling]], and modularity.
 - Updated a [[web scraping]] script for concursos, improving variable naming and [[error handling]].
-- Recommended enhancements for [[DataFrame]] manipulation code, focusing on readability and functionality.
+- Recommended enhancements for DataFrame manipulation code, focusing on readability and functionality.
 - Suggested improvements for constructing Google search URLs in [[Python]] scripts, emphasizing efficiency and modularity.
 - Resolved an error with the `itertuples()` method in [[Pandas]] by including the index column.
 - Developed a [[Python]] script using BeautifulSoup and requests to scrape thesis data, extracting detailed information.

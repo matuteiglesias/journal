@@ -25,7 +25,7 @@ generated: true
 The primary goal of this session was to standardize country names across multiple datasets and merge them by country and year to facilitate comprehensive [[data analysis]].
 
 ### Key Activities
-- Developed [[Python]] code snippets to merge datasets using a unified 'country' column derived from a `country_names` [[dataframe]], employing left joins for consistency.
+- Developed [[Python]] code snippets to merge datasets using a unified 'country' column derived from a `country_names` dataframe, employing left joins for consistency.
 - Implemented aggregation functions to summarize financial data, grouping by 'country' and 'year'.
 - Created a [[Python]] function to aggregate data in DataFrames, including a record count for each group using the `agg()` function.
 - Standardized country names before aggregating and merging datasets, ensuring consistency across datasets.

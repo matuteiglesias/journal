@@ -29,14 +29,14 @@ The session aimed to resolve technical issues related to secret caching in [[Pro
 - **Log Inspection**: Provided a guide on accessing and inspecting past run logs in [[Promptflow]] using CLI commands.
 - **Async Stream Analysis**: Outlined steps for analyzing chat async stream results, including log checks and trace viewer setup.
 - **Chat Flow [[Debugging]]**: Created a checklist for [[debugging]] and validating the Basic Chat flow to ensure a faster launch.
-- **[[API]] [[Configuration]] Fix**: Corrected a [[Python]] script for AzureOpenAIModelConfiguration, providing code snippets for proper OpenAI [[API]] [[configuration]].
-- **OpenAI [[Configuration]] Diagnosis**: Diagnosed and planned actions for incorrect OpenAI configurations in `flow.flex.yaml` and `run.yml` files.
+- **[[API]] Configuration Fix**: Corrected a [[Python]] script for AzureOpenAIModelConfiguration, providing code snippets for proper OpenAI [[API]] configuration.
+- **OpenAI Configuration Diagnosis**: Diagnosed and planned actions for incorrect OpenAI configurations in `flow.flex.yaml` and `run.yml` files.
 
 ### Achievements
 - Successfully resolved the secret caching issue in [[Promptflow]].
 - Clarified and documented steps for inspecting logs and analyzing async stream results.
 - Developed a checklist for efficient [[debugging]] of chat flows.
-- Implemented [[configuration]] fixes for OpenAI [[API]] usage.
+- Implemented configuration fixes for OpenAI [[API]] usage.
 
 ### Pending Tasks
 - Further testing of the updated configurations to ensure full compatibility and performance improvements.

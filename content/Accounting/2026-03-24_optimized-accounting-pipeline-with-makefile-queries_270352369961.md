@@ -22,20 +22,20 @@ generated: true
 ## Description
 
 **Session Goal:**
-The session aimed to optimize the accounting pipeline by executing queries related to accounting metrics using a Makefile and shell scripts. The focus was on improving efficiency and ensuring accurate metric reporting.
+The session aimed to optimize the [[accounting]] pipeline by executing queries related to [[accounting]] metrics using a [[Makefile]] and shell scripts. The focus was on improving efficiency and ensuring accurate metric reporting.
 
 **Key Activities:**
-- Executed a series of queries related to accounting metrics via a Makefile and shell scripts, focusing on the latest metrics and human reports.
-- Utilized 'sed' and Bash to extract specific lines from a Makefile, aiding in [[automation]] and command-line efficiency.
-- Developed queries for Makefile processes related to accounting, particularly for running materialization and human balance updates.
-- Outlined an implementation [[strategy]] for optimizing the accounting pipeline, including a hash-based skip logic to prevent unnecessary recomputation, verification steps for existing mechanisms, and a proposed wrapper script.
+- Executed a series of queries related to [[accounting]] metrics via a [[Makefile]] and shell scripts, focusing on the latest metrics and human reports.
+- Utilized 'sed' and Bash to extract specific lines from a [[Makefile]], aiding in [[automation]] and command-line efficiency.
+- Developed queries for [[Makefile]] processes related to [[accounting]], particularly for running materialization and human balance updates.
+- Outlined an implementation [[strategy]] for optimizing the [[accounting]] pipeline, including a hash-based skip logic to prevent unnecessary recomputation, verification steps for existing mechanisms, and a proposed wrapper script.
 
 **Achievements:**
-- Successfully executed queries and extracted necessary lines from Makefiles, contributing to the [[automation]] of accounting processes.
+- Successfully executed queries and extracted necessary lines from Makefiles, contributing to the [[automation]] of [[accounting]] processes.
 - Developed a comprehensive [[strategy]] for pipeline [[optimization]], focusing on efficiency and determinism in [[data processing]].
 
 **Pending Tasks:**
-- Implement the proposed wrapper script and verify the hash-based skip logic for full [[optimization]] of the accounting pipeline.
+- Implement the proposed wrapper script and verify the hash-based skip logic for full [[optimization]] of the [[accounting]] pipeline.
 
 ## Evidence
 

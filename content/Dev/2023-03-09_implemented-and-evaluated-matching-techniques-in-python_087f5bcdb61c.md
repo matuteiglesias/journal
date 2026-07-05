@@ -35,7 +35,7 @@ The session aimed to implement and evaluate matching techniques in [[Python]] to
 - Successfully implemented a streamlined process for calculating mean differences, improving the efficiency of [[data analysis]].
 - Enhanced the presentation of statistical data by grouping and displaying relevant metrics.
 - Assessed and confirmed the effectiveness of matching procedures in empirical studies.
-- Improved [[data [[visualization]]]] techniques through corrected syntax.
+- Improved [[data visualization]] techniques through corrected syntax.
 
 ### Pending Tasks
 - Conduct further sensitivity analyses to ensure robustness of results.

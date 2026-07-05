@@ -26,7 +26,7 @@ The primary goal of this session was to set up a Hugo site to host Jupyter Noteb
 
 ### Key Activities:
 - **Database Design:** Initiated with planning a movie database using ER diagrams and DBML for educational purposes.
-- **Hugo and [[GitHub]] Pages Setup:** Implemented a comprehensive setup for a Hugo site, including repository [[configuration]], [[automation]] scripts, and [[deployment]] to [[GitHub]] Pages.
+- **Hugo and [[GitHub]] Pages Setup:** Implemented a comprehensive setup for a Hugo site, including repository configuration, [[automation]] scripts, and [[deployment]] to [[GitHub]] Pages.
 - **[[Troubleshooting]]:** Addressed multiple errors related to Hugo themes, [[GitHub]] Pages [[deployment]], and notebook rendering issues.
 - **[[Automation]]:** Developed scripts to convert Jupyter Notebooks to Markdown and HTML, ensuring seamless [[integration]] with Hugo.
 

@@ -22,18 +22,18 @@ generated: true
 ## Description
 
 **Session Goal:**
-The primary goal of this session was to deploy a Next.js project on Vercel, addressing various [[configuration]] and [[deployment]] issues.
+The primary goal of this session was to deploy a Next.js project on Vercel, addressing various configuration and [[deployment]] issues.
 
 **Key Activities:**
 - Explored alternative phrases for educational roles to enhance professional identity.
 - Developed creative decorator strings and mosaics for design projects.
 - Modified functions for educational role filtering and generated [[JSON]] from repository data.
-- Conducted a comprehensive [[deployment]] of a Next.js project on Vercel, including [[configuration]] updates, script handling, and [[troubleshooting]].
+- Conducted a comprehensive [[deployment]] of a Next.js project on Vercel, including configuration updates, script handling, and [[troubleshooting]].
 - Reviewed scripts for MDX processing, focusing on [[error handling]] and performance [[optimization]].
 - Resolved TypeScript errors in [[API]] routes and addressed 404 errors in the [[deployment]].
 
 **Achievements:**
-- Successfully deployed a Next.js project on Vercel with necessary [[configuration]] adjustments.
+- Successfully deployed a Next.js project on Vercel with necessary configuration adjustments.
 - Improved [[error handling]] and performance in MDX processing scripts.
 - Resolved TypeScript and [[deployment]] errors, ensuring a smooth [[deployment]] process.
 

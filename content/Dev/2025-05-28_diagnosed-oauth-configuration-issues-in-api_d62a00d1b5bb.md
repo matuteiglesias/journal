@@ -22,17 +22,17 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to diagnose and resolve OAuth [[configuration]] issues affecting an [[API]] endpoint.
+The session aimed to diagnose and resolve OAuth configuration issues affecting an [[API]] endpoint.
 
 ### Key Activities
-- Reflected on the OAuth [[configuration]] failure, generating diagnostic insights and hypotheses.
-- Outlined actionable steps to resolve the [[configuration]] issues.
+- Reflected on the OAuth configuration failure, generating diagnostic insights and hypotheses.
+- Outlined actionable steps to resolve the configuration issues.
 
 ### Achievements
-- Clarified the nature of the OAuth [[configuration]] problem and potential solutions.
+- Clarified the nature of the OAuth configuration problem and potential solutions.
 
 ### Pending Tasks
-- Implement the outlined steps to resolve the OAuth [[configuration]] issue and verify the fix.
+- Implement the outlined steps to resolve the OAuth configuration issue and verify the fix.
 
 ## Evidence
 

@@ -31,7 +31,7 @@ The session aimed to explore strategies for improving [[productivity]] and manag
 - Proposed [[data science]] projects to enhance public safety, including geospatial analysis and resource [[optimization]].
 - Presented examples of professional dialogue in an Argentine context to facilitate effective communication.
 - Outlined action plans for professional collaboration, including initial communication and key conversation preparation.
-- Provided accounting advice for food and beverage businesses, focusing on inventory tracking and cash flow management.
+- Provided [[accounting]] advice for food and beverage businesses, focusing on inventory tracking and cash flow management.
 - Offered a guide for cash flow management in retail food and beverage businesses, including tools and best practices.
 - Developed a checklist to evaluate cash flow management, covering income, expenses, and budget management.
 - Reflected on budgeting and financial forecasting for efficient business management, detailing practical steps and strategies.

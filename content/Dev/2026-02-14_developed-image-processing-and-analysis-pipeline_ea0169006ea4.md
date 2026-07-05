@@ -28,8 +28,8 @@ The session aimed to develop a comprehensive image processing and analysis pipel
 - **Image File Path Retrieval**: Implemented code to import necessary libraries and retrieve sorted paths of JPEG images from a specified directory.
 - **Image Counting**: Retrieved and counted image file paths using libraries like glob, numpy, and [[pandas]].
 - **Face Detection**: Set up a face detector with OpenCV and defined functions to compute metrics such as blur, brightness, contrast, and face detection statistics.
-- **Data Normalization and Scoring**: Normalized specific columns in a [[DataFrame]] and calculated a composite score based on weighted factors for face analysis.
-- **[[DataFrame]] Analysis**: Sorted and analyzed [[DataFrame]] columns, providing unique value counts for 'faces' and sorting by the 'score' column.
+- **Data Normalization and Scoring**: Normalized specific columns in a DataFrame and calculated a composite score based on weighted factors for face analysis.
+- **DataFrame Analysis**: Sorted and analyzed DataFrame columns, providing unique value counts for 'faces' and sorting by the 'score' column.
 
 ### Achievements
 - Successfully retrieved and processed image file paths.

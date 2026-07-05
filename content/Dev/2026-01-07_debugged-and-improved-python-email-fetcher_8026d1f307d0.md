@@ -26,7 +26,7 @@ The session aimed to debug and enhance a [[Python]]-based email fetching script 
 
 ### Key Activities
 - Implemented code snippets to check the existence and size of files using [[Python]]'s `pathlib` library.
-- Executed scripts to read and print sections of [[Python]] and YAML [[configuration]] files.
+- Executed scripts to read and print sections of [[Python]] and YAML configuration files.
 - Utilized regular expressions to extract specific function definitions from [[Python]] scripts.
 - Identified and fixed a `None` password issue in the IMAP email fetcher, enhancing [[error handling]] and cleanup processes.
 

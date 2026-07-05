@@ -26,7 +26,7 @@ The primary objective was to develop and complete the v0 harness for the Summari
 
 ### Key Activities
 - Extracted specific lines from shell scripts using `sed` in a bash environment to facilitate script modifications.
-- Developed a v0 harness for the Summarizer Service, including architecture details, script fixes, and a runbook for execution.
+- Developed a v0 harness for the Summarizer Service, including [[architecture]] details, script fixes, and a runbook for execution.
 - Conducted error queries for [[JSON]] files to identify and address potential issues.
 - Processed data queries and applied source filters to specific JSONL files for effective [[data management]].
 

@@ -30,7 +30,7 @@ The session aimed to enhance the [[documentation]] and [[automation]] processes 
 - Created a Bash script for automated directory and file creation, ensuring a structured setup for [[documentation]].
 - Compiled MDX recipes for [[troubleshooting]] [[Git]] and Selenium, and templates for [[JSON]] serialization.
 - Provided MDX patterns for ETL processes, including logging, merging [[CSV]] files, and dataset loading.
-- Offered fixes for [[Python]] imports and [[DataFrame]] operations in MDX format.
+- Offered fixes for [[Python]] imports and DataFrame operations in MDX format.
 
 ### Achievements:
 - Established a clear plan for organizing Pocket fichas.

@@ -29,7 +29,7 @@ The session aimed to establish a comprehensive [[documentation]] structure for t
 - Addressed specific queries regarding frontmatter conventions in [[Docusaurus]] [[documentation]].
 - Reviewed the Ecosystem Ops Manual as a reference for decision-making and contract management.
 - Drafted a governance artifact for ecosystem map and registry management.
-- Developed an index and policy for Architecture Decision Records (ADRs).
+- Developed an index and policy for [[Architecture]] Decision Records (ADRs).
 - Documented contracts for session and summary management within the Sessions Bus and Summary Bus.
 - Outlined the Digest Bus contract for managing memory bags and digest artifacts.
 

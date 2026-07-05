@@ -30,7 +30,7 @@ The primary goal of this session was to successfully install and configure Age o
 - **[[Troubleshooting]] .NET Installation:** Employed the `--force` flag and considered downgrading Wine or using a 32-bit Wineprefix to resolve .NET installation issues.
 - **Handling Script Interruptions:** Addressed issues with script execution interruptions due to terminal shortcuts and provided solutions.
 - **Error Resolution:** Fixed errors related to missing `mscoree.dll` by installing .NET Framework version 4.5.
-- **Wine [[Configuration]]:** Configured Wine to support .NET Framework applications by adjusting settings and adding necessary libraries.
+- **Wine Configuration:** Configured Wine to support .NET Framework applications by adjusting settings and adding necessary libraries.
 
 ### Achievements
 - Successfully installed the necessary .NET Framework version to support Age of Empires on Wine.
@@ -39,7 +39,7 @@ The primary goal of this session was to successfully install and configure Age o
 
 ### Pending Tasks
 - Monitor Wine community forums for updates on the `dotnet45` package issue in Wine 8.4.
-- Consider alternative Wine versions if further issues arise with current [[configuration]].
+- Consider alternative Wine versions if further issues arise with current configuration.
 
 ## Evidence
 

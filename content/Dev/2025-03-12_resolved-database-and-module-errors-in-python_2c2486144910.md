@@ -25,7 +25,7 @@ generated: true
 The session aimed to resolve various errors encountered in database operations and module imports within [[Python]] environments, specifically focusing on [[Pandas]], SQLite, and IPython-SQL.
 
 ### Key Activities
-- **Preserving Time Index in [[Pandas]] [[CSV]] Operations:** Provided guidance on saving and loading a [[Pandas]] [[DataFrame]] with a time index, recommending Parquet for performance.
+- **Preserving Time Index in [[Pandas]] [[CSV]] Operations:** Provided guidance on saving and loading a [[Pandas]] DataFrame with a time index, recommending Parquet for performance.
 - **Fixing 'No module named sql' Error:** Offered a solution by installing 'ipython-sql' and explained the error's cause.
 - **Resolving Database Connection Errors in `ipython-sql`:** Addressed missing environment variable issues for database connections, with solutions for SQLite, PostgreSQL, and MySQL.
 - **Connecting [[Python]] SQLite with IPython-SQL:** Explained sharing connections between [[Python]]'s sqlite3 and IPython-SQL.

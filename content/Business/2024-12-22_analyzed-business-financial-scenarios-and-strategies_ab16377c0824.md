@@ -29,7 +29,7 @@ The session aimed to analyze various business financial scenarios and develop st
 - **Educated on Operational Models**: Discussed operational strategies, comparing 'cash cow' models with asset-based approaches.
 - **Drafted Financial Report**: Created a detailed financial report identifying current issues and proposing corrective measures.
 - **Outlined Stakeholder Communication Strategies**: Developed a framework for clear communication of financial strategies to stakeholders.
-- **Corrected Accounting Errors**: Addressed and corrected duplication of operational expenses and liabilities.
+- **Corrected [[Accounting]] Errors**: Addressed and corrected duplication of operational expenses and liabilities.
 
 ### Achievements
 - Developed insights into sustainable financial practices and operational strategies.
@@ -38,7 +38,7 @@ The session aimed to analyze various business financial scenarios and develop st
 ### Pending Tasks
 - Implement the proposed financial corrective measures.
 - Execute the stakeholder communication [[strategy]].
-- Monitor the impact of corrected accounting entries on financial statements.
+- Monitor the impact of corrected [[accounting]] entries on financial statements.
 
 ## Evidence
 

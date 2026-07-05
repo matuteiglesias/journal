@@ -29,7 +29,7 @@ The session focused on optimizing and [[troubleshooting]] various aspects of acc
 - Implemented [[Python]] scripts to fetch tables from Supabase using both the pg_catalog and information_schema methods.
 - Debugged several [[API]] and database-related errors, including TypeError, ImportError, and APIError, by verifying [[API]] keys, checking response formats, and ensuring correct environment setup.
 - Addressed 404 errors related to accessing specific tables, ensuring endpoint validity and correct query parameters.
-- Compared PostgREST and PostgreSQL [[error handling]] to improve [[API]] [[configuration]] and database access.
+- Compared PostgREST and PostgreSQL [[error handling]] to improve [[API]] configuration and database access.
 - Aligned metadata structures between different database components for consistent [[data processing]].
 
 **Achievements:**

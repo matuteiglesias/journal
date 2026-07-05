@@ -29,7 +29,7 @@ The goal of this session was to draft and finalize foundational files for the Te
 - **Introductory [[documentation]]**: Outlined the structure and content for the introductory [[documentation]], including an overview, installation instructions, and running guidelines.
 - **Realistic `setup.py`**: Developed a detailed draft of `setup.py`, outlining its structure, dependencies, and installation instructions for local development.
 - **Finalized dependency list**: Corrected and finalized the dependency list for `setup.py`, ensuring all necessary dependencies are included and deprecated practices are avoided.
-- **`pyproject.toml` [[configuration]]**: Provided a professional-grade `pyproject.toml` [[configuration]], detailing dependencies and optional development dependencies.
+- **`pyproject.toml` configuration**: Provided a professional-grade `pyproject.toml` configuration, detailing dependencies and optional development dependencies.
 - **Inclusion of non-code folders**: Created a `MANIFEST.in` file to ensure essential non-code folders are included in the package.
 - **[[Documentation]] management**: Planned the migration of [[documentation]] to a [[Docusaurus]] frontend, ensuring a clean separation of code and [[documentation]].
 - **[[Docusaurus]] setup checklist**: Developed a checklist for setting up a [[Docusaurus]] project, including moving [[documentation]], cleaning up the sidebar, and running the project locally.

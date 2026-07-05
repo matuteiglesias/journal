@@ -25,7 +25,7 @@ generated: true
 The session aimed to configure workspaces in Ubuntu 22.04 and explore [[web scraping]] and [[API]] interaction with Twitter using [[Python]].
 
 ### Key Activities
-- **Ubuntu [[Configuration]]**: Checked the Ubuntu version and configured workspaces using Settings and Gnome Tweaks. Managed workspace settings with command-line options and tools like Unity Tweak Tool.
+- **Ubuntu Configuration**: Checked the Ubuntu version and configured workspaces using Settings and Gnome Tweaks. Managed workspace settings with command-line options and tools like Unity Tweak Tool.
 - **[[Web Scraping]]**: Demonstrated [[web scraping]] of Twitter using [[Python]]'s BeautifulSoup and lxml, focusing on finding elements by text and class.
 - **Web [[Automation]]**: Utilized Selenium for browser [[automation]], including navigating to URLs and interacting with web elements.
 - **Twitter [[API]] Interaction**: Used Tweepy to retrieve Twitter followers, handling rate limits and pagination. Discussed [[API]] rate limits and methods to manage them effectively.

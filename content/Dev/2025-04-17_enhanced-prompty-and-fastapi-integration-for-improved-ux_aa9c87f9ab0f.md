@@ -26,8 +26,8 @@ The session aimed to enhance the [[integration]] of Prompty with FastAPI, focusi
 
 ### Key Activities
 - **Reverse Engineering:** Explored strategies for integrating Prompty files with FastAPI, ensuring compatibility and effective execution.
-- **Critical Analysis:** Evaluated the PromptBlock architecture, identifying strengths and areas for improvement, such as reducing complexity and enhancing modularity.
-- **[[AI]]-Driven UX Transformation:** Discussed the potential of [[AI]] agents to automate YAML and .prompty [[file management]], enhancing architecture and user experience.
+- **Critical Analysis:** Evaluated the PromptBlock [[architecture]], identifying strengths and areas for improvement, such as reducing complexity and enhancing modularity.
+- **[[AI]]-Driven UX Transformation:** Discussed the potential of [[AI]] agents to automate YAML and .prompty [[file management]], enhancing [[architecture]] and user experience.
 - **Endpoint Enhancement:** Improved the Prompty endpoint with better [[error handling]] and customizable parameters, providing a code example for future extensions.
 - **[[Debugging]] Techniques:** Addressed issues with [[JSON]] handling in LLM blocks and YAML flow, using humor and collaboration to resolve problems.
 

@@ -26,7 +26,7 @@ The primary goal of this session was to implement a random forest regressor usin
 
 ### Key Activities
 - Implemented a random forest regressor using scikit-learn, including data loading, preprocessing, model fitting, and making predictions.
-- Addressed [[DataFrame]] modification warnings by creating a copy and performing calculations to avoid altering the original data.
+- Addressed DataFrame modification warnings by creating a copy and performing calculations to avoid altering the original data.
 - Investigated and handled NaN values in the `price` and `surface_total` columns to ensure accurate computation of `price_m2` values.
 - Analyzed NaN values in the 'price_m2' column post-groupby operation to compute mean prices per square meter.
 - Validated and converted the `price_m2` column to ensure it contains valid numeric values, converting invalid entries to NaN for accurate mean calculation.

@@ -27,8 +27,8 @@ The primary goal of this session was to refactor and enhance the `_normalize_led
 ### Key Activities
 - Utilized bash and sed commands to extract and number specific lines from a [[Python]] script for analysis.
 - Implemented a [[Python]] script using [[pandas]] to read [[CSV]] column names, facilitating [[data processing]] tasks.
-- Refactored the `_normalize_ledger_columns` function to improve alias handling and ensure required columns are present in the [[DataFrame]].
-- Addressed and resolved issues with duplicate column names in the [[DataFrame]] by correcting the renaming logic in the script.
+- Refactored the `_normalize_ledger_columns` function to improve alias handling and ensure required columns are present in the DataFrame.
+- Addressed and resolved issues with duplicate column names in the DataFrame by correcting the renaming logic in the script.
 - Conducted tests to verify the script's functionality and correctness after [[refactoring]].
 
 ### Achievements

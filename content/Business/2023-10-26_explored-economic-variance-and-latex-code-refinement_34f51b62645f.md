@@ -31,7 +31,7 @@ The session aimed to explore the intricacies of variance in economic systems, th
 - **Variance Analysis**: Detailed exploration of variances in economic and financial systems, challenging conventional wisdom and offering new insights.
 - **Nonlinear Dynamics**: Analyzed the relationship between nonlinearities, variance, and micro shocks on aggregate behavior.
 - **Time Series Analysis**: Discussed quantile parts in time series variance and implications for economic fluctuations.
-- **LaTeX Code Refinement**: Refined LaTeX code for Econometrica submission, emphasizing clarity in [[data [[visualization]]]].
+- **LaTeX Code Refinement**: Refined LaTeX code for Econometrica submission, emphasizing clarity in [[data visualization]].
 
 ### Achievements:
 - Developed a structured framework for economic variance discussions.

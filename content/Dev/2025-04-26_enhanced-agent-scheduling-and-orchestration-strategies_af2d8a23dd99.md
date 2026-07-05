@@ -26,11 +26,11 @@ The session aimed to explore and enhance the scheduling and orchestration of [[A
 
 ### Key Activities
 - **Strengthening Agent Scheduling**: Analyzed current scheduling setups, focusing on strengths, weaknesses, and recommendations for improved reliability using APScheduler.
-- **Scheduler Program Foundations**: Outlined foundational architecture for a reliable scheduler program, emphasizing safe execution and logging.
+- **Scheduler Program Foundations**: Outlined foundational [[architecture]] for a reliable scheduler program, emphasizing safe execution and logging.
 - **Agent Orchestration Insights**: Conducted a simulated roundtable discussion on orchestrating agents for growth, focusing on metrics, SLAs, and event-driven reliability.
 - **Operational Strategies**: Developed frameworks for operational efficiency, including SLAs, KPIs, and micro-products.
 - **Lead Companion Agent Proposal**: Proposed a hybrid [[AI]] model for sales assistance, integrating into email workflows.
-- **Tech Stack Overview**: Designed a tech stack for sales-focused [[AI]] agents, detailing architecture and [[integration]].
+- **Tech Stack Overview**: Designed a tech stack for sales-focused [[AI]] agents, detailing [[architecture]] and [[integration]].
 - **Scientific Event Bus Design**: Outlined design principles for an event bus to track actions in funnel systems.
 - **User and Product Focus Clarification**: Sought clarification on target user demographics for a copilot tool.
 

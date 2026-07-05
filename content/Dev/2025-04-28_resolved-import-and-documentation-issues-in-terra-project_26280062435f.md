@@ -26,7 +26,7 @@ The session aimed to resolve various import and [[documentation]] generation iss
 
 ### Key Activities
 - Adapted `mock_cerebrum.py` to the new pdoc v14+ structure, eliminating the deprecated `pdoc.cli` usage.
-- Created a mock [[configuration]] object to enable error-free [[documentation]] generation for the Cerebrum module.
+- Created a mock configuration object to enable error-free [[documentation]] generation for the Cerebrum module.
 - Addressed import errors by extending the mock module to include missing functions.
 - Installed the Cerebrum library as a dependency in the Terra project, ensuring a clean setup.
 - Generated clean [[documentation]] for the Terra project using pdoc after resolving import issues.

@@ -26,9 +26,9 @@ The primary goal of this session was to enhance the [[AI]] content generation [[
 
 ### Key Activities
 - **[[Productivity]] Planning**: Developed a structured late-night work plan with music recommendations and [[productivity]] tips using the Pomodoro Technique.
-- **Content Generation Process**: Streamlined the [[integration]] of chapter contexts with a main [[dataframe]], utilizing [[Python]] and OpenAI for [[automation]].
-- **Data Manipulation**: Implemented filtering of a [[DataFrame]] by pattern using [[Pandas]] and regular expressions.
-- **Data Mapping**: Mapped outline values to contexts in a [[DataFrame]], linking them to a filtered outline file.
+- **Content Generation Process**: Streamlined the [[integration]] of chapter contexts with a main dataframe, utilizing [[Python]] and OpenAI for [[automation]].
+- **Data Manipulation**: Implemented filtering of a DataFrame by pattern using [[Pandas]] and regular expressions.
+- **Data Mapping**: Mapped outline values to contexts in a DataFrame, linking them to a filtered outline file.
 - **Context Extraction**: Enhanced the `extract_context` function for partial matching using regular expressions, improving context extraction efficiency.
 - **File Handling**: Developed a [[Python]] script for concatenating text files and processing sections, including saving [[AI]]-generated contexts to individual files and creating a single output file.
 

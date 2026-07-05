@@ -36,7 +36,7 @@ The session aimed to enhance [[machine learning]] operations (MLOps) by integrat
 
 ### Achievements
 - Successfully integrated MLflow and DVC into the [[workflow]], enhancing model and [[data management]].
-- Resolved several [[configuration]] and [[error handling]] issues related to MLflow and [[Flask]] [[integration]].
+- Resolved several configuration and [[error handling]] issues related to MLflow and [[Flask]] [[integration]].
 - Established a robust framework for experiment tracking and model management in MLOps.
 
 ### Pending Tasks

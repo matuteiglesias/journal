@@ -27,9 +27,9 @@ The session aimed to enhance email communication analysis using network graphs a
 ### Key Activities:
 - **Email Handler Setup:** Configured Firefox to use Gmail as the default email handler for `mailto:` links.
 - **Dataset Management:** Notified of dataset reset, requiring re-upload for network analysis.
-- **Network Analysis:** Utilized NetworkX to create a directed email network, filtered bidirectional communications, and refined graph [[visualization]] by removing self-loops and improving layout.
+- **Network Analysis:** Utilized NetworkX to create a directed email network, filtered bidirectional communications, and refined graph visualization by removing self-loops and improving layout.
 - **[[Error Handling]]:** Identified and resolved an undefined variable issue in the graph analysis code.
-- **Data Extraction:** Converted bidirectional graph edges into a [[pandas]] [[DataFrame]].
+- **Data Extraction:** Converted bidirectional graph edges into a [[pandas]] DataFrame.
 - **SQL [[Optimization]]:** Implemented strategies for SQL query performance improvement, focusing on batch inserts and indexing.
 - **Batch Insert Method:** Developed a SQL script for batch inserting email details using loop-based and CTE approaches.
 

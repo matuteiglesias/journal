@@ -27,7 +27,7 @@ The session aimed to enhance the [[automation]] of [[web scraping]] tasks, focus
 ### Key Activities
 - Developed a [[Python]] script to automate the extraction of social media profile links from Google search results using concurrent processing with `ThreadPoolExecutor`.
 - Explored strategies to prevent Google CAPTCHA and 429 errors during automated searches by using rotating proxies, increasing sleep intervals, and implementing exponential backoff.
-- Created a robust URL parsing method using `urllib.parse.quote_plus` for encoding search URLs in a [[pandas]] [[DataFrame]].
+- Created a robust URL parsing method using `urllib.parse.quote_plus` for encoding search URLs in a [[pandas]] DataFrame.
 - Implemented a function to test HTTP proxies and troubleshoot proxy connection timeout issues.
 
 ### Achievements

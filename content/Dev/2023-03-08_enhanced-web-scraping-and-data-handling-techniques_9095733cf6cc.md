@@ -25,8 +25,8 @@ generated: true
 The session aimed to enhance [[web scraping]] techniques and data manipulation using [[Python]], focusing on improving [[error handling]] and data extraction methods.
 
 ### Key Activities
-- Developed a [[Python]] function to scrape lab information and return it as a [[Pandas]] [[DataFrame]].
-- Implemented a method to fill missing values in a [[DataFrame]] using [[Pandas]].
+- Developed a [[Python]] function to scrape lab information and return it as a [[Pandas]] DataFrame.
+- Implemented a method to fill missing values in a DataFrame using [[Pandas]].
 - Used Beautiful Soup for [[web scraping]], extracting names and URLs from webpages.
 - Created a function to scrape population data and handle demographic metrics.
 - Updated [[web scraping]] code to avoid deprecated methods and improve [[error handling]].

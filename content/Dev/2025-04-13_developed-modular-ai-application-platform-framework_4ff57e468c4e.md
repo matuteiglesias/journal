@@ -22,10 +22,10 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to design a modular and scalable [[AI]] application platform, focusing on architecture, components, and development steps.
+The session aimed to design a modular and scalable [[AI]] application platform, focusing on [[architecture]], components, and development steps.
 
 ### Key Activities
-- Discussed the vision for a modular [[AI]] platform, emphasizing scalable architecture and modular design.
+- Discussed the vision for a modular [[AI]] platform, emphasizing scalable [[architecture]] and modular design.
 - Explored unique approaches to [[AI]] app development, prioritizing developer-first UX and innovation.
 - Highlighted the concept of being an 'unaware pioneer' in [[AI]] development by integrating existing tools innovatively.
 - Outlined a launch [[strategy]] for the appgun dev platform, covering target audiences, marketing channels, and preparation checklists.
@@ -38,7 +38,7 @@ The session aimed to design a modular and scalable [[AI]] application platform, 
 - Introduced the concept of AppGun as a modular fullstack launcher using mvp.[[json]] manifests.
 - Discussed using monorepos for managing modular code in app development.
 - Explained frontend and backend referencing differences and best practices in FastAPI.
-- Designed backend and frontend protocols for microservices architecture.
+- Designed backend and frontend protocols for microservices [[architecture]].
 - Developed a backend packaging and [[integration]] [[strategy]].
 - Enhanced frontend setup for optimal performance.
 - Set up a [[Python]] package for the core module as an editable install.

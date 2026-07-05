@@ -29,7 +29,7 @@ The session aimed to address various database management tasks using [[Python]] 
 - **SQL Table Name Error**: Resolved an error in SQL table creation by converting frozen set objects to strings.
 - **Handling Table Conflicts**: Managed existing database tables by either dropping them or renaming new tables to avoid conflicts.
 - **Retrieving Column Names**: Used SQL and [[Python]] to retrieve column names from an R table.
-- **SQLite Table Creation**: Corrected SQLite table creation from a [[DataFrame]] by dropping the existing table and recreating it with the correct schema.
+- **SQLite Table Creation**: Corrected SQLite table creation from a DataFrame by dropping the existing table and recreating it with the correct schema.
 - **Database Connection Errors**: Addressed issues with cursor creation after closing a database connection, ensuring proper connection management.
 
 ### Achievements:

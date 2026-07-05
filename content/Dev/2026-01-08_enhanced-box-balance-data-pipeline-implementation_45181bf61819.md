@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to enhance the data pipeline for box balance materialization, ensuring efficient data consolidation and compatibility with accounting practices.
+The session aimed to enhance the data pipeline for box balance materialization, ensuring efficient data consolidation and compatibility with [[accounting]] practices.
 
 ### Key Activities
 - **Data Consolidation**: Proposed simplification using 'Box' for data consolidation and identified issues in the current pipeline.
@@ -35,7 +35,7 @@ The session aimed to enhance the data pipeline for box balance materialization, 
 - Improved data pipeline with enhanced query management for materialization processes.
 
 ### Pending Tasks
-- Further testing and validation of the pipeline changes to ensure full compatibility with accounting standards.
+- Further testing and validation of the pipeline changes to ensure full compatibility with [[accounting]] standards.
 - [[Optimization]] of query execution times and resource management.
 
 ## Evidence

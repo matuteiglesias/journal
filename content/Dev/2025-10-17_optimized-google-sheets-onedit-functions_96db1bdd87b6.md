@@ -27,7 +27,7 @@ The session aimed to optimize the `onEdit` functions in Google Sheets to enhance
 ### Key Activities
 - Consolidated multiple `onEdit` triggers into a single handler.
 - Provided two implementation options: a simple mapping object and a scalable array of column groups.
-- Developed a robust pattern for managing `onEdit` events using a [[configuration]] map for handling multiple sheets.
+- Developed a robust pattern for managing `onEdit` events using a configuration map for handling multiple sheets.
 
 ### Achievements
 - Successfully created a more efficient and maintainable `onEdit` handler for Google Sheets.

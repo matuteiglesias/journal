@@ -33,7 +33,7 @@ The session aimed to explore and integrate Visual Studio Code extensions for rea
 
 ### Achievements
 - Successfully identified and documented a set of extensions that enhance memory management in [[Python]] development within VS Code.
-- Clarified installation and [[configuration]] processes for key extensions, improving the setup for future use.
+- Clarified installation and configuration processes for key extensions, improving the setup for future use.
 
 ### Pending Tasks
 - Evaluate the performance of the recommended extensions in a real-world project to ensure their effectiveness.

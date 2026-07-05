@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal:
-The session aimed to design, fix, and optimize the [[workflow]] management using [[PromptFlow]], focusing on the `submission_handler.py` script and [[configuration]] files like `run.yml` and `flow.dag.yaml`.
+The session aimed to design, fix, and optimize the [[workflow]] management using [[PromptFlow]], focusing on the `submission_handler.py` script and configuration files like `run.yml` and `flow.dag.yaml`.
 
 ### Key Activities:
 - Designed `submission_handler.py` to organize and save review artifacts.
@@ -31,13 +31,13 @@ The session aimed to design, fix, and optimize the [[workflow]] management using
 - Set up `run.yml` and `column_mapping` to manage static and dynamic job data.
 - Cleaned and prepared a deduplicated job listing dataset in JSONL format.
 - Created and validated a `run.yml` file to resolve errors in [[PromptFlow]].
-- Corrected [[configuration]] issues in `flow.dag.yaml` and `run.yml` for job [[data processing]].
+- Corrected configuration issues in `flow.dag.yaml` and `run.yml` for job [[data processing]].
 - Addressed [[PromptFlow]] UserErrorException by specifying the flow directory.
 - Fixed CLI command execution issues for [[PromptFlow]], ensuring correct syntax and folder layout.
 
 ### Achievements:
 - Successfully designed and fixed the `submission_handler.py` script for [[PromptFlow]].
-- Resolved [[configuration]] and execution issues in [[PromptFlow]], ensuring proper input handling and command execution.
+- Resolved configuration and execution issues in [[PromptFlow]], ensuring proper input handling and command execution.
 - Prepared a clean job listing dataset for further processing.
 
 ### Pending Tasks:

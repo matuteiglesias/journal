@@ -27,7 +27,7 @@ The session aimed to develop a comprehensive plan for structuring a [[data analy
 ### Key Activities:
 - Developed a repository structuring plan focusing on [[documentation]], data provenance, licensing, and organization to enhance clarity and reproducibility.
 - Created a comprehensive project plan to adhere to AEA guidelines, emphasizing data and code sharing, [[documentation]], ethics, and maintenance.
-- Analyzed and optimized a Jupyter notebook for statistical analysis, identifying data handling, [[visualization]], and [[optimization]] opportunities.
+- Analyzed and optimized a Jupyter notebook for statistical analysis, identifying data handling, visualization, and [[optimization]] opportunities.
 - Resolved a [[Matplotlib]] `AttributeError` by updating the histogram function to use the `density` parameter instead of `normed`.
 - Defined requirements for analyzing cross-covariance terms in economic data to understand sectoral sales dynamics.
 

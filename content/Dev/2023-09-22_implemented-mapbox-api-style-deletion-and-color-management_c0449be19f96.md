@@ -32,7 +32,7 @@ generated: true
 
 **Achievements:**
 - Successfully implemented a method to manage and delete Mapbox styles efficiently.
-- Enhanced color management capabilities for [[data [[visualization]]]], ensuring accurate color representation.
+- Enhanced color management capabilities for [[data visualization]], ensuring accurate color representation.
 
 **Pending Tasks:**
 - Re-run tests with corrected variable definitions to validate the color extraction and manipulation functions.

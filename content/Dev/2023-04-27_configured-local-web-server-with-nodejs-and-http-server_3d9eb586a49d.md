@@ -25,7 +25,7 @@ generated: true
 The primary goal of this session was to set up a local web server using Node.js and the `http-server` package to serve and view local website files, specifically focusing on `.njk` files in an 11ty static site generator project.
 
 ### Key Activities
-- Developed a Nunjucks template for generating an XML sitemap within an 11ty project, including [[configuration]] and example code.
+- Developed a Nunjucks template for generating an XML sitemap within an 11ty project, including configuration and example code.
 - Provided a step-by-step guide to set up a local web server using Node.js and the `http-server` package.
 - Addressed the 'npm command not found' error, detailing the installation of npm and the `http-server` package.
 - Installed Node.js, including downloading from the official site and setting up environment variables on Linux.
@@ -35,11 +35,11 @@ The primary goal of this session was to set up a local web server using Node.js 
 
 ### Achievements
 - Successfully set up a local web server environment with Node.js and `http-server`, enabling the serving and viewing of `.njk` files in a browser.
-- Resolved common installation and [[configuration]] issues, ensuring smooth operation of the local server.
+- Resolved common installation and configuration issues, ensuring smooth operation of the local server.
 
 ### Pending Tasks
-- Further testing of the server [[configuration]] to ensure all file types are served correctly and efficiently.
-- Explore additional [[configuration]] options for `http-server` to enhance performance and security.
+- Further testing of the server configuration to ensure all file types are served correctly and efficiently.
+- Explore additional configuration options for `http-server` to enhance performance and security.
 
 ## Evidence
 

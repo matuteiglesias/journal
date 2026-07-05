@@ -27,7 +27,7 @@ The session aimed to develop a framework for a counterfactual advisor using cura
 ### Key Activities
 - **Counterfactual Advisor Framework**: Explored the concept of a counterfactual advisor, focusing on using past data with fixed parameters to avoid confabulation, and proposed methods for identifying valuable questions.
 - **Bash Command Execution**: Executed a bash command for [[file management]], specifically listing files and previewing Jinja2 templates.
-- **Accounting Document Classifier**: Reflected on an [[automation]] template for classifying accounting documents into structured [[JSON]].
+- **[[Accounting]] Document Classifier**: Reflected on an [[automation]] template for classifying [[accounting]] documents into structured [[JSON]].
 - **Job Market and Thesis Supervision Plan**: Created a daily plan for job market engagement and thesis supervision, detailing tasks and objectives.
 - **[[AI]] Implementation Specialist Application**: Drafted a job application emphasizing [[automation]] and [[AI]] systems experience.
 - **Recruitment Inquiry Response**: Developed a strategic response template for recruitment inquiries, focusing on professionalism and effective communication.

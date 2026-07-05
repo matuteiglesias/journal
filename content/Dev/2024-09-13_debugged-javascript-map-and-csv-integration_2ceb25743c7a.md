@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to debug and enhance the functionality of a JavaScript mapping application, specifically focusing on [[CSV]] data [[integration]] and map [[visualization]].
+The session aimed to debug and enhance the functionality of a JavaScript mapping application, specifically focusing on [[CSV]] data [[integration]] and map visualization.
 
 ### Key Activities
 - Utilized the `grep` command in Bash to search for occurrences of 'COMRIA' in project files, facilitating better code navigation and understanding.

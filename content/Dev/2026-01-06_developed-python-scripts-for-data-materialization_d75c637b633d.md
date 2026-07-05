@@ -30,7 +30,7 @@ The session aimed to develop and refine [[Python]] scripts for file handling, da
 - Developed scripts to read and process the contents of [[Python]] files, specifically targeting the 'materialize.py'.
 - Created code snippets for manifest and artifact checks, including regex for pattern detection.
 - Filtered [[Python]] script lines containing specific configurations and imports.
-- Built a materialization layer for an accounting pipeline, generating [[CSV]] outputs from a ledger [[DataFrame]].
+- Built a materialization layer for an [[accounting]] pipeline, generating [[CSV]] outputs from a ledger DataFrame.
 - Managed party catalogs and edge aggregation through [[Python]] functions.
 
 ### Achievements
@@ -38,7 +38,7 @@ The session aimed to develop and refine [[Python]] scripts for file handling, da
 - Enhanced understanding of data materialization processes and their implementation in [[Python]].
 
 ### Pending Tasks
-- Further testing and [[optimization]] of the materialization layer for the accounting pipeline.
+- Further testing and [[optimization]] of the materialization layer for the [[accounting]] pipeline.
 - [[Integration]] of developed scripts into existing data workflows.
 
 ## Evidence

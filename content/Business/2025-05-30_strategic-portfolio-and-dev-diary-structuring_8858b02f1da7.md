@@ -25,7 +25,7 @@ generated: true
 The session aimed to design a strategic framework for transforming raw work logs into curated portfolio artifacts and develop structured Build Logs and Dev Diaries for the first half of 2025.
 
 ### Key Activities
-- **Portfolio Management:** Developed a strategic architecture to convert work logs into knowledge-enhancing portfolio artifacts, focusing on [[automation]] and [[AI]]-driven processes.
+- **Portfolio Management:** Developed a strategic [[architecture]] to convert work logs into knowledge-enhancing portfolio artifacts, focusing on [[automation]] and [[AI]]-driven processes.
 - **Build Log Structuring:** Proposed a framework for consolidating diverse technical logs from January to May 2025 into cohesive Build Logs and Dev Diaries.
 - **Capability Narrative:** Outlined a [[strategy]] to transform backlog items into traceable proofs of capability, enhancing professional narratives and [[documentation]].
 

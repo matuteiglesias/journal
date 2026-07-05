@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal:
-The goal of this session was to enhance the [[visualization]] and analysis of graph data using [[Python]], focusing on both sparse and dense graphs.
+The goal of this session was to enhance the visualization and analysis of graph data using [[Python]], focusing on both sparse and dense graphs.
 
 ### Key Activities:
 - **Displaying Winners Table:** Modified [[Python]] code to display winners tables for sparse and dense graphs using [[pandas]], with styling to highlight winning methods.
@@ -32,11 +32,11 @@ The goal of this session was to enhance the [[visualization]] and analysis of gr
 - **LaTeX in [[Matplotlib]]:** Implemented LaTeX-style formatting in [[Matplotlib]] to handle special characters correctly.
 
 ### Achievements:
-- Successfully enhanced the [[visualization]] of graph data with improved styling and comparison plots.
+- Successfully enhanced the visualization of graph data with improved styling and comparison plots.
 - Gained insights into the time complexity of vertex removal in different graph representations.
 
 ### Pending Tasks:
-- Further exploration of alternative graph [[visualization]] techniques and their impact on performance analysis.
+- Further exploration of alternative graph visualization techniques and their impact on performance analysis.
 
 ## Evidence
 

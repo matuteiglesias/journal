@@ -25,7 +25,7 @@ generated: true
 The session aimed to execute and analyze regression and causal inference models using mock datasets to evaluate treatment effects, biases, and confounding variables.
 
 ### Key Activities
-- Developed a [[Python]] script for covariate analysis and [[visualization]], focusing on treatment types across regions.
+- Developed a [[Python]] script for covariate analysis and visualization, focusing on treatment types across regions.
 - Generated a mock dataset for regression analysis, including treatment and control groups.
 - Created an outline for a memo on violence information outcomes, detailing data quality and matching procedures.
 - Conducted quality assessment of a violence information dataset, highlighting data sources and limitations.

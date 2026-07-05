@@ -26,7 +26,7 @@ The session aimed to develop and enhance automated workflows for weather notific
 
 ### Key Activities
 - Conducted a [[workflow]] analysis of a lead nurturing system, focusing on [[AI]] [[integration]] and CRM updates.
-- Created an n8n [[workflow]] to send notifications for rain forecasts, including node [[configuration]] and testing.
+- Created an n8n [[workflow]] to send notifications for rain forecasts, including node configuration and testing.
 - Implemented a Function Node in n8n to filter weather data from OpenWeatherMap, targeting high rain probabilities.
 - Revised JavaScript code for processing weather forecasts in n8n, ensuring correct execution within the [[workflow]].
 - Expanded the [[workflow]] to include temperature-based notifications, using a Function Node to evaluate temperature thresholds and rain probabilities.

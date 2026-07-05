@@ -28,7 +28,7 @@ The session aimed to develop and enhance functions for stock price analysis, foc
 - Discussed investment strategies, particularly algorithmic trading and backtesting historical stock data.
 - Outlined a structured approach to developing investment strategies using [[Python]] and [[Pandas]].
 - Developed functions for stock price analysis, including data extraction, logarithmic transformation, linear modeling, and residual calculation.
-- Resolved date mismatch errors in [[DataFrame]] by ensuring proper date parsing.
+- Resolved date mismatch errors in DataFrame by ensuring proper date parsing.
 - Updated the `get_data_for_ticker` function to improve data retrieval.
 - Implemented the `add_residual_column` function to facilitate investment opportunity identification.
 - Calculated 3-year returns and added relevant columns to datasets for deeper financial analysis.

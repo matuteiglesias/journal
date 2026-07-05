@@ -28,9 +28,9 @@ The goal of this session was to implement efficient data loading and manipulatio
 - **Loading Datasets:** Utilized [[Pandas]] to load the first 5 rows of multiple datasets based on combinations of source, unit, and time, storing them in a dictionary.
 - **File Handling:** Implemented a [[Python]] loop to load datasets, checking for file existence to ensure robust [[data processing]].
 - **Data Iteration:** Iterated through datasets to print filenames and display grouped data, excluding specific columns.
-- **Group Analysis:** Used the `size()` method to display the sizes of groups within a [[DataFrame]]'s 'GID' column.
+- **Group Analysis:** Used the `size()` method to display the sizes of groups within a DataFrame's 'GID' column.
 - **Data Concatenation:** Demonstrated horizontal concatenation of DataFrames by unit, organizing them in a dictionary before concatenation.
-- **Column Naming:** Set filenames as column names during [[DataFrame]] concatenation for clearer organization.
+- **Column Naming:** Set filenames as column names during DataFrame concatenation for clearer organization.
 
 ### Achievements
 - Successfully loaded and manipulated datasets using [[Pandas]], enhancing [[data processing]] efficiency.

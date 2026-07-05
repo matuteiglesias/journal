@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to resolve issues related to YAML [[configuration]], specifically focusing on the `flow.dag.yaml` file's output structure and [[debugging]] related to LLM calls and schema validation.
+The session aimed to resolve issues related to YAML configuration, specifically focusing on the `flow.dag.yaml` file's output structure and [[debugging]] related to LLM calls and schema validation.
 
 ### Key Activities
 - **Fixing Output Structure**: Corrected the output structure in `flow.dag.yaml`, ensuring the `summary` field is accurately referenced from `llm_node.result`.

@@ -24,7 +24,7 @@ generated: true
 **Session Goal:** The session aimed to design a modular `KnowledgeBaseSync` component for a Gradio RAG application, focusing on efficient synchronization with ChromaDB and ensuring modularity from the UI.
 
 **Key Activities:**
-- Designed the architecture for a `KnowledgeBaseSync` component to enhance Gradio RAG app's functionality.
+- Designed the [[architecture]] for a `KnowledgeBaseSync` component to enhance Gradio RAG app's functionality.
 - Explored open-source tools for document ingestion and chunking, integrating with vector databases.
 - Reviewed Apache License 2.0 to ensure legal compliance in software development.
 - Discussed the transition from open source to productization, focusing on ethical considerations and value creation.

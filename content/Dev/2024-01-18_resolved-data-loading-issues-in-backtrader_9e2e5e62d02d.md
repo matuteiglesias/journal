@@ -29,7 +29,7 @@ The session aimed to troubleshoot and resolve data loading issues in the Backtra
 - Debugged the data feed length issue by revising the [[strategy]] to ensure correct data handling.
 - Modified the `ResidualsCSVData` class to read entire [[CSV]] files for time series data extraction.
 - Fixed a TypeError during the initialization of the `ResidualsCSVData` class by revising the code to correctly initialize the parent class with appropriate parameters.
-- Addressed a `None` parameter error in the `PandasData` class by ensuring a [[Pandas]] [[DataFrame]] is correctly passed to the superclass.
+- Addressed a `None` parameter error in the `PandasData` class by ensuring a [[Pandas]] DataFrame is correctly passed to the superclass.
 
 ### Achievements
 - Successfully resolved data loading and initialization errors in the `ResidualsCSVData` and `PandasData` classes in Backtrader.

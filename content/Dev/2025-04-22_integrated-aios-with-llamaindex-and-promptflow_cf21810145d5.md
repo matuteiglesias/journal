@@ -25,7 +25,7 @@ generated: true
 The session aimed to explore and plan the [[integration]] of AIOS with LlamaIndex and [[PromptFlow]] to enhance [[AI]] infrastructure and [[workflow]] orchestration.
 
 ### Key Activities
-1. **Transition to Platform Architect with AIOS**: Discussed the shift from traditional OS development to platform architecture, emphasizing governance and semantic memory for [[AI]] agents.
+1. **Transition to Platform Architect with AIOS**: Discussed the shift from traditional OS development to platform [[architecture]], emphasizing governance and semantic memory for [[AI]] agents.
 2. **Strategic Alignment for AIOS and [[PromptFlow]]**: Outlined strategic [[integration]] roles and responsibilities to maximize capabilities in a modular runtime environment.
 3. **Integrating LlamaIndex**: Provided instructions on enhancing [[AI]] infrastructure with LlamaIndex, focusing on agent [[workflow]] and memory management.
 4. **Flowpower Overview**: Introduced Flowpower as a modular [[AI]] [[workflow]] orchestrator built on [[PromptFlow]], facilitating complex LLM workflows.

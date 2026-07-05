@@ -28,7 +28,7 @@ The primary goal of this session was to develop and enhance features for a Teleg
 - **Telegram Bot Implementation**: Created a minimal Telegram bot using [[Python]], including a guide for local setup and BotFather tasks.
 - **VS Code [[Productivity]]**: Explored methods to access keyboard shortcuts in VS Code to improve development efficiency.
 - **Data Storage Solutions**: Discussed using [[CSV]] with [[pandas]] for data storage in a single-user bot, providing implementation examples.
-- **BotFather [[Configuration]]**: Outlined settings for a self-pinging bot and explored advanced BotFather menu features.
+- **BotFather Configuration**: Outlined settings for a self-pinging bot and explored advanced BotFather menu features.
 - **[[API]] [[Integration]] Fixes**: Adjusted code for SQLite and [[CSV]] store [[API]] [[integration]], providing corrected examples.
 - **[[Python]] Script Updates**: Updated Telegram bot scripts for compatibility with [[python]]-telegram-bot v21.x, including JobQueue usage.
 - **[[Error Handling]]**: Addressed function call mismatches and event loop issues in [[Python]], offering refactored code solutions.

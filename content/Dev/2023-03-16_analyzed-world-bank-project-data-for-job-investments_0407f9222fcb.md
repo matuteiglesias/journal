@@ -30,7 +30,7 @@ The session aimed to explore and analyze World Bank project data to identify job
 - **[[Data Processing]]**: Executed [[Python]] scripts using [[pandas]] to load, process, and filter World Bank project data, specifically targeting projects approved after January 1, 2000, in Africa and Asia.
 - **Project Analysis**: Analyzed project data to display counts of projects by region and lending instrument, and examined project development objectives.
 - **Sampling and Export**: Created dataframes for project and location information, and exported results to [[CSV]] files.
-- **[[Optimization]]**: Improved [[data processing]] efficiency by optimizing [[dataframe]] merging and grouping operations.
+- **[[Optimization]]**: Improved [[data processing]] efficiency by optimizing dataframe merging and grouping operations.
 
 ### Achievements
 - Successfully processed and analyzed World Bank project data, focusing on job-related investments in Africa and Asia.

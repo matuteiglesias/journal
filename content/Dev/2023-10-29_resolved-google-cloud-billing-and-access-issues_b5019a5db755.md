@@ -25,7 +25,7 @@ generated: true
 The session aimed to resolve various issues related to Google Cloud, including billing account problems, IAM permissions, and storage access.
 
 ### Key Activities
-- Updated the 'NOMDPTO' column in a [[pandas]] [[DataFrame]] using [[Python]].
+- Updated the 'NOMDPTO' column in a [[pandas]] DataFrame using [[Python]].
 - Uploaded files to Google Cloud and generated HTML tables from [[pandas]] DataFrames.
 - Set up Google Cloud CLI authentication and resolved billing account issues.
 - Checked and updated IAM permissions to resolve billing issues.

@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to debug and enhance a trading [[strategy]] using Backtrader, focusing on data fetching, [[error handling]], and [[visualization]].
+The session aimed to debug and enhance a trading [[strategy]] using Backtrader, focusing on data fetching, [[error handling]], and visualization.
 
 ### Key Activities
 - **[[Debugging]] OLSResiduals Indicator:** Addressed issues with an unpopulated `prices` array by [[troubleshooting]] data feed loading, verifying the window period, and refining data fetching methods.
@@ -36,7 +36,7 @@ The session aimed to debug and enhance a trading [[strategy]] using Backtrader, 
 ### Achievements
 - Successfully debugged the `OLSResiduals` indicator and improved data fetching methods.
 - Enhanced [[error handling]] and [[data processing]] in the trading [[strategy]].
-- Implemented advanced plotting techniques for better [[visualization]] of trading results.
+- Implemented advanced plotting techniques for better visualization of trading results.
 
 ### Pending Tasks
 - Further testing of the modified trading [[strategy]] to ensure robustness.

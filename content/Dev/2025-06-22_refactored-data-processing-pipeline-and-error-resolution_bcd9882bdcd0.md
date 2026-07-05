@@ -28,10 +28,10 @@ The session aimed to enhance the [[data processing]] pipeline by improving merge
 - **Improved Merge Logic**: Enhanced the merge logic in [[data processing]] scripts by using a unique identifier (`index_id`) instead of ambiguous titles, ensuring data quality and integrity.
 - **Reconstructed RSS Index**: Developed a method to rebuild the `rss_index` from the `master_ref.[[csv]]`, ensuring accurate data retrieval using unique identifiers.
 - **Code Review**: Conducted a detailed review of the `rss_index` and `article_key` construction, addressing ambiguity issues and ensuring key compatibility.
-- **Error Diagnosis**: Diagnosed and solved a [[DataFrame]] error related to the missing 'index_id' column, proposing a robust solution to check for its existence before merging.
+- **Error Diagnosis**: Diagnosed and solved a DataFrame error related to the missing 'index_id' column, proposing a robust solution to check for its existence before merging.
 - **Pipeline [[Refactoring]]**: Suggested [[refactoring]] of the data enrichment pipeline to separate responsibilities and eliminate code duplication.
-- **Error Resolution**: Addressed type errors in [[DataFrame]] key generation by ensuring type consistency during concatenation.
-- **Conflict Resolution**: Solved naming conflicts in [[DataFrame]] merges by ensuring the correct generation of 'index_id' and implementing defensive checks and data cleaning.
+- **Error Resolution**: Addressed type errors in DataFrame key generation by ensuring type consistency during concatenation.
+- **Conflict Resolution**: Solved naming conflicts in DataFrame merges by ensuring the correct generation of 'index_id' and implementing defensive checks and data cleaning.
 
 ### Achievements
 - Successfully refactored the [[data processing]] pipeline, improving efficiency and reducing errors.

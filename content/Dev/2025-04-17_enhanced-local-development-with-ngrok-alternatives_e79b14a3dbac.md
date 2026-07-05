@@ -25,7 +25,7 @@ generated: true
 The session aimed to explore methods for exposing local development servers using tools like ngrok and its alternatives, as well as improving [[workflow]] in Next.js projects and [[Git]] repository management.
 
 ### Key Activities
-- **Exposing Local Servers**: Discussed the use of ngrok and alternatives such as LocalTunnel, Cloudflare Tunnel, Tailscale, and ZeroTier for exposing local frontend and backend servers. Covered potential issues like CORS and provided [[configuration]] tips.
+- **Exposing Local Servers**: Discussed the use of ngrok and alternatives such as LocalTunnel, Cloudflare Tunnel, Tailscale, and ZeroTier for exposing local frontend and backend servers. Covered potential issues like CORS and provided configuration tips.
 - **React Modules in Next.js**: Reviewed installed React modules in a Next.js project, categorized by UI & Styling, React + UI Components, and others.
 - **Prompt Modularization**: Explored prompt modularization in [[AI]] systems using `.prompty` files to enhance transparency and user experience.
 - **Frontend [[Deployment]]**: Outlined [[deployment]] options for Next.js frontends, including static hosting and full app serving with [[API]] support. Included commands and [[git]] best practices.

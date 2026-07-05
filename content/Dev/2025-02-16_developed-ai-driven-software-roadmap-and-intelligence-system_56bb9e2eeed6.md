@@ -26,7 +26,7 @@ The session aimed to enhance software development processes and professional gro
 
 ### Key Activities
 - Outlined a structured development roadmap process for software repositories, involving repository analysis and [[workflow]] [[automation]].
-- Improved prompt design for [[AI]] repository analysis, focusing on technical architecture, feature exploration, and code quality.
+- Improved prompt design for [[AI]] repository analysis, focusing on technical [[architecture]], feature exploration, and code quality.
 - Created a refined [[AI]]-driven roadmap planning prompt to guide [[project management]] and development goal structuring.
 - Developed a comprehensive [[strategy]] for building intelligence-driven professional growth systems using Langflow workflows, emphasizing data [[integration]] and [[automation]].
 - Explored topic modeling for Google News feeds, discussing algorithms, preprocessing, and evaluation metrics.

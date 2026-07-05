@@ -26,7 +26,7 @@ The session aimed to develop a structured framework for documenting a university
 
 **Key Activities:**
 - Outlined key features and structures for a Hugo-based [[documentation]] page, focusing on user experience and navigation.
-- Proposed a structured approach to organizing the [[documentation]] project, including data structures and information architecture.
+- Proposed a structured approach to organizing the [[documentation]] project, including data structures and information [[architecture]].
 - Discussed examples and workflows for implementing the [[documentation]] framework.
 
 **Achievements:**

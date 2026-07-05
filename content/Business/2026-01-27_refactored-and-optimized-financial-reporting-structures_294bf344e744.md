@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The primary aim of this session was to refactor and optimize various components of financial reporting, focusing on [[data [[visualization]]]], cashflow reports, and stakeholder communication.
+The primary aim of this session was to refactor and optimize various components of financial reporting, focusing on [[data visualization]], cashflow reports, and stakeholder communication.
 
 ### Key Activities
 - Refactored the `build_fig` function for cashflow reports to separate figures by currency and set default parameters for registry updates.

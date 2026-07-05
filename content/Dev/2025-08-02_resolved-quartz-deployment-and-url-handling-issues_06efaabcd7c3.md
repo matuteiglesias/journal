@@ -30,7 +30,7 @@ The session aimed to resolve various issues related to Quartz [[deployment]], in
 - Debugged internal links in Quartz v4+ by using local build commands and manual validation scripts.
 - Fixed a Node.js script for Markdown file processing by skipping directories and improving [[error handling]].
 - Diagnosed and fixed issues with Quartz's generation of relative internal links, particularly for Vercel deployments.
-- Resolved a [[configuration]] error in the Quartz plugin related to the `baseUrl` setting.
+- Resolved a configuration error in the Quartz plugin related to the `baseUrl` setting.
 - Fixed URL construction errors in the `404.tsx` plugin and `Head` component by handling `baseUrl` correctly.
 - Provided a corrected implementation for handling `baseUrl` and domain configurations in TypeScript.
 - Addressed a specific error with the `URL` constructor in JavaScript, ensuring valid absolute URLs.

@@ -25,7 +25,7 @@ generated: true
 The session aimed to integrate task attributes with a [[Pandas]] time series to enhance data manipulation capabilities.
 
 ### Key Activities
-- Developed a method to extract task names from a [[Pandas]] time series and merge it with a tasks [[DataFrame]] to retrieve additional attributes such as categories.
+- Developed a method to extract task names from a [[Pandas]] time series and merge it with a tasks DataFrame to retrieve additional attributes such as categories.
 - Created a [[Pandas]] `DatetimeIndex` for half-hour intervals, formatted in 12-hour clock style.
 - Analyzed a structured daily schedule to improve [[productivity]] and [[workflow]] balance.
 - Designed a follow-up email template for addressing Discourse onboarding access issues.

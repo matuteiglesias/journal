@@ -31,7 +31,7 @@ The session aimed to conduct a comprehensive analysis of personal web presence, 
 - Analyzed job market positioning, [[workflow]] management, editorial systems, and financial governance.
 - Evaluated technical cleanup and [[workflow]] assessment with a focus on [[automation]] and script [[optimization]].
 - Conducted a job-market intensive session analysis, refining application materials and self-positioning for [[AI]] and software roles.
-- Reviewed career architecture activities, focusing on CV [[optimization]] and role fit assessments.
+- Reviewed career [[architecture]] activities, focusing on CV [[optimization]] and role fit assessments.
 - Transitioned to execution mode in job search, detailing strategies and [[automation]] priorities.
 - Advanced [[AI]]-assisted job [[strategy]] and LinkedIn [[automation]] using Selenium.
 

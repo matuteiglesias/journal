@@ -28,7 +28,7 @@ The session aimed to design a minimal EmailWatcher agent, explore the developmen
 - **EmailWatcher Agent**: Reflected on the core design principles for a minimal EmailWatcher agent focusing on simplicity and effectiveness.
 - **Gmail-Embedded Sales Copilot**: Planned the development of an autocomplete system for Gmail using open-source software, inspired by [[GitHub]] Copilot, to enhance email [[productivity]].
 - **[[GitHub]] Copilot Research**: Investigated [[GitHub]] Copilot's [[integration]] in VS Code to inform the Gmail autocomplete system's design.
-- **Event Bus Design**: Compared Redis Pub/Sub and RabbitMQ for event bus architecture, providing a decision framework based on speed, simplicity, and scalability.
+- **Event Bus Design**: Compared Redis Pub/Sub and RabbitMQ for event bus [[architecture]], providing a decision framework based on speed, simplicity, and scalability.
 - **[[AI]] Autocomplete for Gmail**: Developed a strategic plan for a Gmail autocomplete feature, focusing on real-time suggestions and user privacy.
 - **Scientific Event Bus Design**: Outlined the design for an ultra-simple scientific event bus, ensuring operational efficiency and scalability.
 
@@ -40,7 +40,7 @@ The session aimed to design a minimal EmailWatcher agent, explore the developmen
 
 ### Pending Tasks
 - Further research and prototype development for the Gmail autocomplete system.
-- Implementation of the chosen event bus architecture based on the decision framework.
+- Implementation of the chosen event bus [[architecture]] based on the decision framework.
 
 ## Evidence
 

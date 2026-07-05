@@ -26,7 +26,7 @@ The session aimed to compile and reflect on thematic and sprint summaries for re
 
 ### Key Activities
 - Conducted a thematic summary of work sessions, organizing them by thematic focus and estimating time spent.
-- Provided a detailed breakdown of sessions related to the AIOS [[Python]] project, including architecture and agent design.
+- Provided a detailed breakdown of sessions related to the AIOS [[Python]] project, including [[architecture]] and agent design.
 - Summarized work sessions in the Matías [[Automation]] Lab, covering flow design, [[debugging]], and enhancements.
 - Logged strategies for [[AI]] consultancy growth, focusing on [[SEO]], content strategies, and market research.
 - Compiled summaries for Terra Agents and Email Agent Development, detailing SDK structure and security analyses.

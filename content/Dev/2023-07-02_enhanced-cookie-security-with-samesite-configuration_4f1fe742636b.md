@@ -38,7 +38,7 @@ The primary goal of this session was to enhance the security and privacy of web 
 - Clarified the process for modifying cookie attributes in both server-side and client-side contexts.
 
 ### Pending Tasks:
-- Further analysis of the website's architecture may be needed to ensure comprehensive cookie management, especially if third-party libraries are involved.
+- Further analysis of the website's [[architecture]] may be needed to ensure comprehensive cookie management, especially if third-party libraries are involved.
 
 ## Evidence
 

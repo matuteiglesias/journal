@@ -25,7 +25,7 @@ generated: true
 The session aimed to address various challenges related to processing and saving [[CSV]] transaction data from Erste bank accounts.
 
 ### Key Activities
-- **[[Error Handling]] in [[DataFrame]] Access**: Resolved a column access error in a [[DataFrame]] by modifying the code and suggesting pre-slicing column verification.
+- **[[Error Handling]] in DataFrame Access**: Resolved a column access error in a DataFrame by modifying the code and suggesting pre-slicing column verification.
 - **Transaction Structure Review**: Evaluated a canonical transaction structure, identifying strengths and areas for improvement.
 - **[[CSV]] Parsing and Saving**: Developed a script to parse multiple [[CSV]] files from Erste accounts, assign metadata, and save cleaned data.
 - **Encoding Detection**: Implemented automatic encoding detection for [[CSV]] files to prevent UnicodeDecodeErrors.

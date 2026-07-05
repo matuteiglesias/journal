@@ -30,12 +30,12 @@ The session aimed to streamline the conversion and [[integration]] of academic c
 3. Conducted a critical analysis of thesis transformation outputs to improve [[Docusaurus]] [[integration]].
 4. Enhanced readability and [[SEO]] in text transformations, focusing on academic writing.
 5. Set up [[Docusaurus]] for Markdown [[integration]], including sidebar management and local development [[workflow]].
-6. Addressed LaTeX and JavaScript [[configuration]] issues in [[Docusaurus]], ensuring proper math rendering and MDX parsing.
+6. Addressed LaTeX and JavaScript configuration issues in [[Docusaurus]], ensuring proper math rendering and MDX parsing.
 
 **Achievements:**
 - Successfully created a [[workflow]] for converting and integrating Markdown content into [[Docusaurus]].
 - Improved the efficiency of LLM functions and enhanced academic content transformation.
-- Resolved critical [[configuration]] and parsing issues in [[Docusaurus]].
+- Resolved critical configuration and parsing issues in [[Docusaurus]].
 
 **Pending Tasks:**
 - Further refine the LaTeX to Markdown conversion process to handle complex academic documents.

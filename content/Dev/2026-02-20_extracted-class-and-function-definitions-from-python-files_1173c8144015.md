@@ -27,7 +27,7 @@ The session aimed to extract specific class and function definitions from [[Pyth
 ### Key Activities
 - Utilized the `re` module and `pathlib` library to read [[Python]] files and extract data class definitions.
 - Demonstrated the extraction of a class named 'Event' from a [[Python]] file, showcasing code location techniques.
-- Showcased methods for extracting function definitions from [[configuration]] files using regular expressions.
+- Showcased methods for extracting function definitions from configuration files using regular expressions.
 - Implemented file reading and text extraction to analyze class structures, specifically the 'Session' class.
 
 ### Achievements

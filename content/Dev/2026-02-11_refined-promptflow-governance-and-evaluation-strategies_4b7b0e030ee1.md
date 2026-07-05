@@ -27,7 +27,7 @@ The session aimed to refine governance and evaluation strategies within [[Prompt
 **Key Activities:**
 - Developed a structured [[workflow]] for parsing prompt artifacts, focusing on path normalization and duplicate handling.
 - Analyzed [[PromptFlow]] templates, distinguishing between vendor scaffolding and operational prompts, and suggested structural improvements.
-- Explored Jinja2 prompts architecture in [[PromptFlow]], emphasizing [[data management]] and governance strategies.
+- Explored Jinja2 prompts [[architecture]] in [[PromptFlow]], emphasizing [[data management]] and governance strategies.
 - Discussed [[optimization]] of governance primitives like contracts and gates in [[PromptFlow]].
 - Identified duplicate vendor templates and introduced new evaluation prompts from the terra-0429 repository for quality assessment.
 - Introduced new evaluation prompts for summarization and RAG, including a utility template for context precision.

@@ -28,7 +28,7 @@ The session aimed to design and implement scripts for creating executive snapsho
 - **Designing Executive Snapshot Tables**: Developed a structured approach to create snapshot tables for business metrics, focusing on stability, clarity, and output formats.
 - **[[File Management]] in [[Python]]**: Implemented code snippets to list files in directories and read [[CSV]] files using [[pandas]], laying the groundwork for further [[data processing]].
 - **Snapshot Materialization Script**: Provided an overview and implementation of a [[Python]] script to materialize snapshot tables from various metric artifacts, ensuring proper handling of missing metrics.
-- **Human Balance Document Factory**: Developed a script to generate balance reports by processing accounting metrics, creating outputs in [[CSV]] and HTML formats. This was integrated into the existing reporting infrastructure.
+- **Human Balance Document Factory**: Developed a script to generate balance reports by processing [[accounting]] metrics, creating outputs in [[CSV]] and HTML formats. This was integrated into the existing reporting infrastructure.
 
 ### Achievements
 - Successfully designed and implemented scripts for generating snapshot tables and balance documents.

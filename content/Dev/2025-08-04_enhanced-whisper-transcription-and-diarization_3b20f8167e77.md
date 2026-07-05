@@ -29,13 +29,13 @@ The session aimed to improve transcription quality and diarization using the Whi
 - Assessed transcription quality issues in Spanish audio, recommending a switch to a multilingual model for better accuracy.
 - Explored leveraging diarization for automatic speech recognition (ASR) to enhance transcription segmentation.
 - Conducted a quality assessment of transcription outputs, comparing diarization-driven small-model runs against web app outputs.
-- Outlined an end-to-end architecture for audio/video processing, converting content into [[AI]]-curated Markdown pages.
+- Outlined an end-to-end [[architecture]] for audio/video processing, converting content into [[AI]]-curated Markdown pages.
 - Developed a robust ingestion pipeline for daily content harvesting, including subscription management and a daily scheduler.
 
 ### Achievements
 - Successfully updated the Whisper transcription settings to improve segment output.
 - Identified and recommended solutions for transcription quality issues in Spanish audio.
-- Established a scalable architecture for audio/video content processing.
+- Established a scalable [[architecture]] for audio/video content processing.
 
 ### Pending Tasks
 - Implement the recommended switch to a multilingual model for Spanish audio transcription.

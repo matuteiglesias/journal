@@ -33,7 +33,7 @@ The session aimed to review and optimize [[Python]] scripts for data aggregation
 
 ### Achievements
 - Improved [[Python]] scripts for data aggregation and manipulation, enhancing performance and code quality.
-- Successfully installed and configured essential software on Ubuntu, resolving dependency and [[configuration]] issues.
+- Successfully installed and configured essential software on Ubuntu, resolving dependency and configuration issues.
 - Established a robust [[Python]] development environment using Anaconda and Visual Studio Code.
 
 ### Pending Tasks

@@ -36,7 +36,7 @@ The primary goal of this session was to address and resolve various [[Python]] e
 ### Achievements
 - Successfully resolved [[Python]] import and environment setup issues.
 - Established a streamlined process for [[AI]] agent tool [[integration]] and [[deployment]].
-- Enhanced understanding of Cerebrum SDK's modular architecture and agent execution.
+- Enhanced understanding of Cerebrum SDK's modular [[architecture]] and agent execution.
 
 ### Pending Tasks
 - Further testing and validation of [[AI]] agent [[deployment]] on Hugging Face Spaces.

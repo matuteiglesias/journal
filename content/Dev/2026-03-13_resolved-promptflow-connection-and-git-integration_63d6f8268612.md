@@ -25,8 +25,8 @@ generated: true
 The session aimed to address technical issues related to [[PromptFlow]] and [[Git]] [[integration]], focusing on resolving a connection error in [[PromptFlow]], adapting repositories, updating system components post-migration, and managing [[Git]] branches effectively.
 
 ### Key Activities
-- **[[PromptFlow]] Connection Resolution**: Detailed instructions were followed to resolve a local connection error in [[PromptFlow]] by utilizing a YAML file for [[configuration]] instead of [[JSON]].
-- **Repository Adaptation**: Steps were taken to align the repository with the local [[PromptFlow]] environment, including runtime [[configuration]] and keyring management.
+- **[[PromptFlow]] Connection Resolution**: Detailed instructions were followed to resolve a local connection error in [[PromptFlow]] by utilizing a YAML file for configuration instead of [[JSON]].
+- **Repository Adaptation**: Steps were taken to align the repository with the local [[PromptFlow]] environment, including runtime configuration and keyring management.
 - **Codex Instructions**: Updated [[project management]] tasks for Codex, prioritizing export adapters and avoiding progression to PR4 until versioned buses are stable.
 - **System Updates**: Updated prompt registry entries and checked systemd units for outdated paths post-migration.
 - **[[Git]] [[Strategy]]**: Developed a [[strategy]] for merging [[Git]] branches, focusing on creating a clean [[integration]] branch, running tests, and performing post-merge cleanup.

@@ -27,9 +27,9 @@ The session aimed to execute and document smoke test commands for various [[auto
 ### Key Activities
 - Documented commands for running smoke tests across different configurations, focusing on [[automation]] workflows.
 - Listed commands for simulation and triage processes using specific scripts and configurations.
-- Executed smoke tests using a specified [[configuration]] file to validate system functionality across environments.
+- Executed smoke tests using a specified configuration file to validate system functionality across environments.
 - Explored command queries related to email processing scripts, detailing necessary parameters and configurations.
-- Addressed queries on email processing, including parsing, fetching, and storing emails, and handling [[configuration]] settings.
+- Addressed queries on email processing, including parsing, fetching, and storing emails, and handling configuration settings.
 
 ### Achievements
 - Successfully documented and executed smoke test commands for [[automation]] workflows.

@@ -22,21 +22,21 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to explore and execute [[automation]] tasks related to [[data processing]] using Makefile and [[Python]] scripts, focusing on the digests module toolbox.
+The session aimed to explore and execute [[automation]] tasks related to [[data processing]] using [[Makefile]] and [[Python]] scripts, focusing on the digests module toolbox.
 
 ### Key Activities
 - Reviewed the capabilities of the digests module toolbox, including its functionality related to kb contracts, CLI commands, and event handling within bags pipelines.
-- Executed Makefile targets and [[Python]] script commands for automating [[data processing]] tasks, such as installation, publishing, indexing, and digest generation.
+- Executed [[Makefile]] targets and [[Python]] script commands for automating [[data processing]] tasks, such as installation, publishing, indexing, and digest generation.
 - Conducted queries related to the kbctl tool, focusing on command definitions and validation processes within specific [[Python]] scripts.
-- Explored Makefile operations for [[project management]], focusing on tasks like digesting projects, validating builds, and managing logs.
-- Outlined various Makefile commands and their corresponding targets, including installation, formatting, linting, testing, and executing the kbctl command.
+- Explored [[Makefile]] operations for [[project management]], focusing on tasks like digesting projects, validating builds, and managing logs.
+- Outlined various [[Makefile]] commands and their corresponding targets, including installation, formatting, linting, testing, and executing the kbctl command.
 - Executed queries for [[data processing]] scripts, including commands for materializing bags, unitizing data, ingesting logs, and building indices.
 - Conducted [[automation]] queries for validating manifests, managing L2 digests, and selecting/tagging units based on specified criteria.
 - Reviewed [[Python]] script queries for processing and manipulating data related to units, sessions, and tags.
 - Detailed the functionalities of the digests toolbox for building Units from a corpus, hydrating these Units into compilations, and rendering inspection artifacts.
 
 ### Achievements
-- Successfully outlined and executed [[automation]] tasks using Makefile and [[Python]] scripts, enhancing the efficiency of [[data processing]] workflows.
+- Successfully outlined and executed [[automation]] tasks using [[Makefile]] and [[Python]] scripts, enhancing the efficiency of [[data processing]] workflows.
 - Clarified the functionalities of the digests module toolbox and its [[integration]] with knowledge management processes.
 
 ### Pending Tasks

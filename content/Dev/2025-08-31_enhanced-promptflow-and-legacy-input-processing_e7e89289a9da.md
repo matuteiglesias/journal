@@ -29,7 +29,7 @@ The session aimed to enhance the processing of [[PromptFlow]] (PF) inputs and ou
 - Developed [[Python]] scripts for processing digest data into markdown and JSONL formats.
 - Updated [[PromptFlow]] configurations to handle digest-level data with YAML configurations.
 - Debugged issues with digest ID retrieval in [[Python]] scripts and improved error logging for [[JSON]]-line loaders.
-- Integrated [[PromptFlow]] CLI with Makefile for streamlined [[data processing]].
+- Integrated [[PromptFlow]] CLI with [[Makefile]] for streamlined [[data processing]].
 - Enhanced systemd scripts for robust media monitoring [[automation]] and environment management.
 
 ### Achievements

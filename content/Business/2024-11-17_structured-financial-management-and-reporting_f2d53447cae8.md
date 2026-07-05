@@ -28,7 +28,7 @@ The session aimed to establish a comprehensive framework for managing and report
 - Developed a structured approach to divide monthly expenses among family members, including a communication [[strategy]] for transparency.
 - Outlined a method for organizing shared living costs using Google Sheets and [[automation]] tools.
 - Created a comprehensive plan for managing household finances as a family business, detailing income, expenses, and roles.
-- Designed interconnected accounting systems for household and ownership accounting, focusing on income, expenses, and reporting.
+- Designed interconnected [[accounting]] systems for household and ownership [[accounting]], focusing on income, expenses, and reporting.
 - Structured a financial ledger for household and property management, including transaction categorization and dashboard creation.
 - Integrated household expenses with business operations using detailed tables and Google Sheets.
 - Proposed naming conventions for Google Sheets tables to enhance data organization.

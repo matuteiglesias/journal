@@ -32,7 +32,7 @@ The session aimed to evaluate architectural design choices between Directed Acyc
 - **Guidelines for PythonBlock Protocol**: Defined best practices for PythonBlock execution contracts.
 - **Developer Experience**: Planned strategies for enhancing developer tools with validation and feedback.
 - **Empathetic [[Debugging]]**: Suggested creating 'FriendlyErrorCatcher' for better [[debugging]] experiences.
-- **OpenAI Tool Provider in [[PromptFlow]]**: Reviewed the architecture and features of a modular tool adapter for OpenAI [[integration]].
+- **OpenAI Tool Provider in [[PromptFlow]]**: Reviewed the [[architecture]] and features of a modular tool adapter for OpenAI [[integration]].
 
 ### Achievements
 - Clarified when to use DAGs vs Flex Flows and proposed enhancements for DAGs.

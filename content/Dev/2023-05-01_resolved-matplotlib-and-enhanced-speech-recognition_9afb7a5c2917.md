@@ -32,7 +32,7 @@ The session aimed to resolve errors with the [[Matplotlib]] `pyplot` module and 
 - **[[Error Handling]]**: Investigated the `UnknownValueError` in Google’s [[API]] and improved audio quality for better recognition results.
 
 ### Achievements
-- Successfully resolved [[Matplotlib]] errors, enabling smooth [[data [[visualization]]]] workflows.
+- Successfully resolved [[Matplotlib]] errors, enabling smooth [[data visualization]] workflows.
 - Implemented a robust audio processing pipeline for speech recognition, including format conversion and transcription.
 
 ### Pending Tasks

@@ -28,7 +28,7 @@ The objective of this session was to enhance and refactor [[Python]] code relate
 - Developed a [[Python]] function to transform income data into poverty metrics, including detailed [[documentation]] and tracking of data size.
 - Suggested descriptive function names to improve code clarity.
 - Resolved a TypeError in [[Python]] by converting a string to a float.
-- Calculated means for float columns in a [[DataFrame]] to provide statistical insights.
+- Calculated means for float columns in a DataFrame to provide statistical insights.
 - Split income data into household and individual datasets, incorporating geographical merges.
 - Analyzed datasets for common and unique columns, sizes, and unique values.
 - Reviewed functions for consistency and syntax errors, removing unused parameters.

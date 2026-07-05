@@ -21,11 +21,11 @@ generated: true
 
 ## Description
 
-**Session Goal:** The session aimed to design and implement a robust framework for event bus architecture and client [[integration]], focusing on consistency, reliability, and efficiency in event-driven systems.
+**Session Goal:** The session aimed to design and implement a robust framework for event bus [[architecture]] and client [[integration]], focusing on consistency, reliability, and efficiency in event-driven systems.
 
 **Key Activities:**
 1. Defined the structure for a daily event bus manifest [[JSON]], ensuring consistency in event logging.
-2. Outlined a reliable event bus architecture, emphasizing a local append-only store as the ground truth.
+2. Outlined a reliable event bus [[architecture]], emphasizing a local append-only store as the ground truth.
 3. Set up a shared 'bus home' directory structure for managing event data.
 4. Developed a complete codebase for a thin local bus host with a command-line interface.
 5. Initialized a new repository for the 'buses_host' project using a bash script.

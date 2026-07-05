@@ -27,7 +27,7 @@ The session aimed to implement a command-line interface (CLI) for the eph-extrac
 ### Key Activities
 - Developed CLI commands: 'fetch', 'verify', and 'extract', each handling specific tasks related to [[data management]].
 - Implemented a downloader script to facilitate the downloading and extraction of quarterly data files from the INDEC server.
-- Corrected the `download_quarter` function to improve [[error handling]], file naming, and [[configuration]] loading.
+- Corrected the `download_quarter` function to improve [[error handling]], file naming, and configuration loading.
 - Updated [[Python]] code for better file handling and extraction, enhancing user feedback with logging messages.
 - Proposed improvements for organizing the `raw/eph/` directory, including creating quarterly subdirectories and an automated cleanup script.
 - Detailed a CLI command function for downloading and processing quarterly data, managing metadata, and performing optional cleanup.

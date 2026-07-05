@@ -22,7 +22,7 @@ generated: true
 ## Description
 
 ### Session Goal
-The session aimed to enhance [[data processing]] capabilities by developing functions to summarize and filter [[DataFrame]] artifacts, ensuring data integrity and structure consistency.
+The session aimed to enhance [[data processing]] capabilities by developing functions to summarize and filter DataFrame artifacts, ensuring data integrity and structure consistency.
 
 ### Key Activities
 - Implemented a function to summarize the structure of artifacts in DataFrames, focusing on different file types such as [[CSV]] and [[JSON]].
@@ -33,7 +33,7 @@ The session aimed to enhance [[data processing]] capabilities by developing func
 - Addressed tech lead directives on artifact integrity and data structure, including checks for missing run IDs and standardizing naming conventions.
 
 ### Achievements
-- Successfully developed and executed functions for summarizing and filtering [[DataFrame]] artifacts.
+- Successfully developed and executed functions for summarizing and filtering DataFrame artifacts.
 - Improved data governance by implementing checks for artifact integrity and consistency.
 
 ### Pending Tasks

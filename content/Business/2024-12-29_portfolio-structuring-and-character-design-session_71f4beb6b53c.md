@@ -40,7 +40,7 @@ The session aimed to structure a programming portfolio and design cartoon charac
 
 **Pending Tasks:**
 - Further refinement and feedback on the cartoon character designs.
-- Additional testing and [[debugging]] for the contact form email [[configuration]].
+- Additional testing and [[debugging]] for the contact form email configuration.
 - Continued exploration of color palette tools for UI enhancements.
 
 ## Evidence

@@ -31,8 +31,8 @@ The primary objective of this session was to enhance observability and debug iss
 - Debugged event logging issues by refining configurations and improving data collection.
 - Provided a simulated [[CSV]] dataset for testing event funnels and acceptance rates.
 - Offered feedback on enhancing observability snapshots by improving metrics and data feedback loops.
-- Configured observability settings for the Pingbot project, including YAML [[configuration]] files.
-- Resolved [[DataFrame]] to Series conversion errors in [[Python]] by providing alternative solutions.
+- Configured observability settings for the Pingbot project, including YAML configuration files.
+- Resolved DataFrame to Series conversion errors in [[Python]] by providing alternative solutions.
 - Guided the population of backlog and CRM CSVs for comprehensive observability.
 - Ensured consistency in [[CSV]] file fixtures for observability reporting.
 - Fixed data directory issues in [[Python]] scripts to improve [[data management]] and logging.

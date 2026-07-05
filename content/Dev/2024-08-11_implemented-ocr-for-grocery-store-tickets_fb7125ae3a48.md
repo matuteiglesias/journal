@@ -26,7 +26,7 @@ The primary goal of this session was to implement Optical Character Recognition 
 
 ### Key Activities
 - **Planning & Setup**: Initiated the session with a plan to use Tesseract OCR in [[Python]] for processing grocery store tickets.
-- **Language [[Configuration]]**: Addressed issues with Spanish language data files for Tesseract, providing guidance on setting up Spanish language support.
+- **Language Configuration**: Addressed issues with Spanish language data files for Tesseract, providing guidance on setting up Spanish language support.
 - **Exploration of Alternatives**: Considered alternative OCR solutions like EasyOCR, Google Cloud Vision, and Amazon Textract for handling multiple languages.
 - **Implementation**: Installed and configured EasyOCR, and developed [[Python]] scripts to process images, extract text, and save results in [[CSV]] format.
 - **[[Integration]]**: Integrated Pytesseract as an alternative OCR tool, ensuring seamless functionality with existing scripts.

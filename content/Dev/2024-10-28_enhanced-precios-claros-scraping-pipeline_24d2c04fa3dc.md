@@ -30,7 +30,7 @@ The session aimed to enhance the Precios Claros scraping pipeline to improve eff
 - Developed a debug-friendly scraping command using Scrapy for efficient [[debugging]] with specific store IDs.
 - Employed `ipdb` for [[debugging]] [[Python]] scripts by inspecting variables and continuing execution.
 - Set up an automated scraper using cloud infrastructure with [[error handling]] and long-term maintenance strategies.
-- Configured a cost-effective server on Google Cloud Platform for running web scrapers, including VM [[configuration]] and scheduling.
+- Configured a cost-effective server on Google Cloud Platform for running web scrapers, including VM configuration and scheduling.
 - Analyzed recent scraping job results and proposed next steps for [[automation]] and [[data management]] enhancements.
 - Automated [[CSV]] management for price data using a [[Python]] script (`consolidar_precios.py`) for efficient consolidation and historical data storage.
 - Optimized daily ETL processes for time-series price data using advanced techniques like Change Data Capture and Delta Encoding.

@@ -29,14 +29,14 @@ The session aimed to develop a structured approach for creating a comprehensive 
 2. **Family Management Analysis**: Developed a diagram detailing the roles, rights, tensions, and conflicts among family members involved in asset management, highlighting the need for role reorganization.
 3. **System Specifications Guide**: Provided instructions for viewing Ubuntu system specifications using both GUI and CLI methods.
 4. **Programming Languages Overview**: Compiled a detailed list of programming languages and their applications for use in resumes and professional profiles.
-5. **Server [[Configuration]] Memo**: Created a memo outlining steps for server access and [[configuration]], including SSH login and user management.
+5. **Server Configuration Memo**: Created a memo outlining steps for server access and configuration, including SSH login and user management.
 
 ### Achievements
 - Completed the technical structure for a family financial report.
 - Clarified family roles and tensions in asset management.
 - Provided a guide for Ubuntu system specifications.
 - Compiled a comprehensive list of programming languages and their applications.
-- Developed a server [[configuration]] guide.
+- Developed a server configuration guide.
 
 ### Pending Tasks
 - Further exploration of role reorganization within family asset management may be needed.

@@ -27,14 +27,14 @@ The primary goal of this session was to integrate economic data into a [[GitHub]
 ### Key Activities
 - **Planning**: Initial session planning focused on integrating a repository of economic data with a [[GitHub]] Pages blog.
 - **Guidance**: Followed a step-by-step guide to integrate interactive charts using tools like Plotly, D3.js, and Chart.js.
-- **[[Configuration]]**: Configured [[GitHub]] Pages, including setting up the `gh-pages` branch and creating a `docs` folder for site [[deployment]].
+- **Configuration**: Configured [[GitHub]] Pages, including setting up the `gh-pages` branch and creating a `docs` folder for site [[deployment]].
 - **[[Automation]]**: Developed scripts for updating data files ([[CSV]]) to ensure the blog's data visualizations remain current.
 - **Conflict Resolution**: Addressed branch conflicts in [[GitHub]] Pages setup and ensured synchronization between local and remote repositories.
 - **Theme Selection**: Evaluated Jekyll themes suitable for hierarchical [[documentation]] to enhance the blog's aesthetic and functional design.
 
 ### Achievements
 - Successfully integrated economic data into [[GitHub]] Pages with interactive visualizations.
-- Established a robust [[GitHub]] Pages [[configuration]], including branch setup and conflict resolution.
+- Established a robust [[GitHub]] Pages configuration, including branch setup and conflict resolution.
 - Selected appropriate Jekyll themes for [[documentation]] and blog enhancement.
 
 ### Pending Tasks

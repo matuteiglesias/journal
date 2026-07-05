@@ -28,7 +28,7 @@ The primary objective of this session was to debug and enhance the debt resoluti
 - **[[Debugging]] `resolve_repayments`:** The session began with [[debugging]] the `resolve_repayments` function, where a verbose version was suggested to trace issues in the repayment allocation process.
 - **Debt Assignment Diagnosis:** A detailed analysis was conducted to identify why the debt assignment script was malfunctioning, pinpointing the absence of opening debt rows in the filtered ledger as a critical issue.
 - **Data Structure Analysis:** The session included diagnosing debt between PM and MI, identifying necessary data structures for effective processing.
-- **Adjusting `build_ledger_base()`:** Adjustments were made to the `build_ledger_base()` function to support internal debt resolution without status filtering, ensuring the integrity of the accounting pipeline.
+- **Adjusting `build_ledger_base()`:** Adjustments were made to the `build_ledger_base()` function to support internal debt resolution without status filtering, ensuring the integrity of the [[accounting]] pipeline.
 - **Loading and Previewing Data:** Multiple [[CSV]] files related to debt management were loaded into [[pandas]] DataFrames, with initial previews conducted to verify data integrity.
 - **Debt [[Data Analysis]]:** A comprehensive script was executed to analyze various aspects of debt data, including open items, allocations, repayments, and reconciliations.
 - **Bug Analysis:** The session concluded with an analysis of a critical bug in the debt allocation engine, focusing on the chronological integrity of repayments.

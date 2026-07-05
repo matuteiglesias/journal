@@ -28,14 +28,14 @@ The goal of this session was to address and resolve various [[integration]] issu
 - **Resolving Import Collision**: Addressed import collision issues when running a FastAPI application alongside a Next.js frontend by reorganizing the project structure.
 - **Setting Up Next.js with FastAPI**: Configured the Next.js frontend to work seamlessly with the FastAPI backend, including the setup of CORS and necessary configurations in `package.[[json]]`.
 - **Fixing npm dev script issue**: Resolved an error related to a missing 'dev' script in the frontend's `package.[[json]]` by adding the script or creating a new `package.[[json]]`.
-- **[[Troubleshooting]] SWR in Next.js**: Provided a checklist for resolving common issues with the SWR package in Next.js, ensuring proper installation and [[configuration]].
-- **Backend and Frontend [[Integration]] Fixes**: Diagnosed and fixed [[integration]] issues such as SWR import errors, [[API]] endpoint mismatches, and CORS [[configuration]].
+- **[[Troubleshooting]] SWR in Next.js**: Provided a checklist for resolving common issues with the SWR package in Next.js, ensuring proper installation and configuration.
+- **Backend and Frontend [[Integration]] Fixes**: Diagnosed and fixed [[integration]] issues such as SWR import errors, [[API]] endpoint mismatches, and CORS configuration.
 - **Frontend and Backend [[Integration]] for Paper Retrieval**: Implemented SWR in the frontend and a [[CSV]] fallback in the backend to ensure a functional UI during backend development.
 - **Chroma Client Error Fix and Code Patch**: Addressed a validation error in the Chroma client call with code patches and testing instructions.
 - **Next.js Frontend Implementation Plan**: Outlined a plan for integrating a Next.js frontend with a Chroma vector store backend, detailing MVP features and setup.
 
 ### Achievements
-- Successfully resolved multiple [[integration]] and [[configuration]] issues between FastAPI and Next.js.
+- Successfully resolved multiple [[integration]] and configuration issues between FastAPI and Next.js.
 - Established a working setup for both frontend and backend with CORS and SWR properly configured.
 - Developed a robust plan for integrating Chroma into the frontend, enhancing the application's capabilities.
 

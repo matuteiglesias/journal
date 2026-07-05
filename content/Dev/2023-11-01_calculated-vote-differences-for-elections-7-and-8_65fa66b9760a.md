@@ -25,16 +25,16 @@ generated: true
 The session aimed to calculate the differences in vote quantities and percentages between elections 7 and 8, focusing on various political groups, vote types, and circuits.
 
 ### Key Activities
-- **Data Preparation**: Adjusted [[DataFrame]] operations to handle numeric columns separately and merged results.
+- **Data Preparation**: Adjusted DataFrame operations to handle numeric columns separately and merged results.
 - **Issue Resolution**: Fixed sorting issues by adjusting the sorting key to ensure proper alignment of election data.
-- **[[Data Analysis]]**: Computed differences in vote quantities and percentages using a structured [[DataFrame]].
+- **[[Data Analysis]]**: Computed differences in vote quantities and percentages using a structured DataFrame.
 - **Code Execution**: Managed a code execution environment reset, re-imported necessary libraries, and reloaded data.
 - **Data Manipulation**: Restructured DataFrames for clarity, added difference columns, and adjusted MultiIndex levels to resolve errors.
 
 ### Achievements
 - Successfully calculated and structured vote differences between elections 7 and 8.
-- Resolved [[DataFrame]] sorting and stacking issues, ensuring accurate data manipulation.
-- Enhanced [[DataFrame]] structure for future analysis by adding MultiIndex levels.
+- Resolved DataFrame sorting and stacking issues, ensuring accurate data manipulation.
+- Enhanced DataFrame structure for future analysis by adding MultiIndex levels.
 
 ### Pending Tasks
 - Ensure all changes are documented for reproducibility in future analyses.

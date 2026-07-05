@@ -32,7 +32,7 @@ The session aimed to install and troubleshoot the JabRef application on a Debian
 ### Achievements
 - Successfully installed JabRef and ensured command recognition.
 - Developed a robust [[Python]] script for [[web scraping]] academic papers, handling pagination and HTML parsing.
-- Resolved several Selenium-related issues, ensuring compatibility and proper [[configuration]].
+- Resolved several Selenium-related issues, ensuring compatibility and proper configuration.
 
 ### Pending Tasks
 - Further refine [[web scraping]] scripts to comply with legal guidelines, especially concerning Google Scholar's terms of service.

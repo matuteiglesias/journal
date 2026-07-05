@@ -26,7 +26,7 @@ The primary goal of this session was to integrate a BERT-based text classificati
 
 ### Key Activities
 - **BERT and Elasticsearch [[Integration]]**: Detailed steps were provided to train a BERT model, set up Elasticsearch, ingest classified data, and perform searches and analytics.
-- **Knowledge Web [[Workflow]]**: A comprehensive [[workflow]] was outlined for creating a knowledge web from URLs, including data collection, processing, entity recognition, categorization, indexing, and [[visualization]].
+- **Knowledge Web [[Workflow]]**: A comprehensive [[workflow]] was outlined for creating a knowledge web from URLs, including data collection, processing, entity recognition, categorization, indexing, and visualization.
 - **[[AI]] Agent for Dataset Labeling**: Implemented an [[AI]] agent using GPT-4 for generating labels for URLs, which were used to fine-tune a BERT model.
 - **URL Classification with OpenAI [[API]]**: Developed a [[Python]] implementation for classifying URLs using the OpenAI [[API]], involving the `URLClassifier` class and its methods.
 - **[[Error Handling]] Enhancements**: Addressed errors in the `URLClassifier` class, including argument errors and handling of null values in input data.

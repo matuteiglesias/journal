@@ -22,19 +22,19 @@ generated: true
 ## Description
 
 **Session Goal:**
-The session aimed to develop and refine [[Python]] scripts to automate the accounting ETL (Extract, Transform, Load) processes and manage artifacts efficiently.
+The session aimed to develop and refine [[Python]] scripts to automate the [[accounting]] ETL (Extract, Transform, Load) processes and manage artifacts efficiently.
 
 **Key Activities:**
-- Addressed queries related to the accounting [[workflow]], focusing on artifact management and naming conventions within [[Python]] scripts.
-- Explored Makefile queries to enhance ETL processes, report assembly, and output management.
+- Addressed queries related to the [[accounting]] [[workflow]], focusing on artifact management and naming conventions within [[Python]] scripts.
+- Explored [[Makefile]] queries to enhance ETL processes, report assembly, and output management.
 - Developed [[Python]] scripts for file existence and size checks, reading file content, and pattern matching using regular expressions.
 - Implemented a script to analyze line counts in files, aiding in code structure and file size analysis.
-- Created functions to extract file names from text using regular expressions and to read Makefile contents in [[Python]].
+- Created functions to extract file names from text using regular expressions and to read [[Makefile]] contents in [[Python]].
 - Conducted keyword frequency analysis in text and implemented a 'grep' context function for pattern searching.
 
 **Achievements:**
-- Successfully developed and tested multiple [[Python]] scripts to enhance the [[automation]] of accounting workflows and ETL processes.
-- Improved understanding of Makefile [[integration]] with [[Python]] for reporting and artifact management.
+- Successfully developed and tested multiple [[Python]] scripts to enhance the [[automation]] of [[accounting]] workflows and ETL processes.
+- Improved understanding of [[Makefile]] [[integration]] with [[Python]] for reporting and artifact management.
 
 **Pending Tasks:**
 - Further validation of ETL live manifests and refining development loops for cleaning and fixture validation.

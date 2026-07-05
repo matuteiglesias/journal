@@ -26,7 +26,7 @@ The session aimed to update and enhance a [[web scraping]] script using Beautifu
 
 ### Key Activities
 - Updated CSS selectors in the BeautifulSoup code to replace `:contains` with `:-soup-contains`, avoiding warnings.
-- Developed a [[Python]] function to scrape researcher and graduate student names into a [[pandas]] [[DataFrame]].
+- Developed a [[Python]] function to scrape researcher and graduate student names into a [[pandas]] DataFrame.
 - Corrected a misspelled header tag in the [[web scraping]] function to ensure accurate data extraction.
 - Addressed encoding issues by specifying character encoding manually in BeautifulSoup.
 - Provided guidance on the correct URL for the Image Processing and Computer Vision Group's webpage.

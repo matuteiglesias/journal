@@ -27,7 +27,7 @@ The session aimed to develop structured approaches for managing projects and tra
 ### Key Activities
 - Discussed the importance of classification, [[documentation]], and incremental testing strategies for projects not set up as [[Git]] repositories.
 - Outlined strategies for converting three systems into quality repositories, focusing on repository maturity, smoke testing protocols, and project-specific strategies.
-- Compiled queries related to [[automation]] scripts, smoke tests, and reporting processes, with a focus on ETL processes using Makefile queries.
+- Compiled queries related to [[automation]] scripts, smoke tests, and reporting processes, with a focus on ETL processes using [[Makefile]] queries.
 - Provided recommendations for project repo structuring, naming conventions, and check-in requirements.
 
 ### Achievements

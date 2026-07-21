@@ -184,6 +184,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     if (preview) {
       removeAllChildren(preview)
     }
+    currentHover = null
     searchLayout.classList.remove("display-results")
     searchType = "basic" // reset search type after closing
     searchButton.focus()
@@ -242,9 +243,14 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
           : (document.activeElement as HTMLInputElement | null)
         const prevResult = currentResult?.previousElementSibling as HTMLInputElement | null
         currentResult?.classList.remove("focus")
-        prevResult?.focus()
-        if (prevResult) currentHover = prevResult
-        await displayPreview(prevResult)
+        if (prevResult) {
+          prevResult.focus()
+          currentHover = prevResult
+          await displayPreview(prevResult)
+        } else {
+          currentHover = null
+          searchBar.focus()
+        }
       }
     } else if (e.key === "ArrowDown" || e.key === "Tab") {
       e.preventDefault()
@@ -256,9 +262,14 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
           : (document.getElementsByClassName("result-card")[0] as HTMLInputElement | null)
         const secondResult = firstResult?.nextElementSibling as HTMLInputElement | null
         firstResult?.classList.remove("focus")
-        secondResult?.focus()
-        if (secondResult) currentHover = secondResult
-        await displayPreview(secondResult)
+        if (secondResult) {
+          secondResult.focus()
+          currentHover = secondResult
+          await displayPreview(secondResult)
+        } else {
+          currentHover = null
+          searchBar.focus()
+        }
       }
     }
   }
@@ -451,8 +462,9 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
-  searchButton.addEventListener("click", () => showSearch("basic"))
-  window.addCleanup(() => searchButton.removeEventListener("click", () => showSearch("basic")))
+  const showBasicSearch = () => showSearch("basic")
+  searchButton.addEventListener("click", showBasicSearch)
+  window.addCleanup(() => searchButton.removeEventListener("click", showBasicSearch))
   searchBar.addEventListener("input", onType)
   window.addCleanup(() => searchBar.removeEventListener("input", onType))
 

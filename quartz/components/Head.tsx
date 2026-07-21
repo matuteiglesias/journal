@@ -1,5 +1,5 @@
 import { i18n } from "../i18n"
-import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
+import { getFileExtension, joinSegments, pathToRoot } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
@@ -25,24 +25,24 @@ export default (() => {
     // Get domain and base path from config
     const domain = "https://journal.matuteiglesias.link" // ✅ include scheme
     const basePath = cfg.baseUrl?.startsWith("/") ? cfg.baseUrl : `/${cfg.baseUrl ?? ""}`
-    
+
     // Resolved path of this page (e.g., "/", "/slug", etc.)
     const pagePath = fileData.slug === "404" ? basePath : joinSegments(basePath, fileData.slug!)
     const canonical = new URL(pagePath, domain) // full canonical URL: domain + path
-    
+
     // Needed for relative paths to static resources
     const baseDir = fileData.slug === "404" ? basePath : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
-    
+
     // Full social sharing URL
     const socialUrl = canonical.toString()
-    
+
     // OG image fallback
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
     )
     const ogImageDefaultPath = new URL("static/og-image.png", canonical).toString()
-      
+
     return (
       <head>
         <title>{title}</title>

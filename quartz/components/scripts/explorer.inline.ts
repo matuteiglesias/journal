@@ -19,6 +19,26 @@ type FolderState = {
   collapsed: boolean
 }
 
+function readSavedExplorerState(): FolderState[] {
+  const storedState = localStorage.getItem("fileTree")
+  if (!storedState) return []
+
+  try {
+    const parsedState: unknown = JSON.parse(storedState)
+    if (!Array.isArray(parsedState)) return []
+
+    return parsedState.filter(
+      (entry): entry is FolderState =>
+        typeof entry === "object" &&
+        entry !== null &&
+        typeof entry.path === "string" &&
+        typeof entry.collapsed === "boolean",
+    )
+  } catch {
+    return []
+  }
+}
+
 let currentExplorerState: Array<FolderState>
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
@@ -166,8 +186,7 @@ async function setupExplorer(currentSlug: FullSlug) {
     }
 
     // Get folder state from local storage
-    const storageTree = localStorage.getItem("fileTree")
-    const serializedExplorerState = storageTree && opts.useSavedState ? JSON.parse(storageTree) : []
+    const serializedExplorerState = opts.useSavedState ? readSavedExplorerState() : []
     const oldIndex = new Map<string, boolean>(
       serializedExplorerState.map((entry: FolderState) => [entry.path, entry.collapsed]),
     )

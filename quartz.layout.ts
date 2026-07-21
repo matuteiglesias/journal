@@ -60,7 +60,9 @@ export const defaultContentPageLayout: PageLayout = {
     // Keep one deterministic native Explorer. Tags are excluded from file navigation.
     Component.Explorer({
       title: "Explorer",
-      folderClickBehavior: "collapse",
+      // Folder titles link to their generated folder page (for example, /Accounting/).
+      // The folder icon continues to control expansion.
+      folderClickBehavior: "link",
       folderDefaultState: "collapsed",
       useSavedState: true,
       filterFn: (node) => node.slugSegment !== "tags",
@@ -92,7 +94,9 @@ export const defaultListPageLayout: PageLayout = {
     // Keep one deterministic native Explorer. Tags are excluded from file navigation.
     Component.Explorer({
       title: "Explorer",
-      folderClickBehavior: "collapse",
+      // Folder titles link to their generated folder page (for example, /Accounting/).
+      // The folder icon continues to control expansion.
+      folderClickBehavior: "link",
       folderDefaultState: "collapsed",
       useSavedState: true,
       filterFn: (node) => node.slugSegment !== "tags",

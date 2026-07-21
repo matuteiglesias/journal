@@ -61,3 +61,43 @@ one native `fileTree` local-storage key; `tags` is intentionally excluded from f
   statically in the generated production output (single Explorer per page layout, one
   `CrawlLinks` transformer, fixed native Search modal, and content index). Interactive browser
   smoke verification remains manual follow-up work.
+
+## Vanilla Quartz baseline and Search diagnosis
+
+- With Vortex removed, the source no longer imports a third-party theme bundle; `custom.scss`
+  contains only the Quartz base import. Site metadata, Quartz theme tokens, Search, Explorer, and
+  the `ContentIndex` emitter remain configured.
+- A clean local production build completed before serving. The generated index was available at
+  `/static/contentIndex.json` and contained representative content, including root and nested
+  pages.
+- Search uses Quartz's native fixed `.search-container` rule. No custom rules target
+  `.search-container`, `.search`, `.modal`, `.autocomplete`, search inputs, or result lists.
+- The Search implementation registers the native Ctrl/Command+K and Ctrl/Command+Shift+K
+  handlers, supports `#` tag queries, and removes its document keydown handler through Quartz's
+  navigation cleanup. The Search button cleanup now uses the same named listener reference for
+  registration and removal. Closing Search now clears its selected-result reference, and keyboard
+  navigation returns to the search field at either end of the result list rather than retaining a
+  stale result after a close or trapping focus at a boundary.
+- No global tag-highlighting keydown listener or `stopImmediatePropagation` call was found in the
+  Quartz/site source. Graph and Escape handlers remain the only other document-level keydown
+  listeners.
+- Browser-level confirmation of click targets, focus traversal, result navigation, Escape focus
+  restoration, SPA navigation, console/network errors, and repeated open/close behavior is still
+  required in an environment with a browser. It was not inferred from static inspection.
+
+## Explorer/sidebar diagnosis
+
+- The single Explorer deliberately excludes only the generated `tags` branch. Root content folders
+  such as `Accounting`, `AI`, `Health`, and `JobMarket`, as well as their nested note pages, are
+  retained by the explicit filter.
+- Folder titles now use Quartz's `link` behavior: `Accounting` navigates to the generated folder
+  page at `/Accounting/`, while the distinct tag page remains `/tags/Accounting`. The folder icon
+  remains the expansion control. This removes the prior ambiguity where clicking the folder title
+  only collapsed it and could make the folder page appear unavailable.
+- Folder display names remain Quartz-native: if a folder has an `index.md`, its title is used; if
+  not, the folder segment is shown. The current-page link uses the native `.active` Explorer
+  styling.
+- Explorer saved state uses one `fileTree` key for the single instance. Invalid JSON and invalid
+  entry shapes fall back to the default state rather than hiding content or aborting navigation.
+- Desktop, tablet, mobile, and SPA-navigation interaction still require browser verification;
+  this environment cannot provide it.

@@ -8,15 +8,14 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Home": "https://main.matuteiglesias.link/",
-      "CV": "https://main.matuteiglesias.link/docs/General/cv",
-      "Projects": "https://main.matuteiglesias.link/docs/General/projects",
-      "Thesis": "https://thesis.matuteiglesias.link/",
-      "GitHub": "https://github.com/matuteiglesias",
+      Home: "https://main.matuteiglesias.link/",
+      CV: "https://main.matuteiglesias.link/docs/General/cv",
+      Projects: "https://main.matuteiglesias.link/docs/General/projects",
+      Thesis: "https://thesis.matuteiglesias.link/",
+      GitHub: "https://github.com/matuteiglesias",
     },
   }),
 }
-
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
@@ -44,8 +43,7 @@ export const defaultContentPageLayout: PageLayout = {
   //   }),
   //   Component.Explorer(),
   // ],
-  
-  
+
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -59,22 +57,15 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode?.() }, // only for defaultContentPageLayout
       ].filter(Boolean), // filter out undefined in case ReaderMode is not available
     }),
-    // This shows all folders and their contents
+    // Keep one deterministic native Explorer. Tags are excluded from file navigation.
     Component.Explorer({
-      title: "Journal Entries",
+      title: "Explorer",
       folderClickBehavior: "collapse",
       folderDefaultState: "collapsed",
       useSavedState: true,
-      filterFn: (node) => node.isFolder || (node.slug?.includes("/") ?? false),
-    }),
-    
-    Component.Explorer({
-      title: "Frequent Keywords",
-      useSavedState: true,
-      filterFn: (node) => !node.isFolder && !(node.slug?.includes("/") ?? false),
+      filterFn: (node) => node.slugSegment !== "tags",
     }),
   ],
-
 
   right: [
     Component.Graph(),
@@ -98,19 +89,13 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    // This shows all folders and their contents
+    // Keep one deterministic native Explorer. Tags are excluded from file navigation.
     Component.Explorer({
-      title: "Journal Entries",
+      title: "Explorer",
       folderClickBehavior: "collapse",
       folderDefaultState: "collapsed",
       useSavedState: true,
-      filterFn: (node) => node.isFolder || (node.slug?.includes("/") ?? false),
-    }),
-    
-    Component.Explorer({
-      title: "Frequent Keywords",
-      useSavedState: true,
-      filterFn: (node) => !node.isFolder && !(node.slug?.includes("/") ?? false),
+      filterFn: (node) => node.slugSegment !== "tags",
     }),
   ],
   right: [],

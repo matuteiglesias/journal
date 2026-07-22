@@ -9,6 +9,8 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
 import { trieFromAllFiles } from "../../util/ctx"
+// @ts-ignore
+import script from "../scripts/listPage.inline"
 
 interface FolderContentOptions {
   /**
@@ -16,12 +18,14 @@ interface FolderContentOptions {
    */
   showFolderCount: boolean
   showSubfolders: boolean
+  numPages: number
   sort?: SortFn
 }
 
 const defaultOptions: FolderContentOptions = {
   showFolderCount: true,
   showSubfolders: true,
+  numPages: 100,
 }
 
 export default ((opts?: Partial<FolderContentOptions>) => {
@@ -114,7 +118,14 @@ export default ((opts?: Partial<FolderContentOptions>) => {
             </p>
           )}
           <div>
-            <PageList {...listProps} />
+            <label>
+              Filter this folder
+              <input class="page-list-filter" type="search" />
+            </label>
+            {allPagesInFolder.length > options.numPages && (
+              <p role="status">Showing the first {options.numPages} pages. Refine with Search.</p>
+            )}
+            <PageList {...listProps} limit={options.numPages} />
           </div>
         </div>
       </div>
@@ -122,5 +133,6 @@ export default ((opts?: Partial<FolderContentOptions>) => {
   }
 
   FolderContent.css = concatenateResources(style, PageList.css)
+  FolderContent.afterDOMLoaded = script
   return FolderContent
 }) satisfies QuartzComponentConstructor

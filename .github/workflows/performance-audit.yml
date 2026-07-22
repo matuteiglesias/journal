@@ -1,0 +1,37 @@
+name: Frontend Performance Audit
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "perf/**"
+      - "scripts/perf-audit.mjs"
+      - "quartz/components/**"
+      - "quartz.config.ts"
+      - "quartz.layout.ts"
+      - "package.json"
+      - "package-lock.json"
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - name: Install Chromium
+        run: sudo apt-get update && sudo apt-get install -y chromium-browser || sudo apt-get install -y chromium
+      - name: Run production-build audit
+        run: npm run perf:audit
+        env:
+          CHROME_BIN: /usr/bin/chromium
+          PERF_OUTPUT: perf-results.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: frontend-performance-audit
+          path: perf-results.json

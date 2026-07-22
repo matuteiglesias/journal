@@ -8,14 +8,18 @@ import { htmlToJsx } from "../../util/jsx"
 import { i18n } from "../../i18n"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
+// @ts-ignore
+import script from "../scripts/listPage.inline"
 
 interface TagContentOptions {
   sort?: SortFn
   numPages: number
+  maxTags: number
 }
 
 const defaultOptions: TagContentOptions = {
-  numPages: 10,
+  numPages: 100,
+  maxTags: 100,
 }
 
 export default ((opts?: Partial<TagContentOptions>) => {
@@ -52,6 +56,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
       for (const tag of tags) {
         tagItemMap.set(tag, allPagesWithTag(tag))
       }
+      const visibleTags = tags.slice(0, options.maxTags)
       return (
         <div class="popover-hint">
           <article class={classes}>
@@ -59,7 +64,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
           </article>
           <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })}</p>
           <div>
-            {tags.map((tag) => {
+            {visibleTags.map((tag) => {
               const pages = tagItemMap.get(tag)!
               const listProps = {
                 ...props,
@@ -105,6 +110,11 @@ export default ((opts?: Partial<TagContentOptions>) => {
               )
             })}
           </div>
+          {tags.length > options.maxTags && (
+            <p role="status">
+              Showing the first {options.maxTags} tags. Use site search to find tags not shown here.
+            </p>
+          )}
         </div>
       )
     } else {
@@ -120,7 +130,14 @@ export default ((opts?: Partial<TagContentOptions>) => {
           <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
             <div>
-              <PageList {...listProps} sort={options?.sort} />
+              <label>
+                Filter this tag
+                <input class="page-list-filter" type="search" />
+              </label>
+              {pages.length > options.numPages && (
+                <p role="status">Showing the first {options.numPages} pages. Refine with Search.</p>
+              )}
+              <PageList limit={options.numPages} {...listProps} sort={options?.sort} />
             </div>
           </div>
         </div>
@@ -129,5 +146,6 @@ export default ((opts?: Partial<TagContentOptions>) => {
   }
 
   TagContent.css = concatenateResources(style, PageList.css)
+  TagContent.afterDOMLoaded = script
   return TagContent
 }) satisfies QuartzComponentConstructor

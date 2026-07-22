@@ -40,6 +40,13 @@ function readSavedExplorerState(): FolderState[] {
 }
 
 let currentExplorerState: Array<FolderState>
+type ExplorerContext = {
+  currentSlug: FullSlug
+  opts: ParsedOptions
+  nodesByPath: Map<FullSlug, FileTrieNode>
+}
+const explorerContexts = new WeakMap<HTMLElement, ExplorerContext>()
+const trieCache = new Map<string, Promise<FileTrieNode>>()
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
@@ -77,6 +84,10 @@ function toggleFolder(evt: MouseEvent) {
   const childFolderContainer = folderContainer.nextElementSibling as MaybeHTMLElement
   if (!childFolderContainer) return
 
+  const explorer = folderContainer.closest(".explorer") as HTMLElement
+  const context = explorerContexts.get(explorer)
+  const folderPath = folderContainer.dataset.folderpath as FullSlug
+
   childFolderContainer.classList.toggle("open")
 
   // Collapse folder container
@@ -97,6 +108,12 @@ function toggleFolder(evt: MouseEvent) {
 
   const stringifiedFileTree = JSON.stringify(currentExplorerState)
   localStorage.setItem("fileTree", stringifiedFileTree)
+
+  if (!isCollapsed && context) {
+    const ul = childFolderContainer.querySelector(".content") as HTMLUListElement
+    const node = context.nodesByPath.get(folderPath)
+    if (ul && node && ul.childElementCount === 0) renderChildren(ul, node, context)
+  }
 }
 
 function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElement {
@@ -119,6 +136,7 @@ function createFolderNode(
   currentSlug: FullSlug,
   node: FileTrieNode,
   opts: ParsedOptions,
+  context: ExplorerContext,
 ): HTMLLIElement {
   const template = document.getElementById("template-folder") as HTMLTemplateElement
   const clone = template.content.cloneNode(true) as DocumentFragment
@@ -160,14 +178,39 @@ function createFolderNode(
     folderOuter.classList.add("open")
   }
 
-  for (const child of node.children) {
-    const childNode = child.isFolder
-      ? createFolderNode(currentSlug, child, opts)
-      : createFileNode(currentSlug, child)
-    ul.appendChild(childNode)
-  }
+  if (folderOuter.classList.contains("open")) renderChildren(ul, node, context)
 
   return li
+}
+
+function renderChildren(ul: HTMLUListElement, node: FileTrieNode, context: ExplorerContext) {
+  const fragment = document.createDocumentFragment()
+  for (const child of node.children) {
+    fragment.appendChild(
+      child.isFolder
+        ? createFolderNode(context.currentSlug, child, context.opts, context)
+        : createFileNode(context.currentSlug, child),
+    )
+  }
+  ul.appendChild(fragment)
+}
+
+function getCachedTrie(cacheKey: string, opts: ParsedOptions): Promise<FileTrieNode> {
+  let trie = trieCache.get(cacheKey)
+  if (!trie) {
+    trie = fetchData().then((data) => {
+      const entries = [...Object.entries(data)] as [FullSlug, ContentDetails][]
+      const result = FileTrieNode.fromEntries(entries)
+      for (const fn of opts.order) {
+        if (fn === "filter" && opts.filterFn) result.filter(opts.filterFn)
+        if (fn === "map" && opts.mapFn) result.map(opts.mapFn)
+        if (fn === "sort" && opts.sortFn) result.sort(opts.sortFn)
+      }
+      return result
+    })
+    trieCache.set(cacheKey, trie)
+  }
+  return trie
 }
 
 async function setupExplorer(currentSlug: FullSlug) {
@@ -191,24 +234,7 @@ async function setupExplorer(currentSlug: FullSlug) {
       serializedExplorerState.map((entry: FolderState) => [entry.path, entry.collapsed]),
     )
 
-    const data = await fetchData
-    const entries = [...Object.entries(data)] as [FullSlug, ContentDetails][]
-    const trie = FileTrieNode.fromEntries(entries)
-
-    // Apply functions in order
-    for (const fn of opts.order) {
-      switch (fn) {
-        case "filter":
-          if (opts.filterFn) trie.filter(opts.filterFn)
-          break
-        case "map":
-          if (opts.mapFn) trie.map(opts.mapFn)
-          break
-        case "sort":
-          if (opts.sortFn) trie.sort(opts.sortFn)
-          break
-      }
-    }
+    const trie = await getCachedTrie(explorer.dataset.dataFns || "", opts)
 
     // Get folder paths for state management
     const folderPaths = trie.getFolderPaths()
@@ -221,19 +247,18 @@ async function setupExplorer(currentSlug: FullSlug) {
       }
     })
 
-    const explorerUl = explorer.querySelector(".explorer-ul")
+    const explorerUl = explorer.querySelector(".explorer-ul") as HTMLUListElement | null
     if (!explorerUl) continue
 
-    // Create and insert new content
-    const fragment = document.createDocumentFragment()
-    for (const child of trie.children) {
-      const node = child.isFolder
-        ? createFolderNode(currentSlug, child, opts)
-        : createFileNode(currentSlug, child)
-
-      fragment.appendChild(node)
+    const context: ExplorerContext = {
+      currentSlug,
+      opts,
+      nodesByPath: new Map(trie.entries()),
     }
-    explorerUl.insertBefore(fragment, explorerUl.firstChild)
+    explorerContexts.set(explorer, context)
+
+    // Create and insert new content
+    renderChildren(explorerUl, trie, context)
 
     // restore explorer scrollTop position if it exists
     const scrollTop = sessionStorage.getItem("explorerScrollTop")
@@ -256,24 +281,14 @@ async function setupExplorer(currentSlug: FullSlug) {
       window.addCleanup(() => button.removeEventListener("click", toggleExplorer))
     }
 
-    // Set up folder click handlers
-    if (opts.folderClickBehavior === "collapse") {
-      const folderButtons = explorer.getElementsByClassName(
-        "folder-button",
-      ) as HTMLCollectionOf<HTMLElement>
-      for (const button of folderButtons) {
-        button.addEventListener("click", toggleFolder)
-        window.addCleanup(() => button.removeEventListener("click", toggleFolder))
-      }
+    const onFolderClick = (event: MouseEvent) => {
+      const target = event.target as Element | null
+      const icon = target?.closest(".folder-icon")
+      const button = target?.closest(".folder-button")
+      if (icon || (opts.folderClickBehavior === "collapse" && button)) toggleFolder(event)
     }
-
-    const folderIcons = explorer.getElementsByClassName(
-      "folder-icon",
-    ) as HTMLCollectionOf<HTMLElement>
-    for (const icon of folderIcons) {
-      icon.addEventListener("click", toggleFolder)
-      window.addCleanup(() => icon.removeEventListener("click", toggleFolder))
-    }
+    explorer.addEventListener("click", onFolderClick)
+    window.addCleanup(() => explorer.removeEventListener("click", onFolderClick))
   }
 }
 

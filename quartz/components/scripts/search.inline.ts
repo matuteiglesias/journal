@@ -44,6 +44,9 @@ const fetchContentCache: Map<FullSlug, Element[]> = new Map()
 const contextWindowWords = 30
 const numSearchResults = 8
 const numTagResults = 5
+const maxTagQueryResults = 100
+const maxPreviewCacheEntries = 20
+const inputDebounceMs = 150
 
 const tokenizeTerm = (term: string) => {
   const tokens = term.split(/\s+/).filter((t) => t.trim() !== "")
@@ -143,7 +146,7 @@ function highlightHTML(searchTerm: string, el: HTMLElement) {
   return html.body
 }
 
-async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: ContentIndex) {
+async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
   const container = searchElement.querySelector(".search-container") as HTMLElement
   if (!container) return
 
@@ -158,7 +161,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   const searchLayout = searchElement.querySelector(".search-layout") as HTMLElement
   if (!searchLayout) return
 
-  const idDataMap = Object.keys(data) as FullSlug[]
+  let data: ContentIndex | undefined
+  let idDataMap: FullSlug[] = []
   const appendLayout = (el: HTMLElement) => {
     searchLayout.appendChild(el)
   }
@@ -166,6 +170,9 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   const enablePreview = searchLayout.dataset.preview === "true"
   let preview: HTMLDivElement | undefined = undefined
   let previewInner: HTMLDivElement | undefined = undefined
+  let previewController: AbortController | undefined
+  let searchSequence = 0
+  let inputDebounce: ReturnType<typeof setTimeout> | undefined
   const results = document.createElement("div")
   results.className = "results-container"
   appendLayout(results)
@@ -177,6 +184,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   }
 
   function hideSearch() {
+    previewController?.abort()
+    if (inputDebounce) clearTimeout(inputDebounce)
     container.classList.remove("active")
     searchBar.value = "" // clear the input when we dismiss the search
     if (sidebar) sidebar.style.zIndex = ""
@@ -190,11 +199,17 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     searchButton.focus()
   }
 
-  function showSearch(searchTypeNew: SearchType) {
+  async function showSearch(searchTypeNew: SearchType) {
     searchType = searchTypeNew
     if (sidebar) sidebar.style.zIndex = "1"
     container.classList.add("active")
     searchBar.focus()
+    searchBar.setAttribute("aria-busy", "true")
+    searchBar.placeholder = "Loading search index…"
+    data = await getSearchData()
+    idDataMap = Object.keys(data) as FullSlug[]
+    searchBar.removeAttribute("aria-busy")
+    searchBar.placeholder = "Search for something"
   }
 
   let currentHover: HTMLInputElement | null = null
@@ -202,13 +217,13 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     if (e.key === "k" && (e.ctrlKey || e.metaKey) && !e.shiftKey) {
       e.preventDefault()
       const searchBarOpen = container.classList.contains("active")
-      searchBarOpen ? hideSearch() : showSearch("basic")
+      searchBarOpen ? hideSearch() : await showSearch("basic")
       return
     } else if (e.shiftKey && (e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "k") {
       // Hotkey to open tag search
       e.preventDefault()
       const searchBarOpen = container.classList.contains("active")
-      searchBarOpen ? hideSearch() : showSearch("tags")
+      searchBarOpen ? hideSearch() : await showSearch("tags")
 
       // add "#" prefix for tag search
       searchBar.value = "#"
@@ -275,6 +290,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   }
 
   const formatForDisplay = (term: string, id: number) => {
+    if (!data) throw new Error("Search index is not ready")
     const slug = idDataMap[id]
     return {
       id,
@@ -363,13 +379,17 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     }
   }
 
-  async function fetchContent(slug: FullSlug): Promise<Element[]> {
-    if (fetchContentCache.has(slug)) {
-      return fetchContentCache.get(slug) as Element[]
+  async function fetchContent(slug: FullSlug, signal: AbortSignal): Promise<Element[]> {
+    const cached = fetchContentCache.get(slug)
+    if (cached) {
+      // Refresh the LRU position without retaining an unbounded preview history.
+      fetchContentCache.delete(slug)
+      fetchContentCache.set(slug, cached)
+      return cached
     }
 
     const targetUrl = resolveUrl(slug).toString()
-    const contents = await fetch(targetUrl)
+    const contents = await fetch(targetUrl, { signal })
       .then((res) => res.text())
       .then((contents) => {
         if (contents === undefined) {
@@ -380,16 +400,31 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
         return [...html.getElementsByClassName("popover-hint")]
       })
 
+    if (signal.aborted) return []
     fetchContentCache.set(slug, contents)
+    if (fetchContentCache.size > maxPreviewCacheEntries) {
+      const oldest = fetchContentCache.keys().next().value as FullSlug
+      fetchContentCache.delete(oldest)
+    }
     return contents
   }
 
   async function displayPreview(el: HTMLElement | null) {
     if (!searchLayout || !enablePreview || !el || !preview) return
+    previewController?.abort()
+    const controller = new AbortController()
+    previewController = controller
     const slug = el.id as FullSlug
-    const innerDiv = await fetchContent(slug).then((contents) =>
-      contents.flatMap((el) => [...highlightHTML(currentSearchTerm, el as HTMLElement).children]),
-    )
+    let innerDiv: Element[]
+    try {
+      innerDiv = await fetchContent(slug, controller.signal).then((contents) =>
+        contents.flatMap((el) => [...highlightHTML(currentSearchTerm, el as HTMLElement).children]),
+      )
+    } catch (error) {
+      if ((error as DOMException).name === "AbortError") return
+      throw error
+    }
+    if (controller.signal.aborted || previewController !== controller) return
     previewInner = document.createElement("div")
     previewInner.classList.add("preview-inner")
     previewInner.append(...innerDiv)
@@ -402,9 +437,10 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     highlights[0]?.scrollIntoView({ block: "start" })
   }
 
-  async function onType(e: HTMLElementEventMap["input"]) {
-    if (!searchLayout || !index) return
-    currentSearchTerm = (e.target as HTMLInputElement).value
+  async function onType() {
+    if (!searchLayout || !index || !data) return
+    const sequence = searchSequence
+    currentSearchTerm = searchBar.value
     searchLayout.classList.toggle("display-results", currentSearchTerm !== "")
     searchType = currentSearchTerm.startsWith("#") ? "tags" : "basic"
 
@@ -418,8 +454,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
         const query = currentSearchTerm.substring(separatorIndex + 1).trim()
         searchResults = await index.searchAsync({
           query: query,
-          // return at least 10000 documents, so it is enough to filter them by tag (implemented in flexsearch)
-          limit: Math.max(numSearchResults, 10000),
+          limit: maxTagQueryResults,
           index: ["title", "content"],
           tag: tag,
         })
@@ -445,6 +480,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       })
     }
 
+    if (sequence !== searchSequence) return
+
     const getByField = (field: string): number[] => {
       const results = searchResults.filter((x) => x.field === field)
       return results.length === 0 ? [] : ([...results[0].result] as number[])
@@ -462,14 +499,22 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
-  const showBasicSearch = () => showSearch("basic")
+  const showBasicSearch = () => void showSearch("basic")
   searchButton.addEventListener("click", showBasicSearch)
   window.addCleanup(() => searchButton.removeEventListener("click", showBasicSearch))
-  searchBar.addEventListener("input", onType)
-  window.addCleanup(() => searchBar.removeEventListener("input", onType))
+  const onSearchInput = () => {
+    searchSequence++
+    previewController?.abort()
+    if (inputDebounce) clearTimeout(inputDebounce)
+    inputDebounce = setTimeout(() => void onType(), inputDebounceMs)
+  }
+  searchBar.addEventListener("input", onSearchInput)
+  window.addCleanup(() => {
+    if (inputDebounce) clearTimeout(inputDebounce)
+    searchBar.removeEventListener("input", onSearchInput)
+  })
 
   registerEscapeHandler(container, hideSearch)
-  await fillDocument(data)
 }
 
 /**
@@ -478,6 +523,14 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
  * @param data data to fill index with
  */
 let indexPopulated = false
+let searchDataPromise: Promise<ContentIndex> | undefined
+async function getSearchData(): Promise<ContentIndex> {
+  searchDataPromise ??= fetchData().then(async (data: ContentIndex) => {
+    await fillDocument(data)
+    return data
+  })
+  return await searchDataPromise
+}
 async function fillDocument(data: ContentIndex) {
   if (indexPopulated) return
   let id = 0
@@ -500,9 +553,8 @@ async function fillDocument(data: ContentIndex) {
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
-  const data = await fetchData
   const searchElement = document.getElementsByClassName("search")
   for (const element of searchElement) {
-    await setupSearch(element, currentSlug, data)
+    await setupSearch(element, currentSlug)
   }
 })

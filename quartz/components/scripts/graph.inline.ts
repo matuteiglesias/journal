@@ -109,18 +109,21 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     opacityScale,
     removeTags,
     showTags,
+    maxNodes: configuredMaxNodes,
+    maxEdges: configuredMaxEdges,
     focusOnHover,
     enableRadial,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
-    Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
+    Object.entries<ContentDetails>(await fetchData()).map(([k, v]) => [
       simplifySlug(k as FullSlug),
       v,
     ]),
   )
   const links: SimpleLinkData[] = []
   const tags: SimpleSlug[] = []
+  const adjacency = new Map<SimpleSlug, Set<SimpleSlug>>()
   const validLinks = new Set(data.keys())
 
   const tweens = new Map<string, TweenNode>()
@@ -146,25 +149,36 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
   }
 
+  for (const { source, target } of links) {
+    adjacency.get(source)?.add(target) ?? adjacency.set(source, new Set([target]))
+    adjacency.get(target)?.add(source) ?? adjacency.set(target, new Set([source]))
+  }
+
+  const mobile = window.matchMedia("(max-width: 800px)").matches
+  const maxNodes = mobile ? Math.min(configuredMaxNodes, 150) : configuredMaxNodes
+  const maxEdges = mobile ? Math.min(configuredMaxEdges, 250) : configuredMaxEdges
+  const degree = (node: SimpleSlug) => adjacency.get(node)?.size ?? 0
+
   const neighbourhood = new Set<SimpleSlug>()
-  const wl: (SimpleSlug | "__SENTINEL")[] = [slug, "__SENTINEL"]
+  const wl: [SimpleSlug, number][] = [[slug, 0]]
   if (depth >= 0) {
-    while (depth >= 0 && wl.length > 0) {
-      // compute neighbours
-      const cur = wl.shift()!
-      if (cur === "__SENTINEL") {
-        depth--
-        wl.push("__SENTINEL")
-      } else {
-        neighbourhood.add(cur)
-        const outgoing = links.filter((l) => l.source === cur)
-        const incoming = links.filter((l) => l.target === cur)
-        wl.push(...outgoing.map((l) => l.target), ...incoming.map((l) => l.source))
+    while (wl.length > 0 && neighbourhood.size < maxNodes) {
+      const [cur, currentDepth] = wl.shift()!
+      if (neighbourhood.has(cur)) continue
+      neighbourhood.add(cur)
+      if (currentDepth >= depth) continue
+      const neighbours = [...(adjacency.get(cur) ?? [])].sort(
+        (a, b) => degree(b) - degree(a) || a.localeCompare(b),
+      )
+      for (const neighbour of neighbours) {
+        if (!neighbourhood.has(neighbour)) wl.push([neighbour, currentDepth + 1])
       }
     }
   } else {
-    validLinks.forEach((id) => neighbourhood.add(id))
-    if (showTags) tags.forEach((tag) => neighbourhood.add(tag))
+    ;[...validLinks, ...(showTags ? tags : [])]
+      .sort((a, b) => degree(b) - degree(a) || a.localeCompare(b))
+      .slice(0, maxNodes)
+      .forEach((id) => neighbourhood.add(id))
   }
 
   const nodes = [...neighbourhood].map((url) => {
@@ -175,14 +189,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       tags: data.get(url)?.tags ?? [],
     }
   })
+  const nodesById = new Map(nodes.map((node) => [node.id, node]))
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
     nodes,
     links: links
       .filter((l) => neighbourhood.has(l.source) && neighbourhood.has(l.target))
-      .map((l) => ({
-        source: nodes.find((n) => n.id === l.source)!,
-        target: nodes.find((n) => n.id === l.target)!,
-      })),
+      .sort((a, b) => a.source.localeCompare(b.source) || a.target.localeCompare(b.target))
+      .slice(0, maxEdges)
+      .map((l) => ({ source: nodesById.get(l.source)!, target: nodesById.get(l.target)! })),
   }
 
   const width = graph.offsetWidth
@@ -368,6 +382,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     renderNodes()
     renderLinks()
     renderLabels()
+    scheduleRender()
   }
 
   tweens.forEach((tween) => tween.stop())
@@ -520,7 +535,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       })
     }
   }
-  const baseNodeScale = 2  // constant multiplier
+  const baseNodeScale = 2 // constant multiplier
   if (enableZoom) {
     select<HTMLCanvasElement, NodeData>(app.canvas).call(
       zoom<HTMLCanvasElement, NodeData>()
@@ -532,7 +547,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         .on("zoom", ({ transform }) => {
           //currentTransform = transform
           //stage.scale.set(transform.k, transform.k)
-          
+
           currentTransform = transform
 
           const dampenedK = 0.3 + 0.6 * transform.k
@@ -540,13 +555,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
           stage.scale.set(scaledK, scaledK)
           stage.position.set(transform.x, transform.y)
-        
-	  //stage.scale.set(dampenedK, dampenedK)
+
+          //stage.scale.set(dampenedK, dampenedK)
           //stage.position.set(transform.x, transform.y)
 
           // zoom adjusts opacity of labels too
           const scale = transform.k * opacityScale
-          
+
           let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
           const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
 
@@ -555,13 +570,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
               label.alpha = scaleOpacity
             }
           }
+          scheduleRender()
         }),
     )
   }
 
-  let stopAnimation = false
-  function animate(time: number) {
-    if (stopAnimation) return
+  let stopped = false
+  let frameRequested = false
+  function renderFrame(time: number) {
+    frameRequested = false
+    if (stopped) return
     for (const n of nodeRenderData) {
       const { x, y } = n.simulationData
       if (!x || !y) continue
@@ -582,12 +600,21 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     tweens.forEach((t) => t.update(time))
     app.renderer.render(stage)
-    requestAnimationFrame(animate)
   }
 
-  requestAnimationFrame(animate)
+  function scheduleRender() {
+    if (!stopped && !frameRequested) {
+      frameRequested = true
+      requestAnimationFrame(renderFrame)
+    }
+  }
+
+  simulation.on("tick", scheduleRender)
+  simulation.on("end", scheduleRender)
+  scheduleRender()
   return () => {
-    stopAnimation = true
+    stopped = true
+    simulation.stop()
     app.destroy()
   }
 }
@@ -621,13 +648,25 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }
   }
 
-  await renderLocalGraph()
+  const localGraphContainers = [
+    ...document.getElementsByClassName("graph-container"),
+  ] as HTMLElement[]
+  const observer = new IntersectionObserver(
+    (entries) => {
+      if (!entries.some((entry) => entry.isIntersecting)) return
+      observer.disconnect()
+      void renderLocalGraph()
+    },
+    { rootMargin: "200px" },
+  )
+  localGraphContainers.forEach((container) => observer.observe(container))
   const handleThemeChange = () => {
-    void renderLocalGraph()
+    if (localGraphCleanups.length > 0) void renderLocalGraph()
   }
 
   document.addEventListener("themechange", handleThemeChange)
   window.addCleanup(() => {
+    observer.disconnect()
     document.removeEventListener("themechange", handleThemeChange)
   })
 

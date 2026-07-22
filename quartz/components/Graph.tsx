@@ -17,6 +17,8 @@ export interface D3Config {
   opacityScale: number
   removeTags: string[]
   showTags: boolean
+  maxNodes: number
+  maxEdges: number
   focusOnHover?: boolean
   enableRadial?: boolean
 }
@@ -37,7 +39,9 @@ const defaultOptions: GraphOptions = {
     linkDistance: 10,
     fontSize: 1.2,
     opacityScale: 1,
-    showTags: true,
+    showTags: false,
+    maxNodes: 300,
+    maxEdges: 500,
     removeTags: [],
     focusOnHover: true,
     enableRadial: false,
@@ -52,7 +56,9 @@ const defaultOptions: GraphOptions = {
     linkDistance: 50,
     fontSize: 0.5,
     opacityScale: 1,
-    showTags: true,
+    showTags: false,
+    maxNodes: 300,
+    maxEdges: 500,
     removeTags: [],
     focusOnHover: true,
     enableRadial: true,

@@ -23,8 +23,8 @@
     "perf:check": "node scripts/perf-audit.mjs --assert"
   },
   "engines": {
-    "npm": ">=10.9.2",
-    "node": ">=22"
+    "npm": ">=10.9.2 <11",
+    "node": "22.x"
   },
   "keywords": [
     "site generator",

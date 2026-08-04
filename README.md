@@ -73,14 +73,16 @@ The large Quartz framework surface is supporting infrastructure. The distinctive
 
 Requirements declared by the repository:
 
-- Node.js 22 or newer;
-- npm 10.9.2 or newer.
+- Node.js 22.x (also recorded in `.nvmrc`);
+- npm 10.x, version 10.9.2 or newer.
 
-Install dependencies:
+Install the exact committed dependency graph:
 
 ```bash
-npm install
+npm ci
 ```
+
+Use `npm install` only when intentionally changing dependencies and updating the lockfile.
 
 Build the journal:
 
@@ -119,6 +121,8 @@ Do not use the public repository as the first capture location for sensitive raw
 ## Deployment status
 
 `quartz.config.ts` currently uses `/` as its base URL and contains a commented journal-domain value. This README therefore does not assert a specific live deployment. Verify the actual hosting target and publication workflow before changing canonical URLs or deployment instructions.
+
+The GitHub Pages workflow uses the Node major pinned in `.nvmrc` and installs only with `npm ci`; a lockfile mismatch blocks publication instead of falling back to a mutable dependency resolution.
 
 ## Upstream framework
 

@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
   pull_request:
     paths:
+      - ".github/workflows/performance-audit.yml"
       - "perf/**"
       - "scripts/perf-audit.mjs"
       - "quartz/components/**"
@@ -19,17 +20,23 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 22
           cache: npm
       - run: npm ci
       - run: npm run build
-      - name: Install Chromium
-        run: sudo apt-get update && sudo apt-get install -y chromium-browser || sudo apt-get install -y chromium
-      - name: Run production-build audit
-        run: npm run perf:audit
+      - name: Install and locate Chromium
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser || sudo apt-get install -y chromium
+          CHROME_BIN="$(command -v chromium || command -v chromium-browser)"
+          test -x "$CHROME_BIN"
+          "$CHROME_BIN" --version
+          echo "CHROME_BIN=$CHROME_BIN" >> "$GITHUB_ENV"
+      - name: Enforce production performance budgets
+        run: npm run perf:check
         env:
-          CHROME_BIN: /usr/bin/chromium
           PERF_OUTPUT: perf-results.json
+          PERF_PATHS: "/,/Dev/,/tags/Python.html"
       - uses: actions/upload-artifact@v4
         if: always()
         with:

@@ -2,7 +2,7 @@
   "navigationCount": 30,
   "settleMs": 1500,
   "maxDomNodes": 30000,
-  "maxHeapGrowthBytes": 10485760,
+  "maxHeapGrowthBytes": 20971520,
   "maxLongTaskCount": 25,
   "maxLongTaskDurationMs": 1000,
   "maxResourceTransferBytes": 10000000

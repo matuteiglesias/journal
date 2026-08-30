@@ -17,8 +17,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    // baseUrl: "journal.matuteiglesias.link",
-    baseUrl: "/", // or "/subpath" if on a subdomain or subfolder
+    baseUrl: "journal.matuteiglesias.link",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

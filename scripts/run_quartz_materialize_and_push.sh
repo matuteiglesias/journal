@@ -24,8 +24,22 @@ PUBLIC_DIRS=(
   month_journals
 )
 
-# Force the intended Node/npm toolchain for Quartz
-export PATH="$HOME/.n/bin:/usr/local/bin:/usr/bin:/bin"
+# Quartz 4.5.1 declares Node 22 and npm <11. Pin the actor rather than
+# depending on whichever version happens to be active in ~/.n/bin.
+NODE_BIN="${NODE_BIN:-$HOME/.n/n/versions/node/22.23.2/bin}"
+if [[ ! -x "$NODE_BIN/node" || ! -x "$NODE_BIN/npm" ]]; then
+  echo "ERROR: required Quartz Node toolchain missing at $NODE_BIN" >&2
+  exit 2
+fi
+export PATH="$NODE_BIN:/usr/local/bin:/usr/bin:/bin"
+if [[ "$(node -p 'process.versions.node.split(".")[0]')" != "22" ]]; then
+  echo "ERROR: Quartz requires Node 22" >&2
+  exit 2
+fi
+if [[ "$(npm -v | cut -d. -f1)" != "10" ]]; then
+  echo "ERROR: Quartz requires npm 10" >&2
+  exit 2
+fi
 
 cd "$REPO_DIR"
 

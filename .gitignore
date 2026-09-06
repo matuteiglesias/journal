@@ -13,3 +13,8 @@ replit.nix
 .vercel
 public/
 content_bkp
+.env*.local
+# Local materialization scratch. The canonical seeded root page is versioned.
+content_generated/
+content_/*
+!content_/index.md

@@ -115,6 +115,21 @@ const instrumentation = `(() => {
   new PerformanceObserver((list) => window.__perfAudit.longTasks.push(...list.getEntries().map(({ startTime, duration }) => ({ startTime, duration })))).observe({ type: "longtask", buffered: true });
 })();`
 
+async function stopBrowser(browser) {
+  if (!browser) return
+  if (browser.child.exitCode === null) {
+    const exited = once(browser.child, "exit")
+    browser.child.kill()
+    await exited
+  }
+  await rm(browser.userDataDir, {
+    recursive: true,
+    force: true,
+    maxRetries: 3,
+    retryDelay: 100,
+  })
+}
+
 async function launchBrowser() {
   const userDataDir = await mkdtemp(join(tmpdir(), "journal-perf-audit-"))
   const child = spawn(
@@ -143,8 +158,7 @@ async function launchBrowser() {
     }
     throw new Error(`Timed out waiting for Chromium CDP endpoint: ${stderr}`)
   } catch (error) {
-    child.kill()
-    await rm(userDataDir, { recursive: true, force: true })
+    await stopBrowser({ child, userDataDir })
     throw error
   }
 }
@@ -255,8 +269,7 @@ async function main() {
     }
   } finally {
     cdp?.close()
-    browser?.child.kill()
-    if (browser?.userDataDir) await rm(browser.userDataDir, { recursive: true, force: true })
+    await stopBrowser(browser)
     server.close()
   }
 }

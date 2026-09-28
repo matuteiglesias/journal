@@ -5,10 +5,11 @@
  * it without adding Playwright/Puppeteer to the application dependency graph.
  */
 import { createServer } from "node:http"
-import { readFile, stat } from "node:fs/promises"
+import { mkdtemp, readFile, rm, stat } from "node:fs/promises"
 import { spawn } from "node:child_process"
 import { once } from "node:events"
-import { resolve, extname, normalize } from "node:path"
+import { tmpdir } from "node:os"
+import { join, resolve, extname, normalize } from "node:path"
 import WebSocket from "ws"
 
 const root = resolve(process.env.PERF_PUBLIC_DIR ?? "public")
@@ -115,24 +116,37 @@ const instrumentation = `(() => {
 })();`
 
 async function launchBrowser() {
+  const userDataDir = await mkdtemp(join(tmpdir(), "journal-perf-audit-"))
   const child = spawn(
     chrome,
-    ["--headless=new", "--no-sandbox", "--disable-gpu", "--remote-debugging-port=0", "about:blank"],
+    [
+      "--headless=new",
+      "--no-sandbox",
+      "--disable-gpu",
+      "--remote-debugging-port=0",
+      `--user-data-dir=${userDataDir}`,
+      "about:blank",
+    ],
     { stdio: ["ignore", "ignore", "pipe"] },
   )
   let stderr = ""
   child.stderr.on("data", (data) => {
     stderr += data.toString()
   })
-  const deadline = Date.now() + 15000
-  while (Date.now() < deadline) {
-    const match = stderr.match(/DevTools listening on (ws:\/\/[^\s]+)/)
-    if (match) return { child, endpoint: match[1] }
-    if (child.exitCode !== null) throw new Error(`Chromium exited early: ${stderr}`)
-    await new Promise((resolve) => setTimeout(resolve, 50))
+  try {
+    const deadline = Date.now() + 15000
+    while (Date.now() < deadline) {
+      const match = stderr.match(/DevTools listening on (ws:\/\/[^\s]+)/)
+      if (match) return { child, endpoint: match[1], userDataDir }
+      if (child.exitCode !== null) throw new Error(`Chromium exited early: ${stderr}`)
+      await new Promise((resolve) => setTimeout(resolve, 50))
+    }
+    throw new Error(`Timed out waiting for Chromium CDP endpoint: ${stderr}`)
+  } catch (error) {
+    child.kill()
+    await rm(userDataDir, { recursive: true, force: true })
+    throw error
   }
-  child.kill()
-  throw new Error(`Timed out waiting for Chromium CDP endpoint: ${stderr}`)
 }
 
 async function sample(cdp, label) {
@@ -242,6 +256,7 @@ async function main() {
   } finally {
     cdp?.close()
     browser?.child.kill()
+    if (browser?.userDataDir) await rm(browser.userDataDir, { recursive: true, force: true })
     server.close()
   }
 }
